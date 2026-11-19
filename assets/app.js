@@ -16,7 +16,7 @@
     );
   const link = (url, label) =>
     /^https?:\/\//.test(url || "")
-      ? `<a href="${esc(url)}" target="_blank" rel="noopener noreferrer">${esc(label)}</a>`
+      ? `<a href="${esc(url)}" target="_blank" rel="noopener noreferrer">${esc(label)}<span class="external-icon" aria-hidden="true"></span><span class="visually-hidden">（新しいタブで開く）</span></a>`
       : "";
   const count = (n) => n.toLocaleString("ja-JP");
   const norm = (text) =>
@@ -55,7 +55,7 @@
     `<div class="empty"><strong>この条件に一致する資料はありません。</strong><p>${esc(text)}</p></div>`;
   const section = (heading, text, action = "") => {
     get("intro").innerHTML =
-      `<div class="intro"><div><h2>${esc(heading)}</h2><p>${esc(text)}</p></div>${action ? '<div class="intro-link">' + action + "</div>" : ""}</div>`;
+      `<div class="intro"><div><h1>${esc(heading)}</h1><p>${esc(text)}</p></div>${action ? '<div class="intro-link">' + action + "</div>" : ""}</div>`;
   };
   const allPlaces = D.areas.map((a) => a.name);
   const records = [];
@@ -187,18 +187,47 @@
     const options = items.map((x) => (Array.isArray(x) ? x : [x, x]));
     return `<label>${esc(label)}<select data-filter="${k}"><option value="">${esc(all)}</option>${options.map(([v, t]) => `<option value="${esc(v)}"${state[k] === v ? " selected" : ""}>${esc(t)}</option>`).join("")}</select></label>`;
   }
-  const searchField = (placeholder = "氏名・議題・キーワード") =>
-    `<label class="search-field">キーワード<input type="search" data-filter="q" value="${esc(state.q || "")}" placeholder="${esc(placeholder)}" autocomplete="off"></label>`;
-  function filters(fields, topics = []) {
+  const searchField = (hint) =>
+    `<label for="query">キーワード</label><div class="search-row"><input id="query" type="search" name="q" data-filter="q" value="${esc(state.q || "")}" aria-describedby="query-hint"><button type="submit" class="primary"><span class="glass" aria-hidden="true"></span>検索</button></div><p class="hint" id="query-hint">${esc(hint)}</p>`;
+  const smallScreen = window.matchMedia("(max-width: 48rem)");
+  let filtersExpanded = null;
+  function filters([search, ...fields], topics = []) {
+    const open =
+      filtersExpanded ??
+      (!smallScreen.matches ||
+        Object.entries(state).some(
+          ([k, v]) => !["q", "a", "b", "name"].includes(k) && v,
+        ));
     get("controls").innerHTML =
-      `<div class="filters">${fields.join("")}<button type="button" class="clear" data-reset>条件を解除</button></div>` +
-      (topics.length
-        ? `<div class="topics" aria-label="テーマで検索">${topics.map((t) => `<button class="topic-button" type="button" data-topic="${esc(t)}" aria-pressed="${state.q === t}">${esc(t)}</button>`).join("")}</div>`
-        : "");
+      `<form class="filters" role="search" aria-label="表示中の資料を検索"><div class="keyword">${search}</div>
+      ${topics.length ? `<div class="topics" role="group" aria-label="テーマで検索"><span>テーマ</span>${topics.map((t) => `<button class="topic-button" type="button" data-topic="${esc(t)}" aria-pressed="${state.q === t}">${esc(t)}</button>`).join("")}</div>` : ""}
+      <details class="refine" ${open ? "open" : ""}><summary>条件で絞り込む<span class="filter-count"></span></summary><div class="refine-grid">${fields.join("")}</div></details>
+      <div class="filter-state" id="filter-state" hidden><span></span><button type="button" class="clear" data-reset>条件をすべて解除</button></div></form>`;
+    updateFilterState();
+  }
+  function updateFilterState() {
+    const panel = get("filter-state");
+    if (!panel) return;
+    const selected = [
+      ...get("controls").querySelectorAll("select[data-filter]"),
+    ].filter((field) => field.value);
+    const conditions = selected.map(
+      (field) => field.selectedOptions[0].textContent,
+    );
+    if (state.q) conditions.unshift("「" + state.q + "」");
+    if (state.name) conditions.unshift(state.name);
+    panel.hidden = !conditions.length && !state.a && !state.b;
+    panel.querySelector("span").textContent = conditions.length
+      ? "適用中　" + conditions.join("・")
+      : "議員を比較中";
+    get("controls").querySelector(".filter-count").textContent = selected.length
+      ? "（" + selected.length + "件適用中）"
+      : "";
   }
   function results(html, status = "") {
     get("results").innerHTML = html;
     get("feedback").textContent = status;
+    get("results-heading").hidden = page === "method";
   }
   function partial(list, draw, cls = "list", n = limit) {
     const items = list.slice(0, n);
@@ -262,27 +291,16 @@
       if (visible.length) list.push({ ...g, visible });
     }
     const n = list.reduce((a, g) => a + g.visible.length, 0);
-    const picked = !Object.values(state).some(Boolean)
-      ? D.cases.filter((c) =>
-          [
-            "手話言語条例は誰が案を練り、誰が提出したか",
-            "かすかべ夢の森公園の遊具が使えるまで",
-          ].includes(c.title),
-        )
-      : [];
-    const featured = picked.length
-      ? `<aside class="feature-pair" aria-label="取り組みの経過の例">${picked.map((c) => `<a href="${esc(routeLink("cases", { place: c.place, q: c.title }))}"><span class="small">${esc(c.place)}議会 ・ ${esc(c.topic)}</span><strong>${esc(c.title)}</strong><span class="small">${c.steps.length}段階を原文で読む</span></a>`).join("")}</aside>`
-      : "";
     const personFilter = state.name
       ? `<p class="note">氏名で絞り込み中　<strong>${esc(state.name)}</strong>　${jump("records", { ...state, name: "" }, "氏名の指定を解除")}</p>`
       : "";
     results(
-      featured +
-        personFilter +
+      personFilter +
         (list.length
           ? partial(list, groupCard)
-          : noResult("自治体の会議録も「市町村と日程」から検索できます。")),
-      `該当する掲載項目 ${count(n)}件 ・ 議会・氏名・日付・資料ごとのまとまり ${count(list.length)}件`,
+          : noResult("キーワードを短くするか、条件を解除して検索できます。") +
+            jump("areas", {}, "市町村の会議録を探す")),
+      `該当する記録 ${count(list.length)}件（掲載項目 ${count(n)}件）`,
     );
   }
   function caseControls() {
@@ -681,41 +699,114 @@
       method: methodResults,
     })[page]();
   }
+  const menuButton = get("menu-toggle");
+  function setMenu(open) {
+    menuButton.setAttribute("aria-expanded", String(open));
+    get("menu-label").textContent = open ? "閉じる" : "メニュー";
+    get("site-nav").classList.toggle("is-open", open);
+  }
+  menuButton.addEventListener("click", () =>
+    setMenu(menuButton.getAttribute("aria-expanded") !== "true"),
+  );
+  document.addEventListener("keydown", (event) => {
+    if (
+      event.key === "Escape" &&
+      menuButton.getAttribute("aria-expanded") === "true"
+    ) {
+      setMenu(false);
+      menuButton.focus();
+    }
+  });
+  smallScreen.addEventListener("change", () => setMenu(false));
+  get("site-nav").addEventListener("click", (event) => {
+    const item = event.target.closest("a");
+    if (item && location.hash === item.hash) {
+      setMenu(false);
+      get("workspace").focus();
+    }
+  });
+  document.querySelector(".skip").addEventListener("click", (event) => {
+    event.preventDefault();
+    setMenu(false);
+    get("workspace").focus();
+    get("workspace").scrollIntoView({ block: "start" });
+  });
+  get("home-search").addEventListener("submit", (event) => {
+    event.preventDefault();
+    location.hash = routeLink("records", { q: get("home-query").value.trim() });
+  });
+  function renderHomeCases() {
+    const chosen = [
+      D.cases.find((c) => c.title.includes("手話言語条例")),
+      D.cases.find((c) => c.title.includes("かすかべ夢の森公園")),
+    ].filter(Boolean);
+    get("home-cases").innerHTML = `<div class="feature-pair">${chosen
+      .map(
+        (c) =>
+          `<a href="${esc(routeLink("cases", { place: c.place, q: c.title }))}"><span class="meta">${tag(c.topic)}　${esc(c.place)}議会</span><strong>${esc(c.title)}</strong><span class="small">${esc(c.steps[0].date.slice(0, 4))}年からの記録　·　${c.steps.length}段階</span></a>`,
+      )
+      .join("")}</div>`;
+  }
   function route(scroll = false) {
-    const hash = location.hash.slice(1);
-    const [target, query = ""] = hash.split("?");
+    const [target, query = ""] = location.hash.slice(1).split("?");
+    const home = !target || target === "top";
     page = pages.includes(target) ? target : aliases[target] || "records";
     state = Object.fromEntries(new URLSearchParams(query));
     limit = 15;
-    get("hero").hidden = !!target && target !== "top";
+    filtersExpanded = null;
+    setMenu(false);
+    get("home").hidden = !home;
+    get("directory").hidden = home;
     document.querySelectorAll("#main-nav a").forEach((a) => {
-      if (a.hash === "#" + page) {
+      if (a.hash === "#" + (home ? "top" : page))
         a.setAttribute("aria-current", "page");
-        if (scroll) a.scrollIntoView({ block: "nearest", inline: "nearest" });
-      } else a.removeAttribute("aria-current");
+      else a.removeAttribute("aria-current");
     });
-    renderControls();
-    renderResults();
-    document.title =
-      (page === "records" && !target
-        ? ""
-        : get("intro").querySelector("h2").textContent + "｜") +
-      "埼玉 議会と選挙 2027";
+    if (home) {
+      renderHomeCases();
+      document.title = "埼玉 議会と選挙｜2027年統一地方選";
+    } else {
+      renderControls();
+      renderResults();
+      const title = get("intro").querySelector("h1").textContent;
+      get("crumb-current").textContent = title;
+      document.title = title + "｜埼玉 議会と選挙 2027";
+    }
     if (scroll) {
       window.scrollTo(0, 0);
       get("workspace").focus({ preventScroll: true });
     }
   }
+  get("controls").addEventListener(
+    "toggle",
+    (e) => {
+      if (e.target.matches(".refine") && e.target.isConnected)
+        filtersExpanded = e.target.open;
+    },
+    true,
+  );
+  function searchInput(field) {
+    setState("q", field.value);
+    get("controls")
+      .querySelectorAll("[data-topic]")
+      .forEach((b) =>
+        b.setAttribute("aria-pressed", String(state.q === b.dataset.topic)),
+      );
+    updateFilterState();
+    renderResults();
+  }
   get("controls").addEventListener("input", (e) => {
-    if (e.target.dataset.filter === "q") {
-      setState("q", e.target.value);
-      get("controls")
-        .querySelectorAll("[data-topic]")
-        .forEach((b) =>
-          b.setAttribute("aria-pressed", state.q === b.dataset.topic),
-        );
-      renderResults();
-    }
+    if (e.target.dataset.filter === "q" && !e.isComposing)
+      searchInput(e.target);
+  });
+  get("controls").addEventListener("compositionend", (e) => {
+    if (e.target.dataset.filter === "q") searchInput(e.target);
+  });
+  get("controls").addEventListener("submit", (e) => {
+    e.preventDefault();
+    searchInput(get("query"));
+    get("feedback").focus();
+    get("feedback").scrollIntoView({ block: "start" });
   });
   get("controls").addEventListener("change", (e) => {
     const k = e.target.dataset.filter;
@@ -726,7 +817,9 @@
       delete state.a;
       delete state.b;
     }
+    filtersExpanded = get("controls").querySelector(".refine").open;
     setState(k, e.target.value);
+    updateFilterState();
     if (k === "place" && ["people", "votes"].includes(page)) {
       renderControls();
       get("controls").querySelector('[data-filter="place"]').focus();
@@ -742,7 +835,7 @@
       limit = 15;
       renderControls();
       renderResults();
-      get("controls").querySelector("input")?.focus();
+      get("query").focus();
     }
     if (b.hasAttribute("data-topic")) {
       setState("q", state.q === b.dataset.topic ? "" : b.dataset.topic);
@@ -776,6 +869,7 @@
       setState(k, e.target.value);
       renderResults();
       const box = get("results").querySelector(".compare");
+      updateFilterState();
       box.open = true;
       box.querySelector('[data-compare="' + k + '"]').focus();
     }

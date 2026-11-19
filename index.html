@@ -3,45 +3,65 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#133d38">
+  <meta name="theme-color" content="#0031a5">
   <meta name="description" content="埼玉の議員が、いつ、何を問い、議会や行政がどう応じたか。2027年統一地方選に向けて、県と市町村の公式資料を探せます。">
   <title>埼玉 議会と選挙｜2027年統一地方選</title>
   <link rel="stylesheet" href="assets/site.css">
 </head>
 <body>
-  <a class="skip" href="#workspace">本文へ</a>
+  <a class="skip" href="#workspace">本文へ移動</a>
   <header class="mast">
     <div class="wrap mast-inner">
-      <a class="brand" href="#top"><span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span><span>埼玉<span class="brand-light"> 議会と選挙</span></span></a>
-      <div class="mast-meta"><span>資料確認日 <time datetime="2026-11-19">2026.11.19</time></span><a href="#method">編集方針</a></div>
+      <a class="brand" href="#top" aria-label="埼玉 議会と選挙　ホーム"><span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span><span>埼玉<span class="brand-light"> 議会と選挙</span></span></a>
+      <div class="mast-meta"><span>資料確認日　<time datetime="2026-11-19">2026年11月19日</time></span><a href="#method">編集方針</a></div>
+      <button type="button" class="menu-toggle" id="menu-toggle" aria-controls="site-nav" aria-expanded="false"><span class="menu-icon" aria-hidden="true"></span><span id="menu-label">メニュー</span></button>
     </div>
+    <nav class="desk-nav" id="site-nav" aria-label="サイトメニュー"><div class="wrap nav-inner" id="main-nav">
+      <a href="#top">ホーム</a><a href="#records">活動を探す</a><a href="#cases">取り組みの経過</a><a href="#people">議員名簿</a><a href="#votes">議案と賛否</a><a href="#areas">市町村と日程</a><a href="#election">予定候補</a><a href="#method">資料と集計</a>
+    </div></nav>
   </header>
-  <header class="hero" id="hero">
-    <div class="wrap hero-inner">
-      <div>
-        <div class="edition">2027年 統一地方選挙</div>
-        <h1>埼玉の議員は、<br>何に取り組んだか。</h1>
-        <p>誰が問い、誰が答え、その後どう動いたか。<br class="desktop"> 県と市町村の議会記録を、原文にさかのぼって読めます。</p>
-      </div>
-      <div class="agenda">
-        <h2>埼玉の選挙日程 <span>2027年</span></h2>
-        <div class="date-line"><time datetime="2027-04-11">4<span>月</span>11<span>日</span></time><div><b>日曜日<span class="countdown" data-until="2027-04-11"></span></b><span>県議選・さいたま市議選</span></div></div>
-        <div class="date-line"><time datetime="2027-04-25">4<span>月</span>25<span>日</span></time><div><b>日曜日<span class="countdown" data-until="2027-04-25"></span></b><span>任期が対象となる市町議選</span></div></div>
-        <a href="#areas">自分の市町村の日程を調べる</a>
+  <main id="workspace" tabindex="-1">
+    <div id="home">
+      <div class="hero" id="hero"><div class="wrap hero-inner">
+        <div class="hero-copy">
+          <p class="edition">2027年 統一地方選挙</p>
+          <h1>埼玉の議員は、<br><span>何に取り組んだか。</span></h1>
+          <p class="hero-intro">県議会と全63市町村議会の記録から、<wbr>議員の発言・提案と、その後の経過をたどれます。</p>
+          <form id="home-search" class="home-search" role="search" aria-label="活動記録を検索">
+            <label for="home-query">議員の活動を検索</label>
+            <div class="search-row"><input id="home-query" type="search" name="q" aria-describedby="home-hint"><button class="primary" type="submit"><span class="glass" aria-hidden="true"></span>検索</button></div>
+            <p class="hint" id="home-hint">入力例　議員名、熊谷市、通学路</p>
+          </form>
+        </div>
+        <section class="agenda" aria-labelledby="dates-title">
+          <h2 id="dates-title"><span class="calendar-icon" aria-hidden="true"></span>選挙日程</h2>
+          <div class="date-line"><time aria-hidden="true" datetime="2027-04-11"><span>4月</span><b>11</b></time><div><strong>県議選・さいたま市議選</strong><span>2027年4月11日（日）<span data-until="2027-04-11"></span></span></div></div>
+          <div class="date-line"><time aria-hidden="true" datetime="2027-04-25"><span>4月</span><b>25</b></time><div><strong>後半の市町議選</strong><span>2027年4月25日（日）<span data-until="2027-04-25"></span></span></div></div>
+          <a href="#areas">自分の市町村の日程を確認</a>
+        </section>
+      </div></div>
+      <div class="wrap home-body">
+        <section aria-labelledby="browse-title"><h2 id="browse-title">目的から探す</h2>
+          <div class="task-grid">
+            <a class="task" href="#people"><span class="task-icon person-icon" aria-hidden="true"></span><span><strong>議員を探す・比べる</strong><small>氏名・議会・選挙区から現職を検索</small></span></a>
+            <a class="task" href="#cases"><span class="task-icon steps-icon" aria-hidden="true"></span><span><strong>取り組みの経過を読む</strong><small>質問・答弁・議決・実施を時系列で確認</small></span></a>
+            <a class="task" href="#votes"><span class="task-icon ballot-icon" aria-hidden="true"></span><span><strong>議案と賛否を調べる</strong><small>共同提出者や議案ごとの表決を確認</small></span></a>
+          </div>
+        </section>
+        <section class="home-cases" aria-labelledby="case-title"><div class="section-bar"><h2 id="case-title">議会記録から読む</h2><a href="#cases">すべての事例</a></div><div id="home-cases"></div></section>
       </div>
     </div>
-  </header>
-  <nav class="desk-nav" aria-label="資料を選ぶ"><div class="wrap nav-inner" id="main-nav">
-    <a href="#records">活動を探す</a><a href="#cases">取り組みの経過</a><a href="#people">議員名簿</a><a href="#votes">議案と賛否</a><a href="#areas">市町村と日程</a><a href="#election">予定候補</a><a href="#method">資料と集計</a>
-  </div></nav>
-  <main class="wrap work" id="workspace" tabindex="-1">
-    <div id="intro"></div>
-    <div id="controls"></div>
-    <div id="feedback" class="feedback" role="status" aria-live="polite" aria-atomic="true"></div>
-    <div id="results"></div>
+    <div class="wrap work" id="directory" hidden>
+      <nav class="crumb" aria-label="現在位置"><a href="#top">ホーム</a><span aria-hidden="true">›</span><span id="crumb-current" aria-current="page"></span></nav>
+      <div id="intro"></div>
+      <div id="controls"></div>
+      <h2 class="results-heading" id="results-heading">検索結果</h2>
+      <div id="feedback" class="feedback" role="status" aria-live="polite" aria-atomic="true" tabindex="-1"></div>
+      <div id="results"></div>
+    </div>
     <noscript><h2>公式資料から調べる</h2><p>検索にはJavaScriptを使用します。</p><p><a href="https://www.pref.saitama.lg.jp/e1601/gikai-member-senkyoku.html">県議会の議員名簿</a>　<a href="https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4.html">県議会の質問・答弁</a>　<a href="https://www.pref.saitama.lg.jp/e1701/ninki.html">市町村議の任期満了日</a></p></noscript>
   </main>
-  <footer><div class="wrap foot"><span>埼玉 議会と選挙 <small>非公式・公開資料による編集</small></span><a href="#method">出典・訂正の案内</a></div></footer>
+  <footer><div class="wrap foot"><span>埼玉 議会と選挙 <small>非公式・公開資料による編集　資料確認日 2026年11月19日</small></span><a href="#method">出典・訂正の案内</a></div></footer>
   <script src="data/catalog.js"></script>
   <!-- activity-files -->
   <script src="data/activity-budget-001.js"></script>
