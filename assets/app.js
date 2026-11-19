@@ -539,7 +539,7 @@
       <p><b>市町村議の任期満了</b>　${dateTag(a.termEnd)}${a.termMethod === "calculated" ? "（算定）" : ""}</p>${a.termNote ? `<p class="small">${esc(a.termNote)}</p>` : ""}
       <div class="links">${link(a.sourceURL, "任期の根拠")}${link(a.announcementURL, "市選管の執行日案内")}${link(a.electionURL, a.name === "小鹿野町" ? a.electionTitle : "選挙管理委員会の案内")}${link(a.briefingURL, "立候補予定者説明会")}</div>
       ${district.length ? `<p class="group-note">県議の選挙区　${district.map((d) => link(d.url, d.district + "（定数" + d.seats + "）")).join("、")}</p>` : ""}
-      <div class="links">${link(a.councilURL, a.councilLabel || "議会")}${link(a.rosterURL, a.rosterLabel || "議員名簿")}${link(a.recordsURL, a.recordsLabel || "会議録")}${link(a.bulletinURL, "議会だより")}${link(a.billsURL, "議案・審議結果")}</div>
+      <div class="links">${link(a.councilURL, a.councilLabel || "議会")}${link(a.rosterURL, a.rosterLabel || "議員名簿")}${link(a.recordsURL, a.recordsLabel || "会議録")}${link(a.bulletinURL, "議会だより")}${link(a.billsURL, a.billsLabel || "議案・審議結果")}${link(a.billsOriginalURL, "審議結果の原本（町公式PDF）")}</div>
       ${a.sourceNote ? `<p class="small">${esc(a.sourceNote)}</p>` : ""}
       <div class="links">${joined ? jump("records", { place: a.name }, "この議会の掲載活動") : ""}${personPlaces.includes(a.name) ? jump("people", { place: a.name }, "この議会の現職") : ""}</div>
       ${num ? `<details class="area-stat"><summary>届出時の党派別人数（2024年12月31日時点）</summary><p class="small">当時の定数${num.seats}、現員${num.seats - num.vacant}、欠員${num.vacant}。所属党派証明書に基づく県選管の過去の集計です。</p>${D.stats.groups.map((g, i) => `<div class="stat-row"><span>${esc(g)}</span><b>${num.counts[i]}人</b></div>`).join("")}${num.other ? `<p class="small">諸派の内訳　${esc(num.other)}</p>` : ""}${link(D.stats.source, "県選管の原表（PDF）")}</details>` : ""}

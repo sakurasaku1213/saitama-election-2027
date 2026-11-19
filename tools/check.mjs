@@ -50,6 +50,8 @@ for (const a of data.areas) {
     "councilURL",
     "rosterURL",
     "recordsURL",
+    "bulletinURL",
+    "billsURL",
     "electionURL",
     "sourceURL",
   ])
