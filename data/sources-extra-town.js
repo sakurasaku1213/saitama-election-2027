@@ -1,0 +1,10 @@
+GIKAI.sessions.push(...[
+{"place":"越生町","label":"2026年9月定例会・一般質問の全登壇者","url":"https://www.town.ogose.saitama.jp/kamei/gikai/gyomuannai/reiwa8_9teireikai/4600.html","count":10},
+{"place":"嵐山町","label":"2026年9月定例会・一般質問の全9人","url":"https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000008/8030/204gikaidayori.pdf","count":9},
+{"place":"小川町","label":"2026年9月定例会・議会だよりの一般質問全8人","url":"https://www.town.ogawa.saitama.jp/gyosei/sosiki/18/1/5/7483.html","count":8},
+{"place":"ときがわ町","label":"2026年9月定例会・一般質問の全9人","url":"https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83-w-6.pdf","count":9},
+{"place":"神川町","label":"2026年9月定例会・事前公表の一般質問全9人","url":"https://www.town.kamikawa.saitama.jp/material/files/group/18/ippannsitsumonn202609.pdf","count":9},
+{"place":"長瀞町","label":"2026年9月定例会・議会だよりの一般質問全7人","url":"https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf","count":7},
+{"place":"小鹿野町","label":"2026年3月定例会・公式一般質問一覧全7人（保存版）","url":"https://web.archive.org/web/20260226115229/https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/02/R8.3_03iltupannsitumonn-list.pdf","count":7,"originalUrl":"https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/02/R8.3_03iltupannsitumonn-list.pdf"},
+{"place":"神川町","label":"2026年6月定例会・一般質問の全7人","url":"https://www.town.kamikawa.saitama.jp/material/files/group/18/gikaidayori83.pdf","count":7}
+]);
