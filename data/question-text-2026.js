@@ -40,6 +40,21 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "1b299c388080d5126221",
+      "place": "さいたま市",
+      "season": "spring",
+      "date": "2026-02-04",
+      "title": "さいたま市 令和 ８年 ２月 予算委員会 02月04日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1077&schedule_id=1",
+      "kind": "公式会議録（予算委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "吉田一郎",
+        "神坂達成"
+      ]
+    },
+    {
       "id": "95d14b5338bc59d0743f",
       "place": "さいたま市",
       "season": "spring",
@@ -56,6 +71,21 @@ GIKAI.questionText = {
         "吉田一郎",
         "松本翔",
         "谷中信人"
+      ]
+    },
+    {
+      "id": "9e64c069927c7b963151",
+      "place": "さいたま市",
+      "season": "spring",
+      "date": "2026-02-09",
+      "title": "さいたま市 令和 ８年 ２月 予算委員会 02月09日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1077&schedule_id=2",
+      "kind": "公式会議録（予算委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "吉田一郎",
+        "神坂達成"
       ]
     },
     {
@@ -100,6 +130,50 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "28505a56a0449e325b36",
+      "place": "さいたま市",
+      "season": "spring",
+      "date": "2026-02-13",
+      "title": "さいたま市 令和 ８年 ２月 まちづくり委員会 02月13日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1076&schedule_id=1",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "中山欽哉",
+        "久保美樹",
+        "吉村豪介",
+        "尾上貴明",
+        "川崎照正",
+        "川村準",
+        "添野ふみ子",
+        "神坂達成",
+        "萩原章弘",
+        "金井康博"
+      ]
+    },
+    {
+      "id": "f693a32ea3557722fa47",
+      "place": "さいたま市",
+      "season": "spring",
+      "date": "2026-02-13",
+      "title": "さいたま市 令和 ８年 ２月 保健福祉委員会 02月13日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1078&schedule_id=1",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "三神尊志",
+        "上三信彰",
+        "佐藤征治郎",
+        "土橋勇司",
+        "堀川友良",
+        "斉藤健一",
+        "池田めぐみ",
+        "鳥羽恵"
+      ]
+    },
+    {
       "id": "682a9bac700ff78e8d13",
       "place": "さいたま市",
       "season": "spring",
@@ -108,13 +182,95 @@ GIKAI.questionText = {
       "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1079&schedule_id=1",
       "kind": "公式会議録（常任委員会）",
       "scope": "minutes",
-      "note": "市議会の会議録検索に掲載された子ども文教委員会の会議日別本文。",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
       "speakers": [
         "中山淳一",
         "服部剛",
         "松村敏夫",
         "関ひろみ",
         "青羽健仁"
+      ]
+    },
+    {
+      "id": "eafbc818334c6653b523",
+      "place": "さいたま市",
+      "season": "spring",
+      "date": "2026-02-13",
+      "title": "さいたま市 令和 ８年 ２月 市民生活委員会 02月13日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1080&schedule_id=1",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "佐藤真実",
+        "出雲圭子",
+        "桶本大輔",
+        "照喜納弘志",
+        "相川綾香",
+        "秋山朋彦",
+        "稲川智美",
+        "竹腰連",
+        "阪本克己",
+        "鶴崎敏康"
+      ]
+    },
+    {
+      "id": "30448dc1764a9adb2364",
+      "place": "さいたま市",
+      "season": "spring",
+      "date": "2026-02-13",
+      "title": "さいたま市 令和 ８年 ２月 総合政策委員会 02月13日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1081&schedule_id=1",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "吉田一志",
+        "吉田一郎",
+        "新井森夫",
+        "松本翔",
+        "江原大輔",
+        "金子昭代",
+        "高柳俊哉"
+      ]
+    },
+    {
+      "id": "b6b624c3eb27aab7af63",
+      "place": "さいたま市",
+      "season": "spring",
+      "date": "2026-02-16",
+      "title": "さいたま市 令和 ８年 ２月 まちづくり委員会 02月16日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1076&schedule_id=2",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "久保美樹",
+        "堤日出喜",
+        "川崎照正",
+        "川村準",
+        "添野ふみ子",
+        "萩原章弘"
+      ]
+    },
+    {
+      "id": "c38f02091230c3022a0a",
+      "place": "さいたま市",
+      "season": "spring",
+      "date": "2026-02-16",
+      "title": "さいたま市 令和 ８年 ２月 保健福祉委員会 02月16日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1078&schedule_id=2",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "三神尊志",
+        "佐藤征治郎",
+        "土橋勇司",
+        "堀川友良",
+        "斉藤健一",
+        "池田めぐみ",
+        "鳥羽恵"
       ]
     },
     {
@@ -126,7 +282,7 @@ GIKAI.questionText = {
       "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1079&schedule_id=2",
       "kind": "公式会議録（常任委員会）",
       "scope": "minutes",
-      "note": "市議会の会議録検索に掲載された子ども文教委員会の会議日別本文。",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
       "speakers": [
         "中山淳一",
         "佐々木郷美",
@@ -139,6 +295,176 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "3dada938595b15f9e056",
+      "place": "さいたま市",
+      "season": "spring",
+      "date": "2026-02-16",
+      "title": "さいたま市 令和 ８年 ２月 市民生活委員会 02月16日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1080&schedule_id=2",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "出雲圭子",
+        "相川綾香",
+        "秋山朋彦",
+        "稲川智美",
+        "竹腰連"
+      ]
+    },
+    {
+      "id": "b87bd61f3fdeb1037b40",
+      "place": "さいたま市",
+      "season": "spring",
+      "date": "2026-02-16",
+      "title": "さいたま市 令和 ８年 ２月 総合政策委員会 02月16日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1081&schedule_id=2",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "北岡久住",
+        "吉田一郎",
+        "新井森夫",
+        "松本翔",
+        "西山幸代",
+        "金子昭代",
+        "高柳俊哉"
+      ]
+    },
+    {
+      "id": "f8b7fd09fb59aa5e0b52",
+      "place": "さいたま市",
+      "season": "spring",
+      "date": "2026-02-18",
+      "title": "さいたま市 令和 ８年 ２月 予算委員会 02月18日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1077&schedule_id=3",
+      "kind": "公式会議録（予算委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "佐藤真実",
+        "出雲圭子",
+        "吉田一郎",
+        "堤日出喜",
+        "新藤信夫",
+        "松本翔",
+        "江原大輔",
+        "津和野眞佐子",
+        "添野ふみ子",
+        "照喜納弘志",
+        "神坂達成",
+        "高子景",
+        "鳥羽恵"
+      ]
+    },
+    {
+      "id": "92d2881db62b2a802d86",
+      "place": "さいたま市",
+      "season": "spring",
+      "date": "2026-02-19",
+      "title": "さいたま市 令和 ８年 ２月 予算委員会 02月19日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1077&schedule_id=4",
+      "kind": "公式会議録（予算委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "吉田一郎",
+        "松本翔",
+        "神坂達成",
+        "鳥羽恵"
+      ]
+    },
+    {
+      "id": "b12eebaf6ad9c9f89241",
+      "place": "さいたま市",
+      "season": "spring",
+      "date": "2026-02-19",
+      "title": "さいたま市 令和 ８年 ２月 予算委員会 02月19日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1077&schedule_id=5",
+      "kind": "公式会議録（予算委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "出雲圭子",
+        "吉田一郎",
+        "堤日出喜",
+        "大貫田鶴子",
+        "新井森夫",
+        "新藤信夫",
+        "服部剛",
+        "松本翔",
+        "津和野眞佐子",
+        "照喜納弘志",
+        "神坂達成",
+        "秋山朋彦",
+        "鳥羽恵"
+      ]
+    },
+    {
+      "id": "1c7fdde81d2eb2474c23",
+      "place": "さいたま市",
+      "season": "spring",
+      "date": "2026-02-20",
+      "title": "さいたま市 令和 ８年 ２月 予算委員会 02月20日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1077&schedule_id=6",
+      "kind": "公式会議録（予算委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。２月20日第６号の冒頭の期日・出席表は前日第５号と同一です。目次と前日会議録で予告された開議時刻・議題が当日の議事と一致するため、資料日は２月20日としています。冒頭の表も公開された形で収録しました。",
+      "speakers": [
+        "久保美樹",
+        "佐藤真実",
+        "出雲圭子",
+        "北岡久住",
+        "吉田一郎",
+        "堀川友良",
+        "堤日出喜",
+        "大貫田鶴子",
+        "新井森夫",
+        "服部剛",
+        "江原大輔",
+        "津和野眞佐子",
+        "添野ふみ子",
+        "照喜納弘志",
+        "相川綾香",
+        "神坂達成",
+        "金子昭代"
+      ]
+    },
+    {
+      "id": "ac84fedcd26b1c96ed1d",
+      "place": "さいたま市",
+      "season": "spring",
+      "date": "2026-02-24",
+      "title": "さいたま市 令和 ８年 ２月 予算委員会 02月24日－07号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1077&schedule_id=7",
+      "kind": "公式会議録（予算委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "佐藤真実",
+        "出雲圭子",
+        "北岡久住",
+        "吉村豪介",
+        "吉田一郎",
+        "堤日出喜",
+        "大貫田鶴子",
+        "新井森夫",
+        "新藤信夫",
+        "服部剛",
+        "江原大輔",
+        "池田めぐみ",
+        "津和野眞佐子",
+        "添野ふみ子",
+        "照喜納弘志",
+        "相川綾香",
+        "神坂達成",
+        "萩原章弘",
+        "金子昭代",
+        "高子景"
+      ]
+    },
+    {
       "id": "0d6c0af1253296456965",
       "place": "さいたま市",
       "season": "spring",
@@ -147,10 +473,221 @@ GIKAI.questionText = {
       "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1079&schedule_id=3",
       "kind": "公式会議録（常任委員会）",
       "scope": "minutes",
-      "note": "市議会の会議録検索に掲載された子ども文教委員会の会議日別本文。",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
       "speakers": [
         "関ひろみ",
         "青羽健仁"
+      ]
+    },
+    {
+      "id": "30e2a37bb2c3b3797870",
+      "place": "さいたま市",
+      "season": "spring",
+      "date": "2026-02-25",
+      "title": "さいたま市 令和 ８年 ２月 予算委員会 02月25日－08号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1077&schedule_id=8",
+      "kind": "公式会議録（予算委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "佐藤真実",
+        "出雲圭子",
+        "北岡久住",
+        "吉田一郎",
+        "堀川友良",
+        "大貫田鶴子",
+        "川崎照正",
+        "帆足和之",
+        "新井森夫",
+        "服部剛",
+        "松本翔",
+        "江原大輔",
+        "池田めぐみ",
+        "津和野眞佐子",
+        "添野ふみ子",
+        "照喜納弘志",
+        "相川綾香",
+        "石関洋臣",
+        "神坂達成",
+        "鳥羽恵"
+      ]
+    },
+    {
+      "id": "23a413e7c4ce1b9fae62",
+      "place": "さいたま市",
+      "season": "spring",
+      "date": "2026-02-27",
+      "title": "さいたま市 令和 ８年 ２月 予算委員会 02月27日－09号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1077&schedule_id=9",
+      "kind": "公式会議録（予算委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "佐々木郷美",
+        "佐藤真実",
+        "北岡久住",
+        "吉田一郎",
+        "堤日出喜",
+        "尾上貴明",
+        "新井森夫",
+        "服部剛",
+        "松本翔",
+        "松村敏夫",
+        "江原大輔",
+        "池田めぐみ",
+        "津和野眞佐子",
+        "照喜納弘志",
+        "神坂達成",
+        "秋山朋彦",
+        "高子景",
+        "高柳俊哉"
+      ]
+    },
+    {
+      "id": "5e7dc20dcfa52853810f",
+      "place": "さいたま市",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "さいたま市 令和 ８年 ２月 予算委員会 03月02日－10号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1077&schedule_id=10",
+      "kind": "公式会議録（予算委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "久保美樹",
+        "佐伯加寿美",
+        "佐藤真実",
+        "出雲圭子",
+        "吉田一郎",
+        "堀川友良",
+        "堤日出喜",
+        "大貫田鶴子",
+        "帆足和之",
+        "斉藤健一",
+        "新井森夫",
+        "津和野眞佐子",
+        "添野ふみ子",
+        "照喜納弘志",
+        "神坂達成",
+        "秋山朋彦",
+        "稲川智美",
+        "竹腰連",
+        "高子景"
+      ]
+    },
+    {
+      "id": "bec523bb41f2a34af079",
+      "place": "さいたま市",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "さいたま市 令和 ８年 ２月 予算委員会 03月03日－11号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1077&schedule_id=11",
+      "kind": "公式会議録（予算委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "久保美樹",
+        "佐々木郷美",
+        "佐藤真実",
+        "出雲圭子",
+        "吉田一郎",
+        "堀川友良",
+        "大貫田鶴子",
+        "新井森夫",
+        "新藤信夫",
+        "服部剛",
+        "松本翔",
+        "江原大輔",
+        "照喜納弘志",
+        "相川綾香",
+        "神坂達成",
+        "竹腰連",
+        "都築龍太",
+        "高子景"
+      ]
+    },
+    {
+      "id": "ea839b60d99c11945ea7",
+      "place": "さいたま市",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "さいたま市 令和 ８年 ２月 予算委員会 03月04日－12号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1077&schedule_id=12",
+      "kind": "公式会議録（予算委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "佐藤真実",
+        "吉田一郎",
+        "堤日出喜",
+        "大貫田鶴子",
+        "新井森夫",
+        "服部剛",
+        "松本翔",
+        "松村敏夫",
+        "江原大輔",
+        "津和野眞佐子",
+        "添野ふみ子",
+        "渋谷佳孝",
+        "照喜納弘志",
+        "神坂達成",
+        "秋山朋彦",
+        "金子昭代"
+      ]
+    },
+    {
+      "id": "a6b6df68a4aaecff9182",
+      "place": "さいたま市",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "さいたま市 令和 ８年 ２月 市民生活委員会 03月04日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1080&schedule_id=3",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "出雲圭子"
+      ]
+    },
+    {
+      "id": "acf9db3d4a5b0961f3b4",
+      "place": "さいたま市",
+      "season": "spring",
+      "date": "2026-03-09",
+      "title": "さいたま市 令和 ８年 ２月 予算委員会 03月09日－13号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1077&schedule_id=13",
+      "kind": "公式会議録（予算委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "佐藤真実",
+        "吉田一郎",
+        "堤日出喜",
+        "大貫田鶴子",
+        "服部剛",
+        "津和野眞佐子",
+        "添野ふみ子",
+        "神坂達成",
+        "秋山朋彦",
+        "竹腰連",
+        "高子景",
+        "鳥羽恵"
+      ]
+    },
+    {
+      "id": "5448fa04884bde8d12e7",
+      "place": "さいたま市",
+      "season": "spring",
+      "date": "2026-03-10",
+      "title": "さいたま市 令和 ８年 ３月 議会運営委員会 03月10日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1082&schedule_id=1",
+      "kind": "公式会議録（議会運営委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "三神尊志",
+        "添野ふみ子",
+        "石関洋臣"
       ]
     },
     {
@@ -173,6 +710,36 @@ GIKAI.questionText = {
         "松本翔",
         "神坂達成",
         "関ひろみ"
+      ]
+    },
+    {
+      "id": "b52d2c289e904778f70b",
+      "place": "さいたま市",
+      "season": "spring",
+      "date": "2026-03-11",
+      "title": "さいたま市 令和 ８年 ２月 市民生活委員会 03月11日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1080&schedule_id=4",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "出雲圭子"
+      ]
+    },
+    {
+      "id": "a7302902ae81284264eb",
+      "place": "さいたま市",
+      "season": "spring",
+      "date": "2026-03-11",
+      "title": "さいたま市 令和 ８年 ２月 総合政策委員会 03月11日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1081&schedule_id=3",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "吉田一郎",
+        "松本翔",
+        "江原大輔"
       ]
     },
     {
@@ -260,6 +827,119 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "1ddc9f84252cdfdeae14",
+      "place": "さいたま市",
+      "season": "summer",
+      "date": "2026-06-04",
+      "title": "さいたま市 令和 ８年 ６月 まちづくり委員会 06月04日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1086&schedule_id=1",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "堤日出喜",
+        "川崎照正",
+        "添野ふみ子臨時",
+        "金井康博"
+      ]
+    },
+    {
+      "id": "ea6b94655a4319d92b84",
+      "place": "さいたま市",
+      "season": "summer",
+      "date": "2026-06-04",
+      "title": "さいたま市 令和 ８年 ６月 予算委員会 06月04日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1087&schedule_id=1",
+      "kind": "公式会議録（予算委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "佐藤真実",
+        "堀川友良",
+        "帆足和之",
+        "新井森夫",
+        "松本翔",
+        "江原大輔",
+        "津和野眞佐子",
+        "添野ふみ子臨時",
+        "照喜納弘志",
+        "神坂達成",
+        "竹腰連"
+      ]
+    },
+    {
+      "id": "257c5c95984efad708b5",
+      "place": "さいたま市",
+      "season": "summer",
+      "date": "2026-06-04",
+      "title": "さいたま市 令和 ８年 ６月 保健福祉委員会 06月04日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1088&schedule_id=1",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "佐藤征治郎臨時",
+        "土橋勇司",
+        "都築龍太",
+        "金子昭代",
+        "鳥羽恵"
+      ]
+    },
+    {
+      "id": "a0cc87fadcd4375912d5",
+      "place": "さいたま市",
+      "season": "summer",
+      "date": "2026-06-04",
+      "title": "さいたま市 令和 ８年 ６月 子ども文教委員会 06月04日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1089&schedule_id=1",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "佐々木郷美",
+        "佐伯加寿美",
+        "新藤信夫臨時",
+        "服部剛",
+        "関ひろみ"
+      ]
+    },
+    {
+      "id": "3d075b993a00b12f3f28",
+      "place": "さいたま市",
+      "season": "summer",
+      "date": "2026-06-04",
+      "title": "さいたま市 令和 ８年 ６月 市民生活委員会 06月04日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1090&schedule_id=1",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "出雲圭子",
+        "大貫田鶴子",
+        "照喜納弘志",
+        "阪本克己",
+        "鶴崎敏康臨時"
+      ]
+    },
+    {
+      "id": "b97d7f4a64700e4a460d",
+      "place": "さいたま市",
+      "season": "summer",
+      "date": "2026-06-04",
+      "title": "さいたま市 令和 ８年 ６月 総合政策委員会 06月04日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1091&schedule_id=1",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "中山淳一臨時",
+        "新井森夫",
+        "松本翔",
+        "津和野眞佐子",
+        "西山幸代"
+      ]
+    },
+    {
       "id": "cabb27861b8b1fdfd738",
       "place": "さいたま市",
       "season": "summer",
@@ -279,6 +959,21 @@ GIKAI.questionText = {
         "川村準",
         "新井森夫",
         "江原大輔"
+      ]
+    },
+    {
+      "id": "f15a02283f6a69279a08",
+      "place": "さいたま市",
+      "season": "summer",
+      "date": "2026-06-08",
+      "title": "さいたま市 令和 ８年 ６月 予算委員会 06月08日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1087&schedule_id=2",
+      "kind": "公式会議録（予算委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "新井森夫",
+        "神坂達成"
       ]
     },
     {
@@ -330,6 +1025,316 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "2aa7ad8a220e1219348b",
+      "place": "さいたま市",
+      "season": "summer",
+      "date": "2026-06-12",
+      "title": "さいたま市 令和 ８年 ６月 まちづくり委員会 06月12日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1086&schedule_id=2",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "吉田一郎",
+        "尾上貴明",
+        "川崎照正",
+        "添野ふみ子",
+        "萩原章弘"
+      ]
+    },
+    {
+      "id": "0113126fa42c72358a9e",
+      "place": "さいたま市",
+      "season": "summer",
+      "date": "2026-06-12",
+      "title": "さいたま市 令和 ８年 ６月 保健福祉委員会 06月12日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1088&schedule_id=2",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "三神尊志",
+        "佐藤征治郎",
+        "土橋勇司",
+        "斉藤健一",
+        "金子昭代",
+        "鳥羽恵"
+      ]
+    },
+    {
+      "id": "b3ea8cbbb75c5efbb706",
+      "place": "さいたま市",
+      "season": "summer",
+      "date": "2026-06-12",
+      "title": "さいたま市 令和 ８年 ６月 子ども文教委員会 06月12日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1089&schedule_id=2",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "久保美樹",
+        "佐々木郷美",
+        "佐伯加寿美",
+        "小柳嘉文",
+        "小森谷優",
+        "新藤信夫",
+        "服部剛",
+        "関ひろみ",
+        "青羽健仁"
+      ]
+    },
+    {
+      "id": "df917d59d53736009aaa",
+      "place": "さいたま市",
+      "season": "summer",
+      "date": "2026-06-12",
+      "title": "さいたま市 令和 ８年 ６月 市民生活委員会 06月12日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1090&schedule_id=2",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "佐藤潤",
+        "佐藤真実",
+        "出雲圭子",
+        "堀川友良",
+        "桶本大輔",
+        "池田めぐみ",
+        "照喜納弘志",
+        "相川綾香",
+        "稲川智美",
+        "阪本克己",
+        "鶴崎敏康"
+      ]
+    },
+    {
+      "id": "1068a9f5b1cb83acbb97",
+      "place": "さいたま市",
+      "season": "summer",
+      "date": "2026-06-12",
+      "title": "さいたま市 令和 ８年 ６月 総合政策委員会 06月12日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1091&schedule_id=2",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "中山淳一",
+        "吉田一志",
+        "川村準",
+        "松本翔",
+        "松村敏夫",
+        "江原大輔",
+        "秋山朋彦",
+        "西山幸代",
+        "高柳俊哉"
+      ]
+    },
+    {
+      "id": "6cbc9c2dd31a203ae50b",
+      "place": "さいたま市",
+      "season": "summer",
+      "date": "2026-06-15",
+      "title": "さいたま市 令和 ８年 ６月 まちづくり委員会 06月15日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1086&schedule_id=3",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "中山欽哉",
+        "北岡久住",
+        "吉田一郎",
+        "堤日出喜",
+        "尾上貴明",
+        "川崎照正",
+        "添野ふみ子",
+        "神坂達成",
+        "竹腰連",
+        "萩原章弘",
+        "金井康博"
+      ]
+    },
+    {
+      "id": "f292b34284655af86aa8",
+      "place": "さいたま市",
+      "season": "summer",
+      "date": "2026-06-15",
+      "title": "さいたま市 令和 ８年 ６月 保健福祉委員会 06月15日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1088&schedule_id=3",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "三神尊志",
+        "上三信彰",
+        "佐藤征治郎",
+        "土橋勇司",
+        "斉藤健一",
+        "金子昭代",
+        "鳥羽恵"
+      ]
+    },
+    {
+      "id": "4c9ae5c92508b17e5efd",
+      "place": "さいたま市",
+      "season": "summer",
+      "date": "2026-06-15",
+      "title": "さいたま市 令和 ８年 ６月 子ども文教委員会 06月15日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1089&schedule_id=3",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "久保美樹",
+        "佐々木郷美",
+        "佐伯加寿美",
+        "小柳嘉文",
+        "小森谷優",
+        "新藤信夫",
+        "服部剛",
+        "浜口健司",
+        "関ひろみ",
+        "青羽健仁"
+      ]
+    },
+    {
+      "id": "9d2ecd80359eff3f7d5a",
+      "place": "さいたま市",
+      "season": "summer",
+      "date": "2026-06-15",
+      "title": "さいたま市 令和 ８年 ６月 市民生活委員会 06月15日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1090&schedule_id=3",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "佐藤潤",
+        "佐藤真実",
+        "出雲圭子",
+        "堀川友良",
+        "大貫田鶴子",
+        "池田めぐみ",
+        "照喜納弘志",
+        "相川綾香",
+        "稲川智美",
+        "阪本克己"
+      ]
+    },
+    {
+      "id": "ed49541d1e8d510de1c3",
+      "place": "さいたま市",
+      "season": "summer",
+      "date": "2026-06-15",
+      "title": "さいたま市 令和 ８年 ６月 総合政策委員会 06月15日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1091&schedule_id=3",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "中山淳一",
+        "吉田一志",
+        "川村準",
+        "新井森夫",
+        "松本翔",
+        "松村敏夫",
+        "江原大輔",
+        "秋山朋彦",
+        "西山幸代",
+        "高柳俊哉"
+      ]
+    },
+    {
+      "id": "1c7b7647c45643cf1d66",
+      "place": "さいたま市",
+      "season": "summer",
+      "date": "2026-06-18",
+      "title": "さいたま市 令和 ８年 ６月 予算委員会 06月18日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1087&schedule_id=3",
+      "kind": "公式会議録（予算委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "中山淳一",
+        "出雲圭子",
+        "堀川友良",
+        "堤日出喜",
+        "松本翔",
+        "江原大輔",
+        "津和野眞佐子",
+        "添野ふみ子",
+        "照喜納弘志",
+        "神坂達成",
+        "鳥羽恵"
+      ]
+    },
+    {
+      "id": "cbf2f9258df1f12352fe",
+      "place": "さいたま市",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "さいたま市 令和 ８年 ６月 予算委員会 06月19日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1087&schedule_id=4",
+      "kind": "公式会議録（予算委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "中山淳一",
+        "佐藤真実",
+        "堤日出喜",
+        "神坂達成",
+        "鳥羽恵"
+      ]
+    },
+    {
+      "id": "7d914ae07e5bfdf07c04",
+      "place": "さいたま市",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "さいたま市 令和 ８年 ６月 保健福祉委員会 06月23日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1088&schedule_id=4",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "土橋勇司",
+        "鳥羽恵"
+      ]
+    },
+    {
+      "id": "59ba29057cd2f01b77b2",
+      "place": "さいたま市",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "さいたま市 令和 ８年 ６月 子ども文教委員会 06月23日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1089&schedule_id=4",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "佐々木郷美",
+        "新藤信夫",
+        "関ひろみ"
+      ]
+    },
+    {
+      "id": "f6d73ae39b379d59241b",
+      "place": "さいたま市",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "さいたま市 令和 ８年 ６月 議会運営委員会 06月24日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1092&schedule_id=1",
+      "kind": "公式会議録（議会運営委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "三神尊志",
+        "斉藤健一",
+        "添野ふみ子",
+        "石関洋臣",
+        "金子昭代",
+        "青羽健仁"
+      ]
+    },
+    {
       "id": "04d1d4e85f6affc804d0",
       "place": "さいたま市",
       "season": "summer",
@@ -360,6 +1365,172 @@ GIKAI.questionText = {
         "金井康博",
         "関ひろみ",
         "青羽健仁"
+      ]
+    },
+    {
+      "id": "0c01b2f08cb3212e8fef",
+      "place": "さいたま市",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "さいたま市 令和 ８年 ６月 まちづくり委員会 06月25日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1086&schedule_id=4",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "堤日出喜",
+        "松本翔",
+        "関ひろみ"
+      ]
+    },
+    {
+      "id": "f2f65e0165007d7bc516",
+      "place": "さいたま市",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "さいたま市 令和 ８年 ６月 予算委員会 06月25日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1087&schedule_id=5",
+      "kind": "公式会議録（予算委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "土橋勇司",
+        "堀川友良",
+        "松本翔",
+        "桶本大輔",
+        "萩原章弘臨時",
+        "金井康弘",
+        "阪本克己"
+      ]
+    },
+    {
+      "id": "a39745cb6c033b32b8ab",
+      "place": "さいたま市",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "さいたま市 令和 ８年 ６月 予算委員会 06月25日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1087&schedule_id=6",
+      "kind": "公式会議録（予算委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "土橋勇司",
+        "松本翔",
+        "桶本大輔",
+        "阪本克己",
+        "鶴崎敏康臨時"
+      ]
+    },
+    {
+      "id": "46e5478b5f0d110f859b",
+      "place": "さいたま市",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "さいたま市 令和 ８年 ６月 予算委員会 06月25日－07号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1087&schedule_id=7",
+      "kind": "公式会議録（予算委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "中山淳一",
+        "土橋勇司",
+        "尾上貴明",
+        "松本翔",
+        "神坂達成",
+        "西山幸代",
+        "金子昭代",
+        "阪本克己"
+      ]
+    },
+    {
+      "id": "c606e96ba76d5eede394",
+      "place": "さいたま市",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "さいたま市 令和 ８年 ６月 保健福祉委員会 06月25日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1088&schedule_id=5",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "三神尊志",
+        "佐藤征治郎臨時",
+        "出雲圭子",
+        "吉田一志",
+        "尾上貴明"
+      ]
+    },
+    {
+      "id": "175f62928a28ad8c5e10",
+      "place": "さいたま市",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "さいたま市 令和 ８年 ６月 子ども文教委員会 06月25日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1089&schedule_id=5",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "川崎照正",
+        "添野ふみ子臨時",
+        "渋谷佳孝",
+        "竹腰連",
+        "鳥羽恵"
+      ]
+    },
+    {
+      "id": "e4e6b56f70d721d3776f",
+      "place": "さいたま市",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "さいたま市 令和 ８年 ６月 市民生活委員会 06月25日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1090&schedule_id=4",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "佐伯加寿美",
+        "新井森夫",
+        "新藤信夫臨時",
+        "津和野眞佐子",
+        "高柳俊哉"
+      ]
+    },
+    {
+      "id": "f018c6615f034e027b8b",
+      "place": "さいたま市",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "さいたま市 令和 ８年 ６月 市民生活委員会 06月25日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1090&schedule_id=5",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "佐伯加寿美",
+        "堀川友良",
+        "小森谷優",
+        "新藤信夫",
+        "池田めぐみ",
+        "高柳俊哉"
+      ]
+    },
+    {
+      "id": "873250caae1243a6ff3a",
+      "place": "さいたま市",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "さいたま市 令和 ８年 ６月 総合政策委員会 06月25日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1091&schedule_id=4",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "相川綾香",
+        "金井康博",
+        "阪本克己",
+        "鶴崎敏康",
+        "鶴崎敏康臨時"
       ]
     },
     {
@@ -2055,6 +3226,20 @@ GIKAI.questionText = {
       "scope": "summary",
       "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
       "speakers": []
+    },
+    {
+      "id": "da2f6596b60bdc124830",
+      "place": "上里町",
+      "season": "fall",
+      "date": "2026-09-04",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "高橋仁議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。 自動検査で確認候補になった時間帯も含まれます。",
+      "url": "https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/speech.html?council_id=47&schedule_id=1&playlist_id=2&speaker_id=12&target_year=2026",
+      "speakers": [
+        "高橋仁"
+      ]
     },
     {
       "id": "8ae755034939917ef86b",
@@ -4995,6 +6180,21 @@ GIKAI.questionText = {
       "scope": "summary",
       "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
       "speakers": []
+    },
+    {
+      "id": "ee73d02b48f4ad2a1d82",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-12",
+      "title": "埼玉県 令和 ８年 ２月 予算特別委員会 02月12日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/prefsaitama/SpMinuteView.html?tenant_id=350&council_id=481&schedule_id=2",
+      "kind": "公式会議録（特別委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "中川浩",
+        "梅澤佳一"
+      ]
     },
     {
       "id": "054220f669cb94bf5a96",
@@ -8593,6 +9793,211 @@ GIKAI.questionText = {
       "scope": "minutes",
       "speakers": [],
       "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
+    },
+    {
+      "id": "83da043b80265e5ee47b",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-11",
+      "title": "埼玉県 令和 ８年 ２月 予算特別委員会 03月11日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/prefsaitama/SpMinuteView.html?tenant_id=350&council_id=481&schedule_id=3",
+      "kind": "公式会議録（特別委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "中川浩",
+        "八子朋弘",
+        "千葉達也",
+        "城下のり子",
+        "小川寿士",
+        "平松大佑",
+        "戸野部直乃",
+        "杉田茂実",
+        "東山徹",
+        "松坂喜浩",
+        "梅澤佳一",
+        "水村篤弘",
+        "泉津井京子",
+        "渋谷真実子",
+        "町田皇介",
+        "美田宗亮",
+        "萩原一寿",
+        "鈴木まさひろ",
+        "阿左美健司",
+        "須賀昭夫"
+      ]
+    },
+    {
+      "id": "6e4e65b26ad204e070c8",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-12",
+      "title": "埼玉県 令和 ８年 ２月 予算特別委員会 03月12日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/prefsaitama/SpMinuteView.html?tenant_id=350&council_id=481&schedule_id=4",
+      "kind": "公式会議録（特別委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "中川浩",
+        "八子朋弘",
+        "城下のり子",
+        "安藤友貴",
+        "小川寿士",
+        "小川真一郎",
+        "平松大佑",
+        "戸野部直乃",
+        "杉田茂実",
+        "東山徹",
+        "松坂喜浩",
+        "梅澤佳一",
+        "水村篤弘",
+        "泉津井京子",
+        "渋谷真実子",
+        "鈴木まさひろ",
+        "関根信明",
+        "阿左美健司",
+        "須賀昭夫"
+      ]
+    },
+    {
+      "id": "d435dc9d5a2c97345357",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-13",
+      "title": "埼玉県 令和 ８年 ２月 予算特別委員会 03月13日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/prefsaitama/SpMinuteView.html?tenant_id=350&council_id=481&schedule_id=5",
+      "kind": "公式会議録（特別委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "中川浩",
+        "八子朋弘",
+        "城下のり子",
+        "小川寿士",
+        "平松大佑",
+        "戸野部直乃",
+        "東山徹",
+        "松井弘",
+        "松坂喜浩",
+        "梅澤佳一",
+        "権守幸男",
+        "水村篤弘",
+        "永瀬秀樹",
+        "泉津井京子",
+        "渋谷真実子",
+        "萩原一寿",
+        "鈴木まさひろ",
+        "関根信明",
+        "阿左美健司",
+        "須賀昭夫"
+      ]
+    },
+    {
+      "id": "f893dcf6b20cbbb609e8",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-16",
+      "title": "埼玉県 令和 ８年 ２月 予算特別委員会 03月16日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/prefsaitama/SpMinuteView.html?tenant_id=350&council_id=481&schedule_id=6",
+      "kind": "公式会議録（特別委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "中川浩",
+        "八子朋弘",
+        "城下のり子",
+        "安藤友貴",
+        "宮崎吾一",
+        "小川寿士",
+        "平松大佑",
+        "戸野部直乃",
+        "杉田茂実",
+        "松坂喜浩",
+        "柿沼貴志",
+        "梅澤佳一",
+        "水村篤弘",
+        "永瀬秀樹",
+        "渋谷真実子",
+        "町田皇介",
+        "鈴木まさひろ",
+        "阿左美健司",
+        "須賀昭夫"
+      ]
+    },
+    {
+      "id": "5393521742caa196431a",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-17",
+      "title": "埼玉県 令和 ８年 ２月 予算特別委員会 03月17日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/prefsaitama/SpMinuteView.html?tenant_id=350&council_id=481&schedule_id=7",
+      "kind": "公式会議録（特別委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "中川浩",
+        "八子朋弘",
+        "城下のり子",
+        "安藤友貴",
+        "小川寿士",
+        "小川直志",
+        "平松大佑",
+        "杉田茂実",
+        "松井弘",
+        "松坂喜浩",
+        "梅澤佳一",
+        "泉津井京子",
+        "萩原一寿",
+        "須賀昭夫"
+      ]
+    },
+    {
+      "id": "4fb1bde01f6573fa575b",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-19",
+      "title": "埼玉県 令和 ８年 ２月 予算特別委員会 03月19日－07号",
+      "url": "https://ssp.kaigiroku.net/tenant/prefsaitama/SpMinuteView.html?tenant_id=350&council_id=481&schedule_id=8",
+      "kind": "公式会議録（特別委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "中川浩",
+        "八子朋弘",
+        "城下のり子",
+        "安藤友貴",
+        "小川寿士",
+        "平松大佑",
+        "戸野部直乃",
+        "松坂喜浩",
+        "梅澤佳一",
+        "水村篤弘",
+        "町田皇介",
+        "荒木裕介",
+        "萩原一寿",
+        "藤井健志"
+      ]
+    },
+    {
+      "id": "c8cfe48a65ff6034847f",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-24",
+      "title": "埼玉県 令和 ８年 ２月 予算特別委員会 03月24日－08号",
+      "url": "https://ssp.kaigiroku.net/tenant/prefsaitama/SpMinuteView.html?tenant_id=350&council_id=481&schedule_id=9",
+      "kind": "公式会議録（特別委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "中川浩",
+        "八子朋弘",
+        "城下のり子",
+        "戸野部直乃",
+        "梅澤佳一",
+        "泉津井京子",
+        "荒木裕介",
+        "萩原一寿"
+      ]
     },
     {
       "id": "df25ebaea082b2b17d04",
@@ -23743,6 +25148,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "0681d59c3e34a03ca208",
+      "place": "松伏町",
+      "season": "fall",
+      "date": "2026-09-03",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "長谷川真也議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://matsubushi-town.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=4",
+      "speakers": [
+        "長谷川真也"
+      ]
+    },
+    {
       "id": "84021d3b9b8535f7fcf1",
       "place": "桶川市",
       "season": "spring",
@@ -28922,6 +30341,102 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "00842c4be14d26b3d017",
+      "place": "鴻巣市",
+      "season": "spring",
+      "date": "2026-03-05",
+      "title": "令和８年3月定例会 まちづくり常任委員会会議録 5日",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26758.pdf",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "市議会の会議録一覧で原本と会議日を照合し、PDF全73頁を頁ごとに収録しました。",
+      "speakers": []
+    },
+    {
+      "id": "512391b0e87bf82b91db",
+      "place": "鴻巣市",
+      "season": "spring",
+      "date": "2026-03-05",
+      "title": "令和８年3月定例会 文教福祉常任委員会会議録 5日",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26752.pdf",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "市議会の会議録一覧で原本と会議日を照合し、PDF全86頁を頁ごとに収録しました。",
+      "speakers": []
+    },
+    {
+      "id": "b83f54948fa0cac5e7b7",
+      "place": "鴻巣市",
+      "season": "spring",
+      "date": "2026-03-06",
+      "title": "令和８年3月定例会 まちづくり常任委員会会議録 6日",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26759.pdf",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "市議会の会議録一覧で原本と会議日を照合し、PDF全79頁を頁ごとに収録しました。",
+      "speakers": []
+    },
+    {
+      "id": "2a6efc11e7e46fcb5611",
+      "place": "鴻巣市",
+      "season": "spring",
+      "date": "2026-03-06",
+      "title": "令和８年3月定例会 文教福祉常任委員会会議録 6日",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26753.pdf",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "市議会の会議録一覧で原本と会議日を照合し、PDF全97頁を頁ごとに収録しました。",
+      "speakers": []
+    },
+    {
+      "id": "496458d636b20e88838e",
+      "place": "鴻巣市",
+      "season": "spring",
+      "date": "2026-03-09",
+      "title": "令和８年3月定例会 市民環境常任委員会会議録 9日",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26756.pdf",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "市議会の会議録一覧で原本と会議日を照合し、PDF全60頁を頁ごとに収録しました。",
+      "speakers": []
+    },
+    {
+      "id": "60e4b008be1374c93e96",
+      "place": "鴻巣市",
+      "season": "spring",
+      "date": "2026-03-09",
+      "title": "令和８年3月定例会 政策総務常任委員会会議録 9日",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26750.pdf",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "市議会の会議録一覧で原本と会議日を照合し、PDF全78頁を頁ごとに収録しました。",
+      "speakers": []
+    },
+    {
+      "id": "6a11bda5af4fff761055",
+      "place": "鴻巣市",
+      "season": "spring",
+      "date": "2026-03-10",
+      "title": "令和８年3月定例会 市民環境常任委員会会議録 10日",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26757.pdf",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "市議会の会議録一覧で原本と会議日を照合し、PDF全92頁を頁ごとに収録しました。",
+      "speakers": []
+    },
+    {
+      "id": "3654525534d022469e7e",
+      "place": "鴻巣市",
+      "season": "spring",
+      "date": "2026-03-10",
+      "title": "令和８年3月定例会 政策総務常任委員会会議録 10日",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26751.pdf",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "市議会の会議録一覧で原本と会議日を照合し、PDF全75頁を頁ごとに収録しました。",
+      "speakers": []
+    },
+    {
       "id": "8900a083eb62abba2532",
       "place": "鴻巣市",
       "season": "spring",
@@ -29068,6 +30583,42 @@ GIKAI.questionText = {
         "藤村孝志",
         "西尾綾子"
       ]
+    },
+    {
+      "id": "08f71f5492f787ea8a60",
+      "place": "鴻巣市",
+      "season": "summer",
+      "date": "2026-06-02",
+      "title": "令和８年6月定例会 文教福祉常任委員会会議録 2日",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28022.pdf",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "市議会の会議録一覧で原本と会議日を照合し、PDF全60頁を頁ごとに収録しました。",
+      "speakers": []
+    },
+    {
+      "id": "7602c270f244f527124c",
+      "place": "鴻巣市",
+      "season": "summer",
+      "date": "2026-06-03",
+      "title": "令和８年6月定例会 市民環境常任委員会会議録 3日",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28023.pdf",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "市議会の会議録一覧で原本と会議日を照合し、PDF全18頁を頁ごとに収録しました。",
+      "speakers": []
+    },
+    {
+      "id": "f20704f1cafa622e7fa7",
+      "place": "鴻巣市",
+      "season": "summer",
+      "date": "2026-06-03",
+      "title": "令和８年6月定例会 政策総務常任委員会会議録 3日",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28021.pdf",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "市議会の会議録一覧で原本と会議日を照合し、PDF全27頁を頁ごとに収録しました。",
+      "speakers": []
     },
     {
       "id": "22a48d8b2ea79c37302e",
@@ -29506,7 +31057,7 @@ GIKAI.questionText = {
       "season": "spring",
       "material": {
         "state": "verified",
-        "note": "公式目次と照合した本会議の日別会議録9資料を収録。",
+        "note": "公式目次と照合した本会議の日別会議録9資料を収録。公式一覧の予算特別委員会8資料も収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/prefsaitama/SpMinuteBrowse.html?tenant_id=350&view_years=2026"
       }
     },
@@ -29533,7 +31084,7 @@ GIKAI.questionText = {
       "season": "spring",
       "material": {
         "state": "verified",
-        "note": "公式目次と照合した本会議の日別会議録7資料を収録。子ども文教委員会の３日分も収録。",
+        "note": "公式目次と照合した本会議の日別会議録7資料を収録。公式一覧の常任・予算・議会運営委員会28資料も収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteBrowse.html?tenant_id=134&view_years=2026"
       }
     },
@@ -29542,7 +31093,7 @@ GIKAI.questionText = {
       "season": "summer",
       "material": {
         "state": "verified",
-        "note": "公式目次と照合した本会議の日別会議録7資料を収録。",
+        "note": "公式目次と照合した本会議の日別会議録7資料を収録。公式一覧の常任・予算・議会運営委員会31資料も収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteBrowse.html?tenant_id=134&view_years=2026"
       }
     },
@@ -29902,7 +31453,7 @@ GIKAI.questionText = {
       "season": "spring",
       "material": {
         "state": "verified",
-        "note": "公式目次と照合した本会議の日別会議録8資料を収録。",
+        "note": "公式目次と照合した本会議の日別会議録8資料を収録。公式一覧の常任委員会8資料も収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/kounosu/SpMinuteBrowse.html?tenant_id=85&view_years=2026"
       }
     },
@@ -29911,7 +31462,7 @@ GIKAI.questionText = {
       "season": "summer",
       "material": {
         "state": "verified",
-        "note": "公式目次と照合した本会議の日別会議録7資料を収録。",
+        "note": "公式目次と照合した本会議の日別会議録7資料を収録。公式一覧の常任委員会3資料も収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/kounosu/SpMinuteBrowse.html?tenant_id=85&view_years=2026"
       }
     },
@@ -31077,9 +32628,9 @@ GIKAI.questionText = {
       "place": "上里町",
       "season": "fall",
       "material": {
-        "state": "notFound",
-        "note": "公式録画一覧の15項目と公開用の動画索引を確認。質問・答弁の本文は確認中。",
-        "indexURL": "https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/council.html?year=2026&council_id=47"
+        "state": "partial",
+        "indexURL": "https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/council.html?year=2026&council_id=47",
+        "note": "公式録画一覧の一般質問11人のうち、1人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
       }
     },
     {
@@ -31184,7 +32735,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://matsubushi-town.stream.jfit.co.jp/?tpl=gikai_days_list&gikai_id=2",
-        "note": "公式録画一覧の一般質問9人のうち、1人の映像音声を機械文字起こしとして収録。正式会議録は確認中。議会だよりの紙面要約（26論点）も収録。"
+        "note": "公式録画一覧の一般質問9人のうち、2人の映像音声を機械文字起こしとして収録。正式会議録は確認中。議会だよりの紙面要約（26論点）も収録。"
       }
     }
   ]

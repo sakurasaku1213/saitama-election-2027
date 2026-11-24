@@ -19,7 +19,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "verified",
-          "note": "県議会の公開質問・答弁本文を確認。編集された速報と正式会議録を区別。"
+          "note": "公式目次と照合した本会議の日別会議録9資料を収録。公式一覧の予算特別委員会8資料も収録。"
         },
         "decisions": {
           "state": "partial",
@@ -31,7 +31,7 @@ GIKAI.coverage2026 = {
         },
         "policy": {
           "state": "verified",
-          "note": "既存252論点。県議会の2月の公開質問・答弁を全件照合。"
+          "note": "既存252論点。県議会の2月の公開質問・答弁を全件照合。朝の居場所事業の効果検証と、介護職員の複数訪問費用補助の質疑を確認。"
         }
       },
       "sources": [
@@ -90,8 +90,8 @@ GIKAI.coverage2026 = {
           "note": "県議会が掲載した会派別表決。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "複数訪問費用補助の再質問・知事答弁と７月の受付開始を照合。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -178,8 +178,8 @@ GIKAI.coverage2026 = {
           "note": "この時期の掲載項目 60件。通告・目次・本文の別は活動の出典に表示。"
         },
         "text": {
-          "state": "partial",
-          "note": "一般質問日３日分の公式会議録に到達。サイト内では照合済みの論点を掲載。"
+          "state": "verified",
+          "note": "公式目次と照合した本会議の日別会議録7資料を収録。公式一覧の常任・予算・議会運営委員会28資料も収録。"
         },
         "decisions": {
           "state": "verified",
@@ -191,7 +191,7 @@ GIKAI.coverage2026 = {
         },
         "policy": {
           "state": "partial",
-          "note": "会議録に照合済みの論点 3件。会期全体は未判定。いじめ問題救済委員会条例の修正案、議決、公布と相談窓口の開設を照合。"
+          "note": "会議録に照合済みの論点 3件。会期全体は未判定。いじめ問題救済委員会条例の修正案、議決、公布と相談窓口の開設を照合。食肉市場の再整備中止後の２月代表質問と６月の請願審査を照合。"
         }
       },
       "sources": [
@@ -242,8 +242,8 @@ GIKAI.coverage2026 = {
           "note": "この時期の掲載項目 76件。通告・目次・本文の別は活動の出典に表示。"
         },
         "text": {
-          "state": "partial",
-          "note": "一般質問日３日分の公式会議録に到達。サイト内では照合済みの論点を掲載。"
+          "state": "verified",
+          "note": "公式目次と照合した本会議の日別会議録7資料を収録。公式一覧の常任・予算・議会運営委員会31資料も収録。"
         },
         "decisions": {
           "state": "verified",
@@ -254,8 +254,8 @@ GIKAI.coverage2026 = {
           "note": "市の議案表決態度一覧の会派等21行、例外注記と欄外の集計を照合。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "食肉市場・と畜場の廃止方針について、６月の再質問と市の協議報告、請願採決を照合。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -2266,8 +2266,8 @@ GIKAI.coverage2026 = {
           "note": "この時期の掲載項目 49件。通告・目次・本文の別は活動の出典に表示。"
         },
         "text": {
-          "state": "identified",
-          "note": "対象時期の会議録または索引の掲載先を確認。本文の全件照合は未了。"
+          "state": "verified",
+          "note": "公式目次と照合した本会議の日別会議録8資料を収録。公式一覧の常任委員会8資料も収録。"
         },
         "decisions": {
           "state": "partial",
@@ -2322,6 +2322,10 @@ GIKAI.coverage2026 = {
         {
           "label": "議決結果一覧 (PDF:114KB)",
           "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf"
+        },
+        {
+          "label": "鴻巣市議会の常任委員会会議録",
+          "url": "https://www.city.kounosu.saitama.jp/site/gikai/42049.html"
         }
       ]
     },
@@ -2342,8 +2346,8 @@ GIKAI.coverage2026 = {
           "note": "この時期の掲載項目 45件。通告・目次・本文の別は活動の出典に表示。"
         },
         "text": {
-          "state": "identified",
-          "note": "対象時期の会議録または索引の掲載先を確認。本文の全件照合は未了。"
+          "state": "verified",
+          "note": "公式目次と照合した本会議の日別会議録7資料を収録。公式一覧の常任委員会3資料も収録。"
         },
         "decisions": {
           "state": "partial",
@@ -2390,6 +2394,10 @@ GIKAI.coverage2026 = {
         {
           "label": "議案・議決資料　議決結果一覧 (PDF:98KB)",
           "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27116.pdf"
+        },
+        {
+          "label": "鴻巣市議会の常任委員会会議録",
+          "url": "https://www.city.kounosu.saitama.jp/site/gikai/42049.html"
         }
       ]
     },
@@ -8370,8 +8378,8 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "text": {
-          "state": "notFound",
-          "note": "公式録画一覧の15項目と公開用の動画索引を確認。質問・答弁の本文は確認中。"
+          "state": "partial",
+          "note": "公式録画一覧の一般質問11人のうち、1人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
         },
         "decisions": {
           "state": "pending",
@@ -8918,8 +8926,8 @@ GIKAI.coverage2026 = {
           "note": "この時期の掲載項目 27件。通告・目次・本文の別は活動の出典に表示。"
         },
         "text": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "公式録画一覧の一般質問9人のうち、2人の映像音声を機械文字起こしとして収録。正式会議録は確認中。議会だよりの紙面要約（26論点）も収録。"
         },
         "decisions": {
           "state": "verified",

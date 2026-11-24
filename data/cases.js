@@ -581,3 +581,129 @@ GIKAI.cases.push(
     note: "給食無償化への議員の発言、一般会計予算全体への表決、町の実施を各出典で確認できます。",
   },
 );
+
+GIKAI.cases.push(
+  {
+    place: "さいたま市",
+    title: "食肉市場・と畜場の再整備中止後に協議の進捗を問い直す",
+    topic: "食肉流通・事業者支援",
+    actors: ["松村敏夫", "さいたま市議会", "さいたま市"],
+    steps: [
+      {
+        date: "2025-11-19", stage: "移転再整備事業の中止を発表", actor: "さいたま市",
+        detail: "市は食肉中央卸売市場・と畜場の移転再整備事業の中止と、老朽化や耐震性能の問題がある現施設の廃止方針を発表した。",
+        url: "https://www.city.saitama.lg.jp/006/014/008/003/014/008/p125885.html",
+        sourceTitle: "さいたま市 令和７年11月19日発表資料",
+      },
+      {
+        date: "2026-02-12", stage: "代表質問で廃止の経過と影響を質す", actor: "松村敏夫",
+        detail: "方針決定前の事業者との協議、雇用・流通への影響の調査、今後の対応を質問した。市は、国・県・市の連携体制を調整中で、事業者の意見を聞いて影響への対応を検討すると答えた。",
+        url: "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1074&schedule_id=6",
+        sourceTitle: "さいたま市議会 ２月12日代表質問・会議録231～234頁",
+      },
+      {
+        date: "2026-06-12", stage: "請願審査で、２月答弁後に行われた協議を確認", actor: "松村敏夫",
+        detail: "２月の答弁を踏まえ、国・県との協議が実際に行われたか、事業者からどのような意見を聞いたかを問い直した。",
+        url: "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1091&schedule_id=2",
+        sourceTitle: "さいたま市議会 ６月12日総合政策委員会会議録・請願第７号",
+      },
+      {
+        date: "2026-06-12", stage: "国・県との合同会議体と事業者との協議を報告", actor: "さいたま市",
+        detail: "市は新年度に合同会議体を設置し、機能の維持に関する考えを国・県と意見交換したと答えた。事業者との協議で搬入先、買参人の購入先、従業員の雇用への懸念を聞いたことも説明した。",
+        url: "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1091&schedule_id=2",
+        sourceTitle: "さいたま市議会 ６月12日総合政策委員会会議録・市の答弁",
+      },
+      {
+        date: "2026-06-26", stage: "維持・存続に向けた請願を不採択", actor: "さいたま市議会",
+        detail: "維持・存続に向けた努力を求める請願第７号を不採択とした。",
+        url: "https://www.discusscabinet.net/saitama/",
+        sourceTitle: "さいたま市議会 ６月の請願審議結果１頁・文書ID 15543", billNumber: "請願第7号",
+      },
+    ],
+    note: "会期をまたいだ再質問、行政が報告した協議、請願の採決を確認しました。流通や雇用への対策の確定は確認中です。",
+  },
+  {
+    place: "埼玉県",
+    title: "登校前の居場所づくりを取り上げ、モデル事業を現地で検証",
+    topic: "小学校・子育て支援",
+    actors: ["泉津井京子", "埼玉県", "志木市"],
+    steps: [
+      {
+        date: "2024-06-26", stage: "登校前の居場所づくりと朝の学校開放を提起", actor: "泉津井京子",
+        detail: "保育所の開所時刻と小学校の登校時刻の差を取り上げ、他市の学校開放を例に、朝の居場所確保と教員負担への配慮を尋ねた。",
+        url: "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0606/4/k/0420.html",
+        sourceTitle: "埼玉県議会 令和６年６月26日一般質問・答弁",
+      },
+      {
+        date: "2025-06", stage: "志木市がモデル事業を開始", actor: "志木市",
+        detail: "県の実施概要では、志木市が令和７年６月に事業を開始した。令和７年度は志木市、毛呂山町、富士見市、行田市がモデル事業に参加した。",
+        url: "https://www.pref.saitama.lg.jp/documents/280169/r7_03shiryou.pdf#page=11",
+        sourceTitle: "埼玉県 朝のこどもの居場所づくりモデル事業・実施概要 PDF11頁",
+      },
+      {
+        date: "2025-10-02", stage: "志木市の現場を見た上で事業の継続と検証を質す", actor: "泉津井京子",
+        detail: "志木市いろは遊学館を訪ね、保護者から就業時の負担が軽くなったとの話を聞いたと報告した。実施自治体から得た知見の検証と、他の自治体に広げる方法を質問した。",
+        url: "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0709/4/h/0401.html",
+        sourceTitle: "埼玉県議会 令和７年10月２日一般質問・答弁",
+      },
+      {
+        date: "2026-03-12", stage: "予算特別委員会で効果検証と次年度の方針を確認", actor: "泉津井京子、埼玉県福祉部",
+        detail: "泉津井議員は朝の見守りを視察したことを述べ、利用増や会場確保の課題、令和８年度の方針を尋ねた。県は４市町と有識者による効果検証会を実施したと答え、実施方法の共有や国への財政措置の要望を示した。",
+        url: "https://ssp.kaigiroku.net/tenant/prefsaitama/SpMinuteView.html?tenant_id=350&council_id=481&schedule_id=4",
+        sourceTitle: "埼玉県議会 ３月12日予算特別委員会会議録・福祉部審査",
+      },
+      {
+        date: "2026-04-10", stage: "志木市が令和８年度も朝の利用を案内", actor: "志木市",
+        detail: "志木市は、モデル校の志木小学校の児童のうち、保護者の就業により利用が必要な世帯を対象に、いろは遊学館で午前７時から８時まで見守りを行うと案内した。",
+        url: "https://www.city.shiki.lg.jp/kosodate/shikikko/38003.html",
+        sourceTitle: "志木市 令和８年度朝のこどもの居場所づくりモデル事業の利用案内",
+      },
+    ],
+    note: "視察と聞き取りは議員の会議録上の報告です。県のモデル事業の実施範囲と志木市の継続は各公式資料で確認しました。",
+  },
+  {
+    place: "埼玉県",
+    title: "訪問介護の安全対策を問い直し、複数訪問の補助拡大と受付まで確認",
+    topic: "訪問介護・従事者の安全",
+    actors: ["水村篤弘", "城下のり子", "埼玉県議会", "埼玉県"],
+    steps: [
+      {
+        date: "2026-03-12", stage: "事業者が利用しやすい補助への改善を求める", actor: "水村篤弘",
+        detail: "制度の周知不足、申請の手間、人手不足で同行者を確保しにくいという声を示し、改善を求めた。福祉部は、事前協議や第三者の証明書などの手続の簡素化を検討すると答えた。",
+        url: "https://ssp.kaigiroku.net/tenant/prefsaitama/SpMinuteView.html?tenant_id=350&council_id=481&schedule_id=4",
+        sourceTitle: "埼玉県議会 ３月12日予算特別委員会会議録・福祉部審査",
+      },
+      {
+        date: "2026-06-19", stage: "一般質問で対象拡大と手続の具体策を確認", actor: "水村篤弘",
+        detail: "３月の質疑を明示し、６月15日に知事が発表した対象拡大・手続簡素化を踏まえて、対象職種や同行者の要件、緊急時の手続、補助率などの具体的な改善内容を尋ねた。",
+        url: "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/b/0301.html",
+        sourceTitle: "埼玉県議会 ６月19日一般質問・複数訪問費用補助の改善",
+      },
+      {
+        date: "2026-06-19", stage: "補正予算案による新制度と既存制度の拡大を答弁", actor: "埼玉県知事",
+        detail: "介護支援専門員の安全確保に関する国の通知を受け、県の全額補助で同行者の資格要件や事前協議を設けない新制度を提案したと答弁。既存制度も在宅サービスの対象職種を広げる方針を示した。",
+        url: "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/b/0301.html",
+        sourceTitle: "埼玉県議会 ６月19日一般質問に対する知事答弁",
+      },
+      {
+        date: "2026-06-23", stage: "既存制度の書類削減と無資格者の同行を求める", actor: "城下のり子",
+        detail: "既存の訪問介護などにも、申請書類の簡素化と同行者の対象拡大を求めた。福祉部長は、事前協議を廃止して申請書のみとし、資格を持たない同行者も補助対象にすると答えた。",
+        url: "https://ssp.kaigiroku.net/tenant/prefsaitama/SpMinuteView.html?tenant_id=350&council_id=483&schedule_id=5",
+        sourceTitle: "埼玉県議会 ６月23日本会議録・複数人訪問費用補助の質疑",
+      },
+      {
+        date: "2026-07-03", stage: "介護支援専門員の安全対策を盛り込んだ補正予算を可決", actor: "埼玉県議会",
+        detail: "福祉保健医療委員長が第101号議案の審査経過を報告した。本会議は第101号を含む11議案を一括採決し、起立総員で原案どおり可決・承認した。",
+        url: "https://ssp.kaigiroku.net/tenant/prefsaitama/SpMinuteView.html?tenant_id=350&council_id=483&schedule_id=8",
+        sourceTitle: "埼玉県議会 ７月３日本会議録・委員長報告と採決",
+      },
+      {
+        date: "2026-07-31", stage: "新制度の受付開始と既存制度の要件変更を公表", actor: "埼玉県",
+        detail: "介護支援専門員等の複数訪問と事業所の安全確保経費について受付を始めたと発表した。既存の訪問系サービス向け補助は対象を広げ、補助率を９割から全額に変更し、申請手続を簡素化した。",
+        url: "https://www.pref.saitama.lg.jp/a0603/news/page/news2026073101.html",
+        sourceTitle: "埼玉県 ７月31日の補助制度創設・拡大の報道発表",
+      },
+    ],
+    note: "議員の複数会期にわたる質問と、県が公表した制度改定・受付開始を確認しました。交付実績は確認中です。",
+  },
+);
