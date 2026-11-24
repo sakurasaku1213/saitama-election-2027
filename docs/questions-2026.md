@@ -2,9 +2,9 @@
 
 川越市の３会期の一般質問は、[議員比較の根拠に使った93掲載回と出典の確認範囲](kawagoe-policy-2026.md)も参照してください。
 
-確認日 2026-11-24。県議会と全63市町村の192会期枠を対象に、64議会・180枠で本文または議会だより等に掲載された問答を収録。残る12枠も下表に確認先を示す。
+確認日 2026-11-24。県議会と全63市町村の192会期枠を対象に、64議会・181枠で本文または議会だより等に掲載された問答を収録。残る11枠も下表に確認先を示す。
 
-収録資料 1,618件。33枠は、原典の日程・索引で確認した質問日または掲載項目に対応する。
+収録資料 1,619件。33枠は、原典の日程・索引で確認した質問日または掲載項目に対応する。
 
 | 資料の種類 | 件数 |
 | --- | ---: |
@@ -14,7 +14,7 @@
 | 公式会議録PDFのOCR転記 | 16 |
 | 公開会議録（閲覧用） | 11 |
 | 議会だよりの質問・答弁要旨（HTML） | 1 |
-| 議会だよりの質問・答弁（紙面要約） | 2 |
+| 議会だよりの質問・答弁（紙面要約） | 3 |
 
 本会議録の日別資料には当日の議事も含まれる。県議会の速報版は質問・答弁の掲載項目ごと。議会だよりは質問者による編集要約等を含む。PDFのOCR転記と、紙面を照合して作った要約には原本の頁番号を付けた。
 
@@ -38,7 +38,7 @@
 | 東松山市 | [本文・要旨 6件](https://ssp.kaigiroku.net/tenant/higashimatsuyama/SpMinuteView.html?tenant_id=43&council_id=489&schedule_id=2)<br>一部収録 | [本文・要旨 7件](https://ssp.kaigiroku.net/tenant/higashimatsuyama/SpMinuteView.html?tenant_id=43&council_id=494&schedule_id=2)<br>一部収録 | [本文・要旨 1件](https://www.city.higashimatsuyama.lg.jp/uploaded/attachment/21055.pdf)<br>一部収録 | — |
 | 春日部市 | [本文・要旨 12件](https://www.kasukabe-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82R%8C%8E%92%E8%97%E1%89%EF%81%7C02%8C%8E16%93%FA-01%8D%86&KGNO=1390&FINO=2264&UNID=K_R08021600011)<br>一部収録 | [本文・要旨 8件](https://www.kasukabe-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82U%8C%8E%92%E8%97%E1%89%EF%81%7C05%8C%8E28%93%FA-01%8D%86&KGNO=1421&FINO=2311&UNID=K_R08052800011)<br>一部収録 | [本文・要旨 1件](https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Koho/Kh95_85all.pdf)<br>一部収録 | — |
 | 狭山市 | [本文・要旨 8件](https://sayama.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82R%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82P%89%F1%81j%81%7C02%8C%8E20%93%FA-01%8D%86&KGNO=530&FINO=2203&UNID=k_R08022000011)<br>一部収録 | [本文・要旨 6件](https://sayama.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82U%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82Q%89%F1%81j%81%7C06%8C%8E05%93%FA-01%8D%86&KGNO=534&FINO=2221&UNID=k_R08060500011)<br>一部収録 | [本文・要旨 1件](https://www.city.sayama.saitama.jp/gikai/gikaidayori/dayoriR8.files/231.pdf)<br>一部収録 | — |
-| 羽生市 | [本文・要旨 6件](https://ssp.kaigiroku.net/tenant/hanyu/SpMinuteView.html?tenant_id=159&council_id=207&schedule_id=2)<br>一部収録 | [本文・要旨 6件](https://ssp.kaigiroku.net/tenant/hanyu/SpMinuteView.html?tenant_id=159&council_id=212&schedule_id=2)<br>一部収録 | [確認先](https://www.city.hanyu.lg.jp/docs/2015031100146/)<br>確認先で本文未確認 | — |
+| 羽生市 | [本文・要旨 6件](https://ssp.kaigiroku.net/tenant/hanyu/SpMinuteView.html?tenant_id=159&council_id=207&schedule_id=2)<br>一部収録 | [本文・要旨 6件](https://ssp.kaigiroku.net/tenant/hanyu/SpMinuteView.html?tenant_id=159&council_id=212&schedule_id=2)<br>一部収録 | [議会だより256号](https://www.city.hanyu.lg.jp/docs/2026051900012/file_contents/file_2026116515327_1.pdf#page=2)<br>紙面要約1件・一般質問12人39論点、議案質疑10論点 | — |
 | 鴻巣市 | [本文・要旨 8件](https://ssp.kaigiroku.net/tenant/kounosu/SpMinuteView.html?tenant_id=85&council_id=427&schedule_id=2)<br>一部収録 | [本文・要旨 7件](https://ssp.kaigiroku.net/tenant/kounosu/SpMinuteView.html?tenant_id=85&council_id=430&schedule_id=2)<br>一部収録 | [本文・要旨 1件](https://www.city.kounosu.saitama.jp/uploaded/attachment/28860.pdf)<br>一部収録 | — |
 | 深谷市 | [本文・要旨 6件](https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=902&schedule_id=2)<br>一部収録 | [本文・要旨 6件](https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=911&schedule_id=2)<br>一部収録 | [本文・要旨 6件](https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=918&schedule_id=2)<br>一部収録 | 1 |
 | 上尾市 | [本文・要旨 8件](https://ssp.kaigiroku.net/tenant/ageo/SpMinuteView.html?tenant_id=39&council_id=433&schedule_id=2)<br>一部収録 | [本文・要旨 8件](https://ssp.kaigiroku.net/tenant/ageo/SpMinuteView.html?tenant_id=39&council_id=437&schedule_id=2)<br>一部収録 | [本文・要旨 9件](https://ssp.kaigiroku.net/tenant/ageo/SpMinuteView.html?tenant_id=39&council_id=441&schedule_id=2)<br>一部収録 | — |
@@ -94,10 +94,10 @@
 | 資料の確認状態 | 会期枠 |
 | --- | ---: |
 | 確認した質問日・項目を収録 | 33 |
-| 一部収録 | 147 |
+| 一部収録 | 148 |
 | 掲載先候補あり・本文未収録 | 0 |
 | 取得・照合できず | 0 |
-| 確認先で本文未確認 | 12 |
+| 確認先で本文未確認 | 11 |
 | 調査中 | 0 |
 | 対象会期なし | 0 |
 
@@ -106,6 +106,7 @@
 - リポジトリには資料の索引、公式URL、資料種別、出典付きの政策要約、閲覧機能を置いた。
 - 手元閲覧用の単一HTMLにのみ、取得・照合した本文と要旨のローカル束を埋め込んだ。正式会議録・速報版・議会だより・OCR転記を区別して表示する。
 - 小鹿野町は、町公式の会議録一覧から３月・６月の本会議録を取り込み、公式目次の全７日と照合した。９月定例会の会議録は一覧で未確認。
+- 羽生市は、９月定例会の議会だよりに問答の掲載がある一般質問12人分と議案質疑を紙面と照合した。見出しのみ掲載された項目の問答と、正式会議録の本文は確認中。[羽生市議会の最新号案内](https://www.city.hanyu.lg.jp/docs/2026051900012/)
 - OCRの確認警告がある頁は本文束から除いた。警告のない頁だけを収録した資料では、除外頁を本文カードに表示した。
 
 ### 今回のOCR保留

@@ -16901,7 +16901,7 @@ GIKAI.questionText = {
       "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000008/8030/204gikaidayori.pdf#page=6",
       "kind": "議会だよりの質問・答弁（紙面要約）",
       "scope": "summary",
-      "note": "PDF 6～10頁の議会だよりを紙面と照合し、問答が掲載された16論点を要約しました。正式会議録の全文は確認中です。",
+      "note": "議会だよりのPDF 6～10頁を照合し、問答が掲載された16論点を要約しました。正式会議録の全文は確認中です。",
       "speakers": [
         "吉本秀二",
         "小林智",
@@ -22027,7 +22027,7 @@ GIKAI.questionText = {
       "url": "https://www.city.okegawa.lg.jp/material/files/group/2/gikaidayori_no224.pdf#page=5",
       "kind": "議会だよりの質問・答弁（紙面要約）",
       "scope": "summary",
-      "note": "PDF 5～11頁の議会だよりを紙面と照合し、問答が掲載された47論点を要約しました。正式会議録の全文は確認中です。",
+      "note": "議会だよりのPDF 5～11頁を照合し、問答が掲載された47論点を要約しました。正式会議録の全文は確認中です。",
       "speakers": [
         "仲又清美",
         "北村あやこ",
@@ -23945,6 +23945,31 @@ GIKAI.questionText = {
         "昆佳子",
         "柳沢暁",
         "田口さとる",
+        "駒宮圭吾"
+      ]
+    },
+    {
+      "id": "b4d1efb812cb581cbc02",
+      "place": "羽生市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "羽生市ぎかいだより256号・9月定例会",
+      "url": "https://www.city.hanyu.lg.jp/docs/2026051900012/file_contents/file_2026116515327_1.pdf#page=2",
+      "kind": "議会だよりの質問・答弁（紙面要約）",
+      "scope": "summary",
+      "note": "議会だよりのPDF 2～8頁（一般質問）・10～11頁（議案質疑）を照合し、問答が掲載された49論点を要約しました。正式会議録の全文は確認中です。",
+      "speakers": [
+        "中島直樹",
+        "小川明彦",
+        "小林誠弥",
+        "小野田和男",
+        "島村勉",
+        "川田真也",
+        "昆佳子",
+        "柳沢暁",
+        "田口さとる",
+        "西山丈由",
+        "野中一城",
         "駒宮圭吾"
       ]
     },
@@ -26994,8 +27019,8 @@ GIKAI.questionText = {
       "place": "羽生市",
       "season": "fall",
       "material": {
-        "state": "notFound",
-        "note": "2026年の公式会議録の年別一覧で秋の定例会本文を確認できませんでした。"
+        "state": "partial",
+        "note": "議会だよりの掲載質疑を紙面照合して要約。正式会議録の全文は確認中。"
       }
     },
     {
