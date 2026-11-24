@@ -27331,6 +27331,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "b7692a8955c54efaaef1",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-24",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "山脇紀子議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Video_View.asp?SrchID=2394",
+      "speakers": [
+        "山脇紀子"
+      ]
+    },
+    {
       "id": "2ef432287089d0dfc6bc",
       "place": "蕨市",
       "season": "fall",
@@ -30041,7 +30055,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://warabi.gijiroku.com/gikai/g07_Video_Search.asp",
-        "note": "公式録画一覧の一般質問15人のうち、9人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
+        "note": "公式録画一覧の一般質問15人のうち、10人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
       }
     },
     {

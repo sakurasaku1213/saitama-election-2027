@@ -4,7 +4,7 @@
 
 確認日 2026-11-24。県議会と全63市町村の192会期枠を対象に、64議会・187枠で会議録、紙面の問答、録画の機械文字起こし、または公開自動字幕を収録。本文・要旨等が未収録の5枠にも確認先を示す。
 
-収録資料 1,826件。147枠では、原典の目次・索引等にある本会議の日別資料、一般質問日または掲載項目と収録範囲を照合した。
+収録資料 1,827件。147枠では、原典の目次・索引等にある本会議の日別資料、一般質問日または掲載項目と収録範囲を照合した。
 
 | 資料の種類 | 件数 |
 | --- | ---: |
@@ -17,12 +17,12 @@
 | 公開会議録（閲覧用） | 11 |
 | 議会だよりの質問・答弁要旨（HTML） | 1 |
 | 議会だよりの質問・答弁（紙面要約） | 4 |
-| 公式録画の機械文字起こし | 13 |
+| 公式録画の機械文字起こし | 14 |
 | 公式録画の公開自動字幕 | 33 |
 
 本会議録の日別資料には当日の議事も含まれる。県議会の速報版は質問・答弁の掲載項目ごと。議会だよりは質問者による編集要約等を含む。PDFのOCR転記と、紙面を照合して作った要約には原本の頁番号を付けた。
 
-政策事例は44件。川越市の５事例は、一般質問に加え、条例の公布、事業の実施や会議での審議など、資料で追えた経過を掲載した。さいたま市のいじめ救済条例は、議員の修正案、議決、公布、相談窓口の開設を照合した。全体の政策経過の照合は進行中。
+政策事例は47件。川越市の５事例に加え、議員の修正案が採用されたさいたま市のいじめ救済条例、当初の説明を議員が落札後に問い直した東秩父村の新庁舎などを、出典とともに追える。全体の政策経過の照合は進行中。
 
 ## 議会別の収録と確認先
 
@@ -48,7 +48,7 @@
 | 上尾市 | [本会議録8資料](https://ssp.kaigiroku.net/tenant/ageo/SpMinuteBrowse.html?tenant_id=39&view_years=2026)<br>公式掲載目次と照合 | [本会議録8資料](https://ssp.kaigiroku.net/tenant/ageo/SpMinuteBrowse.html?tenant_id=39&view_years=2026)<br>公式掲載目次と照合 | [本会議録9資料](https://ssp.kaigiroku.net/tenant/ageo/SpMinuteBrowse.html?tenant_id=39&view_years=2026)<br>公式掲載目次と照合 | — |
 | 草加市 | [本会議録8資料](http://www.soka-shigikai.jp/voices/g08v_viewh.asp?Sflg=11&FYY=2026&TYY=2026)<br>公式掲載目次と照合 | [本会議録6資料](http://www.soka-shigikai.jp/voices/g08v_viewh.asp?Sflg=11&FYY=2026&TYY=2026)<br>公式掲載目次と照合 | [本会議録6資料](http://www.soka-shigikai.jp/voices/g08v_viewh.asp?Sflg=11&FYY=2026&TYY=2026)<br>公式掲載目次と照合 | — |
 | 越谷市 | [本会議録7資料](https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteBrowse.html?tenant_id=503&view_years=2026)<br>公式掲載目次と照合 | [本会議録7資料](https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteBrowse.html?tenant_id=503&view_years=2026)<br>公式掲載目次と照合 | [本文・要旨 1件](https://www.city.koshigaya.saitama.jp/gikai/dayori/2026/234-6-7.html)<br>一部収録 | — |
-| 蕨市 | [本会議録7資料](https://warabi.gijiroku.com/voices/g08v_view.asp?Sflg=11&FYY=2026&TYY=2026)<br>公式掲載目次と照合 | [本会議録6資料](https://warabi.gijiroku.com/voices/g08v_view.asp?Sflg=11&FYY=2026&TYY=2026)<br>公式掲載目次と照合 | [公式録画一覧](https://warabi.gijiroku.com/gikai/g07_Video_Search.asp)<br>機械文字起こし9件・正式会議録を確認中 | — |
+| 蕨市 | [本会議録7資料](https://warabi.gijiroku.com/voices/g08v_view.asp?Sflg=11&FYY=2026&TYY=2026)<br>公式掲載目次と照合 | [本会議録6資料](https://warabi.gijiroku.com/voices/g08v_view.asp?Sflg=11&FYY=2026&TYY=2026)<br>公式掲載目次と照合 | [公式録画一覧](https://warabi.gijiroku.com/gikai/g07_Video_Search.asp)<br>機械文字起こし10件・正式会議録を確認中 | — |
 | 戸田市 | [本会議録11資料](https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/GD024/GD024_002?FYY=2026&TYY=2026&kubun=1&menu=000024)<br>公式掲載目次と照合 | [本会議録7資料](https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/GD024/GD024_002?FYY=2026&TYY=2026&kubun=1&menu=000024)<br>公式掲載目次と照合 | [本文・要旨 1件](https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055902&fileId=dd82a10f1e594ab2aa76f45623067024&fileName=236_A3.pdf)<br>一部収録 | — |
 | 入間市 | [本会議録7資料](https://www3.city.iruma.saitama.jp/voices/g08v_viewh.asp?Sflg=11&FYY=2026&TYY=2026)<br>公式掲載目次と照合 | [本会議録6資料](https://www3.city.iruma.saitama.jp/voices/g08v_viewh.asp?Sflg=11&FYY=2026&TYY=2026)<br>公式掲載目次と照合 | [本会議録7資料](https://www3.city.iruma.saitama.jp/voices/g08v_viewh.asp?Sflg=11&FYY=2026&TYY=2026)<br>公式掲載目次と照合 | — |
 | 朝霞市 | [本会議録7資料](https://ssp.kaigiroku.net/tenant/asaka/SpMinuteBrowse.html?tenant_id=217&view_years=2026)<br>公式掲載目次と照合 | [本会議録6資料](https://ssp.kaigiroku.net/tenant/asaka/SpMinuteBrowse.html?tenant_id=217&view_years=2026)<br>公式掲載目次と照合 | [本会議録7資料](https://ssp.kaigiroku.net/tenant/asaka/SpMinuteBrowse.html?tenant_id=217&view_years=2026)<br>公式掲載目次と照合 | — |
@@ -115,7 +115,7 @@
 - 羽生市は、９月定例会の議会だよりに問答の掲載がある一般質問12人分と議案質疑を紙面と照合した。見出しのみ掲載された項目の問答と、正式会議録の本文は確認中。[羽生市議会の最新号案内](https://www.city.hanyu.lg.jp/docs/2026051900012/)
 - 松伏町は、９月定例会の議会だよりに問答の掲載がある26論点を、紙面の９〜13頁と照合した。議決と記名表決を20件ずつ照合し、提出者の記号は賛否と区別して表示した。[町の会議結果](https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000003/3031/0809kaigikekka.pdf)・[議会だよりの記名表決](https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000003/3130/gikaidayori135_P7.pdf)
 - 松伏町の秋の公式録画は、一般質問９人のうち1人分の機械文字起こしを収録した。原音による本文の確定照合は未了。[松伏町の公式録画一覧](https://matsubushi-town.stream.jfit.co.jp/?tpl=gikai_days_list&gikai_id=2)
-- 蕨市の９月定例会は、公式録画の一般質問15人のうち9人分の機械文字起こしを収録。質問者は録画一覧で照合した。本文の話者名・用語・数字は原録画で確認できる。[公式録画一覧](https://warabi.gijiroku.com/gikai/g07_Video_Search.asp)
+- 蕨市の９月定例会は、公式録画の一般質問15人のうち10人分の機械文字起こしを収録。質問者は録画一覧で照合した。本文の話者名・用語・数字は原録画で確認できる。[公式録画一覧](https://warabi.gijiroku.com/gikai/g07_Video_Search.asp)
 - OCRの確認警告がある頁は本文束から除いた。警告のない頁だけを収録した資料では、除外頁を本文カードに表示した。
 
 - 越生町の９月定例会は、町公式の一般質問一覧にある録画10人分の日本語自動字幕を収録。録画の掲載者と日付を照合し、原音を聴いた確定照合の状態を各資料に表示した。[町公式の録画一覧](https://www.town.ogose.saitama.jp/kamei/gikai/gyomuannai/reiwa8_9teireikai/4600.html)
@@ -138,6 +138,9 @@
 - さいたま市は、２月・６月・９月定例会の議案186件・請願22件の審議結果を照合した。議案第59号は修正案と修正部分を除く原案の採決を別に表示する。原表に記載された会派等の賛否71行、会派内の賛否の分かれ、欠席・除斥、表に掲載されない議案への欄外注記を収録した。[審議結果（文書一覧・本会議・令和８年・各定例会）](https://www.discusscabinet.net/saitama/)・[議案表決態度一覧](https://www.city.saitama.lg.jp/gikai/003/002/hyouketutaido/p129237.html)
 - さいたま市の２月定例会の議案第２号・第102号は審議結果表の訂正後の件名を採用した。６月定例会の議案第115号は、審議結果表で欠けた件名末尾を市長提出議案一覧から補った。[６月定例会の市長提出議案](https://www.city.saitama.lg.jp/006/007/002/001/018/p131035.html)
 - さいたま市の子ども文教委員会は２月13日・16日・24日の本文を収録した。いじめ救済条例案では青羽健仁議員が、議会への請願・陳情を理由とする調査の制限を削除する修正案を書面で提出した。修正可決・公布に続き、市が７月２日に相談窓口を開設したことを確認した。[修正案の審査](https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1079&schedule_id=3)・[公布条例](https://www.city.saitama.lg.jp/006/011/004/jorei/08/p129148.html)・[相談窓口](https://www.city.saitama.lg.jp/003/002/011/p129878.html)
+- 小鹿野町・神川町の春・初夏は、公式本会議録で確認した番号付き案件の議決等をそれぞれ52件・59件収録した。神川町の春には指名推選２件があり、初夏には採決を伴わない報告終結３件がある。陳情第１号は委員長報告の不採択と本会議の採択を記録した。[小鹿野町３月会議録](https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803T.html)・[６月会議録](https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0806T.html)・[神川町会議録検索](https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteBrowse.html?tenant_id=73&view_years=2026)
+- 上里町の３月定例会は、議会だより111号の記名表決表36行・504欄を、公式本会議録の３月９日・18日・23日に照合した。意見書第17号は、議長を除く賛否が６対６となり、議長が否決と裁決した。[議会だより111号9頁](https://www.town.kamisato.saitama.jp/secure/15661/111gou2.pdf#page=9)・[３月23日の採決](https://www.town.kamisato.saitama.jp/secure/15813/R8.3.23.pdf#page=11)
+- 小鹿野町の乗合タクシーは、倉尾線との併用や台数の質疑、条例案可決、町の現行の運行案内を確認。東秩父村の新庁舎では、渡辺絹代議員が３月に分離発注の理由を質し、６月に落札率を踏まえ当初の説明を問い直した。上里町では、沓澤幸子議員が給食無償化の財源を質問し、無償化を評価した上で予算全体には反対した経過を記録した。神川町の暑さ対策事例には、柴崎愛子議員が温度を測ったと報告した６月の正式会議録を追加した。[小鹿野町の運行案内](https://www.town.ogano.lg.jp/kurashi-tetsuzuki/bus-taxi/)・[東秩父村の入札結果](https://www.vill.higashichichibu.saitama.jp/uploaded/life/9605_57840_misc.pdf#page=1)・[上里町の給食無償化案内](https://www.town.kamisato.saitama.jp/7773.htm)・[神川町６月４日会議録](https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteView.html?tenant_id=73&council_id=96&schedule_id=2)
 - 松伏町の手話言語条例は、請願の紹介と趣旨説明、委員会の判断、2025年９月の本会議での討論・採択、2026年９月の全員協議会、10月19日からの素案への意見募集を資料でつないだ。高校生の車椅子通学については、越生町議会の意見書案可決と、県議会の質疑・答弁を収録した。[松伏町議会の本会議録](https://www.town.matsubushi.saitama.dbsr.jp/650568?Template=document&Id=1184#one)・[広報まつぶし10月号](https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000003/3121/matsubushi689_11-16.pdf#page=4)・[越生町の議決結果](https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf)・[埼玉県議会の質問・答弁](https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/b/0203a.html)
 
 ### 今回のOCR保留

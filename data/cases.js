@@ -16,7 +16,7 @@ GIKAI.cases.push(...[
 {"title":"投票所に行きにくい人の移動を翌年度予算の論点にする","place":"寄居町","actors":["寄居町議会"],"topic":"選挙・移動支援","steps":[{"date":"2026-11-02","actor":"寄居町議会","stage":"提出を公表","detail":"令和9年度の予算に向けて町に提言書を提出したと公表した。投票環境の整備は、文書が取り上げた4項目の一つ。","url":"https://www.town.yorii.saitama.jp/site/gikai/teigenr-9.html","sourceTitle":"寄居町議会「令和9年度に向けた提言書」"},{"date":"2026-11-02","actor":"寄居町議会","stage":"要望内容の公表","detail":"投票所の段差への対策に加え、移動投票や電子投票について、費用、仕組み、運用上の課題を調べるよう町に求めた。","url":"https://www.town.yorii.saitama.jp/uploaded/attachment/28410.pdf","sourceTitle":"寄居町議会・令和9年度予算に向けた提言書（1頁）"}],"note":"日付は提言書の公表日。移動投票・電子投票についての記載は調査・検討の要望。"},
 {"title":"玉ノ岡中学校北入口で、大型車規制と注意看板をどう判断したか","place":"嵐山町","actors":["畠山美幸","嵐山町長","まちづくり整備課長"],"topic":"通学路・交通安全","steps":[{"date":"2026-09","actor":"畠山美幸","stage":"一般質問","detail":"通学路でもある町道で下水道の緊急工事があったことを受け、工事費、大型車の規制、工業団地周辺の道路の強度を質問した。","url":"https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000008/8030/204gikaidayori.pdf#page=6","sourceTitle":"嵐山町議会だより「らんざん」第204号 6頁"},{"date":"2026-09","actor":"地域支援課長、まちづくり整備課長、嵐山町長","stage":"答弁","detail":"町は工事と車両通行の因果関係を認めず、交通規制の導入は考えていないと答えた。関係企業への運行ルート分散の働きかけと、注意看板の協議に言及した。","url":"https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000008/8030/204gikaidayori.pdf#page=6","sourceTitle":"嵐山町議会だより「らんざん」第204号 6頁"},{"date":"2026-10-16","actor":"嵐山町議会","stage":"設置後の写真","detail":"議会だよりが、同じ交差点に新たに設置された看板の10月16日付写真を掲載した。","url":"https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000008/8030/204gikaidayori.pdf#page=6","sourceTitle":"嵐山町議会だより「らんざん」第204号 6頁"}],"note":"10月16日は写真の日付。交通規制を導入したという記録ではなく、設置主体や議員個人の寄与の大きさは資料から定められない。"},
 {"title":"核兵器禁止条約について国への意見書を提出した議員と議決","place":"吉見町","actors":["杉田しのぶ","福田妙子","福井学","吉見町議会"],"topic":"議員提出議案・平和政策","steps":[{"date":"2026-09","actor":"杉田しのぶ（提出者）、福田妙子・福井学（賛成者）","stage":"議員発議","detail":"条約の再検討会議へのオブザーバー参加と、条約への署名・批准を国に求める意見書案を提出した。","url":"https://www.town.yoshimi.saitama.jp/material/files/group/3/gikai14.pdf#page=7","sourceTitle":"吉見町議会「よしみぎかい」第14号 7頁"},{"date":"2026-09","actor":"吉見町議会","stage":"質疑・討論","detail":"国際情勢や日米安全保障条約との関係を理由とする慎重論と、平和都市宣言を踏まえた行動を求める賛成論が記録された。","url":"https://www.town.yoshimi.saitama.jp/material/files/group/3/gikai14.pdf#page=7","sourceTitle":"吉見町議会「よしみぎかい」第14号 7頁"},{"date":"2026-09","actor":"吉見町議会","stage":"本会議で議決","detail":"賛成7、反対5、棄権1で可決。議案別の公式審議結果にも発議第4号の原案可決が掲載されている。","url":"https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf","sourceTitle":"吉見町議会「審議結果（令和8年9月議会定例会）」"}],"note":"署名・批准を求める意見書についての議決。町議会は提出者と議案提出時の賛成者を区別して公表している。"},
-{"title":"中学校の部活動の暑さ対策を、屋内と校庭で続けて問う","place":"神川町","actors":["柴崎愛子","神川町"],"topic":"学校・熱中症対策","steps":[{"date":"2026-06-04","actor":"柴崎愛子","stage":"一般質問","detail":"神川中学校の柔剣道場で気温が上がることを取り上げ、空調の導入を求めた。","url":"https://www.town.kamikawa.saitama.jp/material/files/group/18/gikaidayori83.pdf#page=4","sourceTitle":"かみかわ町議会だより第83号・令和8年6月定例会"},{"date":"2026-06-04","actor":"神川町","stage":"答弁","detail":"町は老朽化した柔剣道場への新設は難しいと回答。空調を備える体育館や空き教室での活動を研究すると答えた。","url":"https://www.town.kamikawa.saitama.jp/material/files/group/18/gikaidayori83.pdf#page=4","sourceTitle":"かみかわ町議会だより第83号・令和8年6月定例会"},{"date":"2026-09","actor":"柴崎愛子","stage":"現地見学を踏まえた次会期の質問通告","detail":"夏休みに部活動を見学し、早朝から練習する部の実情を記載。6月の質問を明示して、屋外の陸上部・野球部へのミスト扇風機導入を取り上げた。","url":"https://www.town.kamikawa.saitama.jp/material/files/group/18/ippannsitsumonn202609.pdf#page=2","sourceTitle":"神川町議会「令和8年第4回定例会・予定されている一般質問」"}],"note":"9月の根拠は一般質問通告。現地での見学は議員が通告に記したもので、9月の答弁や設備の購入はこの資料の範囲に含めていない。"}
+{"title":"中学校の部活動の暑さ対策を、屋内と校庭で続けて問う","place":"神川町","actors":["柴崎愛子","神川町"],"topic":"学校・熱中症対策","steps":[{"date":"2026-06-04","actor":"柴崎愛子","stage":"活動場所の気温を測り、柔剣道場の空調を求める","detail":"柴崎議員は、複数の練習会場で温度を測ったと報告した。６月１日は外気温33度、柔剣道場２階の卓球部会場35度、体育館のバスケットボール部会場26度弱だったと示し、柔剣道場の空調を早急に整備するよう求めた。","url":"https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteView.html?tenant_id=73&council_id=96&schedule_id=2","sourceTitle":"神川町議会 ６月４日の本会議録 34頁・一般質問"},{"date":"2026-06-04","actor":"福嶋慶治 教育長","stage":"答弁","detail":"柔剣道場の老朽化や工事の費用を挙げ、空調を設置中の体育館や空き教室を活動に使う方法を研究すると答えた。早期の対策を求める再質問には、既存施設でできることを学校と相談する考えを示した。","url":"https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteView.html?tenant_id=73&council_id=96&schedule_id=2","sourceTitle":"神川町議会 ６月４日の本会議録 35・36頁・答弁"},{"date":"2026-09","actor":"柴崎愛子","stage":"現地見学を踏まえた次会期の質問通告","detail":"夏休みに部活動を見学し、早朝から練習する部の実情を記載。6月の質問を明示して、屋外の陸上部・野球部へのミスト扇風機導入を取り上げた。","url":"https://www.town.kamikawa.saitama.jp/material/files/group/18/ippannsitsumonn202609.pdf#page=2","sourceTitle":"神川町議会「令和8年第4回定例会・予定されている一般質問」"}],"note":"温度の計測は議員が６月の会議録で報告し、夏休みの見学は９月の質問通告に記載しています。９月の答弁と設備の購入は確認中です。"}
 ]);
 // 日高市９月定例会の請願
 GIKAI.cases.push(...[
@@ -455,3 +455,129 @@ GIKAI.cases.push({
   ],
   note: "議員の質疑と修正案提出、議会の可決、市の公布・窓口開設を確認した事例です。",
 });
+
+GIKAI.cases.push(
+  {
+    place: "小鹿野町",
+    title: "倉尾地区の乗合タクシーを条例に位置づけ、運行区域に追加",
+    topic: "地域交通",
+    actors: ["出浦正夫", "岩田和幸", "皆本富男", "加藤喜一", "小鹿野町議会", "小鹿野町"],
+    steps: [
+      {
+        date: "2026-03-04", stage: "路線バスとの併用と車両台数を質疑", actor: "出浦正夫",
+        detail: "倉尾線が存続する間の運行と、乗合タクシー１台で需要を満たせるかを質した。町は、実証・本格運行の予定と、10月から倉尾と小鹿野・長若の車両が相互に入れるようにする考えを答えた。",
+        url: "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0211",
+        sourceTitle: "小鹿野町議会 ３月４日会議録・乗合タクシー運行条例案の質疑",
+      },
+      {
+        date: "2026-03-04", stage: "運行の開始時期・区域・料金を質疑", actor: "岩田和幸、皆本富男、加藤喜一",
+        detail: "岩田議員は２種類の運行方法、実証開始までの手続、運行範囲を確認した。皆本議員は既存事業者との連携を、加藤議員は倉尾線との運賃差を尋ねた。",
+        url: "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0211",
+        sourceTitle: "小鹿野町議会 ３月４日会議録・運行方法、区域、利用料金の質疑",
+      },
+      {
+        date: "2026-03-04", stage: "乗合タクシー運行条例案を可決", actor: "小鹿野町議会",
+        detail: "倉尾地区での自家用有償旅客運送と、小鹿野・長若地区での既存の運行を位置づける条例案を異議なしで可決した。",
+        url: "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0211",
+        sourceTitle: "小鹿野町議会 ３月４日会議録・議案第１号の採決", billNumber: "議案第1号",
+      },
+      {
+        date: "2026-09-30", stage: "西武観光バス倉尾線の廃止日", actor: "西武観光バス、秩父市",
+        detail: "秩父市は、小鹿野役場から長沢までの倉尾線が９月30日をもって廃止になることと、移動対策として既存の秩父市あいAIタクシーの料金を改定したことを案内した。",
+        url: "https://www.city.chichibu.lg.jp/11690.html",
+        sourceTitle: "秩父市 西武観光バス倉尾線の廃止と移動対策",
+      },
+      {
+        date: "2026-11", stage: "倉尾地区を含む運行を確認", actor: "小鹿野町",
+        detail: "町公式の利用案内では、小鹿野・長若・倉尾地区を運行区域とし、事前登録、当日の予約、区域外で乗降できる施設の一覧を公表している。",
+        url: "https://www.town.ogano.lg.jp/kurashi-tetsuzuki/bus-taxi/",
+        sourceTitle: "小鹿野町 町営バス＆乗合タクシーの現行案内",
+      },
+    ],
+    note: "３月の答弁にある実証・本格運行の日付は当時の予定です。現行の運行区域は町の利用案内で確認しました。",
+  },
+  {
+    place: "東秩父村",
+    title: "新庁舎付帯工事の分離発注を、予算と落札後の契約審議で検証",
+    topic: "公共工事・新庁舎",
+    actors: ["渡辺絹代", "吉野文泰", "梅澤邦夫", "東秩父村議会", "東秩父村"],
+    steps: [
+      {
+        date: "2026-03-09", stage: "本体と付帯工事を分ける理由を質疑", actor: "渡辺絹代",
+        detail: "舞台設備、造作家具、案内サインを付帯工事として発注すると、本体と施工者が異なる場合の工程調整が難しくなる点や、不落時の対応を質した。村は専門工事を分ける方が経費面で合理的と判断したと答えた。",
+        url: "https://ssp.kaigiroku.net/tenant/higashichichibu/SpMinuteView.html?tenant_id=91&council_id=114&schedule_id=4",
+        sourceTitle: "東秩父村議会 ３月９日会議録・当初予算の質疑",
+      },
+      {
+        date: "2026-03-09", stage: "付帯工事の債務負担行為を含む当初予算を可決", actor: "東秩父村議会",
+        detail: "新庁舎関係の工事を計上した一般会計当初予算を原案可決した。",
+        url: "https://www.vill.higashichichibu.saitama.jp/uploaded/attachment/6060.pdf#page=1",
+        sourceTitle: "東秩父村議会 ３月定例会議決結果・議案第12号", billNumber: "議案第12号",
+      },
+      {
+        date: "2026-05-13", stage: "付帯工事の落札者決定", actor: "東秩父村",
+        detail: "入札結果には、予定価格8,022万7,275円、古郡建設の落札額7,860万円が記載されている。いずれも税抜きで、入札経過に記載された応札者は１社だった。",
+        url: "https://www.vill.higashichichibu.saitama.jp/uploaded/life/9605_57840_misc.pdf#page=1",
+        sourceTitle: "東秩父村 ５月13日入札結果・新庁舎付帯工事 PDF１頁",
+      },
+      {
+        date: "2026-06-12", stage: "落札率を示して３月の説明を問い直す", actor: "渡辺絹代、吉野文泰、梅澤邦夫",
+        detail: "渡辺議員は付帯工事の落札率97.97％を確認し、本体と分けると経費を抑えられるとした３月の説明を問い直した。村は、一括発注した場合の価格との単純比較はできないと答えた。吉野議員は一体発注の可否を、梅澤議員は契約額の税込み・税抜きを確認した。",
+        url: "https://ssp.kaigiroku.net/tenant/higashichichibu/SpMinuteView.html?tenant_id=91&council_id=115&schedule_id=3",
+        sourceTitle: "東秩父村議会 ６月12日会議録・付帯工事契約の質疑",
+      },
+      {
+        date: "2026-06-12", stage: "付帯工事の契約議案を可決", actor: "東秩父村議会",
+        detail: "契約額を8,646万円（税込み）と説明した工事請負契約議案を、挙手全員で原案可決した。",
+        url: "https://ssp.kaigiroku.net/tenant/higashichichibu/SpMinuteView.html?tenant_id=91&council_id=115&schedule_id=3",
+        sourceTitle: "東秩父村議会 ６月12日会議録・議案第29号の採決", billNumber: "議案第29号",
+      },
+      {
+        date: "2026-10", stage: "庁舎本体の鉄骨工事完了を報告", actor: "東秩父村",
+        detail: "村は10月に庁舎本体の鉄骨工事が完了し、屋根工事に着手したと公表した。付帯工事の完了は確認中。",
+        url: "https://www.vill.higashichichibu.saitama.jp/site/sintyousyakensetu/sintyousya-kouji-shintyoku.html",
+        sourceTitle: "東秩父村 新庁舎建設工事の進捗状況・令和８年10月",
+      },
+    ],
+    note: "発注方法の説明、開札後の議員の検証、契約議決、庁舎本体の工事進捗を資料と日付で確認しました。",
+  },
+  {
+    place: "上里町",
+    title: "小中学校給食の無償化について財源を確認し、４月に実施",
+    topic: "学校給食・保護者負担",
+    actors: ["沓澤幸子", "植原育雄", "上里町教育委員会", "上里町議会", "上里町"],
+    steps: [
+      {
+        date: "2026-03-05", stage: "無償化を盛り込んだ予算案の財源を質問", actor: "沓澤幸子",
+        detail: "小・中学校を同時に無償化する方針が予算案に盛り込まれたことを確認した上で、小学校の給食費と国の補助額との差、中学校の給食費を前年度の町補助の規模で賄えるかを尋ねた。",
+        url: "https://www.town.kamisato.saitama.jp/secure/15813/R8.3.5.pdf#page=26",
+        sourceTitle: "上里町議会 ３月５日本会議録 PDF25・26頁",
+      },
+      {
+        date: "2026-03-05", stage: "小学校の補助と中学校の町負担を答弁", actor: "齋藤雅男 教育長",
+        detail: "小学校の食材費は国の基準額内に収まると説明した。中学校も給食費を徴収しない方針を示し、再質問に、前年度の町独自の３分の１補助の予算と新年度当初予算案の計上額を答えた。",
+        url: "https://www.town.kamisato.saitama.jp/secure/15813/R8.3.5.pdf#page=32",
+        sourceTitle: "上里町議会 ３月５日本会議録 PDF32・33・35頁",
+      },
+      {
+        date: "2026-03-18", stage: "給食費の計上を評価し、予算案全体には反対", actor: "沓澤幸子",
+        detail: "反対討論で、給食無償化の予算計上を評価した。その上で、学校体育館の空調や生活道路などの施策が不足するという理由を挙げ、当初予算案全体に反対した。",
+        url: "https://www.town.kamisato.saitama.jp/secure/15813/R8.3.18.pdf#page=19",
+        sourceTitle: "上里町議会 ３月18日本会議録 PDF19・20頁",
+      },
+      {
+        date: "2026-03-18", stage: "給食無償化を含む一般会計当初予算を可決", actor: "上里町議会",
+        detail: "植原育雄議員の賛成討論などを経て、議案第19号を起立多数で原案可決した。記名表決は議会だよりに掲載されている。",
+        url: "https://www.town.kamisato.saitama.jp/secure/15813/R8.3.18.pdf#page=22",
+        sourceTitle: "上里町議会 ３月18日本会議録 PDF22頁・採決", billNumber: "議案第19号",
+      },
+      {
+        date: "2026-04", stage: "町内公立小中学校の給食費を無償化", actor: "上里町",
+        detail: "町は、小学校は国の負担軽減策に基づき、中学校は町独自の施策として４月から無償化すると案内した。申請は不要で、従来の３分の１補助は前年度末で終了した。",
+        url: "https://www.town.kamisato.saitama.jp/7773.htm",
+        sourceTitle: "上里町 公立小中学校の学校給食費の無償化の案内",
+      },
+    ],
+    note: "給食無償化への議員の発言、一般会計予算全体への表決、町の実施を各出典で確認できます。",
+  },
+);
