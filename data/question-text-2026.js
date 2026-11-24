@@ -3654,6 +3654,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "202943c056901e6e1880",
+      "place": "上里町",
+      "season": "summer",
+      "date": "2026-06-04",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "飯塚賢治議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/speech.html?council_id=45&schedule_id=1&playlist_id=5&speaker_id=1&target_year=2026",
+      "speakers": [
+        "飯塚賢治"
+      ]
+    },
+    {
       "id": "114cf9f140d8ee4d1808",
       "place": "上里町",
       "season": "fall",
@@ -21239,6 +21253,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "0b34d9c63ad956043667",
+      "place": "寄居町",
+      "season": "fall",
+      "date": "2026-09-15",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "吉田林藏議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/speech.html?council_id=39&schedule_id=2&playlist_id=3&speaker_id=23&target_year=2026",
+      "speakers": [
+        "吉田林藏"
+      ]
+    },
+    {
       "id": "f17488f0701b92541d4e",
       "place": "寄居町",
       "season": "fall",
@@ -22065,6 +22093,118 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "b9e942266d5280c72215",
+      "place": "嵐山町",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "吉本秀二議員　一般質問（公開字幕）",
+      "kind": "公式録画の公開自動字幕",
+      "scope": "recording",
+      "speakers": [
+        "吉本秀二"
+      ],
+      "note": "嵐山町公式YouTubeチャンネルで公開された令和８年第３回定例会の日本語自動字幕。日付欄は９月会期を示します。原音を聴いて文言を確定する照合は未了です。 質問者名は町公式議員名簿の表記。録画名は「𠮷本」です。",
+      "url": "https://www.youtube.com/watch?v=vKXRwxYvaH0"
+    },
+    {
+      "id": "87c0e99df3d08a11e9e7",
+      "place": "嵐山町",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "小林智議員　一般質問（公開字幕）",
+      "kind": "公式録画の公開自動字幕",
+      "scope": "recording",
+      "speakers": [
+        "小林智"
+      ],
+      "note": "嵐山町公式YouTubeチャンネルで公開された令和８年第３回定例会の日本語自動字幕。日付欄は９月会期を示します。原音を聴いて文言を確定する照合は未了です。",
+      "url": "https://www.youtube.com/watch?v=bGfISR0PYi8"
+    },
+    {
+      "id": "e27b916e5e2a977fdd3e",
+      "place": "嵐山町",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "川口浩史議員　一般質問（公開字幕）",
+      "kind": "公式録画の公開自動字幕",
+      "scope": "recording",
+      "speakers": [
+        "川口浩史"
+      ],
+      "note": "嵐山町公式YouTubeチャンネルで公開された令和８年第３回定例会の日本語自動字幕。日付欄は９月会期を示します。原音を聴いて文言を確定する照合は未了です。 自動字幕は録画終了の約12秒前までです。",
+      "url": "https://www.youtube.com/watch?v=qr7k8k9g9q4"
+    },
+    {
+      "id": "871b1eeeb02a0cdffe38",
+      "place": "嵐山町",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "森一人議員　一般質問（公開字幕）",
+      "kind": "公式録画の公開自動字幕",
+      "scope": "recording",
+      "speakers": [
+        "森一人"
+      ],
+      "note": "嵐山町公式YouTubeチャンネルで公開された令和８年第３回定例会の日本語自動字幕。日付欄は９月会期を示します。原音を聴いて文言を確定する照合は未了です。",
+      "url": "https://www.youtube.com/watch?v=Y3RA_jgg6fo"
+    },
+    {
+      "id": "3e58f423b1276f7c672b",
+      "place": "嵐山町",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "橋本将議員　一般質問（公開字幕）",
+      "kind": "公式録画の公開自動字幕",
+      "scope": "recording",
+      "speakers": [
+        "橋本将"
+      ],
+      "note": "嵐山町公式YouTubeチャンネルで公開された令和８年第３回定例会の日本語自動字幕。日付欄は９月会期を示します。原音を聴いて文言を確定する照合は未了です。",
+      "url": "https://www.youtube.com/watch?v=VBaU-DrBaxY"
+    },
+    {
+      "id": "0deefa3168f777427cc0",
+      "place": "嵐山町",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "渋谷登美子議員　一般質問（公開字幕）",
+      "kind": "公式録画の公開自動字幕",
+      "scope": "recording",
+      "speakers": [
+        "渋谷登美子"
+      ],
+      "note": "嵐山町公式YouTubeチャンネルで公開された令和８年第３回定例会の日本語自動字幕。日付欄は９月会期を示します。原音を聴いて文言を確定する照合は未了です。",
+      "url": "https://www.youtube.com/watch?v=Zcm7HK6yQ34"
+    },
+    {
+      "id": "2bad48db78fc05bfefc1",
+      "place": "嵐山町",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "畠山美幸議員　一般質問（公開字幕）",
+      "kind": "公式録画の公開自動字幕",
+      "scope": "recording",
+      "speakers": [
+        "畠山美幸"
+      ],
+      "note": "嵐山町公式YouTubeチャンネルで公開された令和８年第３回定例会の日本語自動字幕。日付欄は９月会期を示します。原音を聴いて文言を確定する照合は未了です。",
+      "url": "https://www.youtube.com/watch?v=Mg0G3IcKXr4"
+    },
+    {
+      "id": "961aff0bde5337a8d47d",
+      "place": "嵐山町",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "藤野和美議員　一般質問（公開字幕）",
+      "kind": "公式録画の公開自動字幕",
+      "scope": "recording",
+      "speakers": [
+        "藤野和美"
+      ],
+      "note": "嵐山町公式YouTubeチャンネルで公開された令和８年第３回定例会の日本語自動字幕。日付欄は９月会期を示します。原音を聴いて文言を確定する照合は未了です。",
+      "url": "https://www.youtube.com/watch?v=uebJ0of6gtc"
+    },
+    {
       "id": "b9684ac230299d72f5d3",
       "place": "嵐山町",
       "season": "fall",
@@ -22085,6 +22225,20 @@ GIKAI.questionText = {
         "藤野和美",
         "青柳賢治"
       ]
+    },
+    {
+      "id": "7d4e4b87b4797f0dffba",
+      "place": "嵐山町",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "青柳賢治議員　一般質問（公開字幕）",
+      "kind": "公式録画の公開自動字幕",
+      "scope": "recording",
+      "speakers": [
+        "青柳賢治"
+      ],
+      "note": "嵐山町公式YouTubeチャンネルで公開された令和８年第３回定例会の日本語自動字幕。日付欄は９月会期を示します。原音を聴いて文言を確定する照合は未了です。",
+      "url": "https://www.youtube.com/watch?v=OfNh4V0KerU"
     },
     {
       "id": "444037774a55afbb4cc5",
@@ -31404,6 +31558,20 @@ GIKAI.questionText = {
       "speakers": []
     },
     {
+      "id": "c70552b80dd32f4a29f3",
+      "place": "狭山市",
+      "season": "fall",
+      "date": "2026-09-15",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "大沢えみ子議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。 自動検査で確認候補になった時間帯も含まれます。",
+      "url": "https://sayama.gijiroku.com/g07_Video_View.asp?SrchID=1547",
+      "speakers": [
+        "大沢えみ子"
+      ]
+    },
+    {
       "id": "b5c69aeca828a0989312",
       "place": "狭山市",
       "season": "fall",
@@ -37315,8 +37483,8 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "議会だよりの質問・答弁要旨を収録。公式録画で一般質問３日・16人を確認。正式会議録は確認中。公開された委員長報告4資料も収録。",
-        "indexURL": "https://sayama.gijiroku.com/g07_Video_Search.asp"
+        "indexURL": "https://sayama.gijiroku.com/g07_Video_Search.asp",
+        "note": "公式録画一覧の一般質問16人のうち、1人の映像音声を機械文字起こしとして収録。正式会議録は確認中。議会だよりの質問・答弁要旨も収録。公開された委員長報告4資料も収録。"
       }
     },
     {
@@ -38194,7 +38362,8 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "議会だよりの掲載質疑を紙面照合して要約。正式会議録の全文は確認中。"
+        "indexURL": "https://www.town.ranzan.saitama.jp/0000006579.html",
+        "note": "議会だよりの紙面問答16論点と、公式録画の全質問者９人の日本語自動字幕を収録。原音と正式会議録の確定照合は確認中。"
       }
     },
     {
@@ -38522,7 +38691,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/council.html?year=2026&council_id=45",
-        "note": "公式録画一覧の一般質問10人のうち、3人の映像音声を機械文字起こしとして収録。正式会議録は確認中。議会だよりの質問・答弁要旨も収録。"
+        "note": "公式録画一覧の一般質問10人のうち、4人の映像音声を機械文字起こしとして収録。正式会議録は確認中。議会だよりの質問・答弁要旨も収録。"
       }
     },
     {
@@ -38558,7 +38727,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/council.html?year=2026&council_id=39",
-        "note": "公式録画一覧の一般質問12人のうち、2人の映像音声を機械文字起こしとして収録。正式会議録は確認中。議会だよりの質問・答弁要旨も収録。"
+        "note": "公式録画一覧の一般質問12人のうち、3人の映像音声を機械文字起こしとして収録。正式会議録は確認中。議会だよりの質問・答弁要旨も収録。"
       }
     },
     {

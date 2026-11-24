@@ -382,6 +382,8 @@
       `該当する記録 ${count(list.length)}件（掲載項目 ${count(n)}件）`,
     );
   }
+  const casePlaces = (policy) => [policy.place, ...(policy.relatedPlaces || [])];
+  const caseStepPlace = (policy, step) => step.place || policy.place;
   function caseControls() {
     section(
       "取り組みの経過",
@@ -389,26 +391,29 @@
     );
     filters([
       searchField("例　手話、議員名、条例"),
-      field("place", "議会", placeList(sorted(D.cases.map((c) => c.place)))),
+      field("place", "議会", placeList(sorted(D.cases.flatMap(casePlaces)))),
     ]);
   }
   function caseCard(c) {
     const last = c.steps[c.steps.length - 1];
     const steps = c.steps.map((step) => {
+      const place = caseStepPlace(c, step);
+      const locality = step.place ? ` ${tag(place + "議会")}` : "";
       const vote = step.billNumber
-        ? jump("votes", { place: c.place, season: eventSeason(step.date), q: step.billNumber }, "この議案の議決・表決")
+        ? jump("votes", { place, season: eventSeason(step.date), q: step.billNumber }, "この議案の議決・表決")
         : "";
-      return `<li>${dateTag(step.date)}　${tag(step.stage)}<strong>${esc(step.actor)}</strong>
+      return `<li>${dateTag(step.date)}　${tag(step.stage)}${locality}<strong>${esc(step.actor)}</strong>
         <p>${esc(step.detail)}</p><div class="docs-link">${link(step.url, step.sourceTitle)} ${vote}</div></li>`;
     }).join("");
-    return `<details class="case"><summary><div><div class="meta">${tag(c.topic)}<span>${esc(c.place)}議会</span><span>${c.steps.length}段階</span></div><h3>${esc(c.title)}</h3><p class="small">${esc(date(c.steps[0].date))} ～ ${esc(date(last.date))}　${esc(last.stage)}</p></div></summary><div class="detail-body"><p><b>資料に登場する人・組織</b>　${c.actors.map(esc).join("、")}</p><ol class="steps">${steps}</ol>${c.note ? `<p class="note">${esc(c.note)}</p>` : ""}</div></details>`;
+    const councilLabel = c.relatedPlaces?.length ? casePlaces(c).join("・") : c.place + "議会";
+    return `<details class="case"><summary><div><div class="meta">${tag(c.topic)}<span>${esc(councilLabel)}</span><span>${c.steps.length}段階</span></div><h3>${esc(c.title)}</h3><p class="small">${esc(date(c.steps[0].date))} ～ ${esc(date(last.date))}　${esc(last.stage)}</p></div></summary><div class="detail-body"><p><b>資料に登場する人・組織</b>　${c.actors.map(esc).join("、")}</p><ol class="steps">${steps}</ol>${c.note ? `<p class="note">${esc(c.note)}</p>` : ""}</div></details>`;
   }
   function caseResults() {
     const list = D.cases.filter(
       (c) =>
-        filteredBody(c.place) &&
+        casePlaces(c).some(filteredBody) &&
         includes([
-          c.place,
+          ...casePlaces(c),
           c.title,
           c.topic,
           ...c.actors,
@@ -507,7 +512,7 @@
     }).join("");
     const followUp = followUpLabels[issue.followUp];
     const progress = issue.caseTitle && D.cases.find((entry) =>
-      entry.place === place && entry.title === issue.caseTitle,
+      casePlaces(entry).includes(place) && entry.title === issue.caseTitle,
     );
     return `<details class="entry policy-issue"><summary><span>${esc(title)}</span></summary>
       <div class="detail-body"><h5>何を尋ねたか</h5><ul class="policy-evidence">${questions}</ul>
@@ -611,14 +616,13 @@
   function relatedCases(p) {
     return D.cases.filter(
       (c) =>
-        c.place === p.place && c.actors.some((n) => norm(n) === norm(p.name)),
+        casePlaces(c).includes(p.place) && c.actors.some((n) => norm(n) === norm(p.name)),
     );
   }
   function memberCaseSummary(p, policyCase) {
-    const actions = policyCase.steps.flatMap((step) =>
-      (step.memberActions || []).filter((action) => norm(action.name) === norm(p.name))
-        .map((action) => ({ ...step, detail: action.detail, blocks: action.blocks })),
-    );
+    const actions = policyCase.steps.filter((step) => caseStepPlace(policyCase, step) === p.place)
+      .flatMap((step) => (step.memberActions || []).filter((action) => norm(action.name) === norm(p.name))
+        .map((action) => ({ ...step, detail: action.detail, blocks: action.blocks })));
     if (!actions.some((action) => recordInSeason({ ...action, place: p.place }, state.season || "spring"))) return "";
     const last = policyCase.steps.at(-1);
     return `<details class="entry member-case"><summary><span>${esc(policyCase.title)}</span></summary><div class="detail-body">

@@ -115,13 +115,18 @@ const archivedQuestionDocs = new Map(data.questionText.documents.map((doc) => [d
 let documentedMemberActions = 0;
 for (const c of data.cases) {
   let previous = "";
-  assert.ok(allBodies.has(c.place) && c.actors.length && c.steps.length > 1);
+  const casePlaces = [c.place, ...(c.relatedPlaces || [])];
+  assert.ok(c.actors.length && c.steps.length > 1);
+  assert.equal(new Set(casePlaces).size, casePlaces.length, c.title);
+  assert.ok(casePlaces.every((place) => allBodies.has(place)), c.title);
   for (const step of c.steps) {
+    const place = step.place || c.place;
+    assert.ok(casePlaces.includes(place), c.title);
     validDay(step.date);
     validLink(step.url);
     if (step.billNumber) {
       assert.equal(data.coverage2026.decisions.filter((bill) =>
-        bill.place === c.place && bill.date === step.date && bill.number === step.billNumber,
+        bill.place === place && bill.date === step.date && bill.number === step.billNumber,
       ).length, 1, c.title);
     }
     assert.ok(
@@ -134,16 +139,17 @@ for (const c of data.cases) {
     );
     const doc = step.archiveId ? archivedQuestionDocs.get(step.archiveId) : null;
     if (step.archiveId) {
-      assert.ok(doc?.place === c.place && ["minutes", "summary"].includes(doc.scope), c.title);
+      assert.ok(doc?.place === place && ["minutes", "summary"].includes(doc.scope), c.title);
       assert.equal(doc.url.split("#")[0], step.url.split("#")[0], c.title);
-      assert.ok(doc.date === step.date ||
-        (doc.scope === "summary" && doc.date.length === 7 && doc.date === step.date.slice(0, 7)), c.title);
+      const monthlySource = doc.date.length === 7 &&
+        (doc.scope === "summary" || doc.kind === "公式会議録PDFのOCR転記");
+      assert.ok(doc.date === step.date || (monthlySource && doc.date === step.date.slice(0, 7)), c.title);
     }
     const names = new Set();
     for (const action of step.memberActions || []) {
       assert.ok(!names.has(action.name) && c.actors.includes(action.name) && action.detail, c.title);
       assert.ok(step.actor.split("、").includes(action.name) || step.archiveId, c.title);
-      assert.ok(people.has(c.place + "|" + action.name.replace(/\s/g, "")), action.name);
+      assert.ok(people.has(place + "|" + action.name.replace(/\s/g, "")), action.name);
       if (step.archiveId) {
         assert.ok(action.blocks?.length && action.blocks.every((block, index) =>
           Number.isSafeInteger(block) && block > (action.blocks[index - 1] || 0)), action.name);
@@ -294,7 +300,7 @@ for (const comparison of data.councilPolicyReviews) {
     assert.ok(issue.items.length && issue.outcomes.length && followUpStates.has(issue.followUp));
     if (issue.caseTitle) {
       const related = data.cases.find((item) =>
-        item.place === comparison.place && item.title === issue.caseTitle);
+        [item.place, ...(item.relatedPlaces || [])].includes(comparison.place) && item.title === issue.caseTitle);
       assert.ok(related?.actors.includes(issue.name), issue.id);
     }
     assert.equal(issue.followUp === "confirmed", Boolean(issue.actions?.some((event) => !event.repeatedRequest)), issue.id);
