@@ -727,8 +727,9 @@
       ? link(b.url, b.resultLocator ? "議会だよりの議決結果" : "議案・提出者の原文")
       : "";
     const resultTitle = b.resultLocator || (separateVote ? "議決結果の原表" : "審議結果・表決の原表");
+    const voteTitle = byGroup ? "会派等の表決の原表" : ballots.length ? "記名表決の原表" : "表決の注記の原表";
     const sources = `${proposalSource} ${link(b.resultURL, resultTitle)}
-      ${separateVote ? link(b.voteURL, byGroup ? "会派等の表決の原表" : "記名表決の原表") : ""}`;
+      ${separateVote ? link(b.voteURL, voteTitle) : ""}`;
     const scope = byGroup
       ? '<p class="small">表決の単位　会派等。人数の内訳は原表の注記によります。</p>'
       : "";

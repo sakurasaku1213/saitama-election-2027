@@ -241,6 +241,12 @@ GIKAI.cases.push(
         sourceTitle: "鴻巣市議会 令和8年9月定例会 8月31日の本会議録・提案説明",
       },
       {
+        date: "2026-08-31", stage: "水道事業会計の補正額を記載", actor: "鴻巣市",
+        detail: "水道事業会計補正予算（第１号）の実施計画では、給水収益を１億4,499万4,000円減額し、他会計補助金を１億4,537万円増額した。",
+        url: "https://www.city.kounosu.saitama.jp/uploaded/attachment/28882.pdf#page=4",
+        sourceTitle: "鴻巣市水道事業会計補正予算（第１号）実施計画 PDF4頁",
+      },
+      {
         date: "2026-09-03", stage: "６月の質問を踏まえ補正予算を質疑", actor: "竹田悦子",
         detail: "６月に免除の延長を求めたことを述べ、交付金額の根拠と使い道を決めた経過を尋ねた。翌年１～３月分の延長についても再質問し、市長政策室長は新たな国の交付金が示された場合に検討すると答えた。",
         url: konosuBudgetDebate, sourceTitle: "鴻巣市議会 令和8年9月定例会 9月3日・議案第59号の質疑",
@@ -403,3 +409,49 @@ GIKAI.cases.push(
     note: "町の交付金活用資料では、10～11月分の免除の事業費は1,540万円です。",
   },
 );
+
+GIKAI.cases.push({
+  place: "さいたま市",
+  title: "いじめ救済条例の調査制限を修正し、相談窓口を開設",
+  topic: "いじめ・子どもの権利",
+  actors: ["清水勇人", "小柳嘉文", "大貫田鶴子", "青羽健仁", "さいたま市議会", "さいたま市"],
+  steps: [
+    {
+      date: "2026-02-03", stage: "いじめ問題救済委員会条例案を提出", actor: "清水勇人 さいたま市長",
+      detail: "市長の附属機関として、いじめに関する相談や調査・調整を行う救済委員会の設置を提案した。",
+      url: "https://www.city.saitama.lg.jp/006/007/002/001/018/p127764_d/fil/R8-059.pdf",
+      sourceTitle: "さいたま市 いじめ問題救済委員会条例案・議案第59号",
+    },
+    {
+      date: "2026-02-04", stage: "救済機関の権限と第三者性を質疑", actor: "小柳嘉文、大貫田鶴子",
+      detail: "小柳議員は調査等の権限、迅速な対応が可能か、常設化と既存の子どもの権利施策との関係を尋ねた。大貫田議員は第三者機関を設置する理由と期待される効果を質した。",
+      url: "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1074&schedule_id=3",
+      sourceTitle: "さいたま市議会 ２月４日本会議録 47・52頁",
+    },
+    {
+      date: "2026-02-24", stage: "請願・陳情を理由とする調査制限の削除を提案", actor: "青羽健仁",
+      detail: "第10条第２項第３号を削除する修正案を書面で提出した。議会への請願・陳情があった事案を調査対象外とする規定は、調査を求める人の不利益になるよう利用されかねないと説明した。子ども文教委員会は異議なく修正案と修正部分を除く原案を可決すべきものとした。",
+      url: "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1079&schedule_id=3",
+      sourceTitle: "さいたま市議会 ２月24日子ども文教委員会会議録",
+    },
+    {
+      date: "2026-03-12", stage: "本会議で修正案と修正部分を除く原案を可決", actor: "さいたま市議会",
+      detail: "議案第59号について、修正案と修正部分を除く原案をそれぞれ採決した。",
+      url: "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1074&schedule_id=8",
+      sourceTitle: "さいたま市議会 ３月12日本会議録 335頁", billNumber: "議案第59号",
+    },
+    {
+      date: "2026-03-16", stage: "修正後の条例を公布", actor: "さいたま市",
+      detail: "条例第26号として公布。公布された条文の第10条第２項に、議会への請願・陳情を理由とする調査除外は置かれていない。条例は４月１日に施行された。",
+      url: "https://www.city.saitama.lg.jp/006/011/004/jorei/08/p129148.html",
+      sourceTitle: "さいたま市 令和８年３月16日公布条例・条例第26号",
+    },
+    {
+      date: "2026-07-02", stage: "相談窓口を開設", actor: "さいたま市",
+      detail: "市は、いじめ問題救済委員会の相談窓口を７月２日に開設した。相談に応じ、申出を受けて調査・調整を行う制度を案内している。",
+      url: "https://www.city.saitama.lg.jp/003/002/011/p129878.html",
+      sourceTitle: "さいたま市 いじめ問題救済委員会の相談案内",
+    },
+  ],
+  note: "議員の質疑と修正案提出、議会の可決、市の公布・窓口開設を確認した事例です。",
+});

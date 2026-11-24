@@ -100,6 +100,60 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "682a9bac700ff78e8d13",
+      "place": "さいたま市",
+      "season": "spring",
+      "date": "2026-02-13",
+      "title": "さいたま市 令和 ８年 ２月 子ども文教委員会 02月13日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1079&schedule_id=1",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "市議会の会議録検索に掲載された子ども文教委員会の会議日別本文。",
+      "speakers": [
+        "中山淳一",
+        "服部剛",
+        "松村敏夫",
+        "関ひろみ",
+        "青羽健仁"
+      ]
+    },
+    {
+      "id": "af963c9791d4e3fb3dbd",
+      "place": "さいたま市",
+      "season": "spring",
+      "date": "2026-02-16",
+      "title": "さいたま市 令和 ８年 ２月 子ども文教委員会 02月16日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1079&schedule_id=2",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "市議会の会議録検索に掲載された子ども文教委員会の会議日別本文。",
+      "speakers": [
+        "中山淳一",
+        "佐々木郷美",
+        "佐伯加寿美",
+        "小柳嘉文",
+        "新藤信夫",
+        "松村敏夫",
+        "関ひろみ",
+        "青羽健仁"
+      ]
+    },
+    {
+      "id": "0d6c0af1253296456965",
+      "place": "さいたま市",
+      "season": "spring",
+      "date": "2026-02-24",
+      "title": "さいたま市 令和 ８年 ２月 子ども文教委員会 02月24日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1079&schedule_id=3",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "市議会の会議録検索に掲載された子ども文教委員会の会議日別本文。",
+      "speakers": [
+        "関ひろみ",
+        "青羽健仁"
+      ]
+    },
+    {
       "id": "ea496598d4097ad19cdd",
       "place": "さいたま市",
       "season": "spring",
@@ -343,6 +397,20 @@ GIKAI.questionText = {
         "阪本克己",
         "高子景",
         "鳥羽恵"
+      ]
+    },
+    {
+      "id": "2ebde523ce68d450d096",
+      "place": "さいたま市",
+      "season": "fall",
+      "date": "2026-09-07",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "新藤信夫議員　代表質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。 自動検査で確認候補になった時間帯も含まれます。",
+      "url": "https://saitama-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=2459",
+      "speakers": [
+        "新藤信夫"
       ]
     },
     {
@@ -3601,6 +3669,20 @@ GIKAI.questionText = {
         "野中芳子",
         "金子正則",
         "高橋一夫"
+      ]
+    },
+    {
+      "id": "fe4deb02951bc9dd2304",
+      "place": "加須市",
+      "season": "fall",
+      "date": "2026-09-10",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "池田年美議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/kazo/WebView/rd/speech.html?council_id=39&schedule_id=3&playlist_id=1&speaker_id=2&target_year=2026",
+      "speakers": [
+        "池田年美"
       ]
     },
     {
@@ -21692,6 +21774,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "babe9448730e9b6a75f2",
+      "place": "日高市",
+      "season": "fall",
+      "date": "2026-09-08",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "佐藤真議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/hidaka/WebView/rd/speech.html?council_id=54&schedule_id=3&playlist_id=1&speaker_id=1&target_year=2026",
+      "speakers": [
+        "佐藤真"
+      ]
+    },
+    {
       "id": "be32e2e0190eb1966ead",
       "place": "春日部市",
       "season": "spring",
@@ -27179,6 +27275,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "26db1a8457802e93f809",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-17",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "矢嶋聡子議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Video_View.asp?SrchID=2383",
+      "speakers": [
+        "矢嶋聡子"
+      ]
+    },
+    {
       "id": "e33c882bb5e6edc9e000",
       "place": "蕨市",
       "season": "fall",
@@ -29409,7 +29519,7 @@ GIKAI.questionText = {
       "season": "spring",
       "material": {
         "state": "verified",
-        "note": "公式目次と照合した本会議の日別会議録7資料を収録。",
+        "note": "公式目次と照合した本会議の日別会議録7資料を収録。子ども文教委員会の３日分も収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteBrowse.html?tenant_id=134&view_years=2026"
       }
     },
@@ -29426,8 +29536,9 @@ GIKAI.questionText = {
       "place": "さいたま市",
       "season": "fall",
       "material": {
-        "state": "notFound",
-        "note": "2026年の公式会議録の年別一覧で秋の定例会本文を確認できませんでした。"
+        "state": "partial",
+        "indexURL": "https://saitama-city.stream.jfit.co.jp/?tpl=gikai_days_list&gikai_id=203",
+        "note": "公式録画一覧の代表・一般質問21人のうち、1人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
       }
     },
     {
@@ -29636,9 +29747,9 @@ GIKAI.questionText = {
       "place": "加須市",
       "season": "fall",
       "material": {
-        "state": "notFound",
-        "note": "公式録画一覧の36項目と公開用の動画索引を確認。質問・答弁の本文は確認中。",
-        "indexURL": "https://smart.discussvision.net/smart/tenant/kazo/WebView/rd/council.html?year=2026&council_id=39"
+        "state": "partial",
+        "indexURL": "https://smart.discussvision.net/smart/tenant/kazo/WebView/rd/council.html?year=2026&council_id=39",
+        "note": "公式録画一覧の一般質問20人のうち、1人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
       }
     },
     {
@@ -29930,7 +30041,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://warabi.gijiroku.com/gikai/g07_Video_Search.asp",
-        "note": "公式録画一覧の一般質問15人のうち、8人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
+        "note": "公式録画一覧の一般質問15人のうち、9人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
       }
     },
     {
@@ -30379,9 +30490,9 @@ GIKAI.questionText = {
       "place": "日高市",
       "season": "fall",
       "material": {
-        "state": "notFound",
-        "note": "公式録画一覧の15項目と公開用の動画索引を確認。質問・答弁の本文は確認中。",
-        "indexURL": "https://smart.discussvision.net/smart/tenant/hidaka/WebView/rd/council.html?year=2026&council_id=54"
+        "state": "partial",
+        "indexURL": "https://smart.discussvision.net/smart/tenant/hidaka/WebView/rd/council.html?year=2026&council_id=54",
+        "note": "公式録画一覧の一般質問12人のうち、1人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
       }
     },
     {
