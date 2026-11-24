@@ -368,6 +368,54 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "f347e834c4295c95d9a9",
+      "place": "ときがわ町",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "令和8年予算審査特別委員会 ３月４日（開会、正副委員長互選、質疑等）",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/htm/gijiroku/r08/03042001.htm",
+      "kind": "公式会議録（特別委員会）",
+      "scope": "minutes",
+      "speakers": [],
+      "note": "町の会議録一覧で委員会・会議日を照合して、日別本文を収録しました。"
+    },
+    {
+      "id": "8631a947869ae1ba5421",
+      "place": "ときがわ町",
+      "season": "spring",
+      "date": "2026-03-05",
+      "title": "令和8年予算審査特別委員会 ３月５日（質疑等）",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/htm/gijiroku/r08/03052002.htm",
+      "kind": "公式会議録（特別委員会）",
+      "scope": "minutes",
+      "speakers": [],
+      "note": "町の会議録一覧で委員会・会議日を照合して、日別本文を収録しました。"
+    },
+    {
+      "id": "eaf8a7cff32ea0090372",
+      "place": "ときがわ町",
+      "season": "spring",
+      "date": "2026-03-06",
+      "title": "令和8年予算審査特別委員会 ３月６日（質疑等）",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/htm/gijiroku/r08/03062003.htm",
+      "kind": "公式会議録（特別委員会）",
+      "scope": "minutes",
+      "speakers": [],
+      "note": "町の会議録一覧で委員会・会議日を照合して、日別本文を収録しました。"
+    },
+    {
+      "id": "41216c6692ea436871a4",
+      "place": "ときがわ町",
+      "season": "spring",
+      "date": "2026-03-09",
+      "title": "令和8年予算審査特別委員会 ３月９日（質疑、討議、討論、採決、閉会）",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/htm/gijiroku/r08/03092004.htm",
+      "kind": "公式会議録（特別委員会）",
+      "scope": "minutes",
+      "speakers": [],
+      "note": "町の会議録一覧で委員会・会議日を照合して、日別本文を収録しました。"
+    },
+    {
       "id": "aadb46e04a38bc587c95",
       "place": "ときがわ町",
       "season": "spring",
@@ -17933,6 +17981,18 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "3eaf31b762e6b0042df5",
+      "place": "嵐山町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "令和8年度予算の審査・予算特別委員会会議録",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7978/R0803Y.pdf",
+      "kind": "公式会議録（特別委員会）",
+      "scope": "minutes",
+      "speakers": [],
+      "note": "公式PDFを照合し、表題から署名欄まで全248頁の本文を収録しました。"
+    },
+    {
       "id": "37c7ecc8365b3f4d0e24",
       "place": "嵐山町",
       "season": "summer",
@@ -24535,6 +24595,18 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "9d66764ddf13631382ae",
+      "place": "滑川町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "令和8年度予算の審査・予算審査特別委員会会議録",
+      "url": "https://www.town.namegawa.saitama.jp/material/files/group/12/R0803Yosanshinsa.pdf",
+      "kind": "公式会議録（特別委員会）",
+      "scope": "minutes",
+      "speakers": [],
+      "note": "公式PDFを照合し、表題から署名欄まで全137頁の本文を収録しました。"
+    },
+    {
       "id": "1d6cbd6776ef161a51d9",
       "place": "滑川町",
       "season": "summer",
@@ -27104,6 +27176,20 @@ GIKAI.questionText = {
       "url": "https://warabi.gijiroku.com/gikai/g07_Video_View.asp?SrchID=2387",
       "speakers": [
         "宮下奈美"
+      ]
+    },
+    {
+      "id": "92d14de9fc4ff0e1cc4f",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-18",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "小林利規議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Video_View.asp?SrchID=2388",
+      "speakers": [
+        "小林利規"
       ]
     },
     {
@@ -29830,7 +29916,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://warabi.gijiroku.com/gikai/g07_Video_Search.asp",
-        "note": "公式録画一覧の一般質問15人のうち、7人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
+        "note": "公式録画一覧の一般質問15人のうち、8人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
       }
     },
     {
@@ -30428,8 +30514,9 @@ GIKAI.questionText = {
       "place": "毛呂山町",
       "season": "summer",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 5資料。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録5資料を収録。目次と本文の日付が異なる資料は、本文冒頭の議事日程の日付で記録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/moroyama/SpMinuteBrowse.html?tenant_id=50&view_years=2026"
       }
     },
     {
@@ -30471,16 +30558,18 @@ GIKAI.questionText = {
       "place": "滑川町",
       "season": "spring",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 1資料。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式一覧と本会議録1資料を照合。原本PDFの計209頁を収録。予算特別委員会の公開会議録1資料も収録。",
+        "indexURL": "https://www.town.namegawa.saitama.jp/soshikikarasagasu/gikaijimukyoku/gikai/2235.html"
       }
     },
     {
       "place": "滑川町",
       "season": "summer",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 1資料。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式一覧と本会議録1資料を照合。原本PDFの計123頁を収録。",
+        "indexURL": "https://www.town.namegawa.saitama.jp/soshikikarasagasu/gikaijimukyoku/gikai/2235.html"
       }
     },
     {
@@ -30495,16 +30584,18 @@ GIKAI.questionText = {
       "place": "嵐山町",
       "season": "spring",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 1資料。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式一覧と本会議録1資料を照合。原本PDFの計326頁を収録。予算特別委員会の公開会議録1資料も収録。",
+        "indexURL": "https://www.town.ranzan.saitama.jp/category/2-19-9-19-0-0-0-0-0-0.html"
       }
     },
     {
       "place": "嵐山町",
       "season": "summer",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 1資料。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式一覧と本会議録1資料を照合。原本PDFの計261頁を収録。",
+        "indexURL": "https://www.town.ranzan.saitama.jp/category/2-19-9-19-0-0-0-0-0-0.html"
       }
     },
     {
@@ -30623,16 +30714,18 @@ GIKAI.questionText = {
       "place": "ときがわ町",
       "season": "spring",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 2資料。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式一覧と本会議録2資料を照合。予算特別委員会の公開会議録4資料も収録。",
+        "indexURL": "https://www.town.tokigawa.lg.jp/div/203010/htm/gijiroku/index.html"
       }
     },
     {
       "place": "ときがわ町",
       "season": "summer",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 3資料。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式一覧と本会議録3資料を照合。",
+        "indexURL": "https://www.town.tokigawa.lg.jp/div/203010/htm/gijiroku/index.html"
       }
     },
     {
@@ -30647,16 +30740,18 @@ GIKAI.questionText = {
       "place": "横瀬町",
       "season": "spring",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 1資料。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式一覧と本会議録1資料を照合。原本PDFの計130頁を収録。",
+        "indexURL": "https://www.town.yokoze.saitama.jp/yokoze/about-yokoze/63100"
       }
     },
     {
       "place": "横瀬町",
       "season": "summer",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 1資料。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式一覧と本会議録1資料を照合。原本PDFの計78頁を収録。",
+        "indexURL": "https://www.town.yokoze.saitama.jp/yokoze/about-yokoze/63100"
       }
     },
     {
@@ -30671,16 +30766,18 @@ GIKAI.questionText = {
       "place": "皆野町",
       "season": "spring",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 1資料。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式一覧と本会議録1資料を照合。原本PDFの計181頁を収録。",
+        "indexURL": "https://www.town.minano.saitama.jp/section/gikai/815/"
       }
     },
     {
       "place": "皆野町",
       "season": "summer",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 1資料。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式一覧と本会議録1資料を照合。原本PDFの計93頁を収録。",
+        "indexURL": "https://www.town.minano.saitama.jp/section/gikai/815/"
       }
     },
     {
@@ -30695,16 +30792,18 @@ GIKAI.questionText = {
       "place": "長瀞町",
       "season": "spring",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 1資料。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式一覧と本会議録1資料を照合。原本PDFの計197頁を収録。",
+        "indexURL": "https://www.town.nagatoro.saitama.jp/nagatorochougikai/%e4%bc%9a%e8%ad%b0%e9%8c%b2/"
       }
     },
     {
       "place": "長瀞町",
       "season": "summer",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 1資料。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式一覧と本会議録1資料を照合。原本PDFの計80頁を収録。",
+        "indexURL": "https://www.town.nagatoro.saitama.jp/nagatorochougikai/%e4%bc%9a%e8%ad%b0%e9%8c%b2/"
       }
     },
     {
@@ -30821,8 +30920,9 @@ GIKAI.questionText = {
       "place": "上里町",
       "season": "spring",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 6資料。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式一覧と本会議録6資料を照合。原本PDFの計259頁を収録。",
+        "indexURL": "https://www.town.kamisato.saitama.jp/7977.htm"
       }
     },
     {
@@ -30830,7 +30930,8 @@ GIKAI.questionText = {
       "season": "summer",
       "material": {
         "state": "partial",
-        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+        "note": "議会だよりの質問・答弁要旨を収録。町議会の録画一覧で本会議４日、一般質問10人を確認。",
+        "indexURL": "https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/council.html?year=2026&council_id=45"
       }
     },
     {
@@ -30924,16 +31025,18 @@ GIKAI.questionText = {
       "place": "松伏町",
       "season": "spring",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 9資料。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式一覧と本会議録9資料を照合。",
+        "indexURL": "https://www.town.matsubushi.saitama.dbsr.jp/100000?QueryType=new&Template=list&ListOrder=asc&Cabinet=1&TermStart=2026-02-26&TermEnd=2026-03-19"
       }
     },
     {
       "place": "松伏町",
       "season": "summer",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 4資料。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式一覧と本会議録4資料を照合。",
+        "indexURL": "https://www.town.matsubushi.saitama.dbsr.jp/100000?QueryType=new&Template=list&ListOrder=asc&Cabinet=1&TermStart=2026-06-05&TermEnd=2026-06-15"
       }
     },
     {

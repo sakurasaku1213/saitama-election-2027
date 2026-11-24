@@ -259,3 +259,37 @@ GIKAI.cases.push(
     note: "６月の提案、９月の議案質疑、市議会の可決、市による対象期間の案内を資料で確認。",
   },
 );
+
+GIKAI.cases.push({
+  place: "嵐山町",
+  title: "給食費の予算を審査し、４月からの小学校給食無償化を案内",
+  topic: "学校給食・保護者負担",
+  actors: ["渋谷登美子", "嵐山町教育委員会", "嵐山町議会", "嵐山町"],
+  steps: [
+    {
+      date: "2026-03-10", stage: "給食費の予算の内訳を質問", actor: "渋谷登美子",
+      detail: "学校給食費負担軽減事業の国庫支出金250万円と、学校給食費補助金の関係、支出方法を予算特別委員会で尋ねた。",
+      url: "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7978/R0803Y.pdf#page=152",
+      sourceTitle: "嵐山町議会 令和8年予算特別委員会会議録 PDF152頁",
+    },
+    {
+      date: "2026-03-10", stage: "米飯給食の食材費への補助を説明", actor: "飯塚毅 教育総務課副課長",
+      detail: "米飯代の値上がりを見込み、米飯給食の回数に応じて、上限250万円を給食センターに補助する計上だと説明した。",
+      url: "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7978/R0803Y.pdf#page=153",
+      sourceTitle: "嵐山町議会 令和8年予算特別委員会会議録 PDF153頁",
+    },
+    {
+      date: "2026-03-17", stage: "一般会計当初予算を可決", actor: "嵐山町議会",
+      detail: "本会議で予算特別委員長報告と討論を経て、令和8年度一般会計予算（議案第10号）を起立多数で可決した。",
+      url: "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf#page=303",
+      sourceTitle: "嵐山町議会 令和8年第1回定例会会議録 PDF303頁", billNumber: "議案第10号",
+    },
+    {
+      date: "2026-04-09", stage: "４月からの町立小学校の給食費無償化を案内", actor: "嵐山町",
+      detail: "町は、国の給食費負担軽減交付金に加え、交付金を超える食材料費を町費で負担する制度を公表した。対象は給食を実施する町立小学校で、実施は４月から。",
+      url: "https://www.town.ranzan.saitama.jp/0000007878.html",
+      sourceTitle: "嵐山町 令和8年4月からの小学校給食費無償化の案内",
+    },
+  ],
+  note: "委員会質疑の対象は米飯代の補助の予算措置。４月の町の案内は、町立小学校の給食費全体の取扱いを示します。",
+});

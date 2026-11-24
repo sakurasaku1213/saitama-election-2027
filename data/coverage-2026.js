@@ -6434,16 +6434,16 @@ GIKAI.coverage2026 = {
           "note": "対象資料の案内を確認。項目の取込・照合範囲は未確定。"
         },
         "decisions": {
-          "state": "identified",
-          "note": "対象資料の案内を確認。項目の取込・照合範囲は未確定。"
+          "state": "partial",
+          "note": "令和8年度一般会計予算の議決を本会議録で照合。"
         },
         "votes": {
           "state": "pending",
           "note": "本文・収録範囲の照合が残っています。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "給食費の予算質疑・当初予算可決・小学校の無償化の公表を照合。"
         }
       },
       "sources": [
@@ -6454,6 +6454,10 @@ GIKAI.coverage2026 = {
         {
           "label": "議案審議結果",
           "url": "https://www.town.ranzan.saitama.jp/0000004948.html"
+        },
+        {
+          "label": "３月17日の当初予算議決",
+          "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf#page=303"
         }
       ]
     },
@@ -6504,14 +6508,14 @@ GIKAI.coverage2026 = {
     {
       "place": "嵐山町",
       "season": "fall",
-      "label": "2026年秋の定例会",
-      "fromDate": "",
-      "toDate": "",
+      "label": "令和8年第3回定例会（9月）",
+      "fromDate": "2026-08-27",
+      "toDate": "2026-09-15",
       "planned": false,
       "materials": {
         "meeting": {
-          "state": "identified",
-          "note": "対象時期に関係する資料の掲載箇所を確認。会期の確定は未了。"
+          "state": "verified",
+          "note": "議会だより第204号4頁で8月27日から9月15日の会期を照合。"
         },
         "activity": {
           "state": "partial",
@@ -6522,12 +6526,12 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "decisions": {
-          "state": "identified",
-          "note": "対象資料の案内を確認。項目の取込・照合範囲は未確定。"
+          "state": "verified",
+          "note": "公式結果表の町長提出21件（報告３件を含む）と議員提出４件を照合。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "公式表の記名表決22件・各12欄を照合し、除斥と議長の表示を保持。吉本秀二は原表の𠮷本秀二に対応。"
         },
         "policy": {
           "state": "pending",
@@ -6542,6 +6546,14 @@ GIKAI.coverage2026 = {
         {
           "label": "会期資料　2026年9月定例会・一般質問の全9人",
           "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000008/8030/204gikaidayori.pdf"
+        },
+        {
+          "label": "町長提出議案の議決・記名表決",
+          "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf"
+        },
+        {
+          "label": "議員提出議案の議決・記名表決",
+          "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R9.3.giinn.pdf"
         }
       ]
     },
@@ -8103,7 +8115,7 @@ GIKAI.coverage2026 = {
       "materials": {
         "meeting": {
           "state": "partial",
-          "note": "開催予定を確認。"
+          "note": "現行の公式日程と財政課の９月補正予算（９月17日議決）の公表を照合。"
         },
         "activity": {
           "state": "partial",
@@ -8114,8 +8126,8 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "財政課の９月補正予算で９月17日の議決日を確認。全議案の審議結果を確認中。"
         },
         "votes": {
           "state": "pending",
@@ -8130,6 +8142,14 @@ GIKAI.coverage2026 = {
         {
           "label": "公式会議録の年別一覧",
           "url": "https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteBrowse.html?tenant_id=73&view_years=2026"
+        },
+        {
+          "label": "第４回定例会の日程・一般質問",
+          "url": "https://www.town.kamikawa.saitama.jp/soshiki/gikai/nittei/reiwa6_2/6817.html"
+        },
+        {
+          "label": "９月補正予算（９月17日議決）",
+          "url": "https://www.town.kamikawa.saitama.jp/soshiki/sougouseisaku/zaisei/yosan/6917.html"
         },
         {
           "label": "会期資料　2026年9月定例会・事前公表の一般質問全9人",
@@ -8184,14 +8204,14 @@ GIKAI.coverage2026 = {
     {
       "place": "上里町",
       "season": "summer",
-      "label": "2026年初夏の定例会",
-      "fromDate": "",
-      "toDate": "",
+      "label": "令和8年6月定例会",
+      "fromDate": "2026-06-04",
+      "toDate": "2026-06-12",
       "planned": false,
       "materials": {
         "meeting": {
-          "state": "identified",
-          "note": "対象時期に関係する資料の掲載箇所を確認。会期の確定は未了。"
+          "state": "verified",
+          "note": "町議会の録画一覧で６月４日の開会、12日の閉会を照合。"
         },
         "activity": {
           "state": "pending",
@@ -8216,7 +8236,7 @@ GIKAI.coverage2026 = {
       },
       "sources": [
         {
-          "label": "会期資料　令和8年6月定例会",
+          "label": "６月定例会の公式録画一覧（本会議４日、一般質問10人）",
           "url": "https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/council.html?year=2026&council_id=45"
         },
         {
@@ -17429,6 +17449,667 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=2",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "議決結果表2頁・議決番号92"
+    },
+    {
+      "place": "嵐山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "number": "報告第8号",
+      "title": "令和7年度嵐山町水道事業会計継続費精算報告書の報告について",
+      "result": "報告",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "proposer": "嵐山町長",
+      "voteNote": "町長提出の報告。原表では報告欄として掲載。"
+    },
+    {
+      "place": "嵐山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "number": "報告第9号",
+      "title": "令和7年度嵐山町健全化判断比率の報告について",
+      "result": "報告",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "proposer": "嵐山町長",
+      "voteNote": "町長提出の報告。原表では報告欄として掲載。"
+    },
+    {
+      "place": "嵐山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "number": "報告第10号",
+      "title": "令和7年度嵐山町資金不足比率の報告について",
+      "result": "報告",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "proposer": "嵐山町長",
+      "voteNote": "町長提出の報告。原表では報告欄として掲載。"
+    },
+    {
+      "place": "嵐山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "number": "承認第5号",
+      "title": "専決処分の承認を求めることについて（令和8年度嵐山町下水道事業会計補正予算（第1号））",
+      "result": "承認",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "proposer": "嵐山町長",
+      "votes": {
+        "佐藤弘美": "賛成",
+        "橋本将": "賛成",
+        "宮本大裕": "賛成",
+        "小林智": "賛成",
+        "藤野和美": "賛成",
+        "吉本秀二": "賛成",
+        "森一人": "賛成",
+        "青柳賢治": "除斥",
+        "畠山美幸": "賛成",
+        "川口浩史": "賛成",
+        "渋谷登美子": "賛成",
+        "犾守勝義": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "voteNote": "会期は８月27日～９月15日。議決日は会期単位の公式表で確認中。"
+    },
+    {
+      "place": "嵐山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "number": "同意第3号",
+      "title": "嵐山町教育委員会委員の任命につき同意を求めることについて",
+      "result": "同意",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "proposer": "嵐山町長",
+      "votes": {
+        "佐藤弘美": "賛成",
+        "橋本将": "賛成",
+        "宮本大裕": "賛成",
+        "小林智": "賛成",
+        "藤野和美": "賛成",
+        "吉本秀二": "賛成",
+        "森一人": "賛成",
+        "青柳賢治": "賛成",
+        "畠山美幸": "賛成",
+        "川口浩史": "賛成",
+        "渋谷登美子": "賛成",
+        "犾守勝義": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "voteNote": "会期は８月27日～９月15日。議決日は会期単位の公式表で確認中。"
+    },
+    {
+      "place": "嵐山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "number": "議案第28号",
+      "title": "嵐山町特定乳児等通園支援事業の運営に関する基準を定める条例を制定することについて",
+      "result": "可決",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "proposer": "嵐山町長",
+      "votes": {
+        "佐藤弘美": "賛成",
+        "橋本将": "賛成",
+        "宮本大裕": "賛成",
+        "小林智": "賛成",
+        "藤野和美": "賛成",
+        "吉本秀二": "賛成",
+        "森一人": "賛成",
+        "青柳賢治": "賛成",
+        "畠山美幸": "賛成",
+        "川口浩史": "賛成",
+        "渋谷登美子": "賛成",
+        "犾守勝義": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "voteNote": "会期は８月27日～９月15日。議決日は会期単位の公式表で確認中。"
+    },
+    {
+      "place": "嵐山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "number": "議案第29号",
+      "title": "嵐山町交流センター設置及び管理条例の一部を改正することについて",
+      "result": "可決",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "proposer": "嵐山町長",
+      "votes": {
+        "佐藤弘美": "賛成",
+        "橋本将": "賛成",
+        "宮本大裕": "賛成",
+        "小林智": "賛成",
+        "藤野和美": "賛成",
+        "吉本秀二": "賛成",
+        "森一人": "賛成",
+        "青柳賢治": "賛成",
+        "畠山美幸": "賛成",
+        "川口浩史": "賛成",
+        "渋谷登美子": "反対",
+        "犾守勝義": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "voteNote": "会期は８月27日～９月15日。議決日は会期単位の公式表で確認中。"
+    },
+    {
+      "place": "嵐山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "number": "議案第30号",
+      "title": "令和8年度嵐山町一般会計補正予算（第4号）議定について",
+      "result": "可決",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "proposer": "嵐山町長",
+      "votes": {
+        "佐藤弘美": "賛成",
+        "橋本将": "賛成",
+        "宮本大裕": "賛成",
+        "小林智": "賛成",
+        "藤野和美": "賛成",
+        "吉本秀二": "賛成",
+        "森一人": "賛成",
+        "青柳賢治": "賛成",
+        "畠山美幸": "賛成",
+        "川口浩史": "賛成",
+        "渋谷登美子": "賛成",
+        "犾守勝義": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "voteNote": "会期は８月27日～９月15日。議決日は会期単位の公式表で確認中。"
+    },
+    {
+      "place": "嵐山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "number": "議案第31号",
+      "title": "令和8年度嵐山町国民健康保険特別会計補正予算（第1号）議定について",
+      "result": "可決",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "proposer": "嵐山町長",
+      "votes": {
+        "佐藤弘美": "賛成",
+        "橋本将": "賛成",
+        "宮本大裕": "賛成",
+        "小林智": "賛成",
+        "藤野和美": "賛成",
+        "吉本秀二": "賛成",
+        "森一人": "賛成",
+        "青柳賢治": "賛成",
+        "畠山美幸": "賛成",
+        "川口浩史": "賛成",
+        "渋谷登美子": "賛成",
+        "犾守勝義": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "voteNote": "会期は８月27日～９月15日。議決日は会期単位の公式表で確認中。"
+    },
+    {
+      "place": "嵐山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "number": "議案第32号",
+      "title": "令和8年度嵐山町後期高齢者医療特別会計補正予算（第1号）議定について",
+      "result": "可決",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "proposer": "嵐山町長",
+      "votes": {
+        "佐藤弘美": "賛成",
+        "橋本将": "賛成",
+        "宮本大裕": "賛成",
+        "小林智": "賛成",
+        "藤野和美": "賛成",
+        "吉本秀二": "賛成",
+        "森一人": "賛成",
+        "青柳賢治": "賛成",
+        "畠山美幸": "賛成",
+        "川口浩史": "賛成",
+        "渋谷登美子": "賛成",
+        "犾守勝義": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "voteNote": "会期は８月27日～９月15日。議決日は会期単位の公式表で確認中。"
+    },
+    {
+      "place": "嵐山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "number": "議案第33号",
+      "title": "令和8年度嵐山町介護保険特別会計補正予算（第1号）議定について",
+      "result": "可決",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "proposer": "嵐山町長",
+      "votes": {
+        "佐藤弘美": "賛成",
+        "橋本将": "賛成",
+        "宮本大裕": "賛成",
+        "小林智": "賛成",
+        "藤野和美": "賛成",
+        "吉本秀二": "賛成",
+        "森一人": "賛成",
+        "青柳賢治": "賛成",
+        "畠山美幸": "賛成",
+        "川口浩史": "賛成",
+        "渋谷登美子": "賛成",
+        "犾守勝義": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "voteNote": "会期は８月27日～９月15日。議決日は会期単位の公式表で確認中。"
+    },
+    {
+      "place": "嵐山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "number": "議案第34号",
+      "title": "令和8年度嵐山町水道事業会計補正予算（第1号）議定について",
+      "result": "可決",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "proposer": "嵐山町長",
+      "votes": {
+        "佐藤弘美": "賛成",
+        "橋本将": "賛成",
+        "宮本大裕": "賛成",
+        "小林智": "賛成",
+        "藤野和美": "賛成",
+        "吉本秀二": "賛成",
+        "森一人": "賛成",
+        "青柳賢治": "賛成",
+        "畠山美幸": "賛成",
+        "川口浩史": "賛成",
+        "渋谷登美子": "賛成",
+        "犾守勝義": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "voteNote": "会期は８月27日～９月15日。議決日は会期単位の公式表で確認中。"
+    },
+    {
+      "place": "嵐山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "number": "議案第35号",
+      "title": "令和8年度嵐山町下水道事業会計補正予算（第2号）議定について",
+      "result": "可決",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "proposer": "嵐山町長",
+      "votes": {
+        "佐藤弘美": "賛成",
+        "橋本将": "賛成",
+        "宮本大裕": "賛成",
+        "小林智": "賛成",
+        "藤野和美": "賛成",
+        "吉本秀二": "賛成",
+        "森一人": "賛成",
+        "青柳賢治": "賛成",
+        "畠山美幸": "賛成",
+        "川口浩史": "賛成",
+        "渋谷登美子": "賛成",
+        "犾守勝義": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "voteNote": "会期は８月27日～９月15日。議決日は会期単位の公式表で確認中。"
+    },
+    {
+      "place": "嵐山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "number": "認定第1号",
+      "title": "令和7年度嵐山町一般会計歳入歳出決算認定について",
+      "result": "認定",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "proposer": "嵐山町長",
+      "votes": {
+        "佐藤弘美": "賛成",
+        "橋本将": "賛成",
+        "宮本大裕": "賛成",
+        "小林智": "賛成",
+        "藤野和美": "賛成",
+        "吉本秀二": "賛成",
+        "森一人": "賛成",
+        "青柳賢治": "除斥",
+        "畠山美幸": "賛成",
+        "川口浩史": "反対",
+        "渋谷登美子": "反対",
+        "犾守勝義": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "voteNote": "会期は８月27日～９月15日。議決日は会期単位の公式表で確認中。 原表の賛成討論は宮本大裕、畠山美幸。 原表の反対討論は川口浩史、渋谷登美子。"
+    },
+    {
+      "place": "嵐山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "number": "認定第2号",
+      "title": "令和7年度嵐山町国民健康保険特別会計歳入歳出決算認定について",
+      "result": "認定",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "proposer": "嵐山町長",
+      "votes": {
+        "佐藤弘美": "賛成",
+        "橋本将": "賛成",
+        "宮本大裕": "賛成",
+        "小林智": "賛成",
+        "藤野和美": "反対",
+        "吉本秀二": "賛成",
+        "森一人": "賛成",
+        "青柳賢治": "除斥",
+        "畠山美幸": "賛成",
+        "川口浩史": "反対",
+        "渋谷登美子": "反対",
+        "犾守勝義": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "voteNote": "会期は８月27日～９月15日。議決日は会期単位の公式表で確認中。"
+    },
+    {
+      "place": "嵐山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "number": "認定第3号",
+      "title": "令和7年度嵐山町後期高齢者医療特別会計歳入歳出決算認定について",
+      "result": "認定",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "proposer": "嵐山町長",
+      "votes": {
+        "佐藤弘美": "賛成",
+        "橋本将": "賛成",
+        "宮本大裕": "賛成",
+        "小林智": "賛成",
+        "藤野和美": "賛成",
+        "吉本秀二": "賛成",
+        "森一人": "賛成",
+        "青柳賢治": "除斥",
+        "畠山美幸": "賛成",
+        "川口浩史": "賛成",
+        "渋谷登美子": "賛成",
+        "犾守勝義": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "voteNote": "会期は８月27日～９月15日。議決日は会期単位の公式表で確認中。"
+    },
+    {
+      "place": "嵐山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "number": "認定第4号",
+      "title": "令和7年度嵐山町介護保険特別会計歳入歳出決算認定について",
+      "result": "認定",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "proposer": "嵐山町長",
+      "votes": {
+        "佐藤弘美": "賛成",
+        "橋本将": "賛成",
+        "宮本大裕": "賛成",
+        "小林智": "賛成",
+        "藤野和美": "賛成",
+        "吉本秀二": "賛成",
+        "森一人": "賛成",
+        "青柳賢治": "除斥",
+        "畠山美幸": "賛成",
+        "川口浩史": "賛成",
+        "渋谷登美子": "賛成",
+        "犾守勝義": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "voteNote": "会期は８月27日～９月15日。議決日は会期単位の公式表で確認中。"
+    },
+    {
+      "place": "嵐山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "number": "認定第5号",
+      "title": "令和7年度嵐山町水道事業会計決算認定について",
+      "result": "認定",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "proposer": "嵐山町長",
+      "votes": {
+        "佐藤弘美": "賛成",
+        "橋本将": "賛成",
+        "宮本大裕": "賛成",
+        "小林智": "賛成",
+        "藤野和美": "賛成",
+        "吉本秀二": "賛成",
+        "森一人": "賛成",
+        "青柳賢治": "除斥",
+        "畠山美幸": "賛成",
+        "川口浩史": "賛成",
+        "渋谷登美子": "賛成",
+        "犾守勝義": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "voteNote": "会期は８月27日～９月15日。議決日は会期単位の公式表で確認中。"
+    },
+    {
+      "place": "嵐山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "number": "認定第6号",
+      "title": "令和7年度嵐山町下水道事業会計決算認定について",
+      "result": "認定",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "proposer": "嵐山町長",
+      "votes": {
+        "佐藤弘美": "賛成",
+        "橋本将": "賛成",
+        "宮本大裕": "賛成",
+        "小林智": "賛成",
+        "藤野和美": "賛成",
+        "吉本秀二": "賛成",
+        "森一人": "賛成",
+        "青柳賢治": "除斥",
+        "畠山美幸": "賛成",
+        "川口浩史": "賛成",
+        "渋谷登美子": "賛成",
+        "犾守勝義": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "voteNote": "会期は８月27日～９月15日。議決日は会期単位の公式表で確認中。"
+    },
+    {
+      "place": "嵐山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "number": "議案第36号",
+      "title": "令和7年度嵐山町水道事業会計未処分利益剰余金の処分について",
+      "result": "可決",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "proposer": "嵐山町長",
+      "votes": {
+        "佐藤弘美": "賛成",
+        "橋本将": "賛成",
+        "宮本大裕": "賛成",
+        "小林智": "賛成",
+        "藤野和美": "賛成",
+        "吉本秀二": "賛成",
+        "森一人": "賛成",
+        "青柳賢治": "除斥",
+        "畠山美幸": "賛成",
+        "川口浩史": "賛成",
+        "渋谷登美子": "賛成",
+        "犾守勝義": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "voteNote": "会期は８月27日～９月15日。議決日は会期単位の公式表で確認中。"
+    },
+    {
+      "place": "嵐山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "number": "議案第37号",
+      "title": "令和7年度嵐山町下水道事業会計未処分利益剰余金の処分について",
+      "result": "可決",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "proposer": "嵐山町長",
+      "votes": {
+        "佐藤弘美": "賛成",
+        "橋本将": "賛成",
+        "宮本大裕": "賛成",
+        "小林智": "賛成",
+        "藤野和美": "賛成",
+        "吉本秀二": "賛成",
+        "森一人": "賛成",
+        "青柳賢治": "除斥",
+        "畠山美幸": "賛成",
+        "川口浩史": "賛成",
+        "渋谷登美子": "賛成",
+        "犾守勝義": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R8.9.teireikaikekka.pdf",
+      "voteNote": "会期は８月27日～９月15日。議決日は会期単位の公式表で確認中。"
+    },
+    {
+      "place": "嵐山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "number": "発議第12号",
+      "title": "生ごみ・し尿等のバイオガス化を進め、焼却を前提としないごみ処理システムの構築を求める意見書の提出について",
+      "result": "否決",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R9.3.giinn.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R9.3.giinn.pdf",
+      "votes": {
+        "佐藤弘美": "反対",
+        "橋本将": "反対",
+        "宮本大裕": "反対",
+        "小林智": "反対",
+        "藤野和美": "賛成",
+        "吉本秀二": "反対",
+        "森一人": "反対",
+        "青柳賢治": "反対",
+        "畠山美幸": "反対",
+        "川口浩史": "賛成",
+        "渋谷登美子": "賛成",
+        "犾守勝義": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R9.3.giinn.pdf",
+      "voteNote": "会期は８月27日～９月15日。議決日は会期単位の公式表で確認中。"
+    },
+    {
+      "place": "嵐山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "number": "発議第13号",
+      "title": "介護保険制度の持続可能な運営のため国庫負担の拡充を求める意見書の提出について",
+      "result": "否決",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R9.3.giinn.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R9.3.giinn.pdf",
+      "votes": {
+        "佐藤弘美": "反対",
+        "橋本将": "賛成",
+        "宮本大裕": "反対",
+        "小林智": "反対",
+        "藤野和美": "賛成",
+        "吉本秀二": "反対",
+        "森一人": "反対",
+        "青柳賢治": "反対",
+        "畠山美幸": "反対",
+        "川口浩史": "賛成",
+        "渋谷登美子": "賛成",
+        "犾守勝義": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R9.3.giinn.pdf",
+      "voteNote": "会期は８月27日～９月15日。議決日は会期単位の公式表で確認中。"
+    },
+    {
+      "place": "嵐山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "number": "発議第14号",
+      "title": "データセンター建設に係る法的規制を求める意見書の提出について",
+      "result": "否決",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R9.3.giinn.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R9.3.giinn.pdf",
+      "votes": {
+        "佐藤弘美": "反対",
+        "橋本将": "賛成",
+        "宮本大裕": "反対",
+        "小林智": "反対",
+        "藤野和美": "賛成",
+        "吉本秀二": "反対",
+        "森一人": "賛成",
+        "青柳賢治": "反対",
+        "畠山美幸": "反対",
+        "川口浩史": "賛成",
+        "渋谷登美子": "賛成",
+        "犾守勝義": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R9.3.giinn.pdf",
+      "voteNote": "会期は８月27日～９月15日。議決日は会期単位の公式表で確認中。"
+    },
+    {
+      "place": "嵐山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "number": "発議第15号",
+      "title": "国際刑事裁判所（ICC）の赤根所長らを制裁対象にするとしたトランプ大統領に高市首相は撤回を強く迫ることを求める意見書の提出について",
+      "result": "否決",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R9.3.giinn.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R9.3.giinn.pdf",
+      "votes": {
+        "佐藤弘美": "反対",
+        "橋本将": "反対",
+        "宮本大裕": "反対",
+        "小林智": "反対",
+        "藤野和美": "賛成",
+        "吉本秀二": "反対",
+        "森一人": "反対",
+        "青柳賢治": "反対",
+        "畠山美幸": "反対",
+        "川口浩史": "賛成",
+        "渋谷登美子": "賛成",
+        "犾守勝義": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000004/4948/R9.3.giinn.pdf",
+      "voteNote": "会期は８月27日～９月15日。議決日は会期単位の公式表で確認中。 原表の賛成討論は渋谷登美子。"
+    },
+    {
+      "place": "嵐山町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-17",
+      "number": "議案第10号",
+      "title": "令和8年度嵐山町一般会計予算議定について",
+      "result": "可決",
+      "proposer": "嵐山町長",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf#page=303",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf#page=303",
+      "voteNote": "本会議録の採決は起立多数。"
     }
   ],
   "policy": [
