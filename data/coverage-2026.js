@@ -2993,21 +2993,21 @@ GIKAI.coverage2026 = {
       "place": "越谷市",
       "season": "fall",
       "label": "2026年秋の定例会",
-      "fromDate": "",
-      "toDate": "",
+      "fromDate": "2026-09-01",
+      "toDate": "2026-09-28",
       "planned": false,
       "materials": {
         "meeting": {
-          "state": "identified",
-          "note": "対象時期に関係する資料の掲載箇所を確認。会期の確定は未了。"
+          "state": "verified",
+          "note": "市議会の公式会期日程で９月１日～28日を確認。一般質問は７～10日の４日。"
         },
         "activity": {
           "state": "partial",
           "note": "この時期の掲載項目 61件。通告・目次・本文の別は活動の出典に表示。"
         },
         "text": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "議会だより第234号の一般質問22人27問答と、４常任委員会・４分科会の25問答を収録。"
         },
         "decisions": {
           "state": "verified",
@@ -3018,22 +3018,30 @@ GIKAI.coverage2026 = {
           "note": "そのうち48件の公式記名表決を収録。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "アリーナ検討業務の委託解除と立澤議員の再質問、サンシティ、葛西用水、中学校給食費の出典付き経過を収録。"
         }
       },
       "sources": [
         {
-          "label": "会期資料　2026年9月定例会",
+          "label": "令和８年９月定例会の公式会期日程",
+          "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/kaiki/kaiki/kaikiyoteian809.html"
+        },
+        {
+          "label": "令和８年９月定例会の一般質問通告一覧",
           "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/tukok/ippan809.html"
         },
         {
           "label": "一般質問の資料　6ページから7ページ(市政に対する一般質問)",
-          "url": "https://www.city.koshigaya.saitama.jp/gikai/dayori/2026/233-6-7.html"
+          "url": "https://www.city.koshigaya.saitama.jp/gikai/dayori/2026/234-6-7.html"
         },
         {
           "label": "議案・議決資料　2ページから3ページ(主な議案の内容、審議結果)",
-          "url": "https://www.city.koshigaya.saitama.jp/gikai/dayori/2025/233-2-3.html"
+          "url": "https://www.city.koshigaya.saitama.jp/gikai/dayori/2025/234-2-3.html"
+        },
+        {
+          "label": "議会だより第234号の委員会・分科会の質疑",
+          "url": "https://www.city.koshigaya.saitama.jp/gikai/dayori/2026/234-4-5.html"
         },
         {
           "label": "令和8年9月定例会 審議結果(PDF:164KB)",

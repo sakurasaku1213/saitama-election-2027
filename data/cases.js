@@ -2040,4 +2040,163 @@ GIKAI.cases.push(
     ],
     note: "市の告知と議会の審査、解体工事の入札手続までを確認しました。着工・完了と社会実験のアンケート結果は確認中です。",
   },
+  {
+    place: "越谷市",
+    title: "アリーナ整備の市支援を問い、検討業務の契約解除後に見通しを質す",
+    topic: "公共施設・スポーツ",
+    actors: ["立澤貴明", "越谷市", "越谷アルファーズ"],
+    steps: [
+      {
+        date: "2026-02-20", stage: "候補地を示して市民説明会を開催", actor: "越谷市、越谷アルファーズ",
+        detail: "市は、レイクタウン地区内の市有地を使うアリーナ構想について、２月20日と21日にクラブと市民説明会を開催した。開催は３月の本会議答弁でも確認できる。",
+        url: "https://www.city.koshigaya.saitama.jp/kurashi_shisei/shisei/keikaku/oshirase/koshigaya_arena_setumeikai.html",
+        sourceTitle: "越谷市 新ホームアリーナに関する市民説明会",
+      },
+      {
+        date: "2026-03-05", stage: "市への影響と支援を決める手続を質問・再質問", actor: "立澤貴明",
+        detail: "交通や周辺の生活環境、説明会で出た意見、観光計画との整合を質した。市長は市有地の貸付を前提にクラブの事業計画素案を検証していると説明。立澤議員は答弁を受け、民設民営の意味や観光計画を改定する手順をさらに尋ねた。",
+        url: "https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=714&schedule_id=6",
+        sourceTitle: "越谷市議会 ３月５日会議録253・255・263～264頁",
+        archiveId: "3c3b0184b0ec614bb90d",
+        memberActions: [
+          { name: "立澤貴明", blocks: [128, 130, 156, 160, 164, 166], detail: "市の支援や地域への影響を確認し、答弁を受けて民設民営の考え方と観光計画の改定順序を掘り下げた。" },
+        ],
+      },
+      {
+        date: "2026-03-23", stage: "検討業務で行ったアンケートの回答期限", actor: "越谷市",
+        detail: "市は受託事業者が行う検討業務の一環として、建設による地域の生活・交通環境への影響などについて、対象者を限定せず意見を募った。",
+        url: "https://www.city.koshigaya.saitama.jp/kurashi_shisei/shisei/keikaku/oshirase/koshigaya_arena_tyousa.html",
+        sourceTitle: "越谷市 新ホームアリーナ建設に関するアンケートの実施案内",
+      },
+      {
+        date: "2026-06-30", stage: "市が整備支援の検討業務委託を解除", actor: "越谷市",
+        detail: "９月の市長答弁によると、クラブから必要な期間内に事業計画を出すことが困難との申出があり、市のアリーナ整備支援検討業務の委託契約を６月30日付で解除した。",
+        url: "https://www.city.koshigaya.saitama.jp/gikai/dayori/2026/234-6-7.html",
+        sourceTitle: "越谷市議会だより第234号・立澤貴明議員への市長答弁",
+      },
+      {
+        date: "2026-09-10", stage: "整備の見通しとクラブの判断を待つ期限を質す", actor: "立澤貴明",
+        detail: "クラブ側の結論を市がいつまで待つのか尋ねた。市長は、難しい状況にあるとの認識を示し、具体的な年数は示さず、見通しを立てる必要があると答えた。",
+        url: "https://www.city.koshigaya.saitama.jp/gikai/dayori/2026/234-6-7.html",
+        sourceTitle: "越谷市議会だより第234号・９月10日の一般質問要旨",
+        archiveId: "68864426f4a31e3e99f2",
+        memberActions: [
+          { name: "立澤貴明", blocks: [20], detail: "春に扱ったアリーナ計画について秋に整備の見通しを問い直し、クラブの判断を待つ期限を質した。" },
+        ],
+      },
+    ],
+    note: "市の検討業務委託の解除は９月の市長答弁で確認しました。事業そのものの最終判断は確認中です。",
+  },
+  {
+    place: "越谷市",
+    title: "葛西用水の認定決定後の維持と教材活用を問い、10月に認定式",
+    topic: "農業用水・教育",
+    actors: ["大野恭子", "越谷市", "越谷市教育委員会", "葛西用水路土地改良区", "国際かんがい排水委員会"],
+    steps: [
+      {
+        date: "2026-04-28", stage: "世界かんがい施設遺産の申請候補に選定", actor: "国際かんがい排水委員会日本国内委員会",
+        detail: "農林水産省は、葛西用水を含む４施設を国際かんがい排水委員会本部への申請対象とする国内審査の結果を公表した。",
+        url: "https://www.maff.go.jp/j/press/nousin/sekkei/260428.html",
+        sourceTitle: "農林水産省 令和８年度世界かんがい施設遺産申請施設の決定",
+      },
+      {
+        date: "2026-08-21", stage: "認定決定を公表", actor: "埼玉県",
+        detail: "県は、葛西用水路土地改良区が申請した葛西用水を国際かんがい排水委員会が認定することを決めたと発表した。",
+        url: "https://www.pref.saitama.lg.jp/a0906/news/page/news2026082103.html",
+        sourceTitle: "埼玉県 葛西用水の世界かんがい施設遺産認定決定",
+      },
+      {
+        date: "2026-09-07", stage: "水辺の維持と社会科副読本への再掲載を質問", actor: "大野恭子",
+        detail: "市長は土地改良区と協力して水辺環境の維持・活用に取り組むと答えた。教育長は、再掲載について社会科副読本の編集委員会に情報を届ける意向を示した。",
+        url: "https://www.city.koshigaya.saitama.jp/gikai/dayori/2026/234-6-7.html",
+        sourceTitle: "越谷市議会だより第234号・９月７日の一般質問要旨",
+        archiveId: "68864426f4a31e3e99f2",
+        memberActions: [
+          { name: "大野恭子", blocks: [1], detail: "認定決定後の市の維持・活用方針を質問し、社会科副読本に葛西用水を再掲載する考えを尋ねた。" },
+        ],
+      },
+      {
+        date: "2026-10-14", stage: "認定式を開催し、土地改良区が登録を報告", actor: "国際かんがい排水委員会、葛西用水路土地改良区",
+        detail: "申請者の土地改良区は、世界かんがい施設遺産への認定・登録と、10月14日の認定式開催を報告し、今後も歴史や役割を発信する方針を示した。",
+        url: "https://midorinet-kasai.or.jp/about/canal/",
+        sourceTitle: "葛西用水路土地改良区 世界かんがい施設遺産の登録報告",
+      },
+    ],
+    note: "市議会での質問は認定決定後の活用を扱っています。副読本への再掲載と市の具体的な活用事業は確認中です。",
+  },
+  {
+    place: "越谷市",
+    title: "サンシティの使用年数・ホール規模を問い、市長は12月上程の意向",
+    topic: "公共施設・文化",
+    actors: ["菊地貴光", "工藤秀次", "越谷市", "越谷サンシティのあり方に関する審議会", "越谷市議会"],
+    steps: [
+      {
+        date: "2026-01-27", stage: "再整備方針の素案について意見公募を開始", actor: "越谷サンシティのあり方に関する審議会",
+        detail: "審議会が作成した方針素案について、１月27日から２月25日まで意見を募った。市は提出状況と寄せられた意見への考え方を公表した。",
+        url: "https://www.city.koshigaya.saitama.jp/kurashi_shisei/shisei/keikaku/kakushukeikaku/shisei/nankoshisyuhen/suncityarikatasoanpc.html",
+        sourceTitle: "越谷市 方針素案への意見公募結果",
+      },
+      {
+        date: "2026-03-30", stage: "審議会が市長に答申", actor: "越谷サンシティのあり方に関する審議会",
+        detail: "市は、市長の諮問を受けた審議会が７回審議し、３月30日に答申したと公表した。",
+        url: "https://www.city.koshigaya.saitama.jp/kurashi_shisei/shisei/shingikai/sougou/nankoshisyuhen/r7-7suncityarikata-shingikai-toshinsiki.html",
+        sourceTitle: "越谷市 審議会からの答申について",
+      },
+      {
+        date: "2026-09-08", stage: "人口動態を踏まえた30～40年の施設を提案", actor: "菊地貴光",
+        detail: "札幌市民ホールのリース方式を例に、将来の人口減少を想定して使用期間を30～40年とする整備案を尋ねた。市長は関係自治体や事業者への聞き取りを含め、方針案の作成過程で検討すると答えた。",
+        url: "https://www.city.koshigaya.saitama.jp/gikai/dayori/2026/234-6-7.html",
+        sourceTitle: "越谷市議会だより第234号・９月８日の一般質問要旨",
+        archiveId: "68864426f4a31e3e99f2",
+        memberActions: [
+          { name: "菊地貴光", blocks: [12], detail: "他市のリース方式を例に、人口動態に応じた30～40年の使用を想定する施設整備を提案した。" },
+        ],
+      },
+      {
+        date: "2026-09-10", stage: "文化施設としてのあり方を質問し、上程の意向を確認", actor: "工藤秀次",
+        detail: "市民が利用する文化施設としてのあり方を質問した。市長は、民間事業者の声、市民の利用、将来の財政負担を踏まえてホールの規模を検討し、12月定例会に方針案を上程したいと答えた。",
+        url: "https://www.city.koshigaya.saitama.jp/gikai/dayori/2026/234-6-7.html",
+        sourceTitle: "越谷市議会だより第234号・９月10日の一般質問要旨",
+        archiveId: "68864426f4a31e3e99f2",
+        memberActions: [
+          { name: "工藤秀次", blocks: [18], detail: "市民の文化施設としてのサンシティのあり方を質した。" },
+        ],
+      },
+    ],
+    note: "総務分科会でも、民間施設の方向性と方針案への記載方法を審査しました。方針案の上程、議決、施設規模の確定は確認中です。",
+  },
+  {
+    place: "越谷市",
+    title: "補正予算を可決し、中学校給食費の保護者負担を半年間引き下げ",
+    topic: "学校給食・家計支援",
+    actors: ["越谷市議会", "予算決算常任委員会こども・教育分科会", "越谷市"],
+    steps: [
+      {
+        date: "2026-04", stage: "市立小学校の年度内の給食費無償化を実施", actor: "越谷市",
+        detail: "市は国の交付金を使い、令和８年度の市立小学校の給食費の保護者負担を無償化すると案内した。",
+        url: "https://www.city.koshigaya.saitama.jp/kurashi_shisei/kosodate/syotyugakkou/gakkokyushoku/mushoka_kyushoku2026.html",
+        sourceTitle: "越谷市 市立小学校の令和８年度給食費無償化",
+      },
+      {
+        date: "2026-09", stage: "補正予算の減額理由と保護者への周知を審査", actor: "予算決算常任委員会こども・教育分科会",
+        detail: "中学校給食費の徴収金を減額する理由と周知方法が質された。市は、小中学校間の負担への対応として、10月から半年間は中学校の負担を引き下げ、保護者連絡用アプリ等で期間限定であることを伝えると答弁した。",
+        url: "https://www.city.koshigaya.saitama.jp/gikai/dayori/2026/234-4-5.html",
+        sourceTitle: "越谷市議会だより第234号・こども・教育分科会の補正予算質疑",
+      },
+      {
+        date: "2026-09-28", stage: "一般会計補正予算を原案可決", actor: "越谷市議会",
+        detail: "９月定例会の最終日に、市長提出第85号議案の一般会計補正予算（第２号）を可決した。議会だよりでは全会一致に分類されている。",
+        url: "https://www.city.koshigaya.saitama.jp/gikai/dayori/2025/234-2-3.html",
+        sourceTitle: "越谷市議会だより第234号・９月定例会審議結果",
+        billNumber: "議案第85号",
+      },
+      {
+        date: "2026-10-01", stage: "月額4,850円から2,500円への引き下げを案内", actor: "越谷市",
+        detail: "10月から翌年３月まで、市立中学校の給食費の保護者負担を2,350円引き下げる。市は、国の重点支援地方交付金と市の一般財源を合わせた１億600万円を活用すると公表した。",
+        url: "https://www.city.koshigaya.saitama.jp/kurashi_shisei/kosodate/syotyugakkou/gakkokyushoku/koshigaya_contents_kyushoku_kyushokuhi_futankeigen2026.html",
+        sourceTitle: "越谷市 中学校給食費の保護者負担の時限的引き下げ",
+      },
+    ],
+    note: "分科会の質疑、補正予算全体の可決、費用と対象期間の公表まで記載しました。紙面要旨には分科会の質問者名がありません。",
+  },
 );

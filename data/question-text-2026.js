@@ -21253,6 +21253,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "2580a79c92721f83b138",
+      "place": "寄居町",
+      "season": "fall",
+      "date": "2026-09-15",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "津久井大雄議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/speech.html?council_id=39&schedule_id=2&playlist_id=2&speaker_id=24&target_year=2026",
+      "speakers": [
+        "津久井大雄"
+      ]
+    },
+    {
       "id": "a0478bd049c0fa264cf5",
       "place": "富士見市",
       "season": "spring",
@@ -35353,31 +35367,43 @@ GIKAI.questionText = {
       "url": "https://www.city.koshigaya.saitama.jp/gikai/dayori/2026/234-6-7.html",
       "kind": "議会だよりの質問・答弁要旨（HTML）",
       "scope": "summary",
-      "note": "公式広報の編集済み要旨。会議録の逐語本文とは別に収録しています。",
+      "note": "議会だより第234号の公式HTML。掲載された22人の27問答を主題・質問者・答弁者に沿って収録。質問日は通告一覧と公式録画の表示で照合。公式HTMLに議員ごとの録画リンクがあります。",
       "speakers": [
-        "久保田茂",
-        "和泉田宏幸",
-        "土屋来夢",
-        "大和田哲",
-        "大田ちひろ",
         "大野恭子",
         "小口高寛",
+        "大田ちひろ",
         "小林成好",
-        "山田大助",
-        "島田玲子",
-        "工藤秀次",
-        "斎藤豪人",
-        "松島孝夫",
-        "横井聖美",
         "武藤智",
-        "清水泉",
-        "清田巳喜男",
-        "立澤貴明",
-        "菊地貴光",
+        "大和田哲",
+        "山田大助",
+        "横井聖美",
+        "久保田茂",
+        "斎藤豪人",
         "藤部徳治",
+        "菊地貴光",
+        "和泉田宏幸",
+        "清田巳喜男",
+        "土屋来夢",
+        "島田玲子",
+        "清水泉",
+        "工藤秀次",
         "野口高明",
+        "立澤貴明",
+        "松島孝夫",
         "金井直樹"
       ]
+    },
+    {
+      "id": "d60345ba15cda9f22d44",
+      "place": "越谷市",
+      "season": "fall",
+      "date": "2026-09",
+      "url": "https://www.city.koshigaya.saitama.jp/gikai/dayori/2026/234-4-5.html",
+      "title": "越谷市議会だより234号・常任委員会と予算決算分科会の質疑（4〜5頁）",
+      "kind": "議会だよりの質問・答弁要旨（HTML）",
+      "scope": "summary",
+      "speakers": [],
+      "note": "議会だよりに掲載の４常任委員会・４分科会の16議題25問答を収録。紙面で質問者・答弁者の個人名は記載されていません。"
     },
     {
       "id": "f0ca3598087e29afcf15",
@@ -37450,7 +37476,8 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+        "indexURL": "https://www.city.koshigaya.saitama.jp/gikai/dayori/2026/234-6-7.html",
+        "note": "議会だよりの一般質問22人27問答、常任委員会と予算決算分科会の25問答を収録。一般質問４日・22人の公式録画と照合。正式会議録は確認中。"
       }
     },
     {
@@ -38531,7 +38558,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/council.html?year=2026&council_id=39",
-        "note": "公式録画一覧の一般質問12人のうち、1人の映像音声を機械文字起こしとして収録。正式会議録は確認中。議会だよりの質問・答弁要旨も収録。"
+        "note": "公式録画一覧の一般質問12人のうち、2人の映像音声を機械文字起こしとして収録。正式会議録は確認中。議会だよりの質問・答弁要旨も収録。"
       }
     },
     {
