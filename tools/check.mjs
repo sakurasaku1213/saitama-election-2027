@@ -128,6 +128,79 @@ for (const c of data.cases) {
     previous = step.date;
   }
 }
+const review = data.policyReview;
+validDay(review.through);
+validDay(review.checked);
+assert.ok(review.through <= review.checked && review.coverageNote);
+for (const source of review.sources) {
+  validLink(source.url);
+  assert.ok(source.label);
+}
+const sourceQuestions = new Map();
+for (const batch of data.activity) {
+  if (batch.place !== review.place || batch.sourceTitle !== review.questionSource) continue;
+  for (const [name, date, kind, title, url] of batch.rows) {
+    assert.ok(!sourceQuestions.has(url) && ["一般質問", "代表質問"].includes(kind), url);
+    sourceQuestions.set(url, { name, date, title });
+  }
+}
+const reviewSession = data.sessions.find((session) =>
+  session.place === review.place && session.label === review.label && session.url === review.sources[0].url,
+);
+assert.equal(sourceQuestions.size, reviewSession.count, "Source item count");
+const reviewed = new Map();
+const reviewSpeakers = new Set();
+const reviewLevels = new Set(["specific", "general", "unknown"]);
+const followUpStates = new Set(["confirmed", "searched", "incomplete", "open"]);
+for (const issue of review.issues) {
+  assert.ok(issue.items.length && followUpStates.has(issue.followUp), issue.name);
+  assert.ok(people.has(review.place + "|" + issue.name.replace(/\s/g, "")), issue.name);
+  reviewSpeakers.add(issue.name);
+  const itemUrls = new Set();
+  const questionDays = [];
+  for (const item of issue.items) {
+    const question = sourceQuestions.get(item.url);
+    assert.equal(question?.name, issue.name, item.url);
+    assert.ok(!itemUrls.has(item.url) && reviewLevels.has(item.level) && item.reason, item.url);
+    itemUrls.add(item.url);
+    questionDays.push(question.date);
+    if (!reviewed.has(item.url)) reviewed.set(item.url, []);
+    reviewed.get(item.url).push(issue);
+  }
+  questionDays.sort();
+  const reviewedText = issue.items.filter((item) => item.level !== "unknown");
+  for (const item of reviewedText) {
+    assert.ok(issue.outcomes?.some((entry) =>
+      entry.url === item.url && entry.date === sourceQuestions.get(item.url).date
+    ), "Missing original answer: " + item.url);
+  }
+  assert.equal(issue.followUp === "confirmed", Boolean(issue.actions?.length), issue.name);
+  if (issue.followUp === "incomplete" || issue.followUp === "open") {
+    assert.ok(issue.followUpNote, issue.name);
+  }
+  for (const timeline of [issue.actions, issue.outcomes]) {
+    let previous = "";
+    for (const entry of timeline || []) {
+      validDay(entry.date);
+      validLink(entry.url);
+      assert.ok(entry.sourceTitle && entry.locator && entry.stage && entry.actor && entry.detail, entry.url);
+      assert.ok(entry.date >= previous && entry.date <= review.through, entry.url);
+      previous = entry.date;
+    }
+  }
+  for (const action of issue.actions || []) {
+    assert.ok(action.date > questionDays.at(-1), action.url);
+    assert.equal(action.actor, issue.name + "議員", action.url);
+    assert.ok(!sourceQuestions.has(action.url), action.url);
+  }
+}
+assert.equal(reviewed.size, sourceQuestions.size, "Missing reviewed source item");
+assert.equal(reviewSpeakers.size, reviewSession.appearances, "Missing reviewed speaker");
+for (const [url, issues] of reviewed) {
+  if (issues.length < 2) continue;
+  const titles = new Set(issues.map((issue) => issue.title).filter(Boolean));
+  assert.equal(titles.size, issues.length, "Explain how the shared source item is split: " + url);
+}
 let votes = 0;
 for (const v of data.voteSessions) {
   validLink(v.source);
@@ -172,6 +245,10 @@ console.log(
       jointBills: data.bills.length,
       localRollCalls: data.localVotes.length,
       documentedCases: data.cases.length,
+      reviewedQuestionItems: reviewed.size,
+      reviewedSpeakers: reviewSpeakers.size,
+      reviewedPolicyIssues: review.issues.length,
+      confirmedFollowUps: review.issues.filter((issue) => issue.followUp === "confirmed").length,
       announcementRows: data.nominations.length,
     },
     null,

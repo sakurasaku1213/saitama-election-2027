@@ -363,6 +363,87 @@
       ),
     ]);
   }
+
+  const review = D.policyReview;
+  const reviewQuestions = new Map(
+    records
+      .filter((r) => r.place === review.place && r.sourceTitle === review.questionSource)
+      .map((r) => [r.url, r]),
+  );
+  const reviewsByPerson = new Map();
+  for (const issue of review.issues) {
+    const key = personKey(review.place, issue.name);
+    if (!reviewsByPerson.has(key)) reviewsByPerson.set(key, []);
+    reviewsByPerson.get(key).push(issue);
+  }
+  const questionLevels = {
+    specific: "具体的な提案・検証",
+    general: "要望・見解の確認",
+    unknown: "本文未確認",
+  };
+  const followUpLabels = {
+    confirmed: "後続行動を確認",
+    searched: "確認した資料に後続行動の記録なし",
+    incomplete: "追跡資料が不足",
+    open: "追跡期間中",
+  };
+  function reviewEvent(event) {
+    return `<li>${dateTag(event.date)} ${tag(event.stage)}
+      <strong>${esc(event.actor)}</strong><p>${esc(event.detail)}</p>
+      <p class="small">${link(event.url, event.sourceTitle)}${event.locator ? `　${esc(event.locator)}` : ""}</p></li>`;
+  }
+  function policyIssue(issue) {
+    const original = reviewQuestions.get(issue.items[0].url);
+    const title = issue.title || original.title.split("／").at(-1);
+    const questions = issue.items.map((item) => {
+      const q = reviewQuestions.get(item.url);
+      return `<li>${tag(q.kind)} <strong>${esc(questionLevels[item.level])}</strong>
+        <p>${esc(item.reason)}</p><p class="small">${link(q.url, q.title)}　${dateTag(q.date)}　質問・答弁</p></li>`;
+    }).join("");
+    const followUp = followUpLabels[issue.followUp];
+    return `<details class="entry policy-issue"><summary><span>${esc(title)}</span></summary>
+      <div class="detail-body"><h5>何を尋ねたか</h5><ul class="policy-evidence">${questions}</ul>
+      <h5>本人の後続行動</h5><p>${esc(followUp)}${issue.followUpNote ? `。 ${esc(issue.followUpNote)}` : ""}</p>
+      ${issue.actions?.length ? `<ol class="steps">${issue.actions.map(reviewEvent).join("")}</ol>` : ""}
+      <h5>行政の対応・到達点</h5>
+      ${issue.outcomes?.length ? `<ol class="steps">${issue.outcomes.map(reviewEvent).join("")}</ol>` : `<p>${link(original.url, "当初の答弁を読む")}</p>`}
+      </div></details>`;
+  }
+  function policyReviewCard(p) {
+    if (p.place !== review.place) return "";
+    const issues = reviewsByPerson.get(personKey(p.place, p.name)) || [];
+    const heading = `<h4>政策実現力をみる</h4><p class="small">${esc(review.label)}の質問と、${dateTag(review.through)}までの経過です。</p>`;
+    if (!issues.length) return `<section class="policy-review">${heading}<p>対象会期の一般質問・代表質問に本人の登壇記録はありません。</p></section>`;
+    const items = new Set();
+    const withoutText = new Set();
+    for (const issue of issues) {
+      for (const item of issue.items) {
+        items.add(item.url);
+        if (item.level === "unknown") withoutText.add(item.url);
+      }
+    }
+    const withoutCoverage = issues.filter((issue) => ["incomplete", "open"].includes(issue.followUp)).length;
+    const metrics = [
+      ["掲載項目", items.size],
+      ["論点", issues.length],
+      ["具体的な提案・検証", issues.filter((issue) => issue.items.some((item) => item.level === "specific")).length],
+      ["後続行動を確認", issues.filter((issue) => issue.followUp === "confirmed").length],
+    ];
+    return `<section class="policy-review">${heading}
+      <dl class="policy-metrics">${metrics.map(([label, total]) => `<div><dt>${esc(label)}</dt><dd>${count(total)}件</dd></div>`).join("")}</dl>
+      ${withoutText.size ? `<p class="small">本文未確認 ${count(withoutText.size)}項目</p>` : ""}
+      ${withoutCoverage ? `<p class="small">追跡資料不足または期間中 ${count(withoutCoverage)}論点</p>` : ""}
+      <p class="small">後続行動はこの会期の論点に関する公表記録です。委員会の報告には発言者が記されない場合があります。 ${jump("method", {}, "確認した資料と基準")}</p>
+      <details class="policy-issues"><summary>論点ごとの判定と出典を読む</summary>
+        <div class="list">${issues.map(policyIssue).join("")}</div>
+      </details></section>`;
+  }
+  function policyReviewMethod() {
+    return `<div class="panel"><h3>政策実現力の比較で確認した資料</h3>
+      <p>${esc(review.label)}の一般質問・代表質問が対象です。同じ議員による同じ対象・同じ要求を一論点にまとめます。一つの掲載項目に別の施策への質問が含まれるときは、論点を分け、掲載項目は一度数えます。施策や対象を特定し、変更案、数値・期限、資料など、何を求めたのかが明確な質問を「具体的な提案・検証」と表示します。</p>
+      <p>${esc(review.coverageNote)}</p><p class="small">資料の確認日 ${dateTag(review.checked)}</p>
+      <ul class="documents">${review.sources.map((source) => `<li>${link(source.url, source.label)} ${esc(source.note || "")}</li>`).join("")}</ul></div>`;
+  }
   function relatedCases(p) {
     return D.cases.filter(
       (c) =>
@@ -375,6 +456,7 @@
     );
     const years = sorted(work.map((g) => g.date.slice(0, 4)));
     const related = relatedCases(p);
+    const policy = policyReviewCard(p);
     const types = sorted(work.map((g) => g.kind));
     const typeLinks = types.map((kind) =>
       jump(
@@ -384,8 +466,10 @@
       ),
     );
     return `<article class="${compare ? "compare-cell" : "person"}"><div class="meta"><span>${esc(p.place)}議会</span>${p.district ? tag(p.district) : ""}</div><h3>${esc(p.name)}</h3>
+      ${compare ? policy : ""}
       <p>${esc(p.group || "会派は掲載元で確認")}</p>${p.roles?.length ? `<p class="small">委員会等　${p.roles.map(esc).join(" · ")}</p>` : ""}
       ${work.length ? `<p class="group-note">記録のある年　${years.join("・")}年</p><div class="links">${typeLinks.join("")}</div><p class="snippet">直近の掲載項目　${esc(work[0].items[0].title)}</p>` : `<p class="group-note">この期間の収録資料では本人の項目を特定できていません。掲載元の記録も参照できます。</p>`}
+      ${compare ? "" : policy}
       ${related.map((c) => `<div class="story-link">${jump("cases", { place: p.place, q: c.title }, c.title)}</div>`).join("")}
       <div class="links">${work.length ? jump("records", { place: p.place, name: p.name, year: state.year }, "本人の掲載記録") : ""}${link(p.url, "議会の名簿")}${link(p.groupURL, "会派名簿")}${link(p.speechUrl, "本人の発言検索")}${link(p.videoUrl, "本人の録画")}</div>
       ${p.asOf || p.profileDate ? `<p class="small">名簿・プロフィールの資料日　${esc(date(p.asOf || p.profileDate))}</p>` : `<p class="small">名簿の閲覧確認　${date(D.asOf)}</p>`}</article>`;
@@ -671,7 +755,7 @@
     const correction = `<div class="panel"><h3>資料の追加・訂正</h3><p>訂正には議会名、氏名、資料日、原文のURL・頁、訂正箇所を添えてください。リポジトリにアクセスできる方はIssueまたは変更提案で受け付けます。</p><div class="links">${link("https://github.com/sakurasaku1213/saitama-election-2027/issues", "リポジトリのIssues")}${jump("areas", {}, "63市町村の公式窓口")}</div></div>`;
     results(
       stats +
-        `<div class="source-stack">${prereq}${principles}</div><h3 class="section-title">活動資料の収録範囲</h3>${coverage}<h3 class="section-title">出典と訂正</h3><div class="grid">${sourcesPanel()}${correction}</div>`,
+        `<div class="source-stack">${prereq}${principles}${policyReviewMethod()}</div><h3 class="section-title">活動資料の収録範囲</h3>${coverage}<h3 class="section-title">出典と訂正</h3><div class="grid">${sourcesPanel()}${correction}</div>`,
     );
   }
   function renderControls() {
