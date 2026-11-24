@@ -799,3 +799,84 @@ GIKAI.cases.push({
   ],
   note: "一般質問への答弁と、町が公表した運行条件の変更、実証中の意見募集を確認しました。",
 });
+
+GIKAI.cases.push(
+  {
+    place: "越谷市",
+    title: "学校の規模と配置を審議する条例を可決し、審議会が開会",
+    topic: "学校配置・公共施設",
+    actors: ["松島孝夫", "山田大助", "白川秀嗣", "横井聖美", "後藤孝江", "越谷市議会", "越谷市教育委員会"],
+    steps: [
+      {
+        date: "2026-03-05", stage: "公共施設計画と学校施設の維持方針を確認", actor: "松島孝夫",
+        detail: "公共施設等総合管理計画の素案と学校施設の扱いとの整合性を取り上げ、学校教育施設を原則として維持する方針かを尋ねた。",
+        url: "https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=714&schedule_id=6",
+        sourceTitle: "越谷市議会 ３月５日会議録248頁・一般質問",
+      },
+      {
+        date: "2026-03-06", stage: "条例案の質疑で学校配置の方針と審議会の役割を問い直す", actor: "松島孝夫、山田大助、白川秀嗣",
+        detail: "松島議員は前日の質問を明示し、学校施設の将来像を市が示してから審議会の知見を求めるべきだと質した。山田議員は統廃合を前提にしない考え方を、白川議員は教育・都市・地域政策との整合性などを尋ねた。",
+        url: "https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=714&schedule_id=7",
+        sourceTitle: "越谷市議会 ３月６日会議録312・316・321頁の議案質疑",
+      },
+      {
+        date: "2026-03-18", stage: "賛否の討論を経て、審議会を設ける条例案を可決", actor: "越谷市議会",
+        detail: "横井聖美議員、白川秀嗣議員が原案に反対し、後藤孝江議員が賛成の討論をした。市議会は議案第16号を原案可決した。",
+        url: "https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=714&schedule_id=8",
+        sourceTitle: "越谷市議会 ３月18日会議録352～356頁・討論と採決", billNumber: "議案第16号",
+      },
+      {
+        date: "2026-10-17", stage: "第１回審議会を開催し、学校の規模・配置を諮問", actor: "越谷市教育委員会",
+        detail: "市立学校適正規模・適正配置審議会の初回会議を開催した。市は会議案内とともに諮問文書と審議資料を公表した。",
+        url: "https://www.city.koshigaya.saitama.jp/kurashi_shisei/kosodate/oshirase/tekiseikibohaichishingikai_r8dai1kaikaigi.html",
+        sourceTitle: "越谷市教育委員会 審議会第１回会議の開催報告",
+      },
+      {
+        date: "2026-11-05", stage: "第２回会議で学校施設や規模を扱う", actor: "越谷市立学校適正規模・適正配置審議会",
+        detail: "市は第２回会議の開催を報告し、小中一貫教育、学校施設の現状、公共施設計画、学校の規模の各資料を公表した。",
+        url: "https://www.city.koshigaya.saitama.jp/kurashi_shisei/kosodate/oshirase/tekiseikibohaichishingikai_r8dai2kaikaigi.html",
+        sourceTitle: "越谷市教育委員会 審議会第２回会議の開催報告",
+      },
+    ],
+    note: "議員の再質問・討論、条例案の可決、教育委員会の諮問と会議開催まで確認しました。個別校の再編決定は確認中です。",
+  },
+  {
+    place: "戸田市",
+    title: "北戸田駅西口の広場整備を問い、交通広場の契約増額を審議",
+    topic: "駅前整備・公共工事",
+    actors: ["榎本守明", "宮内そうこ", "小金沢優", "戸田市議会", "戸田市"],
+    steps: [
+      {
+        date: "2026-02-18", stage: "駅西口の広場を含む土地区画整理の進捗を確認", actor: "榎本守明",
+        detail: "新曽第一・第二地区の区画整理事業の進捗を尋ねた。市長は北戸田駅西口の交通広場と交流広場の整備について、秋の完成を目指すと答えた。",
+        url: "https://toda.gijiroku.com/gikai/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&FMM=1&FDD=1&TYY=2026&TMM=12&TDD=31&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82R%8C%8E%92%E8%97%E1%89%EF%81%7C02%8C%8E18%93%FA-05%8D%86&KGNO=157&FINO=1283&UNID=K_R08021800051",
+        sourceTitle: "戸田市議会 ２月18日本会議録・総括質問と市長答弁",
+      },
+      {
+        date: "2026-05-28", stage: "物価上昇を理由に交通広場の契約変更を提案", actor: "戸田市",
+        detail: "物価高騰による工事費の調整に伴い、交通広場の請負代金を936万2,000円増額し、３億6,422万9,700円とする契約変更を説明した。",
+        url: "https://toda.gijiroku.com/gikai/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&FMM=1&FDD=1&TYY=2026&TMM=12&TDD=31&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82U%8C%8E%92%E8%97%E1%89%EF%81%7C05%8C%8E28%93%FA-01%8D%86&KGNO=159&FINO=1295&UNID=K_R08052800011",
+        sourceTitle: "戸田市議会 ５月28日本会議録・議案第41号の説明",
+      },
+      {
+        date: "2026-06-19", stage: "工事の安全対策、価格調整と用地取得の審査を報告", actor: "宮内そうこ、小金沢優",
+        detail: "総務常任委員長は、工事車両の通行、近隣への事前説明、騒音・振動対策と価格調整についての審査を報告した。文教・建設常任委員長は、関連する補正予算で電線共同溝用地の取得額の妥当性を審査したと報告した。",
+        url: "https://toda.gijiroku.com/gikai/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&FMM=1&FDD=1&TYY=2026&TMM=12&TDD=31&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82U%8C%8E%92%E8%97%E1%89%EF%81%7C06%8C%8E19%93%FA-07%8D%86&KGNO=159&FINO=1301&UNID=K_R08061900071",
+        sourceTitle: "戸田市議会 ６月19日本会議録・両常任委員長報告",
+      },
+      {
+        date: "2026-06-19", stage: "交通広場の工事請負変更契約を可決", actor: "戸田市議会",
+        detail: "交通広場の工事請負変更契約案を原案可決した。議員別の記名表決は議会の原表で確認できる。",
+        url: "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/GD031/GD031_001?kaigi=000134",
+        sourceTitle: "戸田市議会 ６月定例会・議員別採決状況及び議決結果", billNumber: "議案第41号",
+      },
+      {
+        date: "2026-09-30", stage: "駅西口の交流広場が完成", actor: "戸田市",
+        detail: "市は、駅西口で整備している広場のうち、駅前交流広場が９月30日に完成したと公表した。11月号では、交流広場を使ったにぎわいづくりの社会実験を案内した。",
+        url: "https://www.city.toda.saitama.jp/koho-toda/261101/topics07.html",
+        sourceTitle: "広報戸田市11月号・駅前交流広場の完成と社会実験",
+      },
+    ],
+    note: "請負代金の変更は交通広場の議案です。９月30日は市が公表した交流広場の完成日で、交通広場の完成日は確認中です。",
+  },
+);

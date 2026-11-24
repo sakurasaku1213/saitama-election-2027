@@ -341,6 +341,7 @@ for (const bill of coverage.decisions) {
   if (bill.date) validDay(bill.date);
   validLink(bill.resultURL);
   validLink(bill.url);
+  if (bill.committeeURL) validLink(bill.committeeURL);
   if (bill.votes) {
     assert.ok(bill.voteType && Object.keys(bill.votes).length);
     validLink(bill.voteURL);

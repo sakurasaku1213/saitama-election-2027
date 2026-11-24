@@ -4871,6 +4871,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "6057c98b2d1895da7855",
+      "place": "加須市",
+      "season": "fall",
+      "date": "2026-09-10",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "大内清心議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/kazo/WebView/rd/speech.html?council_id=39&schedule_id=3&playlist_id=2&speaker_id=5&target_year=2026",
+      "speakers": [
+        "大内清心"
+      ]
+    },
+    {
       "id": "fe4deb02951bc9dd2304",
       "place": "加須市",
       "season": "fall",
@@ -31693,7 +31707,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/kazo/WebView/rd/council.html?year=2026&council_id=39",
-        "note": "公式録画一覧の一般質問20人のうち、1人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
+        "note": "公式録画一覧の一般質問20人のうち、2人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
       }
     },
     {
