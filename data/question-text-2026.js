@@ -3682,6 +3682,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "f01191a2056d39e93870",
+      "place": "上里町",
+      "season": "summer",
+      "date": "2026-06-04",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "石井慎也議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/speech.html?council_id=45&schedule_id=1&playlist_id=6&speaker_id=18&target_year=2026",
+      "speakers": [
+        "石井慎也"
+      ]
+    },
+    {
       "id": "74c20bf9632438dea707",
       "place": "上里町",
       "season": "summer",
@@ -6496,6 +6510,20 @@ GIKAI.questionText = {
       "url": "https://smart.discussvision.net/smart/tenant/kazo/WebView/rd/speech.html?council_id=39&schedule_id=4&playlist_id=1&speaker_id=34&target_year=2026",
       "speakers": [
         "山本仁美"
+      ]
+    },
+    {
+      "id": "efaa9dfe51087fb28de4",
+      "place": "加須市",
+      "season": "fall",
+      "date": "2026-09-11",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "赤坂和洋議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/kazo/WebView/rd/speech.html?council_id=39&schedule_id=4&playlist_id=2&speaker_id=29&target_year=2026",
+      "speakers": [
+        "赤坂和洋"
       ]
     },
     {
@@ -21389,6 +21417,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "f9436190bdcac94bc134",
+      "place": "寄居町",
+      "season": "fall",
+      "date": "2026-09-15",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "浅見玲子議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。 自動検査で確認候補になった時間帯も含まれます。",
+      "url": "https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/speech.html?council_id=39&schedule_id=2&playlist_id=5&speaker_id=22&target_year=2026",
+      "speakers": [
+        "浅見玲子"
+      ]
+    },
+    {
       "id": "7f0f674be0911f612e92",
       "place": "寄居町",
       "season": "fall",
@@ -25196,6 +25238,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "a7f29aa8ecc8dedf0db8",
+      "place": "戸田市",
+      "season": "fall",
+      "date": "2026-09-09",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "そごう拓也議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/GD022/GD022_006?id=0000055801",
+      "speakers": [
+        "そごう拓也"
+      ]
+    },
+    {
       "id": "ab9387289ec18d0d6298",
       "place": "所沢市",
       "season": "spring",
@@ -26512,6 +26568,20 @@ GIKAI.questionText = {
       "url": "https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1869",
       "speakers": [
         "池田貞雄"
+      ]
+    },
+    {
+      "id": "d9ebd2ba817190baf3de",
+      "place": "新座市",
+      "season": "fall",
+      "date": "2026-09-10",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "堀内博史議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1875",
+      "speakers": [
+        "堀内博史"
       ]
     },
     {
@@ -28447,15 +28517,48 @@ GIKAI.questionText = {
       "place": "杉戸町",
       "season": "fall",
       "date": "2026-09",
-      "title": "杉戸町議会だより133号・町政を問う",
+      "title": "こんにちは杉戸議会です第133号・９月定例会の問答と討論",
       "url": "https://www.town.sugito.lg.jp/uploaded/attachment/18196.pdf",
-      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "kind": "議会だよりの質問・答弁（紙面要約）",
       "scope": "summary",
-      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
+      "note": "第133号の一般質問11人・44問答、決算・議案等の26問答と討論12欄を原紙面と照合。質問項目一覧のうち、紙面に答弁の掲載がない８項目も記載。発言日は公式録画目録と照合。 原紙面のOCR全18頁を併録。",
       "speakers": [
+        "野口俊彦",
         "平川忠良",
-        "野口俊彦"
+        "伊藤美佐子",
+        "宮田雄一",
+        "北出惠造",
+        "江口栄子",
+        "冨澤義之",
+        "太田康之",
+        "久松祐樹",
+        "市毛大助",
+        "大橋芳久"
       ]
+    },
+    {
+      "id": "42ee809fcbc82f43ea96",
+      "place": "杉戸町",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "令和８年第６回定例会・一般質問一覧23項目",
+      "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17669.pdf",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "speakers": [
+        "野口俊彦",
+        "平川忠良",
+        "伊藤美佐子",
+        "宮田雄一",
+        "北出惠造",
+        "江口栄子",
+        "冨澤義之",
+        "太田康之",
+        "久松祐樹",
+        "市毛大助",
+        "大橋芳久"
+      ],
+      "note": "公式の一般質問一覧と録画目録の11人・23項目。各人の発言日を公式録画目録と照合。"
     },
     {
       "id": "878638d718204cbdbf0d",
@@ -37661,7 +37764,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/kazo/WebView/rd/council.html?year=2026&council_id=39",
-        "note": "公式録画一覧の一般質問20人のうち、6人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
+        "note": "公式録画一覧の一般質問20人のうち、7人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
       }
     },
     {
@@ -37982,7 +38085,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "議会だより第236号の一般質問22人・37主題と４常任委員会13組を収録。正式会議録は確認中。",
+        "note": "議会だより第236号の一般質問22人・37主題と４常任委員会13組を収録。公式録画の機械文字起こし１件も参考収録。原音照合と正式会議録は確認中。",
         "indexURL": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/GD032/GD032_002?id=0000055902&menu=000047"
       }
     },
@@ -38117,7 +38220,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://niiza-city.stream.jfit.co.jp/?tpl=gikai_days_list&gikai_id=96",
-        "note": "新座の公式録画から機械文字起こし５人分を参考収録。議会だより第238号の質問・答弁要旨はPDF７頁を収録。原音照合と正式会議録は確認中。"
+        "note": "新座の公式録画から機械文字起こし６人分を参考収録。議会だより第238号の質問・答弁要旨はPDF７頁を収録。原音照合と正式会議録は確認中。"
       }
     },
     {
@@ -38976,7 +39079,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/council.html?year=2026&council_id=45",
-        "note": "公式録画一覧の一般質問10人のうち、4人の映像音声を機械文字起こしとして収録。正式会議録は確認中。議会だよりの質問・答弁要旨も収録。"
+        "note": "公式録画一覧の一般質問10人のうち、5人の映像音声を機械文字起こしとして収録。正式会議録は確認中。議会だよりの質問・答弁要旨も収録。"
       }
     },
     {
@@ -39012,7 +39115,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/council.html?year=2026&council_id=39",
-        "note": "公式録画一覧の一般質問12人のうち、4人の映像音声を機械文字起こしとして収録。正式会議録は確認中。議会だよりの質問・答弁要旨も収録。"
+        "note": "公式録画一覧の一般質問12人のうち、5人の映像音声を機械文字起こしとして収録。正式会議録は確認中。議会だよりの質問・答弁要旨も収録。"
       }
     },
     {
@@ -39065,7 +39168,8 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+        "note": "第133号の一般質問11人・44問答、決算・議案等の26問答と討論12欄を原紙面と照合。質問項目一覧のうち、紙面に答弁の掲載がない８項目も記載。発言日は公式録画目録と照合。 正式会議録は確認中。",
+        "indexURL": "https://smart.discussvision.net/smart/tenant/sugito/WebView/rd/council.html?year=2026&council_id=16"
       }
     },
     {

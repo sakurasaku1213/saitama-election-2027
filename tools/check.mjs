@@ -148,7 +148,10 @@ for (const c of data.cases) {
       assert.equal(doc.url.split("#")[0], step.url.split("#")[0], c.title);
       const monthlySource = doc.date.length === 7 &&
         (doc.scope === "summary" || doc.kind === "公式会議録PDFのOCR転記");
-      assert.ok(doc.date === step.date || (monthlySource && doc.date === step.date.slice(0, 7)), c.title);
+      const inSummarySession = monthlySource && doc.scope === "summary" && step.date.length === 10 &&
+        data.coverage2026.sessions.some((slot) => slot.place === place && slot.season === doc.season &&
+          !slot.planned && slot.fromDate && slot.toDate && step.date >= slot.fromDate && step.date <= slot.toDate);
+      assert.ok(doc.date === step.date || (monthlySource && doc.date === step.date.slice(0, 7)) || inSummarySession, c.title);
     }
     if (step.blocks) {
       assert.ok(doc && step.blocks.length && step.blocks.every((block, index) =>
