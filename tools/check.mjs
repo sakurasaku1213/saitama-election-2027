@@ -201,6 +201,78 @@ for (const [url, issues] of reviewed) {
   const titles = new Set(issues.map((issue) => issue.title).filter(Boolean));
   assert.equal(titles.size, issues.length, "Explain how the shared source item is split: " + url);
 }
+const coverage = data.coverage2026;
+validDay(coverage.checked);
+const coverageSlots = new Map();
+const seasons = new Set(["spring", "summer", "fall"]);
+const materialKeys = ["activity", "decisions", "meeting", "policy", "text", "votes"];
+const materialStates = new Set(["verified", "partial", "identified", "unavailable", "notFound", "noSession", "pending"]);
+for (const row of coverage.sessions) {
+  assert.ok(allBodies.has(row.place) && seasons.has(row.season) && row.label);
+  const key = row.place + "|" + row.season;
+  assert.ok(!coverageSlots.has(key), key);
+  coverageSlots.set(key, row);
+  assert.equal(Object.keys(row.materials).sort().join(), materialKeys.join(), key);
+  assert.ok(Object.values(row.materials).every((m) => materialStates.has(m.state) && m.note), key);
+  assert.ok(row.sources.length && new Set(row.sources.map((source) => source.url)).size === row.sources.length, key);
+  for (const source of row.sources) {
+    validLink(source.url);
+    assert.ok(source.label);
+  }
+  if (row.fromDate) validDay(row.fromDate);
+  if (row.toDate) {
+    validDay(row.toDate);
+    assert.ok(row.fromDate && row.fromDate <= row.toDate, key);
+  }
+}
+assert.equal(coverageSlots.size, allBodies.size * seasons.size);
+const currentPlaces = new Set();
+for (const row of coverage.current) {
+  assert.ok(allBodies.has(row.place) && !currentPlaces.has(row.place), row.place);
+  currentPlaces.add(row.place);
+  validLink(row.roster.source);
+  validLink(row.election.source);
+  assert.ok(row.roster.matched >= 0 && row.roster.baseline >= row.roster.matched);
+  assert.equal(row.roster.baseline, data.members.filter((m) => m.place === row.place).length);
+}
+assert.equal(currentPlaces.size, allBodies.size);
+const addedDecisions = new Set();
+for (const bill of coverage.decisions) {
+  const slot = coverageSlots.get(bill.place + "|" + bill.season);
+  const key = [bill.place, bill.session, bill.number].join("|");
+  assert.ok(slot && bill.number && bill.title && bill.result, key);
+  assert.ok(!addedDecisions.has(key), key);
+  addedDecisions.add(key);
+  if (bill.date) validDay(bill.date);
+  validLink(bill.resultURL);
+  validLink(bill.url);
+  if (bill.votes) {
+    assert.ok(bill.voteType && Object.keys(bill.votes).length);
+    validLink(bill.voteURL);
+  }
+}
+for (const review of coverage.policy) {
+  assert.ok(coverageSlots.has(review.place + "|" + review.season));
+  for (const issue of review.issues) {
+    const name = review.place + "|" + issue.name.replace(/\s/g, "");
+    assert.ok(people.has(name) && issue.items.length && issue.outcomes.length, name);
+    for (const item of issue.items) {
+      validLink(item.url);
+      if (item.recordingURL) validLink(item.recordingURL);
+      validDay(item.date);
+      assert.ok(item.reason && item.title && reviewLevels.has(item.level));
+    }
+    for (const outcome of issue.outcomes) {
+      validDay(outcome.date);
+      validLink(outcome.url);
+      assert.ok(outcome.actor && outcome.detail && outcome.locator);
+    }
+    if (issue.followUp === "confirmed") {
+      assert.ok(issue.actions?.length && issue.actions.every((action) => action.actor.includes(issue.name)));
+    }
+  }
+}
+
 let votes = 0;
 for (const v of data.voteSessions) {
   validLink(v.source);
@@ -250,6 +322,11 @@ console.log(
       reviewedPolicyIssues: review.issues.length,
       confirmedFollowUps: review.issues.filter((issue) => issue.followUp === "confirmed").length,
       announcementRows: data.nominations.length,
+      coverageCouncils: new Set(coverage.current.map((row) => row.place)).size,
+      coverageSlots: coverageSlots.size,
+      additionalDecisions: coverage.decisions.length,
+      additionalRollCalls: coverage.decisions.filter((bill) => bill.votes).length,
+      additionalReviewedIssues: coverage.policy.reduce((n, entry) => n + entry.issues.length, 0),
     },
     null,
     2,

@@ -246,6 +246,76 @@
       <ul class="documents">${items.map((it) => `<li>${link(it.url, it.title)}${it.evidence?.subject ? `<p class="small">${esc(it.evidence.subject)} ・ ${esc(it.evidence.summaryType)}</p>` : ""}${it.evidence?.originalUrl ? `<div class="small">${link(it.evidence.originalUrl, "町議会の元資料（保存版も併載）")}</div>` : ""}${it.evidence?.recordingURL ? `<div class="small">${link(it.evidence.recordingURL, "同日の議員別録画")}</div>` : ""}${it.evidence?.noticeURL ? `<div class="small">${link(it.evidence.noticeURL, "質問通告の原文")}</div>` : ""}${it.evidence?.joint ? `<p class="small">提出者　${it.evidence.joint.map(esc).join("、")}</p><p class="small">審議結果　${link(it.evidence.resultURL, it.evidence.result)}</p>` : ""}</li>`).join("")}</ul>
       <p class="small">${esc(group.sourceTitle)}</p><div class="links">${jump("records", { place: group.place, name: group.name }, "この人の他の記録")}${member ? jump("people", { place: group.place, q: member.name }, "現職名簿を見る") : ""}</div></div></details>`;
   }
+
+  const seasons2026 = [
+    ["spring", "春"],
+    ["summer", "初夏"],
+    ["fall", "秋"],
+  ];
+  const coverageLabels = {
+    verified: "収録済み",
+    partial: "一部収録",
+    identified: "資料の掲載先を確認",
+    unavailable: "取得・照合できず",
+    notFound: "公表を確認できず",
+    noSession: "対象会期なし",
+    pending: "調査中",
+  };
+  const coverageKinds = {
+    meeting: "会期",
+    activity: "質問の項目",
+    text: "質問と答弁の本文",
+    decisions: "議案・議決",
+    votes: "個別の表決",
+    policy: "政策の経過",
+  };
+  const coverageByCouncil = new Map();
+  for (const slot of D.coverage2026.sessions) {
+    if (!coverageByCouncil.has(slot.place)) coverageByCouncil.set(slot.place, []);
+    coverageByCouncil.get(slot.place).push(slot);
+  }
+  function eventSeason(day) {
+    if (!day?.startsWith("2026-")) return "";
+    const month = Number(day.slice(5, 7));
+    if (month < 1 || month > 10) return "";
+    if (month <= 4) return "spring";
+    return month <= 7 ? "summer" : "fall";
+  }
+  function recordInSeason(record, value) {
+    if (!value) return true;
+    if (eventSeason(record.date) !== value) return false;
+    const slot = coverageByCouncil.get(record.place)?.find((x) => x.season === value);
+    if (!slot?.planned && slot?.fromDate && record.date.length === 10 && record.date < slot.fromDate) return false;
+    if (!slot?.planned && slot?.toDate && record.date.length === 10 && record.date > slot.toDate) return false;
+    return !record.sourceTitle.includes("臨時会");
+  }
+  function coverageMaterials(slot) {
+    return `<dl class="coverage-materials">${Object.entries(coverageKinds).map(([key, label]) => {
+      const material = slot.materials[key];
+      return `<div><dt>${esc(label)}</dt><dd>${esc(coverageLabels[material.state])}
+      ${material.note ? `<span class="small">${esc(material.note)}</span>` : ""}</dd></div>`;
+    }).join("")}</dl>`;
+  }
+  function coveragePanel(place, filter = "") {
+    const slots = coverageByCouncil.get(place)?.filter((s) => !filter || s.season === filter) || [];
+    if (!slots.length) return "";
+    return `<details class="coverage cycle-coverage"><summary>2026年の資料の収録状況</summary>
+      <p class="small">確認日 ${dateTag(D.coverage2026.checked)}</p>
+      ${slots.map((slot) => `<details class="coverage"><summary>${esc(seasons2026.find(([key]) => key === slot.season)[1])}　${esc(slot.label)}</summary>
+        ${slot.fromDate ? `<p class="small">${dateTag(slot.fromDate)}${slot.toDate ? ` ～ ${dateTag(slot.toDate)}` : ""}${slot.planned ? "（公表された予定）" : ""}</p>` : ""}
+        ${coverageMaterials(slot)}
+        <div class="links">${slot.sources.map((s) => link(s.url, s.label)).join("")}</div>
+        <div class="links">${jump("records", { place, season: slot.season }, "この時期の掲載活動")}
+        ${jump("votes", { place, season: slot.season }, "議案と賛否")}
+        ${jump("people", { place, season: slot.season }, "政策実現力をみる")} ${jump("cases", { place }, "取り組みの経過")}</div></details>`).join("")}
+      </details>`;
+  }
+  function coverageCurrent(place) {
+    const current = D.coverage2026.current.find((area) => area.place === place);
+    if (!current) return "";
+    return `<p class="small">名簿 ${esc(current.roster.note)}　選挙・予定候補 ${esc(current.election.note)}</p>`;
+  }
+
   function recordControls() {
     section(
       "活動を探す",
@@ -255,6 +325,7 @@
     filters(
       [
         searchField("例　通学路、予算、議員名"),
+        field("season", "2026年の時期", seasons2026, "全期間"),
         field("place", "議会", placeList(recordPlaces)),
         field("kind", "資料の種類", sorted(records.map((r) => r.kind))),
         field(
@@ -274,6 +345,7 @@
         !filteredBody(g.place) ||
         !matches("kind", g.kind) ||
         !matchYear(g.date) ||
+        !recordInSeason(g, state.season) ||
         (state.name && norm(state.name) !== norm(g.name))
       )
         continue;
@@ -353,6 +425,7 @@
       .filter((p) => filteredBody(p.place))
       .map((p) => p.group);
     filters([
+      field("season", "政策比較の起点", seasons2026, "春（既定）"),
       searchField("例　熊谷市、予算特別委員、氏名"),
       field("place", "議会", placeList(personPlaces)),
       field("group", "名簿上の会派", sorted(groupsHere)),
@@ -393,12 +466,12 @@
       <p class="small">${link(event.url, event.sourceTitle)}${event.locator ? `　${esc(event.locator)}` : ""}</p></li>`;
   }
   function policyIssue(issue) {
-    const original = reviewQuestions.get(issue.items[0].url);
+    const original = reviewQuestions.get(issue.items[0].url) || issue.items[0];
     const title = issue.title || original.title.split("／").at(-1);
     const questions = issue.items.map((item) => {
-      const q = reviewQuestions.get(item.url);
+      const q = reviewQuestions.get(item.url) || item;
       return `<li>${tag(q.kind)} <strong>${esc(questionLevels[item.level])}</strong>
-        <p>${esc(item.reason)}</p><p class="small">${link(q.url, q.title)}　${dateTag(q.date)}　質問・答弁</p></li>`;
+        <p>${esc(item.reason)}</p><p class="small">${link(q.url, q.title)}　${dateTag(q.date)}　質問・答弁</p>${item.recordingURL ? `<p class="small">${link(item.recordingURL, "当日の公式録画")}</p>` : ""}</li>`;
     }).join("");
     const followUp = followUpLabels[issue.followUp];
     return `<details class="entry policy-issue"><summary><span>${esc(title)}</span></summary>
@@ -410,7 +483,16 @@
       </div></details>`;
   }
   function policyReviewCard(p) {
-    if (p.place !== review.place) return "";
+    const season = state.season || "spring";
+    if (p.place !== review.place || season !== "spring") {
+      const cohort = D.coverage2026.policy.find((entry) => entry.place === p.place && entry.season === season);
+      const issues = cohort?.issues.filter((issue) => norm(issue.name) === norm(p.name)) || [];
+      const seasonLabel = seasons2026.find(([key]) => key === season)?.[1];
+      const content = issues.length
+        ? `<details class="policy-issues"><summary>照合済みの論点を読む</summary><div class="list">${issues.map(policyIssue).join("")}</div></details>`
+        : "<p>本文と本人の役割を照合済みの論点は、この欄にはまだありません。</p>";
+      return `<section class="policy-review"><h4>政策実現力をみる</h4><p class="small">2026年${esc(seasonLabel)}の定例会。表示は出典を照合済みの資料に限ります。</p>${content}${coveragePanel(p.place, season)}</section>`;
+    }
     const issues = reviewsByPerson.get(personKey(p.place, p.name)) || [];
     const heading = `<h4>政策実現力をみる</h4><p class="small">${esc(review.label)}の質問と、${dateTag(review.through)}までの経過です。</p>`;
     if (!issues.length) return `<section class="policy-review">${heading}<p>対象会期の一般質問・代表質問に本人の登壇記録はありません。</p></section>`;
@@ -542,51 +624,51 @@
   function voteControls() {
     section(
       "議案と賛否",
-      "県議会は会派別表決表、熊谷市議会は議員提出議案の提出者と個人別表決を、議案ごとに確認できます。",
+      "議会ごとに議案の結果と、公表されている個人別・会派別の表決を確認できます。",
       jump("method", {}, "原表の読み方"),
     );
+    const sessions = state.place && state.place !== "埼玉県"
+      ? sorted([...D.bills, ...D.coverage2026.decisions].filter((b) => b.place === state.place).map((b) => b.session)).reverse()
+      : [...D.voteSessions].reverse().map((s) => [s.id, s.label]);
     filters([
       searchField("例　給食、補正予算、条例"),
-      field("place", "議会", [
-        ["埼玉県", "埼玉県議会"],
-        ["熊谷市", "熊谷市議会"],
-      ]),
-      field(
-        "session",
-        "定例会",
-        state.place === "熊谷市"
-          ? sorted(D.bills.map((b) => b.session)).reverse()
-          : [...D.voteSessions].reverse().map((s) => [s.id, s.label]),
-      ),
+      field("place", "議会", placeList(personPlaces)),
+      field("season", "2026年の時期", seasons2026, "全期間"),
+      field("session", "定例会", sessions),
       field("split", "賛否の異同", [["mixed", "賛成・反対の両方あり"]]),
     ]);
   }
   function localBillCard(b) {
     const v = D.localVotes.find(
-      (row) => row.session === b.session && row.number === b.number,
+      (row) => row.place === b.place && row.session === b.session && row.number === b.number,
     );
-    const ballots = v ? Object.entries(v.votes) : [];
+    const ballots = Object.entries(v?.votes || b.votes || {});
     const named = b.names?.length
       ? b.names.map(esc).join("、")
-      : "公開資料で提出者を特定できず";
-    return `<details class="entry"><summary><div><div class="meta">${tag(b.result)}<span>熊谷市議会</span>${dateTag(b.date)}<span>${esc(b.number)}</span></div><p class="title">${esc(b.title)}</p></div></summary><div class="detail-body"><p>提出者　${named}</p><ul class="ballots">${ballots.map(([name, position]) => `<li><span>${esc(name)}</span><b>${esc(position)}</b></li>`).join("")}</ul><div class="links">${link(b.url, "議案・提出者の原文")}${link(b.resultURL, "審議結果・表決の原表")}</div></div></details>`;
+      : esc(b.proposer || "掲載資料で提出者を特定できず");
+    return `<details class="entry"><summary><div><div class="meta">${tag(b.result)}<span>${esc(b.place)}議会</span>${dateTag(b.date)}<span>${esc(b.number)}</span></div><p class="title">${esc(b.title)}</p></div></summary><div class="detail-body"><p>提出者　${named}</p><ul class="ballots">${ballots.map(([name, position]) => `<li><span>${esc(name)}</span><b>${esc(position)}</b></li>`).join("")}</ul>${!ballots.length ? `<p class="small">個々の賛否はこの表に掲載していません。</p>` : ""}<div class="links">${link(b.url, "議案・提出者の原文")}${link(b.resultURL, "審議結果・表決の原表")}</div></div></details>`;
   }
   function voteResults() {
     const prefItems = voteRows.filter(
       (v) =>
         matches("session", v.session.id) &&
+        (!state.season || eventSeason(v.date || ("2026-" + v.session.id.slice(3))) === state.season && v.session.id.startsWith("r08")) &&
         (!state.split ||
           (v.values.includes("×") &&
             v.values.some((x) => x === "○" || x === "〇"))) &&
         includes([v.num, v.title, v.decision, v.session.label]),
     );
-    const locals = D.bills.filter(
+    const locals = [...D.bills, ...D.coverage2026.decisions].filter(
       (b) =>
+        filteredBody(b.place) &&
         matches("session", b.session) &&
+        matches("season", b.season || eventSeason(b.date)) &&
         includes([b.title, b.number, b.result, ...(b.names || [])]) &&
         (!state.split ||
+          (Object.values(b.votes || {}).includes("賛成") && Object.values(b.votes || {}).includes("反対")) ||
           D.localVotes.some(
             (v) =>
+              v.place === b.place &&
               v.session === b.session &&
               v.number === b.number &&
               Object.values(v.votes).includes("賛成") &&
@@ -594,8 +676,8 @@
           )),
     );
     const list = [
-      ...(state.place === "熊谷市" ? [] : prefItems),
-      ...(state.place === "埼玉県" ? [] : locals),
+      ...(!state.place || state.place === "埼玉県" ? prefItems : []),
+      ...locals,
     ].sort((a, b) => {
       const key = (r) =>
         r.date ||
@@ -608,15 +690,15 @@
       !v.cols
         ? localBillCard(v)
         : `<details class="entry"><summary><div><div class="meta">${tag(v.decision)}<span>${esc(v.session.label)}</span>${v.title === v.num ? "" : "<span>" + esc(v.num) + "</span>"}</div><p class="title">${esc(v.title)}</p></div></summary><div class="detail-body"><p class="small">${v.date ? "議決日　" + esc(date(v.date)) : "議決日は原表空欄"}　｜　表決表 ${v.pdfPage}頁</p><ul class="ballots">${v.cols.map((c, i) => `<li><span>${esc(c)}</span><b class="vote-badge">${esc(voteMark(v.values[i]))}</b></li>`).join("")}</ul><div class="links">${link(v.session.source + "#page=" + v.pdfPage, "県議会の表決表（PDF）")}${link(v.session.bills, "議案一覧")}${link(v.session.statements, "主要会派による説明")}</div></div></details>`;
-    const notice = `<p class="note">県の会派欄は議会運営委員会で確認した立場です。熊谷市の欄は市議会が公表した個人別の結果です。継続審査の行はその扱いに関する表決です。空欄・欠席・除斥はそれぞれ原表の区分を保っています。</p>`;
+    const notice = `<p class="note">県の会派欄は議会運営委員会で確認した立場です。市町村の個人別表決は原票で氏名と対応した欄に表示しています。継続審査の行はその扱いに関する表決です。空欄・欠席・除斥はそれぞれ原表の区分を保っています。</p>`;
     const requests = D.cityRequests;
     const city =
-      requests && state.place !== "熊谷市"
+      requests && (!state.place || state.place === "さいたま市")
         ? `<details class="coverage"><summary>さいたま市の会派別予算要望と市の回答</summary><p class="small">令和8年度当初予算について、各会派の要望ごとに市の回答を確認できます。</p><div class="links">${link(requests.url, "市が公表した回答書一覧")}${requests.links.map(([t, u]) => link(u, t)).join("")}</div></details>`
         : "";
     results(
-      notice + city + (list.length ? partial(list, cards) : noResult()),
-      `該当する県の表決行・熊谷市の議員提出議案　${count(list.length)}件`,
+      notice + city + coveragePanel(state.place, state.season) + (list.length ? partial(list, cards) : noResult("議会を選ぶと、確認した原資料と議決・表決の収録状況を読めます。")),
+      `該当する議案・表決　${count(list.length)}件`,
     );
   }
   function areaControls() {
@@ -643,6 +725,7 @@
       ${district.length ? `<p class="group-note">県議の選挙区　${district.map((d) => link(d.url, d.district + "（定数" + d.seats + "）")).join("、")}</p>` : ""}
       <div class="links">${link(a.councilURL, a.councilLabel || "議会")}${link(a.rosterURL, a.rosterLabel || "議員名簿")}${link(a.recordsURL, a.recordsLabel || "会議録")}${link(a.bulletinURL, "議会だより")}${link(a.billsURL, a.billsLabel || "議案・審議結果")}${link(a.billsOriginalURL, "審議結果の原本（町公式PDF）")}</div>
       ${a.sourceNote ? `<p class="small">${esc(a.sourceNote)}</p>` : ""}
+      ${coverageCurrent(a.name)}${coveragePanel(a.name)}
       <div class="links">${joined ? jump("records", { place: a.name }, "この議会の掲載活動") : ""}${personPlaces.includes(a.name) ? jump("people", { place: a.name }, "この議会の現職") : ""}</div>
       ${num ? `<details class="area-stat"><summary>届出時の党派別人数（2024年12月31日時点）</summary><p class="small">当時の定数${num.seats}、現員${num.seats - num.vacant}、欠員${num.vacant}。所属党派証明書に基づく県選管の過去の集計です。</p>${D.stats.groups.map((g, i) => `<div class="stat-row"><span>${esc(g)}</span><b>${num.counts[i]}人</b></div>`).join("")}${num.other ? `<p class="small">諸派の内訳　${esc(num.other)}</p>` : ""}${link(D.stats.source, "県選管の原表（PDF）")}</details>` : ""}
       </div></details>`;
@@ -655,7 +738,7 @@
         includes([a.name, a.region]),
     );
     results(
-      schedulePanel() +
+      schedulePanel() + coveragePanel("埼玉県") +
         (list.length ? partial(list, areaCard, "grid") : noResult()),
       `全63市町村のうち ${list.length}件。市町村議選の任期基準は前半1市、後半20市・12町、対象外30市町村。`,
     );

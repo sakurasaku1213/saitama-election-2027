@@ -1226,3 +1226,18 @@ footer {
     break-inside: avoid;
   }
 }
+
+.cycle-coverage { margin: 0.55rem 0; }
+.cycle-coverage > .coverage { margin-left: 0.65rem; }
+.coverage-materials { margin: 0.5rem 0; }
+.coverage-materials div {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1.15fr);
+  align-items: baseline;
+  gap: 0.5rem;
+  padding: 0.35rem 0;
+  border-bottom: 1px solid var(--edge);
+}
+.coverage-materials dt { font-weight: 600; }
+.coverage-materials dd { margin: 0; overflow-wrap: anywhere; }
+.coverage-materials dd span { display: block; }
