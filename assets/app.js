@@ -389,7 +389,14 @@
   }
   function caseCard(c) {
     const last = c.steps[c.steps.length - 1];
-    return `<details class="case"><summary><div><div class="meta">${tag(c.topic)}<span>${esc(c.place)}議会</span><span>${c.steps.length}段階</span></div><h3>${esc(c.title)}</h3><p class="small">${esc(date(c.steps[0].date))} ～ ${esc(date(last.date))}　${esc(last.stage)}</p></div></summary><div class="detail-body"><p><b>資料に登場する人・組織</b>　${c.actors.map(esc).join("、")}</p><ol class="steps">${c.steps.map((s) => `<li>${dateTag(s.date)}　${tag(s.stage)}<strong>${esc(s.actor)}</strong><p>${esc(s.detail)}</p><div class="docs-link">${link(s.url, s.sourceTitle)}</div></li>`).join("")}</ol>${c.note ? `<p class="note">${esc(c.note)}</p>` : ""}</div></details>`;
+    const steps = c.steps.map((step) => {
+      const vote = step.billNumber
+        ? jump("votes", { place: c.place, season: eventSeason(step.date), q: step.billNumber }, "この議案の議決・表決")
+        : "";
+      return `<li>${dateTag(step.date)}　${tag(step.stage)}<strong>${esc(step.actor)}</strong>
+        <p>${esc(step.detail)}</p><div class="docs-link">${link(step.url, step.sourceTitle)} ${vote}</div></li>`;
+    }).join("");
+    return `<details class="case"><summary><div><div class="meta">${tag(c.topic)}<span>${esc(c.place)}議会</span><span>${c.steps.length}段階</span></div><h3>${esc(c.title)}</h3><p class="small">${esc(date(c.steps[0].date))} ～ ${esc(date(last.date))}　${esc(last.stage)}</p></div></summary><div class="detail-body"><p><b>資料に登場する人・組織</b>　${c.actors.map(esc).join("、")}</p><ol class="steps">${steps}</ol>${c.note ? `<p class="note">${esc(c.note)}</p>` : ""}</div></details>`;
   }
   function caseResults() {
     const list = D.cases.filter(
@@ -698,10 +705,18 @@
       ? b.names.map(esc).join("、")
       : esc(b.proposer || "掲載資料で提出者を特定できず");
     const separateVote = b.voteURL && b.voteURL !== b.resultURL;
-    const sources = `${b.url !== b.resultURL ? link(b.url, "議案・提出者の原文") : ""}
-      ${link(b.resultURL, separateVote ? "議決結果の原表" : "審議結果・表決の原表")}
-      ${separateVote ? link(b.voteURL, "記名表決の原表") : ""}`;
-    return `<details class="entry"><summary><div><div class="meta">${tag(b.result)}<span>${esc(b.place)}議会</span>${dateTag(b.date)}<span>${esc(b.number)}</span></div><p class="title">${esc(b.title)}</p></div></summary><div class="detail-body"><p>提出者　${named}</p><ul class="ballots">${ballots.map(([name, position]) => `<li><span>${esc(name)}</span><b>${esc(position)}</b></li>`).join("")}</ul>${!ballots.length ? `<p class="small">個々の賛否はこの表に掲載していません。</p>` : ""}<div class="links">${sources}</div></div></details>`;
+    const byGroup = b.voteType === "会派等";
+    const proposalSource = b.url !== b.resultURL && b.url !== b.voteURL
+      ? link(b.url, b.resultLocator ? "議会だよりの議決結果" : "議案・提出者の原文")
+      : "";
+    const resultTitle = b.resultLocator || (separateVote ? "議決結果の原表" : "審議結果・表決の原表");
+    const sources = `${proposalSource} ${link(b.resultURL, resultTitle)}
+      ${separateVote ? link(b.voteURL, byGroup ? "会派等の表決の原表" : "記名表決の原表") : ""}`;
+    const scope = byGroup
+      ? '<p class="small">表決の単位　会派等。人数の内訳は原表の注記によります。</p>'
+      : "";
+    const note = b.voteNote ? `<p class="small">${esc(b.voteNote)}</p>` : "";
+    return `<details class="entry"><summary><div><div class="meta">${tag(b.result)}<span>${esc(b.place)}議会</span>${dateTag(b.date)}<span>${esc(b.number)}</span></div><p class="title">${esc(b.title)}</p></div></summary><div class="detail-body"><p>提出者　${named}</p>${scope}<ul class="ballots">${ballots.map(([name, position]) => `<li><span>${esc(name)}</span><b>${esc(position)}</b></li>`).join("")}</ul>${note}${!ballots.length && !note ? `<p class="small">個々の賛否はこの表に掲載していません。</p>` : ""}<div class="links">${sources}</div></div></details>`;
   }
   function voteResults() {
     const prefItems = voteRows.filter(
@@ -720,7 +735,8 @@
         matches("season", b.season || eventSeason(b.date)) &&
         includes([b.title, b.number, b.result, ...(b.names || [])]) &&
         (!state.split ||
-          (Object.values(b.votes || {}).includes("賛成") && Object.values(b.votes || {}).includes("反対")) ||
+          (Object.values(b.votes || {}).some((vote) => vote.includes("賛成")) &&
+            Object.values(b.votes || {}).some((vote) => vote.includes("反対"))) ||
           D.localVotes.some(
             (v) =>
               v.place === b.place &&
@@ -745,7 +761,7 @@
       !v.cols
         ? localBillCard(v)
         : `<details class="entry"><summary><div><div class="meta">${tag(v.decision)}<span>${esc(v.session.label)}</span>${v.title === v.num ? "" : "<span>" + esc(v.num) + "</span>"}</div><p class="title">${esc(v.title)}</p></div></summary><div class="detail-body"><p class="small">${v.date ? "議決日　" + esc(date(v.date)) : "議決日は原表空欄"}　｜　表決表 ${v.pdfPage}頁</p><ul class="ballots">${v.cols.map((c, i) => `<li><span>${esc(c)}</span><b class="vote-badge">${esc(voteMark(v.values[i]))}</b></li>`).join("")}</ul><div class="links">${link(v.session.source + "#page=" + v.pdfPage, "県議会の表決表（PDF）")}${link(v.session.bills, "議案一覧")}${link(v.session.statements, "主要会派による説明")}</div></div></details>`;
-    const notice = `<p class="note">県の会派欄は議会運営委員会で確認した立場です。市町村の個人別表決は原票で氏名と対応した欄に表示しています。継続審査の行はその扱いに関する表決です。空欄・欠席・除斥はそれぞれ原表の区分を保っています。</p>`;
+    const notice = `<p class="note">県の会派欄は議会運営委員会で確認した立場です。市町村は原表に従い、個人別または会派等の表決を表示します。継続審査の行はその扱いに関する表決です。空欄・欠席・除斥はそれぞれ原表の区分を保っています。</p>`;
     const requests = D.cityRequests;
     const city =
       requests && (!state.place || state.place === "さいたま市")

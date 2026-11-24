@@ -13102,6 +13102,9 @@ GIKAI.cases.push(...[
     "topic": "教育・公共施設",
     "actors": [
       "高橋剛",
+      "小林範子",
+      "伊藤正子",
+      "川越市議会",
       "川越市教育委員会",
       "川越市立小中学校適正規模・適正配置審議会"
     ],
@@ -13113,6 +13116,14 @@ GIKAI.cases.push(...[
         "detail": "市立小中学校の将来の規模・配置について、審議会が教育長に答申した。",
         "url": "https://www.city.kawagoe.saitama.jp/shisei/seisaku/1008588/1008763/1008875/1014496.html",
         "sourceTitle": "川越市・審議会の結果"
+      },
+      {
+        "date": "2026-06-05",
+        "actor": "小林範子、伊藤正子、川越市教育委員会",
+        "stage": "学校配置審議会の条例案を質疑",
+        "detail": "庶務に教育総務部の担当課を加える理由、施設整備の検討と部局の役割を質問した。市は地区ごとの学校施設の整備も審議対象となる見込みで、所管部門との連携を図ると説明した。",
+        "url": "https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=document&Id=4292#all",
+        "sourceTitle": "6月5日 本会議会議録・議案第50号の質疑（発言順35以降）"
       },
       {
         "date": "2026-06-12",
@@ -13129,6 +13140,15 @@ GIKAI.cases.push(...[
         "detail": "通学区域、敷地、財源や他施設との複合化を踏まえ、移転建て替えの検討を要望。市は基本方針を策定し、その後、地区ごとの計画を進めると答えた。",
         "url": "https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r08-0615_001",
         "sourceTitle": "川越市議会の6月15日会議録・発言順4〜8"
+      },
+      {
+        "date": "2026-06-24",
+        "actor": "川越市議会",
+        "stage": "学校配置審議会の条例改正を可決",
+        "detail": "地区ごとの施設整備の検討に備え、教育総務部の担当課を審議会の庶務に加える条例改正案を原案可決した。",
+        "url": "https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=document&Id=4301#all",
+        "sourceTitle": "6月24日 本会議会議録・議案第50号の採決（発言順36以降）",
+        "billNumber": "議案第50号"
       },
       {
         "date": "2026-07",
@@ -13188,7 +13208,8 @@ GIKAI.cases.push(...[
         "stage": "条例案を原案可決",
         "detail": "本会議で委員長報告どおり議案第72号を原案可決した。",
         "url": "https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=document&Id=4320#all",
-        "sourceTitle": "川越市議会の9月29日会議録・議案第72号の採決"
+        "sourceTitle": "川越市議会の9月29日会議録・議案第72号の採決",
+        "billNumber": "議案第72号"
       },
       {
         "date": "2026-09-29",
@@ -13267,6 +13288,15 @@ GIKAI.cases.push(...[
         "sourceTitle": "3月5日会議録・発言順11〜20"
       },
       {
+        "date": "2026-03-25",
+        "actor": "川越市議会",
+        "stage": "部活動の地域移行を支える基金条例の改正を可決",
+        "detail": "学校部活動の地域連携・地域移行に使う基金条例の改正案を原案可決した。",
+        "url": "https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=document&Id=4284#all",
+        "sourceTitle": "3月25日 本会議会議録・議案第16号（発言順53〜54）",
+        "billNumber": "議案第16号"
+      },
+      {
         "date": "2026-08",
         "actor": "川越市",
         "stage": "補正予算案",
@@ -13285,10 +13315,11 @@ GIKAI.cases.push(...[
       {
         "date": "2026-09-29",
         "actor": "川越市議会",
-        "stage": "可決結果を確認",
-        "detail": "９月29日現在の議決結果一覧で、関連経費を含む一般会計補正予算（第２号、議案第84号）の原案可決を確認。",
-        "url": "https://www.city.kawagoe.saitama.jp/shigikai/shingi/1007573.html",
-        "sourceTitle": "川越市議会・令和８年第４回定例会の議決結果"
+        "stage": "補正予算を可決",
+        "detail": "部活動の地域展開に関する経費を含む一般会計補正予算（第２号）を原案可決した。",
+        "url": "https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=document&Id=4320#all",
+        "sourceTitle": "9月29日 本会議会議録・議案第84号（発言順58〜59）",
+        "billNumber": "議案第84号"
       },
       {
         "date": "2026-10-01",

@@ -117,6 +117,11 @@ for (const c of data.cases) {
   for (const step of c.steps) {
     validDay(step.date);
     validLink(step.url);
+    if (step.billNumber) {
+      assert.equal(data.coverage2026.decisions.filter((bill) =>
+        bill.place === c.place && bill.date === step.date && bill.number === step.billNumber,
+      ).length, 1, c.title);
+    }
     assert.ok(
       step.actor &&
         step.sourceTitle &&
@@ -341,6 +346,13 @@ for (const bill of matsubushiVotes) {
   assert.equal(presenters.length, bill.number.startsWith("発議") ? 1 : 0);
   if (presenters.length) assert.equal(presenters[0][0], bill.proposer);
 }
+for (const [season, decisions, ballots, columns] of [["spring", 43, 8, 12], ["summer", 21, 4, 10], ["fall", 38, 6, 10]]) {
+  const records = coverage.decisions.filter((bill) => bill.place === "川越市" && bill.season === season);
+  assert.equal(records.length, decisions);
+  const published = records.filter((bill) => bill.voteType === "会派等");
+  assert.equal(published.length, ballots);
+  for (const bill of published) assert.equal(Object.keys(bill.votes).length, columns, bill.number);
+}
 for (const review of coverage.policy) {
   assert.ok(coverageSlots.has(review.place + "|" + review.season));
   for (const issue of review.issues) {
@@ -450,7 +462,8 @@ console.log(
       questionArchiveCouncils: new Set(questionDocs.map((doc) => doc.place)).size,
       questionArchiveSlots: docCouncilSeasons.size,
       additionalDecisions: coverage.decisions.length,
-      additionalRollCalls: coverage.decisions.filter((bill) => bill.votes).length,
+      additionalRollCalls: coverage.decisions.filter((bill) => bill.votes && bill.voteType !== "会派等").length,
+      additionalGroupVotes: coverage.decisions.filter((bill) => bill.voteType === "会派等").length,
       additionalReviewedIssues: coverage.policy.reduce((n, entry) => n + entry.issues.length, 0),
     },
     null,
