@@ -26407,6 +26407,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "ec30fc01f253478d5c2d",
+      "place": "新座市",
+      "season": "fall",
+      "date": "2026-09-10",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "鈴木秀一議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1873",
+      "speakers": [
+        "鈴木秀一"
+      ]
+    },
+    {
       "id": "8464fc341be4da3280ab",
       "place": "新座市",
       "season": "fall",
@@ -31572,6 +31586,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "0122bdf4e2576e1510f7",
+      "place": "狭山市",
+      "season": "fall",
+      "date": "2026-09-16",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "船川秀子議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://sayama.gijiroku.com/g07_Video_View.asp?SrchID=1554",
+      "speakers": [
+        "船川秀子"
+      ]
+    },
+    {
       "id": "b5c69aeca828a0989312",
       "place": "狭山市",
       "season": "fall",
@@ -34368,6 +34396,18 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "2317092d0ba5715c6149",
+      "place": "行田市",
+      "season": "summer",
+      "date": "2026-06",
+      "url": "https://www.city.gyoda.lg.jp/material/files/group/50/2606_R806iinnkaigiroku.pdf",
+      "title": "行田市議会 令和８年６月定例会の委員会会議録",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "speakers": [],
+      "note": "市議会の委員会会議録一覧で確認した公式PDFの全75頁をOCRで読み取った。物理頁番号を付けて本文を収録。"
+    },
+    {
       "id": "58b29ed88563941eb447",
       "place": "行田市",
       "season": "summer",
@@ -34502,12 +34542,30 @@ GIKAI.questionText = {
       "place": "行田市",
       "season": "fall",
       "date": "2026-09",
-      "title": "ぎょうだ議会だより令和8年11月発行No.130 全ページ一括ダウンロード 全ページ (PDFファイル: 11.1MB)",
+      "title": "行田市議会だより第130号・一般質問の紙面要旨（９～14頁）",
       "url": "https://www.city.gyoda.lg.jp/material/files/group/50/2611.pdf",
-      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "kind": "議会だよりの質問・答弁（紙面要約）",
       "scope": "summary",
-      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。 OCRの確認警告があるPDF 1、2、3、5、7、15、16頁を除外しています。",
-      "speakers": []
+      "note": "行田市議会の第130号紙面９～14頁の一般質問17人、40問答。答弁、議員の提案、紙面の補記を区別した要約です。質問日は公式録画、通告と会期日程で確認。 岩崎彰議員名は市の名簿の表示に合わせた。名簿注記の正式表記はたつさきで、録画と通告は「岩﨑」。",
+      "speakers": [
+        "小林淳一",
+        "小林修",
+        "小野寺貴男",
+        "香川宏行",
+        "養田英雄",
+        "岩崎彰",
+        "田中和美",
+        "村田秀夫",
+        "木村博",
+        "野本翔平",
+        "梁瀬里司",
+        "駒見行彦",
+        "斉藤博美",
+        "福島ともお",
+        "大屋彰",
+        "村田清治",
+        "新諒平"
+      ]
     },
     {
       "id": "88f8768ff1f6051699d9",
@@ -37270,7 +37328,8 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+        "indexURL": "https://smart.discussvision.net/smart/tenant/gyoda/WebView/rd/council_1.html",
+        "note": "議会だよりの一般質問17人・40問答を収録。公式録画の一般質問17人を４日分照合。紙面は正式会議録を12月に発行予定と案内。"
       }
     },
     {
@@ -37484,7 +37543,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://sayama.gijiroku.com/g07_Video_Search.asp",
-        "note": "公式録画一覧の一般質問16人のうち、1人の映像音声を機械文字起こしとして収録。正式会議録は確認中。議会だよりの質問・答弁要旨も収録。公開された委員長報告4資料も収録。"
+        "note": "公式録画一覧の一般質問16人のうち、2人の映像音声を機械文字起こしとして収録。正式会議録は確認中。議会だよりの質問・答弁要旨も収録。公開された委員長報告4資料も収録。"
       }
     },
     {
@@ -37833,7 +37892,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://niiza-city.stream.jfit.co.jp/?tpl=gikai_days_list&gikai_id=96",
-        "note": "公式録画一覧の一般質問25人のうち、3人の映像音声を機械文字起こしとして収録。正式会議録は確認中。議会だより第238号の質問・答弁要旨はPDF７頁を収録。"
+        "note": "公式録画一覧の一般質問25人のうち、4人の映像音声を機械文字起こしとして収録。正式会議録は確認中。議会だより第238号の質問・答弁要旨はPDF７頁を収録。"
       }
     },
     {

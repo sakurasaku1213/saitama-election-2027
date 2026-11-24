@@ -2535,3 +2535,225 @@ GIKAI.cases.push(
   "note": "６市町村の共通経過です。議員の質問・討論は所属議会ごとの資料に基づきます。第３回の決定内容、組合規約の議決、費用負担の確定、建設着手は確認中です。"
 }
 );
+
+GIKAI.cases.push(
+{
+  "place": "行田市",
+  "title": "Ｂブロック新校で県産材・通学路・発注を質し、基本設計の意見聴取へ",
+  "topic": "学校再編・通学安全",
+  "actors": [
+    "香川宏行",
+    "岩崎彰",
+    "木村博",
+    "行田市教育委員会",
+    "行田市"
+  ],
+  "steps": [
+    {
+      "date": "2026-04",
+      "stage": "Ｂブロック新校の基本構想を策定",
+      "actor": "行田市教育委員会",
+      "detail": "忍・行田・埼玉・太田中学校区の義務教育学校の基本構想を４月に策定し、これに基づいて基本設計に取り組むことを市が報告した。",
+      "url": "https://www.city.gyoda.lg.jp/soshiki/gakkoukyouikubu/kyoiku_somu/gyomu/saihen/B-block-meeting/12613.html",
+      "sourceTitle": "行田市教育委員会 Ｂブロック新校基本設計の検討報告"
+    },
+    {
+      "date": "2026-07-10",
+      "stage": "通学路の安全と周辺整備の庁内検討を開始",
+      "actor": "行田市",
+      "detail": "９月の答弁では、庁内連絡会議を設け、７月10日に徒歩・自転車の通学ルートと周辺整備について関係課が検討を始めたと説明した。",
+      "url": "https://www.city.gyoda.lg.jp/material/files/group/50/2611.pdf#page=12",
+      "sourceTitle": "行田市議会だより第130号・木村博議員への答弁"
+    },
+    {
+      "date": "2026-09-03",
+      "stage": "新校舎への県産材利用と木造化を提案",
+      "actor": "香川宏行",
+      "detail": "市は現時点で鉄骨造を想定し、床・壁・家具の木質化を図ると答えた。",
+      "url": "https://www.city.gyoda.lg.jp/material/files/group/50/2611.pdf#page=10",
+      "sourceTitle": "行田市議会だより第130号・紙面10頁の一般質問要旨",
+      "archiveId": "2b73dee9a756414f864d",
+      "memberActions": [
+        {
+          "name": "香川宏行",
+          "detail": "県産木材を使った木造の新校舎とする考えがあるかを質した。",
+          "blocks": [
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "stage": "学校再編工事の入札不調への備えを質す",
+      "actor": "岩崎彰",
+      "detail": "さいたま市での入札不調を例に、資材価格や金利の上昇などへの対応を尋ねた。市は施工事業者への聞き取りと市場動向の把握などを進めると答えた。",
+      "url": "https://www.city.gyoda.lg.jp/material/files/group/50/2611.pdf#page=11",
+      "sourceTitle": "行田市議会だより第130号・紙面11頁の一般質問要旨",
+      "archiveId": "2b73dee9a756414f864d",
+      "memberActions": [
+        {
+          "name": "岩崎彰",
+          "detail": "他市の入札不調を踏まえ、学校再編の工事を確実に進めるための対応を質した。",
+          "blocks": [
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "stage": "通学路の安全対策と関係機関との協議時期を質す",
+      "actor": "木村博",
+      "detail": "市は、安全対策に必要な具体的な通学路・危険箇所・対策の優先順位を整理すると説明した。",
+      "url": "https://www.city.gyoda.lg.jp/material/files/group/50/2611.pdf#page=12",
+      "sourceTitle": "行田市議会だより第130号・紙面12頁の一般質問要旨",
+      "archiveId": "2b73dee9a756414f864d",
+      "memberActions": [
+        {
+          "name": "木村博",
+          "detail": "徒歩・自転車の通学の安全確保を質し、安全対策を関係機関に早期に協議する条件を尋ねた。",
+          "blocks": [
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "stage": "再編対象10校の教職員から基本設計の意見を聞く",
+      "actor": "行田市教育委員会",
+      "detail": "再編対象10校から教職員が参加し、設計案の図面上で各校の意見を整理した。教育委員会は意見を今後の設計案の参考にすると報告した。",
+      "url": "https://www.city.gyoda.lg.jp/soshiki/gakkoukyouikubu/kyoiku_somu/gyomu/saihen/B-block-meeting/12613.html",
+      "sourceTitle": "行田市教育委員会 ９月24日の第１回教職員ミーティング開催報告"
+    }
+  ],
+  "note": "９月24日の会議は基本設計に関する意見聴取です。通学路の確定、危険箇所の改修、入札の結果は確認中です。"
+},
+{
+  "place": "行田市",
+  "title": "外来植物の早期発見・通報手段を質し、市内の水田での確認を市が公表",
+  "topic": "農業・外来種対策",
+  "actors": [
+    "斉藤博美",
+    "行田市"
+  ],
+  "steps": [
+    {
+      "date": "2026-09-07",
+      "stage": "侵入の可能性と市民からの通報方法を質す",
+      "actor": "斉藤博美",
+      "detail": "水路を通じた侵入への対応を問い、市公式LINEでの写真・場所の共有や、国の交付金を使った調査・啓発を求めた。市は早期発見を重視し、LINEの活用を検討し、交付金を含めた有効策は研究すると答えた。",
+      "url": "https://www.city.gyoda.lg.jp/material/files/group/50/2611.pdf#page=13",
+      "sourceTitle": "行田市議会だより第130号・紙面13頁の一般質問要旨",
+      "archiveId": "2b73dee9a756414f864d",
+      "memberActions": [
+        {
+          "name": "斉藤博美",
+          "detail": "近隣での発生を踏まえ、市公式LINEを活用した通報と、交付金を活用した調査・啓発を提案した。",
+          "blocks": [
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "stage": "市内の水田でのナガエツルノゲイトウの確認を公表",
+      "actor": "行田市",
+      "detail": "市内の水田で発生を確認したと公表し、市農政課・県などの連絡先と対策資料を掲載した。",
+      "url": "https://www.city.gyoda.lg.jp/soshiki/kankyokeizaibu/nosei/gyomu/sangyo_shinko/norin_suisan/nogyo/nogyosya/12500.html",
+      "sourceTitle": "行田市 ９月25日更新の発生確認と注意喚起"
+    }
+  ],
+  "note": "答弁時点の説明と、市がその後に発表した発生確認を分けて記載しました。提案されたLINE通報や交付金の活用は確認中です。"
+},
+{
+  "place": "行田市",
+  "title": "行田足袋の振興条例を議員が提案し、市議会が可決",
+  "topic": "伝統産業・条例",
+  "actors": [
+    "野本翔平",
+    "木村博",
+    "斉藤博美",
+    "養田英雄",
+    "大屋彰",
+    "行田市議会",
+    "行田市",
+    "行田足袋組合"
+  ],
+  "steps": [
+    {
+      "date": "2026-06-29",
+      "stage": "野本・木村・斉藤・養田の４議員が条例案を共同提出",
+      "actor": "野本翔平、木村博、斉藤博美、養田英雄",
+      "detail": "議長宛ての提出書に４人が提出者として記載されている。行田足袋の振興と郷土の歴史・文化への理解を深めるための条例案を提出した。",
+      "url": "https://www.city.gyoda.lg.jp/material/files/group/50/2606gidai5gou.pdf#page=1",
+      "sourceTitle": "行田市議会 議第５号提出書・PDF１頁",
+      "memberActions": [
+        {
+          "name": "野本翔平",
+          "detail": "行田足袋振興条例案の共同提出者。本会議で提出者を代表して説明した。"
+        },
+        {
+          "name": "木村博",
+          "detail": "行田足袋振興条例案の共同提出者。"
+        },
+        {
+          "name": "斉藤博美",
+          "detail": "行田足袋振興条例案の共同提出者。"
+        },
+        {
+          "name": "養田英雄",
+          "detail": "行田足袋振興条例案の共同提出者。"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-29",
+      "stage": "野本議員が代表説明",
+      "actor": "野本翔平",
+      "detail": "伝統工芸の行田足袋を振興し、郷土や歴史文化への理解を促すため、市や事業者、議会・議員の役割と施策の基本方針を定める条例案を説明した。",
+      "url": "https://ssp.kaigiroku.net/tenant/gyoda/SpMinuteView.html?tenant_id=351&council_id=260&schedule_id=8",
+      "sourceTitle": "行田市議会 ６月29日会議録378頁・議第５号の提出者代表説明",
+      "archiveId": "f099070b4e9130c44586"
+    },
+    {
+      "date": "2026-06-29",
+      "stage": "行田足袋振興条例案を全会一致で可決",
+      "actor": "行田市議会",
+      "detail": "議第５号は委員会への付託を省略し、本会議で採決に参加した議員全員の賛成により可決した。",
+      "url": "https://ssp.kaigiroku.net/tenant/gyoda/SpMinuteView.html?tenant_id=351&council_id=260&schedule_id=8",
+      "sourceTitle": "行田市議会 ６月29日会議録379～380頁・議第５号の採決",
+      "billNumber": "議第5号"
+    },
+    {
+      "date": "2026-09-07",
+      "stage": "足袋を活用した市民の健康づくりを提案",
+      "actor": "大屋彰",
+      "detail": "他自治体で足袋を健康や運動に生かす例を挙げた。市は市民の主体的で継続的な取組が大切とし、提案を参考に事業の充実に努めると答えた。",
+      "url": "https://www.city.gyoda.lg.jp/material/files/group/50/2611.pdf#page=14",
+      "sourceTitle": "行田市議会だより第130号・紙面14頁の一般質問要旨",
+      "archiveId": "2b73dee9a756414f864d",
+      "memberActions": [
+        {
+          "name": "大屋彰",
+          "detail": "過去の取組や他自治体の事例を踏まえ、足袋を活用した健康づくりを検討するよう求めた。",
+          "blocks": [
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10",
+      "stage": "足袋産地の博覧会と体験企画を案内",
+      "actor": "行田市、行田足袋組合",
+      "detail": "伝統工芸の紹介に向けて、10月の博覧会の事業者による展示販売や足袋づくり体験、足袋蔵公開などの催しを案内した。",
+      "url": "https://www.city.gyoda.lg.jp/soshiki/kankyokeizaibu/shoko_kanko/gyomu/sangyo_shinko/jibasangyo/gyodatabi/10500.html",
+      "sourceTitle": "行田市 行田足袋博覧会の開催案内"
+    }
+  ],
+  "note": "条例の提案・議決、健康づくりの提案、産地イベントの公表をそれぞれの原典で確認しました。条例の効果や提案が事業に反映された範囲は確認中です。"
+}
+);
