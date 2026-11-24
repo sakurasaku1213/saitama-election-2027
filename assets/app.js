@@ -488,7 +488,7 @@
       archiveId ? doc.id === archiveId : doc.place === place && doc.date === day && doc.scope !== "notice");
     return archive ? "　" + jump("texts", {
       place, season: archive.season, ...(archiveId ? { doc: archive.id, blocks: blocks?.join(",") } : { q: day }),
-    }, "収録本文") : "";
+    }, archive.scope === "summary" ? "収録した紙面要旨" : "収録本文") : "";
   }
   function reviewEvent(event, place) {
     return `<li>${dateTag(event.date)} ${tag(event.stage)}${event.repeatedRequest ? ` ${tag("同じ要望の再提示")}` : ""}
@@ -1034,13 +1034,14 @@
         Number.isInteger(n) && n > 0 && n <= stored.length)
       : [];
     if (positions.length) {
+      const paper = D.questionText.documents.some((doc) => doc.id === card.dataset.questionId && doc.scope === "summary");
       const full = document.createElement("details");
       const summary = document.createElement("summary");
-      summary.textContent = "会議録の全本文を読む";
+      summary.textContent = paper ? "紙面要旨の全体を読む" : "会議録の全本文を読む";
       full.append(summary);
       for (const position of positions) {
         const block = stored[position - 1];
-        const locator = /^PDF \d+頁$|^議案第|君$/.test(block[0]) ? block[0] : `会議録の発言順 ${position}`;
+        const locator = paper || /^PDF \d+頁$|^議案第|君$/.test(block[0]) ? block[0] : `会議録の発言順 ${position}`;
         column.append(questionBodyBlock(block, locator));
       }
       for (const block of stored) full.append(questionBodyBlock(block));

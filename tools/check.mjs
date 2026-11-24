@@ -129,14 +129,15 @@ for (const c of data.cases) {
         step.sourceTitle &&
         step.detail &&
         step.date >= previous &&
-        step.date <= data.asOf,
+        step.date <= data.coverage2026.checked,
       c.title,
     );
+    const doc = step.archiveId ? archivedQuestionDocs.get(step.archiveId) : null;
     if (step.archiveId) {
-      const doc = archivedQuestionDocs.get(step.archiveId);
-      assert.ok(doc?.scope === "minutes" && doc.place === c.place, c.title);
+      assert.ok(doc?.place === c.place && ["minutes", "summary"].includes(doc.scope), c.title);
       assert.equal(doc.url.split("#")[0], step.url.split("#")[0], c.title);
-      assert.equal(doc.date, step.date, c.title);
+      assert.ok(doc.date === step.date ||
+        (doc.scope === "summary" && doc.date.length === 7 && doc.date === step.date.slice(0, 7)), c.title);
     }
     const names = new Set();
     for (const action of step.memberActions || []) {
@@ -146,6 +147,7 @@ for (const c of data.cases) {
       if (step.archiveId) {
         assert.ok(action.blocks?.length && action.blocks.every((block, index) =>
           Number.isSafeInteger(block) && block > (action.blocks[index - 1] || 0)), action.name);
+        if (doc.scope === "summary") assert.ok(doc.speakers.includes(action.name), action.name);
       } else {
         assert.equal(action.blocks, undefined, action.name);
       }

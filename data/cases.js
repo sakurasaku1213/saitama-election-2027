@@ -1932,3 +1932,112 @@ GIKAI.cases.push(
     note: "町が公表した配布と購入時の還元を経過に載せました。秋の質問で指摘した還元予算の議案番号と、質問後の全町民向け支援の増額は確認中です。",
   },
 );
+
+GIKAI.cases.push(
+  {
+    place: "戸田市",
+    title: "窓口の短縮後も使いやすい支援を求め、市が試行日程を公表",
+    topic: "行政窓口・行政サービス",
+    actors: ["辺見智子", "戸田市"],
+    steps: [
+      {
+        date: "2026-09-01", stage: "窓口・電話受付時間の短縮案について意見募集", actor: "戸田市",
+        detail: "本庁舎と福祉保健センターの窓口・電話を９時から16時30分に短縮し、延長窓口と日曜窓口を見直す案を公表。９月30日まで市民意見を募った。",
+        url: "https://www.city.toda.saitama.jp/site/pub/gyosei-kanri-pub-r8-2.html",
+        sourceTitle: "戸田市 窓口受付時間等の短縮案・意見募集",
+      },
+      {
+        date: "2026-09-10", stage: "受付短縮後の市民サービス維持を質す", actor: "辺見智子、戸田市",
+        detail: "議会だよりは、辺見議員が日中の来庁が難しい人やデジタルに不慣れな人への配慮を求めたと掲載した。市は、コンビニ交付等の効果検証、周知と代替手段の確保を進めると答えた。",
+        url: "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055902&fileId=dd82a10f1e594ab2aa76f45623067024&fileName=236_A3.pdf#page=7",
+        sourceTitle: "とだ議会だより第236号・紙面13頁",
+        archiveId: "177341ec1750dfb3e664",
+        memberActions: [
+          { name: "辺見智子", blocks: [21], detail: "受付短縮後も利用しやすい方法を質し、デジタルに不慣れな人への伴走支援と、確保した時間の対面サービスへの活用を求めた。" },
+        ],
+      },
+      {
+        date: "2026-11-24", stage: "市が窓口の試行日程と検証方法を公表", actor: "戸田市",
+        detail: "窓口と電話の短縮、水曜延長窓口の廃止は2027年２月１日から、日曜窓口の見直しは５月１日から試行する。混雑期の日曜は個別・臨時の対応があり、来庁者数、電話件数、市民アンケート等を踏まえて試行後の運用を検討する。",
+        url: "https://www.city.toda.saitama.jp/site/press/hisyo-press2026-tanshuku.html",
+        sourceTitle: "戸田市 11月24日の記者発表・窓口等の見直し",
+      },
+    ],
+    note: "11月24日時点の試行日程です。試行の実施結果と本運用への移行判断は今後確認します。",
+  },
+  {
+    place: "戸田市",
+    title: "休日の地域クラブの運営体制を質し、市が募集と保護者説明を案内",
+    topic: "中学校・部活動の地域展開",
+    actors: ["野澤茂雅", "戸田市教育委員会"],
+    steps: [
+      {
+        date: "2026-04", stage: "休日部活動の地域展開方針を案内", actor: "戸田市教育委員会",
+        detail: "第２号リーフレットを発行し、学校や所属部活動によらず参加できる地域クラブに休日の活動を展開する考えを示した。",
+        url: "https://www.toda-c.ed.jp/uploaded/attachment/23292.pdf",
+        sourceTitle: "戸田市教育委員会 令和８年４月・部活動地域展開リーフレット第２号",
+      },
+      {
+        date: "2026-09-10", stage: "地域クラブの運営体制を質す", actor: "野澤茂雅、戸田市",
+        detail: "野澤議員は令和９年９月からの運営体制を尋ねた。市は全体を管理する統括コーディネーター団体を置き、自主運営型と直営型を設けると答えた。",
+        url: "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055902&fileId=dd82a10f1e594ab2aa76f45623067024&fileName=236_A3.pdf#page=7",
+        sourceTitle: "とだ議会だより第236号・紙面12頁",
+        archiveId: "177341ec1750dfb3e664",
+        memberActions: [
+          { name: "野澤茂雅", blocks: [19], detail: "地域クラブを誰がどう運営するかを質し、部活動の教育的価値を引き継ぎ生徒の選択肢を広げる方式を求めた。" },
+        ],
+      },
+      {
+        date: "2026-10-01", stage: "休日の地域クラブ開始予定を広報", actor: "戸田市教育委員会",
+        detail: "2027年８月で休日の学校部活動を終了し、９月から地域クラブを始める予定と説明。学校施設等の活動場所や参加種目の選択を案内した。",
+        url: "https://www.city.toda.saitama.jp/koho-toda/261001/tokusyu03.html",
+        sourceTitle: "広報戸田市10月号・休日の地域クラブ",
+      },
+      {
+        date: "2026-11-12", stage: "認定クラブの募集と保護者説明の資料を案内", actor: "戸田市教育委員会",
+        detail: "市内生徒を対象とする認定地域クラブを募集し、運営に関心のある団体への案内と、11月15日予定の保護者説明会の当日資料を公表した。日付は案内の更新日。",
+        url: "https://www.toda-c.ed.jp/soshiki/10/bukatudoutiikitennkai.html",
+        sourceTitle: "戸田市教育委員会 部活動の地域展開・募集と説明会",
+      },
+    ],
+    note: "市の資料で確認できる到達点は募集・説明です。2027年９月の活動開始、実際のクラブ構成と参加状況は今後確認します。",
+  },
+  {
+    place: "戸田市",
+    title: "北戸田駅前の公衆トイレ廃止を質し、解体工事を発注",
+    topic: "駅前整備・公共施設",
+    actors: ["花井あきこ", "戸田市議会", "戸田市"],
+    steps: [
+      {
+        date: "2026-09-03", stage: "下水管撤去に伴う公衆トイレの廃止を告知", actor: "戸田市",
+        detail: "市は、下水管設備の撤去に伴い、10月12日で北戸田駅の公衆トイレを廃止・撤去すると案内した。",
+        url: "https://www.city.toda.saitama.jp/soshiki/212/kitatoda-haishi.html",
+        sourceTitle: "戸田市 北戸田駅公衆トイレ廃止・撤去のお知らせ",
+      },
+      {
+        date: "2026-09-11", stage: "廃止後のトイレ確保と新設・移設の考えを質す", actor: "花井あきこ、戸田市",
+        detail: "議会だよりは、花井議員が駅周辺のまちづくりとの整合と新設・移設を尋ねたと掲載した。市は駅や民間施設など地域全体でトイレ機能を確保し、社会実験のアンケートで必要性を確認する考えを示した。新設・移設は考えていないと答えた。",
+        url: "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055902&fileId=dd82a10f1e594ab2aa76f45623067024&fileName=236_A3.pdf#page=8",
+        sourceTitle: "とだ議会だより第236号・紙面14頁",
+        archiveId: "177341ec1750dfb3e664",
+        memberActions: [
+          { name: "花井あきこ", blocks: [25], detail: "廃止に至った経緯、歩きやすい駅前づくりとの整合と、存続を望む声を踏まえた新設・移設の方針を尋ねた。" },
+        ],
+      },
+      {
+        date: "2026-09-18", stage: "解体・原状回復を含む一般会計補正予算を可決", actor: "戸田市議会",
+        detail: "委員会の審査報告には、解体の経緯に関する質疑と、イベント時にもトイレ機能を確保するよう求めた意見がある。議会は解体工事等を含む一般会計補正予算（第３号）を可決した。",
+        url: "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/GD031/GD031_001?kaigi=000166",
+        sourceTitle: "戸田市議会 ９月定例会の議決結果。審査報告は議会だより第236号の紙面８頁",
+        billNumber: "議案第58号",
+      },
+      {
+        date: "2026-10-27", stage: "解体工事の一般競争入札を案内", actor: "戸田市",
+        detail: "戸田市は、11月５日開札分に北戸田駅公衆トイレ解体工事を掲げ、質疑への回答を公表した。日付は案内の更新日。",
+        url: "https://www.city.toda.saitama.jp/soshiki/173/kanzai-ippannkouji081105.html",
+        sourceTitle: "戸田市 解体工事の一般競争入札・質疑回答",
+      },
+    ],
+    note: "市の告知と議会の審査、解体工事の入札手続までを確認しました。着工・完了と社会実験のアンケート結果は確認中です。",
+  },
+);

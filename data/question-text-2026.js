@@ -1641,6 +1641,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "3c0d37a1dc428c14b8a6",
+      "place": "さいたま市",
+      "season": "fall",
+      "date": "2026-09-08",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "中山欽哉議員　代表質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://saitama-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=2465",
+      "speakers": [
+        "中山欽哉"
+      ]
+    },
+    {
       "id": "553cd84f748a6527712f",
       "place": "さいたま市",
       "season": "fall",
@@ -6398,6 +6412,20 @@ GIKAI.questionText = {
       "url": "https://smart.discussvision.net/smart/tenant/kazo/WebView/rd/speech.html?council_id=39&schedule_id=3&playlist_id=5&speaker_id=22&target_year=2026",
       "speakers": [
         "野中芳子"
+      ]
+    },
+    {
+      "id": "d4ce0534e09fb651084f",
+      "place": "加須市",
+      "season": "fall",
+      "date": "2026-09-11",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "山本仁美議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。 自動検査で確認候補になった時間帯も含まれます。",
+      "url": "https://smart.discussvision.net/smart/tenant/kazo/WebView/rd/speech.html?council_id=39&schedule_id=4&playlist_id=1&speaker_id=34&target_year=2026",
+      "speakers": [
+        "山本仁美"
       ]
     },
     {
@@ -24845,16 +24873,51 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "dd3929732f1ec535ba96",
+      "place": "戸田市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "とだ議会だより第236号・委員会の審査から",
+      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055902&fileId=dd82a10f1e594ab2aa76f45623067024&fileName=236_A3.pdf#page=4",
+      "kind": "議会だよりの質問・答弁（紙面要約）",
+      "scope": "summary",
+      "speakers": [],
+      "note": "紙面７～８頁（見開きPDF４～５頁）。９月18日の本会議で報告された４常任委員会の審査要旨です。紙面に合わせ、質疑を委員会名で表示しています。"
+    },
+    {
       "id": "177341ec1750dfb3e664",
       "place": "戸田市",
       "season": "fall",
       "date": "2026-09",
-      "title": "戸田市議会だより236号・一般質問の見開き",
+      "title": "とだ議会だより第236号・秋の一般質問",
       "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055902&fileId=dd82a10f1e594ab2aa76f45623067024&fileName=236_A3.pdf",
-      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "kind": "議会だよりの質問・答弁（紙面要約）",
       "scope": "summary",
-      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。 OCRの確認警告があるPDF 7頁を除外しています。",
-      "speakers": []
+      "note": "紙面９～16頁（見開きPDF５～９頁）に、質問した議員自身がまとめた問答が掲載されています。22人・37主題の質問・答弁・議員の意見を、原紙面と照合して整理しました。正式会議録は確認中です。",
+      "speakers": [
+        "そごう拓也",
+        "竹内正明",
+        "宮内そうこ",
+        "細田昌孝",
+        "佐藤太信",
+        "小山大輔",
+        "三浦のぶお",
+        "石川清明",
+        "小沼さゆり",
+        "野澤茂雅",
+        "浅生和英",
+        "辺見智子",
+        "古屋としみつ",
+        "河合ゆうすけ",
+        "むとう葉子",
+        "花井あきこ",
+        "遠藤英樹",
+        "山屋佳代",
+        "本田哲",
+        "矢澤青河",
+        "小金沢優",
+        "酒井いくろう"
+      ]
     },
     {
       "id": "ab9387289ec18d0d6298",
@@ -26148,6 +26211,20 @@ GIKAI.questionText = {
       "speakers": []
     },
     {
+      "id": "bc8a2086f6f64e5c0c6f",
+      "place": "新座市",
+      "season": "fall",
+      "date": "2026-09-09",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "助川昇議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1872",
+      "speakers": [
+        "助川昇"
+      ]
+    },
+    {
       "id": "ea1bd397712d365d4424",
       "place": "新座市",
       "season": "fall",
@@ -26159,6 +26236,20 @@ GIKAI.questionText = {
       "url": "https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1869",
       "speakers": [
         "池田貞雄"
+      ]
+    },
+    {
+      "id": "8464fc341be4da3280ab",
+      "place": "新座市",
+      "season": "fall",
+      "date": "2026-09-11",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "伊藤智砂子議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1878",
+      "speakers": [
+        "伊藤智砂子"
       ]
     },
     {
@@ -29062,6 +29153,20 @@ GIKAI.questionText = {
       "url": "https://matsubushi-town.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=8",
       "speakers": [
         "増田秀雄"
+      ]
+    },
+    {
+      "id": "cc07893f13e390cc13b8",
+      "place": "松伏町",
+      "season": "fall",
+      "date": "2026-09-04",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "平野千穂議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://matsubushi-town.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=10",
+      "speakers": [
+        "平野千穂"
       ]
     },
     {
@@ -36867,7 +36972,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://saitama-city.stream.jfit.co.jp/?tpl=gikai_days_list&gikai_id=203",
-        "note": "公式録画一覧の代表・一般質問21人のうち、6人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
+        "note": "公式録画一覧の代表・一般質問21人のうち、7人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
       }
     },
     {
@@ -37079,7 +37184,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/kazo/WebView/rd/council.html?year=2026&council_id=39",
-        "note": "公式録画一覧の一般質問20人のうち、5人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
+        "note": "公式録画一覧の一般質問20人のうち、6人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
       }
     },
     {
@@ -37398,7 +37503,8 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+        "note": "議会だより第236号の一般質問22人・37主題と４常任委員会13組を収録。正式会議録は確認中。",
+        "indexURL": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/GD032/GD032_002?id=0000055902&menu=000047"
       }
     },
     {
@@ -37532,7 +37638,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://niiza-city.stream.jfit.co.jp/?tpl=gikai_days_list&gikai_id=96",
-        "note": "公式録画一覧の一般質問25人のうち、1人の映像音声を機械文字起こしとして収録。正式会議録は確認中。議会だより第238号の質問・答弁要旨はPDF７頁を収録。"
+        "note": "公式録画一覧の一般質問25人のうち、3人の映像音声を機械文字起こしとして収録。正式会議録は確認中。議会だより第238号の質問・答弁要旨はPDF７頁を収録。"
       }
     },
     {
@@ -38504,7 +38610,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://matsubushi-town.stream.jfit.co.jp/?tpl=gikai_days_list&gikai_id=2",
-        "note": "公式録画一覧の一般質問9人のうち、7人の映像音声を機械文字起こしとして収録。正式会議録は確認中。議会だよりの紙面要約（26論点）も収録。"
+        "note": "公式録画一覧の一般質問9人のうち、8人の映像音声を機械文字起こしとして収録。正式会議録は確認中。議会だよりの紙面要約（26論点）も収録。"
       }
     }
   ]
