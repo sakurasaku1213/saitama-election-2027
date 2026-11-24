@@ -111,6 +111,8 @@ for (const s of data.sessions) {
   validLink(s.url);
   assert.ok(allBodies.has(s.place) && s.label);
 }
+const archivedQuestionDocs = new Map(data.questionText.documents.map((doc) => [doc.id, doc]));
+let documentedMemberActions = 0;
 for (const c of data.cases) {
   let previous = "";
   assert.ok(allBodies.has(c.place) && c.actors.length && c.steps.length > 1);
@@ -130,6 +132,26 @@ for (const c of data.cases) {
         step.date <= data.asOf,
       c.title,
     );
+    if (step.archiveId) {
+      const doc = archivedQuestionDocs.get(step.archiveId);
+      assert.ok(doc?.scope === "minutes" && doc.place === c.place, c.title);
+      assert.equal(doc.url, step.url, c.title);
+      assert.equal(doc.date, step.date, c.title);
+    }
+    const names = new Set();
+    for (const action of step.memberActions || []) {
+      assert.ok(!names.has(action.name) && c.actors.includes(action.name) && action.detail, c.title);
+      assert.ok(step.actor.split("、").includes(action.name) || step.archiveId, c.title);
+      assert.ok(people.has(c.place + "|" + action.name.replace(/\s/g, "")), action.name);
+      if (step.archiveId) {
+        assert.ok(action.blocks?.length && action.blocks.every((block, index) =>
+          Number.isSafeInteger(block) && block > (action.blocks[index - 1] || 0)), action.name);
+      } else {
+        assert.equal(action.blocks, undefined, action.name);
+      }
+      names.add(action.name);
+      documentedMemberActions++;
+    }
     previous = step.date;
   }
 }
@@ -232,7 +254,6 @@ for (const row of coverage.sessions) {
 }
 assert.equal(coverageSlots.size, allBodies.size * seasons.size);
 const councilReviews = new Map();
-const archivedQuestionDocs = new Map(data.questionText.documents.map((doc) => [doc.id, doc]));
 let councilReviewAppearances = 0;
 let councilReviewIssues = 0;
 let councilReviewActions = 0;
@@ -504,6 +525,7 @@ console.log(
       jointBills: data.bills.length,
       localRollCalls: data.localVotes.length,
       documentedCases: data.cases.length,
+      documentedMemberActions,
       reviewedQuestionItems: reviewed.size,
       reviewedSpeakers: reviewSpeakers.size,
       reviewedPolicyIssues: review.issues.length,

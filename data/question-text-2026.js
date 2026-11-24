@@ -26040,6 +26040,20 @@ GIKAI.questionText = {
       "speakers": []
     },
     {
+      "id": "ea1bd397712d365d4424",
+      "place": "新座市",
+      "season": "fall",
+      "date": "2026-09-09",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "池田貞雄議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1869",
+      "speakers": [
+        "池田貞雄"
+      ]
+    },
+    {
       "id": "0c8e4191d0de8159369b",
       "place": "日高市",
       "season": "spring",
@@ -37309,7 +37323,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。公式一覧の委員会2資料も収録。公式一覧の委員会2資料も収録。"
+        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。公式一覧の委員会2資料も収録。"
       }
     },
     {
@@ -37362,8 +37376,8 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "議会だよりの質問・答弁要旨を収録。公式録画で一般質問７日・25人を確認。正式会議録は確認中。",
-        "indexURL": "https://niiza-city.stream.jfit.co.jp/?tpl=gikai_days_list&gikai_id=96"
+        "indexURL": "https://niiza-city.stream.jfit.co.jp/?tpl=gikai_days_list&gikai_id=96",
+        "note": "公式録画一覧の一般質問25人のうち、1人の映像音声を機械文字起こしとして収録。正式会議録は確認中。議会だより第238号の質問・答弁要旨はPDF７頁を収録。"
       }
     },
     {
@@ -37761,7 +37775,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。公式一覧の委員会3資料も収録。公式一覧の委員会3資料も収録。"
+        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。公式一覧の委員会3資料も収録。"
       }
     },
     {

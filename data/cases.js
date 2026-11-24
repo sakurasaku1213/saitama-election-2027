@@ -982,25 +982,51 @@ GIKAI.cases.push(
     place: "朝霞市",
     title: "北朝霞駅西口の改修をめぐる予算修正案と工事契約",
     topic: "駅前広場・交通",
-    actors: ["黒川滋", "本田麻希子", "飯倉一樹", "田辺淳", "利根川仁志", "石原茂", "朝霞市議会", "朝霞市"],
+    actors: ["黒川滋", "本田麻希子", "飯倉一樹", "田辺淳", "利根川仁志", "石原茂", "田原亮", "朝霞市議会", "朝霞市"],
     steps: [
+      {
+        date: "2026-03-02", stage: "駅舎再整備に合わせた見直しを質す", actor: "田原亮、朝霞市長",
+        detail: "田原議員は、東武東上線朝霞台駅の再整備に合わせ、西口広場化を見直すかを質した。市長は、人の流れへの影響は及ばないと考え、改修の再検討の余地はないと答えた。",
+        url: "https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1112&schedule_id=3",
+        sourceTitle: "朝霞市議会 ３月２日本会議録・質疑と市長答弁",
+        archiveId: "787ea57af21fe1d880b0",
+        memberActions: [
+          { name: "田原亮", blocks: [74, 76, 80, 82, 84, 86], detail: "駅舎再整備で人の動線が変わる可能性を踏まえ、西口広場化の見直しや着工の留保を検討する考えがないか市長に尋ねた。" },
+        ],
+      },
       {
         date: "2026-03-04", stage: "改修工事中の交通と駅周辺計画への影響を質す", actor: "飯倉一樹",
         detail: "建設常任委員会で、工事中の交通、送迎や小型バスへの影響、駅舎改修との関係を尋ねた。関係者の意見を聞きながら進めるよう求めた。",
         url: "https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1117&schedule_id=1",
-        sourceTitle: "朝霞市議会 ３月４日建設常任委員会・発言順695・707・723",
+        sourceTitle: "朝霞市議会 ３月４日建設常任委員会・発言順695・703・707",
+        archiveId: "a2b04e53dab5093123e7",
+        memberActions: [
+          { name: "飯倉一樹", blocks: [695, 703, 707], detail: "改修中の交通や送迎バスへの影響と、駅舎工事との干渉を確認し、関係者と丁寧に調整するよう求めた。" },
+        ],
       },
       {
         date: "2026-03-23", stage: "工事着手の見送りと予算減額を発議", actor: "黒川滋、本田麻希子",
         detail: "駅周辺の交通戦略との整合を検討するため、令和８年度の着手を見送り、当初予算を１億7,994万8,000円減額し、事業の継続費と地方債を削る修正動議を提出した。",
         url: "https://www.city.asaka.lg.jp/uploaded/attachment/108670.pdf#page=2",
         sourceTitle: "朝霞市議会 議案第３号への修正動議・１頁の発議者欄と２頁の修正案", billNumber: "議案第3号に対する修正動議",
+        memberActions: [
+          { name: "黒川滋", detail: "本田議員と共同で、駅周辺の交通戦略を検討してから着手するよう、ロータリー改修費などを削る予算修正動議を発議した。" },
+          { name: "本田麻希子", detail: "黒川議員と共同で、駅周辺の交通戦略を検討してから着手するよう、ロータリー改修費などを削る予算修正動議を発議した。" },
+        ],
       },
       {
         date: "2026-03-23", stage: "修正案を否決し、当初予算の原案を可決", actor: "朝霞市議会",
-        detail: "利根川仁志・石原茂議員が修正案に反対、本田麻希子議員が賛成の討論を行った。修正案は賛成２、反対20で否決。原案は賛成18、反対４で可決した。",
+        detail: "利根川仁志・石原茂議員が修正案に反対、本田麻希子議員が賛成の討論を行った。修正案は賛成２、反対20で否決された。原案の討論では黒川滋議員が反対し、田原亮議員が意見を述べて賛成した。原案は賛成18、反対４で可決された。",
         url: "https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1112&schedule_id=8",
         sourceTitle: "朝霞市議会 ３月23日本会議録・討論と採決", billNumber: "議案第3号",
+        archiveId: "182928410c8431826068",
+        memberActions: [
+          { name: "利根川仁志", blocks: [38], detail: "駅前の居場所づくりや見通しの改善には早期の広場化が必要だとして、着手を見送る予算修正案に反対した。" },
+          { name: "本田麻希子", blocks: [40], detail: "朝霞台駅の再整備や周辺の交通・街路の検討を先に行うべきだとして、予算修正案に賛成した。" },
+          { name: "石原茂", blocks: [42], detail: "広場化を考慮しながら周辺の交通戦略を検討できるとして、着手を見送る予算修正案に反対した。" },
+          { name: "黒川滋", blocks: [50], detail: "朝霞台駅周辺の計画への説明が足りないと指摘し、当初予算の原案に反対した。" },
+          { name: "田原亮", blocks: [56], detail: "西口広場化を進める際に地元関係者の意見を尊重し、喫煙・ポイ捨てなどに対応するよう求め、当初予算の原案に賛成した。" },
+        ],
       },
       {
         date: "2026-08-27", stage: "市長が工事請負契約案を提出", actor: "朝霞市長",
@@ -1013,6 +1039,13 @@ GIKAI.cases.push(
         detail: "黒川議員は駅全体の計画や送迎バスの課題を挙げて反対し、飯倉議員は関係者の理解を得る必要性を述べて賛成した。市議会は請負契約案（議案第46号）を賛成18、反対４で可決した。",
         url: "https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1142&schedule_id=8",
         sourceTitle: "朝霞市議会 ９月28日本会議録・発言順89～101", billNumber: "議案第46号",
+        archiveId: "a5c09c6857a741554636",
+        memberActions: [
+          { name: "田辺淳", blocks: [92], detail: "先に解体し、市民の声を聞いてから広場の計画を詰めるよう求め、改修工事の契約案に反対した。" },
+          { name: "石原茂", blocks: [94], detail: "人中心の公共空間をつくり、安全でにぎわいのある駅周辺にする事業だとして、改修工事の契約案に賛成した。" },
+          { name: "黒川滋", blocks: [96], detail: "朝霞台駅全体の計画との整合や送迎バスの扱いが整理されていないと指摘し、改修工事の契約案に反対した。" },
+          { name: "飯倉一樹", blocks: [98], detail: "広場化の意義を認め、事業者などへの丁寧な説明と、不具合が生じた場合の対応を求めて契約案に賛成した。" },
+        ],
       },
       {
         date: "2026-11-16", stage: "市が工事予定と説明会を公表", actor: "朝霞市",
@@ -1040,12 +1073,23 @@ GIKAI.cases.push(
         detail: "吉田議員は条例に小中学校の給食を加える理由を、古仲議員はアレルギー情報の共有を質した。安道議員は小学校の自校給食を審議してきた仕組みと統合理由を、栗山議員は委員構成の変更を確認した。",
         url: "https://www3.city.iruma.saitama.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=1&SORT=0&KTYP=0,1,2,3&KGTP=3&FYY=2026&TYY=2026&TITL=%95%9F%8E%83%8B%B3%88%E7&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82U%8C%8E%95%9F%8E%83%8B%B3%88%E7%8F%ED%94C%88%CF%88%F5%89%EF%81%7C06%8C%8E11%93%FA-01%8D%86&HUID=244139&KGNO=522&FINO=1938&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
         sourceTitle: "入間市議会 ６月11日福祉教育常任委員会・発言順11～20",
+        archiveId: "ca1d919b5e34d92f75e4",
+        memberActions: [
+          { name: "吉田賢一", blocks: [11, 12], detail: "条例で運営委員会の審議対象に市立小中学校の給食を加える理由を尋ねた。" },
+          { name: "古仲リカ", blocks: [13, 14], detail: "運営委員会で小学生の食物アレルギーに関する情報共有を扱うか尋ねた。" },
+          { name: "安道佳子", blocks: [15, 16, 17, 18], detail: "自校給食を審議してきた組織と、別々に審議することで生じていた不都合を尋ねた。" },
+          { name: "栗山英美", blocks: [19, 20], detail: "対象が市立小中学校の給食に広がるのに伴い、運営委員会の構成が変わるか尋ねた。" },
+        ],
       },
       {
         date: "2026-06-24", stage: "施設の運営に関する改正条例案を可決", actor: "長谷川渉、入間市議会",
         detail: "福祉教育常任委員長が、市立小中学校の給食を運営委員会で審議するために条例を改めることと、委員構成に関する質疑を報告した。本会議は議案第66号を原案可決した。",
         url: "https://www3.city.iruma.saitama.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82U%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82Q%89%F1%81j%81%7C06%8C%8E24%93%FA-06%8D%86&HUID=245008&KGNO=519&FINO=1944&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
         sourceTitle: "入間市議会 ６月24日本会議録・福祉教育常任委員長報告", billNumber: "議案第66号",
+        archiveId: "821309aea6bb86bd4ba0",
+        memberActions: [
+          { name: "長谷川渉", blocks: [29], detail: "福祉教育常任委員長として、給食の審議体制を変える理由、委員構成に関する質疑、委員会の採決結果を本会議で報告した。" },
+        ],
       },
       {
         date: "2026-09-02", stage: "新施設で給食の提供を開始", actor: "入間市",
@@ -1058,6 +1102,10 @@ GIKAI.cases.push(
         detail: "永澤議員は石綿対策と解体後の土地利用を質問した。市は事前分析70検体のうち25検体で石綿が確認されたことと、解体後は別工事で駐車場や緑地などを整備する方針を説明した。",
         url: "https://www3.city.iruma.saitama.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82X%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82R%89%F1%81j%81%7C09%8C%8E07%93%FA-02%8D%86&HUID=245198&KGNO=524&FINO=1947&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
         sourceTitle: "入間市議会 ９月７日本会議録・発言順13・17",
+        archiveId: "cb329e91ee833765bbf1",
+        memberActions: [
+          { name: "永澤美恵子", blocks: [13, 17], detail: "会派を代表し、別の学校の解体で石綿除去の追加工事が生じた経緯を挙げ、既存棟の石綿対策と解体後の土地利用を尋ねた。" },
+        ],
       },
       {
         date: "2026-09-07", stage: "既存棟解体工事の契約案を可決", actor: "入間市議会",

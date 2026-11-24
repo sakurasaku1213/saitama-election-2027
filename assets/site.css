@@ -934,7 +934,8 @@ select {
   color: var(--blue);
   font-weight: 600;
 }
-.policy-issue > summary {
+.policy-issue > summary,
+.member-case > summary {
   padding: 0.6rem 0.8rem;
 }
 .policy-evidence {

@@ -614,12 +614,30 @@
         c.place === p.place && c.actors.some((n) => norm(n) === norm(p.name)),
     );
   }
+  function memberCaseSummary(p, policyCase) {
+    const actions = policyCase.steps.flatMap((step) =>
+      (step.memberActions || []).filter((action) => norm(action.name) === norm(p.name))
+        .map((action) => ({ ...step, detail: action.detail, blocks: action.blocks })),
+    );
+    if (!actions.some((action) => recordInSeason({ ...action, place: p.place }, state.season || "spring"))) return "";
+    const last = policyCase.steps.at(-1);
+    return `<details class="entry member-case"><summary><span>${esc(policyCase.title)}</span></summary><div class="detail-body">
+      <h5>本人が行ったこと</h5><ol class="steps">${actions.map((action) => `<li>${dateTag(action.date)}
+        <p>${esc(action.detail)}</p><p class="small">${link(action.url, action.sourceTitle)}${action.archiveId ? archivedMinutes(p.place, action.date, action.archiveId, action.blocks) : ""}</p></li>`).join("")}</ol>
+      <h5>事例の最新記録</h5><p>${dateTag(last.date)}　${esc(last.actor)}　${esc(last.stage)}</p>
+      <p class="small">${link(last.url, last.sourceTitle)}</p>
+      ${jump("cases", { place: p.place, q: policyCase.title }, "答弁・議決・事業の経過を読む")}
+    </div></details>`;
+  }
   function personCard(p, compare = false) {
     const work = (byPerson.get(personKey(p.place, p.name)) || []).filter((g) =>
       matchYear(g.date),
     );
     const years = sorted(work.map((g) => g.date.slice(0, 4)));
-    const related = relatedCases(p);
+    const related = relatedCases(p).map((item) => ({ item, summary: memberCaseSummary(p, item) }));
+    const caseSummaries = related.map(({ summary }) => summary).join("");
+    const caseEvidence = caseSummaries ? `<section class="policy-review"><h4>事例で確認できる本人の関与</h4>
+      <p class="small">対象会期に本人の記録がある事例です。同じ事例での別会期の記録も表示します。</p>${caseSummaries}</section>` : "";
     const policy = policyReviewCard(p);
     const types = sorted(work.map((g) => g.kind));
     const typeLinks = types.map((kind) =>
@@ -630,11 +648,11 @@
       ),
     );
     return `<article class="${compare ? "compare-cell" : "person"}"><div class="meta"><span>${esc(p.place)}議会</span>${p.district ? tag(p.district) : ""}</div><h3>${esc(p.name)}</h3>
-      ${compare ? policy : ""}
+      ${compare ? policy + caseEvidence : ""}
       <p>${esc(p.group || "会派は掲載元で確認")}</p>${p.roles?.length ? `<p class="small">委員会等　${p.roles.map(esc).join(" · ")}</p>` : ""}
       ${work.length ? `<p class="group-note">記録のある年　${years.join("・")}年</p><div class="links">${typeLinks.join("")}</div><p class="snippet">直近の掲載項目　${esc(work[0].items[0].title)}</p>` : `<p class="group-note">この期間の収録資料では本人の項目を特定できていません。掲載元の記録も参照できます。</p>`}
-      ${compare ? "" : policy}
-      ${related.map((c) => `<div class="story-link">${jump("cases", { place: p.place, q: c.title }, c.title)}</div>`).join("")}
+      ${compare ? "" : policy + caseEvidence}
+      ${related.filter(({ summary }) => !summary).map(({ item }) => `<div class="story-link">${jump("cases", { place: p.place, q: item.title }, item.title)}</div>`).join("")}
       <div class="links">${work.length ? jump("records", { place: p.place, name: p.name, year: state.year }, "本人の掲載記録") : ""}${link(p.url, "議会の名簿")}${link(p.groupURL, "会派名簿")}${link(p.speechUrl, "本人の発言検索")}${link(p.videoUrl, "本人の録画")}</div>
       ${p.asOf || p.profileDate ? `<p class="small">名簿・プロフィールの資料日　${esc(date(p.asOf || p.profileDate))}</p>` : `<p class="small">名簿の閲覧確認　${date(D.asOf)}</p>`}</article>`;
   }
