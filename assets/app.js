@@ -724,7 +724,7 @@
     const separateVote = b.voteURL && b.voteURL !== b.resultURL;
     const byGroup = b.voteType === "会派等";
     const proposalSource = b.url !== b.resultURL && b.url !== b.voteURL
-      ? link(b.url, b.resultLocator ? "議会だよりの議決結果" : "議案・提出者の原文")
+      ? link(b.url, b.sourceTitle || (b.resultLocator ? "議会だよりの議決結果" : "議案・提出者の原文"))
       : "";
     const resultTitle = b.resultLocator || (separateVote ? "議決結果の原表" : "審議結果・表決の原表");
     const voteTitle = byGroup ? "会派等の表決の原表" : ballots.length ? "記名表決の原表" : "表決の注記の原表";

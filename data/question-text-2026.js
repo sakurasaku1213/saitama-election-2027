@@ -1571,6 +1571,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "c7e173614f74d64cab78",
+      "place": "さいたま市",
+      "season": "fall",
+      "date": "2026-09-07",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "佐伯加寿美議員　代表質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://saitama-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=2460",
+      "speakers": [
+        "佐伯加寿美"
+      ]
+    },
+    {
       "id": "2ebde523ce68d450d096",
       "place": "さいたま市",
       "season": "fall",
@@ -19545,6 +19559,54 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "b0920ff2cdd8a72da1fc",
+      "place": "川口市",
+      "season": "spring",
+      "date": "2026-02-25",
+      "title": "福祉保健常任委員会　委員長報告（令和7年度議案）",
+      "url": "https://kawaguchi.gsl-service.net/topics/2026030400014/file_contents/202603_07_fukuho.pdf",
+      "kind": "委員長報告（公式資料）",
+      "scope": "summary",
+      "note": "委員長報告の公式PDF全2頁を収録しました。日付は報告対象の委員会開催日です。",
+      "speakers": []
+    },
+    {
+      "id": "37663bc6e2e05c0087f2",
+      "place": "川口市",
+      "season": "spring",
+      "date": "2026-02-25",
+      "title": "総務常任委員会　委員長報告（令和7年度議案）",
+      "url": "https://kawaguchi.gsl-service.net/topics/2026030400014/file_contents/202603_07soumu.pdf",
+      "kind": "委員長報告（公式資料）",
+      "scope": "summary",
+      "note": "委員長報告の公式PDF全3頁を収録しました。日付は報告対象の委員会開催日です。",
+      "speakers": []
+    },
+    {
+      "id": "ec3521cf2b42c79133f4",
+      "place": "川口市",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "建設消防常任委員会　委員長報告（令和7年度議案）",
+      "url": "https://kawaguchi.gsl-service.net/topics/2026030400014/file_contents/202603_07_kensetsu.pdf",
+      "kind": "委員長報告（公式資料）",
+      "scope": "summary",
+      "note": "委員長報告の公式PDF全2頁を収録しました。日付は報告対象の委員会開催日です。",
+      "speakers": []
+    },
+    {
+      "id": "c3f5eaa01f73fc9d4890",
+      "place": "川口市",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "環境経済文教常任委員会　委員長報告（令和7年度議案）",
+      "url": "https://kawaguchi.gsl-service.net/topics/2026030400014/file_contents/202603_07_kankeibun.pdf",
+      "kind": "委員長報告（公式資料）",
+      "scope": "summary",
+      "note": "委員長報告の公式PDF全2頁を収録しました。日付は報告対象の委員会開催日です。",
+      "speakers": []
+    },
+    {
       "id": "b475f9982b12af671573",
       "place": "川口市",
       "season": "spring",
@@ -19649,6 +19711,66 @@ GIKAI.questionText = {
         "岡本さゆり",
         "碇康雄"
       ]
+    },
+    {
+      "id": "2af1dfe30b8a73d4e5ba",
+      "place": "川口市",
+      "season": "spring",
+      "date": "2026-03-12",
+      "title": "議会運営委員会　委員長報告（請願）",
+      "url": "https://kawaguchi.gsl-service.net/topics/2026030400014/file_contents/202603_giunnseigann.pdf",
+      "kind": "委員長報告（公式資料）",
+      "scope": "summary",
+      "note": "委員長報告の公式PDF全2頁を収録しました。日付は報告対象の委員会開催日です。",
+      "speakers": []
+    },
+    {
+      "id": "cad7a0f25edebc7c166d",
+      "place": "川口市",
+      "season": "spring",
+      "date": "2026-03-16",
+      "title": "福祉保健常任委員会　委員長報告（令和8年度議案）",
+      "url": "https://kawaguchi.gsl-service.net/topics/2026030400014/file_contents/202603_08_fukuho.pdf",
+      "kind": "委員長報告（公式資料）",
+      "scope": "summary",
+      "note": "委員長報告の公式PDF全5頁を収録しました。日付は報告対象の委員会開催日です。",
+      "speakers": []
+    },
+    {
+      "id": "c12a3576f2b3e93a5ff9",
+      "place": "川口市",
+      "season": "spring",
+      "date": "2026-03-16",
+      "title": "総務常任委員会　委員長報告（令和8年度議案）",
+      "url": "https://kawaguchi.gsl-service.net/topics/2026030400014/file_contents/202603_08soumu.pdf",
+      "kind": "委員長報告（公式資料）",
+      "scope": "summary",
+      "note": "委員長報告の公式PDF全5頁を収録しました。日付は報告対象の委員会開催日です。",
+      "speakers": []
+    },
+    {
+      "id": "304135c913d70ec84f17",
+      "place": "川口市",
+      "season": "spring",
+      "date": "2026-03-17",
+      "title": "建設消防常任委員会　委員長報告（令和8年度議案）",
+      "url": "https://kawaguchi.gsl-service.net/topics/2026030400014/file_contents/202603_08_kensetsu.pdf",
+      "kind": "委員長報告（公式資料）",
+      "scope": "summary",
+      "note": "委員長報告の公式PDF全4頁を収録しました。日付は報告対象の委員会開催日です。",
+      "speakers": []
+    },
+    {
+      "id": "cb1926ac234bbd288ce9",
+      "place": "川口市",
+      "season": "spring",
+      "date": "2026-03-17",
+      "title": "環境経済文教常任委員会　委員長報告（令和8年度議案）",
+      "url": "https://kawaguchi.gsl-service.net/topics/2026030400014/file_contents/202603_08_kankeibun.pdf",
+      "kind": "委員長報告（公式資料）",
+      "scope": "summary",
+      "note": "委員長報告の公式PDF全5頁を収録しました。日付は報告対象の委員会開催日です。",
+      "speakers": []
     },
     {
       "id": "9a708d5d218c92c3680f",
@@ -19790,6 +19912,54 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "9a055bb19c596b6e7f0a",
+      "place": "川口市",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "建設消防常任委員会　委員長報告",
+      "url": "https://kawaguchi.gsl-service.net/topics/2026070300015/file_contents/202606_iinchouhoukoku_kensetsu.pdf",
+      "kind": "委員長報告（公式資料）",
+      "scope": "summary",
+      "note": "委員長報告の公式PDF全2頁を収録しました。日付は報告対象の委員会開催日です。",
+      "speakers": []
+    },
+    {
+      "id": "09d7dd901f6771701cac",
+      "place": "川口市",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "総務常任委員会　委員長報告",
+      "url": "https://kawaguchi.gsl-service.net/topics/2026070300015/file_contents/202606_iinchouhoukoku_soumu.pdf",
+      "kind": "委員長報告（公式資料）",
+      "scope": "summary",
+      "note": "委員長報告の公式PDF全3頁を収録しました。日付は報告対象の委員会開催日です。",
+      "speakers": []
+    },
+    {
+      "id": "a6e1ff17fda519693b4e",
+      "place": "川口市",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "環境経済文教常任委員会　委員長報告",
+      "url": "https://kawaguchi.gsl-service.net/topics/2026070300015/file_contents/202606_iinchouhoukoku_kankeibun.pdf",
+      "kind": "委員長報告（公式資料）",
+      "scope": "summary",
+      "note": "委員長報告の公式PDF全2頁を収録しました。日付は報告対象の委員会開催日です。",
+      "speakers": []
+    },
+    {
+      "id": "1f134ab097ab4d6a7b46",
+      "place": "川口市",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "福祉保健常任委員会　委員長報告",
+      "url": "https://kawaguchi.gsl-service.net/topics/2026070300015/file_contents/202606_iinchouhoukoku_fukuho.pdf",
+      "kind": "委員長報告（公式資料）",
+      "scope": "summary",
+      "note": "委員長報告の公式PDF全4頁を収録しました。日付は報告対象の委員会開催日です。",
+      "speakers": []
+    },
+    {
       "id": "dfe78aa63298e3467dea",
       "place": "川口市",
       "season": "summer",
@@ -19927,6 +20097,54 @@ GIKAI.questionText = {
         "碇康雄",
         "荻野梓"
       ]
+    },
+    {
+      "id": "a95e3dcbf6847044f1e4",
+      "place": "川口市",
+      "season": "fall",
+      "date": "2026-09-18",
+      "title": "建設消防常任委員会　委員長報告",
+      "url": "https://kawaguchi.gsl-service.net/topics/2026100100011/file_contents/202609_iinchouhoukoku_kensetsu.pdf",
+      "kind": "委員長報告（公式資料）",
+      "scope": "summary",
+      "note": "委員長報告の公式PDF全3頁を収録しました。日付は報告対象の委員会開催日です。",
+      "speakers": []
+    },
+    {
+      "id": "20e97d9ab3a9fb00bfbb",
+      "place": "川口市",
+      "season": "fall",
+      "date": "2026-09-18",
+      "title": "環境経済文教常任委員会　委員長報告",
+      "url": "https://kawaguchi.gsl-service.net/topics/2026100100011/file_contents/202609_iinchouhoukoku_kankeibun.pdf",
+      "kind": "委員長報告（公式資料）",
+      "scope": "summary",
+      "note": "委員長報告の公式PDF全2頁を収録しました。日付は報告対象の委員会開催日です。",
+      "speakers": []
+    },
+    {
+      "id": "cbc5bb156e8d8f5d3013",
+      "place": "川口市",
+      "season": "fall",
+      "date": "2026-09-24",
+      "title": "福祉保健常任委員会　委員長報告",
+      "url": "https://kawaguchi.gsl-service.net/topics/2026100100011/file_contents/202609_iinchouhoukoku_fukuho.pdf",
+      "kind": "委員長報告（公式資料）",
+      "scope": "summary",
+      "note": "委員長報告の公式PDF全2頁を収録しました。日付は報告対象の委員会開催日です。",
+      "speakers": []
+    },
+    {
+      "id": "9043c6dbfe01eef8b3ca",
+      "place": "川口市",
+      "season": "fall",
+      "date": "2026-09-24",
+      "title": "総務常任委員会　委員長報告",
+      "url": "https://kawaguchi.gsl-service.net/topics/2026100100011/file_contents/202609_iinchouhoukoku_soumu.pdf",
+      "kind": "委員長報告（公式資料）",
+      "scope": "summary",
+      "note": "委員長報告の公式PDF全3頁を収録しました。日付は報告対象の委員会開催日です。",
+      "speakers": []
     },
     {
       "id": "d6757eb6e6ddbfd65854",
@@ -22334,6 +22552,18 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "f1ebeb7e72bf08861d8d",
+      "place": "所沢市",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "令和８年９月１日～24日 議会運営委員会会議記録（概要）",
+      "url": "https://www.city.tokorozawa.saitama.jp/shigikai/tokubetuiinkaijyouhou/jyonininkai/giun.files/20260901_giun2.pdf",
+      "kind": "議事概要（公式資料）",
+      "scope": "summary",
+      "note": "公式一覧の９月１日～24日の議事概要と付属資料を、PDF全49頁収録しました。",
+      "speakers": []
+    },
+    {
       "id": "8e9962248b74789cf1be",
       "place": "所沢市",
       "season": "fall",
@@ -22360,6 +22590,42 @@ GIKAI.questionText = {
         "長岡恵子",
         "長谷川礼奈"
       ]
+    },
+    {
+      "id": "29839a565e1c04820b39",
+      "place": "所沢市",
+      "season": "fall",
+      "date": "2026-09-04",
+      "title": "令和８年９月4日 保健医療特別委員会会議録",
+      "url": "https://www.city.tokorozawa.saitama.jp/shigikai/tokubetuiinkaijyouhou/jyonininkai/yotoku_bunkakai/hokenniryou.files/20260904hokeniryou.pdf",
+      "kind": "公式会議録（特別委員会）",
+      "scope": "minutes",
+      "note": "市議会の特別委員会一覧と会議日を照合し、公開されたPDF全4頁を収録しました。",
+      "speakers": []
+    },
+    {
+      "id": "d5c10aa90b67ac26b419",
+      "place": "所沢市",
+      "season": "fall",
+      "date": "2026-09-07",
+      "title": "令和８年９月7日 保健医療特別委員会会議録",
+      "url": "https://www.city.tokorozawa.saitama.jp/shigikai/tokubetuiinkaijyouhou/jyonininkai/yotoku_bunkakai/hokenniryou.files/20260907hokeniryousyuusei.pdf",
+      "kind": "公式会議録（特別委員会）",
+      "scope": "minutes",
+      "note": "市議会の特別委員会一覧と会議日を照合し、公開されたPDF全4頁を収録しました。",
+      "speakers": []
+    },
+    {
+      "id": "dbe8de47f60e88d74ebf",
+      "place": "所沢市",
+      "season": "fall",
+      "date": "2026-09-08",
+      "title": "令和８年９月8日 保健医療特別委員会会議録",
+      "url": "https://www.city.tokorozawa.saitama.jp/shigikai/tokubetuiinkaijyouhou/jyonininkai/yotoku_bunkakai/hokenniryou.files/20260908hokenniryou.pdf",
+      "kind": "公式会議録（特別委員会）",
+      "scope": "minutes",
+      "note": "市議会の特別委員会一覧と会議日を照合し、公開されたPDF全13頁を収録しました。",
+      "speakers": []
     },
     {
       "id": "51d697504c52969ec3cf",
@@ -23190,6 +23456,34 @@ GIKAI.questionText = {
       "url": "https://smart.discussvision.net/smart/tenant/hidaka/WebView/rd/speech.html?council_id=54&schedule_id=3&playlist_id=1&speaker_id=1&target_year=2026",
       "speakers": [
         "佐藤真"
+      ]
+    },
+    {
+      "id": "ad0725894610e3f592e2",
+      "place": "日高市",
+      "season": "fall",
+      "date": "2026-09-08",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "横尾貴文議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/hidaka/WebView/rd/speech.html?council_id=54&schedule_id=3&playlist_id=3&speaker_id=27&target_year=2026",
+      "speakers": [
+        "横尾貴文"
+      ]
+    },
+    {
+      "id": "2e336879974a0d689af1",
+      "place": "日高市",
+      "season": "fall",
+      "date": "2026-09-08",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "鈴木健夫議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/hidaka/WebView/rd/speech.html?council_id=54&schedule_id=3&playlist_id=2&speaker_id=5&target_year=2026",
+      "speakers": [
+        "鈴木健夫"
       ]
     },
     {
@@ -28708,6 +29002,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "340226b2d1884263d711",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-18",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "大石幸一議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Video_View.asp?SrchID=2389",
+      "speakers": [
+        "大石幸一"
+      ]
+    },
+    {
       "id": "e33c882bb5e6edc9e000",
       "place": "蕨市",
       "season": "fall",
@@ -31103,7 +31411,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://saitama-city.stream.jfit.co.jp/?tpl=gikai_days_list&gikai_id=203",
-        "note": "公式録画一覧の代表・一般質問21人のうち、1人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
+        "note": "公式録画一覧の代表・一般質問21人のうち、2人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
       }
     },
     {
@@ -31161,7 +31469,7 @@ GIKAI.questionText = {
       "season": "spring",
       "material": {
         "state": "verified",
-        "note": "公式目次と照合した本会議の日別会議録8資料を収録。",
+        "note": "公式目次と照合した本会議の日別会議録8資料を収録。公開された委員長報告9資料も収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteBrowse.html?tenant_id=366&view_years=2026"
       }
     },
@@ -31170,7 +31478,7 @@ GIKAI.questionText = {
       "season": "summer",
       "material": {
         "state": "verified",
-        "note": "公式目次と照合した本会議の日別会議録7資料を収録。",
+        "note": "公式目次と照合した本会議の日別会議録7資料を収録。公開された委員長報告4資料も収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteBrowse.html?tenant_id=366&view_years=2026"
       }
     },
@@ -31179,7 +31487,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "verified",
-        "note": "公式目次と照合した本会議の日別会議録7資料を収録。",
+        "note": "公式目次と照合した本会議の日別会議録7資料を収録。公開された委員長報告4資料も収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteBrowse.html?tenant_id=366&view_years=2026"
       }
     },
@@ -31259,7 +31567,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "verified",
-        "note": "公式目次と照合した本会議の日別会議録8資料を収録。",
+        "note": "公式目次と照合した本会議の日別会議録8資料を収録。保健医療特別委員会の会議録３資料と議会運営委員会の議事概要１資料も収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/tokorozawa/SpMinuteBrowse.html?tenant_id=213&view_years=2026"
       }
     },
@@ -31606,7 +31914,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://warabi.gijiroku.com/gikai/g07_Video_Search.asp",
-        "note": "公式録画一覧の一般質問15人のうち、10人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
+        "note": "公式録画一覧の一般質問15人のうち、11人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
       }
     },
     {
@@ -32057,7 +32365,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/hidaka/WebView/rd/council.html?year=2026&council_id=54",
-        "note": "公式録画一覧の一般質問12人のうち、1人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
+        "note": "公式録画一覧の一般質問12人のうち、3人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
       }
     },
     {

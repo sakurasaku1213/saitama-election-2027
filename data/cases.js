@@ -400,6 +400,12 @@ GIKAI.cases.push(
         sourceTitle: "神川町 令和7・8年度補正予算重点支援地方交付金の活用状況",
       },
       {
+        date: "2026-09-17", stage: "水道事業会計への補助を含む９月補正を議決", actor: "神川町議会",
+        detail: "町は９月17日議決として一般会計補正予算（第４号）を公表した。歳出の事項別明細書に、水道事業会計への補助金1,540万3,000円が計上されている。",
+        url: "https://www.town.kamikawa.saitama.jp/material/files/group/3/r08_ippan_meisaisyo_hosei4.pdf#page=9",
+        sourceTitle: "神川町 ９月補正予算（第４号）事項別明細書 PDF９頁",
+      },
+      {
         date: "2026-09-18", stage: "10～11月分の延長を案内", actor: "神川町",
         detail: "町はさらに２か月分の基本料金を免除し、対象の請求月と、申請手続が不要であることを公表した。",
         url: "https://www.town.kamikawa.saitama.jp/subete/6777.html",
@@ -707,3 +713,49 @@ GIKAI.cases.push(
     note: "議員の複数会期にわたる質問と、県が公表した制度改定・受付開始を確認しました。交付実績は確認中です。",
   },
 );
+
+GIKAI.cases.push({
+  place: "所沢市",
+  title: "市民医療センターを調べる特別委員会を設置し、提言案の作成へ",
+  topic: "地域医療・病院事業",
+  actors: ["大石健一", "島田一隆", "大久保竜一", "所沢市議会"],
+  steps: [
+    {
+      date: "2026-06-19", stage: "市民医療センター再整備のための調査を提案", actor: "大石健一",
+      detail: "施設の老朽化、建設費の変動、一般会計からの繰入れ、夜間休日の小児医療体制を挙げ、保健医療特別委員会の設置案の提案理由を説明した。",
+      url: "https://ssp.kaigiroku.net/tenant/tokorozawa/SpMinuteView.html?tenant_id=213&council_id=190&schedule_id=9",
+      sourceTitle: "所沢市議会 ６月19日会議録665頁・提案理由の説明",
+    },
+    {
+      date: "2026-06-19", stage: "保健医療特別委員会の設置案を可決", actor: "所沢市議会",
+      detail: "設置を求める議員提出議案第１号について、質疑と討論の後、起立多数で原案可決した。",
+      url: "https://ssp.kaigiroku.net/tenant/tokorozawa/SpMinuteView.html?tenant_id=213&council_id=190&schedule_id=9",
+      sourceTitle: "所沢市議会 ６月19日会議録686頁・採決", billNumber: "議員提出議案第1号",
+    },
+    {
+      date: "2026-06-30", stage: "特別委員会で再整備の現状と課題を調査", actor: "所沢市議会 保健医療特別委員会",
+      detail: "島田一隆委員長、大石健一副委員長のもと、市民医療センターの再整備について担当課から説明を受け、質疑した。現地視察と提言取りまとめの進め方も議論した。",
+      url: "https://www.city.tokorozawa.saitama.jp/shigikai/tokubetuiinkaijyouhou/jyonininkai/yotoku_bunkakai/hokenniryou.files/20260630_hokeniryou.pdf",
+      sourceTitle: "所沢市議会 ６月30日保健医療特別委員会会議録 PDF１・20頁等",
+    },
+    {
+      date: "2026-09-08", stage: "市民の意見を聴く公聴会の請願を審査", actor: "所沢市議会 保健医療特別委員会",
+      detail: "請願第４号について紹介議員に質疑し、公聴会の必要性や既存の意見聴取の取組について賛否の討論を行った。",
+      url: "https://www.city.tokorozawa.saitama.jp/shigikai/tokubetuiinkaijyouhou/jyonininkai/yotoku_bunkakai/hokenniryou.files/20260908hokenniryou.pdf",
+      sourceTitle: "所沢市議会 ９月８日保健医療特別委員会会議録",
+    },
+    {
+      date: "2026-09-14", stage: "本会議が公聴会を求める請願を不採択", actor: "所沢市議会",
+      detail: "公聴会の実施を求める請願第４号について、採択への起立が少数で不採択となった。議員ごとの賛否は市の原表に掲載されている。",
+      url: "https://ssp.kaigiroku.net/tenant/tokorozawa/SpMinuteView.html?tenant_id=213&council_id=191&schedule_id=4",
+      sourceTitle: "所沢市議会 ９月14日会議録169頁・採決", billNumber: "請願第4号",
+    },
+    {
+      date: "2026-11-10", stage: "自由討議を行い、提言の素案作成を正副委員長に一任", actor: "大久保竜一、所沢市議会 保健医療特別委員会",
+      detail: "大久保委員の申し入れで自由討議を行い、会派の意見をもとに協議した。委員会は正副委員長に提言の素案作成を一任した。",
+      url: "https://www.city.tokorozawa.saitama.jp/shigikai/tokubetuiinkaijyouhou/jyonininkai/yotoku_bunkakai/hokenniryou.files/20261110hokeniryou.pdf",
+      sourceTitle: "所沢市議会 11月10日保健医療特別委員会会議録 PDF２・19～20頁",
+    },
+  ],
+  note: "委員会の設置、調査、公聴会請願の採決、正副委員長に提言素案の作成を一任したことを確認しました。再整備の具体的な決定・実施は確認中です。",
+});
