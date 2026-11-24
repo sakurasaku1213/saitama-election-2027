@@ -676,7 +676,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 4",
             "blocks": [
               4
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "不登校の定義、人数、連絡方法を確認"
           }
         ],
         "outcomes": [
@@ -714,7 +716,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               6,
               8
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "長期休業明けに人気献立を出すよう提案"
           }
         ],
         "outcomes": [
@@ -753,7 +757,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               4,
               8
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "学びの多様化学校の市内開校を選択肢として提示"
           }
         ],
         "outcomes": [
@@ -792,7 +798,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               6,
               8
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "調査・課間共有・調整役の設置状況を確認"
           }
         ],
         "outcomes": [
@@ -830,7 +838,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 11",
             "blocks": [
               11
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "文化部の実証で生じた施設管理上の課題を確認"
           }
         ],
         "outcomes": [
@@ -868,7 +878,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               11,
               19
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "会費・交通費の支援の検討状況、送迎と調整費を質問"
           }
         ],
         "outcomes": [
@@ -907,7 +919,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               11,
               14
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "指導者の確保・資質担保と要支援生徒の受入れ方法を質問"
           }
         ],
         "outcomes": [
@@ -947,7 +961,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               11,
               14
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "活動実数と希望、地域移行後の選択肢を質問"
           }
         ],
         "outcomes": [
@@ -987,7 +1003,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               23,
               27
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "前回質問と新年度準備の答弁を踏まえ閉室延長の検討を追跡"
           }
         ],
         "outcomes": [
@@ -1026,7 +1044,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               23,
               27
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "前回質問後の朝の居場所の検討と実施課題を追跡"
           }
         ],
         "outcomes": [
@@ -1066,7 +1086,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               23,
               27
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "的場緑地の簡易ゴール設置と河川敷活用を提案"
           }
         ],
         "outcomes": [
@@ -1106,7 +1128,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               32,
               36
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "ここえどの既存事業の成果と受賞評価を確認"
           }
         ],
         "outcomes": [
@@ -1144,7 +1168,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 38",
             "blocks": [
               38
-            ]
+            ],
+            "intent": "general",
+            "intentReason": "受賞経験を職員育成に生かす考えを質問"
           }
         ],
         "outcomes": [
@@ -1181,7 +1207,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 47",
             "blocks": [
               47
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "既出基金の実現可否と議案への賛否の関係を確認"
           },
           {
             "sourceId": "r08-0612_006",
@@ -1197,7 +1225,9 @@ GIKAI.councilPolicyReviews = [
               68,
               73,
               76
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "不用額活用を示し山車修繕基金の設置を明示要求"
           }
         ],
         "outcomes": [
@@ -1265,7 +1295,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               44,
               47
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "後援会行事に市の受託・請負業者が参加したか確認"
           }
         ],
         "outcomes": [
@@ -1305,7 +1337,9 @@ GIKAI.councilPolicyReviews = [
               41,
               44,
               47
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "電話での賛同要請と政策実現の条件化の有無を確認"
           }
         ],
         "outcomes": [
@@ -1345,7 +1379,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               41,
               44
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "選挙機材と用紙の台数・単価・調達・処分を確認"
           }
         ],
         "outcomes": [
@@ -1383,7 +1419,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 53",
             "blocks": [
               53
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "既存の健康ポイント事業の効果を質問"
           }
         ],
         "outcomes": [
@@ -1420,7 +1458,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 53",
             "blocks": [
               53
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "既存の教室で運動・食習慣が定着したかを質問"
           }
         ],
         "outcomes": [
@@ -1457,7 +1497,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 57",
             "blocks": [
               57
-            ]
+            ],
+            "intent": "general",
+            "intentReason": "健康への関心が薄い層への対策方針を広く質問"
           }
         ],
         "outcomes": [
@@ -1495,7 +1537,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               53,
               55
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "低受診世代への現行対策と歯科保健の重点を質問"
           }
         ],
         "outcomes": [
@@ -1533,7 +1577,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 55",
             "blocks": [
               55
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "職域・食環境での連携と協力店制度の取組を確認"
           }
         ],
         "outcomes": [
@@ -1572,7 +1618,9 @@ GIKAI.councilPolicyReviews = [
               60,
               67,
               72
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "労働法講座の段階別・継続開催と配信を提案"
           }
         ],
         "outcomes": [
@@ -1613,7 +1661,9 @@ GIKAI.councilPolicyReviews = [
               60,
               67,
               72
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "社労士の出前授業を試行する案を提示"
           }
         ],
         "outcomes": [
@@ -1654,7 +1704,9 @@ GIKAI.councilPolicyReviews = [
               60,
               67,
               72
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "市民団体の枠を保ち無料専門相談の掲載を促すよう要求"
           }
         ],
         "outcomes": [
@@ -1695,7 +1747,9 @@ GIKAI.councilPolicyReviews = [
               60,
               67,
               72
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "労務審査への社労士活用と一部施設での試行を提案"
           }
         ],
         "outcomes": [
@@ -1735,7 +1789,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               78,
               81
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "給食の廃食油を航空燃料原料とし環境教育に生かす案"
           }
         ],
         "outcomes": [
@@ -1775,7 +1831,9 @@ GIKAI.councilPolicyReviews = [
               78,
               81,
               84
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "家庭廃食油の拠点回収と航空燃料向け連携を提案"
           }
         ],
         "outcomes": [
@@ -1814,7 +1872,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 78",
             "blocks": [
               78
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "家庭由来排出、ごみ量、資源化率と現行施策を確認"
           }
         ],
         "outcomes": [
@@ -1853,7 +1913,9 @@ GIKAI.councilPolicyReviews = [
               87,
               89,
               91
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "レスパイト事業の対象を18歳以上に広げるよう要求"
           }
         ],
         "outcomes": [
@@ -1894,7 +1956,9 @@ GIKAI.councilPolicyReviews = [
               4,
               9,
               12
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "公共施設の整備に男女のトイレ待ち時間平準化の視点を提案"
           }
         ],
         "outcomes": [
@@ -1936,7 +2000,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               4,
               12
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "防犯灯電気代補助拡大や分譲会社への働きかけを提示"
           }
         ],
         "outcomes": [
@@ -1975,7 +2041,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 9",
             "blocks": [
               9
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "市長公約の加入者特典カードへの実際の対応を確認"
           }
         ],
         "outcomes": [
@@ -2014,7 +2082,9 @@ GIKAI.councilPolicyReviews = [
               17,
               23,
               27
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "自治体間協定の効果とふるさと納税の実質収支を検証"
           }
         ],
         "outcomes": [
@@ -2055,7 +2125,9 @@ GIKAI.councilPolicyReviews = [
               17,
               23,
               27
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "企業立地に伴う道路改良で左折車線の研究を要望"
           }
         ],
         "outcomes": [
@@ -2095,7 +2167,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 17",
             "blocks": [
               17
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "連結債務・償還額・利息と生産年齢人口を確認"
           }
         ],
         "outcomes": [
@@ -2135,7 +2209,9 @@ GIKAI.councilPolicyReviews = [
               31,
               35,
               41
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "空き教室の施錠や密室での一対一指導禁止を提示"
           }
         ],
         "outcomes": [
@@ -2174,7 +2250,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 35",
             "blocks": [
               35
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "学校と避難所体育館への冷水器設置を提案"
           }
         ],
         "outcomes": [
@@ -2213,7 +2291,9 @@ GIKAI.councilPolicyReviews = [
               31,
               35,
               41
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "大学生の啓発参加と危険検知アプリの紹介を提案"
           }
         ],
         "outcomes": [
@@ -2254,7 +2334,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 31",
             "blocks": [
               31
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "順次進める特別教室の空調整備の到達率と完了予定を確認"
           }
         ],
         "outcomes": [
@@ -2291,7 +2373,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 44",
             "blocks": [
               44
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "過去の検討答弁後に決まった乗降場基準と周知を追跡"
           }
         ],
         "outcomes": [
@@ -2328,7 +2412,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 44",
             "blocks": [
               44
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "区域間乗継の実証後の調査・効果検証を確認"
           }
         ],
         "outcomes": [
@@ -2366,7 +2452,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               46,
               48
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "各地区の2台体制を提案し、終日と平日午前の費用を比較"
           }
         ],
         "outcomes": [
@@ -2406,7 +2494,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               52,
               54
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "商業施設・駅周辺での期日前投票所増設を提案"
           }
         ],
         "outcomes": [
@@ -2445,7 +2535,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               52,
               54
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "大学等との連携を強め、金額等を示す選挙啓発を提案"
           }
         ],
         "outcomes": [
@@ -2484,7 +2576,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               52,
               54
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "無効票内訳の説明付き公開と開票情報の発信を提案"
           }
         ],
         "outcomes": [
@@ -2522,7 +2616,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 65",
             "blocks": [
               65
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "森林環境譲与税を木製ベンチ設置に使う案を提示"
           }
         ],
         "outcomes": [
@@ -2560,7 +2656,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               57,
               65
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "民生委員の推薦数、欠員対応と改選時の負担軽減を確認"
           }
         ],
         "outcomes": [
@@ -2600,7 +2698,9 @@ GIKAI.councilPolicyReviews = [
               57,
               65,
               71
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "前回質問後の無電柱化計画の進捗を確認"
           }
         ],
         "outcomes": [
@@ -2640,7 +2740,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               57,
               65
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "環境推進員の選出方法、欠員対応と現行負担軽減を確認"
           }
         ],
         "outcomes": [
@@ -2680,7 +2782,9 @@ GIKAI.councilPolicyReviews = [
               57,
               65,
               71
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "加入率の推移、依頼事務への相談と既存軽減策を確認"
           }
         ],
         "outcomes": [
@@ -2720,7 +2824,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               75,
               78
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "児童生徒数と学校の個別支援・学びの場を確認"
           }
         ],
         "outcomes": [
@@ -2759,7 +2865,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               75,
               78
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "前回質問からの生活・家族・就労支援の進捗を確認"
           }
         ],
         "outcomes": [
@@ -2799,7 +2907,9 @@ GIKAI.councilPolicyReviews = [
               75,
               78,
               81
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "高次脳機能障害の専門相談員の窓口配置を提案"
           }
         ],
         "outcomes": [
@@ -2838,7 +2948,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 84",
             "blocks": [
               84
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "LINE通報の登録・件数、自治会要望と処理手順を確認"
           }
         ],
         "outcomes": [
@@ -2878,7 +2990,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 84",
             "blocks": [
               84
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "保護者の就労・ニーズ・健康と計画上の位置づけを確認"
           }
         ],
         "outcomes": [
@@ -2916,7 +3030,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 91",
             "blocks": [
               91
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "市道の自転車通行空間の整備状況を確認"
           }
         ],
         "outcomes": [
@@ -2953,7 +3069,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 91",
             "blocks": [
               91
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "老朽灯や標識の対応、商店街街路灯の補助制度を確認"
           }
         ],
         "outcomes": [
@@ -2992,7 +3110,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               84,
               91
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "道路・公園の維持方法と予算確保の考えを確認"
           }
         ],
         "outcomes": [
@@ -3043,7 +3163,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               4,
               11
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "子どもの意見聴取の現行手法を確認"
           }
         ],
         "outcomes": [
@@ -3081,7 +3203,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 4",
             "blocks": [
               4
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "両立支援と会計年度任用職員を含む職場の取組を確認"
           }
         ],
         "outcomes": [
@@ -3122,7 +3246,9 @@ GIKAI.councilPolicyReviews = [
               14,
               16,
               18
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "モデル路線やバリアフリーに即した街路樹管理見直しを提示"
           }
         ],
         "outcomes": [
@@ -3162,7 +3288,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               21,
               27
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "相談員増員・小学校への拡充と校内学習室の人材確保を要求"
           }
         ],
         "outcomes": [
@@ -3202,7 +3330,9 @@ GIKAI.councilPolicyReviews = [
               21,
               27,
               30
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "希望者が市内全域から転入できる不登校等特認校の指定を求めた"
           }
         ],
         "outcomes": [
@@ -3243,7 +3373,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               21,
               27
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "市場の業者・来場者調査、衛生対応、未利用地の活用を具体案として示した"
           }
         ],
         "outcomes": [
@@ -3282,7 +3414,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               38,
               42
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "女性相談の内容、健康施策、宣誓件数と利用者の要望を確認した"
           }
         ],
         "outcomes": [
@@ -3321,7 +3455,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               34,
               38
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "すぐーる導入後の効果と保護者の反応を問い、口座引落しの検討状況を確認した"
           }
         ],
         "outcomes": [
@@ -3361,7 +3497,9 @@ GIKAI.councilPolicyReviews = [
               34,
               38,
               42
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "修学旅行費の一部補助を具体的な負担軽減策として示した"
           }
         ],
         "outcomes": [
@@ -3404,7 +3542,9 @@ GIKAI.councilPolicyReviews = [
               34,
               38,
               42
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "計画の重点施策、女性登用率と育休取得率、自治体間の差を確認した"
           }
         ],
         "outcomes": [
@@ -3446,7 +3586,9 @@ GIKAI.councilPolicyReviews = [
               47,
               52,
               58
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "相談・家族会・民間団体の現状と国の手引の活用方法を尋ねた"
           },
           {
             "sourceId": "r08-0914_001",
@@ -3462,7 +3604,9 @@ GIKAI.councilPolicyReviews = [
               4,
               8,
               14
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "18歳以降の居場所として、自治体補助による生活介護事業所の受入時間延長を例示し実施を望んだ"
           }
         ],
         "outcomes": [
@@ -3532,7 +3676,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 52",
             "blocks": [
               52
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "学校のSOS教育の内容と子ども食堂の設置状況を尋ねた"
           }
         ],
         "outcomes": [
@@ -3571,7 +3717,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               47,
               52
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "青切符制度の資料を公民館等で配布し、シェア自転車利用者にも周知するよう求めた"
           }
         ],
         "outcomes": [
@@ -3611,7 +3759,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               47,
               52
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "既存の自転車通行空間の整備状況と、整備中の２路線を踏まえた今後を点検した"
           }
         ],
         "outcomes": [
@@ -3649,7 +3799,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 61",
             "blocks": [
               61
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "物価・収入水準の変動に対応する低所得ひとり親向け施策を尋ねた"
           }
         ],
         "outcomes": [
@@ -3687,7 +3839,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               61,
               69
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "生活保護の推移、給付実績、若年申請者と就労支援の状況を確認した"
           }
         ],
         "outcomes": [
@@ -3727,7 +3881,9 @@ GIKAI.councilPolicyReviews = [
               61,
               69,
               74
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "雨水浸透ますへの補助を積極化し、田んぼダムの事例を広げて啓発するよう求めた"
           }
         ],
         "outcomes": [
@@ -3767,7 +3923,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               61,
               69
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "年代別の所得・雇用統計と税制改正による市民税への影響を確認した"
           }
         ],
         "outcomes": [
@@ -3808,7 +3966,9 @@ GIKAI.councilPolicyReviews = [
               76,
               79,
               82
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "既存の保健班配置が適切か、公民館追加時の負担や医療連携を点検した"
           }
         ],
         "outcomes": [
@@ -3850,7 +4010,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 76",
             "blocks": [
               76
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "ICTで避難所の混雑状況を可視化する案を示した"
           }
         ],
         "outcomes": [
@@ -3888,7 +4050,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               4,
               7
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "更新方針を示せた施設数と、以前の答弁後のBIツールの活用状況を点検した"
           }
         ],
         "outcomes": [
@@ -3927,7 +4091,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               4,
               7
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "学校配置の審議会答申を踏まえ、古谷地区の個別検討と更新が間に合うか点検した"
           }
         ],
         "outcomes": [
@@ -3966,7 +4132,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 4",
             "blocks": [
               4
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "学校水泳に市外民間・市営プールを活用し、学校間で共用する案を示した"
           }
         ],
         "outcomes": [
@@ -4005,7 +4173,9 @@ GIKAI.councilPolicyReviews = [
               13,
               15,
               19
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "地域猫手術補助の協力病院を県内に広げるよう求めた"
           }
         ],
         "outcomes": [
@@ -4046,7 +4216,9 @@ GIKAI.councilPolicyReviews = [
               13,
               15,
               19
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "地域猫手術補助の申請手続を簡略化するよう求めた"
           }
         ],
         "outcomes": [
@@ -4087,7 +4259,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               22,
               36
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "市長の責務への見解に加え、応援演説の発言が誰・何を指したか確認した"
           }
         ],
         "outcomes": [
@@ -4126,7 +4300,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               22,
               31
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "市長の自治会加入の有無と時期を確認した"
           }
         ],
         "outcomes": [
@@ -4165,7 +4341,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               22,
               31
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "各部局の要求のうち未計上となった事業名と今後の扱いを尋ねた"
           }
         ],
         "outcomes": [
@@ -4208,7 +4386,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               31,
               36
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "採決前に市長が電話をかけた目的、相手の選定基準、相談の有無を確認した"
           }
         ],
         "outcomes": [
@@ -4247,7 +4427,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 40",
             "blocks": [
               40
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "継続して取り上げた荒川のかさ上げについて、国への要望と次年度の工事工程を点検した"
           }
         ],
         "outcomes": [
@@ -4284,7 +4466,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 44",
             "blocks": [
               44
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "想定する破堤時の災害廃棄物の発生量と処理体制を尋ねた"
           },
           {
             "sourceId": "r08-0914_005",
@@ -4299,7 +4483,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               65,
               70
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "先の答弁で不足していた仮置場について、候補地の容量と必要面積を照合した"
           }
         ],
         "outcomes": [
@@ -4365,7 +4551,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 44",
             "blocks": [
               44
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "破堤時に必要な仮設住宅の推計数と用地確保の備えを尋ねた"
           }
         ],
         "outcomes": [
@@ -4402,7 +4590,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 44",
             "blocks": [
               44
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "既存の地震編の業務継続計画を踏まえ、水害への備えが整っているか点検した"
           }
         ],
         "outcomes": [
@@ -4441,7 +4631,9 @@ GIKAI.councilPolicyReviews = [
               40,
               44,
               60
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "破堤時の想定浸水人口、避難所規模、施設別被害と復旧対応を尋ねた"
           }
         ],
         "outcomes": [
@@ -4489,7 +4681,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               40,
               44
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "行政機構の見直し手続、人事課分離の理由、職員課の時間外勤務の背景を確認した"
           }
         ],
         "outcomes": [
@@ -4529,7 +4723,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               63,
               68
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "森林公園計画地の落ち葉を堆肥化し、地元農家に無償提供する連携案を示した"
           }
         ],
         "outcomes": [
@@ -4568,7 +4764,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 63",
             "blocks": [
               63
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "以前に取り上げた市道0058号の歩道整備と、福原の通学路の対応状況を追った"
           },
           {
             "sourceId": "r08-0612_001",
@@ -4582,7 +4780,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 4",
             "blocks": [
               4
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "福原地区の通学路に関する道路整備の要望件数を確認した"
           }
         ],
         "outcomes": [
@@ -4632,7 +4832,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               66,
               68
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "農業経営体数、遊休農地、既存支援、堆肥農法の実践者や協議会活動を確認した"
           }
         ],
         "outcomes": [
@@ -4671,7 +4873,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               76,
               78
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "旧プール敷地の駐車場等への暫定活用と、球場の多目的開放を提案した"
           }
         ],
         "outcomes": [
@@ -4710,7 +4914,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               74,
               76
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "球場設備の改修財源にクラウドファンディングを使う案を示した"
           }
         ],
         "outcomes": [
@@ -4749,7 +4955,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               81,
               86
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "いのちの教育の内容と、児童生徒の相談・早期発見への取組を尋ねた"
           }
         ],
         "outcomes": [
@@ -4790,7 +4998,9 @@ GIKAI.councilPolicyReviews = [
               81,
               84,
               86
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "自殺者数の推移、保健所の相談体制、研修対象と周知の取組を確認した"
           }
         ],
         "outcomes": [
@@ -4830,7 +5040,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               92,
               98
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "以前から取り上げた大田街道の冠水対策がどこまで進んだかを尋ねた"
           },
           {
             "sourceId": "r08-0911_002",
@@ -4846,7 +5058,9 @@ GIKAI.councilPolicyReviews = [
               10,
               13,
               16
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "試掘結果を受け、排水溝の拡幅・改修による排水能力向上工事の早期実施を求めた"
           }
         ],
         "outcomes": [
@@ -4915,7 +5129,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               92,
               98
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "久保川の既存改修を受け、その先の改修計画と台風期までの対応を追った"
           },
           {
             "sourceId": "r08-0911_002",
@@ -4930,7 +5146,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               10,
               16
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "国・県の補助制度や交付金を活用して久保川整備を前倒しするよう求めた"
           }
         ],
         "outcomes": [
@@ -4981,7 +5199,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               92,
               102
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "商店街支援に加え、買い物不便地域への大型スーパー誘致を具体案として示した"
           }
         ],
         "outcomes": [
@@ -5020,7 +5240,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 92",
             "blocks": [
               92
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "火災後の営業への影響と復旧状況を尋ね、早期復旧と再発防止を要望した"
           }
         ],
         "outcomes": [
@@ -5058,7 +5280,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               92,
               98
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "南大塚交差点に自転車横断帯を再設置し、横断歩道も検討するよう求めた"
           }
         ],
         "outcomes": [
@@ -5095,7 +5319,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 98",
             "blocks": [
               98
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "増形産業団地の企業送迎バスの乗降場所を南大塚駅北口にする案を示した"
           }
         ],
         "outcomes": [
@@ -5134,7 +5360,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               92,
               98
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "市道0067号と0070号の既存の拡幅計画がどこまで進んだか点検した"
           }
         ],
         "outcomes": [
@@ -5171,7 +5399,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 92",
             "blocks": [
               92
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "安比奈線廃線敷の譲渡・利活用に向けた西武鉄道との継続協議の進捗を追った"
           }
         ],
         "outcomes": [
@@ -5208,7 +5438,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 98",
             "blocks": [
               98
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "前年の自治会要望だった公園新設と屋根付きベンチ整備の進捗を追った"
           }
         ],
         "outcomes": [
@@ -5245,7 +5477,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 102",
             "blocks": [
               102
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "都市計画道路外環状線の既定計画が事業化に向けて進んだか確認した"
           }
         ],
         "outcomes": [
@@ -5285,7 +5519,9 @@ GIKAI.councilPolicyReviews = [
               7,
               9,
               13
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "是正が進まない場合の使用停止、規制条例の制定・改正等を検討案として示した"
           }
         ],
         "outcomes": [
@@ -5328,7 +5564,9 @@ GIKAI.councilPolicyReviews = [
               16,
               18,
               20
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "開業後の利用を点検した上で、拠点の体験農園の一部を花畑に活用する案を示した"
           }
         ],
         "outcomes": [
@@ -5368,7 +5606,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               24,
               30
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "本川越駅前広場を祭りの時期に暫定利用する案を示した"
           }
         ],
         "outcomes": [
@@ -5408,7 +5648,9 @@ GIKAI.councilPolicyReviews = [
               24,
               30,
               34
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "寺での座禅・宿泊や早朝散策を結ぶ滞在型の観光案を示した"
           }
         ],
         "outcomes": [
@@ -5449,7 +5691,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               24,
               30
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "川越シャトルにバスの現在位置を提供するシステムを導入できないか求めた"
           }
         ],
         "outcomes": [
@@ -5492,7 +5736,9 @@ GIKAI.councilPolicyReviews = [
               37,
               39,
               41
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "土日・長期休業中など部活動だけの日に自転車通学を限定許可する案を示した"
           }
         ],
         "outcomes": [
@@ -5533,7 +5779,9 @@ GIKAI.councilPolicyReviews = [
               46,
               55,
               61
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "複数回送信された避難情報を一度にまとめる選択肢を示し、今後の送信方法の検討を求めた"
           }
         ],
         "outcomes": [
@@ -5577,7 +5825,9 @@ GIKAI.councilPolicyReviews = [
               46,
               55,
               61
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "庁舎の広い会議室の昼食利用と、ロビーへの無人店舗の設置を求めた"
           }
         ],
         "outcomes": [
@@ -5616,7 +5866,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               46,
               61
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "農業用水利施設の修繕への無利子貸付、補助率引上げ、災害時の農業補償を提案した"
           }
         ],
         "outcomes": [
@@ -5657,7 +5909,9 @@ GIKAI.councilPolicyReviews = [
               46,
               55,
               61
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "不登校対策として医師会等と連携し、保護者に食と心の関係や栄養を啓発する案を示した"
           }
         ],
         "outcomes": [
@@ -5701,7 +5955,9 @@ GIKAI.councilPolicyReviews = [
               67,
               77,
               83
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "地域サークル情報の検索を一元化し、公民館に共同利用できる備品を置く案を示した"
           }
         ],
         "outcomes": [
@@ -5747,7 +6003,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               70,
               77
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "正式な送迎車乗降場の確保と歩行者対策の並行実施、立体道路制度の活用を求めた"
           }
         ],
         "outcomes": [
@@ -5788,7 +6046,9 @@ GIKAI.councilPolicyReviews = [
               86,
               92,
               95
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "飛来前のケヤキ剪定と近隣自治体との誘導区域整備を検討するよう問うた"
           }
         ],
         "outcomes": [
@@ -5830,7 +6090,9 @@ GIKAI.councilPolicyReviews = [
               86,
               92,
               95
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "稼働率、若者の利用、専門人材や既存支援を確認。他市の事例は紹介にとどまる"
           }
         ],
         "outcomes": [
@@ -5870,7 +6132,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               99,
               103
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "過去の質問・答弁以降の専門点検と挟まれ防止器具の整備を追った"
           }
         ],
         "outcomes": [
@@ -5910,7 +6174,9 @@ GIKAI.councilPolicyReviews = [
               99,
               103,
               107
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "公共空間での直売イベントと、資材費・出荷価格安定策の国への要望を求めた"
           }
         ],
         "outcomes": [
@@ -5951,7 +6217,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               99,
               103
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "通級の利用者数、教員配置、空調設備、現場の要望を確認した"
           }
         ],
         "outcomes": [
@@ -5991,7 +6259,9 @@ GIKAI.councilPolicyReviews = [
               4,
               13,
               21
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "家計・事業者向けの既存支援、周知方法、給食への影響と対応を確認した"
           }
         ],
         "outcomes": [
@@ -6037,7 +6307,9 @@ GIKAI.councilPolicyReviews = [
               4,
               13,
               21
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "公共工事で適正な工期設定、円滑な支払、柔軟な契約変更を求めた"
           }
         ],
         "outcomes": [
@@ -6084,7 +6356,9 @@ GIKAI.councilPolicyReviews = [
               25,
               29,
               31
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "職場定着、退職時の相談、再就労、法的支援の実態と仕組みを確認した"
           }
         ],
         "outcomes": [
@@ -6124,7 +6398,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               34,
               39
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "AEDの設置・使用実態と利用しやすい環境づくりの取組を確認した"
           }
         ],
         "outcomes": [
@@ -6164,7 +6440,9 @@ GIKAI.councilPolicyReviews = [
               34,
               39,
               44
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "一度入力した申請情報の庁内連携と、書かない窓口への改革を求めた"
           }
         ],
         "outcomes": [
@@ -6206,7 +6484,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               34,
               39
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "通信、避難所の衛生、備蓄、音声案内の現況と市の課題認識を確認した"
           }
         ],
         "outcomes": [
@@ -6246,7 +6526,9 @@ GIKAI.councilPolicyReviews = [
               48,
               52,
               56
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "ごみ集積所のクリーンボックス設置費への補助を提起した"
           }
         ],
         "outcomes": [
@@ -6286,7 +6568,9 @@ GIKAI.councilPolicyReviews = [
               48,
               52,
               56
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "自治会加入促進と活動推進のための条例制定を求めた"
           }
         ],
         "outcomes": [
@@ -6329,7 +6613,9 @@ GIKAI.councilPolicyReviews = [
               59,
               64,
               67
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "観光関係団体の一体化と、観光税・宿泊税等の導入を選択肢に示した"
           }
         ],
         "outcomes": [
@@ -6371,7 +6657,9 @@ GIKAI.councilPolicyReviews = [
               59,
               64,
               67
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "越境樹木への独自の条例・指針や暫定的な対応基準の整備を求めた"
           }
         ],
         "outcomes": [
@@ -6412,7 +6700,9 @@ GIKAI.councilPolicyReviews = [
               71,
               75,
               81
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "高齢化率、各種フレイル予防、通いの場の未参加者への支援を確認した"
           }
         ],
         "outcomes": [
@@ -6454,7 +6744,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               71,
               75
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "高齢者が継続して交流できるｅスポーツ教室の設置を提起した"
           }
         ],
         "outcomes": [
@@ -6494,7 +6786,9 @@ GIKAI.councilPolicyReviews = [
               84,
               87,
               91
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "ナラ枯れ防除補助の補助率と上限額の引上げを検討するよう問うた"
           }
         ],
         "outcomes": [
@@ -6536,7 +6830,9 @@ GIKAI.councilPolicyReviews = [
               84,
               87,
               91
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "市によるエンディングノートの配布を具体的に問うた"
           }
         ],
         "outcomes": [
@@ -6575,7 +6871,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 105",
             "blocks": [
               105
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "データセンターの施設見学を学校教育に取り入れるよう提案した"
           }
         ],
         "outcomes": [
@@ -6612,7 +6910,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 95",
             "blocks": [
               95
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "誘致方針、誘致した場合の経済・雇用・税収効果と県内立地を確認した"
           }
         ],
         "outcomes": [
@@ -6649,7 +6949,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 95",
             "blocks": [
               95
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "市立小中学校ですでに行われている温暖化対策の授業を確認した"
           }
         ],
         "outcomes": [
@@ -6687,7 +6989,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               95,
               100
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "住民対話や周辺環境を踏まえる市独自の立地ルールづくりを提起した"
           }
         ],
         "outcomes": [
@@ -6730,7 +7034,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               4,
               9
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "下赤坂の建築物に対し行政代執行を選択肢とした場合の市の考えを問うた"
           }
         ],
         "outcomes": [
@@ -6770,7 +7076,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               4,
               9
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "第二次健康かわごえ推進プランの達成状況と課題を問うた"
           }
         ],
         "outcomes": [
@@ -6808,7 +7116,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 4",
             "blocks": [
               4
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "福原小のバス通学者数と通学費補助の条件を確認した"
           }
         ],
         "outcomes": [
@@ -6846,7 +7156,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               14,
               23
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "令和6年3月に取り上げた牛乳選択制のその後の検討状況を追った"
           }
         ],
         "outcomes": [
@@ -6885,7 +7197,9 @@ GIKAI.councilPolicyReviews = [
               14,
               23,
               28
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "PTA活動見直し後に家庭教育学級等が行われているか、従前の答弁と照合した"
           }
         ],
         "outcomes": [
@@ -6925,7 +7239,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               14,
               23
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "避難所などの開設時に要配慮者用スペースの有無を発信するよう求めた"
           }
         ],
         "outcomes": [
@@ -6966,7 +7282,9 @@ GIKAI.councilPolicyReviews = [
               35,
               38,
               42
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "斎場の運営費、使用料の算定根拠、費用負担の考えを確認した"
           }
         ],
         "outcomes": [
@@ -7006,7 +7324,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 38",
             "blocks": [
               38
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "目撃職員の相談窓口・受付件数と秘密保持、不利益防止の仕組みを確認した"
           }
         ],
         "outcomes": [
@@ -7045,7 +7365,9 @@ GIKAI.councilPolicyReviews = [
               45,
               51,
               55
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "子供の自殺対策に既存の川越市自殺対策連絡会議を活用するよう提案した"
           }
         ],
         "outcomes": [
@@ -7083,7 +7405,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 45",
             "blocks": [
               45
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "県立高校の公費化を例に、市立高校の現状と今後の費用負担を確認した"
           }
         ],
         "outcomes": [
@@ -7121,7 +7445,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               45,
               51
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "農地の地域計画を運用する際に、書面に加え直接対話の機会を求めた"
           }
         ],
         "outcomes": [
@@ -7160,7 +7486,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               58,
               60
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "ごみ集積所を巡る住民間の問題に市が対応指針を示す必要性を提起した"
           }
         ],
         "outcomes": [
@@ -7198,7 +7526,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 65",
             "blocks": [
               65
-            ]
+            ],
+            "intent": "general",
+            "intentReason": "廃棄物政策全体の方向性と何を優先するかについて見解を尋ねた"
           }
         ],
         "outcomes": [
@@ -7236,7 +7566,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               60,
               63
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "集団回収の報償金を資源物の市場価格に応じて見直せないか問うた"
           }
         ],
         "outcomes": [
@@ -7273,7 +7605,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 68",
             "blocks": [
               68
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "文化審議会の答申後の指定時期と、観光客増加への市の対応を確認した"
           }
         ],
         "outcomes": [
@@ -7313,7 +7647,9 @@ GIKAI.councilPolicyReviews = [
               68,
               73,
               76
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "施工不具合の業者に入札制限や入札停止を科すよう提起した"
           }
         ],
         "outcomes": [
@@ -7352,7 +7688,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 76",
             "blocks": [
               76
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "観光客のごみを持ち帰り推奨から政策転換したのか、方針の事実確認をした"
           }
         ],
         "outcomes": [
@@ -7389,7 +7727,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 81",
             "blocks": [
               81
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "生徒数の変化・見込みと審議会答申にある小中一体化の意味や方向を確認した"
           },
           {
             "sourceId": "r08-0615_001",
@@ -7404,7 +7744,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               4,
               8
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "東中学校の移転建て替えを具体的に検討し、策定中の基本方針に反映するよう求めた"
           }
         ],
         "outcomes": [
@@ -7456,7 +7798,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 11",
             "blocks": [
               11
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "台風6号に際し、川崎調整池のポンプや排水ポンプ車が実際に稼働したか確かめた"
           }
         ],
         "outcomes": [
@@ -7495,7 +7839,9 @@ GIKAI.councilPolicyReviews = [
               11,
               16,
               22
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "特殊詐欺の件数・手口と警察や地域団体との連携実態を確認した"
           }
         ],
         "outcomes": [
@@ -7535,7 +7881,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               16,
               22
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "補聴器購入費補助を増額する考えがないか具体的に問うた"
           }
         ],
         "outcomes": [
@@ -7574,7 +7922,9 @@ GIKAI.councilPolicyReviews = [
               27,
               30,
               35
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "旧市民会館跡地の利用を検討する市民参加の協議会設置を提案した"
           }
         ],
         "outcomes": [
@@ -7615,7 +7965,9 @@ GIKAI.councilPolicyReviews = [
               27,
               30,
               35
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "追加給付の対象や額を示す紙の案内を市で作り窓口に置くよう提案した"
           }
         ],
         "outcomes": [
@@ -7656,7 +8008,9 @@ GIKAI.councilPolicyReviews = [
               39,
               47,
               51
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "借換え、無担保融資、交付金による事業者支援を求めた"
           }
         ],
         "outcomes": [
@@ -7696,7 +8050,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               39,
               51
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "公共施設の女子トイレに生理用品を無償設置するよう求めた"
           }
         ],
         "outcomes": [
@@ -7735,7 +8091,9 @@ GIKAI.councilPolicyReviews = [
               55,
               57,
               59
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "市がスポットワークを対象に積極的な実態調査を行うよう求めた"
           }
         ],
         "outcomes": [
@@ -7775,7 +8133,9 @@ GIKAI.councilPolicyReviews = [
               55,
               57,
               59
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "人・農地プランから地域計画への進捗と補助事業、稲作承継を確認した"
           }
         ],
         "outcomes": [
@@ -7815,7 +8175,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               63,
               70
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "企業需要を研修に反映し、再就職や起業の再挑戦を伴走支援するよう求めた"
           }
         ],
         "outcomes": [
@@ -7854,7 +8216,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               63,
               70
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "教員研修と、外部人材をキャリア教育に継続活用する仕組みを求めた"
           }
         ],
         "outcomes": [
@@ -7894,7 +8258,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               75,
               77
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "三芳野神社の修理内容、史跡規制、保存措置の実態を確認した"
           }
         ],
         "outcomes": [
@@ -7932,7 +8298,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 79",
             "blocks": [
               79
-            ]
+            ],
+            "intent": "general",
+            "intentReason": "歴史的建造物の観光PRと、歴史の価値の継承について見解を尋ねた"
           }
         ],
         "outcomes": [
@@ -7971,7 +8339,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               7,
               9
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "初雁球場の管理状況と過去5年間の修繕実績、今後の改修予定を点検した"
           }
         ],
         "outcomes": [
@@ -8011,7 +8381,9 @@ GIKAI.councilPolicyReviews = [
               7,
               9,
               11
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "初雁球場の修繕資金にクラウドファンディングを使う案を示した"
           }
         ],
         "outcomes": [
@@ -8050,7 +8422,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               9,
               11
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "現球場の修繕を先送りせず、野球を所管する部局との連携を強めるよう求めた"
           }
         ],
         "outcomes": [
@@ -8088,7 +8462,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 22",
             "blocks": [
               22
-            ]
+            ],
+            "intent": "general",
+            "intentReason": "駅周辺ビジョンの策定後、住民参加をどう続けるかについて見解を尋ねた"
           }
         ],
         "outcomes": [
@@ -8126,7 +8502,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               14,
               19
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "外国籍市民の人口・在留資格・居住地区と相談内容を確認した"
           }
         ],
         "outcomes": [
@@ -8165,7 +8543,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               19,
               22
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "ごみ出しや交通ルールなどの生活講座と地域との交流機会の拡充を求めた"
           }
         ],
         "outcomes": [
@@ -8204,7 +8584,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               14,
               19
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "駅周辺ビジョンの策定経緯、住民意見、東西一体化の内容と課題を確認した"
           }
         ],
         "outcomes": [
@@ -8243,7 +8625,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               19,
               22
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "ボランティアによる既存教室に加え、市が主体となる日本語教育の拡充を求めた"
           }
         ],
         "outcomes": [
@@ -8282,7 +8666,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               30,
               35
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "教育委員会が夜9時まで・1日2時間以内等の目安を発信する案。"
           }
         ],
         "outcomes": [
@@ -8321,7 +8707,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 26",
             "blocks": [
               26
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "児童生徒の端末所持率・利用時間・監視実績を照会。"
           }
         ],
         "outcomes": [
@@ -8359,7 +8747,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               26,
               30
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "計画の進捗確認に加え、入間川湾曲部の樹木を市費で早期伐採する案。"
           }
         ],
         "outcomes": [
@@ -8397,7 +8787,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 26",
             "blocks": [
               26
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "令和元年台風後に早期避難のため実施した対応を照会。"
           }
         ],
         "outcomes": [
@@ -8434,7 +8826,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 35",
             "blocks": [
               35
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "川砂利等を民間に提供して河道掘削の協力を得る案。"
           }
         ],
         "outcomes": [
@@ -8473,7 +8867,9 @@ GIKAI.councilPolicyReviews = [
               40,
               46,
               51
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "被害実態、見分け方、防除方法、連絡窓口を照会。"
           }
         ],
         "outcomes": [
@@ -8513,7 +8909,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               40,
               46
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "避難情報の判断基準と冠水センサー等の活用予定を照会。"
           }
         ],
         "outcomes": [
@@ -8553,7 +8951,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 46",
             "blocks": [
               46
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "在宅避難者・車中泊避難者を把握する方法を照会。"
           }
         ],
         "outcomes": [
@@ -8590,7 +8990,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 40",
             "blocks": [
               40
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "地震の被害想定、耐震・停電対応、避難所の物資輸送を照会。"
           }
         ],
         "outcomes": [
@@ -8628,7 +9030,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 51",
             "blocks": [
               51
-            ]
+            ],
+            "intent": "general",
+            "intentReason": "頻発する災害への今後の対策を総括的に聞いた。"
           }
         ],
         "outcomes": [
@@ -8666,7 +9070,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               40,
               46
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "広域避難や民間施設との協定の現状、福祉避難所の運用を照会。"
           }
         ],
         "outcomes": [
@@ -8704,7 +9110,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 46",
             "blocks": [
               46
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "罹災証明をオンライン申請にする選択肢を示した。"
           }
         ],
         "outcomes": [
@@ -8742,7 +9150,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               56,
               62
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "会合の開催方法の変化と今後の対象を照会。"
           }
         ],
         "outcomes": [
@@ -8781,7 +9191,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               56,
               59
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "市長交代前後の人員、予算、意見受付・報告手順の変化を照会。"
           }
         ],
         "outcomes": [
@@ -8820,7 +9232,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               56,
               59
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "既提出の福原地区の修繕要望について対応済み・未対応を点検。"
           }
         ],
         "outcomes": [
@@ -8859,7 +9273,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               59,
               62
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "計画修繕の選定基準に加え、中期計画の策定と進捗を確認。"
           }
         ],
         "outcomes": [
@@ -8899,7 +9315,9 @@ GIKAI.councilPolicyReviews = [
               66,
               70,
               72
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "既存の子育て拠点の成果・評価と駅前立地の活用状況を点検。"
           }
         ],
         "outcomes": [
@@ -8940,7 +9358,9 @@ GIKAI.councilPolicyReviews = [
               66,
               70,
               72
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "育児孤立の把握方法、夜間に使える窓口、民間との連携状況を照会。"
           }
         ],
         "outcomes": [
@@ -8979,7 +9399,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 75",
             "blocks": [
               75
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "ペットと飼い主が同室で避難する運用案。"
           }
         ],
         "outcomes": [
@@ -9016,7 +9438,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 79",
             "blocks": [
               79
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "分散避難者の把握上の課題とプッシュ型支援の仕組みの有無を照会。"
           }
         ],
         "outcomes": [
@@ -9053,7 +9477,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 75",
             "blocks": [
               75
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "受援、補給、個別避難計画の作成状況と訓練の有無を照会。"
           }
         ],
         "outcomes": [
@@ -9091,7 +9517,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               75,
               79
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "避難所不足を補うため寺社・企業施設を避難場所等に使う案。"
           }
         ],
         "outcomes": [
@@ -9130,7 +9558,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               75,
               79
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "前回答弁を受け、市のBCP改定と訓練を行ったか追跡。"
           }
         ],
         "outcomes": [
@@ -9171,7 +9601,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               83,
               86
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "相談件数・内容と判断能力に不安がある人への対応を照会。"
           }
         ],
         "outcomes": [
@@ -9209,7 +9641,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 89",
             "blocks": [
               89
-            ]
+            ],
+            "intent": "general",
+            "intentReason": "高齢者の消費被害を防ぐ今後の取組を広く聞いた。"
           }
         ],
         "outcomes": [
@@ -9248,7 +9682,9 @@ GIKAI.councilPolicyReviews = [
               83,
               86,
               89
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "高齢者世帯向けの冷房購入・設置助成を再実施する案。"
           }
         ],
         "outcomes": [
@@ -9289,7 +9725,9 @@ GIKAI.councilPolicyReviews = [
               4,
               6,
               9
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "希望校でのフッ化物洗口の試行と専門職連携を提案。"
           }
         ],
         "outcomes": [
@@ -9329,7 +9767,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 9",
             "blocks": [
               9
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "必要性の高いモデル校でマイボトル用給水器を試す案。"
           }
         ],
         "outcomes": [
@@ -9369,7 +9809,9 @@ GIKAI.councilPolicyReviews = [
               4,
               6,
               9
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "下校前の給水・冷却時間の確保などを提案。"
           }
         ],
         "outcomes": [
@@ -9411,7 +9853,9 @@ GIKAI.councilPolicyReviews = [
               4,
               6,
               9
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "検査体制を点検し、必要な測定機器の更新・整備を求めた。"
           }
         ],
         "outcomes": [
@@ -9452,7 +9896,9 @@ GIKAI.councilPolicyReviews = [
               13,
               19,
               24
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "タクシー待ちに使うベンチの配置や数を見直す案。"
           }
         ],
         "outcomes": [
@@ -9493,7 +9939,9 @@ GIKAI.councilPolicyReviews = [
               13,
               19,
               24
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "地下道に非常灯・非常用電源や蓄光製品を使う案。"
           }
         ],
         "outcomes": [
@@ -9534,7 +9982,9 @@ GIKAI.councilPolicyReviews = [
               13,
               19,
               24
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "踏切付近だけでなく市道0043号線を路線単位で検討する案。"
           }
         ],
         "outcomes": [
@@ -9573,7 +10023,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 19",
             "blocks": [
               19
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "台風・集中豪雨時に市が用いる避難の周知方法を照会。"
           }
         ],
         "outcomes": [
@@ -9611,7 +10063,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               13,
               19
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "施設機能、短時間駐車場の想定利用者、維持管理方針を照会。"
           }
         ],
         "outcomes": [
@@ -9649,7 +10103,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 28",
             "blocks": [
               28
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "短時間就労で低収入の若者が利用できる既存の制度を照会。"
           }
         ],
         "outcomes": [
@@ -9686,7 +10142,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 28",
             "blocks": [
               28
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "在宅就労向けの技能支援や学校での職業学習の有無を照会。"
           }
         ],
         "outcomes": [
@@ -9725,7 +10183,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               28,
               33
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "短時間就労者や孤立の把握方法と既存の相談体制を照会。"
           }
         ],
         "outcomes": [
@@ -9765,7 +10225,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               33,
               36
-            ]
+            ],
+            "intent": "general",
+            "intentReason": "就労・生活・社会参加の支援を切れ目なく進めるよう求めた。"
           }
         ],
         "outcomes": [
@@ -9803,7 +10265,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 47",
             "blocks": [
               47
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "所得要件で手当の対象外となる世帯と学習以外の進学支援を照会。"
           }
         ],
         "outcomes": [
@@ -9840,7 +10304,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 51",
             "blocks": [
               51
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "開発事業者にクリーンエネルギーの利用等を求める案。"
           }
         ],
         "outcomes": [
@@ -9877,7 +10343,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 39",
             "blocks": [
               39
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "計画施設の面積・電力・排水・燃料と審査担当を照会。"
           }
         ],
         "outcomes": [
@@ -9915,7 +10383,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 39",
             "blocks": [
               39
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "市税収入をどう見込むかと行政サービス見直し方針を照会。"
           }
         ],
         "outcomes": [
@@ -9953,7 +10423,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 39",
             "blocks": [
               39
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "相談件数と生活保護・就学援助等の推移を照会。"
           }
         ],
         "outcomes": [
@@ -9992,7 +10464,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 51",
             "blocks": [
               51
-            ]
+            ],
+            "intent": "general",
+            "intentReason": "全体支援とひとり親などへの個別支援の配分方針を聞いた。"
           }
         ],
         "outcomes": [
@@ -10029,7 +10503,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 47",
             "blocks": [
               47
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "日野市を例に、市の環境審議会で事業を扱う選択肢を示した。"
           }
         ],
         "outcomes": [
@@ -10068,7 +10544,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               55,
               61
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "実施率や報奨金を確認し、収支報告の提出を提案。"
           }
         ],
         "outcomes": [
@@ -10108,7 +10586,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 61",
             "blocks": [
               61
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "ラジオ体操への体育指導員・スポーツ推進委員の参加を提案。"
           }
         ],
         "outcomes": [
@@ -10146,7 +10626,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               55,
               61
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "市長の選挙支援方針に加え、推薦・写真使用等の依頼の有無を照会。"
           }
         ],
         "outcomes": [
@@ -10186,7 +10668,9 @@ GIKAI.councilPolicyReviews = [
               65,
               68,
               73
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "予約システム導入後に利用しやすくなった点と課題を点検。"
           }
         ],
         "outcomes": [
@@ -10225,7 +10709,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 68",
             "blocks": [
               68
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "少年団の優先枠、専用グラウンド、人工芝・照明を提案。"
           }
         ],
         "outcomes": [
@@ -10262,7 +10748,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 65",
             "blocks": [
               65
-            ]
+            ],
+            "intent": "general",
+            "intentReason": "河川敷グラウンドの砂ぼこりに対し改善の考えを聞いた。"
           }
         ],
         "outcomes": [
@@ -10301,7 +10789,9 @@ GIKAI.councilPolicyReviews = [
               76,
               80,
               85
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "企業登録制度で取組内容に応じてランクを分ける案。"
           }
         ],
         "outcomes": [
@@ -10343,7 +10833,9 @@ GIKAI.councilPolicyReviews = [
               76,
               80,
               85
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "女性防災士の意見を避難所運営に取り入れる案。"
           }
         ],
         "outcomes": [
@@ -10384,7 +10876,9 @@ GIKAI.councilPolicyReviews = [
               76,
               80,
               85
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "育休時の処遇・取得率と女性管理職比率・目標値を照会。"
           }
         ],
         "outcomes": [
@@ -10423,7 +10917,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 94",
             "blocks": [
               94
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "道路や通学路沿い等を条件に危険木の剪定・伐採を助成する案。"
           }
         ],
         "outcomes": [
@@ -10461,7 +10957,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               90,
               94
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "全校の受水槽に非常用給水栓を設ける案。"
           }
         ],
         "outcomes": [
@@ -10511,7 +11009,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               90,
               94
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "通学路等を優先して民地の危険木を把握する仕組みを提案。"
           },
           {
             "sourceId": "r08-0911_001",
@@ -10525,7 +11025,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 7",
             "blocks": [
               7
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "民地の危険木に関する市独自ガイドライン・条例を提案。"
           }
         ],
         "outcomes": [
@@ -10576,7 +11078,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               90,
               94
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "個人と市内事業者の井戸を対象に協力井戸の登録拡充を提案。"
           }
         ],
         "outcomes": [
@@ -10625,7 +11129,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 10",
             "blocks": [
               10
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "久保川の監視地点を追加し、住民が確認しやすい情報提供を求めた。"
           }
         ],
         "outcomes": [
@@ -10664,7 +11170,9 @@ GIKAI.councilPolicyReviews = [
               10,
               13,
               16
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "農業用の防犯機器補助、メール等での速報、収穫期の見守りを提案。"
           }
         ],
         "outcomes": [
@@ -10703,7 +11211,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               19,
               27
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "公務中の発症件数・経緯、義務化後の対応、工事発注条件を照会。"
           }
         ],
         "outcomes": [
@@ -10742,7 +11252,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               19,
               27
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "日傘・保冷用品の導入案と、低学年児童の単独下校の把握を提案。"
           }
         ],
         "outcomes": [
@@ -10781,7 +11293,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               19,
               27
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "既設のひと涼み処について、利用実態・利用者の声・運用課題を検証"
           }
         ],
         "outcomes": [
@@ -10820,7 +11334,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               19,
               27
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "市が暑さ指数を独自に測定・公表する案を示し、導入費も確認"
           }
         ],
         "outcomes": [
@@ -10858,7 +11374,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 19",
             "blocks": [
               19
-            ]
+            ],
+            "intent": "general",
+            "intentReason": "地球温暖化への市の政策全般を尋ねた"
           }
         ],
         "outcomes": [
@@ -10896,7 +11414,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               19,
               27
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "苗木配布後の状況と、第三次実行計画に掲げた水・緑の施策の検討進捗を確認"
           }
         ],
         "outcomes": [
@@ -10935,7 +11455,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               19,
               31
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "道路の街路樹で暑熱対策となる日陰をつくる案を示した"
           }
         ],
         "outcomes": [
@@ -10974,7 +11496,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               37,
               42
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "公民連携を担う専門部署と民間事業者との対話の場の設置を提案"
           }
         ],
         "outcomes": [
@@ -11014,7 +11538,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               34,
               37
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "既存の民間提案募集について、採否の実績・理由と制度運用上の課題を検証"
           }
         ],
         "outcomes": [
@@ -11053,7 +11579,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               34,
               37
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "立候補届出時の確認範囲、相談・補正手続、住所に関する申出の扱いを確認"
           }
         ],
         "outcomes": [
@@ -11092,7 +11620,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               46,
               51
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "既存の広域協議会の事業実績と行政サービスへの効果を検証"
           }
         ],
         "outcomes": [
@@ -11130,7 +11660,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 48",
             "blocks": [
               48
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "自治体をまたぐ備蓄を選択肢に挙げ、国の物資調整・車両登録制度の活用を問うた"
           }
         ],
         "outcomes": [
@@ -11167,7 +11699,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 48",
             "blocks": [
               48
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "コミュニティーバスやデマンド交通を隣接自治体と相互運行する案を示した"
           }
         ],
         "outcomes": [
@@ -11205,7 +11739,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               58,
               61
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "事業者の把握状況、見込税収と設備更新による税収変動を確認"
           }
         ],
         "outcomes": [
@@ -11245,7 +11781,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               54,
               58
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "説明対象外だった自治会・住民にも土地利用転換を市が周知するよう求めた"
           }
         ],
         "outcomes": [
@@ -11284,7 +11822,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               54,
               58
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "土地利用転換の経緯、都市計画の手続、意見書の資格、準防火指定の理由を確認"
           }
         ],
         "outcomes": [
@@ -11322,7 +11862,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 65",
             "blocks": [
               65
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "土地利用転換の概要、県・隣接市との協議内容、農地や住環境への影響を確認"
           }
         ],
         "outcomes": [
@@ -11359,7 +11901,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 68",
             "blocks": [
               68
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "土地利用転換と併せ、3市を結ぶ都市計画道路の整備を促進するよう求めた"
           }
         ],
         "outcomes": [
@@ -11396,7 +11940,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 65",
             "blocks": [
               65
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "物流・生活道路の分離を含む交通対策を企業立地前の段階から進める案を示した"
           }
         ],
         "outcomes": [
@@ -11433,7 +11979,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 68",
             "blocks": [
               68
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "企業の先端性や地域雇用・取引への寄与を見て誘致先を選ぶ考えを示した"
           }
         ],
         "outcomes": [
@@ -11470,7 +12018,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 65",
             "blocks": [
               65
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "河川の付替え後に既存暗渠との接続部の流下能力を超えないか確認"
           }
         ],
         "outcomes": [
@@ -11509,7 +12059,9 @@ GIKAI.councilPolicyReviews = [
               73,
               75,
               77
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "全校の校則の把握と見直しの論点を示し、市独自のガイドライン策定を選択肢に挙げた"
           }
         ],
         "outcomes": [
@@ -11548,7 +12100,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 75",
             "blocks": [
               75
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "校則違反への対応、行き過ぎた指導があった場合の手順と事例を確認"
           }
         ],
         "outcomes": [
@@ -11586,7 +12140,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               80,
               90
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "個別避難計画の作成率の低さを示し、既存の作成促進策と進捗を確認"
           }
         ],
         "outcomes": [
@@ -11625,7 +12181,9 @@ GIKAI.councilPolicyReviews = [
               80,
               85,
               90
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "内水浸水のおそれがある地域などで、希望者に紙のハザードマップを提供する案を示した"
           }
         ],
         "outcomes": [
@@ -11666,7 +12224,9 @@ GIKAI.councilPolicyReviews = [
               80,
               85,
               90
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "冠水危険箇所の監視カメラ増設とLINE・カーナビ等への速報配信を提案"
           }
         ],
         "outcomes": [
@@ -11705,7 +12265,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               85,
               90
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "夏季の利用期間外でも、気温が高く危険な日は体育館の空調を利用できるよう求めた"
           }
         ],
         "outcomes": [
@@ -11744,7 +12306,9 @@ GIKAI.councilPolicyReviews = [
               80,
               85,
               90
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "体育館空調料の青少年団体向け減免、公費での補填、決済の簡素化を提案"
           }
         ],
         "outcomes": [
@@ -11784,7 +12348,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               85,
               90
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "聴覚障害者向けに文字表示機能付き防災ラジオを導入する案を示した"
           }
         ],
         "outcomes": [
@@ -11823,7 +12389,9 @@ GIKAI.councilPolicyReviews = [
               80,
               85,
               90
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "浸水深3m以上の地域で、民間建物を一時的な屋内避難場所に確保する案を示した"
           }
         ],
         "outcomes": [
@@ -11863,7 +12431,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               80,
               85
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "河川情報や民間の気象予測データを市が災害対応でどう使うか確認"
           }
         ],
         "outcomes": [
@@ -11901,7 +12471,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               80,
               85
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "旧噴水広場の再生や住宅の庭・雨水活用への助成を浸水対策として提案"
           }
         ],
         "outcomes": [
@@ -11939,7 +12511,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               8,
               14
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "かわまるの混雑時間帯の増便と障害者の運賃負担軽減を求めた"
           }
         ],
         "outcomes": [
@@ -11976,7 +12550,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 8",
             "blocks": [
               8
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "放課後等デイサービス事業所が現在の需要に足りているか確認"
           }
         ],
         "outcomes": [
@@ -12014,7 +12590,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               4,
               8
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "就労継続支援の指導監査で、本人の意向・尊厳への配慮と施設の課題を確認するよう求めた"
           }
         ],
         "outcomes": [
@@ -12052,7 +12630,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               4,
               8
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "デジタルギフトの事業検証を踏まえ、次回は窓口などの対面・アナログ手段も活用するよう提案"
           }
         ],
         "outcomes": [
@@ -12091,7 +12671,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               4,
               8
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "既存の地域移行支援を利用し、実際に地域生活へ移れた実績を検証"
           }
         ],
         "outcomes": [
@@ -12131,7 +12713,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               17,
               23
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "新しい公共施設予約システム導入後の効果と利用者の反応を検証"
           }
         ],
         "outcomes": [
@@ -12169,7 +12753,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 17",
             "blocks": [
               17
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "文化施設や公民館にある子供の勉強場所など、現行の利用場所を確認"
           }
         ],
         "outcomes": [
@@ -12208,7 +12794,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               17,
               23
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "対象発言では音響備品・什器の状態とLED等の設備更新予定を確認"
           }
         ],
         "outcomes": [
@@ -12248,7 +12836,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 23",
             "blocks": [
               23
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "利用者の要望を踏まえ、公民館にWi-Fiを導入する案を示した"
           }
         ],
         "outcomes": [
@@ -12287,7 +12877,9 @@ GIKAI.councilPolicyReviews = [
               17,
               23,
               27
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "任用職員の配置や研修運用が負担軽減につながっているか、勤務実績も含め検証"
           }
         ],
         "outcomes": [
@@ -12328,7 +12920,9 @@ GIKAI.councilPolicyReviews = [
               17,
               23,
               27
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "既存の部活動地域展開について外部指導者やクラブの実施状況・課題を確認"
           }
         ],
         "outcomes": [
@@ -12370,7 +12964,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               23,
               27
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "本人の窓口来訪を求められた事例から、既存の駐車料減免の適用手続を点検"
           }
         ],
         "outcomes": [
@@ -12409,7 +13005,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               34,
               39
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "かわまるの予約成立率等を確認した上で、予約難に対する増便を求めた"
           }
         ],
         "outcomes": [
@@ -12448,7 +13046,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 43",
             "blocks": [
               43
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "免許返納後に交通機関を乗り継ぎやすくするため、上限運賃や経路案内を提案"
           }
         ],
         "outcomes": [
@@ -12485,7 +13085,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 31",
             "blocks": [
               31
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "長期欠席の動向、相談人材の配置、学習室の状況と特別支援学級への手続を確認"
           }
         ],
         "outcomes": [
@@ -12526,7 +13128,9 @@ GIKAI.councilPolicyReviews = [
               39,
               43,
               47
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "困難が重なる児童生徒に対し、利用を待つ形に加えて家庭を訪問する支援を求めた"
           }
         ],
         "outcomes": [
@@ -12569,7 +13173,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               34,
               39
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "川越シャトルの既存路線の見直しと収支を確認し、郊外での増便を求めた"
           }
         ],
         "outcomes": [
@@ -12607,7 +13213,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 50",
             "blocks": [
               50
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "教科書採択の主体・日程、各形態の費用や特徴と決定後の変更可否を確認"
           }
         ],
         "outcomes": [
@@ -12644,7 +13252,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 54",
             "blocks": [
               54
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "国の図書館整備計画が掲げる司書配置拡充に対し、市の到達状況を確認"
           }
         ],
         "outcomes": [
@@ -12681,7 +13291,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 54",
             "blocks": [
               54
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "国の整備計画に照らし、図書予算の措置と図書標準の達成状況を検証"
           }
         ],
         "outcomes": [
@@ -12719,7 +13331,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               54,
               56
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "複数紙の配備を進めるため、教育委員会が全校分を一括調達する案を示した"
           }
         ],
         "outcomes": [
@@ -12757,7 +13371,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 54",
             "blocks": [
               54
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "新聞印刷工場での社会科見学等の利用状況と今後の計画の有無を確認"
           }
         ],
         "outcomes": [
@@ -12796,7 +13412,9 @@ GIKAI.councilPolicyReviews = [
               59,
               65,
               70
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "排水施設の停止条件を確認した上で、浸水による停止を防ぐ耐水化を求めた"
           }
         ],
         "outcomes": [
@@ -12840,7 +13458,9 @@ GIKAI.councilPolicyReviews = [
               59,
               65,
               70
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "既存検査と金銭管理・冷房・長期入居の実態を照らし合わせ、生活の質の確保を検証"
           }
         ],
         "outcomes": [
@@ -12881,7 +13501,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               59,
               65
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "無料低額宿泊所の定員・空き、市内外の入居、空きがない場合の案内手順を確認"
           }
         ],
         "outcomes": [
@@ -12919,7 +13541,9 @@ GIKAI.councilPolicyReviews = [
             "locator": "会議録の発言順 59",
             "blocks": [
               59
-            ]
+            ],
+            "intent": "facts",
+            "intentReason": "生活保護ケースワーカー一人当たりの現在の担当世帯数を確認"
           }
         ],
         "outcomes": [
@@ -12957,7 +13581,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               79,
               82
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "空き家対策の所管を土地利用・まちづくりの担当部署に移す案を示した"
           }
         ],
         "outcomes": [
@@ -12996,7 +13622,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               77,
               79
-            ]
+            ],
+            "intent": "proposal",
+            "intentReason": "老朽空き家が集中する地域で狭小区画を集約・再編する案を示した"
           }
         ],
         "outcomes": [
@@ -13035,7 +13663,9 @@ GIKAI.councilPolicyReviews = [
             "blocks": [
               77,
               79
-            ]
+            ],
+            "intent": "verification",
+            "intentReason": "管理不全空き家への既存対策の効果、解決実績と所有者への連絡上の課題を検証"
           }
         ],
         "outcomes": [
@@ -13056,7 +13686,8 @@ GIKAI.councilPolicyReviews = [
         "followUp": "open",
         "followUpNote": "後続会期の資料はこの比較の対象期間外。"
       }
-    ]
+    ],
+    "classifiedQuestions": 315
   }
 ];
 GIKAI.cases.push(...[

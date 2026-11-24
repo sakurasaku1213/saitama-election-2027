@@ -465,6 +465,12 @@
     general: "要望・見解の確認",
     unknown: "本文未確認",
   };
+  const questionIntents = {
+    proposal: "具体策の提案",
+    verification: "施策・答弁の検証",
+    facts: "現状・根拠の確認",
+    general: "見解・一般要望",
+  };
   const followUpLabels = {
     confirmed: "後続行動を確認",
     searched: "確認した資料に後続行動の記録なし",
@@ -486,8 +492,10 @@
     const title = issue.title || original.title.split("／").at(-1);
     const questions = issue.items.map((item) => {
       const q = reviewQuestions.get(item.url) || item;
-      return `<li>${tag(q.kind)} <strong>${esc(questionLevels[item.level])}</strong>
-        <p>${esc(item.reason)}</p><p class="small">${link(q.url, q.title)}　${dateTag(q.date)}${item.locator ? `　${esc(item.locator)}` : ""}${archivedMinutes(place, q.date)}</p>${item.recordingURL ? `<p class="small">${link(item.recordingURL, "当日の公式録画")}</p>` : ""}</li>`;
+      const intent = questionIntents[item.intent] || questionLevels[item.level];
+      return `<li>${tag(q.kind)} <strong>${esc(intent)}</strong>
+        <p>${esc(item.reason)}</p>${item.intentReason ? `<p class="small">分類の根拠　${esc(item.intentReason)}</p>` : ""}
+        <p class="small">${link(q.url, q.title)}　${dateTag(q.date)}${item.locator ? `　${esc(item.locator)}` : ""}${archivedMinutes(place, q.date)}</p>${item.recordingURL ? `<p class="small">${link(item.recordingURL, "当日の公式録画")}</p>` : ""}</li>`;
     }).join("");
     const followUp = followUpLabels[issue.followUp];
     const progress = issue.caseTitle && D.cases.find((entry) =>
@@ -519,16 +527,23 @@
       return `<section class="policy-review">${heading}<p>この範囲の公式一般質問者一覧に、本人の掲載回はありません。</p>
         <p class="small">${link(comparison.indexURL, "公式一般質問者一覧")}</p></section>`;
     }
+    const intentKinds = Object.keys(questionIntents);
+    const primaryIntents = issues.map((issue) => intentKinds.find((key) =>
+      issue.items.some((item) => inPeriod(item) && item.intent === key)));
     const metrics = [
       ["一般質問の掲載回", appearances.length],
       ["収録した論点", issues.length],
-      ["具体的な提案・検証", issues.filter((issue) =>
-        issue.items.some((item) => inPeriod(item) && item.level === "specific")).length],
       ["後続行動を確認", issues.filter((issue) => issue.followUp === "confirmed").length],
     ];
+    const intentSummary = comparison.classifiedQuestions
+      ? `<dl class="policy-metrics policy-intents">${intentKinds.map((key) =>
+        `<div><dt>${esc(questionIntents[key])}</dt><dd>${count(primaryIntents.filter((intent) => intent === key).length)}件</dd></div>`,
+      ).join("")}</dl>`
+      : "";
     const coverageNote = `<p class="small">${esc(comparison.note)} ${full ? "" : "当該会期の論点に関する別会期の答弁と後続行動も表示します。"} ${link(comparison.indexURL, "公式一般質問者一覧")}</p>`;
     return `<section class="policy-review">${heading}
-      <dl class="policy-metrics">${metrics.map(([label, total]) => `<div><dt>${esc(label)}</dt><dd>${count(total)}件</dd></div>`).join("")}</dl>
+      <dl class="policy-metrics policy-overview">${metrics.map(([label, total]) => `<div><dt>${esc(label)}</dt><dd>${count(total)}件</dd></div>`).join("")}</dl>
+      ${intentSummary}
       ${coverageNote}
       <details class="policy-issues"><summary>論点ごとの判定と出典を読む</summary>
         <div class="list">${issues.map((issue) => policyIssue(issue, comparison.place)).join("")}</div>
@@ -581,7 +596,8 @@
       <p>${esc(review.label)}の一般質問・代表質問が対象です。同じ議員による同じ対象・同じ要求を一論点にまとめます。一つの掲載項目に別の施策への質問が含まれるときは、論点を分け、掲載項目は一度数えます。施策や対象を特定し、変更案、数値・期限、資料など、何を求めたのかが明確な質問を「具体的な提案・検証」と表示します。</p>
       <p>${esc(review.coverageNote)}</p><p class="small">資料の確認日 ${dateTag(review.checked)}</p>
       ${[...councilPolicyReviews.values()].map((item) =>
-        `<p><b>${esc(item.place)}議会</b>　${esc(item.note)} ${link(item.indexURL, "公式一般質問者一覧")}</p>`).join("")}
+        `<p><b>${esc(item.place)}議会</b>　${esc(item.note)} ${link(item.indexURL, "公式一般質問者一覧")}</p>
+          ${item.classifiedQuestions ? "<p>質問は、具体策の提案、施策・答弁の検証、現状・根拠の確認、見解・一般要望に分けます。複数に当たる論点は、この順で１件に数えます。発言ごとの分類と根拠は各論点に掲載しています。</p>" : ""}`).join("")}
       <ul class="documents">${review.sources.map((source) => `<li>${link(source.url, source.label)} ${esc(source.note || "")}</li>`).join("")}</ul></div>`;
   }
   function relatedCases(p) {
@@ -934,7 +950,7 @@
     const doc = `<div class="meta"><span>${esc(entry.place)}議会</span>${dateTag(entry.date)}${tag(entry.kind)}</div><h3>${esc(entry.title)}</h3>`;
     const source = `<div class="links">${link(entry.url, "公式資料の該当箇所")}</div>
       ${entry.note ? `<p class="small">${esc(entry.note)}</p>` : ""}
-      ${entry.speakers?.length ? `<p class="small">本文に名前がある議員　${entry.speakers.map(esc).join("、")}</p>` : ""}`;
+      ${entry.speakers?.length ? `<p class="small">${entry.scope === "recording" ? "録画一覧の質問者" : "本文に名前がある議員"}　${entry.speakers.map(esc).join("、")}</p>` : ""}`;
     const available = Boolean(get("question-text-bodies"));
     return `<details class="entry question-document" data-question-id="${esc(entry.id)}"${open ? " open" : ""}>
       <summary><div>${doc}</div></summary><div class="detail-body">${source}

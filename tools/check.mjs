@@ -235,6 +235,8 @@ const councilReviews = new Map();
 let councilReviewAppearances = 0;
 let councilReviewIssues = 0;
 let councilReviewActions = 0;
+let councilQuestionIntents = 0;
+const questionIntents = new Set(["proposal", "verification", "facts", "general"]);
 function validBlocks(item) {
   assert.ok(item.locator && item.blocks.length, item.url);
   assert.ok(item.blocks.every((block, index, blocks) =>
@@ -259,6 +261,7 @@ for (const comparison of data.councilPolicyReviews) {
   }
   const issued = new Map();
   const reached = new Set();
+  let classified = 0;
   for (const issue of comparison.issues) {
     assert.ok(issue.id && issue.title && !issued.has(issue.id), issue.id);
     issued.set(issue.id, issue);
@@ -277,6 +280,10 @@ for (const comparison of data.councilPolicyReviews) {
       assert.equal(item.date, source.date);
       assert.equal(item.season, source.season);
       assert.ok(reviewLevels.has(item.level) && item.reason && item.title && item.kind);
+      if (comparison.classifiedQuestions) {
+        assert.ok(questionIntents.has(item.intent) && item.intentReason, issue.id + " " + item.sourceId);
+        classified++;
+      }
       assert.ok(!references.has(item.sourceId), issue.id);
       validBlocks(item);
       references.add(item.sourceId);
@@ -306,6 +313,8 @@ for (const comparison of data.councilPolicyReviews) {
   assert.equal(reached.size, appearances.size, comparison.place + " missing listed questions");
   councilReviewAppearances += appearances.size;
   councilReviewIssues += issued.size;
+  if (comparison.classifiedQuestions) assert.equal(classified, comparison.classifiedQuestions);
+  councilQuestionIntents += classified;
 }
 const kawagoe = councilReviews.get("川越市");
 for (const [period, listed] of [["spring", 32], ["summer", 30], ["fall", 31]]) {
@@ -393,7 +402,11 @@ for (const doc of questionDocs) {
   validDay(doc.date);
   assert.match(doc.date, /^2026-/);
   assert.ok(doc.title && doc.kind);
-  assert.ok(["minutes", "fullQA", "summary"].includes(doc.scope));
+  assert.ok(["minutes", "fullQA", "summary", "recording"].includes(doc.scope));
+  if (doc.scope === "recording") {
+    assert.match(doc.kind, /機械文字起こし/);
+    assert.ok(doc.speakers.length);
+  }
   assert.ok(Array.isArray(doc.speakers) && new Set(doc.speakers).size === doc.speakers.length);
 }
 assert.ok(questionDocs.length >= 808, "Prefecture Q&A texts should be preserved");
@@ -455,6 +468,7 @@ console.log(
       councilReviewAppearances,
       councilReviewIssues,
       councilReviewActions,
+      councilQuestionIntents,
       announcementRows: data.nominations.length,
       coverageCouncils: new Set(coverage.current.map((row) => row.place)).size,
       coverageSlots: coverageSlots.size,

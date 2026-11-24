@@ -25339,6 +25339,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "d59dd504a35b704ab7af",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-17",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "庄野航二議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Video_View.asp?SrchID=2379",
+      "speakers": [
+        "庄野航二"
+      ]
+    },
+    {
       "id": "f9fc40097eb5185ff0a4",
       "place": "行田市",
       "season": "spring",
@@ -27757,8 +27771,8 @@ GIKAI.questionText = {
       "place": "蕨市",
       "season": "fall",
       "material": {
-        "state": "notFound",
-        "note": "公式の2026年会議録一覧と9月単月検索で対象本文を確認できず。9月の録画と質問通告は確認。"
+        "state": "partial",
+        "note": "公式録画一覧の一般質問15人のうち、1人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
       }
     },
     {

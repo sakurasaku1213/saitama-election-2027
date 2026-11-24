@@ -2,9 +2,9 @@
 
 川越市の３会期の一般質問は、[議員比較の根拠に使った93掲載回と出典の確認範囲](kawagoe-policy-2026.md)も参照してください。
 
-確認日 2026-11-24。県議会と全63市町村の192会期枠を対象に、64議会・182枠で本文または議会だより等に掲載された問答を収録。残る10枠も下表に確認先を示す。
+確認日 2026-11-24。県議会と全63市町村の192会期枠を対象に、64議会・183枠で会議録、紙面の問答、または録画の機械文字起こしを収録。残る９枠も下表に確認先を示す。
 
-収録資料 1,648件。33枠は、原典の日程・索引で確認した質問日または掲載項目に対応する。
+収録資料 1,649件。33枠は、原典の日程・索引で確認した質問日または掲載項目に対応する。
 
 | 資料の種類 | 件数 |
 | --- | ---: |
@@ -16,6 +16,7 @@
 | 公開会議録（閲覧用） | 11 |
 | 議会だよりの質問・答弁要旨（HTML） | 1 |
 | 議会だよりの質問・答弁（紙面要約） | 4 |
+| 公式録画の機械文字起こし | 1 |
 
 本会議録の日別資料には当日の議事も含まれる。県議会の速報版は質問・答弁の掲載項目ごと。議会だよりは質問者による編集要約等を含む。PDFのOCR転記と、紙面を照合して作った要約には原本の頁番号を付けた。
 
@@ -45,7 +46,7 @@
 | 上尾市 | [本文・要旨 8件](https://ssp.kaigiroku.net/tenant/ageo/SpMinuteView.html?tenant_id=39&council_id=433&schedule_id=2)<br>一部収録 | [本文・要旨 8件](https://ssp.kaigiroku.net/tenant/ageo/SpMinuteView.html?tenant_id=39&council_id=437&schedule_id=2)<br>一部収録 | [本文・要旨 9件](https://ssp.kaigiroku.net/tenant/ageo/SpMinuteView.html?tenant_id=39&council_id=441&schedule_id=2)<br>一部収録 | — |
 | 草加市 | [本文・要旨 8件](http://www.soka-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82Q%8C%8E%81@%92%E8%97%E1%89%EF%81%7C02%8C%8E18%93%FA-01%8D%86&KGNO=856&FINO=2570&UNID=K_R08021800011)<br>一部収録 | [本文・要旨 6件](http://www.soka-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82U%8C%8E%81@%92%E8%97%E1%89%EF%81%7C06%8C%8E04%93%FA-01%8D%86&KGNO=862&FINO=2590&UNID=K_R08060400011)<br>一部収録 | [本文・要旨 6件](http://www.soka-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82X%8C%8E%81@%92%E8%97%E1%89%EF%81%7C08%8C%8E27%93%FA-01%8D%86&KGNO=866&FINO=2601&UNID=K_R08082700011)<br>一部収録 | — |
 | 越谷市 | [本文・要旨 7件](https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=714&schedule_id=2)<br>一部収録 | [本文・要旨 7件](https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=728&schedule_id=2)<br>一部収録 | [本文・要旨 1件](https://www.city.koshigaya.saitama.jp/gikai/dayori/2026/234-6-7.html)<br>一部収録 | — |
-| 蕨市 | [本文・要旨 7件](https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82Q%89%F1%92%E8%97%E1%89%EF%81%7C02%8C%8E17%93%FA-01%8D%86&HUID=122890&KGNO=612&FINO=1507&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0)<br>一部収録 | [本文・要旨 6件](https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82R%89%F1%92%E8%97%E1%89%EF%81%7C06%8C%8E01%93%FA-01%8D%86&HUID=124628&KGNO=621&FINO=1524&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0)<br>一部収録 | [確認先](https://warabi.gijiroku.com/gikai/g07_Shitsumon.asp?Sflg=2&kaigi=148)<br>確認先で本文未確認 | — |
+| 蕨市 | [本文・要旨 7件](https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82Q%89%F1%92%E8%97%E1%89%EF%81%7C02%8C%8E17%93%FA-01%8D%86&HUID=122890&KGNO=612&FINO=1507&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0)<br>一部収録 | [本文・要旨 6件](https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82R%89%F1%92%E8%97%E1%89%EF%81%7C06%8C%8E01%93%FA-01%8D%86&HUID=124628&KGNO=621&FINO=1524&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0)<br>一部収録 | [９月17日の公式録画](https://warabi.gijiroku.com/gikai/g07_Video_View.asp?SrchID=2379)<br>機械文字起こし1件・公式会議録を確認中 | — |
 | 戸田市 | [本文・要旨 10件](https://toda.gijiroku.com/gikai/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&FMM=1&FDD=1&TYY=2026&TMM=12&TDD=31&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82R%8C%8E%92%E8%97%E1%89%EF%81%7C02%8C%8E02%93%FA-01%8D%86&KGNO=157&FINO=1279&UNID=K_R08020200011)<br>一部収録 | [本文・要旨 7件](https://toda.gijiroku.com/gikai/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&FMM=1&FDD=1&TYY=2026&TMM=12&TDD=31&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82U%8C%8E%92%E8%97%E1%89%EF%81%7C05%8C%8E28%93%FA-01%8D%86&KGNO=159&FINO=1295&UNID=K_R08052800011)<br>一部収録 | [本文・要旨 1件](https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055902&fileId=dd82a10f1e594ab2aa76f45623067024&fileName=236_A3.pdf)<br>一部収録 | — |
 | 入間市 | [本文・要旨 7件](https://www3.city.iruma.saitama.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82R%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82P%89%F1%81j%81%7C02%8C%8E13%93%FA-01%8D%86&HUID=241183&KGNO=515&FINO=1917&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0)<br>一部収録 | [本文・要旨 6件](https://www3.city.iruma.saitama.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82U%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82Q%89%F1%81j%81%7C06%8C%8E01%93%FA-01%8D%86&HUID=243837&KGNO=519&FINO=1931&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0)<br>一部収録 | [本文・要旨 7件](https://www3.city.iruma.saitama.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82X%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82R%89%F1%81j%81%7C08%8C%8E28%93%FA-01%8D%86&HUID=245104&KGNO=524&FINO=1946&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0)<br>一部収録 | — |
 | 朝霞市 | [本文・要旨 7件](https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1112&schedule_id=2)<br>一部収録 | [本文・要旨 6件](https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1131&schedule_id=2)<br>一部収録 | [本文・要旨 7件](https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1142&schedule_id=2)<br>一部収録 | — |
@@ -95,10 +96,10 @@
 | 資料の確認状態 | 会期枠 |
 | --- | ---: |
 | 確認した質問日・項目を収録 | 33 |
-| 一部収録 | 149 |
+| 一部収録 | 150 |
 | 掲載先候補あり・本文未収録 | 0 |
 | 取得・照合できず | 0 |
-| 確認先で本文未確認 | 10 |
+| 確認先で本文未確認 | 9 |
 | 調査中 | 0 |
 | 対象会期なし | 0 |
 
@@ -109,6 +110,7 @@
 - 小鹿野町は、町公式の会議録一覧から３月・６月の本会議録を取り込み、公式目次の全７日と照合した。９月定例会の会議録は一覧で未確認。
 - 羽生市は、９月定例会の議会だよりに問答の掲載がある一般質問12人分と議案質疑を紙面と照合した。見出しのみ掲載された項目の問答と、正式会議録の本文は確認中。[羽生市議会の最新号案内](https://www.city.hanyu.lg.jp/docs/2026051900012/)
 - 松伏町は、９月定例会の議会だよりに問答の掲載がある26論点を、紙面の９〜13頁と照合した。議決と記名表決を20件ずつ照合し、提出者の記号は賛否と区別して表示した。[町の会議結果](https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000003/3031/0809kaigikekka.pdf)・[議会だよりの記名表決](https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000003/3130/gikaidayori135_P7.pdf)
+- 蕨市の９月定例会は、公式録画の一般質問15人のうち１人分について機械文字起こしを収録した。質問者は録画一覧で照合した。本文に現れる話者名・用語・数字の確認は元の録画で行う。[公式録画一覧](https://warabi.gijiroku.com/gikai/g07_Video_Search.asp)
 - OCRの確認警告がある頁は本文束から除いた。警告のない頁だけを収録した資料では、除外頁を本文カードに表示した。
 
 ### 今回のOCR保留
