@@ -2028,30 +2028,30 @@ GIKAI.coverage2026 = {
     {
       "place": "狭山市",
       "season": "spring",
-      "label": "2026年春の定例会",
-      "fromDate": "",
-      "toDate": "",
+      "label": "令和8年第1回定例会",
+      "fromDate": "2026-02-20",
+      "toDate": "2026-03-17",
       "planned": false,
       "materials": {
         "meeting": {
-          "state": "identified",
-          "note": "対象時期に関係する資料の掲載箇所を確認。会期の確定は未了。"
+          "state": "verified",
+          "note": "公式会期は2月20日から3月17日まで。"
         },
         "activity": {
           "state": "partial",
           "note": "この時期の掲載項目 32件。通告・目次・本文の別は活動の出典に表示。"
         },
         "text": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "本会議録８資料と委員長報告４資料。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "公式審議結果32件を収録。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "賛否が分かれた9件の記名表決。"
         },
         "policy": {
           "state": "pending",
@@ -2066,36 +2066,40 @@ GIKAI.coverage2026 = {
         {
           "label": "一般質問の資料　令和8年第1回定例会【一般質問】",
           "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/shitumon/shitumonR8_01.html"
+        },
+        {
+          "label": "市議会の公式会期一覧",
+          "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/index.html"
         }
       ]
     },
     {
       "place": "狭山市",
       "season": "summer",
-      "label": "2026年初夏の定例会",
-      "fromDate": "",
-      "toDate": "",
+      "label": "令和8年第2回定例会",
+      "fromDate": "2026-06-05",
+      "toDate": "2026-06-23",
       "planned": false,
       "materials": {
         "meeting": {
-          "state": "identified",
-          "note": "対象時期に関係する資料の掲載箇所を確認。会期の確定は未了。"
+          "state": "verified",
+          "note": "公式会期は6月5日から6月23日まで。"
         },
         "activity": {
           "state": "partial",
           "note": "この時期の掲載項目 27件。通告・目次・本文の別は活動の出典に表示。"
         },
         "text": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "本会議録６資料と委員長報告３資料。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "公式審議結果19件を収録。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "賛否が分かれた2件の記名表決。"
         },
         "policy": {
           "state": "pending",
@@ -2110,40 +2114,44 @@ GIKAI.coverage2026 = {
         {
           "label": "一般質問の資料　令和8年第2回定例会【一般質問】",
           "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/shitumon/shitumonR8_02.html"
+        },
+        {
+          "label": "市議会の公式会期一覧",
+          "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/index.html"
         }
       ]
     },
     {
       "place": "狭山市",
       "season": "fall",
-      "label": "2026年秋の定例会",
-      "fromDate": "",
-      "toDate": "",
+      "label": "令和8年第3回定例会",
+      "fromDate": "2026-08-31",
+      "toDate": "2026-09-30",
       "planned": false,
       "materials": {
         "meeting": {
-          "state": "identified",
-          "note": "対象時期に関係する資料の掲載箇所を確認。会期の確定は未了。"
+          "state": "verified",
+          "note": "公式会期は8月31日から9月30日まで。"
         },
         "activity": {
           "state": "partial",
           "note": "この時期の掲載項目 30件。通告・目次・本文の別は活動の出典に表示。"
         },
         "text": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "16人の一般質問44問答とその他９見出し、議案質疑13組、決算討論２人、公式通告30大項目。公式録画のうち機械文字起こし3/16件。委員長報告４資料と教育委員会会議録の関連部分も収録。正式本会議録は確認中。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "公式審議結果30件を収録。第49号の採決日は確認中。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "賛否が分かれた3件の記名表決。他27件は紙面の全員賛成を照合。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "体育館空調、調整池の再発防止に加え、補聴器助成、広報、部活動、粗大ごみ、決算討論、漏水調査を収録。"
         }
       },
       "sources": [
@@ -2152,8 +2160,28 @@ GIKAI.coverage2026 = {
           "url": "https://sayama.gijiroku.com/g07_Shitsumon.asp?Sflg=2&kaigi=76"
         },
         {
-          "label": "一般質問の資料　令和8年第3回定例会【一般質問】",
+          "label": "公式通告・16人",
           "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/shitumon/shitumonR8_03.html"
+        },
+        {
+          "label": "第231号・主要問答と討論",
+          "url": "https://www.city.sayama.saitama.jp/gikai/gikaidayori/dayoriR8.files/231.pdf"
+        },
+        {
+          "label": "第231号・議案の採決状況",
+          "url": "https://www.city.sayama.saitama.jp/gikai/gikaidayori/dayoriR8.files/231_05.pdf"
+        },
+        {
+          "label": "公式録画・一般質問３日",
+          "url": "https://sayama.gijiroku.com/g07_Video_Search.asp"
+        },
+        {
+          "label": "委員長報告４資料",
+          "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/iincyouhoukoku/R8_9teireikaihoukoku.html"
+        },
+        {
+          "label": "市議会の公式会期一覧",
+          "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/index.html"
         }
       ]
     },
@@ -60280,7 +60308,9 @@ GIKAI.coverage2026 = {
       "result": "同意",
       "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/gianitiran/R8_03gian.html",
       "resultURL": "https://www.city.sayama.saitama.jp/gikai/teireikai/gianitiran/R8_03gian.html",
-      "resultLocator": "公式審議結果・議案第49号（採決日は確認中）"
+      "resultLocator": "公式審議結果・議案第49号（採決日は確認中）",
+      "voteURL": "https://www.city.sayama.saitama.jp/gikai/gikaidayori/dayoriR8.files/231_05.pdf",
+      "voteNote": "さやま議会だより第231号５頁の「全員が賛成した議案」に掲載。"
     },
     {
       "place": "狭山市",
@@ -60292,7 +60322,9 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/gianitiran/R8_03gian.html",
       "resultURL": "https://sayama.gijiroku.com/g07_Video_View.asp?SrchID=1564",
-      "resultLocator": "公式録画目録・9月30日の採決"
+      "resultLocator": "公式録画目録・9月30日の採決",
+      "voteURL": "https://www.city.sayama.saitama.jp/gikai/gikaidayori/dayoriR8.files/231_05.pdf",
+      "voteNote": "さやま議会だより第231号５頁の「全員が賛成した議案」に掲載。"
     },
     {
       "place": "狭山市",
@@ -60304,7 +60336,9 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/gianitiran/R8_03gian.html",
       "resultURL": "https://sayama.gijiroku.com/g07_Video_View.asp?SrchID=1564",
-      "resultLocator": "公式録画目録・9月30日の採決"
+      "resultLocator": "公式録画目録・9月30日の採決",
+      "voteURL": "https://www.city.sayama.saitama.jp/gikai/gikaidayori/dayoriR8.files/231_05.pdf",
+      "voteNote": "さやま議会だより第231号５頁の「全員が賛成した議案」に掲載。"
     },
     {
       "place": "狭山市",
@@ -60394,7 +60428,9 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/gianitiran/R8_03gian.html",
       "resultURL": "https://sayama.gijiroku.com/g07_Video_View.asp?SrchID=1564",
-      "resultLocator": "公式録画目録・9月30日の採決"
+      "resultLocator": "公式録画目録・9月30日の採決",
+      "voteURL": "https://www.city.sayama.saitama.jp/gikai/gikaidayori/dayoriR8.files/231_05.pdf",
+      "voteNote": "さやま議会だより第231号５頁の「全員が賛成した議案」に掲載。"
     },
     {
       "place": "狭山市",
@@ -60406,7 +60442,9 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/gianitiran/R8_03gian.html",
       "resultURL": "https://sayama.gijiroku.com/g07_Video_View.asp?SrchID=1564",
-      "resultLocator": "公式録画目録・9月30日の採決"
+      "resultLocator": "公式録画目録・9月30日の採決",
+      "voteURL": "https://www.city.sayama.saitama.jp/gikai/gikaidayori/dayoriR8.files/231_05.pdf",
+      "voteNote": "さやま議会だより第231号５頁の「全員が賛成した議案」に掲載。"
     },
     {
       "place": "狭山市",
@@ -60418,7 +60456,9 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/gianitiran/R8_03gian.html",
       "resultURL": "https://sayama.gijiroku.com/g07_Video_View.asp?SrchID=1564",
-      "resultLocator": "公式録画目録・9月30日の採決"
+      "resultLocator": "公式録画目録・9月30日の採決",
+      "voteURL": "https://www.city.sayama.saitama.jp/gikai/gikaidayori/dayoriR8.files/231_05.pdf",
+      "voteNote": "さやま議会だより第231号５頁の「全員が賛成した議案」に掲載。"
     },
     {
       "place": "狭山市",
@@ -60430,7 +60470,9 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/gianitiran/R8_03gian.html",
       "resultURL": "https://sayama.gijiroku.com/g07_Video_View.asp?SrchID=1564",
-      "resultLocator": "公式録画目録・9月30日の採決"
+      "resultLocator": "公式録画目録・9月30日の採決",
+      "voteURL": "https://www.city.sayama.saitama.jp/gikai/gikaidayori/dayoriR8.files/231_05.pdf",
+      "voteNote": "さやま議会だより第231号５頁の「全員が賛成した議案」に掲載。"
     },
     {
       "place": "狭山市",
@@ -60442,7 +60484,9 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/gianitiran/R8_03gian.html",
       "resultURL": "https://sayama.gijiroku.com/g07_Video_View.asp?SrchID=1564",
-      "resultLocator": "公式録画目録・9月30日の採決"
+      "resultLocator": "公式録画目録・9月30日の採決",
+      "voteURL": "https://www.city.sayama.saitama.jp/gikai/gikaidayori/dayoriR8.files/231_05.pdf",
+      "voteNote": "さやま議会だより第231号５頁の「全員が賛成した議案」に掲載。"
     },
     {
       "place": "狭山市",
@@ -60454,7 +60498,9 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/gianitiran/R8_03gian.html",
       "resultURL": "https://sayama.gijiroku.com/g07_Video_View.asp?SrchID=1564",
-      "resultLocator": "公式録画目録・9月30日の採決"
+      "resultLocator": "公式録画目録・9月30日の採決",
+      "voteURL": "https://www.city.sayama.saitama.jp/gikai/gikaidayori/dayoriR8.files/231_05.pdf",
+      "voteNote": "さやま議会だより第231号５頁の「全員が賛成した議案」に掲載。"
     },
     {
       "place": "狭山市",
@@ -60466,7 +60512,9 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/gianitiran/R8_03gian.html",
       "resultURL": "https://sayama.gijiroku.com/g07_Video_View.asp?SrchID=1564",
-      "resultLocator": "公式録画目録・9月30日の採決"
+      "resultLocator": "公式録画目録・9月30日の採決",
+      "voteURL": "https://www.city.sayama.saitama.jp/gikai/gikaidayori/dayoriR8.files/231_05.pdf",
+      "voteNote": "さやま議会だより第231号５頁の「全員が賛成した議案」に掲載。"
     },
     {
       "place": "狭山市",
@@ -60478,7 +60526,9 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/gianitiran/R8_03gian.html",
       "resultURL": "https://sayama.gijiroku.com/g07_Video_View.asp?SrchID=1564",
-      "resultLocator": "公式録画目録・9月30日の採決"
+      "resultLocator": "公式録画目録・9月30日の採決",
+      "voteURL": "https://www.city.sayama.saitama.jp/gikai/gikaidayori/dayoriR8.files/231_05.pdf",
+      "voteNote": "さやま議会だより第231号５頁の「全員が賛成した議案」に掲載。"
     },
     {
       "place": "狭山市",
@@ -60490,7 +60540,9 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/gianitiran/R8_03gian.html",
       "resultURL": "https://sayama.gijiroku.com/g07_Video_View.asp?SrchID=1564",
-      "resultLocator": "公式録画目録・9月30日の採決"
+      "resultLocator": "公式録画目録・9月30日の採決",
+      "voteURL": "https://www.city.sayama.saitama.jp/gikai/gikaidayori/dayoriR8.files/231_05.pdf",
+      "voteNote": "さやま議会だより第231号５頁の「全員が賛成した議案」に掲載。"
     },
     {
       "place": "狭山市",
@@ -60502,7 +60554,9 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/gianitiran/R8_03gian.html",
       "resultURL": "https://sayama.gijiroku.com/g07_Video_View.asp?SrchID=1564",
-      "resultLocator": "公式録画目録・9月30日の採決"
+      "resultLocator": "公式録画目録・9月30日の採決",
+      "voteURL": "https://www.city.sayama.saitama.jp/gikai/gikaidayori/dayoriR8.files/231_05.pdf",
+      "voteNote": "さやま議会だより第231号５頁の「全員が賛成した議案」に掲載。"
     },
     {
       "place": "狭山市",
@@ -60514,7 +60568,9 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/gianitiran/R8_03gian.html",
       "resultURL": "https://sayama.gijiroku.com/g07_Video_View.asp?SrchID=1564",
-      "resultLocator": "公式録画目録・9月30日の採決"
+      "resultLocator": "公式録画目録・9月30日の採決",
+      "voteURL": "https://www.city.sayama.saitama.jp/gikai/gikaidayori/dayoriR8.files/231_05.pdf",
+      "voteNote": "さやま議会だより第231号５頁の「全員が賛成した議案」に掲載。"
     },
     {
       "place": "狭山市",
@@ -60526,7 +60582,9 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/gianitiran/R8_03gian.html",
       "resultURL": "https://sayama.gijiroku.com/g07_Video_View.asp?SrchID=1564",
-      "resultLocator": "公式録画目録・9月30日の採決"
+      "resultLocator": "公式録画目録・9月30日の採決",
+      "voteURL": "https://www.city.sayama.saitama.jp/gikai/gikaidayori/dayoriR8.files/231_05.pdf",
+      "voteNote": "さやま議会だより第231号５頁の「全員が賛成した議案」に掲載。"
     },
     {
       "place": "狭山市",
@@ -60577,7 +60635,9 @@ GIKAI.coverage2026 = {
       "result": "認定",
       "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/gianitiran/R8_03gian.html",
       "resultURL": "https://sayama.gijiroku.com/g07_Video_View.asp?SrchID=1564",
-      "resultLocator": "公式録画目録・9月30日の採決"
+      "resultLocator": "公式録画目録・9月30日の採決",
+      "voteURL": "https://www.city.sayama.saitama.jp/gikai/gikaidayori/dayoriR8.files/231_05.pdf",
+      "voteNote": "さやま議会だより第231号５頁の「全員が賛成した議案」に掲載。"
     },
     {
       "place": "狭山市",
@@ -60589,7 +60649,9 @@ GIKAI.coverage2026 = {
       "result": "認定",
       "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/gianitiran/R8_03gian.html",
       "resultURL": "https://sayama.gijiroku.com/g07_Video_View.asp?SrchID=1564",
-      "resultLocator": "公式録画目録・9月30日の採決"
+      "resultLocator": "公式録画目録・9月30日の採決",
+      "voteURL": "https://www.city.sayama.saitama.jp/gikai/gikaidayori/dayoriR8.files/231_05.pdf",
+      "voteNote": "さやま議会だより第231号５頁の「全員が賛成した議案」に掲載。"
     },
     {
       "place": "狭山市",
@@ -60601,7 +60663,9 @@ GIKAI.coverage2026 = {
       "result": "認定",
       "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/gianitiran/R8_03gian.html",
       "resultURL": "https://sayama.gijiroku.com/g07_Video_View.asp?SrchID=1564",
-      "resultLocator": "公式録画目録・9月30日の採決"
+      "resultLocator": "公式録画目録・9月30日の採決",
+      "voteURL": "https://www.city.sayama.saitama.jp/gikai/gikaidayori/dayoriR8.files/231_05.pdf",
+      "voteNote": "さやま議会だより第231号５頁の「全員が賛成した議案」に掲載。"
     },
     {
       "place": "狭山市",
@@ -60613,7 +60677,9 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/gianitiran/R8_03gian.html",
       "resultURL": "https://sayama.gijiroku.com/g07_Video_View.asp?SrchID=1564",
-      "resultLocator": "公式録画目録・9月30日の採決"
+      "resultLocator": "公式録画目録・9月30日の採決",
+      "voteURL": "https://www.city.sayama.saitama.jp/gikai/gikaidayori/dayoriR8.files/231_05.pdf",
+      "voteNote": "さやま議会だより第231号５頁の「全員が賛成した議案」に掲載。"
     },
     {
       "place": "狭山市",
@@ -60625,7 +60691,9 @@ GIKAI.coverage2026 = {
       "result": "認定",
       "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/gianitiran/R8_03gian.html",
       "resultURL": "https://sayama.gijiroku.com/g07_Video_View.asp?SrchID=1564",
-      "resultLocator": "公式録画目録・9月30日の採決"
+      "resultLocator": "公式録画目録・9月30日の採決",
+      "voteURL": "https://www.city.sayama.saitama.jp/gikai/gikaidayori/dayoriR8.files/231_05.pdf",
+      "voteNote": "さやま議会だより第231号５頁の「全員が賛成した議案」に掲載。"
     },
     {
       "place": "狭山市",
@@ -60637,7 +60705,9 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/gianitiran/R8_03gian.html",
       "resultURL": "https://sayama.gijiroku.com/g07_Video_View.asp?SrchID=1564",
-      "resultLocator": "公式録画目録・9月30日の採決"
+      "resultLocator": "公式録画目録・9月30日の採決",
+      "voteURL": "https://www.city.sayama.saitama.jp/gikai/gikaidayori/dayoriR8.files/231_05.pdf",
+      "voteNote": "さやま議会だより第231号５頁の「全員が賛成した議案」に掲載。"
     },
     {
       "place": "狭山市",
@@ -60649,7 +60719,9 @@ GIKAI.coverage2026 = {
       "result": "認定",
       "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/gianitiran/R8_03gian.html",
       "resultURL": "https://sayama.gijiroku.com/g07_Video_View.asp?SrchID=1564",
-      "resultLocator": "公式録画目録・9月30日の採決"
+      "resultLocator": "公式録画目録・9月30日の採決",
+      "voteURL": "https://www.city.sayama.saitama.jp/gikai/gikaidayori/dayoriR8.files/231_05.pdf",
+      "voteNote": "さやま議会だより第231号５頁の「全員が賛成した議案」に掲載。"
     },
     {
       "place": "狭山市",
@@ -60661,7 +60733,9 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/gianitiran/R8_03gian.html",
       "resultURL": "https://sayama.gijiroku.com/g07_Video_View.asp?SrchID=1564",
-      "resultLocator": "公式録画目録・9月30日の採決"
+      "resultLocator": "公式録画目録・9月30日の採決",
+      "voteURL": "https://www.city.sayama.saitama.jp/gikai/gikaidayori/dayoriR8.files/231_05.pdf",
+      "voteNote": "さやま議会だより第231号５頁の「全員が賛成した議案」に掲載。"
     },
     {
       "place": "狭山市",
@@ -60673,7 +60747,9 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/gianitiran/R8_03gian.html",
       "resultURL": "https://sayama.gijiroku.com/g07_Video_View.asp?SrchID=1564",
-      "resultLocator": "公式録画目録・9月30日の採決"
+      "resultLocator": "公式録画目録・9月30日の採決",
+      "voteURL": "https://www.city.sayama.saitama.jp/gikai/gikaidayori/dayoriR8.files/231_05.pdf",
+      "voteNote": "さやま議会だより第231号５頁の「全員が賛成した議案」に掲載。"
     },
     {
       "place": "狭山市",
@@ -60685,7 +60761,9 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/gianitiran/R8_03gian.html",
       "resultURL": "https://sayama.gijiroku.com/g07_Video_View.asp?SrchID=1564",
-      "resultLocator": "公式録画目録・9月30日の採決"
+      "resultLocator": "公式録画目録・9月30日の採決",
+      "voteURL": "https://www.city.sayama.saitama.jp/gikai/gikaidayori/dayoriR8.files/231_05.pdf",
+      "voteNote": "さやま議会だより第231号５頁の「全員が賛成した議案」に掲載。"
     },
     {
       "place": "狭山市",
@@ -60699,7 +60777,9 @@ GIKAI.coverage2026 = {
       "resultURL": "https://sayama.gijiroku.com/g07_Video_View.asp?SrchID=1564",
       "resultLocator": "９月30日本会議の公式録画目録",
       "proposer": "狭山市議会議会運営委員会",
-      "sourceTitle": "提出議案書・委員長 笹本英輔"
+      "sourceTitle": "提出議案書・委員長 笹本英輔",
+      "voteURL": "https://www.city.sayama.saitama.jp/gikai/gikaidayori/dayoriR8.files/231_05.pdf",
+      "voteNote": "さやま議会だより第231号５頁の「全員が賛成した議案」に掲載。"
     },
     {
       "place": "狭山市",
@@ -60724,7 +60804,9 @@ GIKAI.coverage2026 = {
         "土方隆司",
         "田中寿夫"
       ],
-      "sourceTitle": "提出議案書"
+      "sourceTitle": "提出議案書",
+      "voteURL": "https://www.city.sayama.saitama.jp/gikai/gikaidayori/dayoriR8.files/231_05.pdf",
+      "voteNote": "さやま議会だより第231号５頁の「全員が賛成した議案」に掲載。"
     },
     {
       "place": "志木市",

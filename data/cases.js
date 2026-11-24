@@ -1576,8 +1576,21 @@ GIKAI.cases.push(
         "actor": "広山清志、狭山市都市建設部",
         "stage": "一般質問で再発防止策を確認",
         "detail": "広山議員が議決前着手の原因と再発防止策を質した。都市建設部長は、今後、工事記録に議決後に着手することや着工予定日を記し、受注者と認識を共有する方針を答えた。",
-        "url": "https://www.city.sayama.saitama.jp/gikai/gikaidayori/dayoriR8.files/231_11.pdf",
-        "sourceTitle": "さやま議会だより231号 紙面11頁"
+        "url": "https://www.city.sayama.saitama.jp/gikai/gikaidayori/dayoriR8.files/231.pdf#page=11",
+        "sourceTitle": "さやま議会だより第231号・11頁",
+        "archiveId": "85083c73051bcf1897f0",
+        "blocks": [
+          9
+        ],
+        "memberActions": [
+          {
+            "name": "広山清志",
+            "blocks": [
+              9
+            ],
+            "detail": "議決前の着工の原因と、工事記録での再発防止を確認した。"
+          }
+        ]
       }
     ],
     "note": "変更契約案の可決は本会議、附帯決議は総務経済委員会の記録です。９月の市の再発防止策は答弁段階で、実際の運用と効果は確認中です。"
@@ -4333,5 +4346,272 @@ GIKAI.cases.push(...[
       }
     ],
     "note": "予算額は市が説明した12月定例会に向けた案です。補正予算案の議決と道路・高架事業の完成は確認中です。"
+  }
+]);
+
+GIKAI.cases.push(...[
+  {
+    "place": "狭山市",
+    "title": "高齢者の補聴器購入助成を質し、文教厚生委員会が導入を要望",
+    "topic": "難聴・高齢者福祉",
+    "actors": [
+      "衣川千代子",
+      "狭山市文教厚生委員会",
+      "狭山市"
+    ],
+    "steps": [
+      {
+        "date": "2026-09-16",
+        "actor": "衣川千代子",
+        "stage": "調査結果と購入助成制度への考えを確認",
+        "detail": "高齢者の聞こえに関する調査結果と補聴器助成への考えを尋ねた。市は聞こえに不安がある回答が24.0％だったと示し、助成の要件、額、費用対効果、財源などを研究すると答えた。",
+        "url": "https://www.city.sayama.saitama.jp/gikai/gikaidayori/dayoriR8.files/231.pdf#page=11",
+        "sourceTitle": "さやま議会だより第231号・11頁",
+        "archiveId": "85083c73051bcf1897f0",
+        "blocks": [
+          10
+        ],
+        "memberActions": [
+          {
+            "name": "衣川千代子",
+            "blocks": [
+              10
+            ],
+            "detail": "高齢者の聞こえに関する調査結果と補聴器助成への考えを尋ねた。市は聞こえに不安がある回答が24.0％だったと示し、助成の要件、額、費用対効果、財源などを研究すると答えた。"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-30",
+        "actor": "狭山市文教厚生委員会",
+        "stage": "決算審査の要望に購入助成の導入を記載",
+        "detail": "令和７年度一般会計決算の審査をまとめた委員長報告で、聴力低下からくる認知症対策として補聴器購入助成制度の導入を求めた。日付は報告の掲載日。",
+        "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/iincyouhoukoku/R8_9teireikaihoukoku.files/R8.9bunkyo.pdf#page=11",
+        "sourceTitle": "市議会 文教厚生委員長報告11頁"
+      }
+    ],
+    "note": "委員会の導入要望を確認。制度創設や予算措置は確認中です。"
+  },
+  {
+    "place": "狭山市",
+    "title": "読み上げに使える広報テキストの試行と、紙面の読みやすさの検証",
+    "topic": "情報アクセシビリティ",
+    "actors": [
+      "船川秀子",
+      "狭山市"
+    ],
+    "steps": [
+      {
+        "date": "2026-09-10",
+        "actor": "狭山市",
+        "stage": "広報９月号の特集記事をテキストで試行掲載",
+        "detail": "市の公式サイトに９月号の特集２本と情報ガイドの抜粋をテキストで掲載した。日付は９月号の公式ページの更新日。",
+        "url": "https://www.city.sayama.saitama.jp/shisei/kouhou/koho/kohosayama/backnumber/2026/koho_sayama2026_09.html",
+        "sourceTitle": "広報さやま2026年９月号"
+      },
+      {
+        "date": "2026-09-16",
+        "actor": "船川秀子",
+        "stage": "音声での情報取得と広報の読みやすさを質す",
+        "detail": "広報の横書きや、投票入場券・水害ハザードマップへの音声コードを提案した。広報について市は９月号の試行を説明し、テキスト版の充実と横書き化の効果・課題を検証すると答えた。",
+        "url": "https://www.city.sayama.saitama.jp/gikai/gikaidayori/dayoriR8.files/231.pdf#page=10",
+        "sourceTitle": "さやま議会だより第231号・10頁",
+        "archiveId": "85083c73051bcf1897f0",
+        "blocks": [
+          8
+        ],
+        "memberActions": [
+          {
+            "name": "船川秀子",
+            "blocks": [
+              8
+            ],
+            "detail": "広報の横書きや、投票入場券・水害ハザードマップへの音声コードを提案した。広報について市は９月号の試行を説明し、テキスト版の充実と横書き化の効果・課題を検証すると答えた。"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-10",
+        "actor": "狭山市",
+        "stage": "11月号でも特集記事と情報ガイドの一部をテキストで公開",
+        "detail": "11月号の公式ページには特集３本と情報ガイドの抜粋が掲載された。市は試行の対象を一部と明記している。",
+        "url": "https://www.city.sayama.saitama.jp/shisei/kouhou/koho/kohosayama/koho_sayama2026_11.html",
+        "sourceTitle": "広報さやま2026年11月号"
+      }
+    ],
+    "note": "テキスト版は９月に始まった試行。紙面の横書き化は効果と課題の検証段階です。"
+  },
+  {
+    "place": "狭山市",
+    "title": "部活動の地域展開を開始し、登録数と運営上の課題を確認",
+    "topic": "学校・部活動の地域展開",
+    "actors": [
+      "内藤光雄",
+      "狭山市教育委員会"
+    ],
+    "steps": [
+      {
+        "date": "2026-06-09",
+        "actor": "狭山市教育委員会",
+        "stage": "休日の活動を地域クラブへ移す日程を公表",
+        "detail": "８月から休日の学校部活動に代わって、さやま茶レンジクラブの活動を始めると公表。市の案内から活動の詳細や申込み先を示した。",
+        "url": "https://www.city.sayama.saitama.jp/kosodate/kyoikuiinkai/202410161103.html",
+        "sourceTitle": "市教育委員会 学校部活動の地域展開"
+      },
+      {
+        "date": "2026-09-16",
+        "actor": "内藤光雄",
+        "stage": "開始後の参加人数と運営状況を確認",
+        "detail": "さやま茶レンジクラブの現状を質した。市は８月の休日から運動系35・吹奏楽８の計43クラブで始まり、登録は約720人と報告。日程管理アプリ等に課題があると答えた。",
+        "url": "https://www.city.sayama.saitama.jp/gikai/gikaidayori/dayoriR8.files/231.pdf#page=10",
+        "sourceTitle": "さやま議会だより第231号・10頁",
+        "archiveId": "85083c73051bcf1897f0",
+        "blocks": [
+          7
+        ],
+        "memberActions": [
+          {
+            "name": "内藤光雄",
+            "blocks": [
+              7
+            ],
+            "detail": "さやま茶レンジクラブの現状を質した。市は８月の休日から運動系35・吹奏楽８の計43クラブで始まり、登録は約720人と報告。日程管理アプリ等に課題があると答えた。"
+          }
+        ]
+      }
+    ],
+    "note": "８月に始まった取組に対し、議員は９月に進捗を確認しました。登録数は答弁時点です。"
+  },
+  {
+    "place": "狭山市",
+    "title": "粗大ごみの戸別収集を事前納付制に改める条例を可決",
+    "topic": "廃棄物処理・手数料",
+    "actors": [
+      "狭山市",
+      "狭山市建設環境委員会",
+      "狭山市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-09-30",
+        "actor": "狭山市建設環境委員会",
+        "stage": "算定根拠、料金不足時と周知の対応を審査",
+        "detail": "事業系ごみの手数料を10kg当たり240円から350円とする根拠、粗大ごみの料金不足や複数品の扱い、周知方法、持込手数料の据置きを審査。委員会は全員で可決すべきものと決した。日付は審査報告の掲載日。",
+        "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/iincyouhoukoku/R8_9teireikaihoukoku.files/R8.9kensetsu_gian.pdf#page=1",
+        "sourceTitle": "市議会 建設環境委員会議案審査経過報告１頁"
+      },
+      {
+        "date": "2026-09-30",
+        "actor": "狭山市議会",
+        "stage": "廃棄物処理・再利用条例改正案を原案可決",
+        "detail": "第58号の原案可決を公式結果で確認。紙面５頁は全員が賛成した議案として掲載。",
+        "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/gianitiran/R8_03gian.html",
+        "sourceTitle": "市議会 第３回定例会の議決結果",
+        "billNumber": "議案第58号"
+      },
+      {
+        "date": "2026-11-02",
+        "actor": "狭山市",
+        "stage": "翌年４月からの料金と納付方法を案内",
+        "detail": "2027年４月１日から、家庭の粗大ごみの戸別収集は重量制から長辺による料金区分と納付券による事前払いへ変えると告知。直接持込みの粗大ごみ手数料は据え置くと案内している。",
+        "url": "https://www.city.sayama.saitama.jp/kurashi/gomi/onegaioshirase/tesuuryoukaitei.html",
+        "sourceTitle": "市 一般廃棄物処理手数料等の改定について"
+      }
+    ],
+    "note": "2027年４月適用予定。施行後の収集・納付の実績は確認中です。"
+  },
+  {
+    "place": "狭山市",
+    "title": "一般会計決算をめぐり、反対と賛成の理由を討論",
+    "topic": "決算・事業の検証",
+    "actors": [
+      "大沢えみ子",
+      "酒井英男",
+      "狭山市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-09-30",
+        "actor": "大沢えみ子",
+        "stage": "一般会計決算認定案への反対を討論",
+        "detail": "公共施設の空調の故障と更新判断、基幹システム標準化の費用・サービス、選挙事務の体制、保育・学童の待機、奨学金の要件などを取り上げた。",
+        "url": "https://www.city.sayama.saitama.jp/gikai/gikaidayori/dayoriR8.files/231.pdf#page=4",
+        "sourceTitle": "さやま議会だより第231号・4頁",
+        "archiveId": "85083c73051bcf1897f0",
+        "blocks": [
+          30
+        ],
+        "memberActions": [
+          {
+            "name": "大沢えみ子",
+            "blocks": [
+              30
+            ],
+            "detail": "公共施設の空調の故障と更新判断、基幹システム標準化の費用・サービス、選挙事務の体制、保育・学童の待機、奨学金の要件などを取り上げた。"
+          }
+        ],
+        "billNumber": "議案第66号"
+      },
+      {
+        "date": "2026-09-30",
+        "actor": "酒井英男",
+        "stage": "一般会計決算認定案への賛成を討論",
+        "detail": "駅周辺整備、水泳授業の対象拡大、防災備蓄や子育て支援などを評価し、経常収支比率や公共施設の更新需要も踏まえた健全な財政運営を求めた。",
+        "url": "https://www.city.sayama.saitama.jp/gikai/gikaidayori/dayoriR8.files/231.pdf#page=4",
+        "sourceTitle": "さやま議会だより第231号・4頁",
+        "archiveId": "85083c73051bcf1897f0",
+        "blocks": [
+          31
+        ],
+        "memberActions": [
+          {
+            "name": "酒井英男",
+            "blocks": [
+              31
+            ],
+            "detail": "駅周辺整備、水泳授業の対象拡大、防災備蓄や子育て支援などを評価し、経常収支比率や公共施設の更新需要も踏まえた健全な財政運営を求めた。"
+          }
+        ],
+        "billNumber": "議案第66号"
+      },
+      {
+        "date": "2026-09-30",
+        "actor": "狭山市議会",
+        "stage": "表決の結果、令和７年度の一般会計決算を認定",
+        "detail": "議案第66号を認定。公式録画目録に討論者、議会だより５頁に記名採決欄がある。",
+        "url": "https://sayama.gijiroku.com/g07_Video_View.asp?SrchID=1564",
+        "sourceTitle": "市議会 ９月30日閉会日の公式録画",
+        "billNumber": "議案第66号"
+      }
+    ],
+    "note": "決算の認定と、討論で取り上げた各要望の実施は別の段階です。"
+  },
+  {
+    "place": "狭山市",
+    "title": "衛星画像で漏水調査先を絞り込み、結果と精度を委員会で検証",
+    "topic": "水道・調査の効果検証",
+    "actors": [
+      "狭山市",
+      "狭山市建設環境委員会"
+    ],
+    "steps": [
+      {
+        "date": "2026-09-30",
+        "actor": "狭山市",
+        "stage": "２年度分の漏水調査と修繕の実績を報告",
+        "detail": "令和６・７年度に衛星画像解析と現地調査を実施した。解析対象610.1kmから現地調査対象118.2kmに絞り、現地調査全体で漏水111か所を確認、市の責任区分内で75か所を修繕。日付は報告の掲載日。",
+        "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/iincyouhoukoku/R8_9teireikaihoukoku.files/R8.9kensetsu_shokan.pdf#page=1",
+        "sourceTitle": "市議会 建設環境委員会所管事務調査経過報告１頁"
+      },
+      {
+        "date": "2026-09-30",
+        "actor": "狭山市建設環境委員会",
+        "stage": "的中率、費用・期間と更新計画への活用を質す",
+        "detail": "市は画像解析で抽出した178か所中78か所で漏水を発見し的中率44％と説明。委員会では従来の調査との比較、地形による精度差、管路更新への活用も確かめた。日付は報告の掲載日。",
+        "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/iincyouhoukoku/R8_9teireikaihoukoku.files/R8.9kensetsu_shokan.pdf#page=2",
+        "sourceTitle": "市議会 建設環境委員会所管事務調査経過報告２頁"
+      }
+    ],
+    "note": "現地調査全体の漏水111か所と、衛星画像で抽出した箇所での発見78か所は集計範囲が異なります。"
   }
 ]);

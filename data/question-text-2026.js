@@ -1669,6 +1669,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "fabbde77d6324efe7d31",
+      "place": "さいたま市",
+      "season": "fall",
+      "date": "2026-09-08",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "北岡久住議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://saitama-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=2469",
+      "speakers": [
+        "北岡久住"
+      ]
+    },
+    {
       "id": "f176ba5ae00169c5aeaa",
       "place": "さいたま市",
       "season": "fall",
@@ -26708,6 +26722,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "35131dcda12344737e18",
+      "place": "新座市",
+      "season": "fall",
+      "date": "2026-09-11",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "片山敏子議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1879",
+      "speakers": [
+        "片山敏子"
+      ]
+    },
+    {
       "id": "0c8e4191d0de8159369b",
       "place": "日高市",
       "season": "spring",
@@ -31984,12 +32012,58 @@ GIKAI.questionText = {
       "place": "狭山市",
       "season": "fall",
       "date": "2026-09",
-      "title": "狭山市議会だより231号・9月定例会の一般質問（紙面7〜14頁）",
+      "title": "さやま議会だより第231号・一般質問、議案質疑と討論",
       "url": "https://www.city.sayama.saitama.jp/gikai/gikaidayori/dayoriR8.files/231.pdf",
-      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "kind": "議会だよりの質問・答弁（紙面要約）",
       "scope": "summary",
-      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。 OCRの確認警告があるPDF 15頁を除外しています。",
-      "speakers": []
+      "note": "一般質問16人の44問答とその他の９見出し、議案質疑13組、決算討論２人、委員会の要望・活動を紙面と照合。一般質問の氏名・発言日は公式録画３日と照合。原紙面OCRも併録（OCRに確認警告がある案内の15頁を除く）。",
+      "speakers": [
+        "大沢えみ子",
+        "酒井英男",
+        "三浦和也",
+        "菅野淳",
+        "土方隆司",
+        "橋本亜矢",
+        "内藤光雄",
+        "船川秀子",
+        "広山清志",
+        "衣川千代子",
+        "関根弘樹",
+        "豊泉正人",
+        "太田博希",
+        "丸橋ユキ",
+        "笹本英輔",
+        "田中寿夫"
+      ]
+    },
+    {
+      "id": "0a252ae25dbf23502e0d",
+      "place": "狭山市",
+      "season": "fall",
+      "date": "2026-09",
+      "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/shitumon/shitumonR8_03.html",
+      "title": "９月定例会の一般質問通告・16人、30大項目",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "note": "公式の議員別質問要旨を掲載。日付・氏名と録画リンクを公式録画目録と照合。",
+      "speakers": [
+        "大沢えみ子",
+        "酒井英男",
+        "三浦和也",
+        "菅野淳",
+        "土方隆司",
+        "橋本亜矢",
+        "内藤光雄",
+        "船川秀子",
+        "広山清志",
+        "衣川千代子",
+        "関根弘樹",
+        "豊泉正人",
+        "太田博希",
+        "丸橋ユキ",
+        "笹本英輔",
+        "田中寿夫"
+      ]
     },
     {
       "id": "c70552b80dd32f4a29f3",
@@ -32006,6 +32080,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "eff74b7b8056efa00229",
+      "place": "狭山市",
+      "season": "fall",
+      "date": "2026-09-15",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "酒井英男議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://sayama.gijiroku.com/g07_Video_View.asp?SrchID=1548",
+      "speakers": [
+        "酒井英男"
+      ]
+    },
+    {
       "id": "0122bdf4e2576e1510f7",
       "place": "狭山市",
       "season": "fall",
@@ -32017,6 +32105,23 @@ GIKAI.questionText = {
       "url": "https://sayama.gijiroku.com/g07_Video_View.asp?SrchID=1554",
       "speakers": [
         "船川秀子"
+      ]
+    },
+    {
+      "id": "8a3a8f5c9ee7cf911e74",
+      "place": "狭山市",
+      "season": "fall",
+      "date": "2026-09-25",
+      "url": "https://www.city.sayama.saitama.jp/kosodate/kyoikuiinkai/edumeeting.files/R8-9gijiroku.pdf",
+      "title": "９月25日教育委員会会議録・定例会の質疑と答弁の報告",
+      "kind": "公式会議録PDFのOCR転記",
+      "scope": "summary",
+      "note": "第９回教育委員会会議録１～２頁のうち、市議会の報告と関連質疑を収録。掲載議員名は教育委員会で報告された一般質問の質問者。",
+      "speakers": [
+        "酒井英男",
+        "菅野淳",
+        "内藤光雄",
+        "笹本英輔"
       ]
     },
     {
@@ -36102,6 +36207,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "6a38336705d223a58796",
+      "place": "越谷市",
+      "season": "fall",
+      "date": "2026-09-07",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "小口高寛議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://koshigaya.gijiroku.com/g07_Video_View.asp?SrchID=2464",
+      "speakers": [
+        "小口高寛"
+      ]
+    },
+    {
       "id": "f0ca3598087e29afcf15",
       "place": "長瀞町",
       "season": "spring",
@@ -37702,7 +37821,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://saitama-city.stream.jfit.co.jp/?tpl=gikai_days_list&gikai_id=203",
-        "note": "公式録画一覧の代表・一般質問21人のうち、10人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
+        "note": "公式録画一覧の代表・一般質問21人のうち、11人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
       }
     },
     {
@@ -38023,7 +38142,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://sayama.gijiroku.com/g07_Video_Search.asp",
-        "note": "公式録画一覧の一般質問16人のうち、2人の映像音声を機械文字起こしとして収録。正式会議録は確認中。議会だよりの質問・答弁要旨も収録。公開された委員長報告4資料も収録。"
+        "note": "16人の一般質問44問答とその他９見出し、議案質疑13組、決算討論２人、公式通告30大項目。公式録画のうち機械文字起こし3/16件。委員長報告４資料と教育委員会会議録の関連部分も収録。正式本会議録は確認中。"
       }
     },
     {
@@ -38184,7 +38303,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://www.city.koshigaya.saitama.jp/gikai/dayori/2026/234-6-7.html",
-        "note": "議会だよりの一般質問22人27問答、常任委員会と予算決算分科会の25問答を収録。一般質問４日・22人の公式録画と照合。正式会議録は確認中。 録画の機械文字起こし1/22件も収録。"
+        "note": "議会だよりの一般質問22人27問答、常任委員会と予算決算分科会の25問答を収録。一般質問４日・22人の公式録画と照合。正式会議録は確認中。 録画の機械文字起こし2/22件も収録。"
       }
     },
     {
@@ -38373,7 +38492,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://niiza-city.stream.jfit.co.jp/?tpl=gikai_days_list&gikai_id=96",
-        "note": "新座の公式録画から機械文字起こし７人分を参考収録。議会だより第238号の質問・答弁要旨はPDF７頁を収録。原音照合と正式会議録は確認中。"
+        "note": "新座の公式録画から機械文字起こし8人分を参考収録。議会だより第238号の質問・答弁要旨はPDF７頁を収録。原音照合と正式会議録は確認中。"
       }
     },
     {
