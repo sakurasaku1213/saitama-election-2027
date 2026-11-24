@@ -4615,3 +4615,452 @@ GIKAI.cases.push(...[
     "note": "現地調査全体の漏水111か所と、衛星画像で抽出した箇所での発見78か所は集計範囲が異なります。"
   }
 ]);
+
+GIKAI.cases.push(...[
+  {
+    "place": "坂戸市",
+    "title": "北坂戸さかろんパークの防災井戸と維持費を確認し、工事契約案を可決",
+    "topic": "公園・防災",
+    "actors": [
+      "坂戸市",
+      "坂戸市議会",
+      "環境都市常任委員会",
+      "古内秀宣"
+    ],
+    "steps": [
+      {
+        "date": "2026-01-01",
+        "actor": "坂戸市",
+        "stage": "旧北坂戸小学校用地に整備する公園の名称を公表",
+        "detail": "旧校用地を使う都市公園の名称を、近隣住民からの募集と市内小学生の投票により決定した。",
+        "url": "https://www.city.sakado.lg.jp/soshiki/62/53604.html",
+        "sourceTitle": "市 北坂戸さかろんパークの名称決定"
+      },
+      {
+        "date": "2026-09-10",
+        "actor": "環境都市常任委員会",
+        "stage": "水遊び施設の維持費を確認",
+        "detail": "水遊び施設の年間の費用について、市は７～９月の３か月の運用で水道・電気・水質管理など約200万円と見込むと説明した。",
+        "url": "https://www.city.sakado.lg.jp/uploaded/attachment/37154.pdf#page=4",
+        "sourceTitle": "さかど市議会だより第182号・紙面７頁（PDF４頁）"
+      },
+      {
+        "date": "2026-09-16",
+        "actor": "古内秀宣",
+        "stage": "災害時に使える井戸の整備予定を確認",
+        "detail": "新たに災害時に利用できる井戸の設置予定を質し、市は旧小学校跡地の北坂戸さかろんパークに防災井戸を設ける予定と答えた。",
+        "url": "https://www.city.sakado.lg.jp/uploaded/attachment/37154.pdf#page=6",
+        "sourceTitle": "さかど市議会だより第182号・紙面11頁（PDF6頁）",
+        "archiveId": "db57275c89c7a7b0bf01",
+        "blocks": [
+          5
+        ],
+        "memberActions": [
+          {
+            "name": "古内秀宣",
+            "blocks": [
+              5
+            ],
+            "detail": "新たに災害時に利用できる井戸の設置予定を質し、市は旧小学校跡地の北坂戸さかろんパークに防災井戸を設ける予定と答えた。"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-28",
+        "actor": "坂戸市議会",
+        "stage": "公園整備工事の請負契約議案を原案可決",
+        "detail": "第63号議案を全員で原案可決した。",
+        "url": "https://www.city.sakado.lg.jp/site/sakadogikai/61617.html",
+        "sourceTitle": "坂戸市議会 ９月定例会の議決結果",
+        "billNumber": "議案第63号"
+      }
+    ],
+    "note": "工事契約議案の可決、設備の計画、供用開始を別々に追えます。防災井戸の完成・供用は確認中です。"
+  },
+  {
+    "place": "坂戸市",
+    "title": "入西小学校の校舎改修で施工不良が判明し、通行確保の補正予算を可決",
+    "topic": "学校施設・安全",
+    "actors": [
+      "坂戸市",
+      "坂戸市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-19",
+        "actor": "坂戸市議会",
+        "stage": "校舎外壁等の改修工事契約案を可決",
+        "detail": "入西小学校校舎外壁等改修工事の契約議案第34号を全員で原案可決した。",
+        "url": "https://www.city.sakado.lg.jp/site/sakadogikai/57457.html",
+        "sourceTitle": "坂戸市議会 ３月定例会の議決結果",
+        "billNumber": "議案第34号"
+      },
+      {
+        "date": "2026-09-28",
+        "actor": "坂戸市議会、坂戸市",
+        "stage": "東棟柱の施工不良と、渡り廊下の補正予算を審議",
+        "detail": "外壁改修で柱躯体の欠損が判明。市は東棟の児童利用を停止し、補修設計と屋外の移動経路を守る渡り廊下の整備、安全対策を説明した。答弁では令和９年２月末までの渡り廊下設置を目指すとした。第69号の補正予算案を全員で原案可決した。",
+        "url": "https://www.city.sakado.lg.jp/uploaded/attachment/37154.pdf#page=2",
+        "sourceTitle": "さかど市議会だより第182号・紙面３頁（PDF２頁）",
+        "archiveId": "db57275c89c7a7b0bf01",
+        "blocks": [
+          19,
+          20,
+          21,
+          22
+        ],
+        "billNumber": "議案第69号"
+      },
+      {
+        "date": "2026-11-05",
+        "actor": "坂戸市",
+        "stage": "渡り廊下設置等工事を公告",
+        "detail": "市の告示第325号は渡り廊下と南校舎ドア等の工事を対象とし、開札を12月７日、工事全体の期限を契約締結日から令和９年３月24日までと記載した。",
+        "url": "https://api.nyusatsu-yoho.jp/genpon/15896417/file#page=1",
+        "sourceTitle": "坂戸市告示第325号・入札情報公開システム掲載PDFの保存写し"
+      }
+    ],
+    "note": "９月答弁は渡り廊下の設置目標。11月告示はドア改修等を含む工事全体の工期。落札・工事完了は確認中です。"
+  },
+  {
+    "place": "坂戸市",
+    "title": "市民バスの増便や代替手段を質し、協議会がルートの見直し案を承認",
+    "topic": "公共交通",
+    "actors": [
+      "石井寛",
+      "坂戸市",
+      "坂戸市地域公共交通活性化協議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-09-16",
+        "actor": "石井寛",
+        "stage": "増便、デマンド交通と乗合タクシーの可能性を確認",
+        "detail": "増便要望を踏まえ、職員の兼業運転や交通空白地域のデマンド交通・乗合タクシーを質した。市は増便が難しいとし、代替手段を調査研究すると答弁した。",
+        "url": "https://www.city.sakado.lg.jp/uploaded/attachment/37154.pdf#page=6",
+        "sourceTitle": "さかど市議会だより第182号・紙面11頁（PDF6頁）",
+        "archiveId": "db57275c89c7a7b0bf01",
+        "blocks": [
+          6
+        ],
+        "memberActions": [
+          {
+            "name": "石井寛",
+            "blocks": [
+              6
+            ],
+            "detail": "増便要望を踏まえ、職員の兼業運転や交通空白地域のデマンド交通・乗合タクシーを質した。市は増便が難しいとし、代替手段を調査研究すると答弁した。"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-23",
+        "actor": "坂戸市地域公共交通活性化協議会",
+        "stage": "運行とルートの見直しの素案を承認",
+        "detail": "運行業者の負担などを審議し、市民バスの運行とルートの見直しの素案を異議なく承認。会長は案を関東運輸局へ提出すると述べた。",
+        "url": "https://www.city.sakado.lg.jp/uploaded/attachment/37205.pdf#page=2",
+        "sourceTitle": "地域公共交通活性化協議会 議事要旨２～３頁"
+      }
+    ],
+    "note": "協議会でのルート案承認を確認。石井議員が尋ねた代替手段の導入や改定ルートの運行開始は確認中です。"
+  },
+  {
+    "place": "坂戸市",
+    "title": "桜の害虫被害の規模と防除の実績を確認",
+    "topic": "環境・桜の保全",
+    "actors": [
+      "新井文雄",
+      "坂戸市"
+    ],
+    "steps": [
+      {
+        "date": "2026-07-14",
+        "actor": "坂戸市",
+        "stage": "市管理地と民地を含む被害を公表",
+        "detail": "令和７年度末の学校、公園、街路樹、民家などの樹木被害は累計240本と公表した。日付は掲載更新日。",
+        "url": "https://www.city.sakado.lg.jp/soshiki/20/1376.html",
+        "sourceTitle": "市 クビアカツヤカミキリ被害の現状"
+      },
+      {
+        "date": "2026-09-17",
+        "actor": "新井文雄",
+        "stage": "学校での被害と市の防除実績を確認",
+        "detail": "学校・市管理地の被害と、奨励制度を含む対策を尋ねた。市は令和７年度に市管理地の桜延べ314本を予防も含め処置し、令和８年８月末には小６・中２校の桜48本で被害を確認したと答えた。",
+        "url": "https://www.city.sakado.lg.jp/uploaded/attachment/37154.pdf#page=7",
+        "sourceTitle": "さかど市議会だより第182号・紙面12頁（PDF7頁）",
+        "archiveId": "db57275c89c7a7b0bf01",
+        "blocks": [
+          8
+        ],
+        "memberActions": [
+          {
+            "name": "新井文雄",
+            "blocks": [
+              8
+            ],
+            "detail": "学校・市管理地の被害と、奨励制度を含む対策を尋ねた。市は令和７年度に市管理地の桜延べ314本を予防も含め処置し、令和８年８月末には小６・中２校の桜48本で被害を確認したと答えた。"
+          }
+        ]
+      }
+    ],
+    "note": "240本は民地を含む累計被害、314本は予防を含む市管理地での防除延べ本数です。奨励制度の新設は確認中です。"
+  },
+  {
+    "place": "坂戸市",
+    "title": "DV相談の体制を質し、県が始めた再発防止プログラムを確認",
+    "topic": "DV対策・相談支援",
+    "actors": [
+      "吉川厚季",
+      "坂戸市",
+      "埼玉県"
+    ],
+    "steps": [
+      {
+        "date": "2026-07-07",
+        "actor": "埼玉県",
+        "stage": "DVの加害行為をやめたい人向けのプログラムを記者会見で説明",
+        "detail": "県は、性別を問わず、加害行為をやめたい人向けにグループワークなどを行うプログラムを説明した。",
+        "url": "https://www.pref.saitama.lg.jp/a0001/room-kaiken/kaiken20260707.html",
+        "sourceTitle": "埼玉県 ７月７日の知事記者会見"
+      },
+      {
+        "date": "2026-09-17",
+        "actor": "吉川厚季",
+        "stage": "相談者数、保護体制と加害の再発防止を確認",
+        "detail": "被害の相談状況や保護、加害防止の連携を質した。市は令和７年度の相談人数は女性36人・男性１人、一時保護１件と答え、県の委託事業の内容を説明した。",
+        "url": "https://www.city.sakado.lg.jp/uploaded/attachment/37154.pdf#page=7",
+        "sourceTitle": "さかど市議会だより第182号・紙面13頁（PDF7頁）",
+        "archiveId": "db57275c89c7a7b0bf01",
+        "blocks": [
+          9
+        ],
+        "memberActions": [
+          {
+            "name": "吉川厚季",
+            "blocks": [
+              9
+            ],
+            "detail": "被害の相談状況や保護、加害防止の連携を質した。市は令和７年度の相談人数は女性36人・男性１人、一時保護１件と答え、県の委託事業の内容を説明した。"
+          }
+        ]
+      }
+    ],
+    "note": "県の事業と、市の相談・一時保護に関する答弁を追えます。再発防止の効果や市独自の事業は確認中です。"
+  },
+  {
+    "place": "坂戸市",
+    "title": "国保税の子ども・子育て支援金分をめぐり、負担と制度の考え方を討論",
+    "topic": "国民健康保険・子育て支援",
+    "actors": [
+      "新井文雄",
+      "野沢聖子",
+      "小川未奈子",
+      "鏑木幸代",
+      "坂戸市議会",
+      "坂戸市"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-19",
+        "actor": "新井文雄",
+        "stage": "支援金分を国保税に加える条例案に反対",
+        "detail": "医療保険の負担に上乗せすることや負担の地域差を問題とし、子育て支援の財源を公費で賄うよう求めた。",
+        "url": "https://ssp.kaigiroku.net/tenant/sakado/SpMinuteView.html?tenant_id=348&council_id=857&schedule_id=7",
+        "sourceTitle": "坂戸市議会 ３月19日正式会議録",
+        "archiveId": "7e17768196bf19b0919c",
+        "blocks": [
+          95
+        ],
+        "memberActions": [
+          {
+            "name": "新井文雄",
+            "blocks": [
+              95
+            ],
+            "detail": "医療保険の負担に上乗せすることや負担の地域差を問題とし、子育て支援の財源を公費で賄うよう求めた。"
+          }
+        ],
+        "billNumber": "議案第7号"
+      },
+      {
+        "date": "2026-03-19",
+        "actor": "野沢聖子",
+        "stage": "低所得世帯への軽減を挙げ、条例案に賛成",
+        "detail": "支援金を充てる事業と低所得世帯の軽減を挙げ、被保険者への周知に努めるよう求めた。",
+        "url": "https://ssp.kaigiroku.net/tenant/sakado/SpMinuteView.html?tenant_id=348&council_id=857&schedule_id=7",
+        "sourceTitle": "坂戸市議会 ３月19日正式会議録",
+        "archiveId": "7e17768196bf19b0919c",
+        "blocks": [
+          97
+        ],
+        "memberActions": [
+          {
+            "name": "野沢聖子",
+            "blocks": [
+              97
+            ],
+            "detail": "支援金を充てる事業と低所得世帯の軽減を挙げ、被保険者への周知に努めるよう求めた。"
+          }
+        ],
+        "billNumber": "議案第7号"
+      },
+      {
+        "date": "2026-03-19",
+        "actor": "小川未奈子",
+        "stage": "均等割の負担設計に反対し、制度見直しを求める",
+        "detail": "所得の状況に応じた負担の在り方を問題にし、市が国へ制度の抜本的な見直しを要望すべきだと述べた。",
+        "url": "https://ssp.kaigiroku.net/tenant/sakado/SpMinuteView.html?tenant_id=348&council_id=857&schedule_id=7",
+        "sourceTitle": "坂戸市議会 ３月19日正式会議録",
+        "archiveId": "7e17768196bf19b0919c",
+        "blocks": [
+          99
+        ],
+        "memberActions": [
+          {
+            "name": "小川未奈子",
+            "blocks": [
+              99
+            ],
+            "detail": "所得の状況に応じた負担の在り方を問題にし、市が国へ制度の抜本的な見直しを要望すべきだと述べた。"
+          }
+        ],
+        "billNumber": "議案第7号"
+      },
+      {
+        "date": "2026-03-19",
+        "actor": "鏑木幸代",
+        "stage": "子育て支援を社会全体で負担する趣旨から賛成",
+        "detail": "全世代と経済主体で子育て世帯を支える国の制度を踏まえ、子育て支援納付金分を国保税に加える改正案に賛成した。",
+        "url": "https://ssp.kaigiroku.net/tenant/sakado/SpMinuteView.html?tenant_id=348&council_id=857&schedule_id=7",
+        "sourceTitle": "坂戸市議会 ３月19日正式会議録",
+        "archiveId": "7e17768196bf19b0919c",
+        "blocks": [
+          101
+        ],
+        "memberActions": [
+          {
+            "name": "鏑木幸代",
+            "blocks": [
+              101
+            ],
+            "detail": "全世代と経済主体で子育て世帯を支える国の制度を踏まえ、子育て支援納付金分を国保税に加える改正案に賛成した。"
+          }
+        ],
+        "billNumber": "議案第7号"
+      },
+      {
+        "date": "2026-03-19",
+        "actor": "坂戸市議会",
+        "stage": "条例改正案を起立多数で可決",
+        "detail": "議案第７号は正式会議録で起立15人。紙面の会派等表決では民主の会の欄が会派内の賛否の分かれを示す△。",
+        "url": "https://ssp.kaigiroku.net/tenant/sakado/SpMinuteView.html?tenant_id=348&council_id=857&schedule_id=7",
+        "sourceTitle": "坂戸市議会 ３月19日正式会議録",
+        "archiveId": "7e17768196bf19b0919c",
+        "blocks": [
+          104,
+          105
+        ],
+        "billNumber": "議案第7号"
+      },
+      {
+        "date": "2026-07-01",
+        "actor": "坂戸市",
+        "stage": "支援金分を含む令和８年度国保税の計算を掲載",
+        "detail": "支援金分を含む税額の計算方法を掲載した。日付は公式ページの更新日。",
+        "url": "https://www.city.sakado.lg.jp/soshiki/18/50243.html",
+        "sourceTitle": "市 令和８年度国民健康保険税"
+      }
+    ],
+    "note": "討論者の理由は正式会議録、会派等の賛否は議会だよりの表決表に基づきます。"
+  },
+  {
+    "place": "坂戸市",
+    "title": "産後ケアの対象に関する案内と決算審査での利用実績",
+    "topic": "母子保健・産後ケア",
+    "actors": [
+      "坂戸市",
+      "予算決算常任委員会"
+    ],
+    "steps": [
+      {
+        "date": "2026-04-01",
+        "actor": "坂戸市",
+        "stage": "産後ケアの利用対象と申請方法を案内",
+        "detail": "市は、市内に住所を有し出産後１年未満の母と子を対象とする産後ケアの申込み方法を案内。日付は掲載更新日。",
+        "url": "https://www.city.sakado.lg.jp/site/sakado-kosodate/431.html",
+        "sourceTitle": "市 産後ケア事業の案内"
+      },
+      {
+        "date": "2026-09",
+        "actor": "予算決算常任委員会",
+        "stage": "対象要件の緩和後の利用回数を確認",
+        "detail": "委員会の決算審査で、対象要件を緩和した後の利用を確認。市は延べ利用回数が令和６年度178回から令和７年度450回に増えたと報告した。",
+        "url": "https://www.city.sakado.lg.jp/uploaded/attachment/37154.pdf#page=4",
+        "sourceTitle": "さかど市議会だより第182号・紙面６頁（PDF４頁）",
+        "archiveId": "db57275c89c7a7b0bf01",
+        "blocks": [
+          32
+        ]
+      }
+    ],
+    "note": "利用実績は延べ回数です。紙面は質疑をした委員名と個別の発言日を掲載していません。"
+  },
+  {
+    "place": "坂戸市",
+    "title": "議員提案のハラスメント防止条例が可決され、施行",
+    "topic": "議会運営・議員提案",
+    "actors": [
+      "石井寛",
+      "坂戸市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-19",
+        "actor": "石井寛",
+        "stage": "ハラスメント防止条例案の提案理由を説明",
+        "detail": "提出者として第２号議案の趣旨を説明し、議員が互いの人格を尊重し、ハラスメントを防止して議会が役割を果たすための条例案を示した。",
+        "url": "https://ssp.kaigiroku.net/tenant/sakado/SpMinuteView.html?tenant_id=348&council_id=857&schedule_id=7",
+        "sourceTitle": "坂戸市議会 ３月19日正式会議録",
+        "archiveId": "7e17768196bf19b0919c",
+        "blocks": [
+          334
+        ],
+        "memberActions": [
+          {
+            "name": "石井寛",
+            "blocks": [
+              334
+            ],
+            "detail": "提出者として第２号議案の趣旨を説明し、議員が互いの人格を尊重し、ハラスメントを防止して議会が役割を果たすための条例案を示した。"
+          }
+        ],
+        "billNumber": "議員提出議案第2号"
+      },
+      {
+        "date": "2026-03-19",
+        "actor": "坂戸市議会",
+        "stage": "議員提出議案第２号を全会一致で可決",
+        "detail": "委員会付託を省略し、異議なしで条例案を原案可決した。",
+        "url": "https://ssp.kaigiroku.net/tenant/sakado/SpMinuteView.html?tenant_id=348&council_id=857&schedule_id=7",
+        "sourceTitle": "坂戸市議会 ３月19日正式会議録",
+        "archiveId": "7e17768196bf19b0919c",
+        "blocks": [
+          339,
+          340,
+          343,
+          344
+        ],
+        "billNumber": "議員提出議案第2号"
+      },
+      {
+        "date": "2026-03-25",
+        "actor": "坂戸市",
+        "stage": "市議会ハラスメント防止条例が施行",
+        "detail": "議会公式ページは、３月19日の議員提案と全会一致の議決を経て３月25日に施行されたと掲載している。",
+        "url": "https://www.city.sakado.lg.jp/site/sakadogikai/11932.html",
+        "sourceTitle": "坂戸市議会 議員提案条例の施行のお知らせ"
+      }
+    ],
+    "note": "提案理由の説明、議決、施行の日付を確認。施行後の運用実績は確認中です。"
+  }
+]);
