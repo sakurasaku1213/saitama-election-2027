@@ -563,25 +563,64 @@ GIKAI.cases.push(
     place: "小鹿野町",
     title: "倉尾地区の乗合タクシーを条例に位置づけ、運行区域に追加",
     topic: "地域交通",
-    actors: ["出浦正夫", "岩田和幸", "皆本富男", "加藤喜一", "小鹿野町議会", "小鹿野町"],
+    actors: ["出浦正夫", "岩田和幸", "皆本富男", "加藤喜一", "黒沢武", "小鹿野町議会", "小鹿野町"],
     steps: [
+      {
+        date: "2025-10-14", stage: "倉尾線の代替交通と運行区域の変更を検討", actor: "小鹿野町地域公共交通協議会",
+        detail: "自家用有償旅客運送の新規登録と乗合タクシーの区域追加を協議。事務局は６月・７月の実証、８月からの本格運行、倉尾線廃止後の運行区域拡大の想定を説明した。",
+        url: "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/03/251014koutuukaigigizi.pdf#page=3",
+        sourceTitle: "小鹿野町地域公共交通協議会 令和７年10月14日議事要旨 PDF３・５頁",
+      },
       {
         date: "2026-03-04", stage: "路線バスとの併用と車両台数を質疑", actor: "出浦正夫",
         detail: "倉尾線が存続する間の運行と、乗合タクシー１台で需要を満たせるかを質した。町は、実証・本格運行の予定と、10月から倉尾と小鹿野・長若の車両が相互に入れるようにする考えを答えた。",
         url: "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0211",
         sourceTitle: "小鹿野町議会 ３月４日会議録・乗合タクシー運行条例案の質疑",
+        archiveId: "a47a0def12ffc044bf60",
+        memberActions: [
+          { name: "出浦正夫", blocks: [12], detail: "倉尾線が残る間の運行と、乗合タクシーが１台で足りない場合に実証結果を踏まえて増車する余地があるかを尋ねた。" },
+        ],
       },
       {
-        date: "2026-03-04", stage: "運行の開始時期・区域・料金を質疑", actor: "岩田和幸、皆本富男、加藤喜一",
-        detail: "岩田議員は２種類の運行方法、実証開始までの手続、運行範囲を確認した。皆本議員は既存事業者との連携を、加藤議員は倉尾線との運賃差を尋ねた。",
+        date: "2026-03-04", stage: "開始手続・区域・運賃・運転手の確保を質疑", actor: "岩田和幸、皆本富男、加藤喜一、黒沢武",
+        detail: "岩田議員は２種類の運行方法、実証開始までの手続、運行範囲を確認した。皆本議員は既存事業者との連携、加藤議員は倉尾線との運賃差、黒沢議員は運転手確保に向けた講習の支援を尋ねた。",
         url: "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0211",
-        sourceTitle: "小鹿野町議会 ３月４日会議録・運行方法、区域、利用料金の質疑",
+        sourceTitle: "小鹿野町議会 ３月４日会議録・運行、利用料金、運転手の質疑",
+        archiveId: "a47a0def12ffc044bf60",
+        memberActions: [
+          { name: "岩田和幸", blocks: [12], detail: "一般旅客運送と自家用有償旅客運送の違い、実証開始までの手続、許可と運行範囲を尋ねた。" },
+          { name: "皆本富男", blocks: [12], detail: "町の乗合タクシーに切り替えるに当たり、既存のタクシー事業者との調整や連携を尋ねた。" },
+          { name: "加藤喜一", blocks: [12], detail: "乗合タクシーの１回300円という運賃と、既存の倉尾線の運賃にどれほど差があるかを尋ねた。" },
+          { name: "黒沢武", blocks: [12], detail: "運転手を確保するため、講習を受ける人への補助などを町が考えているか尋ねた。町は事業者が採用するため、直接の補助は考えていないと答えた。" },
+        ],
       },
       {
         date: "2026-03-04", stage: "乗合タクシー運行条例案を可決", actor: "小鹿野町議会",
         detail: "倉尾地区での自家用有償旅客運送と、小鹿野・長若地区での既存の運行を位置づける条例案を異議なしで可決した。",
         url: "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0211",
         sourceTitle: "小鹿野町議会 ３月４日会議録・議案第１号の採決", billNumber: "議案第1号",
+      },
+      {
+        date: "2026-06-01", stage: "６月１日からの利用方法を案内", actor: "小鹿野町",
+        detail: "町の案内は、事業者協力型の自家用有償旅客運送について、利用登録と予約方法を示した。日付は案内の表記。",
+        url: "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/08/R8.8.1_noriaitaxi_p.pdf",
+        sourceTitle: "小鹿野町乗合タクシー利用案内 PDF１頁",
+      },
+      {
+        date: "2026-06-10", stage: "実証運行の目的と利用登録を改めて質疑", actor: "出浦正夫、南徳秀 総合政策課長",
+        detail: "出浦議員は実証で何を明らかにするかを質し、登録者を増やす取組を求めた。総合政策課長は予約方法・運行本数・乗降場所の検証、利用方法の周知、実証期間中の無料運行を説明し、倉尾地区の登録者は127人と答えた。",
+        url: "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0806Tmain.html#0208",
+        sourceTitle: "小鹿野町議会 ６月10日本会議録・出浦正夫議員の一般質問",
+        archiveId: "8f5b1ad86f2a27df3973",
+        memberActions: [
+          { name: "出浦正夫", blocks: [9], detail: "３月の条例審議に続き、倉尾の実証運行で何を検証するかを尋ね、利用登録を増やす取組を求めた。" },
+        ],
+      },
+      {
+        date: "2026-08-24", stage: "運行計画の変更と登録更新の申請を協議", actor: "小鹿野町地域公共交通協議会",
+        detail: "町の開催記録では、乗合タクシーの計画変更と認定の変更申請、自家用有償旅客運送の登録更新申請を議題にした。申請の処理結果は確認中。",
+        url: "https://www.town.ogano.lg.jp/kurashi-tetsuzuki/bus-taxi/",
+        sourceTitle: "小鹿野町 地域公共交通協議会の開催状況・令和８年８月24日",
       },
       {
         date: "2026-09-30", stage: "西武観光バス倉尾線の廃止日", actor: "西武観光バス、秩父市",
@@ -591,12 +630,12 @@ GIKAI.cases.push(
       },
       {
         date: "2026-11", stage: "倉尾地区を含む運行を確認", actor: "小鹿野町",
-        detail: "町公式の利用案内では、小鹿野・長若・倉尾地区を運行区域とし、事前登録、当日の予約、区域外で乗降できる施設の一覧を公表している。",
+        detail: "町公式の利用案内では、小鹿野・長若・倉尾地区が運行区域。事前登録、当日の予約、区域外の乗降場所を案内し、通常運賃を１回300円としている。",
         url: "https://www.town.ogano.lg.jp/kurashi-tetsuzuki/bus-taxi/",
         sourceTitle: "小鹿野町 町営バス＆乗合タクシーの現行案内",
       },
     ],
-    note: "３月の答弁にある実証・本格運行の日付は当時の予定です。現行の運行区域は町の利用案内で確認しました。",
+    note: "３月の答弁にある実証・本格運行の日付は当時の予定です。６月10日の本会議録には登録127人、議会だより第84号６頁の要約には133人とあります。紙面の人数がいつの集計かは確認中です。現行の運行区域は町の利用案内で確認しました。",
   },
   {
     place: "東秩父村",
@@ -609,6 +648,10 @@ GIKAI.cases.push(
         detail: "舞台設備、造作家具、案内サインを付帯工事として発注すると、本体と施工者が異なる場合の工程調整が難しくなる点や、不落時の対応を質した。村は専門工事を分ける方が経費面で合理的と判断したと答えた。",
         url: "https://ssp.kaigiroku.net/tenant/higashichichibu/SpMinuteView.html?tenant_id=91&council_id=114&schedule_id=4",
         sourceTitle: "東秩父村議会 ３月９日会議録・当初予算の質疑",
+        archiveId: "fb7a43f60aed47fdd038",
+        memberActions: [
+          { name: "渡辺絹代", blocks: [25, 27, 29, 31, 33, 35], detail: "舞台設備・造作家具・案内サインを本体と分ける理由を質し、別業者が施工する場合の調整と、不落時の対応を尋ねた。" },
+        ],
       },
       {
         date: "2026-03-09", stage: "付帯工事の債務負担行為を含む当初予算を可決", actor: "東秩父村議会",
@@ -627,6 +670,12 @@ GIKAI.cases.push(
         detail: "渡辺議員は付帯工事の落札率97.97％を確認し、本体と分けると経費を抑えられるとした３月の説明を問い直した。村は、一括発注した場合の価格との単純比較はできないと答えた。吉野議員は一体発注の可否を、梅澤議員は契約額の税込み・税抜きを確認した。",
         url: "https://ssp.kaigiroku.net/tenant/higashichichibu/SpMinuteView.html?tenant_id=91&council_id=115&schedule_id=3",
         sourceTitle: "東秩父村議会 ６月12日会議録・付帯工事契約の質疑",
+        archiveId: "671b4b06b868b8e3caaf",
+        memberActions: [
+          { name: "渡辺絹代", blocks: [168, 170, 172, 176, 178, 180], detail: "付帯工事の落札率97.97％を確認し、分離発注で経費を抑えられるとした３月の説明を、実際の落札結果を踏まえて問い直した。" },
+          { name: "吉野文泰", blocks: [182, 184], detail: "本体と付帯工事を同じ業者が落札したことを踏まえ、分けて発注した利点があったのかを尋ねた。" },
+          { name: "梅澤邦夫", blocks: [186, 189, 191], detail: "契約額が税込みかを確認し、予算の債務負担行為の限度額に収まるかを尋ねた。" },
+        ],
       },
       {
         date: "2026-06-12", stage: "付帯工事の契約議案を可決", actor: "東秩父村議会",
@@ -639,6 +688,9 @@ GIKAI.cases.push(
         detail: "新庁舎の吹き抜けが冷暖房効率に与える影響や、光熱費を抑えながら執務環境を保つ運用方法を質問事項とした。シャワールームの設置目的、利用基準と管理方法も通告した。",
         url: "https://www.vill.higashichichibu.saitama.jp/uploaded/life/8517_61127_misc.pdf#page=9",
         sourceTitle: "東秩父村議会 ９月定例会の質問通告 PDF９頁",
+        memberActions: [
+          { name: "渡辺絹代", detail: "新庁舎の冷暖房効率や光熱費、シャワールームの利用基準を一般質問の事項として通告した。発言と答弁は確認中。" },
+        ],
       },
       {
         date: "2026-10", stage: "庁舎本体の鉄骨工事完了を報告", actor: "東秩父村",
@@ -660,6 +712,10 @@ GIKAI.cases.push(
         detail: "小・中学校を同時に無償化する方針が予算案に盛り込まれたことを確認した上で、小学校の給食費と国の補助額との差、中学校の給食費を前年度の町補助の規模で賄えるかを尋ねた。",
         url: "https://www.town.kamisato.saitama.jp/secure/15813/R8.3.5.pdf#page=26",
         sourceTitle: "上里町議会 ３月５日本会議録 PDF25・26頁",
+        archiveId: "e985317237cd26aa8ccc",
+        memberActions: [
+          { name: "沓澤幸子", blocks: [25, 26, 32, 33, 35], detail: "無償化を盛り込んだ予算案について、小学校給食費と国の支援額の差及び中学校の町負担を尋ね、財源の見通しを確認した。" },
+        ],
       },
       {
         date: "2026-03-05", stage: "小学校の補助と中学校の町負担を答弁", actor: "齋藤雅男 教育長",
@@ -672,6 +728,20 @@ GIKAI.cases.push(
         detail: "反対討論で、給食無償化の予算計上を評価した。その上で、学校体育館の空調や生活道路などの施策が不足するという理由を挙げ、当初予算案全体に反対した。",
         url: "https://www.town.kamisato.saitama.jp/secure/15813/R8.3.18.pdf#page=19",
         sourceTitle: "上里町議会 ３月18日本会議録 PDF19・20頁",
+        archiveId: "f442ed2b9a74ffb6e584",
+        memberActions: [
+          { name: "沓澤幸子", blocks: [19, 20], detail: "給食無償化の予算計上を評価し、体育館の空調や生活道路の施策が不足するとして一般会計予算案全体に反対した。" },
+        ],
+      },
+      {
+        date: "2026-03-18", stage: "給食無償化などを挙げて予算案に賛成", actor: "植原育雄",
+        detail: "植原議員は、小中学校の給食無償化や学校の改修などを子育て支援の強化として評価し、一般会計予算案に賛成した。",
+        url: "https://www.town.kamisato.saitama.jp/secure/15813/R8.3.18.pdf#page=20",
+        sourceTitle: "上里町議会 ３月18日本会議録 PDF20・21頁・賛成討論",
+        archiveId: "f442ed2b9a74ffb6e584",
+        memberActions: [
+          { name: "植原育雄", blocks: [20, 21], detail: "小中学校の給食無償化など子育て支援を評価し、一般会計予算案に賛成した。" },
+        ],
       },
       {
         date: "2026-03-18", stage: "給食無償化を含む一般会計当初予算を可決", actor: "上里町議会",
@@ -1532,7 +1602,11 @@ GIKAI.cases.push(
         "stage": "資材納期と工事工程を質す",
         "detail": "木俣委員は建設資材の入手が遅れる例を踏まえ、新庁舎の工程に支障がないかを尋ねた。町は当時、鉄骨などの納期の遅れについて事業者から連絡を受けていないと答えた。",
         "url": "https://ssp.kaigiroku.net/tenant/inamachi/SpMinuteView.html?tenant_id=218&council_id=454&schedule_id=1",
-        "sourceTitle": "伊奈町議会 新庁舎建設特別委員会・発言順53・55・57"
+        "sourceTitle": "伊奈町議会 新庁舎建設特別委員会・発言順53・55・57",
+        "archiveId": "35105cf15cc03bf2ab54",
+        "memberActions": [
+          { "name": "木俣美千代", "blocks": [53, 55, 57], "detail": "資材の納入が遅れる例を挙げ、新庁舎工事の工程に支障がないかを尋ねた。" }
+        ]
       },
       {
         "date": "2026-09-01",
@@ -1540,7 +1614,11 @@ GIKAI.cases.push(
         "stage": "現場の安全管理と地元発注の実績を確認",
         "detail": "武藤委員は、別棟を工事しながら本庁舎を使う他市の視察結果と、地元発注に含まれる職員宿舎を確認した。町は工事中の安全管理や案内表示を参考にしたと説明し、６月末までの地元発注を４億2,699万1,628円と報告した。",
         "url": "https://ssp.kaigiroku.net/tenant/inamachi/SpMinuteView.html?tenant_id=218&council_id=459&schedule_id=1",
-        "sourceTitle": "伊奈町議会 新庁舎建設特別委員会・発言順５～17"
+        "sourceTitle": "伊奈町議会 新庁舎建設特別委員会・発言順５～17",
+        "archiveId": "7fbc0b5ebab0ca600541",
+        "memberActions": [
+          { "name": "武藤倫雄", "blocks": [7, 9, 13, 15, 17], "detail": "別棟を工事しながら本庁舎を使用する府中市の視察成果と、地元発注額に計上した職員宿舎の内容を尋ねた。" }
+        ]
       },
       {
         "date": "2026-10-05",

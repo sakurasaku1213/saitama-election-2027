@@ -1038,7 +1038,11 @@
       const summary = document.createElement("summary");
       summary.textContent = "会議録の全本文を読む";
       full.append(summary);
-      for (const position of positions) column.append(questionBodyBlock(stored[position - 1], `会議録の発言順 ${position}`));
+      for (const position of positions) {
+        const block = stored[position - 1];
+        const locator = /^PDF \d+頁$|^議案第|君$/.test(block[0]) ? block[0] : `会議録の発言順 ${position}`;
+        column.append(questionBodyBlock(block, locator));
+      }
       for (const block of stored) full.append(questionBodyBlock(block));
       column.append(full);
     } else {

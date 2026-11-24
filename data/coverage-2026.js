@@ -7778,12 +7778,12 @@ GIKAI.coverage2026 = {
           "note": "公式本会議録の、採決結果または報告終結が記された36件を照合。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "議会だより第83号８頁の記名表決36件を町の本会議録の案件と照合。"
         },
         "policy": {
           "state": "partial",
-          "note": "倉尾地区の乗合タクシーを、条例案質疑・議決・町の現行の利用案内に照合。会期全体の経過は確認中。"
+          "note": "倉尾の乗合タクシーについて、条例案質疑後の実証運行の質疑と町の運行案内を照合。"
         }
       },
       "sources": [
@@ -7806,6 +7806,10 @@ GIKAI.coverage2026 = {
         {
           "label": "議決を確認した公式本会議録",
           "url": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html"
+        },
+        {
+          "label": "小鹿野町議会だより第83号・記名表決",
+          "url": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/04/ogano-gikai-83.pdf#page=8"
         }
       ]
     },
@@ -7834,12 +7838,12 @@ GIKAI.coverage2026 = {
           "note": "公式本会議録の、採決結果または報告終結が記された16件を照合。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "議会だより第84号４頁の記名表決16件を町の本会議録の案件と照合。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "倉尾の乗合タクシーについて、条例案質疑後の実証運行の質疑と町の運行案内を照合。"
         }
       },
       "sources": [
@@ -7858,6 +7862,10 @@ GIKAI.coverage2026 = {
         {
           "label": "議決を確認した公式本会議録",
           "url": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0806Tmain.html"
+        },
+        {
+          "label": "小鹿野町議会だより第84号・記名表決",
+          "url": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/08/ogano-gikai-84.pdf#page=4"
         }
       ]
     },
@@ -25432,7 +25440,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0210",
       "sourceType": "公式本会議録",
       "resultLocator": "3月4日本会議録・承認第1号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。議会だより第83号８頁。賛成11人、反対0人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "賛成",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/04/ogano-gikai-83.pdf#page=8",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -25446,7 +25470,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0211",
       "sourceType": "公式本会議録",
       "resultLocator": "3月4日本会議録・議案第1号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。議会だより第83号８頁。賛成11人、反対0人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "賛成",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/04/ogano-gikai-83.pdf#page=8",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -25460,7 +25500,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0212",
       "sourceType": "公式本会議録",
       "resultLocator": "3月4日本会議録・議案第2号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。議会だより第83号８頁。賛成11人、反対0人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "賛成",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/04/ogano-gikai-83.pdf#page=8",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -25474,7 +25530,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0213",
       "sourceType": "公式本会議録",
       "resultLocator": "3月4日本会議録・議案第3号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。議会だより第83号８頁。賛成11人、反対0人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "賛成",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/04/ogano-gikai-83.pdf#page=8",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -25488,7 +25560,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0214",
       "sourceType": "公式本会議録",
       "resultLocator": "3月4日本会議録・議案第4号",
-      "voteNote": "起立多数。"
+      "voteNote": "起立多数。議会だより第83号８頁。賛成10人、反対1人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "反対",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/04/ogano-gikai-83.pdf#page=8",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -25502,7 +25590,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0215",
       "sourceType": "公式本会議録",
       "resultLocator": "3月4日本会議録・議案第5号",
-      "voteNote": "起立多数。"
+      "voteNote": "起立多数。議会だより第83号８頁。賛成10人、反対1人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "反対",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/04/ogano-gikai-83.pdf#page=8",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -25516,7 +25620,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0216",
       "sourceType": "公式本会議録",
       "resultLocator": "3月4日本会議録・議案第6号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。議会だより第83号８頁。賛成11人、反対0人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "賛成",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/04/ogano-gikai-83.pdf#page=8",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -25530,7 +25650,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0217",
       "sourceType": "公式本会議録",
       "resultLocator": "3月4日本会議録・議案第7号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。議会だより第83号８頁。賛成11人、反対0人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "賛成",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/04/ogano-gikai-83.pdf#page=8",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -25544,7 +25680,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0218",
       "sourceType": "公式本会議録",
       "resultLocator": "3月4日本会議録・議案第8号",
-      "voteNote": "起立による賛成多数。"
+      "voteNote": "起立による賛成多数。議会だより第83号８頁。賛成10人、反対1人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "反対",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/04/ogano-gikai-83.pdf#page=8",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -25558,7 +25710,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0219",
       "sourceType": "公式本会議録",
       "resultLocator": "3月4日本会議録・議案第9号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。議会だより第83号８頁。賛成11人、反対0人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "賛成",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/04/ogano-gikai-83.pdf#page=8",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -25572,7 +25740,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0220",
       "sourceType": "公式本会議録",
       "resultLocator": "3月4日本会議録・議案第10号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。議会だより第83号８頁。賛成11人、反対0人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "賛成",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/04/ogano-gikai-83.pdf#page=8",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -25586,7 +25770,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0221",
       "sourceType": "公式本会議録",
       "resultLocator": "3月4日本会議録・議案第11号",
-      "voteNote": "起立多数。"
+      "voteNote": "起立多数。議会だより第83号８頁。賛成8人、反対3人。",
+      "votes": {
+        "黒沢武": "反対",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "反対",
+        "岩田和幸": "反対",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/04/ogano-gikai-83.pdf#page=8",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -25600,7 +25800,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0222",
       "sourceType": "公式本会議録",
       "resultLocator": "3月4日本会議録・議案第12号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。議会だより第83号８頁。賛成11人、反対0人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "賛成",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/04/ogano-gikai-83.pdf#page=8",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -25614,7 +25830,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0223",
       "sourceType": "公式本会議録",
       "resultLocator": "3月4日本会議録・議案第13号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。議会だより第83号８頁。賛成11人、反対0人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "賛成",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/04/ogano-gikai-83.pdf#page=8",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -25628,7 +25860,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0225",
       "sourceType": "公式本会議録",
       "resultLocator": "3月4日本会議録・議案第14号",
-      "voteNote": "起立多数。採決は、同日の議事が続く箇所に掲載。"
+      "voteNote": "起立多数。採決は、同日の議事が続く箇所に掲載。議会だより第83号８頁。賛成9人、反対2人。",
+      "votes": {
+        "黒沢武": "反対",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "反対",
+        "岩田和幸": "賛成",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/04/ogano-gikai-83.pdf#page=8",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -25642,7 +25890,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0308",
       "sourceType": "公式本会議録",
       "resultLocator": "3月5日本会議録・議案第15号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。議会だより第83号８頁。賛成11人、反対0人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "賛成",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/04/ogano-gikai-83.pdf#page=8",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -25656,7 +25920,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0309",
       "sourceType": "公式本会議録",
       "resultLocator": "3月5日本会議録・議案第16号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。議会だより第83号８頁。賛成11人、反対0人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "賛成",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/04/ogano-gikai-83.pdf#page=8",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -25670,7 +25950,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0310",
       "sourceType": "公式本会議録",
       "resultLocator": "3月5日本会議録・議案第17号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。議会だより第83号８頁。賛成11人、反対0人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "賛成",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/04/ogano-gikai-83.pdf#page=8",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -25684,7 +25980,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0311",
       "sourceType": "公式本会議録",
       "resultLocator": "3月5日本会議録・議案第18号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。議会だより第83号８頁。賛成11人、反対0人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "賛成",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/04/ogano-gikai-83.pdf#page=8",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -25698,7 +26010,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0312",
       "sourceType": "公式本会議録",
       "resultLocator": "3月5日本会議録・議案第19号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。議会だより第83号８頁。賛成11人、反対0人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "賛成",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/04/ogano-gikai-83.pdf#page=8",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -25712,7 +26040,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0313",
       "sourceType": "公式本会議録",
       "resultLocator": "3月5日本会議録・議案第20号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。議会だより第83号８頁。賛成11人、反対0人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "賛成",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/04/ogano-gikai-83.pdf#page=8",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -25726,7 +26070,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0408",
       "sourceType": "公式本会議録",
       "resultLocator": "3月6日本会議録・議案第21号",
-      "voteNote": "起立多数。採決は、同日の議事が続く箇所に掲載。"
+      "voteNote": "起立多数。採決は、同日の議事が続く箇所に掲載。議会だより第83号８頁。賛成9人、反対2人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "反対",
+        "岩田和幸": "反対",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/04/ogano-gikai-83.pdf#page=8",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -25740,7 +26100,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0409",
       "sourceType": "公式本会議録",
       "resultLocator": "3月6日本会議録・議案第22号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。議会だより第83号８頁。賛成11人、反対0人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "賛成",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/04/ogano-gikai-83.pdf#page=8",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -25754,7 +26130,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0410",
       "sourceType": "公式本会議録",
       "resultLocator": "3月6日本会議録・議案第23号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。議会だより第83号８頁。賛成11人、反対0人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "賛成",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/04/ogano-gikai-83.pdf#page=8",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -25768,7 +26160,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0411",
       "sourceType": "公式本会議録",
       "resultLocator": "3月6日本会議録・議案第24号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。議会だより第83号８頁。賛成11人、反対0人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "賛成",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/04/ogano-gikai-83.pdf#page=8",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -25782,7 +26190,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0412",
       "sourceType": "公式本会議録",
       "resultLocator": "3月6日本会議録・議案第25号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。議会だより第83号８頁。賛成11人、反対0人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "賛成",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/04/ogano-gikai-83.pdf#page=8",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -25796,7 +26220,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0413",
       "sourceType": "公式本会議録",
       "resultLocator": "3月6日本会議録・議案第26号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。議会だより第83号８頁。賛成11人、反対0人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "賛成",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/04/ogano-gikai-83.pdf#page=8",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -25810,7 +26250,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0414",
       "sourceType": "公式本会議録",
       "resultLocator": "3月6日本会議録・議案第27号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。議会だより第83号８頁。賛成11人、反対0人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "賛成",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/04/ogano-gikai-83.pdf#page=8",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -25824,7 +26280,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0415",
       "sourceType": "公式本会議録",
       "resultLocator": "3月6日本会議録・議案第28号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。議会だより第83号８頁。賛成11人、反対0人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "賛成",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/04/ogano-gikai-83.pdf#page=8",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -25838,7 +26310,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0416",
       "sourceType": "公式本会議録",
       "resultLocator": "3月6日本会議録・議案第29号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。議会だより第83号８頁。賛成11人、反対0人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "賛成",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/04/ogano-gikai-83.pdf#page=8",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -25852,7 +26340,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0417",
       "sourceType": "公式本会議録",
       "resultLocator": "3月6日本会議録・議案第30号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。議会だより第83号８頁。賛成11人、反対0人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "賛成",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/04/ogano-gikai-83.pdf#page=8",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -25866,7 +26370,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0418",
       "sourceType": "公式本会議録",
       "resultLocator": "3月6日本会議録・議案第31号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。議会だより第83号８頁。賛成10人、反対0人。今井敏夫議員は関連団体の西秩父商工会の会長のため除斥。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "除斥",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "賛成",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/04/ogano-gikai-83.pdf#page=8",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -25880,7 +26400,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0419",
       "sourceType": "公式本会議録",
       "resultLocator": "3月6日本会議録・議案第32号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。議会だより第83号８頁。賛成11人、反対0人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "賛成",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/04/ogano-gikai-83.pdf#page=8",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -25894,7 +26430,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0420",
       "sourceType": "公式本会議録",
       "resultLocator": "3月6日本会議録・議案第33号",
-      "voteNote": "起立多数。"
+      "voteNote": "起立多数。議会だより第83号８頁。賛成10人、反対1人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "反対",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/04/ogano-gikai-83.pdf#page=8",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -25908,7 +26460,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0421",
       "sourceType": "公式本会議録",
       "resultLocator": "3月6日本会議録・同意第1号",
-      "voteNote": "起立多数。"
+      "voteNote": "起立多数。議会だより第83号８頁。賛成10人、反対1人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "反対",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/04/ogano-gikai-83.pdf#page=8",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -25922,7 +26490,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0422",
       "sourceType": "公式本会議録",
       "resultLocator": "3月6日本会議録・発議第1号",
-      "voteNote": "起立全員。"
+      "voteNote": "起立全員。議会だより第83号８頁。賛成11人、反対0人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "賛成",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/04/ogano-gikai-83.pdf#page=8",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -25936,7 +26520,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0806Tmain.html#0309",
       "sourceType": "公式本会議録",
       "resultLocator": "6月11日本会議録・承認第2号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。議会だより第84号４頁。賛成11人、反対0人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "賛成",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/08/ogano-gikai-84.pdf#page=4",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -25950,7 +26550,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0806Tmain.html#0310",
       "sourceType": "公式本会議録",
       "resultLocator": "6月11日本会議録・承認第3号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。議会だより第84号４頁。賛成11人、反対0人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "賛成",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/08/ogano-gikai-84.pdf#page=4",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -25964,7 +26580,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0806Tmain.html#0311",
       "sourceType": "公式本会議録",
       "resultLocator": "6月11日本会議録・承認第4号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。議会だより第84号４頁。賛成11人、反対0人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "賛成",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/08/ogano-gikai-84.pdf#page=4",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -25978,7 +26610,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0806Tmain.html#0312",
       "sourceType": "公式本会議録",
       "resultLocator": "6月11日本会議録・承認第5号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。議会だより第84号４頁。賛成11人、反対0人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "賛成",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/08/ogano-gikai-84.pdf#page=4",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -25992,7 +26640,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0806Tmain.html#0313",
       "sourceType": "公式本会議録",
       "resultLocator": "6月11日本会議録・承認第6号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。議会だより第84号４頁。賛成11人、反対0人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "賛成",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/08/ogano-gikai-84.pdf#page=4",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -26006,7 +26670,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0806Tmain.html#0314",
       "sourceType": "公式本会議録",
       "resultLocator": "6月11日本会議録・議案第34号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。議会だより第84号４頁。賛成11人、反対0人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "賛成",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/08/ogano-gikai-84.pdf#page=4",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -26020,7 +26700,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0806Tmain.html#0315",
       "sourceType": "公式本会議録",
       "resultLocator": "6月11日本会議録・議案第35号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。議会だより第84号４頁。賛成11人、反対0人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "賛成",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/08/ogano-gikai-84.pdf#page=4",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -26034,7 +26730,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0806Tmain.html#0316",
       "sourceType": "公式本会議録",
       "resultLocator": "6月11日本会議録・議案第36号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。議会だより第84号４頁。賛成11人、反対0人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "賛成",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/08/ogano-gikai-84.pdf#page=4",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -26048,7 +26760,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0806Tmain.html#0317",
       "sourceType": "公式本会議録",
       "resultLocator": "6月11日本会議録・議案第37号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。議会だより第84号４頁。賛成11人、反対0人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "賛成",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/08/ogano-gikai-84.pdf#page=4",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -26062,7 +26790,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0806Tmain.html#0318",
       "sourceType": "公式本会議録",
       "resultLocator": "6月11日本会議録・議案第38号",
-      "voteNote": "起立多数。"
+      "voteNote": "起立多数。議会だより第84号４頁。賛成10人、反対1人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "反対",
+        "岩田和幸": "賛成",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/08/ogano-gikai-84.pdf#page=4",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -26076,7 +26820,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0806Tmain.html#0321",
       "sourceType": "公式本会議録",
       "resultLocator": "6月11日本会議録・議案第39号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。議会だより第84号４頁。賛成11人、反対0人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "賛成",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/08/ogano-gikai-84.pdf#page=4",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -26090,7 +26850,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0806Tmain.html#0322",
       "sourceType": "公式本会議録",
       "resultLocator": "6月11日本会議録・発議第2号",
-      "voteNote": "起立全員。"
+      "voteNote": "起立全員。議会だより第84号４頁。賛成11人、反対0人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "賛成",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/08/ogano-gikai-84.pdf#page=4",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -26104,7 +26880,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0806Tmain.html#0323",
       "sourceType": "公式本会議録",
       "resultLocator": "6月11日本会議録・発議第3号",
-      "voteNote": "起立全員。"
+      "voteNote": "起立全員。議会だより第84号４頁。賛成11人、反対0人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "賛成",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/08/ogano-gikai-84.pdf#page=4",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -26118,7 +26910,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0806Tmain.html#0324",
       "sourceType": "公式本会議録",
       "resultLocator": "6月11日本会議録・発議第4号",
-      "voteNote": "起立多数。"
+      "voteNote": "起立多数。議会だより第84号４頁。賛成10人、反対1人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "反対",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/08/ogano-gikai-84.pdf#page=4",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -26132,7 +26940,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0806Tmain.html#0325",
       "sourceType": "公式本会議録",
       "resultLocator": "6月11日本会議録・発議第5号",
-      "voteNote": "起立全員。"
+      "voteNote": "起立全員。議会だより第84号４頁。賛成11人、反対0人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "賛成",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/08/ogano-gikai-84.pdf#page=4",
+      "voteType": "記名"
     },
     {
       "place": "小鹿野町",
@@ -26146,7 +26970,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0806Tmain.html#0326",
       "sourceType": "公式本会議録",
       "resultLocator": "6月11日本会議録・発議第6号",
-      "voteNote": "起立全員。"
+      "voteNote": "起立全員。議会だより第84号４頁。賛成11人、反対0人。",
+      "votes": {
+        "黒沢武": "賛成",
+        "栗原勇雄": "賛成",
+        "猪野茂": "賛成",
+        "湯本弘子": "賛成",
+        "今井敏夫": "賛成",
+        "髙橋耕也": "賛成",
+        "笠原義行": "賛成",
+        "髙橋謙治": "議長（表決不参加）",
+        "皆本富男": "賛成",
+        "出浦正夫": "賛成",
+        "岩田和幸": "賛成",
+        "加藤喜一": "賛成"
+      },
+      "voteURL": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/08/ogano-gikai-84.pdf#page=4",
+      "voteType": "記名"
     },
     {
       "place": "神川町",

@@ -1627,6 +1627,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "34388099ba9e5c63e162",
+      "place": "さいたま市",
+      "season": "fall",
+      "date": "2026-09-07",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "金子昭代議員　代表質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://saitama-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=2463",
+      "speakers": [
+        "金子昭代"
+      ]
+    },
+    {
       "id": "3e75538fc23964a61c0a",
       "place": "ときがわ町",
       "season": "spring",
@@ -3665,6 +3679,20 @@ GIKAI.questionText = {
       "url": "https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/speech.html?council_id=47&schedule_id=1&playlist_id=2&speaker_id=12&target_year=2026",
       "speakers": [
         "高橋仁"
+      ]
+    },
+    {
+      "id": "65f8736a9f7a11f3b4fa",
+      "place": "上里町",
+      "season": "fall",
+      "date": "2026-09-07",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "上野文一議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/speech.html?council_id=47&schedule_id=2&playlist_id=1&speaker_id=22&target_year=2026",
+      "speakers": [
+        "上野文一"
       ]
     },
     {
@@ -21757,6 +21785,25 @@ GIKAI.questionText = {
       "speakers": []
     },
     {
+      "id": "59fd50b1e6cc028f627f",
+      "place": "小鹿野町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "小鹿野町議会だより第83号・３月定例会",
+      "url": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/04/ogano-gikai-83.pdf",
+      "kind": "議会だよりの質問・答弁（紙面要約）",
+      "scope": "summary",
+      "speakers": [
+        "栗原勇雄",
+        "猪野茂",
+        "黒沢武",
+        "湯本弘子",
+        "出浦正夫",
+        "笠原義行"
+      ],
+      "note": "５月１日発行。PDF９～12頁に掲載された6人の紙面の問答を、原画像と照合して整理しました。岩田議員の一般質問は同会期の正式会議録で読めます。"
+    },
+    {
       "id": "f9aed59b40f23f0a7972",
       "date": "2026-03-03",
       "speakers": [
@@ -21812,6 +21859,26 @@ GIKAI.questionText = {
       "kind": "公式会議録（HTML）",
       "scope": "minutes",
       "note": "町公式の会期本文から、公式目次の見出しと番号に沿って当日の本文を収録。一般質問の日は答弁を含みます。"
+    },
+    {
+      "id": "18b6e2c2ff15bde074b9",
+      "place": "小鹿野町",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "小鹿野町議会だより第84号・６月定例会",
+      "url": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/08/ogano-gikai-84.pdf",
+      "kind": "議会だよりの質問・答弁（紙面要約）",
+      "scope": "summary",
+      "speakers": [
+        "栗原勇雄",
+        "加藤喜一",
+        "黒沢武",
+        "出浦正夫",
+        "笠原義行",
+        "猪野茂",
+        "髙橋耕也"
+      ],
+      "note": "８月１日発行。PDF５～８頁に掲載された7人の紙面の問答を、原画像と照合して整理しました。岩田議員の一般質問は同会期の正式会議録で読めます。紙面と正式会議録の数値が異なる箇所は出典ごとに記録しています。"
     },
     {
       "id": "46d2ba4e1e7362291866",
@@ -36713,7 +36780,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://saitama-city.stream.jfit.co.jp/?tpl=gikai_days_list&gikai_id=203",
-        "note": "公式録画一覧の代表・一般質問21人のうち、4人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
+        "note": "公式録画一覧の代表・一般質問21人のうち、5人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
       }
     },
     {
@@ -38243,7 +38310,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/council.html?year=2026&council_id=47",
-        "note": "公式録画一覧の一般質問11人のうち、4人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
+        "note": "公式録画一覧の一般質問11人のうち、5人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
       }
     },
     {

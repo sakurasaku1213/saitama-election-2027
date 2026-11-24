@@ -135,7 +135,7 @@ for (const c of data.cases) {
     if (step.archiveId) {
       const doc = archivedQuestionDocs.get(step.archiveId);
       assert.ok(doc?.scope === "minutes" && doc.place === c.place, c.title);
-      assert.equal(doc.url, step.url, c.title);
+      assert.equal(doc.url.split("#")[0], step.url.split("#")[0], c.title);
       assert.equal(doc.date, step.date, c.title);
     }
     const names = new Set();
