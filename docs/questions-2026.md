@@ -4,7 +4,7 @@
 
 確認日 2026-11-24。県議会と全63市町村の192会期枠を対象に、64議会・184枠で会議録、紙面の問答、録画の機械文字起こし、または公開自動字幕を収録。本文・要旨等が未収録の8枠にも確認先を示す。
 
-収録資料 1,818件。147枠では、原典の目次・索引等にある本会議の日別資料、一般質問日または掲載項目と収録範囲を照合した。
+収録資料 1,819件。147枠では、原典の目次・索引等にある本会議の日別資料、一般質問日または掲載項目と収録範囲を照合した。
 
 | 資料の種類 | 件数 |
 | --- | ---: |
@@ -17,12 +17,12 @@
 | 公開会議録（閲覧用） | 11 |
 | 議会だよりの質問・答弁要旨（HTML） | 1 |
 | 議会だよりの質問・答弁（紙面要約） | 4 |
-| 公式録画の機械文字起こし | 8 |
+| 公式録画の機械文字起こし | 9 |
 | 公式録画の公開自動字幕 | 33 |
 
 本会議録の日別資料には当日の議事も含まれる。県議会の速報版は質問・答弁の掲載項目ごと。議会だよりは質問者による編集要約等を含む。PDFのOCR転記と、紙面を照合して作った要約には原本の頁番号を付けた。
 
-政策事例は39件。川越市の５事例は、一般質問に加え、条例の公布、事業の実施や会議での審議など、資料で追えた経過を掲載した。鴻巣市の省エネ家電の補助と水道基本料金の免除延長は、質問、議案の提案、採決、市の利用者向け案内までを照合した。嵐山町では給食費の予算質疑と採決、小学校の給食費無償化の公表を収録した。全体の政策経過の照合は進行中。
+政策事例は43件。川越市の５事例は、一般質問に加え、条例の公布、事業の実施や会議での審議など、資料で追えた経過を掲載した。皆野町のデマンドタクシー、小川町の福祉３医療、川島町の宿泊施設立地、神川町の水道料金免除延長も追加した。全体の政策経過の照合は進行中。
 
 ## 議会別の収録と確認先
 
@@ -91,7 +91,7 @@
 | 寄居町 | [本会議録8資料](https://ssp.kaigiroku.net/tenant/yorii/SpMinuteBrowse.html?tenant_id=232&view_years=2026)<br>公式掲載目次と照合 | [本会議録4資料](https://ssp.kaigiroku.net/tenant/yorii/SpMinuteBrowse.html?tenant_id=232&view_years=2026)<br>公式掲載目次と照合 | [本文・要旨 1件](https://www.town.yorii.saitama.jp/uploaded/attachment/28518.pdf)<br>一部収録 | 2 |
 | 宮代町 | [本会議録8資料](https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteBrowse.html?tenant_id=224&view_years=2026)<br>公式掲載目次と照合 | [本会議録5資料](https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteBrowse.html?tenant_id=224&view_years=2026)<br>公式掲載目次と照合 | [本文・要旨 1件](https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27014/gikaidayori140.pdf)<br>一部収録 | — |
 | 杉戸町 | [本会議録7資料](https://ssp.kaigiroku.net/tenant/sugito/SpMinuteBrowse.html?tenant_id=78&view_years=2026)<br>公式掲載目次と照合 | [本会議録5資料](https://ssp.kaigiroku.net/tenant/sugito/SpMinuteBrowse.html?tenant_id=78&view_years=2026)<br>公式掲載目次と照合 | [本文・要旨 1件](https://www.town.sugito.lg.jp/uploaded/attachment/18196.pdf)<br>一部収録 | — |
-| 松伏町 | [本会議録9資料](https://www.town.matsubushi.saitama.dbsr.jp/100000?QueryType=new&Template=list&ListOrder=asc&Cabinet=1&TermStart=2026-02-26&TermEnd=2026-03-19)<br>公式掲載目次と照合 | [本会議録4資料](https://www.town.matsubushi.saitama.dbsr.jp/100000?QueryType=new&Template=list&ListOrder=asc&Cabinet=1&TermStart=2026-06-05&TermEnd=2026-06-15)<br>公式掲載目次と照合 | [議会だより135号・紙面9～13頁](https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000003/3130/gikaidayori135_P9-13.pdf)<br>紙面要約1件・一般質問9人26論点 | — |
+| 松伏町 | [本会議録9資料](https://www.town.matsubushi.saitama.dbsr.jp/100000?QueryType=new&Template=list&ListOrder=asc&Cabinet=1&TermStart=2026-02-26&TermEnd=2026-03-19)<br>公式掲載目次と照合 | [本会議録4資料](https://www.town.matsubushi.saitama.dbsr.jp/100000?QueryType=new&Template=list&ListOrder=asc&Cabinet=1&TermStart=2026-06-05&TermEnd=2026-06-15)<br>公式掲載目次と照合 | [議会だよりの紙面要約26論点](https://www.town.matsubushi.lg.jp/0000003130.html)<br>[機械文字起こし1件](https://matsubushi-town.stream.jfit.co.jp/?tpl=gikai_days_list&gikai_id=2)・正式会議録を確認中 | — |
 
 ## 状態の集計
 
@@ -114,6 +114,7 @@
 - 小鹿野町は、町公式の会議録一覧から３月・６月の本会議録を取り込み、公式目次の全７日と照合した。９月定例会の会議録は一覧で未確認。
 - 羽生市は、９月定例会の議会だよりに問答の掲載がある一般質問12人分と議案質疑を紙面と照合した。見出しのみ掲載された項目の問答と、正式会議録の本文は確認中。[羽生市議会の最新号案内](https://www.city.hanyu.lg.jp/docs/2026051900012/)
 - 松伏町は、９月定例会の議会だよりに問答の掲載がある26論点を、紙面の９〜13頁と照合した。議決と記名表決を20件ずつ照合し、提出者の記号は賛否と区別して表示した。[町の会議結果](https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000003/3031/0809kaigikekka.pdf)・[議会だよりの記名表決](https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000003/3130/gikaidayori135_P7.pdf)
+- 松伏町の秋の公式録画は、一般質問９人のうち1人分の機械文字起こしを収録した。原音による本文の確定照合は未了。[松伏町の公式録画一覧](https://matsubushi-town.stream.jfit.co.jp/?tpl=gikai_days_list&gikai_id=2)
 - 蕨市の９月定例会は、公式録画の一般質問15人のうち8人分の機械文字起こしを収録。質問者は録画一覧で照合した。本文の話者名・用語・数字は原録画で確認できる。[公式録画一覧](https://warabi.gijiroku.com/gikai/g07_Video_Search.asp)
 - OCRの確認警告がある頁は本文束から除いた。警告のない頁だけを収録した資料では、除外頁を本文カードに表示した。
 
@@ -130,6 +131,10 @@
 - ときがわ町の予算審査特別委員会４日分、滑川町・嵐山町の予算特別委員会の全日分をまとめた公式PDF各１件を追加。町の当初予算について、質問と執行部の答弁を確認できる。[ときがわ町の会議録一覧](https://www.town.tokigawa.lg.jp/div/203010/htm/gijiroku/index.html)・[滑川町の委員会会議録](https://www.town.namegawa.saitama.jp/material/files/group/12/R0803Yosanshinsa.pdf)・[嵐山町の委員会会議録](https://www.town.ranzan.saitama.jp/0000007978.html)
 - 嵐山町の９月定例会は、公式表にある町長提出21件（報告３件を含む）・議員提出４件の結果を追加し、記名表決22件を原表と照合した。除斥、議長、賛否、網掛けで示された討論者を保持した。個別の議決日は確認中。[嵐山町の公式審議結果](https://www.town.ranzan.saitama.jp/0000004948.html)
 - 上里町の６月定例会は、６月４日の開会から12日の閉会までの４日分が公式録画一覧にあり、一般質問10人の掲載を確認した。議会だよりの要旨を収録済みで、質問・答弁の全文は確認中。[上里町６月定例会の公式録画一覧](https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/council.html?year=2026&council_id=45)
+- 川島町は春・初夏・秋の40行、皆野町は３会期の59行、吉見町は秋の24行を公式の結果表と照合した。川島町の「全員賛成」「賛成多数」は原表の集計として表示した。[川島町の審議結果一覧](https://www.town.kawajima.saitama.jp/1916.htm)・[皆野町の結果一覧](https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf)・[吉見町秋の審議結果](https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf)
+- 小川町は秋21行、長瀞町は秋15行、上里町は初夏13行の記名表決を原表で照合。長瀞町と上里町では議案番号が掲載されていない行を発行号・頁・表の行で表示し、上里町で第29号～第41号を一括表示した行も原表のまとまりを保持した。[小川町の記名表](https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf)・[長瀞町の議会だより4頁](https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4)・[上里町の議会だより2頁](https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2)
+- 美里町は、春23件・初夏９件・秋29件の議案・発議の結果を照合。年度内で連番の議決番号と会期内の議案番号を保持し、表にある個別の議決日を収録した。秋の質問・答弁の本文は引き続き確認中。[美里町の提出議案・議決結果一覧](https://www.town.saitama-misato.lg.jp/0000001225.html)
+- 皆野町は実証運行の検証、議員の質問・賛否討論、条例案の可決、11月２日を開始日とする運行案内までを収録した。小川町は条例案の可決と10月からの受領委任払いの案内を、川島町は宿泊施設の立地支援条例案の質疑と可決を収録した。神川町は水道基本料金免除延長の案内と交付金の使途を照合した。[皆野町の運行案内](https://www.town.minano.saitama.jp/section/soumu/50366/)・[小川町の福祉３医療案内](https://www.town.ogawa.saitama.jp/gyosei/kosodate_kyoiku/ikuji_mishugakuji/1/7416.html)・[川島町の本会議録](https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteView.html?tenant_id=175&council_id=121&schedule_id=5)・[神川町の支援案内](https://www.town.kamikawa.saitama.jp/subete/6777.html)
 - 松伏町の手話言語条例は、請願の紹介と趣旨説明、委員会の判断、2025年９月の本会議での討論・採択、2026年９月の全員協議会、10月19日からの素案への意見募集を資料でつないだ。高校生の車椅子通学については、越生町議会の意見書案可決と、県議会の質疑・答弁を収録した。[松伏町議会の本会議録](https://www.town.matsubushi.saitama.dbsr.jp/650568?Template=document&Id=1184#one)・[広報まつぶし10月号](https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000003/3121/matsubushi689_11-16.pdf#page=4)・[越生町の議決結果](https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf)・[埼玉県議会の質問・答弁](https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/b/0203a.html)
 
 ### 今回のOCR保留

@@ -333,8 +333,9 @@ assert.equal(currentPlaces.size, allBodies.size);
 const addedDecisions = new Set();
 for (const bill of coverage.decisions) {
   const slot = coverageSlots.get(bill.place + "|" + bill.season);
-  const key = [bill.place, bill.session, bill.number].join("|");
-  assert.ok(slot && bill.number && bill.title && bill.result, key);
+  const reference = bill.number || bill.resultLocator;
+  const key = [bill.place, bill.session, reference].join("|");
+  assert.ok(slot && typeof reference === "string" && reference.trim() && bill.title && bill.result, key);
   assert.ok(!addedDecisions.has(key), key);
   addedDecisions.add(key);
   if (bill.date) validDay(bill.date);

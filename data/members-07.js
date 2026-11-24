@@ -67,7 +67,7 @@ GIKAI.members.push(...[
 {"place":"小川町","name":"笠原規弘","group":"","url":"https://www.town.ogawa.saitama.jp/material/files/group/18/giinmeiboR080703.pdf","asOf":"2025-03-19"},
 {"place":"小川町","name":"大戸久一","group":"","url":"https://www.town.ogawa.saitama.jp/material/files/group/18/giinmeiboR080703.pdf","asOf":"2025-03-19"},
 {"place":"小川町","name":"田中照子","group":"","url":"https://www.town.ogawa.saitama.jp/material/files/group/18/giinmeiboR080703.pdf","asOf":"2025-03-19"},
-{"place":"小川町","name":"笠原彦","group":"","url":"https://www.town.ogawa.saitama.jp/material/files/group/18/giinmeiboR080703.pdf","asOf":"2025-03-19"},
+{"place":"小川町","name":"笠原英彦","group":"","url":"https://www.town.ogawa.saitama.jp/material/files/group/18/giinmeiboR080703.pdf","asOf":"2025-03-19"},
 {"place":"小川町","name":"髙橋功人","group":"","url":"https://www.town.ogawa.saitama.jp/material/files/group/18/giinmeiboR080703.pdf","asOf":"2025-03-19"},
 {"place":"小川町","name":"髙橋さゆり","group":"","url":"https://www.town.ogawa.saitama.jp/material/files/group/18/giinmeiboR080703.pdf","asOf":"2025-03-19"},
 {"place":"小川町","name":"山口勝士","group":"","url":"https://www.town.ogawa.saitama.jp/material/files/group/18/giinmeiboR080703.pdf","asOf":"2025-03-19"},

@@ -6652,14 +6652,14 @@ GIKAI.coverage2026 = {
     {
       "place": "小川町",
       "season": "fall",
-      "label": "2026年秋の定例会",
-      "fromDate": "",
-      "toDate": "",
+      "label": "令和8年第3回定例会（9月）",
+      "fromDate": "2026-09-01",
+      "toDate": "2026-09-24",
       "planned": false,
       "materials": {
         "meeting": {
-          "state": "identified",
-          "note": "対象時期に関係する資料の掲載箇所を確認。会期の確定は未了。"
+          "state": "verified",
+          "note": "原表表題部にある9月1日～24日の会期を照合。"
         },
         "activity": {
           "state": "partial",
@@ -6670,16 +6670,16 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "decisions": {
-          "state": "identified",
-          "note": "対象資料の案内を確認。項目の取込・照合範囲は未確定。"
+          "state": "verified",
+          "note": "公式の審議結果表に掲載された21行を、件名・結果・掲載箇所で照合。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "原表の21行の記名欄を照合し、議長の表決不参加と原表の除斥を保持。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "福祉３医療費の受領委任払いをめぐる条例案の可決と、町の施術所・手続の案内を照合。"
         }
       },
       "sources": [
@@ -6694,6 +6694,10 @@ GIKAI.coverage2026 = {
         {
           "label": "会期資料　2026年9月定例会・議会だよりの一般質問全8人",
           "url": "https://www.town.ogawa.saitama.jp/gyosei/sosiki/18/1/5/7483.html"
+        },
+        {
+          "label": "福祉３医療の案内",
+          "url": "https://www.town.ogawa.saitama.jp/gyosei/kosodate_kyoiku/ikuji_mishugakuji/1/7416.html"
         }
       ]
     },
@@ -6718,8 +6722,8 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "公式の審議結果表に掲載された19行を、件名・結果・掲載箇所で照合。"
         },
         "votes": {
           "state": "pending",
@@ -6738,6 +6742,10 @@ GIKAI.coverage2026 = {
         {
           "label": "会期資料　2026年3月定例会",
           "url": "https://www.town.kawajima.saitama.jp/secure/4022/ippannsitumonR0803.pdf"
+        },
+        {
+          "label": "議決結果の原典",
+          "url": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf"
         }
       ]
     },
@@ -6762,16 +6770,16 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "公式の審議結果表に掲載された7行を、件名・結果・掲載箇所で照合。"
         },
         "votes": {
           "state": "pending",
           "note": "本文・収録範囲の照合が残っています。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "宿泊施設立地促進条例案の提案理由、委員長報告、採決を照合。"
         }
       },
       "sources": [
@@ -6782,6 +6790,14 @@ GIKAI.coverage2026 = {
         {
           "label": "会期資料　2026年6月定例会",
           "url": "https://www.town.kawajima.saitama.jp/secure/4022/ippannsitumonnitirannR8.6.pdf"
+        },
+        {
+          "label": "議決結果の原典",
+          "url": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR806.pdf"
+        },
+        {
+          "label": "宿泊施設立地促進条例案の採決",
+          "url": "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteView.html?tenant_id=175&council_id=121&schedule_id=5"
         }
       ]
     },
@@ -6806,8 +6822,8 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "公式の審議結果表に掲載された14行を、件名・結果・掲載箇所で照合。"
         },
         "votes": {
           "state": "pending",
@@ -6822,6 +6838,10 @@ GIKAI.coverage2026 = {
         {
           "label": "会期資料　2026年9月定例会",
           "url": "https://www.town.kawajima.saitama.jp/secure/4022/ippannsitumonR8.9.pdf"
+        },
+        {
+          "label": "議決結果の原典",
+          "url": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf"
         }
       ]
     },
@@ -6926,8 +6946,8 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "公式の審議結果表に掲載された24行を、件名・結果・掲載箇所で照合。"
         },
         "votes": {
           "state": "pending",
@@ -6942,6 +6962,10 @@ GIKAI.coverage2026 = {
         {
           "label": "会期資料　令和８年９月（第３回）定例会",
           "url": "https://smart.discussvision.net/smart/tenant/yoshimi/WebView/rd/council.html?year=2026&council_id=21"
+        },
+        {
+          "label": "議決結果の原典",
+          "url": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf"
         }
       ]
     },
@@ -7346,8 +7370,8 @@ GIKAI.coverage2026 = {
           "note": "対象資料の案内を確認。項目の取込・照合範囲は未確定。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "公式の審議結果表に掲載された26行を、件名・結果・掲載箇所で照合。"
         },
         "votes": {
           "state": "pending",
@@ -7366,6 +7390,10 @@ GIKAI.coverage2026 = {
         {
           "label": "令和8年の会議録索引",
           "url": "https://www.town.minano.saitama.jp/section/gikai/815/"
+        },
+        {
+          "label": "議決結果の原典",
+          "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf"
         }
       ]
     },
@@ -7390,16 +7418,16 @@ GIKAI.coverage2026 = {
           "note": "対象資料の案内を確認。項目の取込・照合範囲は未確定。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "公式の審議結果表に掲載された18行を、件名・結果・掲載箇所で照合。"
         },
         "votes": {
           "state": "pending",
           "note": "本文・収録範囲の照合が残っています。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "デマンドタクシーの質疑・条例可決と、本格運行の案内を照合。"
         }
       },
       "sources": [
@@ -7414,6 +7442,14 @@ GIKAI.coverage2026 = {
         {
           "label": "会期資料　第2回(6月)定例会",
           "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/06/47872e77c18151483cdf31c438d6f4d7.pdf"
+        },
+        {
+          "label": "議決結果の原典",
+          "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf"
+        },
+        {
+          "label": "本格運行の案内",
+          "url": "https://www.town.minano.saitama.jp/section/soumu/50366/"
         }
       ]
     },
@@ -7438,8 +7474,8 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "公式の審議結果表に掲載された15行を、件名・結果・掲載箇所で照合。"
         },
         "votes": {
           "state": "pending",
@@ -7458,6 +7494,10 @@ GIKAI.coverage2026 = {
         {
           "label": "会期資料　2026年9月定例会",
           "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/f3d1ba451d1da637b3d2b2bb29c668ce.pdf"
+        },
+        {
+          "label": "議決結果の原典",
+          "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf"
         }
       ]
     },
@@ -7566,12 +7606,12 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "議会だよりの表に掲載された15行を照合。個別の議案番号がない行は紙面の行で示した。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "原表の15行の記名欄を照合し、議長の表決不参加と原表の除斥を保持。"
         },
         "policy": {
           "state": "pending",
@@ -7876,14 +7916,14 @@ GIKAI.coverage2026 = {
     {
       "place": "美里町",
       "season": "spring",
-      "label": "2026年春の定例会",
+      "label": "令和8年第1回定例会（3月）",
       "fromDate": "2026-03-02",
       "toDate": "2026-03-23",
-      "planned": true,
+      "planned": false,
       "materials": {
         "meeting": {
-          "state": "partial",
-          "note": "開催予定を確認。"
+          "state": "verified",
+          "note": "公式提出議案一覧の会期表示と議決年月日を照合。"
         },
         "activity": {
           "state": "identified",
@@ -7894,8 +7934,8 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "decisions": {
-          "state": "identified",
-          "note": "対象資料の案内を確認。項目の取込・照合範囲は未確定。"
+          "state": "verified",
+          "note": "公式結果表の23件を原表の議案番号・議決番号・議決日・結果で照合。"
         },
         "votes": {
           "state": "pending",
@@ -7918,20 +7958,24 @@ GIKAI.coverage2026 = {
         {
           "label": "3月の一般質問",
           "url": "https://www.town.saitama-misato.lg.jp/0000002548.html"
+        },
+        {
+          "label": "定例会の議決結果表",
+          "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf"
         }
       ]
     },
     {
       "place": "美里町",
       "season": "summer",
-      "label": "2026年初夏の定例会",
+      "label": "令和8年第2回定例会（6月）",
       "fromDate": "2026-06-02",
       "toDate": "2026-06-12",
-      "planned": true,
+      "planned": false,
       "materials": {
         "meeting": {
-          "state": "partial",
-          "note": "開催予定を確認。"
+          "state": "verified",
+          "note": "公式提出議案一覧の会期表示と議決年月日を照合。"
         },
         "activity": {
           "state": "identified",
@@ -7942,8 +7986,8 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "decisions": {
-          "state": "identified",
-          "note": "対象資料の案内を確認。項目の取込・照合範囲は未確定。"
+          "state": "verified",
+          "note": "公式結果表の9件を原表の議案番号・議決番号・議決日・結果で照合。"
         },
         "votes": {
           "state": "pending",
@@ -7966,20 +8010,24 @@ GIKAI.coverage2026 = {
         {
           "label": "6月の一般質問",
           "url": "https://www.town.saitama-misato.lg.jp/0000002637.html"
+        },
+        {
+          "label": "定例会の議決結果表",
+          "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/R8.6kekka.pdf"
         }
       ]
     },
     {
       "place": "美里町",
       "season": "fall",
-      "label": "2026年秋の定例会",
+      "label": "令和8年第3回定例会（9月）",
       "fromDate": "2026-08-31",
       "toDate": "2026-09-18",
-      "planned": true,
+      "planned": false,
       "materials": {
         "meeting": {
-          "state": "partial",
-          "note": "開催予定を確認。"
+          "state": "verified",
+          "note": "公式提出議案一覧の会期表示と議決年月日を照合。"
         },
         "activity": {
           "state": "partial",
@@ -7990,8 +8038,8 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "decisions": {
-          "state": "identified",
-          "note": "対象資料の案内を確認。項目の取込・照合範囲は未確定。"
+          "state": "verified",
+          "note": "公式結果表の29件を原表の議案番号・議決番号・議決日・結果で照合。"
         },
         "votes": {
           "state": "pending",
@@ -8018,6 +8066,10 @@ GIKAI.coverage2026 = {
         {
           "label": "会期資料　2026年9月定例会",
           "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000002/2738/R8.9tuukokuitiran.pdf"
+        },
+        {
+          "label": "定例会の議決結果表",
+          "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf"
         }
       ]
     },
@@ -8134,8 +8186,8 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "水道基本料金の免除延長について、町の対象案内と交付金の使途を照合。"
         }
       },
       "sources": [
@@ -8154,6 +8206,10 @@ GIKAI.coverage2026 = {
         {
           "label": "会期資料　2026年9月定例会・事前公表の一般質問全9人",
           "url": "https://www.town.kamikawa.saitama.jp/material/files/group/18/ippannsitsumonn202609.pdf"
+        },
+        {
+          "label": "水道基本料金の免除延長",
+          "url": "https://www.town.kamikawa.saitama.jp/subete/6777.html"
         }
       ]
     },
@@ -8222,12 +8278,12 @@ GIKAI.coverage2026 = {
           "note": "対象時期の会議録または索引の掲載先を確認。本文の全件照合は未了。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "議会だよりの表に掲載された13行を照合。個別の議案番号がない行は紙面の行で示した。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "原表の13行の記名欄を照合し、議長の表決不参加と原表の除斥を保持。"
         },
         "policy": {
           "state": "pending",
@@ -8242,6 +8298,10 @@ GIKAI.coverage2026 = {
         {
           "label": "会議録の資料　会議録",
           "url": "https://www.town.kamisato.saitama.jp/1797.htm"
+        },
+        {
+          "label": "議決結果の原典",
+          "url": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf"
         }
       ]
     },
@@ -18110,6 +18170,3438 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf#page=303",
       "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf#page=303",
       "voteNote": "本会議録の採決は起立多数。"
+    },
+    {
+      "place": "川島町",
+      "season": "spring",
+      "session": "令和8年第2回定例会（春）",
+      "title": "専決処分の承認を求めることについて（令和７年度川島町一般会計補正予算（第１０号））",
+      "result": "原案承認",
+      "url": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
+      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
+      "number": "議案第3号",
+      "voteNote": "公式表の集計は「全員賛成」。"
+    },
+    {
+      "place": "川島町",
+      "season": "spring",
+      "session": "令和8年第2回定例会（春）",
+      "title": "第６次川島町総合振興計画基本構想を定めることについて",
+      "result": "原案可決",
+      "url": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
+      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
+      "number": "議案第4号",
+      "voteNote": "公式表の集計は「全員賛成」。"
+    },
+    {
+      "place": "川島町",
+      "season": "spring",
+      "session": "令和8年第2回定例会（春）",
+      "title": "川島町課設置条例の一部を改正する条例を定めることについて",
+      "result": "原案可決",
+      "url": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
+      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
+      "number": "議案第5号",
+      "voteNote": "公式表の集計は「全員賛成」。"
+    },
+    {
+      "place": "川島町",
+      "season": "spring",
+      "session": "令和8年第2回定例会（春）",
+      "title": "川島町一般職員の給与に関する条例の一部を改正する条例を定めることについて",
+      "result": "原案可決",
+      "url": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
+      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
+      "number": "議案第6号",
+      "voteNote": "公式表の集計は「全員賛成」。"
+    },
+    {
+      "place": "川島町",
+      "season": "spring",
+      "session": "令和8年第2回定例会（春）",
+      "title": "川島町国民健康保険税条例の一部を改正する条例を定めることについて",
+      "result": "原案可決",
+      "url": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
+      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
+      "number": "議案第7号",
+      "voteNote": "公式表の集計は「全員賛成」。"
+    },
+    {
+      "place": "川島町",
+      "season": "spring",
+      "session": "令和8年第2回定例会（春）",
+      "title": "川島町青少年問題協議会条例を廃止する条例を定めることについて",
+      "result": "原案可決",
+      "url": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
+      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
+      "number": "議案第8号",
+      "voteNote": "公式表の集計は「全員賛成」。"
+    },
+    {
+      "place": "川島町",
+      "season": "spring",
+      "session": "令和8年第2回定例会（春）",
+      "title": "令和７年度川島町一般会計補正予算（第１１号）",
+      "result": "原案可決",
+      "url": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
+      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
+      "number": "議案第9号",
+      "voteNote": "公式表の集計は「全員賛成」。"
+    },
+    {
+      "place": "川島町",
+      "season": "spring",
+      "session": "令和8年第2回定例会（春）",
+      "title": "令和７年度川島町国民健康保険特別会計補正予算（第２号）",
+      "result": "原案可決",
+      "url": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
+      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
+      "number": "議案第10号",
+      "voteNote": "公式表の集計は「全員賛成」。"
+    },
+    {
+      "place": "川島町",
+      "season": "spring",
+      "session": "令和8年第2回定例会（春）",
+      "title": "令和７年度川島町介護保険特別会計補正予算（第２号）",
+      "result": "原案可決",
+      "url": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
+      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
+      "number": "議案第11号",
+      "voteNote": "公式表の集計は「全員賛成」。"
+    },
+    {
+      "place": "川島町",
+      "season": "spring",
+      "session": "令和8年第2回定例会（春）",
+      "title": "令和７年度川島町後期高齢者医療特別会計補正予算（第２号）",
+      "result": "原案可決",
+      "url": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
+      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
+      "number": "議案第12号",
+      "voteNote": "公式表の集計は「全員賛成」。"
+    },
+    {
+      "place": "川島町",
+      "season": "spring",
+      "session": "令和8年第2回定例会（春）",
+      "title": "令和７年度川島町水道事業会計補正予算（第５号）",
+      "result": "原案可決",
+      "url": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
+      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
+      "number": "議案第13号",
+      "voteNote": "公式表の集計は「全員賛成」。"
+    },
+    {
+      "place": "川島町",
+      "season": "spring",
+      "session": "令和8年第2回定例会（春）",
+      "title": "令和８年度川島町一般会計予算",
+      "result": "原案可決",
+      "url": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
+      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
+      "number": "議案第14号",
+      "voteNote": "公式表の集計は「賛成多数」。"
+    },
+    {
+      "place": "川島町",
+      "season": "spring",
+      "session": "令和8年第2回定例会（春）",
+      "title": "令和８年度川島町国民健康保険特別会計予算",
+      "result": "原案可決",
+      "url": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=2",
+      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=2",
+      "number": "議案第15号",
+      "voteNote": "公式表の集計は「賛成多数」。"
+    },
+    {
+      "place": "川島町",
+      "season": "spring",
+      "session": "令和8年第2回定例会（春）",
+      "title": "令和８年度川島町介護保険特別会計予算",
+      "result": "原案可決",
+      "url": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=2",
+      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=2",
+      "number": "議案第16号",
+      "voteNote": "公式表の集計は「全員賛成」。"
+    },
+    {
+      "place": "川島町",
+      "season": "spring",
+      "session": "令和8年第2回定例会（春）",
+      "title": "令和８年度川島町後期高齢者医療特別会計予算",
+      "result": "原案可決",
+      "url": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=2",
+      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=2",
+      "number": "議案第17号",
+      "voteNote": "公式表の集計は「賛成多数」。"
+    },
+    {
+      "place": "川島町",
+      "season": "spring",
+      "session": "令和8年第2回定例会（春）",
+      "title": "令和８年度川島町水道事業会計予算",
+      "result": "原案可決",
+      "url": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=2",
+      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=2",
+      "number": "議案第18号",
+      "voteNote": "公式表の集計は「全員賛成」。"
+    },
+    {
+      "place": "川島町",
+      "season": "spring",
+      "session": "令和8年第2回定例会（春）",
+      "title": "令和８年度川島町下水道事業会計予算",
+      "result": "原案可決",
+      "url": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=2",
+      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=2",
+      "number": "議案第19号",
+      "voteNote": "公式表の集計は「全員賛成」。"
+    },
+    {
+      "place": "川島町",
+      "season": "spring",
+      "session": "令和8年第2回定例会（春）",
+      "title": "人権擁護委員の推薦について",
+      "result": "原案同意",
+      "url": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=2",
+      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=2",
+      "number": "諮問第1号",
+      "voteNote": "公式表の集計は「全員賛成」。"
+    },
+    {
+      "place": "川島町",
+      "season": "spring",
+      "session": "令和8年第2回定例会（春）",
+      "title": "川島町議会委員会条例の一部を改正する条例を定めることについて",
+      "result": "原案可決",
+      "url": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=2",
+      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=2",
+      "number": "議提第1号",
+      "voteNote": "公式表の集計は「全員賛成」。"
+    },
+    {
+      "place": "川島町",
+      "season": "summer",
+      "session": "令和8年第3回定例会（6月）",
+      "title": "専決処分の承認を求めることについて（川島町税条例の一部を改正する条例）",
+      "result": "原案承認",
+      "url": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR806.pdf#page=1",
+      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR806.pdf#page=1",
+      "number": "議案第20号",
+      "voteNote": "公式表の集計は「全員賛成」。"
+    },
+    {
+      "place": "川島町",
+      "season": "summer",
+      "session": "令和8年第3回定例会（6月）",
+      "title": "専決処分の承認を求めることについて（川島町国民健康保険税条例の一部を改正する条例）",
+      "result": "原案承認",
+      "url": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR806.pdf#page=1",
+      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR806.pdf#page=1",
+      "number": "議案第21号",
+      "voteNote": "公式表の集計は「賛成多数」。"
+    },
+    {
+      "place": "川島町",
+      "season": "summer",
+      "session": "令和8年第3回定例会（6月）",
+      "title": "川島町宿泊施設立地促進条例を定めることについて",
+      "result": "原案可決",
+      "url": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR806.pdf#page=1",
+      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR806.pdf#page=1",
+      "number": "議案第22号",
+      "date": "2026-06-10",
+      "voteNote": "公式表の集計は「賛成多数」。"
+    },
+    {
+      "place": "川島町",
+      "season": "summer",
+      "session": "令和8年第3回定例会（6月）",
+      "title": "川島町印鑑条例の一部を改正する条例を定めることについて",
+      "result": "原案可決",
+      "url": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR806.pdf#page=1",
+      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR806.pdf#page=1",
+      "number": "議案第23号",
+      "voteNote": "公式表の集計は「全員賛成」。"
+    },
+    {
+      "place": "川島町",
+      "season": "summer",
+      "session": "令和8年第3回定例会（6月）",
+      "title": "令和８年度川島町一般会計補正予算（第１号）",
+      "result": "原案可決",
+      "url": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR806.pdf#page=1",
+      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR806.pdf#page=1",
+      "number": "議案第24号",
+      "voteNote": "公式表の集計は「全員賛成」。"
+    },
+    {
+      "place": "川島町",
+      "season": "summer",
+      "session": "令和8年第3回定例会（6月）",
+      "title": "令和８年度川島町後期高齢者医療特別会計補正予算（第１号）",
+      "result": "原案可決",
+      "url": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR806.pdf#page=1",
+      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR806.pdf#page=1",
+      "number": "議案第25号",
+      "voteNote": "公式表の集計は「全員賛成」。"
+    },
+    {
+      "place": "川島町",
+      "season": "summer",
+      "session": "令和8年第3回定例会（6月）",
+      "title": "工事請負契約の締結について（川島町民会館空調設備更新工事）",
+      "result": "原案可決",
+      "url": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR806.pdf#page=1",
+      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR806.pdf#page=1",
+      "number": "議案第26号",
+      "voteNote": "公式表の集計は「全員賛成」。"
+    },
+    {
+      "place": "川島町",
+      "season": "fall",
+      "session": "令和8年第5回定例会（9月）",
+      "title": "川島町子育て支援医療費支給に関する条例等の一部を改正する条例を定めることについて",
+      "result": "原案可決",
+      "url": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
+      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
+      "number": "議案第30号",
+      "voteNote": "公式表の集計は「全員賛成」。"
+    },
+    {
+      "place": "川島町",
+      "season": "fall",
+      "session": "令和8年第5回定例会（9月）",
+      "title": "川島町地区計画区域内における建築物の制限に関する条例の一部を改正する条例を定めることについて",
+      "result": "原案可決",
+      "url": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
+      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
+      "number": "議案第31号",
+      "voteNote": "公式表の集計は「全員賛成」。"
+    },
+    {
+      "place": "川島町",
+      "season": "fall",
+      "session": "令和8年第5回定例会（9月）",
+      "title": "令和８年度川島町一般会計補正予算（第３号）",
+      "result": "原案可決",
+      "url": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
+      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
+      "number": "議案第32号",
+      "voteNote": "公式表の集計は「全員賛成」。"
+    },
+    {
+      "place": "川島町",
+      "season": "fall",
+      "session": "令和8年第5回定例会（9月）",
+      "title": "令和８年度川島町国民健康保険特別会計補正予算（第１号）",
+      "result": "原案可決",
+      "url": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
+      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
+      "number": "議案第33号",
+      "voteNote": "公式表の集計は「全員賛成」。"
+    },
+    {
+      "place": "川島町",
+      "season": "fall",
+      "session": "令和8年第5回定例会（9月）",
+      "title": "令和８年度川島町介護保険特別会計補正予算（第１号）",
+      "result": "原案可決",
+      "url": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
+      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
+      "number": "議案第34号",
+      "voteNote": "公式表の集計は「全員賛成」。"
+    },
+    {
+      "place": "川島町",
+      "season": "fall",
+      "session": "令和8年第5回定例会（9月）",
+      "title": "令和８年度川島町水道事業会計補正予算（第１号）",
+      "result": "原案可決",
+      "url": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
+      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
+      "number": "議案第35号",
+      "voteNote": "公式表の集計は「全員賛成」。"
+    },
+    {
+      "place": "川島町",
+      "season": "fall",
+      "session": "令和8年第5回定例会（9月）",
+      "title": "令和８年度川島町下水道事業会計補正予算（第１号）",
+      "result": "原案可決",
+      "url": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
+      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
+      "number": "議案第36号",
+      "voteNote": "公式表の集計は「全員賛成」。"
+    },
+    {
+      "place": "川島町",
+      "season": "fall",
+      "session": "令和8年第5回定例会（9月）",
+      "title": "令和７年度川島町一般会計歳入歳出決算認定について",
+      "result": "原案認定",
+      "url": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
+      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
+      "number": "議案第37号",
+      "voteNote": "公式表の集計は「全員賛成」。"
+    },
+    {
+      "place": "川島町",
+      "season": "fall",
+      "session": "令和8年第5回定例会（9月）",
+      "title": "令和７年度川島町国民健康保険特別会計歳入歳出決算認定について",
+      "result": "原案認定",
+      "url": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
+      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
+      "number": "議案第38号",
+      "voteNote": "公式表の集計は「賛成多数」。"
+    },
+    {
+      "place": "川島町",
+      "season": "fall",
+      "session": "令和8年第5回定例会（9月）",
+      "title": "令和７年度川島町介護保険特別会計歳入歳出決算認定について",
+      "result": "原案認定",
+      "url": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
+      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
+      "number": "議案第39号",
+      "voteNote": "公式表の集計は「全員賛成」。"
+    },
+    {
+      "place": "川島町",
+      "season": "fall",
+      "session": "令和8年第5回定例会（9月）",
+      "title": "令和７年度川島町後期高齢者医療特別会計歳入歳出決算認定について",
+      "result": "原案認定",
+      "url": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
+      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
+      "number": "議案第40号",
+      "voteNote": "公式表の集計は「全員賛成」。"
+    },
+    {
+      "place": "川島町",
+      "season": "fall",
+      "session": "令和8年第5回定例会（9月）",
+      "title": "令和７年度川島町水道事業会計決算認定について",
+      "result": "原案認定",
+      "url": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
+      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
+      "number": "議案第41号",
+      "voteNote": "公式表の集計は「全員賛成」。"
+    },
+    {
+      "place": "川島町",
+      "season": "fall",
+      "session": "令和8年第5回定例会（9月）",
+      "title": "令和７年度川島町下水道事業会計決算認定について",
+      "result": "原案認定",
+      "url": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
+      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
+      "number": "議案第42号",
+      "voteNote": "公式表の集計は「全員賛成」。"
+    },
+    {
+      "place": "川島町",
+      "season": "fall",
+      "session": "令和8年第5回定例会（9月）",
+      "title": "債権の放棄について",
+      "result": "原案承認",
+      "url": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
+      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
+      "number": "議案第43号",
+      "voteNote": "公式表の集計は「全員賛成」。"
+    },
+    {
+      "place": "吉見町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "吉見町スポーツ施設の設置及び管理に関する条例",
+      "result": "原案可決",
+      "url": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "resultURL": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "number": "議案第33号",
+      "resultLocator": "公式結果表・議決番号37"
+    },
+    {
+      "place": "吉見町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "吉見町監査委員条例及び吉見町水道事業及び下水道事業の設置等に関する条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "resultURL": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "number": "議案第34号",
+      "resultLocator": "公式結果表・議決番号38"
+    },
+    {
+      "place": "吉見町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "吉見町認可地縁団体印鑑条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "resultURL": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "number": "議案第35号",
+      "resultLocator": "公式結果表・議決番号39"
+    },
+    {
+      "place": "吉見町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "吉見町こども医療費支給に関する条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "resultURL": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "number": "議案第36号",
+      "resultLocator": "公式結果表・議決番号40"
+    },
+    {
+      "place": "吉見町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "吉見町ひとり親家庭等の医療費の支給に関する条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "resultURL": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "number": "議案第37号",
+      "resultLocator": "公式結果表・議決番号41"
+    },
+    {
+      "place": "吉見町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "吉見町ふれあい広場設置及び管理に関する条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "resultURL": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "number": "議案第38号",
+      "resultLocator": "公式結果表・議決番号42"
+    },
+    {
+      "place": "吉見町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "町道路線の廃止について",
+      "result": "原案可決",
+      "url": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "resultURL": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "number": "議案第39号",
+      "resultLocator": "公式結果表・議決番号43"
+    },
+    {
+      "place": "吉見町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "町道路線の認定について",
+      "result": "原案可決",
+      "url": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "resultURL": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "number": "議案第40号",
+      "resultLocator": "公式結果表・議決番号44"
+    },
+    {
+      "place": "吉見町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "行政界を越える市道認定の承諾について",
+      "result": "原案可決",
+      "url": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "resultURL": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "number": "議案第41号",
+      "resultLocator": "公式結果表・議決番号45"
+    },
+    {
+      "place": "吉見町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "令和８年度吉見町一般会計補正予算（第２号）",
+      "result": "原案可決",
+      "url": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "resultURL": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "number": "議案第42号",
+      "resultLocator": "公式結果表・議決番号46"
+    },
+    {
+      "place": "吉見町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "令和８年度吉見町国民健康保険特別会計補正予算（第１号）",
+      "result": "原案可決",
+      "url": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "resultURL": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "number": "議案第43号",
+      "resultLocator": "公式結果表・議決番号47"
+    },
+    {
+      "place": "吉見町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "令和８年度吉見町後期高齢者医療特別会計補正予算（第１号）",
+      "result": "原案可決",
+      "url": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "resultURL": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "number": "議案第44号",
+      "resultLocator": "公式結果表・議決番号48"
+    },
+    {
+      "place": "吉見町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "令和８年度吉見町介護保険特別会計補正予算（第２号）",
+      "result": "原案可決",
+      "url": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "resultURL": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "number": "議案第45号",
+      "resultLocator": "公式結果表・議決番号49"
+    },
+    {
+      "place": "吉見町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "令和８年度吉見町水道事業会計補正予算（第２号）",
+      "result": "原案可決",
+      "url": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "resultURL": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "number": "議案第46号",
+      "resultLocator": "公式結果表・議決番号50"
+    },
+    {
+      "place": "吉見町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "令和７年度吉見町一般会計決算認定について",
+      "result": "認定",
+      "url": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "resultURL": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "number": "議案第47号",
+      "resultLocator": "公式結果表・議決番号51"
+    },
+    {
+      "place": "吉見町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "令和７年度吉見町国民健康保険特別会計決算認定について",
+      "result": "認定",
+      "url": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "resultURL": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "number": "議案第48号",
+      "resultLocator": "公式結果表・議決番号52"
+    },
+    {
+      "place": "吉見町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "令和７年度吉見町後期高齢者医療特別会計決算認定について",
+      "result": "認定",
+      "url": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "resultURL": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "number": "議案第49号",
+      "resultLocator": "公式結果表・議決番号53"
+    },
+    {
+      "place": "吉見町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "令和７年度吉見町介護保険特別会計決算認定について",
+      "result": "認定",
+      "url": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "resultURL": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "number": "議案第50号",
+      "resultLocator": "公式結果表・議決番号54"
+    },
+    {
+      "place": "吉見町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "令和７年度吉見町水道事業会計決算認定について",
+      "result": "認定",
+      "url": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "resultURL": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "number": "議案第51号",
+      "resultLocator": "公式結果表・議決番号55"
+    },
+    {
+      "place": "吉見町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "令和７年度吉見町下水道事業会計決算認定について",
+      "result": "認定",
+      "url": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "resultURL": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "number": "議案第52号",
+      "resultLocator": "公式結果表・議決番号56"
+    },
+    {
+      "place": "吉見町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "人権擁護委員の候補者の推薦について",
+      "result": "適任",
+      "url": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "resultURL": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "number": "議案第53号",
+      "resultLocator": "公式結果表・議決番号57"
+    },
+    {
+      "place": "吉見町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "教育委員会委員の任命同意について",
+      "result": "同意",
+      "url": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "resultURL": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "number": "議案第54号",
+      "resultLocator": "公式結果表・議決番号58"
+    },
+    {
+      "place": "吉見町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "核兵器禁止条約への署名・批准を求める意見書（案）の提出について",
+      "result": "原案可決",
+      "url": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "resultURL": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "number": "発議第4号",
+      "resultLocator": "公式結果表・議決番号59"
+    },
+    {
+      "place": "吉見町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "請負契約の締結について",
+      "result": "原案可決",
+      "url": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "resultURL": "https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf#page=1",
+      "number": "議案第55号",
+      "resultLocator": "公式結果表・議決番号60"
+    },
+    {
+      "place": "皆野町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "title": "皆野町議会議員及び皆野町長の選挙における選挙運動の公営に関する条例の一部を改正する条例の制定について",
+      "result": "原案可決",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "number": "議案第1号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "title": "議会の議員の議員報酬及び費用弁償等に関する条例の一部を改正する条例の制定について",
+      "result": "原案可決",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "number": "議案第2号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "title": "町長等の給与等に関する条例の一部を改正する条例の制定について",
+      "result": "原案可決",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "number": "議案第3号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "title": "皆野町一般職員の給与に関する条例の一部を改正する条例の制定について",
+      "result": "原案可決",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "number": "議案第4号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "title": "皆野町会計年度任用職員の給与及び費用弁償に関する条例の一部を改正する条例の制定について",
+      "result": "原案可決",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "number": "議案第5号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "title": "町職員の旅費支給に関する条例の全部を改正する条例の制定について",
+      "result": "原案可決",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "number": "議案第6号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "title": "皆野町ひとり親家庭等医療費支給に関する条例の一部を改正する条例の制定について",
+      "result": "原案可決",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "number": "議案第7号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "title": "皆野町こども医療費支給に関する条例の一部を改正する条例の制定について",
+      "result": "原案可決",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "number": "議案第8号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "title": "皆野町老人福祉センター設置及び管理に関する条例の一部を改正する条例の制定について",
+      "result": "原案可決",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "number": "議案第9号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "title": "皆野町国民健康保険税条例の一部を改正する条例の制定について",
+      "result": "原案可決",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "number": "議案第10号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "title": "皆野町消防団条例の一部を改正する条例の制定について",
+      "result": "原案可決",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "number": "議案第11号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "title": "皆野町過疎地域持続的発展計画の変更について",
+      "result": "原案可決",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "number": "議案第12号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "title": "財産の取得について",
+      "result": "原案可決",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "number": "議案第13号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "title": "皆野町学童保育所における指定管理者の指定について",
+      "result": "原案可決",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "number": "議案第14号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "title": "皆野町老人福祉センターにおける指定管理者の指定について",
+      "result": "原案可決",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "number": "議案第15号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "title": "秩父市とのちちぶ定住自立圏形成協定書の変更について",
+      "result": "原案可決",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "number": "議案第16号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "title": "令和８年度皆野町一般会計予算",
+      "result": "原案可決",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "number": "議案第17号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "title": "令和８年度皆野町国民健康保険特別会計予算",
+      "result": "原案可決",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "number": "議案第18号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "title": "令和８年度皆野町介護保険特別会計予算",
+      "result": "原案可決",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "number": "議案第19号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "title": "令和８年度皆野町後期高齢者医療特別会計予算",
+      "result": "原案可決",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "number": "議案第20号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "title": "令和７年度皆野町一般会計補正予算（第９号）",
+      "result": "原案可決",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "number": "議案第21号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "title": "令和７年度皆野町国民健康保険特別会計補正予算（第４号）",
+      "result": "原案可決",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "number": "議案第22号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "title": "令和７年度皆野町介護保険特別会計補正予算（第４号）",
+      "result": "原案可決",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "number": "議案第23号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "title": "令和７年度皆野町後期高齢者医療特別会計補正予算（第３号）",
+      "result": "原案可決",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "number": "議案第24号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "title": "専決処分の承認を求めることについて（令和７年度皆野町一般会計補正予算（第７号））",
+      "result": "原案承認",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "number": "承認第1号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "title": "専決処分の承認を求めることについて（令和７年度皆野町一般会計補正予算（第８号））",
+      "result": "原案承認",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
+      "number": "承認第2号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "title": "皆野町デマンドタクシーの設置及び管理に関する条例の制定について",
+      "result": "原案可決",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
+      "number": "議案第25号",
+      "date": "2026-06-10",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "title": "町職員等の旅費支給に関する条例の施行に伴う関係条例の整理に関する条例の制定について",
+      "result": "原案可決",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
+      "number": "議案第26号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "title": "皆野町営バス条例の全部を改正する条例の制定について",
+      "result": "原案可決",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
+      "number": "議案第27号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "title": "皆野町学校給食センター設置及び管理に関する条例の一部を改正する条例の制定について",
+      "result": "原案可決",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
+      "number": "議案第28号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "title": "皆野町職員の勤務時間、休日及び休暇に関する条例の一部を改正する条例の制定について",
+      "result": "原案可決",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
+      "number": "議案第29号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "title": "皆野町介護保険条例の一部を改正する条例の制定について",
+      "result": "原案可決",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
+      "number": "議案第30号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "title": "工事請負契約の変更契約の締結について（皆野町新・学校給食センター（仮称）建設工事）",
+      "result": "原案可決",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
+      "number": "議案第31号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "title": "財産の取得について（新学校給食センター食缶等）",
+      "result": "原案可決",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
+      "number": "議案第32号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "title": "令和８年度皆野町一般会計補正予算（第１号）",
+      "result": "原案可決",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
+      "number": "議案第33号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "title": "令和８年度皆野町国民健康保険特別会計補正予算（第１号）",
+      "result": "原案可決",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
+      "number": "議案第34号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "title": "令和８年度皆野町介護保険特別会計補正予算（第１号）",
+      "result": "原案可決",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
+      "number": "議案第35号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "title": "専決処分の承認を求めることについて（皆野町税条例の一部を改正する条例）",
+      "result": "原案承認",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
+      "number": "承認第3号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "title": "専決処分の承認を求めることについて（皆野町国民健康保険税条例の一部を改正する条例）",
+      "result": "原案承認",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
+      "number": "承認第4号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "title": "専決処分の承認を求めることについて（令和７年度皆野町一般会計補正予算（第10号））",
+      "result": "原案承認",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
+      "number": "承認第5号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "title": "人権擁護委員候補者の推薦について",
+      "result": "原案同意",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
+      "number": "同意第1号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "title": "人権擁護委員候補者の推薦について",
+      "result": "原案同意",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
+      "number": "同意第2号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "title": "人権擁護委員候補者の推薦について",
+      "result": "原案同意",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
+      "number": "同意第3号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "title": "教育委員会委員の任命について",
+      "result": "原案同意",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
+      "number": "同意第4号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "令和７年度皆野町一般会計歳入歳出決算認定について",
+      "result": "認定",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
+      "number": "認定第1号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "令和７年度皆野町国民健康保険特別会計歳入歳出決算認定について",
+      "result": "認定",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
+      "number": "認定第2号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "令和７年度皆野町介護保険特別会計歳入歳出決算認定について",
+      "result": "認定",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
+      "number": "認定第3号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "令和７年度皆野町後期高齢者医療特別会計歳入歳出決算認定について",
+      "result": "認定",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
+      "number": "認定第4号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "皆野町特定乳児等通園支援事業の運営に関する基準を定める条例の制定について",
+      "result": "原案可決",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
+      "number": "議案第38号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "皆野町印鑑条例の一部を改正する条例の制定について",
+      "result": "原案可決",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
+      "number": "議案第39号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "皆野町認可地縁団体印鑑条例の一部を改正する条例の制定について",
+      "result": "原案可決",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
+      "number": "議案第40号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "財産の取得について",
+      "result": "原案可決",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
+      "number": "議案第41号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "令和８年度皆野町一般会計補正予算（第3号）",
+      "result": "原案可決",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
+      "number": "議案第42号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "令和８年度皆野町国民健康保険特別会計補正予算（第2号）",
+      "result": "原案可決",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
+      "number": "議案第43号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "令和８年度皆野町介護保険特別会計補正予算（第2号）",
+      "result": "原案可決",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
+      "number": "議案第44号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "令和８年度皆野町後期高齢者医療特別会計補正予算（第１号）",
+      "result": "原案可決",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
+      "number": "議案第45号",
+      "proposer": "皆野町長"
+    },
+    {
+      "place": "皆野町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "ゲノム編集技術を応用した食品情報の取扱いに関する意見書の提出に関する請願",
+      "result": "採択",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
+      "number": "請願第1号"
+    },
+    {
+      "place": "皆野町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "非核三原則の堅持を求める意見書について",
+      "result": "原案可決",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
+      "number": "発議第1号"
+    },
+    {
+      "place": "皆野町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "ゲノム編集食品の表示の義務化を国に求める意見書の提出について",
+      "result": "原案可決",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
+      "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
+      "number": "発議第2号"
+    },
+    {
+      "place": "小川町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "小川町特定教育・保育施設及び特定地域型保育事業の運営に関する基準を定める条例制定について",
+      "result": "可決",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+      "number": "議案第38号",
+      "date": "2026-09-07",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "賛成",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "賛成",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1"
+    },
+    {
+      "place": "小川町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "小川町福祉３医療費支給制度における受領委任払の実施に伴う関係条例の整備に関する条例制定について",
+      "result": "可決",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+      "number": "議案第39号",
+      "date": "2026-09-07",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "賛成",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "賛成",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1"
+    },
+    {
+      "place": "小川町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "小川町監査委員に関する条例及び小川町水道事業及び下水道事業の設置等に関する条例の一部を改正する条例制定について",
+      "result": "可決",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+      "number": "議案第40号",
+      "date": "2026-09-07",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "賛成",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "賛成",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1"
+    },
+    {
+      "place": "小川町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "小川町学童クラブの指定管理者の指定について",
+      "result": "可決",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+      "number": "議案第41号",
+      "date": "2026-09-07",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "賛成",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "賛成",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1"
+    },
+    {
+      "place": "小川町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "農業水路等長寿命化・防災減災事業　五反田沼防災工事請負契約の締結について",
+      "result": "可決",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+      "number": "議案第42号",
+      "date": "2026-09-07",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "賛成",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "賛成",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1"
+    },
+    {
+      "place": "小川町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "農業水路等長寿命化・防災減災事業　大豆五駄沼下防災工事請負契約の締結について",
+      "result": "可決",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+      "number": "議案第43号",
+      "date": "2026-09-07",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "賛成",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "賛成",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1"
+    },
+    {
+      "place": "小川町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "島根橋耐震補強工事（Ｐ２橋脚補強工）請負契約の締結について",
+      "result": "可決",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+      "number": "議案第44号",
+      "date": "2026-09-07",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "賛成",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "賛成",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1"
+    },
+    {
+      "place": "小川町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "令和８年度小川町一般会計補正予算（第４号）",
+      "result": "可決",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+      "number": "議案第45号",
+      "date": "2026-09-07",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "賛成",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "賛成",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1"
+    },
+    {
+      "place": "小川町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "令和８年度小川町国民健康保険特別会計（事業勘定）補正予算（第１号）",
+      "result": "可決",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+      "number": "議案第46号",
+      "date": "2026-09-07",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "賛成",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "賛成",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1"
+    },
+    {
+      "place": "小川町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "令和８年度小川町後期高齢者医療特別会計補正予算（第１号）",
+      "result": "可決",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+      "number": "議案第47号",
+      "date": "2026-09-07",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "賛成",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "賛成",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1"
+    },
+    {
+      "place": "小川町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "令和８年度小川町介護保険特別会計（保険事業勘定）補正予算（第２号）",
+      "result": "可決",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+      "number": "議案第48号",
+      "date": "2026-09-07",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "賛成",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "賛成",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1"
+    },
+    {
+      "place": "小川町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "教育委員会委員の任命について",
+      "result": "同意",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=2",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=2",
+      "number": "議案第55号",
+      "date": "2026-09-09",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "賛成",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "賛成",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=2"
+    },
+    {
+      "place": "小川町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "監査委員の選任について",
+      "result": "同意",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=2",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=2",
+      "number": "議案第56号",
+      "date": "2026-09-09",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "賛成",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "賛成",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=2"
+    },
+    {
+      "place": "小川町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "人権擁護委員候補者の推薦について",
+      "result": "同意",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=2",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=2",
+      "number": "諮問第2号",
+      "date": "2026-09-09",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "賛成",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "賛成",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=2"
+    },
+    {
+      "place": "小川町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "令和７年度小川町一般会計歳入歳出決算の認定について",
+      "result": "認定",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3",
+      "number": "議案第49号",
+      "date": "2026-09-24",
+      "votes": {
+        "田中立男": "反対",
+        "関根慶則": "賛成",
+        "田端良成": "反対",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "賛成",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3"
+    },
+    {
+      "place": "小川町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "令和７年度小川町国民健康保険特別会計（事業勘定）歳入歳出決算の認定について",
+      "result": "認定",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3",
+      "number": "議案第50号",
+      "date": "2026-09-24",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "賛成",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "賛成",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3"
+    },
+    {
+      "place": "小川町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "令和７年度小川町後期高齢者医療特別会計歳入歳出決算の認定について",
+      "result": "認定",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3",
+      "number": "議案第51号",
+      "date": "2026-09-24",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "賛成",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "賛成",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3"
+    },
+    {
+      "place": "小川町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "令和７年度小川町介護保険特別会計（保険事業勘定）歳入歳出決算の認定について",
+      "result": "認定",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3",
+      "number": "議案第52号",
+      "date": "2026-09-24",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "賛成",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "賛成",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3"
+    },
+    {
+      "place": "小川町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "令和７年度小川町水道事業会計剰余金の処分及び決算の認定について",
+      "result": "認定",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3",
+      "number": "議案第53号",
+      "date": "2026-09-24",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "賛成",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "賛成",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3"
+    },
+    {
+      "place": "小川町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "令和７年度小川町下水道事業会計剰余金の処分及び決算の認定について",
+      "result": "認定",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3",
+      "number": "議案第54号",
+      "date": "2026-09-24",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "賛成",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "賛成",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3"
+    },
+    {
+      "place": "小川町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "title": "小川町通学用マイクロバス売買契約の締結について",
+      "result": "可決",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3",
+      "number": "議案第57号",
+      "date": "2026-09-24",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "賛成",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "賛成",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3"
+    },
+    {
+      "place": "長瀞町",
+      "season": "fall",
+      "session": "令和8年第5回定例会（9月）",
+      "title": "長瀞町特定乳児等通園支援事業の運営に関する基準を定める条例",
+      "result": "可決",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4",
+      "resultLocator": "議会だより第39号4頁・第5回定例会欄の1行目",
+      "votes": {
+        "石森理嗣": "賛成",
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "賛成",
+        "村田徹也": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4"
+    },
+    {
+      "place": "長瀞町",
+      "season": "fall",
+      "session": "令和8年第5回定例会（9月）",
+      "title": "長瀞町認可地縁団体印鑑条例の一部を改正する条例",
+      "result": "可決",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4",
+      "resultLocator": "議会だより第39号4頁・第5回定例会欄の2行目",
+      "votes": {
+        "石森理嗣": "賛成",
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "賛成",
+        "村田徹也": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4"
+    },
+    {
+      "place": "長瀞町",
+      "season": "fall",
+      "session": "令和8年第5回定例会（9月）",
+      "title": "職員の勤務時間、休日及び休暇に関する条例の一部を改正する条例",
+      "result": "可決",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4",
+      "resultLocator": "議会だより第39号4頁・第5回定例会欄の3行目",
+      "votes": {
+        "石森理嗣": "賛成",
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "賛成",
+        "村田徹也": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4"
+    },
+    {
+      "place": "長瀞町",
+      "season": "fall",
+      "session": "令和8年第5回定例会（9月）",
+      "title": "長瀞町こども医療費支給に関する条例等の一部を改正する条例",
+      "result": "可決",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4",
+      "resultLocator": "議会だより第39号4頁・第5回定例会欄の4行目",
+      "votes": {
+        "石森理嗣": "賛成",
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "賛成",
+        "村田徹也": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4"
+    },
+    {
+      "place": "長瀞町",
+      "season": "fall",
+      "session": "令和8年第5回定例会（9月）",
+      "title": "令和7年度長瀞町一般会計歳入歳出決算認定について",
+      "result": "認定",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4",
+      "resultLocator": "議会だより第39号4頁・第5回定例会欄の5行目",
+      "votes": {
+        "石森理嗣": "賛成",
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "賛成",
+        "村田徹也": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4"
+    },
+    {
+      "place": "長瀞町",
+      "season": "fall",
+      "session": "令和8年第5回定例会（9月）",
+      "title": "令和7年度長瀞町国民健康保険特別会計歳入歳出決算認定について",
+      "result": "認定",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4",
+      "resultLocator": "議会だより第39号4頁・第5回定例会欄の6行目",
+      "votes": {
+        "石森理嗣": "賛成",
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "賛成",
+        "村田徹也": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4"
+    },
+    {
+      "place": "長瀞町",
+      "season": "fall",
+      "session": "令和8年第5回定例会（9月）",
+      "title": "令和7年度長瀞町介護保険特別会計歳入歳出決算認定について",
+      "result": "認定",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4",
+      "resultLocator": "議会だより第39号4頁・第5回定例会欄の7行目",
+      "votes": {
+        "石森理嗣": "賛成",
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "賛成",
+        "村田徹也": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4"
+    },
+    {
+      "place": "長瀞町",
+      "season": "fall",
+      "session": "令和8年第5回定例会（9月）",
+      "title": "令和7年度長瀞町後期高齢者医療特別会計歳入歳出決算認定について",
+      "result": "認定",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4",
+      "resultLocator": "議会だより第39号4頁・第5回定例会欄の8行目",
+      "votes": {
+        "石森理嗣": "賛成",
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "賛成",
+        "村田徹也": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4"
+    },
+    {
+      "place": "長瀞町",
+      "season": "fall",
+      "session": "令和8年第5回定例会（9月）",
+      "title": "令和8年度長瀞町一般会計補正予算（第3号）",
+      "result": "可決",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4",
+      "resultLocator": "議会だより第39号4頁・第5回定例会欄の9行目",
+      "votes": {
+        "石森理嗣": "賛成",
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "賛成",
+        "村田徹也": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4"
+    },
+    {
+      "place": "長瀞町",
+      "season": "fall",
+      "session": "令和8年第5回定例会（9月）",
+      "title": "令和8年度長瀞町国民健康保険特別会計補正予算（第2号）",
+      "result": "可決",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4",
+      "resultLocator": "議会だより第39号4頁・第5回定例会欄の10行目",
+      "votes": {
+        "石森理嗣": "賛成",
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "賛成",
+        "村田徹也": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4"
+    },
+    {
+      "place": "長瀞町",
+      "season": "fall",
+      "session": "令和8年第5回定例会（9月）",
+      "title": "令和8年度長瀞町介護保険特別会計補正予算（第2号）",
+      "result": "可決",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4",
+      "resultLocator": "議会だより第39号4頁・第5回定例会欄の11行目",
+      "votes": {
+        "石森理嗣": "賛成",
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "賛成",
+        "村田徹也": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4"
+    },
+    {
+      "place": "長瀞町",
+      "season": "fall",
+      "session": "令和8年第5回定例会（9月）",
+      "title": "令和8年度長瀞町後期高齢者医療特別会計補正予算（第1号）",
+      "result": "可決",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4",
+      "resultLocator": "議会だより第39号4頁・第5回定例会欄の12行目",
+      "votes": {
+        "石森理嗣": "賛成",
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "賛成",
+        "村田徹也": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4"
+    },
+    {
+      "place": "長瀞町",
+      "season": "fall",
+      "session": "令和8年第5回定例会（9月）",
+      "title": "長瀞町教育委員会委員の任命について",
+      "result": "同意",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4",
+      "resultLocator": "議会だより第39号4頁・第5回定例会欄の13行目",
+      "votes": {
+        "石森理嗣": "賛成",
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "賛成",
+        "村田徹也": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4"
+    },
+    {
+      "place": "長瀞町",
+      "season": "fall",
+      "session": "令和8年第5回定例会（9月）",
+      "title": "人権擁護委員候補者の推薦について",
+      "result": "同意",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4",
+      "resultLocator": "議会だより第39号4頁・第5回定例会欄の14行目",
+      "votes": {
+        "石森理嗣": "賛成",
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "賛成",
+        "村田徹也": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4"
+    },
+    {
+      "place": "長瀞町",
+      "season": "fall",
+      "session": "令和8年第5回定例会（9月）",
+      "title": "人権擁護委員候補者の推薦について",
+      "result": "同意",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4",
+      "resultLocator": "議会だより第39号4頁・第5回定例会欄の15行目",
+      "votes": {
+        "石森理嗣": "賛成",
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "賛成",
+        "村田徹也": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4"
+    },
+    {
+      "place": "上里町",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "title": "上里町印鑑条例の一部を改正する条例",
+      "result": "可決",
+      "url": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2",
+      "resultURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2",
+      "resultLocator": "議会だより第112号2頁・表の1行目",
+      "votes": {
+        "赤沼泰成": "賛成",
+        "清水祐子": "賛成",
+        "上野文一": "賛成",
+        "石井慎也": "賛成",
+        "伊藤覚": "賛成",
+        "金子義則": "賛成",
+        "黛浩之": "賛成",
+        "飯塚賢治": "賛成",
+        "猪岡壽": "賛成",
+        "植原育雄": "賛成",
+        "新井實": "賛成",
+        "沓澤幸子": "賛成",
+        "髙橋仁": "賛成",
+        "戸矢隆光": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2"
+    },
+    {
+      "place": "上里町",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "title": "工事請負契約の締結",
+      "result": "可決",
+      "url": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2",
+      "resultURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2",
+      "resultLocator": "議会だより第112号2頁・表の2行目",
+      "votes": {
+        "赤沼泰成": "賛成",
+        "清水祐子": "賛成",
+        "上野文一": "賛成",
+        "石井慎也": "賛成",
+        "伊藤覚": "賛成",
+        "金子義則": "賛成",
+        "黛浩之": "賛成",
+        "飯塚賢治": "賛成",
+        "猪岡壽": "賛成",
+        "植原育雄": "賛成",
+        "新井實": "賛成",
+        "沓澤幸子": "賛成",
+        "髙橋仁": "賛成",
+        "戸矢隆光": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2"
+    },
+    {
+      "place": "上里町",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "title": "農業委員会委員の任命につき同意を求めること",
+      "result": "同意",
+      "url": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2",
+      "resultURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2",
+      "number": "議案第29号～第41号",
+      "resultLocator": "議会だより第112号2頁・表の3行目",
+      "votes": {
+        "赤沼泰成": "賛成",
+        "清水祐子": "賛成",
+        "上野文一": "賛成",
+        "石井慎也": "賛成",
+        "伊藤覚": "賛成",
+        "金子義則": "賛成",
+        "黛浩之": "賛成",
+        "飯塚賢治": "賛成",
+        "猪岡壽": "賛成",
+        "植原育雄": "賛成",
+        "新井實": "賛成",
+        "沓澤幸子": "賛成",
+        "髙橋仁": "賛成",
+        "戸矢隆光": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2",
+      "voteNote": "議案第29号から第41号までを公式表が一括して掲載。"
+    },
+    {
+      "place": "上里町",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "title": "農業委員会委員の任命につき同意を求めること",
+      "result": "同意",
+      "url": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2",
+      "resultURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2",
+      "number": "議案第42号",
+      "resultLocator": "議会だより第112号2頁・表の4行目",
+      "votes": {
+        "赤沼泰成": "賛成",
+        "清水祐子": "賛成",
+        "上野文一": "賛成",
+        "石井慎也": "除斥",
+        "伊藤覚": "賛成",
+        "金子義則": "賛成",
+        "黛浩之": "賛成",
+        "飯塚賢治": "賛成",
+        "猪岡壽": "賛成",
+        "植原育雄": "賛成",
+        "新井實": "賛成",
+        "沓澤幸子": "賛成",
+        "髙橋仁": "賛成",
+        "戸矢隆光": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2"
+    },
+    {
+      "place": "上里町",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "title": "上里町一般会計補正予算（第1号）",
+      "result": "可決",
+      "url": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2",
+      "resultURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2",
+      "resultLocator": "議会だより第112号2頁・表の5行目",
+      "votes": {
+        "赤沼泰成": "賛成",
+        "清水祐子": "賛成",
+        "上野文一": "賛成",
+        "石井慎也": "賛成",
+        "伊藤覚": "賛成",
+        "金子義則": "賛成",
+        "黛浩之": "賛成",
+        "飯塚賢治": "賛成",
+        "猪岡壽": "賛成",
+        "植原育雄": "賛成",
+        "新井實": "賛成",
+        "沓澤幸子": "賛成",
+        "髙橋仁": "賛成",
+        "戸矢隆光": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2"
+    },
+    {
+      "place": "上里町",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "title": "上里町介護保険特別会計補正予算（第1号）",
+      "result": "可決",
+      "url": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2",
+      "resultURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2",
+      "resultLocator": "議会だより第112号2頁・表の6行目",
+      "votes": {
+        "赤沼泰成": "賛成",
+        "清水祐子": "賛成",
+        "上野文一": "賛成",
+        "石井慎也": "賛成",
+        "伊藤覚": "賛成",
+        "金子義則": "賛成",
+        "黛浩之": "賛成",
+        "飯塚賢治": "賛成",
+        "猪岡壽": "賛成",
+        "植原育雄": "賛成",
+        "新井實": "賛成",
+        "沓澤幸子": "賛成",
+        "髙橋仁": "賛成",
+        "戸矢隆光": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2"
+    },
+    {
+      "place": "上里町",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "title": "副町長の選任",
+      "result": "同意",
+      "url": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2",
+      "resultURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2",
+      "resultLocator": "議会だより第112号2頁・表の7行目",
+      "votes": {
+        "赤沼泰成": "賛成",
+        "清水祐子": "賛成",
+        "上野文一": "賛成",
+        "石井慎也": "賛成",
+        "伊藤覚": "賛成",
+        "金子義則": "賛成",
+        "黛浩之": "賛成",
+        "飯塚賢治": "賛成",
+        "猪岡壽": "賛成",
+        "植原育雄": "賛成",
+        "新井實": "賛成",
+        "沓澤幸子": "賛成",
+        "髙橋仁": "賛成",
+        "戸矢隆光": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2"
+    },
+    {
+      "place": "上里町",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "title": "公平委員会委員の選任",
+      "result": "同意",
+      "url": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2",
+      "resultURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2",
+      "resultLocator": "議会だより第112号2頁・表の8行目",
+      "votes": {
+        "赤沼泰成": "賛成",
+        "清水祐子": "賛成",
+        "上野文一": "賛成",
+        "石井慎也": "賛成",
+        "伊藤覚": "賛成",
+        "金子義則": "賛成",
+        "黛浩之": "賛成",
+        "飯塚賢治": "賛成",
+        "猪岡壽": "賛成",
+        "植原育雄": "賛成",
+        "新井實": "賛成",
+        "沓澤幸子": "賛成",
+        "髙橋仁": "賛成",
+        "戸矢隆光": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2"
+    },
+    {
+      "place": "上里町",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "title": "監査委員の選任",
+      "result": "同意",
+      "url": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2",
+      "resultURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2",
+      "resultLocator": "議会だより第112号2頁・表の9行目",
+      "votes": {
+        "赤沼泰成": "賛成",
+        "清水祐子": "賛成",
+        "上野文一": "賛成",
+        "石井慎也": "賛成",
+        "伊藤覚": "賛成",
+        "金子義則": "賛成",
+        "黛浩之": "賛成",
+        "飯塚賢治": "賛成",
+        "猪岡壽": "賛成",
+        "植原育雄": "賛成",
+        "新井實": "賛成",
+        "沓澤幸子": "賛成",
+        "髙橋仁": "賛成",
+        "戸矢隆光": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2"
+    },
+    {
+      "place": "上里町",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "title": "固定資産評価審査委員会委員",
+      "result": "同意",
+      "url": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2",
+      "resultURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2",
+      "resultLocator": "議会だより第112号2頁・表の10行目",
+      "votes": {
+        "赤沼泰成": "賛成",
+        "清水祐子": "賛成",
+        "上野文一": "賛成",
+        "石井慎也": "賛成",
+        "伊藤覚": "賛成",
+        "金子義則": "賛成",
+        "黛浩之": "賛成",
+        "飯塚賢治": "賛成",
+        "猪岡壽": "賛成",
+        "植原育雄": "賛成",
+        "新井實": "賛成",
+        "沓澤幸子": "賛成",
+        "髙橋仁": "賛成",
+        "戸矢隆光": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2"
+    },
+    {
+      "place": "上里町",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "title": "公立中学校における平和教育及び校外学習の政治的中立性と安全確保を求める陳情（委員会審査結果：不採択）",
+      "result": "不採択",
+      "url": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2",
+      "resultURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2",
+      "resultLocator": "議会だより第112号2頁・表の11行目",
+      "votes": {
+        "赤沼泰成": "反対",
+        "清水祐子": "反対",
+        "上野文一": "反対",
+        "石井慎也": "反対",
+        "伊藤覚": "反対",
+        "金子義則": "反対",
+        "黛浩之": "反対",
+        "飯塚賢治": "反対",
+        "猪岡壽": "反対",
+        "植原育雄": "反対",
+        "新井實": "反対",
+        "沓澤幸子": "反対",
+        "髙橋仁": "反対",
+        "戸矢隆光": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2"
+    },
+    {
+      "place": "上里町",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "title": "イランへの軍事攻撃による物価高・資材不足から暮らしと営業を守る緊急対策を求める意見書（案）",
+      "result": "可決",
+      "url": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2",
+      "resultURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2",
+      "resultLocator": "議会だより第112号2頁・表の12行目",
+      "votes": {
+        "赤沼泰成": "賛成",
+        "清水祐子": "賛成",
+        "上野文一": "賛成",
+        "石井慎也": "賛成",
+        "伊藤覚": "賛成",
+        "金子義則": "賛成",
+        "黛浩之": "賛成",
+        "飯塚賢治": "賛成",
+        "猪岡壽": "賛成",
+        "植原育雄": "賛成",
+        "新井實": "賛成",
+        "沓澤幸子": "賛成",
+        "髙橋仁": "賛成",
+        "戸矢隆光": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2"
+    },
+    {
+      "place": "上里町",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "title": "再審開始決定に対する検察官の抗告を禁止する法改正を求める意見書（案）",
+      "result": "可決",
+      "url": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2",
+      "resultURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2",
+      "resultLocator": "議会だより第112号2頁・表の13行目",
+      "votes": {
+        "赤沼泰成": "賛成",
+        "清水祐子": "賛成",
+        "上野文一": "賛成",
+        "石井慎也": "賛成",
+        "伊藤覚": "賛成",
+        "金子義則": "賛成",
+        "黛浩之": "賛成",
+        "飯塚賢治": "賛成",
+        "猪岡壽": "賛成",
+        "植原育雄": "賛成",
+        "新井實": "賛成",
+        "沓澤幸子": "賛成",
+        "髙橋仁": "賛成",
+        "戸矢隆光": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2"
+    },
+    {
+      "place": "美里町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-23",
+      "number": "議案第1号",
+      "title": "令和８年度美里町一般会計予算",
+      "result": "原案可決",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
+      "resultLocator": "公式結果表1頁・議決番号18"
+    },
+    {
+      "place": "美里町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-23",
+      "number": "議案第2号",
+      "title": "令和８年度美里町国民健康保険特別会計予算",
+      "result": "原案可決",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
+      "resultLocator": "公式結果表1頁・議決番号19"
+    },
+    {
+      "place": "美里町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-23",
+      "number": "議案第3号",
+      "title": "令和８年度美里町介護保険特別会計予算",
+      "result": "原案可決",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
+      "resultLocator": "公式結果表1頁・議決番号20"
+    },
+    {
+      "place": "美里町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-23",
+      "number": "議案第4号",
+      "title": "令和８年度美里町後期高齢者医療特別会計予算",
+      "result": "原案可決",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
+      "resultLocator": "公式結果表1頁・議決番号21"
+    },
+    {
+      "place": "美里町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-23",
+      "number": "議案第5号",
+      "title": "令和８年度美里町水道事業会計予算",
+      "result": "原案可決",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
+      "resultLocator": "公式結果表1頁・議決番号22"
+    },
+    {
+      "place": "美里町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-23",
+      "number": "議案第6号",
+      "title": "令和８年度美里町下水道事業会計予算",
+      "result": "原案可決",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
+      "resultLocator": "公式結果表1頁・議決番号23"
+    },
+    {
+      "place": "美里町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-02",
+      "number": "議案第7号",
+      "title": "専決処分の承認を求めることについて",
+      "result": "原案承認",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
+      "resultLocator": "公式結果表1頁・議決番号1"
+    },
+    {
+      "place": "美里町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-02",
+      "number": "議案第8号",
+      "title": "専決処分の承認を求めることについて",
+      "result": "原案承認",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
+      "resultLocator": "公式結果表1頁・議決番号2"
+    },
+    {
+      "place": "美里町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-03",
+      "number": "議案第9号",
+      "title": "令和７年度美里町一般会計補正予算（第８号）",
+      "result": "原案可決",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
+      "resultLocator": "公式結果表1頁・議決番号3"
+    },
+    {
+      "place": "美里町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-03",
+      "number": "議案第10号",
+      "title": "令和７年度美里町国民健康保険特別会計補正予算（第３号）",
+      "result": "原案可決",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
+      "resultLocator": "公式結果表1頁・議決番号4"
+    },
+    {
+      "place": "美里町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-03",
+      "number": "議案第11号",
+      "title": "令和７年度美里町介護保険特別会計補正予算（第３号）",
+      "result": "原案可決",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
+      "resultLocator": "公式結果表1頁・議決番号5"
+    },
+    {
+      "place": "美里町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-03",
+      "number": "議案第12号",
+      "title": "令和７年度美里町後期高齢者医療特別会計補正予算（第３号）",
+      "result": "原案可決",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
+      "resultLocator": "公式結果表1頁・議決番号6"
+    },
+    {
+      "place": "美里町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-03",
+      "number": "議案第13号",
+      "title": "令和７年度美里町水道事業会計補正予算（第４号）",
+      "result": "原案可決",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
+      "resultLocator": "公式結果表1頁・議決番号7"
+    },
+    {
+      "place": "美里町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-03",
+      "number": "議案第14号",
+      "title": "令和７年度美里町下水道事業会計補正予算（第３号）",
+      "result": "原案可決",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
+      "resultLocator": "公式結果表1頁・議決番号8"
+    },
+    {
+      "place": "美里町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-23",
+      "number": "議案第15号",
+      "title": "美里町職員の給与に関する条例及び美里町会計年度任用職員の給与に関する条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=2",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=2",
+      "resultLocator": "公式結果表2頁・議決番号11"
+    },
+    {
+      "place": "美里町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-23",
+      "number": "議案第16号",
+      "title": "美里町環境保全条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=2",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=2",
+      "resultLocator": "公式結果表2頁・議決番号12"
+    },
+    {
+      "place": "美里町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-23",
+      "number": "議案第17号",
+      "title": "美里町国民健康保険税条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=2",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=2",
+      "resultLocator": "公式結果表2頁・議決番号13"
+    },
+    {
+      "place": "美里町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-23",
+      "number": "議案第18号",
+      "title": "美里町重度心身障害者医療費支給に関する条例等の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=2",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=2",
+      "resultLocator": "公式結果表2頁・議決番号14"
+    },
+    {
+      "place": "美里町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-23",
+      "number": "議案第19号",
+      "title": "美里町特定乳児等通園支援事業の運営に関する基準を定める条例",
+      "result": "原案可決",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=2",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=2",
+      "resultLocator": "公式結果表2頁・議決番号15"
+    },
+    {
+      "place": "美里町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-23",
+      "number": "議案第20号",
+      "title": "美里町まちの景観と空家等の対策の推進に関する条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=2",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=2",
+      "resultLocator": "公式結果表2頁・議決番号16"
+    },
+    {
+      "place": "美里町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-23",
+      "number": "議案第21号",
+      "title": "町道路線の廃止について",
+      "result": "原案可決",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=2",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=2",
+      "resultLocator": "公式結果表2頁・議決番号17"
+    },
+    {
+      "place": "美里町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-23",
+      "number": "議案第22号",
+      "title": "令和７年度美里町一般会計補正予算（第９号）",
+      "result": "原案可決",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=2",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=2",
+      "resultLocator": "公式結果表2頁・議決番号10"
+    },
+    {
+      "place": "美里町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-23",
+      "number": "発議第1号",
+      "title": "美里町の埼玉県議会議員選挙区を北第３区から北第２区に戻すことに関する意見書",
+      "result": "原案可決",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=2",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=2",
+      "resultLocator": "公式結果表2頁・議決番号9"
+    },
+    {
+      "place": "美里町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "date": "2026-06-02",
+      "number": "議案第1号",
+      "title": "専決処分の承認を求めることについて",
+      "result": "原案承認",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/R8.6kekka.pdf#page=1",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/R8.6kekka.pdf#page=1",
+      "resultLocator": "公式結果表1頁・議決番号24"
+    },
+    {
+      "place": "美里町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "date": "2026-06-02",
+      "number": "議案第2号",
+      "title": "専決処分の承認を求めることについて",
+      "result": "原案承認",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/R8.6kekka.pdf#page=1",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/R8.6kekka.pdf#page=1",
+      "resultLocator": "公式結果表1頁・議決番号25"
+    },
+    {
+      "place": "美里町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "date": "2026-06-02",
+      "number": "議案第3号",
+      "title": "専決処分の承認を求めることについて",
+      "result": "原案承認",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/R8.6kekka.pdf#page=1",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/R8.6kekka.pdf#page=1",
+      "resultLocator": "公式結果表1頁・議決番号26"
+    },
+    {
+      "place": "美里町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "date": "2026-06-12",
+      "number": "議案第4号",
+      "title": "令和８年度美里町一般会計補正予算（第２号）",
+      "result": "原案可決",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/R8.6kekka.pdf#page=1",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/R8.6kekka.pdf#page=1",
+      "resultLocator": "公式結果表1頁・議決番号29"
+    },
+    {
+      "place": "美里町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "date": "2026-06-12",
+      "number": "議案第5号",
+      "title": "美里町職員定数条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/R8.6kekka.pdf#page=1",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/R8.6kekka.pdf#page=1",
+      "resultLocator": "公式結果表1頁・議決番号30"
+    },
+    {
+      "place": "美里町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "date": "2026-06-12",
+      "number": "議案第6号",
+      "title": "美里町印鑑条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/R8.6kekka.pdf#page=1",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/R8.6kekka.pdf#page=1",
+      "resultLocator": "公式結果表1頁・議決番号31"
+    },
+    {
+      "place": "美里町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "date": "2026-06-02",
+      "number": "議案第7号",
+      "title": "美里町固定資産評価員の選任について",
+      "result": "原案同意",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/R8.6kekka.pdf#page=1",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/R8.6kekka.pdf#page=1",
+      "resultLocator": "公式結果表1頁・議決番号27"
+    },
+    {
+      "place": "美里町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "date": "2026-06-12",
+      "number": "議案第8号",
+      "title": "町道路線の廃止について",
+      "result": "原案可決",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/R8.6kekka.pdf#page=1",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/R8.6kekka.pdf#page=1",
+      "resultLocator": "公式結果表1頁・議決番号32"
+    },
+    {
+      "place": "美里町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "date": "2026-06-12",
+      "number": "発議第2号",
+      "title": "適格請求書等保存方式（インボイス制度）の廃止を求める意見書",
+      "result": "原案可決",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/R8.6kekka.pdf#page=1",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/R8.6kekka.pdf#page=1",
+      "resultLocator": "公式結果表1頁・議決番号28"
+    },
+    {
+      "place": "美里町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-09-18",
+      "number": "議案第1号",
+      "title": "令和８年度美里町一般会計補正予算（第３号）",
+      "result": "原案可決",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=1",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=1",
+      "resultLocator": "公式結果表1頁・議決番号47"
+    },
+    {
+      "place": "美里町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-09-18",
+      "number": "議案第2号",
+      "title": "令和８年度美里町国民健康保険特別会計補正予算（第１号）",
+      "result": "原案可決",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=1",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=1",
+      "resultLocator": "公式結果表1頁・議決番号48"
+    },
+    {
+      "place": "美里町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-09-18",
+      "number": "議案第3号",
+      "title": "令和８年度美里町介護保険特別会計補正予算（第１号）",
+      "result": "原案可決",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=1",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=1",
+      "resultLocator": "公式結果表1頁・議決番号49"
+    },
+    {
+      "place": "美里町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-09-18",
+      "number": "議案第4号",
+      "title": "令和８年度美里町後期高齢者医療特別会計補正予算（第１号）",
+      "result": "原案可決",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=1",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=1",
+      "resultLocator": "公式結果表1頁・議決番号50"
+    },
+    {
+      "place": "美里町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-09-18",
+      "number": "議案第5号",
+      "title": "美里町行政手続条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=1",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=1",
+      "resultLocator": "公式結果表1頁・議決番号51"
+    },
+    {
+      "place": "美里町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-09-18",
+      "number": "議案第6号",
+      "title": "美里町認可地縁団体印鑑条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=1",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=1",
+      "resultLocator": "公式結果表1頁・議決番号52"
+    },
+    {
+      "place": "美里町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-09-18",
+      "number": "議案第7号",
+      "title": "美里町税条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=1",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=1",
+      "resultLocator": "公式結果表1頁・議決番号53"
+    },
+    {
+      "place": "美里町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-09-18",
+      "number": "議案第8号",
+      "title": "美里町学校施設等整備基金条例",
+      "result": "原案可決",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=1",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=1",
+      "resultLocator": "公式結果表1頁・議決番号54"
+    },
+    {
+      "place": "美里町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-08-31",
+      "number": "議案第9号",
+      "title": "美里町公平委員会委員の選任について",
+      "result": "原案同意",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=1",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=1",
+      "resultLocator": "公式結果表1頁・議決番号33"
+    },
+    {
+      "place": "美里町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-08-31",
+      "number": "議案第10号",
+      "title": "人権擁護委員の候補者の推薦について",
+      "result": "原案適任",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=1",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=1",
+      "resultLocator": "公式結果表1頁・議決番号34"
+    },
+    {
+      "place": "美里町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-08-31",
+      "number": "議案第11号",
+      "title": "美里町農業委員会委員の任命について",
+      "result": "原案同意",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=1",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=1",
+      "resultLocator": "公式結果表1頁・議決番号35"
+    },
+    {
+      "place": "美里町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-08-31",
+      "number": "議案第12号",
+      "title": "美里町農業委員会委員の任命について",
+      "result": "原案同意",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=1",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=1",
+      "resultLocator": "公式結果表1頁・議決番号36"
+    },
+    {
+      "place": "美里町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-08-31",
+      "number": "議案第13号",
+      "title": "美里町農業委員会委員の任命について",
+      "result": "原案同意",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=1",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=1",
+      "resultLocator": "公式結果表1頁・議決番号37"
+    },
+    {
+      "place": "美里町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-08-31",
+      "number": "議案第14号",
+      "title": "美里町農業委員会委員の任命について",
+      "result": "原案同意",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=1",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=1",
+      "resultLocator": "公式結果表1頁・議決番号38"
+    },
+    {
+      "place": "美里町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-08-31",
+      "number": "議案第15号",
+      "title": "美里町農業委員会委員の任命について",
+      "result": "原案同意",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=1",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=1",
+      "resultLocator": "公式結果表1頁・議決番号39"
+    },
+    {
+      "place": "美里町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-08-31",
+      "number": "議案第16号",
+      "title": "美里町農業委員会委員の任命について",
+      "result": "原案同意",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=2",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=2",
+      "resultLocator": "公式結果表2頁・議決番号40"
+    },
+    {
+      "place": "美里町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-08-31",
+      "number": "議案第17号",
+      "title": "美里町農業委員会委員の任命について",
+      "result": "原案同意",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=2",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=2",
+      "resultLocator": "公式結果表2頁・議決番号41"
+    },
+    {
+      "place": "美里町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-08-31",
+      "number": "議案第18号",
+      "title": "美里町農業委員会委員の任命について",
+      "result": "原案同意",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=2",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=2",
+      "resultLocator": "公式結果表2頁・議決番号42"
+    },
+    {
+      "place": "美里町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-08-31",
+      "number": "議案第19号",
+      "title": "美里町農業委員会委員の任命について",
+      "result": "原案同意",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=2",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=2",
+      "resultLocator": "公式結果表2頁・議決番号43"
+    },
+    {
+      "place": "美里町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-08-31",
+      "number": "議案第20号",
+      "title": "美里町農業委員会委員の任命について",
+      "result": "原案同意",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=2",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=2",
+      "resultLocator": "公式結果表2頁・議決番号44"
+    },
+    {
+      "place": "美里町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-08-31",
+      "number": "議案第21号",
+      "title": "美里町農業委員会委員の任命について",
+      "result": "原案同意",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=2",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=2",
+      "resultLocator": "公式結果表2頁・議決番号45"
+    },
+    {
+      "place": "美里町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-08-31",
+      "number": "議案第22号",
+      "title": "美里町教育委員会委員の任命について",
+      "result": "原案同意",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=2",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=2",
+      "resultLocator": "公式結果表2頁・議決番号46"
+    },
+    {
+      "place": "美里町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-09-18",
+      "number": "議案第23号",
+      "title": "令和７年度美里町一般会計歳入歳出決算認定について",
+      "result": "原案認定",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=2",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=2",
+      "resultLocator": "公式結果表2頁・議決番号56"
+    },
+    {
+      "place": "美里町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-09-18",
+      "number": "議案第24号",
+      "title": "令和７年度美里町国民健康保険特別会計歳入歳出決算認定について",
+      "result": "原案認定",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=2",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=2",
+      "resultLocator": "公式結果表2頁・議決番号57"
+    },
+    {
+      "place": "美里町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-09-18",
+      "number": "議案第25号",
+      "title": "令和７年度美里町介護保険特別会計歳入歳出決算認定について",
+      "result": "原案認定",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=2",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=2",
+      "resultLocator": "公式結果表2頁・議決番号58"
+    },
+    {
+      "place": "美里町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-09-18",
+      "number": "議案第26号",
+      "title": "令和７年度美里町後期高齢者医療特別会計歳入歳出決算認定について",
+      "result": "原案認定",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=2",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=2",
+      "resultLocator": "公式結果表2頁・議決番号59"
+    },
+    {
+      "place": "美里町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-09-18",
+      "number": "議案第27号",
+      "title": "令和７年度美里町水道事業会計の利益の処分及び決算認定について",
+      "result": "原案可決及び認定",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=2",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=2",
+      "resultLocator": "公式結果表2頁・議決番号60"
+    },
+    {
+      "place": "美里町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-09-18",
+      "number": "議案第28号",
+      "title": "令和７年度美里町下水道事業会計の利益の処分及び決算認定について",
+      "result": "原案可決及び認定",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=2",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=2",
+      "resultLocator": "公式結果表2頁・議決番号61"
+    },
+    {
+      "place": "美里町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-09-18",
+      "number": "議案第29号",
+      "title": "令和８年度美里町一般会計補正予算（第４号）",
+      "result": "原案可決",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=3",
+      "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf#page=3",
+      "resultLocator": "公式結果表3頁・議決番号55"
     }
   ],
   "policy": [

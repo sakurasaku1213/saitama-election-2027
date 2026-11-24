@@ -293,3 +293,113 @@ GIKAI.cases.push({
   ],
   note: "委員会質疑の対象は米飯代の補助の予算措置。４月の町の案内は、町立小学校の給食費全体の取扱いを示します。",
 });
+
+GIKAI.cases.push(
+  {
+    place: "皆野町",
+    title: "デマンドタクシーの実証を検証し、本格運行へ",
+    topic: "地域交通",
+    actors: ["常山知子", "内海勝男", "黒澤広治", "林豊", "宮原睦夫", "皆野町議会", "皆野町"],
+    steps: [
+      {
+        date: "2025-11-01", stage: "予約制乗合タクシーの実証を開始", actor: "皆野町",
+        detail: "町は、2025年11月1日から2026年1月31日まで実証運行を行った。３月の本会議で、登録154人、実利用42人、運行345件と報告した。",
+        url: "https://www.town.minano.saitama.jp/wp-content/uploads/2026/06/68f9ad31d1c5dd2728eff3a9d70cab1f.pdf#page=25",
+        sourceTitle: "皆野町議会 令和8年第1回定例会会議録 PDF25頁",
+      },
+      {
+        date: "2026-03-05", stage: "実証の利用状況、公表、料金を一般質問", actor: "常山知子",
+        detail: "登録・利用人数、利用者の意見を広報などで知らせる考え、本格運行の時期、利用しやすい料金設定について尋ねた。町は結果を公表し、秋ごろの導入を想定していると答えた。",
+        url: "https://www.town.minano.saitama.jp/wp-content/uploads/2026/06/68f9ad31d1c5dd2728eff3a9d70cab1f.pdf#page=30",
+        sourceTitle: "皆野町議会 令和8年第1回定例会会議録 PDF30頁",
+      },
+      {
+        date: "2026-06-10", stage: "条例案の利用条件・開始時期を問い直す", actor: "常山知子、内海勝男",
+        detail: "常山議員は使用料を免除する具体的な条件を質した。内海議員は運行区域、開始時期、車両購入予定を尋ね、運行方法の資料も求めた。",
+        url: "https://www.town.minano.saitama.jp/wp-content/uploads/2026/06/47872e77c18151483cdf31c438d6f4d7.pdf#page=47",
+        sourceTitle: "皆野町議会 令和8年第2回定例会会議録 PDF47頁",
+      },
+      {
+        date: "2026-06-10", stage: "賛否の討論を経て条例案を可決", actor: "皆野町議会",
+        detail: "常山・林豊両議員が反対討論、黒澤広治・宮原両議員が賛成討論を行った。本会議は設置・管理条例案（議案第25号）を起立多数で原案可決した。",
+        url: "https://www.town.minano.saitama.jp/wp-content/uploads/2026/06/47872e77c18151483cdf31c438d6f4d7.pdf#page=53",
+        sourceTitle: "皆野町議会 令和8年第2回定例会会議録 PDF51～53頁", billNumber: "議案第25号",
+      },
+      {
+        date: "2026-11-02", stage: "本格運行の開始日", actor: "皆野町",
+        detail: "町は11月2日を本格運行の開始日と案内した。町内在住者は事前登録し、自宅と指定乗降地点を結ぶ乗合サービスを電話やLINEで予約できる。",
+        url: "https://www.town.minano.saitama.jp/section/soumu/50366/", sourceTitle: "皆野町総務課 デマンドタクシー本格運行の案内",
+      },
+    ],
+    note: "議員の質問・討論、議会の採決、町の事業開始案内を、日付と主体ごとに記録しています。",
+  },
+  {
+    place: "小川町",
+    title: "福祉３医療で接骨院等の窓口払いを不要にする措置",
+    topic: "医療費助成",
+    actors: ["小川町議会", "小川町"],
+    steps: [
+      {
+        date: "2026-09-07", stage: "受領委任払いに向けた条例案を可決", actor: "小川町議会",
+        detail: "福祉３医療費支給制度で受領委任払いを実施するための関係条例整備案（議案第39号）を可決した。公式表で議長以外の15欄を賛成と確認できる。",
+        url: "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+        sourceTitle: "小川町議会 令和8年第3回定例会審議結果 1頁", billNumber: "議案第39号",
+      },
+      {
+        date: "2026-10-01", stage: "10月からの利用条件を案内", actor: "小川町",
+        detail: "こども・ひとり親家庭等・重度心身障害者の医療費助成の対象者に、協定を結んだ町内施術所での保険診療について、所定の委任状などの要件を満たせば窓口払いが不要になると案内した。月ごとの支払額や学校管理下のけが等による例外も案内している。",
+        url: "https://www.town.ogawa.saitama.jp/gyosei/kosodate_kyoiku/ikuji_mishugakuji/1/7416.html",
+        sourceTitle: "小川町 福祉３医療の施術費に関する案内",
+      },
+    ],
+    note: "条例案の議決と、対象・手続・協定施術所を示す町の案内を照合しています。",
+  },
+  {
+    place: "川島町",
+    title: "宿泊施設を誘致する条例を、災害時の活用と減免方法を審査して可決",
+    topic: "地域経済・宿泊施設",
+    actors: ["藤間隆", "小高春雄", "川島町議会", "川島町"],
+    steps: [
+      {
+        date: "2026-06-03", stage: "宿泊施設の立地を支援する条例案を提出", actor: "藤間隆 川島町長",
+        detail: "地域経済の活性化と持続可能なまちづくりのため、町内の宿泊施設の立地に必要な支援を行う条例案を説明した。",
+        url: "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteView.html?tenant_id=175&council_id=121&schedule_id=2",
+        sourceTitle: "川島町議会 令和8年6月定例会 6月3日本会議録",
+      },
+      {
+        date: "2026-06-04", stage: "減免の範囲と災害時の受入れを委員会で審査", actor: "川島町議会 総務経済建設常任委員会",
+        detail: "委員は、既存の企業向け優遇との整合、災害時の受入れ、免除期間と金額をどの文書で決めるかを質問した。町は、避難時の利用や事業者別の条件を協定に定める考えを示した。小高春雄委員長が６月10日本会議で報告した。",
+        url: "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteView.html?tenant_id=175&council_id=121&schedule_id=5",
+        sourceTitle: "川島町議会 令和8年6月定例会 6月10日常任委員長報告",
+      },
+      {
+        date: "2026-06-10", stage: "本会議で条例案を可決", actor: "川島町議会",
+        detail: "宿泊施設立地促進条例案（議案第22号）を賛成多数で原案可決した。",
+        url: "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteView.html?tenant_id=175&council_id=121&schedule_id=5",
+        sourceTitle: "川島町議会 令和8年6月定例会 6月10日採決", billNumber: "議案第22号",
+      },
+    ],
+    note: "委員会での個別質問は、委員長報告で確認した範囲です。条例案の可決後に締結された協定や、施設の開業は確認中です。",
+  },
+  {
+    place: "神川町",
+    title: "水道基本料金の免除を秋に２か月延長",
+    topic: "水道・物価高対策",
+    actors: ["神川町"],
+    steps: [
+      {
+        date: "2026-02", stage: "２月から９月分の基本料金を免除", actor: "神川町",
+        detail: "町は、２月から９月分の水道基本料金を、２か月ごとの請求４回分で免除したと公表。国の重点支援地方交付金の活用状況では、２～３月分と４～９月分で事業費を分けている。",
+        url: "https://www.town.kamikawa.saitama.jp/material/files/group/3/R7_R8_katuyoujoukyou1.pdf",
+        sourceTitle: "神川町 令和7・8年度補正予算重点支援地方交付金の活用状況",
+      },
+      {
+        date: "2026-09-18", stage: "10～11月分の延長を案内", actor: "神川町",
+        detail: "町はさらに２か月分の基本料金を免除し、対象の請求月と、申請手続が不要であることを公表した。",
+        url: "https://www.town.kamikawa.saitama.jp/subete/6777.html",
+        sourceTitle: "神川町の物価高騰対策・水道基本料金の免除延長",
+      },
+    ],
+    note: "町の交付金活用資料では、10～11月分の免除の事業費は1,540万円です。",
+  },
+);
