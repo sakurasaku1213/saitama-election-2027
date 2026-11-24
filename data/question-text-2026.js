@@ -1599,6 +1599,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "b22804628f7593571b47",
+      "place": "さいたま市",
+      "season": "fall",
+      "date": "2026-09-07",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "神坂達成議員　代表質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。 自動検査で確認候補になった時間帯も含まれます。",
+      "url": "https://saitama-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=2461",
+      "speakers": [
+        "神坂達成"
+      ]
+    },
+    {
       "id": "3e75538fc23964a61c0a",
       "place": "ときがわ町",
       "season": "spring",
@@ -23145,6 +23159,150 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "b10a8317cb8f5cd78476",
+      "place": "新座市",
+      "season": "spring",
+      "date": "2026-03-05",
+      "url": "https://niiza.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=1&SORT=0&KTYP=0,1,2,3&KGTP=3&FYY=2026&TYY=2026&TITL=%8C%FA%90%B6&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82R%8C%8E%8C%FA%90%B6%8F%ED%94C%88%CF%88%F5%89%EF%81%7C03%8C%8E05%93%FA-01%8D%86&HUID=295927&KGNO=542&FINO=2089&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "title": "令和 ８年 ３月厚生常任委員会－03月05日-01号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の委員会会議録の年度別目次と照合し、開会から閉会までの本文を収録。",
+      "speakers": []
+    },
+    {
+      "id": "a4f58f7b0cd7d5595066",
+      "place": "新座市",
+      "season": "spring",
+      "date": "2026-03-05",
+      "url": "https://niiza.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=1&SORT=0&KTYP=0,1,2,3&KGTP=3&FYY=2026&TYY=2026&TITL=%8C%9A%90%DD&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82R%8C%8E%8C%9A%90%DD%8F%ED%94C%88%CF%88%F5%89%EF%81%7C03%8C%8E05%93%FA-01%8D%86&HUID=295709&KGNO=540&FINO=2087&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "title": "令和 ８年 ３月建設常任委員会－03月05日-01号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の委員会会議録の年度別目次と照合し、開会から閉会までの本文を収録。",
+      "speakers": []
+    },
+    {
+      "id": "464c9bb05b0a28cb8673",
+      "place": "新座市",
+      "season": "spring",
+      "date": "2026-03-05",
+      "url": "https://niiza.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=1&SORT=0&KTYP=0,1,2,3&KGTP=3&FYY=2026&TYY=2026&TITL=%95%B6%8B%B3&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82R%8C%8E%95%B6%8B%B3%90%B6%8A%88%8F%ED%94C%88%CF%88%F5%89%EF%81%7C03%8C%8E05%93%FA-01%8D%86&HUID=295792&KGNO=541&FINO=2088&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "title": "令和 ８年 ３月文教生活常任委員会－03月05日-01号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の委員会会議録の年度別目次と照合し、開会から閉会までの本文を収録。",
+      "speakers": []
+    },
+    {
+      "id": "49a435c95bbacda85b6d",
+      "place": "新座市",
+      "season": "spring",
+      "date": "2026-03-05",
+      "url": "https://niiza.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=1&SORT=0&KTYP=0,1,2,3&KGTP=3&FYY=2026&TYY=2026&TITL=%91%8D%96%B1&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82R%8C%8E%91%8D%96%B1%8F%ED%94C%88%CF%88%F5%89%EF%81%7C03%8C%8E05%93%FA-01%8D%86&HUID=295578&KGNO=539&FINO=2086&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "title": "令和 ８年 ３月総務常任委員会－03月05日-01号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の委員会会議録の年度別目次と照合し、開会から閉会までの本文を収録。",
+      "speakers": []
+    },
+    {
+      "id": "d5fd094e18e9ea7b140b",
+      "place": "新座市",
+      "season": "spring",
+      "date": "2026-03-06",
+      "url": "https://niiza.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=1&SORT=0&KTYP=0,1,2,3&KGTP=3&FYY=2026&TYY=2026&TITL=%8C%FA%90%B6&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82R%8C%8E%8C%FA%90%B6%8F%ED%94C%88%CF%88%F5%89%EF%81%7C03%8C%8E06%93%FA-02%8D%86&HUID=296421&KGNO=542&FINO=2093&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "title": "令和 ８年 ３月厚生常任委員会－03月06日-02号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の委員会会議録の年度別目次と照合し、開会から閉会までの本文を収録。",
+      "speakers": []
+    },
+    {
+      "id": "9698f23a674057dbe01a",
+      "place": "新座市",
+      "season": "spring",
+      "date": "2026-03-06",
+      "url": "https://niiza.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=1&SORT=0&KTYP=0,1,2,3&KGTP=3&FYY=2026&TYY=2026&TITL=%8C%9A%90%DD&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82R%8C%8E%8C%9A%90%DD%8F%ED%94C%88%CF%88%F5%89%EF%81%7C03%8C%8E06%93%FA-02%8D%86&HUID=296178&KGNO=540&FINO=2091&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "title": "令和 ８年 ３月建設常任委員会－03月06日-02号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の委員会会議録の年度別目次と照合し、開会から閉会までの本文を収録。",
+      "speakers": []
+    },
+    {
+      "id": "6c3fb9674e48f9de42da",
+      "place": "新座市",
+      "season": "spring",
+      "date": "2026-03-06",
+      "url": "https://niiza.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=1&SORT=0&KTYP=0,1,2,3&KGTP=3&FYY=2026&TYY=2026&TITL=%95%B6%8B%B3&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82R%8C%8E%95%B6%8B%B3%90%B6%8A%88%8F%ED%94C%88%CF%88%F5%89%EF%81%7C03%8C%8E06%93%FA-02%8D%86&HUID=296310&KGNO=541&FINO=2092&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "title": "令和 ８年 ３月文教生活常任委員会－03月06日-02号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の委員会会議録の年度別目次と照合し、開会から閉会までの本文を収録。",
+      "speakers": []
+    },
+    {
+      "id": "f355c054c7c164643f3a",
+      "place": "新座市",
+      "season": "spring",
+      "date": "2026-03-06",
+      "url": "https://niiza.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=1&SORT=0&KTYP=0,1,2,3&KGTP=3&FYY=2026&TYY=2026&TITL=%91%8D%96%B1&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82R%8C%8E%91%8D%96%B1%8F%ED%94C%88%CF%88%F5%89%EF%81%7C03%8C%8E06%93%FA-02%8D%86&HUID=296045&KGNO=539&FINO=2090&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "title": "令和 ８年 ３月総務常任委員会－03月06日-02号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の委員会会議録の年度別目次と照合し、開会から閉会までの本文を収録。",
+      "speakers": []
+    },
+    {
+      "id": "23e8cd1f71f7c719b624",
+      "place": "新座市",
+      "season": "spring",
+      "date": "2026-03-09",
+      "url": "https://niiza.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=1&SORT=0&KTYP=0,1,2,3&KGTP=3&FYY=2026&TYY=2026&TITL=%8C%FA%90%B6&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82R%8C%8E%8C%FA%90%B6%8F%ED%94C%88%CF%88%F5%89%EF%81%7C03%8C%8E09%93%FA-03%8D%86&HUID=296916&KGNO=542&FINO=2097&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "title": "令和 ８年 ３月厚生常任委員会－03月09日-03号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の委員会会議録の年度別目次と照合し、開会から閉会までの本文を収録。",
+      "speakers": []
+    },
+    {
+      "id": "0b64ed2d7010583b0c3a",
+      "place": "新座市",
+      "season": "spring",
+      "date": "2026-03-09",
+      "url": "https://niiza.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=1&SORT=0&KTYP=0,1,2,3&KGTP=3&FYY=2026&TYY=2026&TITL=%8C%9A%90%DD&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82R%8C%8E%8C%9A%90%DD%8F%ED%94C%88%CF%88%F5%89%EF%81%7C03%8C%8E09%93%FA-03%8D%86&HUID=296672&KGNO=540&FINO=2095&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "title": "令和 ８年 ３月建設常任委員会－03月09日-03号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の委員会会議録の年度別目次と照合し、開会から閉会までの本文を収録。",
+      "speakers": []
+    },
+    {
+      "id": "72bf874cac3d855ce491",
+      "place": "新座市",
+      "season": "spring",
+      "date": "2026-03-09",
+      "url": "https://niiza.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=1&SORT=0&KTYP=0,1,2,3&KGTP=3&FYY=2026&TYY=2026&TITL=%95%B6%8B%B3&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82R%8C%8E%95%B6%8B%B3%90%B6%8A%88%8F%ED%94C%88%CF%88%F5%89%EF%81%7C03%8C%8E09%93%FA-03%8D%86&HUID=296759&KGNO=541&FINO=2096&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "title": "令和 ８年 ３月文教生活常任委員会－03月09日-03号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の委員会会議録の年度別目次と照合し、開会から閉会までの本文を収録。",
+      "speakers": []
+    },
+    {
+      "id": "ae8aec0d1ea326668bce",
+      "place": "新座市",
+      "season": "spring",
+      "date": "2026-03-09",
+      "url": "https://niiza.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=1&SORT=0&KTYP=0,1,2,3&KGTP=3&FYY=2026&TYY=2026&TITL=%91%8D%96%B1&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82R%8C%8E%91%8D%96%B1%8F%ED%94C%88%CF%88%F5%89%EF%81%7C03%8C%8E09%93%FA-03%8D%86&HUID=296540&KGNO=539&FINO=2094&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "title": "令和 ８年 ３月総務常任委員会－03月09日-03号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の委員会会議録の年度別目次と照合し、開会から閉会までの本文を収録。",
+      "speakers": []
+    },
+    {
       "id": "e7adcdd6e06046846d2b",
       "place": "新座市",
       "season": "spring",
@@ -23372,6 +23530,54 @@ GIKAI.questionText = {
       "scope": "minutes",
       "speakers": [],
       "note": "公式の年別一覧で日程を照合し、開議から散会までの本文を収録。"
+    },
+    {
+      "id": "b3d85825a670978a0389",
+      "place": "新座市",
+      "season": "summer",
+      "date": "2026-06-04",
+      "url": "https://niiza.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=1&SORT=0&KTYP=0,1,2,3&KGTP=3&FYY=2026&TYY=2026&TITL=%8C%FA%90%B6&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82U%8C%8E%8C%FA%90%B6%8F%ED%94C%88%CF%88%F5%89%EF%81%7C06%8C%8E04%93%FA-01%8D%86&HUID=299307&KGNO=548&FINO=2115&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "title": "令和 ８年 ６月厚生常任委員会－06月04日-01号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の委員会会議録の年度別目次と照合し、開会から閉会までの本文を収録。",
+      "speakers": []
+    },
+    {
+      "id": "f2119cde0a0551aa629f",
+      "place": "新座市",
+      "season": "summer",
+      "date": "2026-06-04",
+      "url": "https://niiza.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=1&SORT=0&KTYP=0,1,2,3&KGTP=3&FYY=2026&TYY=2026&TITL=%8C%9A%90%DD&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82U%8C%8E%8C%9A%90%DD%8F%ED%94C%88%CF%88%F5%89%EF%81%7C06%8C%8E04%93%FA-01%8D%86&HUID=299173&KGNO=546&FINO=2113&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "title": "令和 ８年 ６月建設常任委員会－06月04日-01号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の委員会会議録の年度別目次と照合し、開会から閉会までの本文を収録。",
+      "speakers": []
+    },
+    {
+      "id": "3f03637931a90bd1224d",
+      "place": "新座市",
+      "season": "summer",
+      "date": "2026-06-04",
+      "url": "https://niiza.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=1&SORT=0&KTYP=0,1,2,3&KGTP=3&FYY=2026&TYY=2026&TITL=%95%B6%8B%B3&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82U%8C%8E%95%B6%8B%B3%90%B6%8A%88%8F%ED%94C%88%CF%88%F5%89%EF%81%7C06%8C%8E04%93%FA-01%8D%86&HUID=299267&KGNO=547&FINO=2114&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "title": "令和 ８年 ６月文教生活常任委員会－06月04日-01号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の委員会会議録の年度別目次と照合し、開会から閉会までの本文を収録。",
+      "speakers": []
+    },
+    {
+      "id": "80df1c086524e11dc70f",
+      "place": "新座市",
+      "season": "summer",
+      "date": "2026-06-04",
+      "url": "https://niiza.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=1&SORT=0&KTYP=0,1,2,3&KGTP=3&FYY=2026&TYY=2026&TITL=%91%8D%96%B1&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82U%8C%8E%91%8D%96%B1%8F%ED%94C%88%CF%88%F5%89%EF%81%7C06%8C%8E04%93%FA-01%8D%86&HUID=299106&KGNO=545&FINO=2112&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "title": "令和 ８年 ６月総務常任委員会－06月04日-01号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の委員会会議録の年度別目次と照合し、開会から閉会までの本文を収録。",
+      "speakers": []
     },
     {
       "id": "d0b8fb451facf9d75a99",
@@ -25990,6 +26196,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "011b0fed7c3985e20539",
+      "place": "松伏町",
+      "season": "fall",
+      "date": "2026-09-03",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "川上力議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://matsubushi-town.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=6",
+      "speakers": [
+        "川上力"
+      ]
+    },
+    {
       "id": "817c03daa11602673701",
       "place": "松伏町",
       "season": "fall",
@@ -26018,6 +26238,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "fc2950680c328bfa7d7a",
+      "place": "松伏町",
+      "season": "fall",
+      "date": "2026-09-03",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "福井和義議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://matsubushi-town.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=7",
+      "speakers": [
+        "福井和義"
+      ]
+    },
+    {
       "id": "0681d59c3e34a03ca208",
       "place": "松伏町",
       "season": "fall",
@@ -26029,6 +26263,20 @@ GIKAI.questionText = {
       "url": "https://matsubushi-town.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=4",
       "speakers": [
         "長谷川真也"
+      ]
+    },
+    {
+      "id": "f5382267c88794bdcc2e",
+      "place": "松伏町",
+      "season": "fall",
+      "date": "2026-09-04",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "増田秀雄議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://matsubushi-town.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=8",
+      "speakers": [
+        "増田秀雄"
       ]
     },
     {
@@ -29788,6 +30036,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "7c5880ea98987aec96ac",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-24",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "金丸けんじ議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Video_View.asp?SrchID=2396",
+      "speakers": [
+        "金丸けんじ"
+      ]
+    },
+    {
       "id": "2ef432287089d0dfc6bc",
       "place": "蕨市",
       "season": "fall",
@@ -32127,7 +32389,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://saitama-city.stream.jfit.co.jp/?tpl=gikai_days_list&gikai_id=203",
-        "note": "公式録画一覧の代表・一般質問21人のうち、2人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
+        "note": "公式録画一覧の代表・一般質問21人のうち、3人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
       }
     },
     {
@@ -32630,7 +32892,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://warabi.gijiroku.com/gikai/g07_Video_Search.asp",
-        "note": "公式録画一覧の一般質問15人のうち、13人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
+        "note": "公式録画一覧の一般質問15人のうち、14人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
       }
     },
     {
@@ -32772,7 +33034,7 @@ GIKAI.questionText = {
       "material": {
         "state": "verified",
         "indexURL": "https://niiza.gijiroku.com/voices/g08v_viewh.asp?Sflg=11&FYY=2026&TYY=2026",
-        "note": "公式年別一覧にある本会議録16資料を日付別に照合。"
+        "note": "公式年別一覧にある本会議録16資料を日付別に照合。公式一覧の常任委員会12資料も収録。"
       }
     },
     {
@@ -32781,7 +33043,7 @@ GIKAI.questionText = {
       "material": {
         "state": "verified",
         "indexURL": "https://niiza.gijiroku.com/voices/g08v_viewh.asp?Sflg=11&FYY=2026&TYY=2026",
-        "note": "公式年別一覧にある本会議録9資料を日付別に照合。"
+        "note": "公式年別一覧にある本会議録9資料を日付別に照合。公式一覧の常任委員会4資料も収録。"
       }
     },
     {
@@ -33760,7 +34022,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://matsubushi-town.stream.jfit.co.jp/?tpl=gikai_days_list&gikai_id=2",
-        "note": "公式録画一覧の一般質問9人のうち、3人の映像音声を機械文字起こしとして収録。正式会議録は確認中。議会だよりの紙面要約（26論点）も収録。"
+        "note": "公式録画一覧の一般質問9人のうち、6人の映像音声を機械文字起こしとして収録。正式会議録は確認中。議会だよりの紙面要約（26論点）も収録。"
       }
     }
   ]
