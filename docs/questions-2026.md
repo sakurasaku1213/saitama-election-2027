@@ -4,7 +4,7 @@
 
 確認日 2026-11-24。県議会と全63市町村の192会期枠を対象に、64議会・184枠で会議録、紙面の問答、録画の機械文字起こし、または公開自動字幕を収録。本文・要旨等が未収録の8枠にも確認先を示す。
 
-収録資料 1,697件。87枠では、原典の目次・索引等にある本会議の日別資料、一般質問日または掲載項目と収録範囲を照合した。
+収録資料 1,699件。87枠では、原典の目次・索引等にある本会議の日別資料、一般質問日または掲載項目と収録範囲を照合した。
 
 | 資料の種類 | 件数 |
 | --- | ---: |
@@ -16,12 +16,12 @@
 | 公開会議録（閲覧用） | 11 |
 | 議会だよりの質問・答弁要旨（HTML） | 1 |
 | 議会だよりの質問・答弁（紙面要約） | 4 |
-| 公式録画の機械文字起こし | 4 |
+| 公式録画の機械文字起こし | 6 |
 | 公式録画の公開自動字幕 | 10 |
 
 本会議録の日別資料には当日の議事も含まれる。県議会の速報版は質問・答弁の掲載項目ごと。議会だよりは質問者による編集要約等を含む。PDFのOCR転記と、紙面を照合して作った要約には原本の頁番号を付けた。
 
-政策事例は34件。川越市の５事例は、一般質問に加え、条例の公布、事業の実施や会議での審議など、資料で追えた経過を掲載した。日高市では、一般質問の方式とデータセンターに関する請願の受理から議決までを２事例に整理した。全体の政策経過の照合は進行中。
+政策事例は36件。川越市の５事例は、一般質問に加え、条例の公布、事業の実施や会議での審議など、資料で追えた経過を掲載した。日高市では、一般質問の方式とデータセンターに関する請願の受理から議決までを２事例に整理した。松伏町の手話言語条例素案と、越生町・埼玉県の高校生の通学支援についても経過を追加した。全体の政策経過の照合は進行中。
 
 ## 議会別の収録と確認先
 
@@ -47,7 +47,7 @@
 | 上尾市 | [本文・要旨 8件](https://ssp.kaigiroku.net/tenant/ageo/SpMinuteView.html?tenant_id=39&council_id=433&schedule_id=2)<br>一部収録 | [本文・要旨 8件](https://ssp.kaigiroku.net/tenant/ageo/SpMinuteView.html?tenant_id=39&council_id=437&schedule_id=2)<br>一部収録 | [本文・要旨 9件](https://ssp.kaigiroku.net/tenant/ageo/SpMinuteView.html?tenant_id=39&council_id=441&schedule_id=2)<br>一部収録 | — |
 | 草加市 | [本文・要旨 8件](http://www.soka-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82Q%8C%8E%81@%92%E8%97%E1%89%EF%81%7C02%8C%8E18%93%FA-01%8D%86&KGNO=856&FINO=2570&UNID=K_R08021800011)<br>一部収録 | [本文・要旨 6件](http://www.soka-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82U%8C%8E%81@%92%E8%97%E1%89%EF%81%7C06%8C%8E04%93%FA-01%8D%86&KGNO=862&FINO=2590&UNID=K_R08060400011)<br>一部収録 | [本文・要旨 6件](http://www.soka-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82X%8C%8E%81@%92%E8%97%E1%89%EF%81%7C08%8C%8E27%93%FA-01%8D%86&KGNO=866&FINO=2601&UNID=K_R08082700011)<br>一部収録 | — |
 | 越谷市 | [本文・要旨 7件](https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=714&schedule_id=2)<br>一部収録 | [本文・要旨 7件](https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=728&schedule_id=2)<br>一部収録 | [本文・要旨 1件](https://www.city.koshigaya.saitama.jp/gikai/dayori/2026/234-6-7.html)<br>一部収録 | — |
-| 蕨市 | [本文・要旨 7件](https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82Q%89%F1%92%E8%97%E1%89%EF%81%7C02%8C%8E17%93%FA-01%8D%86&HUID=122890&KGNO=612&FINO=1507&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0)<br>一部収録 | [本文・要旨 6件](https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82R%89%F1%92%E8%97%E1%89%EF%81%7C06%8C%8E01%93%FA-01%8D%86&HUID=124628&KGNO=621&FINO=1524&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0)<br>一部収録 | [公式録画一覧](https://warabi.gijiroku.com/gikai/g07_Video_Search.asp)<br>機械文字起こし4件・正式会議録を確認中 | — |
+| 蕨市 | [本文・要旨 7件](https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82Q%89%F1%92%E8%97%E1%89%EF%81%7C02%8C%8E17%93%FA-01%8D%86&HUID=122890&KGNO=612&FINO=1507&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0)<br>一部収録 | [本文・要旨 6件](https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82R%89%F1%92%E8%97%E1%89%EF%81%7C06%8C%8E01%93%FA-01%8D%86&HUID=124628&KGNO=621&FINO=1524&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0)<br>一部収録 | [公式録画一覧](https://warabi.gijiroku.com/gikai/g07_Video_Search.asp)<br>機械文字起こし6件・正式会議録を確認中 | — |
 | 戸田市 | [本文・要旨 10件](https://toda.gijiroku.com/gikai/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&FMM=1&FDD=1&TYY=2026&TMM=12&TDD=31&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82R%8C%8E%92%E8%97%E1%89%EF%81%7C02%8C%8E02%93%FA-01%8D%86&KGNO=157&FINO=1279&UNID=K_R08020200011)<br>一部収録 | [本文・要旨 7件](https://toda.gijiroku.com/gikai/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&FMM=1&FDD=1&TYY=2026&TMM=12&TDD=31&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82U%8C%8E%92%E8%97%E1%89%EF%81%7C05%8C%8E28%93%FA-01%8D%86&KGNO=159&FINO=1295&UNID=K_R08052800011)<br>一部収録 | [本文・要旨 1件](https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055902&fileId=dd82a10f1e594ab2aa76f45623067024&fileName=236_A3.pdf)<br>一部収録 | — |
 | 入間市 | [本文・要旨 7件](https://www3.city.iruma.saitama.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82R%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82P%89%F1%81j%81%7C02%8C%8E13%93%FA-01%8D%86&HUID=241183&KGNO=515&FINO=1917&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0)<br>一部収録 | [本文・要旨 6件](https://www3.city.iruma.saitama.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82U%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82Q%89%F1%81j%81%7C06%8C%8E01%93%FA-01%8D%86&HUID=243837&KGNO=519&FINO=1931&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0)<br>一部収録 | [本文・要旨 7件](https://www3.city.iruma.saitama.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82X%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82R%89%F1%81j%81%7C08%8C%8E28%93%FA-01%8D%86&HUID=245104&KGNO=524&FINO=1946&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0)<br>一部収録 | — |
 | 朝霞市 | [本文・要旨 7件](https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1112&schedule_id=2)<br>一部収録 | [本文・要旨 6件](https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1131&schedule_id=2)<br>一部収録 | [本文・要旨 7件](https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1142&schedule_id=2)<br>一部収録 | — |
@@ -113,12 +113,15 @@
 - 小鹿野町は、町公式の会議録一覧から３月・６月の本会議録を取り込み、公式目次の全７日と照合した。９月定例会の会議録は一覧で未確認。
 - 羽生市は、９月定例会の議会だよりに問答の掲載がある一般質問12人分と議案質疑を紙面と照合した。見出しのみ掲載された項目の問答と、正式会議録の本文は確認中。[羽生市議会の最新号案内](https://www.city.hanyu.lg.jp/docs/2026051900012/)
 - 松伏町は、９月定例会の議会だよりに問答の掲載がある26論点を、紙面の９〜13頁と照合した。議決と記名表決を20件ずつ照合し、提出者の記号は賛否と区別して表示した。[町の会議結果](https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000003/3031/0809kaigikekka.pdf)・[議会だよりの記名表決](https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000003/3130/gikaidayori135_P7.pdf)
-- 蕨市の９月定例会は、公式録画の一般質問15人のうち4人分の機械文字起こしを収録。質問者は録画一覧で照合した。本文の話者名・用語・数字は原録画で確認できる。[公式録画一覧](https://warabi.gijiroku.com/gikai/g07_Video_Search.asp)
+- 蕨市の９月定例会は、公式録画の一般質問15人のうち6人分の機械文字起こしを収録。質問者は録画一覧で照合した。本文の話者名・用語・数字は原録画で確認できる。[公式録画一覧](https://warabi.gijiroku.com/gikai/g07_Video_Search.asp)
 - OCRの確認警告がある頁は本文束から除いた。警告のない頁だけを収録した資料では、除外頁を本文カードに表示した。
 
 - 越生町の９月定例会は、町公式の一般質問一覧にある録画10人分の日本語自動字幕を収録。録画の掲載者と日付を照合し、原音を聴いた確定照合の状態を各資料に表示した。[町公式の録画一覧](https://www.town.ogose.saitama.jp/kamei/gikai/gyomuannai/reiwa8_9teireikai/4600.html)
 
 - 日高市と越生町は、９月定例会の議決結果をそれぞれ27件・17件追加した。日高市の請願文書表と審議結果で、一般質問方式とデータセンターに関する請願の受理日・付託先・採決結果を照合した。[日高市の議案・請願文書表](https://www.city.hidaka.lg.jp/soshiki/gikai/gikai/teireikairinjikai/gian_ichiran/35919.html)・[日高市の審議結果](https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf)・[越生町の議決結果](https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf)
+- 加須市は、８月28日～10月７日の第３回定例会の議決29件を、公式一覧と議員別審議結果で照合した。16件は25欄の記名表決を収録し、残る13件は議長・欠席者を除く全員賛成と表示した。請願第５号の「趣旨採択」の表示を保持した。[加須市の定例会資料](https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43734.html#6)・[議員別審議結果](https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_3_teireikai_sinngikekkaitirann_0626_1700.pdf)
+- 加須市・日高市・上里町の秋会期は、公式録画一覧の目次（各36・15・15項目）を照合した。確認日時点では各項目が「作成中」。一般質問の掲載者と項目は確認でき、質問・答弁の本文と再生可能な録画は確認中。[加須市](https://smart.discussvision.net/smart/tenant/kazo/WebView/rd/council.html?year=2026&council_id=39)・[日高市](https://smart.discussvision.net/smart/tenant/hidaka/WebView/rd/council.html?year=2026&council_id=54)・[上里町](https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/council.html?year=2026&council_id=47)
+- 松伏町の手話言語条例は、請願の紹介と趣旨説明、委員会の判断、2025年９月の本会議での討論・採択、2026年９月の全員協議会、10月19日からの素案への意見募集を資料でつないだ。高校生の車椅子通学については、越生町議会の意見書案可決と、県議会の質疑・答弁を収録した。[松伏町議会の本会議録](https://www.town.matsubushi.saitama.dbsr.jp/650568?Template=document&Id=1184#one)・[広報まつぶし10月号](https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000003/3121/matsubushi689_11-16.pdf#page=4)・[越生町の議決結果](https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf)・[埼玉県議会の質問・答弁](https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/b/0203a.html)
 
 ### 今回のOCR保留
 

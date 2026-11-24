@@ -355,6 +355,17 @@ for (const bill of matsubushiVotes) {
   assert.equal(presenters.length, bill.number.startsWith("発議") ? 1 : 0);
   if (presenters.length) assert.equal(presenters[0][0], bill.proposer);
 }
+const kazoDecisions = coverage.decisions.filter((bill) => bill.place === "加須市" && bill.season === "fall");
+assert.equal(kazoDecisions.length, 29);
+const kazoRecordedVotes = kazoDecisions.filter((bill) => bill.votes);
+assert.equal(kazoRecordedVotes.length, 16);
+for (const bill of kazoRecordedVotes) {
+  const positions = Object.values(bill.votes);
+  assert.equal(positions.length, 25, bill.number);
+  assert.equal(positions.filter((position) => position === "欠席").length, 1, bill.number);
+  assert.equal(bill.votes["金子正則"], "議長（表決不参加）", bill.number);
+  assert.equal(positions.filter((position) => position === "趣旨採択").length, bill.number === "請願第5号" ? 2 : 0);
+}
 for (const [season, decisions, ballots, columns] of [["spring", 43, 8, 12], ["summer", 21, 4, 10], ["fall", 38, 6, 10]]) {
   const records = coverage.decisions.filter((bill) => bill.place === "川越市" && bill.season === season);
   assert.equal(records.length, decisions);

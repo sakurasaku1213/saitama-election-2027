@@ -25815,6 +25815,34 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "b68d800e542c56cefb42",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-18",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "鈴木慎乃助議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Video_View.asp?SrchID=2390",
+      "speakers": [
+        "鈴木慎乃助"
+      ]
+    },
+    {
+      "id": "2ef432287089d0dfc6bc",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-24",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "鈴木智議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Video_View.asp?SrchID=2393",
+      "speakers": [
+        "鈴木智"
+      ]
+    },
+    {
       "id": "f9fc40097eb5185ff0a4",
       "place": "行田市",
       "season": "spring",
@@ -28125,7 +28153,8 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "notFound",
-        "note": "2026年の公式会議録の年別一覧で秋の定例会本文を確認できませんでした。"
+        "note": "公式録画一覧の36項目は作成中の表示。会議録本文と再生可能な録画を確認中。",
+        "indexURL": "https://smart.discussvision.net/smart/tenant/kazo/WebView/rd/council.html?year=2026&council_id=39"
       }
     },
     {
@@ -28396,7 +28425,8 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "公式録画一覧の一般質問15人のうち、4人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
+        "indexURL": "https://warabi.gijiroku.com/gikai/g07_Video_Search.asp",
+        "note": "公式録画一覧の一般質問15人のうち、6人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
       }
     },
     {
@@ -28827,7 +28857,8 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "notFound",
-        "note": "2026年の公式会議録の年別一覧で秋の定例会本文を確認できませんでした。"
+        "note": "公式録画一覧の15項目は作成中の表示。会議録本文と再生可能な録画を確認中。",
+        "indexURL": "https://smart.discussvision.net/smart/tenant/hidaka/WebView/rd/council.html?year=2026&council_id=54"
       }
     },
     {
@@ -29374,7 +29405,8 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "notFound",
-        "note": "公式の令和8年会議録目次に9月定例会の本文を確認できず。9月の公式録画一覧は確認。"
+        "note": "公式録画一覧の15項目は作成中の表示。会議録本文と再生可能な録画を確認中。",
+        "indexURL": "https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/council.html?year=2026&council_id=47"
       }
     },
     {

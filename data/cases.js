@@ -98,3 +98,84 @@ GIKAI.cases.push(...[
     "note": "採決の対象は、環境影響の検証・説明と、国への意見書提出を求める二つの請願です。"
   }
 ]);
+
+GIKAI.cases.push(
+  {
+    place: "松伏町",
+    title: "手話言語条例の制定を求める請願から、町の素案への意見募集まで",
+    topic: "障害福祉・条例",
+    actors: ["松伏町聴覚障害者協会", "村上真由美", "平野千穂", "松伏町議会", "松伏町"],
+    steps: [
+      {
+        date: "2025-06-04", stage: "請願を提出", actor: "松伏町聴覚障害者協会の代表",
+        detail: "手話を使い、手話で学べる環境の整備を進めるため、手話言語条例の制定を求める請願を提出した。",
+        url: "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000000/323/131all.pdf#page=9",
+        sourceTitle: "まつぶし議会だより第131号 9頁",
+      },
+      {
+        date: "2025-06-19", stage: "紹介議員が請願の趣旨を説明", actor: "村上真由美",
+        detail: "文教民生常任委員会で、請願の紹介議員として趣旨を説明した。委員会は継続審査とした。",
+        url: "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000000/323/131all.pdf#page=9",
+        sourceTitle: "まつぶし議会だより第131号 9頁",
+      },
+      {
+        date: "2025-08-05", stage: "委員会が採択すべきと決定", actor: "松伏町議会 文教民生常任委員会",
+        detail: "委員会の２回目の審査で、請願を採択すべきものと賛成全員で決定した。",
+        url: "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000000/323/131all.pdf#page=9",
+        sourceTitle: "まつぶし議会だより第131号 9頁",
+      },
+      {
+        date: "2025-09-01", stage: "本会議で賛成討論", actor: "平野千穂",
+        detail: "手話を使う環境を整える必要性や、町内から条例制定を求める声を挙げ、請願の採択に賛成した。",
+        url: "https://www.town.matsubushi.saitama.dbsr.jp/650568?Template=document&Id=1184#one",
+        sourceTitle: "松伏町議会 令和7年9月定例会第1号 日程第7・討論",
+      },
+      {
+        date: "2025-09-01", stage: "本会議が請願を採択", actor: "松伏町議会",
+        detail: "文教民生常任委員長の報告と討論を経て、出席者の起立全員で請願第1号を採択した。",
+        url: "https://www.town.matsubushi.saitama.dbsr.jp/650568?Template=document&Id=1184#one",
+        sourceTitle: "松伏町議会 令和7年9月定例会第1号 日程第7・採決",
+      },
+      {
+        date: "2026-09-01", stage: "条例素案の意見募集を協議事項に掲載", actor: "松伏町・松伏町議会",
+        detail: "全員協議会で、町執行部側の議題に手話言語条例の素案に対する意見募集を掲載した。",
+        url: "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2391/080901zkiroku.pdf",
+        sourceTitle: "松伏町議会 令和8年9月1日 全員協議会記録",
+      },
+      {
+        date: "2026-10-19", stage: "条例素案への意見募集を開始", actor: "松伏町",
+        detail: "条例の目的、理念、施策の取組等について、10月19日から11月18日までを意見募集期間とした。",
+        url: "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000003/3121/matsubushi689_11-16.pdf#page=4",
+        sourceTitle: "広報まつぶし令和8年10月号 該当PDF 4頁（紙面14頁）",
+      },
+    ],
+    note: "請願の紹介・趣旨説明と賛成討論を、発言した議員ごとに記録しました。町の手続は条例素案への意見募集まで確認しています。",
+  },
+  {
+    place: "越生町",
+    title: "車椅子で通学する高校生への支援を、町議会と県議会で取り上げる",
+    topic: "障害福祉・通学支援",
+    actors: ["越生町議会", "小川寿士", "埼玉県教育長"],
+    steps: [
+      {
+        date: "2026-09-17", stage: "町議会が意見書案を可決", actor: "越生町議会",
+        detail: "高校生等の車椅子通学への支援補助と移動支援制度の拡充を求める意見書案（発議第2号）を可決した。",
+        url: "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
+        sourceTitle: "越生町議会 令和8年9月定例会議決結果一覧表", billNumber: "発議第2号",
+      },
+      {
+        date: "2026-10-01", stage: "県議会で通学支援の地域差を質問", actor: "小川寿士（埼玉県議会）",
+        detail: "障害で一人で通学できない県立高校生の支援について、市町村によって移動支援の利用条件が異なる現状に対する教育長の見解を尋ねた。",
+        url: "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/b/0203a.html",
+        sourceTitle: "埼玉県議会 令和8年9月定例会 小川寿士議員の一般質問・答弁",
+      },
+      {
+        date: "2026-10-01", stage: "県教育長が個別支援と連携の方針を答弁", actor: "石川薫 埼玉県教育長",
+        detail: "県教委は生徒ごとの状況を把握し、市町村や福祉機関と連携して必要な支援につなげ、関係部局と情報共有を進めると答えた。",
+        url: "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/b/0203a.html",
+        sourceTitle: "埼玉県議会 令和8年9月定例会 小川寿士議員の一般質問・答弁",
+      },
+    ],
+    note: "町議会の意見書の議決と県議会での質疑は、同じ課題に対するそれぞれの取組です。両者の関係と、この後の制度改定・支援拡充は確認中です。",
+  },
+);
