@@ -1024,7 +1024,8 @@ GIKAI.councilPolicyReviews = [
           }
         ],
         "followUp": "incomplete",
-        "followUpNote": "３会期の一般質問を対象。委員会・文書・事業資料などの横断照合は未了。"
+        "followUpNote": "３月の松本議員の質問と、９月の条例審議・可決、10月の市の入室案内の経過を収録。松本議員本人の別日の行動は確認中。",
+        "caseTitle": "市立学童保育室の閉室延長と保育料改定を決める"
       },
       {
         "id": "kwg-2026-010",
@@ -4609,7 +4610,8 @@ GIKAI.councilPolicyReviews = [
           }
         ],
         "followUp": "incomplete",
-        "followUpNote": "３会期の一般質問を対象。委員会・文書・事業資料などの横断照合は未了。"
+        "followUpNote": "３月の高橋議員の質問と、６月の国による一部運用開始を収録。高橋議員本人の別日の行動は確認中。",
+        "caseTitle": "荒川第二調節池の工事を質し、国が一部区間の運用を開始"
       },
       {
         "id": "kwg-2026-090",
@@ -4970,11 +4972,27 @@ GIKAI.councilPolicyReviews = [
               7
             ],
             "stage": "施工中と答弁",
-            "detail": "市道0058号線は施工中で9月末完成予定。地区の工事要望263件には通学路以外も含む。"
+            "detail": "通学路の拡幅整備要望は平成20年度から令和７年度までに14件。市道0058号線は施工中で９月末完成予定と答弁した。"
           }
         ],
-        "followUp": "incomplete",
-        "followUpNote": "３会期の一般質問を対象。委員会・文書・事業資料などの横断照合は未了。"
+        "followUp": "confirmed",
+        "followUpNote": "本人が別日に通学路の整備要望の実績を尋ね、施工中の市道0058号線の工程を確認した。完成日は確認中。",
+        "actions": [
+          {
+            "date": "2026-06-12",
+            "actor": "小島洋一",
+            "stage": "通学路の拡幅要望と施工状況を追跡",
+            "detail": "３月に市道0058号線の整備を質した後、６月には福原地区の通学路の道路整備要望がどの程度あるかを尋ね、同路線が施工中で９月末完成予定との答弁を確認した。",
+            "url": "https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r08-0612_001",
+            "sourceTitle": "川越市議会 ６月12日本会議録",
+            "locator": "会議録の発言順 4・9",
+            "sourceId": "r08-0612_001",
+            "blocks": [
+              4,
+              9
+            ]
+          }
+        ]
       },
       {
         "id": "kwg-2026-097",
@@ -7531,10 +7549,40 @@ GIKAI.councilPolicyReviews = [
             ],
             "stage": "現況説明",
             "detail": "目撃者の受付は過去5年ゼロ。調査対象を絞り、所属長に不利益防止を周知。"
+          },
+          {
+            "date": "2026-06-24",
+            "actor": "川越市議会（片野広隆議長が宣告）",
+            "stage": "決議案を否決",
+            "detail": "本会議の起立採決は賛成少数で、決議第２号は否決された。",
+            "url": "https://www.city.kawagoe.saitama.dbsr.jp/144570?Template=document&Id=4301#all",
+            "sourceTitle": "川越市議会 ６月24日本会議録",
+            "locator": "会議録の発言順 144",
+            "archiveId": "822f643ef62c09f3b9d4",
+            "blocks": [
+              144
+            ]
           }
         ],
-        "followUp": "incomplete",
-        "followUpNote": "３会期の一般質問を対象。委員会・文書・事業資料などの横断照合は未了。"
+        "followUp": "confirmed",
+        "followUpNote": "一般質問後に本人が決議案を提出。採決結果まで記録した。",
+        "actions": [
+          {
+            "date": "2026-06-24",
+            "actor": "小林透",
+            "stage": "議員提出の問責決議案を説明",
+            "detail": "６月12日の一般質問に言及し、議会に対応を求める問責決議案を提出して提案理由を説明し、提出者として質疑に答えた。",
+            "url": "https://www.city.kawagoe.saitama.dbsr.jp/144570?Template=document&Id=4301#all",
+            "sourceTitle": "川越市議会 ６月24日本会議録",
+            "locator": "会議録の発言順 125・138",
+            "archiveId": "822f643ef62c09f3b9d4",
+            "blocks": [
+              125,
+              138
+            ]
+          }
+        ],
+        "caseTitle": "職員の相談体制を質し、議会で問責決議案を提出"
       },
       {
         "id": "kwg-2026-155",
@@ -13325,10 +13373,42 @@ GIKAI.councilPolicyReviews = [
             ],
             "stage": "既存対応",
             "detail": "障害のある利用者への駐車場対応を説明、適切な維持管理を継続"
+          },
+          {
+            "date": "2026-09-18",
+            "actor": "産業観光部副部長兼観光課長",
+            "stage": "減免手続の検討方針を説明",
+            "detail": "市は関係課やシステム会社などと協議する考えを示し、減免を設ける場合には市の規程の改正で対応できると答えた。",
+            "url": "https://www.city.kawagoe.saitama.dbsr.jp/114095?Template=document&Id=4319#all",
+            "sourceTitle": "川越市議会 ９月18日 産業建設常任委員会会議録",
+            "locator": "会議録の発言順 15・17・19",
+            "archiveId": "13a08c5bc9de73decb1f",
+            "blocks": [
+              15,
+              17,
+              19
+            ]
           }
         ],
-        "followUp": "open",
-        "followUpNote": "後続会期の資料はこの比較の対象期間外。"
+        "followUp": "confirmed",
+        "followUpNote": "２施設の駐車料金の減免手続について本人の質疑・提案を収録。市役所南北駐車場の障害者減免の導入は確認中。",
+        "actions": [
+          {
+            "date": "2026-09-18",
+            "actor": "今野英子",
+            "stage": "市役所駐車場の減免に別の手順を提案",
+            "detail": "ウェスタ川越の手続を９月14日に聞いた後、別施設である市役所の南北駐車場について、当直窓口で手帳を提示し、ＱＲコード付きの無料処理用サービス券を受け取る方法を提案。減免に必要な手続を確認した。",
+            "url": "https://www.city.kawagoe.saitama.dbsr.jp/114095?Template=document&Id=4319#all",
+            "sourceTitle": "川越市議会 ９月18日 産業建設常任委員会会議録",
+            "locator": "会議録の発言順 14・16・18",
+            "archiveId": "13a08c5bc9de73decb1f",
+            "blocks": [
+              14,
+              16,
+              18
+            ]
+          }
+        ]
       },
       {
         "id": "kwg-2026-291",
@@ -14354,5 +14434,159 @@ GIKAI.cases.push(...[
       }
     ],
     "note": "補正予算は９月14日の質問より前の８月付の資料に掲載。認定２団体は市の認定制度の実績で、直営クラブの追加数とは別に公表されている。"
+  },
+  {
+    "place": "川越市",
+    "title": "市立学童保育室の閉室延長と保育料改定を決める",
+    "topic": "学童保育・条例",
+    "actors": [
+      "松本きみ",
+      "吉野郁惠",
+      "嶋田弘二",
+      "伊藤正子",
+      "倉嶋真史",
+      "今野英子",
+      "江田崇",
+      "川口知子",
+      "小林薫",
+      "川越市議会",
+      "川越市"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-05",
+        "actor": "松本きみ、川越市教育委員会",
+        "stage": "閉室延長の検討状況を確認",
+        "detail": "松本議員は保護者の延長希望や県内他市の閉室時刻を尋ねた。教育総務部長はアンケート回答の39％が延長利用を希望したことと、庁内の運営検討委員会で実施に向けて検討中であることを説明した。",
+        "url": "https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r08-0305_003",
+        "sourceTitle": "川越市議会 ３月５日本会議録・発言順23・26"
+      },
+      {
+        "date": "2026-08-07",
+        "actor": "川越市社会福祉審議会児童福祉専門分科会",
+        "stage": "開室時間と保育料を審議",
+        "detail": "分科会で公立学童保育室の開室時間と保育料を議題とした。",
+        "url": "https://www.city.kawagoe.saitama.jp/shisei/seisaku/1008588/1008763/1008764/1008765/1021954/1022878.html",
+        "sourceTitle": "川越市 第２回子ども・子育て会議の結果"
+      },
+      {
+        "date": "2026-09-04",
+        "actor": "吉野郁惠、嶋田弘二、伊藤正子、倉嶋真史、今野英子",
+        "stage": "本会議で運営・費用・勤務体制を質す",
+        "detail": "５議員が開室延長と保育料改定の条例案を質した。保護者の利用意向、他市の負担軽減策、職員の勤務体制、施設改善や保育料改定の日程などを確認し、議案を文化教育常任委員会に付託した。",
+        "url": "https://www.city.kawagoe.saitama.dbsr.jp/407877?Template=document&Id=4309#all",
+        "sourceTitle": "川越市議会 ９月４日本会議録・発言順17〜45、議事結果"
+      },
+      {
+        "date": "2026-09-16",
+        "actor": "江田崇、川口知子、小林薫、川越市教育委員会",
+        "stage": "委員会で延長時の人員と費用負担を審査",
+        "detail": "江田委員は閉室前にも支援単位ごとに職員を確保できるかを質した。川口委員は多子軽減の対象見込みと値上げ分の使い道を、小林委員は閉室時刻を過ぎる迎えへの対応を確認した。",
+        "url": "https://www.city.kawagoe.saitama.dbsr.jp/244788?Template=document&Id=4314#all",
+        "sourceTitle": "川越市議会 文化教育常任委員会会議録・発言順192〜215"
+      },
+      {
+        "date": "2026-09-29",
+        "actor": "川越市議会",
+        "stage": "改正案を可決",
+        "detail": "市議会は議案第79号を、委員長報告のとおり異議なく原案可決した。",
+        "url": "https://www.city.kawagoe.saitama.dbsr.jp/407877?Template=document&Id=4320#all",
+        "sourceTitle": "川越市議会 ９月29日本会議録・発言順48、議事結果",
+        "billNumber": "議案第79号"
+      },
+      {
+        "date": "2026-09-29",
+        "actor": "川越市",
+        "stage": "条例第36号を公布",
+        "detail": "午後７時までの開室は2027年４月１日施行。保育料と多子世帯の軽減は2028年４月１日施行で、月額は同年度9,000円、翌年度から１万円。同一世帯の利用児童のうち最年長の１人を除き半額とする。",
+        "url": "https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/967/genpon.pdf",
+        "sourceTitle": "川越市条例第36号 原本１・２頁"
+      },
+      {
+        "date": "2026-10-13",
+        "actor": "川越市",
+        "stage": "翌年度の入室案内を掲載",
+        "detail": "2027年４月から19時閉室となり、2027年度の保育料は月額8,000円と案内した。日付は掲載ページの更新日。",
+        "url": "https://www.city.kawagoe.saitama.jp/kosodate/azukeru/1004394/1022055.html",
+        "sourceTitle": "川越市 令和９年度学童保育室の入室案内"
+      }
+    ],
+    "note": "松本議員の行動は３月の質問。９月の各議員の質疑、条例の可決・公布、入室案内を各資料で確認した。実際の延長運用と費用負担の変化は施行後に確認する。"
+  },
+  {
+    "place": "川越市",
+    "title": "荒川第二調節池の工事を質し、国が一部区間の運用を開始",
+    "topic": "防災・国の河川事業",
+    "actors": [
+      "高橋剛",
+      "川越市",
+      "国土交通省関東地方整備局"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-12",
+        "actor": "高橋剛、川越市建設部",
+        "stage": "国への要望と調節池の工事予定を確認",
+        "detail": "高橋議員は荒川の堤防かさ上げに関する国への働きかけと、第二・第三調節池の工事予定を尋ねた。市は１月22日に市長が国に面会し、ＪＲ川越線荒川橋梁に関係する低い堤防部分の安全対策と早期完成を要望したと説明した。",
+        "url": "https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r08-0312_004",
+        "sourceTitle": "川越市議会 ３月12日本会議録・発言順40・41"
+      },
+      {
+        "date": "2026-06-12",
+        "actor": "国土交通省関東地方整備局",
+        "stage": "第二調節池の完成区間で洪水時の運用を開始",
+        "detail": "排水門や囲ぎょう堤などの一部完成を受け、大規模な洪水時に完成区間を使う運用を開始した。国は洪水調節容量が約1,200万立方メートル増えると発表した。",
+        "url": "https://www.ktr.mlit.go.jp/kisha/kisha_03430.pdf#page=1",
+        "sourceTitle": "関東地方整備局 ６月12日の発表１頁"
+      },
+      {
+        "date": "2026-11",
+        "actor": "荒川調節池工事事務所",
+        "stage": "部分運用の範囲を図で公表",
+        "detail": "11月発行の広報で６月からの運用開始を確認できる。現地で洪水調節を要する規模の出水は発生していないと記載した。",
+        "url": "https://www.ktr.mlit.go.jp/araike/pdf/sonota/tsushin/tsushin202611.pdf#page=2",
+        "sourceTitle": "国土交通省 荒川調節池工事事務所 11月広報２頁"
+      }
+    ],
+    "note": "調節池は国が2018年度から進めている事業。今回確認したのは第二調節池の一部運用で、調節池全体の完成や堤防かさ上げの完了は確認中。"
+  },
+  {
+    "place": "川越市",
+    "title": "職員の相談体制を質し、議会で問責決議案を提出",
+    "topic": "議会活動・議員提出決議",
+    "actors": [
+      "小林透",
+      "粂真美子",
+      "吉野郁惠",
+      "川越市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-06-12",
+        "actor": "小林透、川越市総務部",
+        "stage": "相談の受付と職員の保護を確認",
+        "detail": "小林議員は見聞きした職員からの相談窓口や、相談者の秘密保持・不利益防止を質した。市は目撃者からの相談件数と保護の取組を説明した。",
+        "url": "https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r08-0612_003",
+        "sourceTitle": "川越市議会 ６月12日本会議録・発言順35・38・39・42"
+      },
+      {
+        "date": "2026-06-24",
+        "actor": "小林透、粂真美子、吉野郁惠",
+        "stage": "議員が決議案を提出し、理由を説明",
+        "detail": "小林議員が問責決議案の提出者として提案理由を説明し、粂議員の質疑に答えた。吉野議員は賛成討論を行った。",
+        "url": "https://www.city.kawagoe.saitama.dbsr.jp/144570?Template=document&Id=4301#all",
+        "sourceTitle": "川越市議会 ６月24日本会議録・発言順125・128・138・141"
+      },
+      {
+        "date": "2026-06-24",
+        "actor": "川越市議会",
+        "stage": "決議案を否決",
+        "detail": "会議録によると、本会議は賛成少数で決議第２号を否決した。",
+        "url": "https://www.city.kawagoe.saitama.dbsr.jp/144570?Template=document&Id=4301#all",
+        "sourceTitle": "川越市議会 ６月24日本会議録・発言順143・144",
+        "billNumber": "決議第2号"
+      }
+    ],
+    "note": "相談体制を問う質問、本人による発議、採決までを確認した。事案の事実認定や、相談制度が変わったかどうかは、この決議の経過からは確認できない。"
   }
 ]);

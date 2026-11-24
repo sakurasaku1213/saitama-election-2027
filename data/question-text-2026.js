@@ -1599,6 +1599,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "b823a5e79967de24f8a7",
+      "place": "さいたま市",
+      "season": "fall",
+      "date": "2026-09-07",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "照喜納弘志議員　代表質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://saitama-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=2462",
+      "speakers": [
+        "照喜納弘志"
+      ]
+    },
+    {
       "id": "b22804628f7593571b47",
       "place": "さいたま市",
       "season": "fall",
@@ -5157,6 +5171,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "ffec2707ed05bd5e42cc",
+      "place": "加須市",
+      "season": "fall",
+      "date": "2026-09-10",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "森本寿子議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/kazo/WebView/rd/speech.html?council_id=39&schedule_id=3&playlist_id=3&speaker_id=26&target_year=2026",
+      "speakers": [
+        "森本寿子"
+      ]
+    },
+    {
       "id": "fe4deb02951bc9dd2304",
       "place": "加須市",
       "season": "fall",
@@ -5168,6 +5196,20 @@ GIKAI.questionText = {
       "url": "https://smart.discussvision.net/smart/tenant/kazo/WebView/rd/speech.html?council_id=39&schedule_id=3&playlist_id=1&speaker_id=2&target_year=2026",
       "speakers": [
         "池田年美"
+      ]
+    },
+    {
+      "id": "4c16ef5a48531674339b",
+      "place": "加須市",
+      "season": "fall",
+      "date": "2026-09-10",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "竹内政雄議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/kazo/WebView/rd/speech.html?council_id=39&schedule_id=3&playlist_id=4&speaker_id=18&target_year=2026",
+      "speakers": [
+        "竹内政雄"
       ]
     },
     {
@@ -32389,7 +32431,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://saitama-city.stream.jfit.co.jp/?tpl=gikai_days_list&gikai_id=203",
-        "note": "公式録画一覧の代表・一般質問21人のうち、3人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
+        "note": "公式録画一覧の代表・一般質問21人のうち、4人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
       }
     },
     {
@@ -32600,7 +32642,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/kazo/WebView/rd/council.html?year=2026&council_id=39",
-        "note": "公式録画一覧の一般質問20人のうち、2人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
+        "note": "公式録画一覧の一般質問20人のうち、4人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
       }
     },
     {
@@ -33051,7 +33093,8 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+        "note": "議会だよりの質問・答弁要旨を収録。公式録画で一般質問７日・25人を確認。正式会議録は確認中。",
+        "indexURL": "https://niiza-city.stream.jfit.co.jp/?tpl=gikai_days_list&gikai_id=96"
       }
     },
     {
