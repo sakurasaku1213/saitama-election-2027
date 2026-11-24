@@ -1299,4 +1299,121 @@ GIKAI.cases.push(
     ],
     "note": "建設検討委員会には町議会議員、教育委員、区長、PTA代表らが参加する。概要録は多くの発言を「委員」と記載しており、本人を確認できる役割を掲載した。施工契約・着工とスクールバスの運行計画決定は確認中。"
   },
+  {
+    "place": "狭山市",
+    "title": "補助金の使途を調べる特別委員会を発議し、調査結果を了承",
+    "topic": "議員発議・行政の監視",
+    "actors": [
+      "太田博希",
+      "狭山市議会",
+      "狭山市議会の調査特別委員会"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-13",
+        "actor": "太田博希、議案書の賛成者13人",
+        "stage": "特別委員会の設置案を提出",
+        "detail": "太田議員が、基地対策協議会補助金の事務執行を調べる特別委員会の設置を提案した。議案書の日付で、賛成者として町田昌弘議員ら13人が記載されている。",
+        "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/gianitiran/R8_01gian.files/giinR8-01.pdf#page=1",
+        "sourceTitle": "狭山市議会 議員提出議案第１号・提出議案書１頁"
+      },
+      {
+        "date": "2026-03-17",
+        "actor": "狭山市議会",
+        "stage": "決議を可決し８人の特別委員会を設置",
+        "detail": "本会議は賛成15、反対５で原案可決。加賀谷勉議員は採決時に退場し、議長は表決に参加していない。会議録に８人の委員の選任が記録されている。",
+        "url": "https://sayama.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82R%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82P%89%F1%81j%81%7C03%8C%8E17%93%FA-08%8D%86&KGNO=530&FINO=2219&UNID=k_R08031700081",
+        "sourceTitle": "狭山市議会 ３月17日本会議録・発言順124～137",
+        "billNumber": "議員提出議案第1号"
+      },
+      {
+        "date": "2026-04-03",
+        "actor": "狭山市議会の調査特別委員会",
+        "stage": "所管事務の調査を継続",
+        "detail": "４月３日、10日、24日と５月１日の活動報告に補助金の事務執行に関する調査日程が記載されている。調査結果報告書によると、委員会は関係職員に出席を求め、資料と照らして質疑を行った。",
+        "url": "https://www.city.sayama.saitama.jp/gikai/iinkai/tokubetu/tyousa8.html",
+        "sourceTitle": "狭山市議会 調査特別委員会の公式活動報告"
+      },
+      {
+        "date": "2026-05-01",
+        "actor": "調査特別委員会、太田博希委員長",
+        "stage": "調査結果報告書を議長へ提出",
+        "detail": "委員会は、飲食費について例外を認める明確な基準を確認できなかったと報告し、補助金の使途の規定と職員への周知を求めた。執行部の説明と委員会の評価を報告書で確認できる。",
+        "url": "https://www.city.sayama.saitama.jp/gikai/iinkai/tokubetu/index.files/20260501_tyousakekkahoukoku.pdf",
+        "sourceTitle": "狭山市議会 調査結果報告書"
+      },
+      {
+        "date": "2026-06-05",
+        "actor": "太田博希委員長、狭山市議会",
+        "stage": "本会議で調査結果を報告し、議会が了承",
+        "detail": "太田委員長が調査経過と結果を報告した。質疑を経て、市議会は起立多数で調査結果を了承した。",
+        "url": "https://sayama.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82U%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82Q%89%F1%81j%81%7C06%8C%8E05%93%FA-01%8D%86&KGNO=534&FINO=2221&UNID=k_R08060500011",
+        "sourceTitle": "狭山市議会 ６月５日本会議録・発言順19～40"
+      }
+    ],
+    "note": "提出議案書の賛成者と、採決で賛成した議員はそれぞれの原資料で確認できます。市の指針改正については、調査委員会が調査対象外と明記しています。"
+  },
+  {
+    "place": "狭山市",
+    "title": "中学校体育館の空調整備を審査し、７校分の契約議案を可決",
+    "topic": "学校施設・契約審査",
+    "actors": [
+      "狭山市",
+      "狭山市議会",
+      "狭山市議会文教厚生委員会"
+    ],
+    "steps": [
+      {
+        "date": "2026-02-20",
+        "actor": "狭山市長",
+        "stage": "市内すべての公立中学校体育館の空調整備方針を示す",
+        "detail": "年度の施政方針で、市内全公立中学校の体育館に空調設備を整備すると示した。",
+        "url": "https://www.city.sayama.saitama.jp/shisei/shicho/shiseihoushin/R8_shiseihoushin.html",
+        "sourceTitle": "狭山市 令和８年度市長施政方針"
+      },
+      {
+        "date": "2026-03-17",
+        "actor": "狭山市議会文教厚生委員会、狭山市",
+        "stage": "工事の発注、休止期間、災害時の対応を確認",
+        "detail": "委員会で発注方法、工事中に体育館を利用できない期間、災害時に使う燃料の併用を質した。市は中央中学校ほか６校の実施設計を進め、同時期の発注を想定していると答弁した。日付は報告の掲載日。",
+        "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/iincyouhoukoku/R8_3teireikaihouko.files/3bun.pdf#page=8",
+        "sourceTitle": "狭山市議会 ３月定例会 文教厚生委員会報告８頁"
+      },
+      {
+        "date": "2026-07-16",
+        "actor": "狭山市",
+        "stage": "山王中学校外３校と中央中学校外２校の工事を公告",
+        "detail": "市は４校分と３校分の工事に分け、一般競争入札を公告した。",
+        "url": "https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/hachyuanken/202607162.html",
+        "sourceTitle": "狭山市 山王中学校外３校分の工事公告"
+      },
+      {
+        "date": "2026-07-30",
+        "actor": "狭山市",
+        "stage": "西中学校の空調工事を契約",
+        "detail": "９月の文教厚生委員会報告によると、市は西中学校分について７月30日に契約。ガスヒートポンプ方式で、12月25日完了予定と答弁した。",
+        "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/iincyouhoukoku/R8_9teireikaihoukoku.files/R8.9bunkyo.pdf#page=9",
+        "sourceTitle": "狭山市議会 ９月定例会 文教厚生委員会報告９頁"
+      },
+      {
+        "date": "2026-09-30",
+        "actor": "狭山市議会",
+        "stage": "山王中学校外３校分の工事契約案を可決",
+        "detail": "本会議は４校分の工事請負契約に関する議案第75号を原案可決した。",
+        "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/gianitiran/R8_03gian.html",
+        "sourceTitle": "狭山市議会 ９月定例会の議案審議結果",
+        "billNumber": "議案第75号"
+      },
+      {
+        "date": "2026-09-30",
+        "actor": "狭山市議会",
+        "stage": "中央中学校外２校分の工事契約案を可決",
+        "detail": "本会議は３校分の工事請負契約に関する議案第76号を原案可決した。",
+        "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/gianitiran/R8_03gian.html",
+        "sourceTitle": "狭山市議会 ９月定例会の議案審議結果",
+        "billNumber": "議案第76号"
+      }
+    ],
+    "note": "委員長報告に質疑の内容があり、発言者名は確認中です。７校分の議決と西中学校分の契約を確認しました。工事の完了と設備の利用開始は確認中です。"
+  },
 );

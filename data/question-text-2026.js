@@ -1,5 +1,5 @@
 GIKAI.questionText = {
-  "checked": "2026-11-24",
+  "checked": "2026-11-25",
   "documents": [
     {
       "id": "28900786dfbd54b89da9",
@@ -3268,6 +3268,20 @@ GIKAI.questionText = {
       "scope": "summary",
       "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
       "speakers": []
+    },
+    {
+      "id": "14eea694d1cfe9a98d94",
+      "place": "上里町",
+      "season": "summer",
+      "date": "2026-06-04",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "伊藤覚議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/speech.html?council_id=45&schedule_id=1&playlist_id=4&speaker_id=19&target_year=2026",
+      "speakers": [
+        "伊藤覚"
+      ]
     },
     {
       "id": "54d7d8cd3d6ce95a523c",
@@ -27363,6 +27377,84 @@ GIKAI.questionText = {
       "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
     },
     {
+      "id": "9a8a9d3b1925bac0032c",
+      "place": "熊谷市",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "熊谷市 令和 ８年 ３月 定例会 環境産業常任委員会 03月03日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/kumagaya/SpMinuteView.html?tenant_id=94&council_id=370&schedule_id=1",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "小林拓朗",
+        "江田大助",
+        "田中純一",
+        "白根佳典",
+        "腰塚菜穂子"
+      ]
+    },
+    {
+      "id": "233a36cfaf0c1bcf1d96",
+      "place": "熊谷市",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "熊谷市 令和 ８年 ３月 定例会 総務文教常任委員会 03月03日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/kumagaya/SpMinuteView.html?tenant_id=94&council_id=371&schedule_id=1",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "小島正泰",
+        "小林國章",
+        "影山琢也",
+        "池井光吉",
+        "沼上政幸",
+        "黒澤三千夫"
+      ]
+    },
+    {
+      "id": "662b8789146aa860dccc",
+      "place": "熊谷市",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "熊谷市 令和 ８年 ３月 定例会 市民福祉常任委員会 03月04日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/kumagaya/SpMinuteView.html?tenant_id=94&council_id=369&schedule_id=1",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "三浦和一",
+        "出井哲司",
+        "千葉義浩",
+        "桜井くるみ",
+        "権田清志",
+        "田中正",
+        "福田勝美",
+        "臼杵健"
+      ]
+    },
+    {
+      "id": "d071092f8839fa1f99c5",
+      "place": "熊谷市",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "熊谷市 令和 ８年 ３月 定例会 都市建設常任委員会 03月04日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/kumagaya/SpMinuteView.html?tenant_id=94&council_id=372&schedule_id=1",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "富岡信吾",
+        "山下一男",
+        "山本絢女",
+        "川田勝巳",
+        "新島一英",
+        "林幸子",
+        "石川広己"
+      ]
+    },
+    {
       "id": "6d8800305920e14ef414",
       "place": "熊谷市",
       "season": "spring",
@@ -27462,6 +27554,22 @@ GIKAI.questionText = {
       "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
     },
     {
+      "id": "8c1e35c7d11243d3bbc8",
+      "place": "熊谷市",
+      "season": "summer",
+      "date": "2026-06-10",
+      "title": "熊谷市 令和 ８年 ６月 定例会 環境産業常任委員会 06月10日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/kumagaya/SpMinuteView.html?tenant_id=94&council_id=375&schedule_id=1",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "大久保照夫",
+        "小林拓朗",
+        "江田大助"
+      ]
+    },
+    {
       "id": "c0b28a0df6c52a2944e9",
       "place": "熊谷市",
       "season": "summer",
@@ -27472,6 +27580,78 @@ GIKAI.questionText = {
       "scope": "minutes",
       "speakers": [],
       "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
+    },
+    {
+      "id": "294665c1d7b8262c5657",
+      "place": "熊谷市",
+      "season": "summer",
+      "date": "2026-06-11",
+      "title": "熊谷市 令和 ８年 ６月 定例会 環境産業常任委員会 06月11日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/kumagaya/SpMinuteView.html?tenant_id=94&council_id=375&schedule_id=2",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "小林拓朗",
+        "江田大助",
+        "田中純一",
+        "白根佳典",
+        "腰塚菜穂子"
+      ]
+    },
+    {
+      "id": "f530d029c8eba114b19e",
+      "place": "熊谷市",
+      "season": "summer",
+      "date": "2026-06-11",
+      "title": "熊谷市 令和 ８年 ６月 定例会 総務文教常任委員会 06月11日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/kumagaya/SpMinuteView.html?tenant_id=94&council_id=376&schedule_id=1",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "大山美智子",
+        "小島正泰",
+        "小林國章",
+        "小鮒賢二",
+        "池井光吉",
+        "黒澤三千夫"
+      ]
+    },
+    {
+      "id": "b6128c78558d862dd29d",
+      "place": "熊谷市",
+      "season": "summer",
+      "date": "2026-06-12",
+      "title": "熊谷市 令和 ８年 ６月 定例会 市民福祉常任委員会 06月12日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/kumagaya/SpMinuteView.html?tenant_id=94&council_id=374&schedule_id=1",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "三浦和一",
+        "出井哲司",
+        "千葉義浩",
+        "桜井くるみ",
+        "臼杵健"
+      ]
+    },
+    {
+      "id": "0b8668807f73783403e8",
+      "place": "熊谷市",
+      "season": "summer",
+      "date": "2026-06-12",
+      "title": "熊谷市 令和 ８年 ６月 定例会 都市建設常任委員会 06月12日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/kumagaya/SpMinuteView.html?tenant_id=94&council_id=377&schedule_id=1",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "山下一男",
+        "新島一英",
+        "林幸子",
+        "石川広己"
+      ]
     },
     {
       "id": "b2640403b15637d64876",
@@ -27724,6 +27904,54 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "44c7e4bc792fe096df70",
+      "place": "狭山市",
+      "season": "spring",
+      "date": "2026-03-17",
+      "title": "建設環境委員会／所管事務調査経過報告",
+      "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/iincyouhoukoku/R8_3teireikaihouko.files/kensetusyokan.pdf",
+      "kind": "委員長報告（公式資料）",
+      "scope": "summary",
+      "note": "所管事務調査について公式掲載された報告を、PDF全4頁収録しました。日付は報告の掲載ページの更新日です。",
+      "speakers": []
+    },
+    {
+      "id": "1dc1b1e3f4ab8aaaba21",
+      "place": "狭山市",
+      "season": "spring",
+      "date": "2026-03-17",
+      "title": "建設環境委員会／議案審査経過報告",
+      "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/iincyouhoukoku/R8_3teireikaihouko.files/3kensetu.pdf",
+      "kind": "委員長報告（公式資料）",
+      "scope": "summary",
+      "note": "委員会の議案審査について公式掲載された報告を、PDF全19頁収録しました。日付は報告の掲載ページの更新日です。",
+      "speakers": []
+    },
+    {
+      "id": "51956c9393e392aa5c15",
+      "place": "狭山市",
+      "season": "spring",
+      "date": "2026-03-17",
+      "title": "文教厚生委員会／議案審査経過報告",
+      "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/iincyouhoukoku/R8_3teireikaihouko.files/3bun.pdf",
+      "kind": "委員長報告（公式資料）",
+      "scope": "summary",
+      "note": "委員会の議案審査について公式掲載された報告を、PDF全12頁収録しました。日付は報告の掲載ページの更新日です。",
+      "speakers": []
+    },
+    {
+      "id": "3733a41f6d10763f501d",
+      "place": "狭山市",
+      "season": "spring",
+      "date": "2026-03-17",
+      "title": "総務経済委員会／議案審査経過報告",
+      "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/iincyouhoukoku/R8_3teireikaihouko.files/3soumu.pdf",
+      "kind": "委員長報告（公式資料）",
+      "scope": "summary",
+      "note": "委員会の議案審査について公式掲載された報告を、PDF全19頁収録しました。日付は報告の掲載ページの更新日です。",
+      "speakers": []
+    },
+    {
       "id": "74c33530302cad0d06fa",
       "place": "狭山市",
       "season": "summer",
@@ -27845,6 +28073,42 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "fc37931d3755dcc7ff93",
+      "place": "狭山市",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "建設環境委員会／議案審査経過報告",
+      "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/iincyouhoukoku/R8_6teireikaihoukoku.files/R8.6kensetu.pdf",
+      "kind": "委員長報告（公式資料）",
+      "scope": "summary",
+      "note": "委員会の議案審査について公式掲載された報告を、PDF全2頁収録しました。日付は報告の掲載ページの更新日です。",
+      "speakers": []
+    },
+    {
+      "id": "d403e37415195693792f",
+      "place": "狭山市",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "文教厚生委員会／議案審査委員長報告",
+      "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/iincyouhoukoku/R8_6teireikaihoukoku.files/R8.6bunkyo.pdf",
+      "kind": "委員長報告（公式資料）",
+      "scope": "summary",
+      "note": "委員会の議案審査について公式掲載された報告を、PDF全4頁収録しました。日付は報告の掲載ページの更新日です。",
+      "speakers": []
+    },
+    {
+      "id": "beb43e92e88fbac181d2",
+      "place": "狭山市",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "総務経済委員会／議案審査経過報告",
+      "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/iincyouhoukoku/R8_6teireikaihoukoku.files/R8.6soumu.pdf",
+      "kind": "委員長報告（公式資料）",
+      "scope": "summary",
+      "note": "委員会の議案審査について公式掲載された報告を、PDF全5頁収録しました。日付は報告の掲載ページの更新日です。",
+      "speakers": []
+    },
+    {
       "id": "85083c73051bcf1897f0",
       "place": "狭山市",
       "season": "fall",
@@ -27854,6 +28118,54 @@ GIKAI.questionText = {
       "kind": "議会だよりの質問・答弁要旨（OCR）",
       "scope": "summary",
       "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。 OCRの確認警告があるPDF 15頁を除外しています。",
+      "speakers": []
+    },
+    {
+      "id": "b5c69aeca828a0989312",
+      "place": "狭山市",
+      "season": "fall",
+      "date": "2026-09-30",
+      "title": "建設環境委員会／所管事務調査経過報告",
+      "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/iincyouhoukoku/R8_9teireikaihoukoku.files/R8.9kensetsu_shokan.pdf",
+      "kind": "委員長報告（公式資料）",
+      "scope": "summary",
+      "note": "所管事務調査について公式掲載された報告を、PDF全3頁収録しました。日付は報告の掲載ページの更新日です。",
+      "speakers": []
+    },
+    {
+      "id": "054d743952315b373156",
+      "place": "狭山市",
+      "season": "fall",
+      "date": "2026-09-30",
+      "title": "建設環境委員会／議案審査経過報告",
+      "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/iincyouhoukoku/R8_9teireikaihoukoku.files/R8.9kensetsu_gian.pdf",
+      "kind": "委員長報告（公式資料）",
+      "scope": "summary",
+      "note": "委員会の議案審査について公式掲載された報告を、PDF全10頁収録しました。日付は報告の掲載ページの更新日です。",
+      "speakers": []
+    },
+    {
+      "id": "714b71ce814b366515cb",
+      "place": "狭山市",
+      "season": "fall",
+      "date": "2026-09-30",
+      "title": "文教厚生委員会／議案審査委員長報告",
+      "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/iincyouhoukoku/R8_9teireikaihoukoku.files/R8.9bunkyo.pdf",
+      "kind": "委員長報告（公式資料）",
+      "scope": "summary",
+      "note": "委員会の議案審査について公式掲載された報告を、PDF全13頁収録しました。日付は報告の掲載ページの更新日です。",
+      "speakers": []
+    },
+    {
+      "id": "da860d7c84942ca31e2b",
+      "place": "狭山市",
+      "season": "fall",
+      "date": "2026-09-30",
+      "title": "総務経済委員会／議案審査経過報告",
+      "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/iincyouhoukoku/R8_9teireikaihoukoku.files/R8.9soumu.pdf",
+      "kind": "委員長報告（公式資料）",
+      "scope": "summary",
+      "note": "委員会の議案審査について公式掲載された報告を、PDF全28頁収録しました。日付は報告の掲載ページの更新日です。",
       "speakers": []
     },
     {
@@ -30047,6 +30359,20 @@ GIKAI.questionText = {
       "url": "https://warabi.gijiroku.com/gikai/g07_Video_View.asp?SrchID=2390",
       "speakers": [
         "鈴木慎乃助"
+      ]
+    },
+    {
+      "id": "19312f474331592bca25",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-24",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "前川やすえ議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Video_View.asp?SrchID=2397",
+      "speakers": [
+        "前川やすえ"
       ]
     },
     {
@@ -32463,7 +32789,7 @@ GIKAI.questionText = {
       "season": "spring",
       "material": {
         "state": "verified",
-        "note": "公式目次と照合した本会議の日別会議録6資料を収録。",
+        "note": "公式目次と照合した本会議の日別会議録6資料を収録。公式一覧の常任委員会4資料も収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/kumagaya/SpMinuteBrowse.html?tenant_id=94&view_years=2026"
       }
     },
@@ -32472,7 +32798,7 @@ GIKAI.questionText = {
       "season": "summer",
       "material": {
         "state": "verified",
-        "note": "公式目次と照合した本会議の日別会議録6資料を収録。",
+        "note": "公式目次と照合した本会議の日別会議録6資料を収録。公式一覧の常任委員会5資料も収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/kumagaya/SpMinuteBrowse.html?tenant_id=94&view_years=2026"
       }
     },
@@ -32730,7 +33056,7 @@ GIKAI.questionText = {
       "material": {
         "state": "verified",
         "indexURL": "https://sayama.gijiroku.com/voices/g08v_view.asp?Sflg=11&FYY=2026&TYY=2026",
-        "note": "公式年別一覧にある本会議録8資料を日付別に照合。"
+        "note": "公式年別一覧にある本会議録8資料を日付別に照合。公開された委員長報告4資料も収録。"
       }
     },
     {
@@ -32739,7 +33065,7 @@ GIKAI.questionText = {
       "material": {
         "state": "verified",
         "indexURL": "https://sayama.gijiroku.com/voices/g08v_view.asp?Sflg=11&FYY=2026&TYY=2026",
-        "note": "公式年別一覧にある本会議録6資料を日付別に照合。"
+        "note": "公式年別一覧にある本会議録6資料を日付別に照合。公開された委員長報告3資料も収録。"
       }
     },
     {
@@ -32747,7 +33073,8 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+        "note": "議会だよりの質問・答弁要旨を収録。公式録画で一般質問３日・16人を確認。正式会議録は確認中。公開された委員長報告4資料も収録。",
+        "indexURL": "https://sayama.gijiroku.com/g07_Video_Search.asp"
       }
     },
     {
@@ -32934,7 +33261,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://warabi.gijiroku.com/gikai/g07_Video_Search.asp",
-        "note": "公式録画一覧の一般質問15人のうち、14人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
+        "note": "公式録画一覧の一般質問15人のうち、15人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
       }
     },
     {
@@ -33951,7 +34278,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/council.html?year=2026&council_id=45",
-        "note": "公式録画一覧の一般質問10人のうち、2人の映像音声を機械文字起こしとして収録。正式会議録は確認中。議会だよりの質問・答弁要旨も収録。"
+        "note": "公式録画一覧の一般質問10人のうち、3人の映像音声を機械文字起こしとして収録。正式会議録は確認中。議会だよりの質問・答弁要旨も収録。"
       }
     },
     {
