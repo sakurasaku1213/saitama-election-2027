@@ -16747,6 +16747,109 @@ GIKAI.questionText = {
       "speakers": []
     },
     {
+      "id": "f9aed59b40f23f0a7972",
+      "date": "2026-03-03",
+      "speakers": [
+        "岩田和幸",
+        "栗原勇雄",
+        "湯本弘子",
+        "猪野茂",
+        "黒沢武"
+      ],
+      "place": "小鹿野町",
+      "season": "spring",
+      "title": "3月3日・小鹿野町議会会議録（一般質問を含む）",
+      "url": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0100",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "町公式の会期本文から、公式目次の見出しと番号に沿って当日の本文を収録。一般質問の日は答弁を含みます。"
+    },
+    {
+      "id": "a47a0def12ffc044bf60",
+      "date": "2026-03-04",
+      "speakers": [
+        "出浦正夫",
+        "笠原義行"
+      ],
+      "place": "小鹿野町",
+      "season": "spring",
+      "title": "3月4日・小鹿野町議会会議録（一般質問を含む）",
+      "url": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0200",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "町公式の会期本文から、公式目次の見出しと番号に沿って当日の本文を収録。一般質問の日は答弁を含みます。"
+    },
+    {
+      "id": "0d5f8cd74b4331ed9e76",
+      "date": "2026-03-05",
+      "speakers": [],
+      "place": "小鹿野町",
+      "season": "spring",
+      "title": "3月5日・小鹿野町議会会議録",
+      "url": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0300",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "町公式の会期本文から、公式目次の見出しと番号に沿って当日の本文を収録。一般質問の日は答弁を含みます。"
+    },
+    {
+      "id": "b81c6d740e5bc6d8136b",
+      "date": "2026-03-06",
+      "speakers": [],
+      "place": "小鹿野町",
+      "season": "spring",
+      "title": "3月6日・小鹿野町議会会議録",
+      "url": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803Tmain.html#0400",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "町公式の会期本文から、公式目次の見出しと番号に沿って当日の本文を収録。一般質問の日は答弁を含みます。"
+    },
+    {
+      "id": "46d2ba4e1e7362291866",
+      "date": "2026-06-09",
+      "speakers": [
+        "加藤喜一",
+        "岩田和幸",
+        "栗原勇雄",
+        "黒沢武"
+      ],
+      "place": "小鹿野町",
+      "season": "summer",
+      "title": "6月9日・小鹿野町議会会議録（一般質問を含む）",
+      "url": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0806Tmain.html#0100",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "町公式の会期本文から、公式目次の見出しと番号に沿って当日の本文を収録。一般質問の日は答弁を含みます。"
+    },
+    {
+      "id": "8f5b1ad86f2a27df3973",
+      "date": "2026-06-10",
+      "speakers": [
+        "出浦正夫",
+        "猪野茂",
+        "笠原義行",
+        "髙橋耕也"
+      ],
+      "place": "小鹿野町",
+      "season": "summer",
+      "title": "6月10日・小鹿野町議会会議録（一般質問を含む）",
+      "url": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0806Tmain.html#0200",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "町公式の会期本文から、公式目次の見出しと番号に沿って当日の本文を収録。一般質問の日は答弁を含みます。"
+    },
+    {
+      "id": "880e54beed7ac58d16bf",
+      "date": "2026-06-11",
+      "speakers": [],
+      "place": "小鹿野町",
+      "season": "summer",
+      "title": "6月11日・小鹿野町議会会議録",
+      "url": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0806Tmain.html#0300",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "町公式の会期本文から、公式目次の見出しと番号に沿って当日の本文を収録。一般質問の日は答弁を含みます。"
+    },
+    {
       "id": "1dfb2763b5bacea141c9",
       "place": "嵐山町",
       "season": "spring",
@@ -16787,6 +16890,28 @@ GIKAI.questionText = {
         "犾守勝義",
         "畠山美幸",
         "藤野和美"
+      ]
+    },
+    {
+      "id": "b9684ac230299d72f5d3",
+      "place": "嵐山町",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "議会だより「らんざん」第204号・9月定例会",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000008/8030/204gikaidayori.pdf#page=6",
+      "kind": "議会だよりの質問・答弁（紙面要約）",
+      "scope": "summary",
+      "note": "PDF 6～10頁の議会だよりを紙面と照合し、問答が掲載された16論点を要約しました。正式会議録の全文は確認中です。",
+      "speakers": [
+        "吉本秀二",
+        "小林智",
+        "川口浩史",
+        "森一人",
+        "橋本将",
+        "渋谷登美子",
+        "畠山美幸",
+        "藤野和美",
+        "青柳賢治"
       ]
     },
     {
@@ -21889,6 +22014,32 @@ GIKAI.questionText = {
         "江森誠一",
         "浦田充",
         "渡辺まや",
+        "近本あんな",
+        "須山陽一朗"
+      ]
+    },
+    {
+      "id": "365d9cc81e2e30978d62",
+      "place": "桶川市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "おけがわ市議会だより224号・9月定例会",
+      "url": "https://www.city.okegawa.lg.jp/material/files/group/2/gikaidayori_no224.pdf#page=5",
+      "kind": "議会だよりの質問・答弁（紙面要約）",
+      "scope": "summary",
+      "note": "PDF 5～11頁の議会だよりを紙面と照合し、問答が掲載された47論点を要約しました。正式会議録の全文は確認中です。",
+      "speakers": [
+        "仲又清美",
+        "北村あやこ",
+        "山中敏正",
+        "岩﨑隆志",
+        "榊萌美",
+        "浦田充",
+        "渡辺まや",
+        "渡邉広美",
+        "砂川和也",
+        "糸井政樹",
+        "細谷文人",
         "近本あんな",
         "須山陽一朗"
       ]
@@ -27155,8 +27306,8 @@ GIKAI.questionText = {
       "place": "桶川市",
       "season": "fall",
       "material": {
-        "state": "unavailable",
-        "note": "候補となる公式PDFは取得しました。会期または質問・答弁の判読に確認が残り、本文を収録していません。"
+        "state": "partial",
+        "note": "議会だよりの掲載質疑を紙面照合して要約。正式会議録の全文は確認中。"
       }
     },
     {
@@ -27611,8 +27762,8 @@ GIKAI.questionText = {
       "place": "嵐山町",
       "season": "fall",
       "material": {
-        "state": "unavailable",
-        "note": "候補となる公式PDFは取得しました。会期または質問・答弁の判読に確認が残り、本文を収録していません。"
+        "state": "partial",
+        "note": "議会だよりの掲載質疑を紙面照合して要約。正式会議録の全文は確認中。"
       }
     },
     {
@@ -27811,24 +27962,24 @@ GIKAI.questionText = {
       "place": "小鹿野町",
       "season": "spring",
       "material": {
-        "state": "unavailable",
-        "note": "町公式サイトの議会資料と公開保存版を調査しましたが、2026年対象会期の日別の質問・答弁本文には到達できませんでした。"
+        "state": "verified",
+        "note": "公式目次にある本会議4日分を収録。一般質問は２日分。"
       }
     },
     {
       "place": "小鹿野町",
       "season": "summer",
       "material": {
-        "state": "unavailable",
-        "note": "町公式サイトの議会資料と公開保存版を調査しましたが、2026年対象会期の日別の質問・答弁本文には到達できませんでした。"
+        "state": "verified",
+        "note": "公式目次にある本会議3日分を収録。一般質問は２日分。"
       }
     },
     {
       "place": "小鹿野町",
       "season": "fall",
       "material": {
-        "state": "unavailable",
-        "note": "町公式サイトの議会資料と公開保存版を調査しましたが、2026年対象会期の日別の質問・答弁本文には到達できませんでした。"
+        "state": "notFound",
+        "note": "公式会議録一覧で令和８年の３月・６月定例会を確認。９月定例会の本文は掲載を確認できず。"
       }
     },
     {

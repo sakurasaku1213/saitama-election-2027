@@ -427,7 +427,9 @@
       .filter((p) => filteredBody(p.place))
       .map((p) => p.group);
     filters([
-      field("season", "政策比較の起点", seasons2026, "春（既定）"),
+      field("season", "政策比較の対象", seasons2026,
+        councilPolicyReviews.has(state.place) ? "春・初夏・秋の３会期" :
+          state.place ? "春（既定）" : "各議会の既定"),
       searchField("例　熊谷市、予算特別委員、氏名"),
       field("place", "議会", placeList(personPlaces)),
       field("group", "名簿上の会派", sorted(groupsHere)),
@@ -462,36 +464,77 @@
     incomplete: "追跡資料が不足",
     open: "追跡期間中",
   };
-  function reviewEvent(event) {
+  function archivedMinutes(place, day) {
+    if (!place || !get("question-text-bodies")) return "";
+    const archive = D.questionText.documents.find((doc) => doc.place === place && doc.date === day);
+    return archive ? "　" + jump("texts", { place, season: archive.season, q: day }, "収録本文") : "";
+  }
+  function reviewEvent(event, place) {
     return `<li>${dateTag(event.date)} ${tag(event.stage)}
       <strong>${esc(event.actor)}</strong><p>${esc(event.detail)}</p>
-      <p class="small">${link(event.url, event.sourceTitle)}${event.locator ? `　${esc(event.locator)}` : ""}</p></li>`;
+      <p class="small">${link(event.url, event.sourceTitle)}${event.locator ? `　${esc(event.locator)}` : ""}${archivedMinutes(place, event.date)}</p></li>`;
   }
-  function policyIssue(issue) {
+  function policyIssue(issue, place) {
     const original = reviewQuestions.get(issue.items[0].url) || issue.items[0];
     const title = issue.title || original.title.split("／").at(-1);
     const questions = issue.items.map((item) => {
       const q = reviewQuestions.get(item.url) || item;
       return `<li>${tag(q.kind)} <strong>${esc(questionLevels[item.level])}</strong>
-        <p>${esc(item.reason)}</p><p class="small">${link(q.url, q.title)}　${dateTag(q.date)}</p>${item.recordingURL ? `<p class="small">${link(item.recordingURL, "当日の公式録画")}</p>` : ""}</li>`;
+        <p>${esc(item.reason)}</p><p class="small">${link(q.url, q.title)}　${dateTag(q.date)}${item.locator ? `　${esc(item.locator)}` : ""}${archivedMinutes(place, q.date)}</p>${item.recordingURL ? `<p class="small">${link(item.recordingURL, "当日の公式録画")}</p>` : ""}</li>`;
     }).join("");
     const followUp = followUpLabels[issue.followUp];
     return `<details class="entry policy-issue"><summary><span>${esc(title)}</span></summary>
       <div class="detail-body"><h5>何を尋ねたか</h5><ul class="policy-evidence">${questions}</ul>
       <h5>本人の後続行動</h5><p>${esc(followUp)}${issue.followUpNote ? `。 ${esc(issue.followUpNote)}` : ""}</p>
-      ${issue.actions?.length ? `<ol class="steps">${issue.actions.map(reviewEvent).join("")}</ol>` : ""}
+      ${issue.actions?.length ? `<ol class="steps">${issue.actions.map((event) => reviewEvent(event, place)).join("")}</ol>` : ""}
       <h5>行政の対応・到達点</h5>
-      ${issue.outcomes?.length ? `<ol class="steps">${issue.outcomes.map(reviewEvent).join("")}</ol>` : `<p>${link(original.url, "当初の答弁を読む")}</p>`}
+      ${issue.outcomes?.length ? `<ol class="steps">${issue.outcomes.map((event) => reviewEvent(event, place)).join("")}</ol>` : `<p>${link(original.url, "当初の答弁を読む")}</p>`}
       </div></details>`;
   }
+
+  const councilPolicyReviews = new Map(D.councilPolicyReviews.map((entry) => [entry.place, entry]));
+  const wholePolicyPeriod = "all-2026";
+  function comprehensivePolicyCard(p, comparison, period) {
+    const full = period === wholePolicyPeriod;
+    const inPeriod = (item) => full || item.season === period;
+    const samePerson = (person) => norm(person.name) === norm(p.name);
+    const appearances = comparison.appearances.filter((item) => inPeriod(item) && samePerson(item));
+    const issues = comparison.issues.filter((issue) =>
+      samePerson(issue) && issue.items.some(inPeriod),
+    );
+    const periodLabel = full ? "春・初夏・秋の３会期" : seasons2026.find(([key]) => key === period)?.[1];
+    const heading = `<h4>政策実現力をみる</h4><p class="small">2026年${esc(periodLabel)}の一般質問。３会期内の経過は${dateTag(comparison.through)}まで。</p>`;
+    if (!appearances.length) {
+      return `<section class="policy-review">${heading}<p>この範囲の公式一般質問者一覧に、本人の掲載回はありません。</p>
+        <p class="small">${link(comparison.indexURL, "公式一般質問者一覧")}</p></section>`;
+    }
+    const metrics = [
+      ["一般質問の掲載回", appearances.length],
+      ["収録した論点", issues.length],
+      ["具体的な提案・検証", issues.filter((issue) =>
+        issue.items.some((item) => inPeriod(item) && item.level === "specific")).length],
+      ["後続行動を確認", issues.filter((issue) => issue.followUp === "confirmed").length],
+    ];
+    const coverageNote = `<p class="small">${esc(comparison.note)} ${full ? "" : "当該会期の論点に関する別会期の答弁と後続行動も表示します。"} ${link(comparison.indexURL, "公式一般質問者一覧")}</p>`;
+    return `<section class="policy-review">${heading}
+      <dl class="policy-metrics">${metrics.map(([label, total]) => `<div><dt>${esc(label)}</dt><dd>${count(total)}件</dd></div>`).join("")}</dl>
+      ${coverageNote}
+      <details class="policy-issues"><summary>論点ごとの判定と出典を読む</summary>
+        <div class="list">${issues.map((issue) => policyIssue(issue, comparison.place)).join("")}</div>
+      </details>
+    </section>`;
+  }
+
   function policyReviewCard(p) {
+    const comparison = councilPolicyReviews.get(p.place);
+    if (comparison) return comprehensivePolicyCard(p, comparison, state.season || wholePolicyPeriod);
     const season = state.season || "spring";
     if (p.place !== review.place || season !== "spring") {
       const cohort = D.coverage2026.policy.find((entry) => entry.place === p.place && entry.season === season);
       const issues = cohort?.issues.filter((issue) => norm(issue.name) === norm(p.name)) || [];
       const seasonLabel = seasons2026.find(([key]) => key === season)?.[1];
       const content = issues.length
-        ? `<details class="policy-issues"><summary>照合済みの論点を読む</summary><div class="list">${issues.map(policyIssue).join("")}</div></details>`
+        ? `<details class="policy-issues"><summary>照合済みの論点を読む</summary><div class="list">${issues.map((issue) => policyIssue(issue)).join("")}</div></details>`
         : "<p>原資料で本人の役割を照合済みの論点は、この欄にはまだありません。</p>";
       return `<section class="policy-review"><h4>政策実現力をみる</h4><p class="small">2026年${esc(seasonLabel)}の定例会。表示は出典を照合済みの資料に限ります。</p>${content}${coveragePanel(p.place, season)}</section>`;
     }
@@ -519,13 +562,15 @@
       ${withoutCoverage ? `<p class="small">追跡資料不足または期間中 ${count(withoutCoverage)}論点</p>` : ""}
       <p class="small">後続行動はこの会期の論点に関する公表記録です。委員会の報告には発言者が記されない場合があります。 ${jump("method", {}, "確認した資料と基準")}</p>
       <details class="policy-issues"><summary>論点ごとの判定と出典を読む</summary>
-        <div class="list">${issues.map(policyIssue).join("")}</div>
+        <div class="list">${issues.map((issue) => policyIssue(issue)).join("")}</div>
       </details></section>`;
   }
   function policyReviewMethod() {
     return `<div class="panel"><h3>政策実現力の比較で確認した資料</h3>
       <p>${esc(review.label)}の一般質問・代表質問が対象です。同じ議員による同じ対象・同じ要求を一論点にまとめます。一つの掲載項目に別の施策への質問が含まれるときは、論点を分け、掲載項目は一度数えます。施策や対象を特定し、変更案、数値・期限、資料など、何を求めたのかが明確な質問を「具体的な提案・検証」と表示します。</p>
       <p>${esc(review.coverageNote)}</p><p class="small">資料の確認日 ${dateTag(review.checked)}</p>
+      ${[...councilPolicyReviews.values()].map((item) =>
+        `<p><b>${esc(item.place)}議会</b>　${esc(item.note)} ${link(item.indexURL, "公式一般質問者一覧")}</p>`).join("")}
       <ul class="documents">${review.sources.map((source) => `<li>${link(source.url, source.label)} ${esc(source.note || "")}</li>`).join("")}</ul></div>`;
   }
   function relatedCases(p) {
@@ -861,13 +906,13 @@
       field("documentType", "資料の種類", sorted(D.questionText.documents.map((d) => d.kind))),
     ]);
   }
-  function questionTextCard(entry) {
+  function questionTextCard(entry, open = false) {
     const doc = `<div class="meta"><span>${esc(entry.place)}議会</span>${dateTag(entry.date)}${tag(entry.kind)}</div><h3>${esc(entry.title)}</h3>`;
     const source = `<div class="links">${link(entry.url, "公式資料の該当箇所")}</div>
       ${entry.note ? `<p class="small">${esc(entry.note)}</p>` : ""}
       ${entry.speakers?.length ? `<p class="small">本文に名前がある議員　${entry.speakers.map(esc).join("、")}</p>` : ""}`;
     const available = Boolean(get("question-text-bodies"));
-    return `<details class="entry question-document" data-question-id="${esc(entry.id)}">
+    return `<details class="entry question-document" data-question-id="${esc(entry.id)}"${open ? " open" : ""}>
       <summary><div>${doc}</div></summary><div class="detail-body">${source}
       ${available ? '<div class="question-body" data-question-body></div>' : ""}
       </div></details>`;
@@ -879,11 +924,13 @@
       matches("documentType", d.kind) && includes([d.place, d.title, d.date, d.kind, ...d.speakers], query),
     );
     const selected = state.place ? coveragePanel(state.place, state.season) : "";
+    const open = hits.length === 1 && state.q === hits[0].date;
     results(
-      selected + (hits.length ? partial(hits, questionTextCard) :
+      selected + (hits.length ? partial(hits, (entry) => questionTextCard(entry, open)) :
         noResult("該当する本文は現在の資料一覧にありません。議会を選ぶと公式資料と収録状況を確認できます。")),
       `該当する資料 ${count(hits.length)}件`,
     );
+    if (open) renderQuestionBody(get("results").querySelector(".question-document"));
   }
   function renderQuestionBody(card) {
     if (!card.open) return;

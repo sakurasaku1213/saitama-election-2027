@@ -362,8 +362,8 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "公式一覧の一般質問32掲載回を本文で照合。委員会や事業資料での経過の突合は継続。"
         }
       },
       "sources": [
@@ -402,8 +402,8 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "公式一覧の一般質問30掲載回を本文で照合。委員会や事業資料での経過の突合は継続。"
         }
       },
       "sources": [
@@ -442,8 +442,8 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "公式一覧の一般質問31掲載回を本文で照合。会期後の経過と委員会・事業資料の突合は継続。"
         }
       },
       "sources": [
@@ -7538,12 +7538,12 @@ GIKAI.coverage2026 = {
       "season": "spring",
       "label": "2026年春の定例会",
       "fromDate": "2026-03-03",
-      "toDate": "2026-03-09",
-      "planned": true,
+      "toDate": "2026-03-06",
+      "planned": false,
       "materials": {
         "meeting": {
-          "state": "partial",
-          "note": "開催予定を確認。"
+          "state": "verified",
+          "note": "開会は3月3日、会期は当初9日までと決定。正式会議録では6日に閉会。"
         },
         "activity": {
           "state": "partial",
@@ -7568,6 +7568,10 @@ GIKAI.coverage2026 = {
       },
       "sources": [
         {
+          "label": "正式会議録　令和８年第１回定例会",
+          "url": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803T.html"
+        },
+        {
           "label": "対象会期の開催予定",
           "url": "https://web.archive.org/web/20260226115004/https://www.town.ogano.lg.jp/r8-3gikaiteireikai/"
         },
@@ -7587,11 +7591,11 @@ GIKAI.coverage2026 = {
       "label": "2026年初夏の定例会",
       "fromDate": "2026-06-09",
       "toDate": "2026-06-11",
-      "planned": true,
+      "planned": false,
       "materials": {
         "meeting": {
-          "state": "partial",
-          "note": "開催予定を確認。"
+          "state": "verified",
+          "note": "正式会議録で6月9日の開会と11日の閉会を確認。"
         },
         "activity": {
           "state": "identified",
@@ -7616,6 +7620,10 @@ GIKAI.coverage2026 = {
       },
       "sources": [
         {
+          "label": "正式会議録　令和８年第２回定例会",
+          "url": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0806T.html"
+        },
+        {
           "label": "対象会期の開催予定",
           "url": "https://web.archive.org/web/20260607020132/https://www.town.ogano.lg.jp/%E4%BB%A4%E5%92%8C8%E5%B9%B4%E7%AC%AC2%E5%9B%9E6%E6%9C%88%E5%B0%8F%E9%B9%BF%E9%87%8E%E7%94%BA%E8%AD%B0%E4%BC%9A%E5%AE%9A%E4%BE%8B%E4%BC%9A%E9%96%8B%E5%82%AC%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89/"
         },
@@ -7634,8 +7642,8 @@ GIKAI.coverage2026 = {
       "planned": false,
       "materials": {
         "meeting": {
-          "state": "unavailable",
-          "note": "町公式サイトの一時停止。確認した保存版では秋の日付が確認できません。"
+          "state": "notFound",
+          "note": "町の公式会議録一覧と９月の保存版を確認。対象会期の日付は未照合。"
         },
         "activity": {
           "state": "pending",
@@ -7659,6 +7667,10 @@ GIKAI.coverage2026 = {
         }
       },
       "sources": [
+        {
+          "label": "町公式の会議録一覧",
+          "url": "https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/index.html"
+        },
         {
           "label": "確認した町公式トップの９月の保存版",
           "url": "https://web.archive.org/web/20260901123528/https://www.town.ogano.lg.jp/"

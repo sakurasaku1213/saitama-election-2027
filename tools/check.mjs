@@ -226,6 +226,81 @@ for (const row of coverage.sessions) {
   }
 }
 assert.equal(coverageSlots.size, allBodies.size * seasons.size);
+const councilReviews = new Map();
+let councilReviewAppearances = 0;
+let councilReviewIssues = 0;
+let councilReviewActions = 0;
+function validBlocks(item) {
+  assert.ok(item.locator && item.blocks.length, item.url);
+  assert.ok(item.blocks.every((block, index, blocks) =>
+    Number.isSafeInteger(block) && block > (blocks[index - 1] || 0)), item.url);
+}
+for (const comparison of data.councilPolicyReviews) {
+  assert.ok(allBodies.has(comparison.place) && !councilReviews.has(comparison.place), comparison.place);
+  councilReviews.set(comparison.place, comparison);
+  validDay(comparison.through);
+  validDay(comparison.checked);
+  validLink(comparison.indexURL);
+  assert.ok(comparison.note && comparison.through <= comparison.checked);
+  const appearances = new Map();
+  for (const item of comparison.appearances) {
+    assert.ok(!appearances.has(item.id) && item.name, item.id);
+    assert.ok(coverageSlots.has(comparison.place + "|" + item.season), item.id);
+    validDay(item.date);
+    validLink(item.url);
+    assert.ok(item.date <= comparison.through, item.id);
+    assert.ok(people.has(comparison.place + "|" + item.name.replace(/\s/g, "")), item.name);
+    appearances.set(item.id, item);
+  }
+  const issued = new Map();
+  const reached = new Set();
+  for (const issue of comparison.issues) {
+    assert.ok(issue.id && issue.title && !issued.has(issue.id), issue.id);
+    issued.set(issue.id, issue);
+    assert.ok(issue.items.length && issue.outcomes.length && followUpStates.has(issue.followUp));
+    assert.equal(issue.followUp === "confirmed", Boolean(issue.actions?.length), issue.id);
+    const references = new Set();
+    for (const item of issue.items) {
+      const source = appearances.get(item.sourceId);
+      assert.ok(source && issue.name === source.name, item.sourceId);
+      assert.equal(item.url, source.url);
+      assert.equal(item.date, source.date);
+      assert.equal(item.season, source.season);
+      assert.ok(reviewLevels.has(item.level) && item.reason && item.title && item.kind);
+      assert.ok(!references.has(item.sourceId), issue.id);
+      validBlocks(item);
+      references.add(item.sourceId);
+      reached.add(item.sourceId);
+    }
+    for (const timeline of [issue.outcomes, issue.actions || []]) {
+      let lastDate = "";
+      for (const event of timeline) {
+        validDay(event.date);
+        validLink(event.url);
+        validBlocks(event);
+        assert.ok(event.stage && event.actor && event.detail && event.sourceTitle, issue.id);
+        assert.ok(event.date >= lastDate && event.date <= comparison.through, issue.id);
+        lastDate = event.date;
+      }
+    }
+    for (const event of issue.actions || []) {
+      const source = appearances.get(event.sourceId);
+      assert.ok(source && references.has(source.id), issue.id);
+      assert.equal(event.actor, issue.name);
+      assert.equal(event.url, source.url);
+      assert.equal(event.date, source.date);
+      assert.ok(issue.items.some((item) => item.date < event.date && item.season !== source.season));
+      councilReviewActions++;
+    }
+  }
+  assert.equal(reached.size, appearances.size, comparison.place + " missing listed questions");
+  councilReviewAppearances += appearances.size;
+  councilReviewIssues += issued.size;
+}
+const kawagoe = councilReviews.get("川越市");
+for (const [period, listed] of [["spring", 32], ["summer", 30], ["fall", 31]]) {
+  assert.equal(kawagoe.appearances.filter((item) => item.season === period).length, listed);
+}
 const currentPlaces = new Set();
 for (const row of coverage.current) {
   assert.ok(allBodies.has(row.place) && !currentPlaces.has(row.place), row.place);
@@ -350,6 +425,9 @@ console.log(
       reviewedSpeakers: reviewSpeakers.size,
       reviewedPolicyIssues: review.issues.length,
       confirmedFollowUps: review.issues.filter((issue) => issue.followUp === "confirmed").length,
+      councilReviewAppearances,
+      councilReviewIssues,
+      councilReviewActions,
       announcementRows: data.nominations.length,
       coverageCouncils: new Set(coverage.current.map((row) => row.place)).size,
       coverageSlots: coverageSlots.size,
