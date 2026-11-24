@@ -3738,6 +3738,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "7dcc99697b1ecb9458a4",
+      "place": "上里町",
+      "season": "summer",
+      "date": "2026-06-05",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "新井實議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/speech.html?council_id=45&schedule_id=2&playlist_id=3&speaker_id=10&target_year=2026",
+      "speakers": [
+        "新井實"
+      ]
+    },
+    {
       "id": "e8108c0c34bf158fb0b0",
       "place": "上里町",
       "season": "summer",
@@ -6538,6 +6552,20 @@ GIKAI.questionText = {
       "url": "https://smart.discussvision.net/smart/tenant/kazo/WebView/rd/speech.html?council_id=39&schedule_id=3&playlist_id=5&speaker_id=22&target_year=2026",
       "speakers": [
         "野中芳子"
+      ]
+    },
+    {
+      "id": "b1fb903e540d08e7ac11",
+      "place": "加須市",
+      "season": "fall",
+      "date": "2026-09-11",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "原田悟議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/kazo/WebView/rd/speech.html?council_id=39&schedule_id=4&playlist_id=3&speaker_id=23&target_year=2026",
+      "speakers": [
+        "原田悟"
       ]
     },
     {
@@ -25372,6 +25400,34 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "02471f9a944d74d600dd",
+      "place": "戸田市",
+      "season": "fall",
+      "date": "2026-09-09",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "宮内そうこ議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/GD022/GD022_006?id=0000055803",
+      "speakers": [
+        "宮内そうこ"
+      ]
+    },
+    {
+      "id": "7a11dc08a2a0cf319c77",
+      "place": "戸田市",
+      "season": "fall",
+      "date": "2026-09-09",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "竹内正明議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/GD022/GD022_006?id=0000055802",
+      "speakers": [
+        "竹内正明"
+      ]
+    },
+    {
       "id": "ab9387289ec18d0d6298",
       "place": "所沢市",
       "season": "spring",
@@ -26733,6 +26789,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "1f66ce06489b1eb896c0",
+      "place": "新座市",
+      "season": "fall",
+      "date": "2026-09-10",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "谷地田庸子議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。 自動検査で確認候補になった時間帯も含まれます。",
+      "url": "https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1876",
+      "speakers": [
+        "谷地田庸子"
+      ]
+    },
+    {
       "id": "b62276f5589ef82cce8a",
       "place": "新座市",
       "season": "fall",
@@ -27089,6 +27159,20 @@ GIKAI.questionText = {
       "url": "https://smart.discussvision.net/smart/tenant/hidaka/WebView/rd/speech.html?council_id=54&schedule_id=4&playlist_id=4&speaker_id=25&target_year=2026",
       "speakers": [
         "成田奈緒子"
+      ]
+    },
+    {
+      "id": "cab904004e8b874a5111",
+      "place": "日高市",
+      "season": "fall",
+      "date": "2026-09-10",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "加藤将伍議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/hidaka/WebView/rd/speech.html?council_id=54&schedule_id=5&playlist_id=2&speaker_id=29&target_year=2026",
+      "speakers": [
+        "加藤将伍"
       ]
     },
     {
@@ -27564,6 +27648,20 @@ GIKAI.questionText = {
         "鈴木一利"
       ],
       "note": "第85号は議長と監査委員の一般質問を行わない取扱いを記載。通告の28人・５日について録画目録と一致。"
+    },
+    {
+      "id": "ed53a3e9c9e3837be24e",
+      "place": "春日部市",
+      "season": "fall",
+      "date": "2026-09-08",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "藤原智子議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://kasukabe-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=2378",
+      "speakers": [
+        "藤原智子"
+      ]
     },
     {
       "id": "931ed30066836c4414f1",
@@ -29382,6 +29480,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "15ad5bd1484e65fba487",
+      "place": "東松山市",
+      "season": "fall",
+      "date": "2026-09-11",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "横田正芳議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/higashimatsuyama/WebView/rd/speech.html?council_id=56&schedule_id=3&playlist_id=1&speaker_id=35&target_year=2026",
+      "speakers": [
+        "横田正芳"
+      ]
+    },
+    {
       "id": "2c76822b2861a24d05bd",
       "place": "東秩父村",
       "season": "spring",
@@ -29807,6 +29919,20 @@ GIKAI.questionText = {
       "url": "https://matsubushi-town.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=4",
       "speakers": [
         "長谷川真也"
+      ]
+    },
+    {
+      "id": "5d376dc5890a0923d9a5",
+      "place": "松伏町",
+      "season": "fall",
+      "date": "2026-09-04",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "吉田俊一議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://matsubushi-town.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=11",
+      "speakers": [
+        "吉田俊一"
       ]
     },
     {
@@ -32144,6 +32270,20 @@ GIKAI.questionText = {
       "url": "https://sayama.gijiroku.com/g07_Video_View.asp?SrchID=1548",
       "speakers": [
         "酒井英男"
+      ]
+    },
+    {
+      "id": "0bcecf04d1070d3cd083",
+      "place": "狭山市",
+      "season": "fall",
+      "date": "2026-09-16",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "広山清志議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://sayama.gijiroku.com/g07_Video_View.asp?SrchID=1555",
+      "speakers": [
+        "広山清志"
       ]
     },
     {
@@ -35182,6 +35322,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "1b76ec67262d879bf2e1",
+      "place": "行田市",
+      "season": "fall",
+      "date": "2026-09-03",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "小林修議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/gyoda/WebView/rd/speech.html?council_id=47&schedule_id=3&playlist_id=2&speaker_id=24&target_year=2026",
+      "speakers": [
+        "小林修"
+      ]
+    },
+    {
       "id": "431d4c3e207e43988778",
       "place": "行田市",
       "season": "fall",
@@ -35193,6 +35347,20 @@ GIKAI.questionText = {
       "url": "https://smart.discussvision.net/smart/tenant/gyoda/WebView/rd/speech.html?council_id=47&schedule_id=3&playlist_id=1&speaker_id=31&target_year=2026",
       "speakers": [
         "小林淳一"
+      ]
+    },
+    {
+      "id": "9742ebadc3ce1af1e816",
+      "place": "行田市",
+      "season": "fall",
+      "date": "2026-09-03",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "小野寺貴男議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/gyoda/WebView/rd/speech.html?council_id=47&schedule_id=3&playlist_id=3&speaker_id=36&target_year=2026",
+      "speakers": [
+        "小野寺貴男"
       ]
     },
     {
@@ -37828,12 +37996,265 @@ GIKAI.questionText = {
       "place": "鶴ヶ島市",
       "season": "fall",
       "date": "2026-09",
-      "title": "鶴ヶ島市議会だより219号・9月定例会の一般質問（紙面8〜13頁）",
+      "title": "つるがしま市議会だより第219号・一般質問、決算審査と請願の問答",
       "url": "https://www.city.tsurugashima.lg.jp/data/doc/1793248747_doc_318_0.pdf",
-      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "kind": "議会だよりの質問・答弁（紙面要約）",
       "scope": "summary",
-      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
-      "speakers": []
+      "note": "一般質問14人の主要問答14組、決算審査８組、請願の委員会質疑３組、決算特集の紙面コメント15人。一般質問日は公式録画目録で照合し、PDF３～13頁の原紙面OCRも併録。",
+      "speakers": [
+        "瀧嶋正紀",
+        "福島恵美",
+        "村上信吉",
+        "大野洋子",
+        "小島幸広",
+        "小林ひとみ",
+        "髙篠雅洋",
+        "今野雄一",
+        "小川茂",
+        "太田忠芳",
+        "大曽根英明",
+        "山中基充",
+        "長谷川清",
+        "出雲敏太郎"
+      ]
+    },
+    {
+      "place": "鶴ヶ島市",
+      "season": "fall",
+      "date": "2026-09",
+      "id": "0a3dbeeefa689cc53b1e",
+      "title": "今野雄一議員・第３回定例会の一般質問通告書",
+      "url": "https://www.city.tsurugashima.lg.jp/data/doc/1788500851_doc_318_0.pdf",
+      "scope": "notice",
+      "kind": "一般質問通告（公式資料）",
+      "indexURL": "https://www.city.tsurugashima.lg.jp/gikai/nittei-gian-shitsumon/ippan/page012039.html",
+      "note": "公式が掲載した事前通告のPDF。一般質問で実際に話した内容や答弁は、録画・会議録等で確認する。",
+      "speakers": [
+        "今野雄一"
+      ]
+    },
+    {
+      "place": "鶴ヶ島市",
+      "season": "fall",
+      "date": "2026-09",
+      "id": "db5c6bc31edddd6e3607",
+      "title": "出雲敏太郎議員・第３回定例会の一般質問通告書",
+      "url": "https://www.city.tsurugashima.lg.jp/data/doc/1788500855_doc_318_0.pdf",
+      "scope": "notice",
+      "kind": "一般質問通告（公式資料）",
+      "indexURL": "https://www.city.tsurugashima.lg.jp/gikai/nittei-gian-shitsumon/ippan/page012039.html",
+      "note": "公式が掲載した事前通告のPDF。一般質問で実際に話した内容や答弁は、録画・会議録等で確認する。",
+      "speakers": [
+        "出雲敏太郎"
+      ]
+    },
+    {
+      "place": "鶴ヶ島市",
+      "season": "fall",
+      "date": "2026-09",
+      "id": "7b818568f8882582be7e",
+      "title": "大曽根英明議員・第３回定例会の一般質問通告書",
+      "url": "https://www.city.tsurugashima.lg.jp/data/doc/1788500842_doc_318_0.pdf",
+      "scope": "notice",
+      "kind": "一般質問通告（公式資料）",
+      "indexURL": "https://www.city.tsurugashima.lg.jp/gikai/nittei-gian-shitsumon/ippan/page012039.html",
+      "note": "公式が掲載した事前通告のPDF。一般質問で実際に話した内容や答弁は、録画・会議録等で確認する。",
+      "speakers": [
+        "大曽根英明"
+      ]
+    },
+    {
+      "place": "鶴ヶ島市",
+      "season": "fall",
+      "date": "2026-09",
+      "id": "beb460ac0c3e82724593",
+      "title": "大野洋子議員・第３回定例会の一般質問通告書",
+      "url": "https://www.city.tsurugashima.lg.jp/data/doc/1788500826_doc_318_0.pdf",
+      "scope": "notice",
+      "kind": "一般質問通告（公式資料）",
+      "indexURL": "https://www.city.tsurugashima.lg.jp/gikai/nittei-gian-shitsumon/ippan/page012039.html",
+      "note": "公式が掲載した事前通告のPDF。一般質問で実際に話した内容や答弁は、録画・会議録等で確認する。",
+      "speakers": [
+        "大野洋子"
+      ]
+    },
+    {
+      "place": "鶴ヶ島市",
+      "season": "fall",
+      "date": "2026-09",
+      "id": "75340baf6b7dd4d0bf97",
+      "title": "太田忠芳議員・第３回定例会の一般質問通告書",
+      "url": "https://www.city.tsurugashima.lg.jp/data/doc/1788500818_doc_318_0.pdf",
+      "scope": "notice",
+      "kind": "一般質問通告（公式資料）",
+      "indexURL": "https://www.city.tsurugashima.lg.jp/gikai/nittei-gian-shitsumon/ippan/page012039.html",
+      "note": "公式が掲載した事前通告のPDF。一般質問で実際に話した内容や答弁は、録画・会議録等で確認する。",
+      "speakers": [
+        "太田忠芳"
+      ]
+    },
+    {
+      "place": "鶴ヶ島市",
+      "season": "fall",
+      "date": "2026-09",
+      "id": "4c124ac807d8b5acd7f9",
+      "title": "小島幸広議員・第３回定例会の一般質問通告書",
+      "url": "https://www.city.tsurugashima.lg.jp/data/doc/1788500838_doc_318_0.pdf",
+      "scope": "notice",
+      "kind": "一般質問通告（公式資料）",
+      "indexURL": "https://www.city.tsurugashima.lg.jp/gikai/nittei-gian-shitsumon/ippan/page012039.html",
+      "note": "公式が掲載した事前通告のPDF。一般質問で実際に話した内容や答弁は、録画・会議録等で確認する。",
+      "speakers": [
+        "小島幸広"
+      ]
+    },
+    {
+      "place": "鶴ヶ島市",
+      "season": "fall",
+      "date": "2026-09",
+      "id": "4e0f55e8bdd9508bc477",
+      "title": "小川茂議員・第３回定例会の一般質問通告書",
+      "url": "https://www.city.tsurugashima.lg.jp/data/doc/1788500806_doc_318_0.pdf",
+      "scope": "notice",
+      "kind": "一般質問通告（公式資料）",
+      "indexURL": "https://www.city.tsurugashima.lg.jp/gikai/nittei-gian-shitsumon/ippan/page012039.html",
+      "note": "公式が掲載した事前通告のPDF。一般質問で実際に話した内容や答弁は、録画・会議録等で確認する。",
+      "speakers": [
+        "小川茂"
+      ]
+    },
+    {
+      "place": "鶴ヶ島市",
+      "season": "fall",
+      "date": "2026-09",
+      "id": "4618d7bd7c48a979cb43",
+      "title": "小林ひとみ議員・第３回定例会の一般質問通告書",
+      "url": "https://www.city.tsurugashima.lg.jp/data/doc/1788500814_doc_318_0.pdf",
+      "scope": "notice",
+      "kind": "一般質問通告（公式資料）",
+      "indexURL": "https://www.city.tsurugashima.lg.jp/gikai/nittei-gian-shitsumon/ippan/page012039.html",
+      "note": "公式が掲載した事前通告のPDF。一般質問で実際に話した内容や答弁は、録画・会議録等で確認する。",
+      "speakers": [
+        "小林ひとみ"
+      ]
+    },
+    {
+      "place": "鶴ヶ島市",
+      "season": "fall",
+      "date": "2026-09",
+      "id": "d24298356b930bde9f9a",
+      "title": "山中基充議員・第３回定例会の一般質問通告書",
+      "url": "https://www.city.tsurugashima.lg.jp/data/doc/1788500822_doc_318_0.pdf",
+      "scope": "notice",
+      "kind": "一般質問通告（公式資料）",
+      "indexURL": "https://www.city.tsurugashima.lg.jp/gikai/nittei-gian-shitsumon/ippan/page012039.html",
+      "note": "公式が掲載した事前通告のPDF。一般質問で実際に話した内容や答弁は、録画・会議録等で確認する。",
+      "speakers": [
+        "山中基充"
+      ]
+    },
+    {
+      "place": "鶴ヶ島市",
+      "season": "fall",
+      "date": "2026-09",
+      "id": "36428ea55500fbc3fac7",
+      "title": "村上信吉議員・第３回定例会の一般質問通告書",
+      "url": "https://www.city.tsurugashima.lg.jp/data/doc/1788500810_doc_318_0.pdf",
+      "scope": "notice",
+      "kind": "一般質問通告（公式資料）",
+      "indexURL": "https://www.city.tsurugashima.lg.jp/gikai/nittei-gian-shitsumon/ippan/page012039.html",
+      "note": "公式が掲載した事前通告のPDF。一般質問で実際に話した内容や答弁は、録画・会議録等で確認する。",
+      "speakers": [
+        "村上信吉"
+      ]
+    },
+    {
+      "place": "鶴ヶ島市",
+      "season": "fall",
+      "date": "2026-09",
+      "id": "b8b2ddd978c7e571090b",
+      "title": "瀧嶋正紀議員・第３回定例会の一般質問通告書",
+      "url": "https://www.city.tsurugashima.lg.jp/data/doc/1788500834_doc_318_0.pdf",
+      "scope": "notice",
+      "kind": "一般質問通告（公式資料）",
+      "indexURL": "https://www.city.tsurugashima.lg.jp/gikai/nittei-gian-shitsumon/ippan/page012039.html",
+      "note": "公式が掲載した事前通告のPDF。一般質問で実際に話した内容や答弁は、録画・会議録等で確認する。",
+      "speakers": [
+        "瀧嶋正紀"
+      ]
+    },
+    {
+      "place": "鶴ヶ島市",
+      "season": "fall",
+      "date": "2026-09",
+      "id": "5960600f9ffdaf324f89",
+      "title": "福島恵美議員・第３回定例会の一般質問通告書",
+      "url": "https://www.city.tsurugashima.lg.jp/data/doc/1788500859_doc_318_0.pdf",
+      "scope": "notice",
+      "kind": "一般質問通告（公式資料）",
+      "indexURL": "https://www.city.tsurugashima.lg.jp/gikai/nittei-gian-shitsumon/ippan/page012039.html",
+      "note": "公式が掲載した事前通告のPDF。一般質問で実際に話した内容や答弁は、録画・会議録等で確認する。",
+      "speakers": [
+        "福島恵美"
+      ]
+    },
+    {
+      "place": "鶴ヶ島市",
+      "season": "fall",
+      "date": "2026-09",
+      "id": "a3b4b03d9da218cb52a0",
+      "title": "第３回定例会の公式一般質問件名一覧",
+      "url": "https://www.city.tsurugashima.lg.jp/data/doc/1787920965_doc_586_0.pdf",
+      "scope": "notice",
+      "kind": "一般質問通告（公式資料）",
+      "indexURL": "https://www.city.tsurugashima.lg.jp/gikai/nittei-gian-shitsumon/ippan/page012039.html",
+      "note": "公式が掲載した事前通告のPDF。一般質問で実際に話した内容や答弁は、録画・会議録等で確認する。",
+      "speakers": [
+        "小川茂",
+        "村上信吉",
+        "太田忠芳",
+        "小林ひとみ",
+        "髙篠雅洋",
+        "山中基充",
+        "大野洋子",
+        "長谷川清",
+        "瀧嶋正紀",
+        "大曽根英明",
+        "出雲敏太郎",
+        "福島恵美",
+        "小島幸広",
+        "今野雄一"
+      ]
+    },
+    {
+      "place": "鶴ヶ島市",
+      "season": "fall",
+      "date": "2026-09",
+      "id": "f8c990567fc1a2b2259a",
+      "title": "長谷川清議員・第３回定例会の一般質問通告書",
+      "url": "https://www.city.tsurugashima.lg.jp/data/doc/1788500846_doc_318_0.pdf",
+      "scope": "notice",
+      "kind": "一般質問通告（公式資料）",
+      "indexURL": "https://www.city.tsurugashima.lg.jp/gikai/nittei-gian-shitsumon/ippan/page012039.html",
+      "note": "公式が掲載した事前通告のPDF。一般質問で実際に話した内容や答弁は、録画・会議録等で確認する。",
+      "speakers": [
+        "長谷川清"
+      ]
+    },
+    {
+      "place": "鶴ヶ島市",
+      "season": "fall",
+      "date": "2026-09",
+      "id": "d88fe769552861b6979c",
+      "title": "髙篠雅洋議員・第３回定例会の一般質問通告書",
+      "url": "https://www.city.tsurugashima.lg.jp/data/doc/1788500830_doc_318_0.pdf",
+      "scope": "notice",
+      "kind": "一般質問通告（公式資料）",
+      "indexURL": "https://www.city.tsurugashima.lg.jp/gikai/nittei-gian-shitsumon/ippan/page012039.html",
+      "note": "公式が掲載した事前通告のPDF。一般質問で実際に話した内容や答弁は、録画・会議録等で確認する。",
+      "speakers": [
+        "髙篠雅洋"
+      ]
     }
   ],
   "coverage": [
@@ -37993,7 +38414,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/gyoda/WebView/rd/council_1.html",
-        "note": "議会だよりの一般質問17人・40問答を収録。公式録画の一般質問17人を４日分照合。紙面は正式会議録を12月に発行予定と案内。 公式録画の機械文字起こしを1件収録。"
+        "note": "議会だよりの一般質問17人・40問答を収録。公式録画の一般質問17人を４日分照合。紙面は正式会議録を12月に発行予定と案内。 公式録画の機械文字起こしを1件収録。 公式録画の機械文字起こしを3件収録。"
       }
     },
     {
@@ -38101,7 +38522,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/kazo/WebView/rd/council.html?year=2026&council_id=39",
-        "note": "公式録画一覧の一般質問20人のうち、7人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
+        "note": "公式録画一覧の一般質問20人のうち、8人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
       }
     },
     {
@@ -38155,7 +38576,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/higashimatsuyama/WebView/rd/council.html",
-        "note": "議会だよりの一般質問14人・87問答と公式録画４日14人を照合。正式会議録は確認中。"
+        "note": "議会だよりの一般質問14人・87問答と公式録画４日14人を照合。正式会議録は確認中。 公式録画の機械文字起こしを1件収録。"
       }
     },
     {
@@ -38182,7 +38603,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://kasukabe-city.stream.jfit.co.jp/?gikai_id=163&tpl=gikai_days_list",
-        "note": "第85号の一般質問28人の主要問答とその他29見出し、紙面３・４頁の会派等の討論５欄を原紙面と照合。一般質問は９月８・９・11・15・16日。氏名と発言日は公式録画目録と照合した。 正式会議録は確認中。"
+        "note": "第85号の一般質問28人の主要問答とその他29見出し、紙面３・４頁の会派等の討論５欄を原紙面と照合。一般質問は９月８・９・11・15・16日。氏名と発言日は公式録画目録と照合した。 正式会議録は確認中。 公式録画の機械文字起こしを1件収録。"
       }
     },
     {
@@ -38209,7 +38630,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://sayama.gijiroku.com/g07_Video_Search.asp",
-        "note": "16人の一般質問44問答とその他９見出し、議案質疑13組、決算討論２人、公式通告30大項目。公式録画のうち機械文字起こし3/16件。委員長報告４資料と教育委員会会議録の関連部分も収録。正式本会議録は確認中。"
+        "note": "16人の一般質問44問答とその他９見出し、議案質疑13組、決算討論２人、公式通告30大項目。公式録画のうち機械文字起こし4/16件。委員長報告４資料と教育委員会会議録の関連部分も収録。正式本会議録は確認中。"
       }
     },
     {
@@ -38423,7 +38844,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "議会だより第236号の一般質問22人・37主題と４常任委員会13組を収録。公式録画の機械文字起こし１件も参考収録。原音照合と正式会議録は確認中。",
+        "note": "議会だより第236号の一般質問22人・37主題と４常任委員会13組を収録。公式録画の機械文字起こし１件も参考収録。原音照合と正式会議録は確認中。 公式録画の機械文字起こしを3件収録。",
         "indexURL": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/GD032/GD032_002?id=0000055902&menu=000047"
       }
     },
@@ -38559,7 +38980,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://niiza-city.stream.jfit.co.jp/?tpl=gikai_days_list&gikai_id=96",
-        "note": "新座の公式録画から機械文字起こし9人分を参考収録。議会だより第238号の質問・答弁要旨はPDF７頁を収録。原音照合と正式会議録は確認中。"
+        "note": "新座の公式録画から機械文字起こし10人分を参考収録。議会だより第238号の質問・答弁要旨はPDF７頁を収録。原音照合と正式会議録は確認中。"
       }
     },
     {
@@ -38825,7 +39246,8 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+        "indexURL": "https://smart.discussvision.net/smart/tenant/tsurugashima/WebView/rd/council.html?year=2026&council_id=89",
+        "note": "第219号の一般質問14人14問答、決算審査８組、請願の委員会質疑３組、紙面コメント15人を照合。９月16日５人、17日５人、18日４人の公式録画、通告PDF15資料と29大項目。正式会議録は確認中。"
       }
     },
     {
@@ -38852,7 +39274,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/hidaka/WebView/rd/council.html?year=2026&council_id=54",
-        "note": "公式録画一覧の一般質問12人のうち、9人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
+        "note": "公式録画一覧の一般質問12人のうち、10人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
       }
     },
     {
@@ -39419,7 +39841,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/council.html?year=2026&council_id=45",
-        "note": "公式録画一覧の一般質問10人のうち、7人の映像音声を機械文字起こしとして収録。正式会議録は確認中。議会だよりの質問・答弁要旨も収録。"
+        "note": "公式録画一覧の一般質問10人のうち、8人の映像音声を機械文字起こしとして収録。正式会議録は確認中。議会だよりの質問・答弁要旨も収録。"
       }
     },
     {
@@ -39536,7 +39958,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://matsubushi-town.stream.jfit.co.jp/?tpl=gikai_days_list&gikai_id=2",
-        "note": "公式録画一覧の一般質問9人のうち、8人の映像音声を機械文字起こしとして収録。正式会議録は確認中。議会だよりの紙面要約（26論点）も収録。"
+        "note": "公式録画一覧の一般質問9人のうち、9人の映像音声を機械文字起こしとして収録。正式会議録は確認中。議会だよりの紙面要約（26論点）も収録。"
       }
     }
   ]
