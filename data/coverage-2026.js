@@ -7481,21 +7481,21 @@ GIKAI.coverage2026 = {
       "place": "横瀬町",
       "season": "fall",
       "label": "2026年秋の定例会",
-      "fromDate": "",
-      "toDate": "",
+      "fromDate": "2026-09-10",
+      "toDate": "2026-09-11",
       "planned": false,
       "materials": {
         "meeting": {
-          "state": "identified",
-          "note": "対象資料の案内を確認。項目の取込・照合範囲は未確定。"
+          "state": "verified",
+          "note": "公式会期日程と議会だよりで９月10～11日の会期を照合。"
         },
         "activity": {
           "state": "partial",
           "note": "この時期の掲載項目 14件。通告・目次・本文の別は活動の出典に表示。"
         },
         "text": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "第152号の一般質問６人・11問答を収録。公式日程は10日を一般質問日としている。正式会議録と発言日は確認中。"
         },
         "decisions": {
           "state": "pending",
@@ -7506,8 +7506,8 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "中学校体育館の空調設計公募と、よこぜ健幸ひろばの開始・効果検証の２事例を収録。"
         }
       },
       "sources": [
@@ -7518,6 +7518,14 @@ GIKAI.coverage2026 = {
         {
           "label": "会期資料　2026年9月定例会",
           "url": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/09/・令和8年9月定例会一般質問通告一覧表.pdf"
+        },
+        {
+          "label": "令和８年第４回定例会・公式会期日程",
+          "url": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/09/・令和8年9月定例会会期日程.pdf"
+        },
+        {
+          "label": "よこぜ議会ナビ第152号・一般質問",
+          "url": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=6"
         }
       ]
     },
