@@ -4,7 +4,7 @@
 
 確認日 2026-11-25。県議会と全63市町村の192会期枠を対象に、64議会・188枠で会議録、紙面の問答、録画の機械文字起こし、または公開自動字幕を収録。本文・要旨等が未収録の4枠にも確認先を示す。
 
-収録資料 2,311件（事前の一般質問通告4件を含む）。147枠では、原典の目次・索引等にある本会議の日別資料、一般質問日または掲載項目と収録範囲を照合した。
+収録資料 2,312件（事前の一般質問通告5件を含む）。147枠では、原典の目次・索引等にある本会議の日別資料、一般質問日または掲載項目と収録範囲を照合した。
 
 | 資料の種類 | 件数 |
 | --- | ---: |
@@ -17,18 +17,18 @@
 | 公式会議録（議会運営委員会） | 8 |
 | 委員長報告（公式資料） | 28 |
 | 議事概要（公式資料） | 1 |
-| 一般質問通告（公式資料） | 4 |
-| 議会だよりの質問・答弁要旨（OCR） | 36 |
+| 一般質問通告（公式資料） | 5 |
+| 議会だよりの質問・答弁要旨（OCR） | 35 |
 | 公式会議録PDFのOCR転記 | 16 |
 | 公開会議録（閲覧用） | 11 |
 | 議会だよりの質問・答弁要旨（HTML） | 2 |
-| 議会だよりの質問・答弁（紙面要約） | 17 |
+| 議会だよりの質問・答弁（紙面要約） | 18 |
 | 公式録画の機械文字起こし | 70 |
 | 公式録画の公開自動字幕 | 48 |
 
 本会議録の日別資料には当日の議事も含まれる。県議会の速報版は質問・答弁の掲載項目ごと。議会だよりは質問者による編集要約等を含む。PDFのOCR転記と、紙面を照合して作った要約には原本の頁番号を付けた。
 
-政策事例は101件。複数議会に関係する事例は、該当する各議会の行にも数えた。上尾市の放課後の居場所事業と２校の入所申込、久喜市の清掃センター集約に伴う費用分担の質疑と事務委託の可決、狭山市の調節池工事の再発防止などを出典とともに追える。全体の政策経過の照合は進行中。
+政策事例は104件。複数議会に関係する事例は、該当する各議会の行にも数えた。上尾市の放課後の居場所事業と２校の入所申込、久喜市の清掃センター集約に伴う費用分担の質疑と事務委託の可決、狭山市の調節池工事の再発防止などを出典とともに追える。全体の政策経過の照合は進行中。
 
 ## 議会別の収録と確認先
 
@@ -95,7 +95,7 @@
 | 神川町 | [本会議録4資料](https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteBrowse.html?tenant_id=73&view_years=2026)<br>公式掲載目次と照合 | [本会議録2資料](https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteBrowse.html?tenant_id=73&view_years=2026)<br>公式掲載目次と照合 | [事前の質問要旨・9人](https://www.town.kamikawa.saitama.jp/soshiki/gikai/nittei/reiwa6_2/6817.html)<br>発言・答弁を確認中 | — |
 | 上里町 | [本会議録6資料・PDF計259頁](https://www.town.kamisato.saitama.jp/7977.htm)<br>公式掲載目次と照合 | [本文・要旨 1件](https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf)<br>[機械文字起こし4件](https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/council.html?year=2026&council_id=45)・正式会議録を確認中 | [公式録画一覧](https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/council.html?year=2026&council_id=47)<br>機械文字起こし6件・正式会議録を確認中 | — |
 | 寄居町 | [本会議録8資料](https://ssp.kaigiroku.net/tenant/yorii/SpMinuteBrowse.html?tenant_id=232&view_years=2026)<br>公式掲載目次と照合 | [本会議録4資料](https://ssp.kaigiroku.net/tenant/yorii/SpMinuteBrowse.html?tenant_id=232&view_years=2026)<br>公式掲載目次と照合 | [公式録画一覧](https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/council.html?year=2026&council_id=39)<br>機械文字起こし4件・正式会議録を確認中 | 3 |
-| 宮代町 | [本会議録8資料](https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteBrowse.html?tenant_id=224&view_years=2026)<br>公式掲載目次と照合 | [本会議録5資料](https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteBrowse.html?tenant_id=224&view_years=2026)<br>公式掲載目次と照合 | [本文・要旨 1件](https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27014/gikaidayori140.pdf)<br>一部収録 | — |
+| 宮代町 | [本会議録8資料](https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteBrowse.html?tenant_id=224&view_years=2026)<br>公式掲載目次と照合 | [本会議録5資料](https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteBrowse.html?tenant_id=224&view_years=2026)<br>公式掲載目次と照合 | [議会だより12人・47問答](https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27014/gikaidayori140.pdf#page=12)<br>会計・議案の質疑43問答、討論14件<br>[公式録画３日・12人](https://smart.discussvision.net/smart/tenant/miyashiro/WebView/rd/council.html?year=2026&council_id=32)・[記名19行](https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27014/gikaidayori140.pdf#page=19)・正式会議録を確認中 | 4 |
 | 杉戸町 | [本会議録7資料](https://ssp.kaigiroku.net/tenant/sugito/SpMinuteBrowse.html?tenant_id=78&view_years=2026)<br>公式掲載目次と照合 | [本会議録5資料](https://ssp.kaigiroku.net/tenant/sugito/SpMinuteBrowse.html?tenant_id=78&view_years=2026)<br>公式掲載目次と照合 | [本文・要旨 1件](https://www.town.sugito.lg.jp/uploaded/attachment/18196.pdf)<br>一部収録 | — |
 | 松伏町 | [本会議録9資料](https://www.town.matsubushi.saitama.dbsr.jp/100000?QueryType=new&Template=list&ListOrder=asc&Cabinet=1&TermStart=2026-02-26&TermEnd=2026-03-19)<br>公式掲載目次と照合 | [本会議録4資料](https://www.town.matsubushi.saitama.dbsr.jp/100000?QueryType=new&Template=list&ListOrder=asc&Cabinet=1&TermStart=2026-06-05&TermEnd=2026-06-15)<br>公式掲載目次と照合 | [議会だよりの紙面要約26論点](https://www.town.matsubushi.lg.jp/0000003130.html)<br>[機械文字起こし8件](https://matsubushi-town.stream.jfit.co.jp/?tpl=gikai_days_list&gikai_id=2)・正式会議録を確認中 | — |
 
@@ -120,6 +120,9 @@
 - 横瀬町は「よこぜ議会ナビ」第152号の一般質問６人・11問答とその他の質問２欄・４見出しを原紙面と照合した。公式日程では９月10日に一般質問を予定し、紙面で６人の登壇を確認した。中学校体育館の空調は３月の質疑、設計委託費880万円を含む補正予算の可決、設計公募をつないだ。よこぜ健幸ひろばは事業構想、開始後の評価指標に関する質疑、11月回の案内を収録した。 [よこぜ議会ナビ第152号](https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=6)・[補正予算書](https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/09/9_議案第42号-令和8年度横瀬町一般会計補正予算第3号.pdf#page=30)・[空調設計の公募](https://www.town.yokoze.saitama.jp/jigyosha/nyusatsu-keiyaku/63851)・[健幸ひろばの11月実施案内](https://www.town.yokoze.saitama.jp/anzen/musen/82106)
 - 横瀬町は紙面４頁の22行・10人の表決欄を日程の議案番号と照合した。賛否が分かれたのは議案第37号の報酬等条例と、第47号の体験住宅指定管理者指定。報告への了承と請願の委員会付託の記名欄も原表の段階を表示した。各案件の個別の処理日と請願の最終結果は確認中。体験住宅の設置条例、候補者選定、指定議案の可決、町の利用案内は政策事例から追える。 [横瀬町の記名表](https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4)・[利用案内](https://www.town.yokoze.saitama.jp/shisetu-bunka/shisetsu-oshirase/63214)
 - 皆野町は第59号の一般質問５人・16問答、決算・補正予算の無記名６問答、秋の記名15行・12人欄を原紙面で照合。名簿欄の欠席と議長職務代行を保持した。学校統合準備では委員会視察、水泳授業の質疑、学校間交流を収録。デマンドタクシーの事例に住民説明会をめぐる質疑を補った。 [皆野町の紙面](https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/92100d92c95bb691d0d849b4595977d4.pdf#page=2)・[質問通告](https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/f3d1ba451d1da637b3d2b2bb29c668ce.pdf)
+- 宮代町第140号の一般質問12人・47問答、会計・議案の質疑43問答、討論14件を12～18頁・４～10頁の原紙面と照合した。８月31日・９月１日・２日の議員別の発言日は公式録画で照合し、通告37項目のうち紙面未掲載の７項目も案内した。 [議会だより](https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27014/gikaidayori140.pdf#page=12)・[公式通告](https://www.town.miyashiro.lg.jp/0000026565.html)
+- 宮代町は春28行、初夏37行、秋19行の公式審議結果と、秋の19行・13名欄を収録した。議案第49・50号は公式結果の「可決及び認定」。第58～60号は紙面９頁の賛成人数が19頁の記名表より各１人多く、原表の欠席と集計の差を注記した。 [春の結果](https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf)・[初夏の結果](https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf)・[秋の結果](https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26814/shingikekka0929.pdf)・[秋の表決表](https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27014/gikaidayori140.pdf#page=19)
+- 宮代町の政策事例に、上下水道料金の見直しと下水道事業経営戦略案への意見募集、プール改修の質疑と屋根工法の費用差、六花の視察と改修契約案の議決を追加。廃棄物処理の事例は久喜市と宮代町の双方から開き、宮代町の議決と10月13日の事務委託の告示が追える。 [全員協議会資料](https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27166/081119zshiryo3.pdf)・[委託告示](https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27033/jimunoitaku.pdf)
 - 小鹿野町は、町公式の会議録一覧から３月・６月の本会議録を取り込み、公式目次の全７日と照合した。９月定例会の会議録は一覧で未確認。
 - 小鹿野町は、議会だより第83号９～12頁と第84号５～８頁に掲載された一般質問の問答を原紙面と照合し、春６人・初夏７人分を整理した。両号の原表で確認した議決の記名表決52件を会議録と照合した。６月10日の倉尾の乗合タクシー利用登録者は、会議録の課長答弁が127人、紙面の要約が133人。紙面の人数の集計時点は確認中。[議会だより第83号](https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/04/ogano-gikai-83.pdf#page=8) [議会だより第84号](https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/08/ogano-gikai-84.pdf#page=4) [６月10日の本会議録](https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0806Tmain.html#0208)
 - 熊谷市の秋は議会だより第85号４～11頁に掲載された一般質問19人と、12～14頁の４常任委員会の主な質疑21組を紙面と照合して整理した。春40行・初夏28行・秋27行の公式審議結果を照合し、従来の議員提出分を合わせて記名表決93件を参照できる。初夏の議案第55号は議長の表決不参加と地方自治法第117条による退席、議提議案第７号は可否同数による議長裁決を原表で確認した。[熊谷市議会だより第85号](https://www.city.kumagaya.lg.jp/shigikai/gikaidayori/20261101.html) [春の審議結果](https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.html) [初夏の審議結果](https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.html) [秋の審議結果](https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.html)
@@ -204,7 +207,7 @@
 - 神川町・かみかわ町議会だより第83号 2～6頁・令和8年6月定例会。対象頁 4、qc_review_flags。 [原本](https://www.town.kamikawa.saitama.jp/material/files/group/18/gikaidayori83.pdf)
 - 熊谷市・くまがや市議会だより第85号（一般質問一覧・4頁）。対象頁 7、qc_review_flags。 [原本](https://www.city.kumagaya.lg.jp/shigikai/gikaidayori/20261101.files/85all.pdf)
 - 毛呂山町・毛呂山町議会だより134号・令和8年9月議会。対象頁 1、2、4、7、8、11、12、qc_review_flags。 [原本](https://www.town.moroyama.saitama.jp/material/files/group/2/gikaidayori134.pdf)
-- 宮代町・宮代町議会だより140号・秋の定例会。対象頁 1、2、3、4、6、8、9、10、12、14、16、17、18、19、20、qc_review_flags。 [原本](https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27014/gikaidayori140.pdf)
+- 宮代町・宮代町議会だより140号・秋の定例会。全頁のOCRには保留箇所があり、紙面照合済みの問答と討論を掲載。機械OCR要確認頁 1、2、3、4、6、8、9、10、12、14、16、17、18、19、20、qc_review_flags。 [原本](https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27014/gikaidayori140.pdf)
 - 行田市・ぎょうだ議会だより令和8年11月発行No.130 全ページ一括ダウンロード 全ページ (PDFファイル: 11.1MB)。対象頁 1、2、3、5、7、15、16、qc_review_flags。 [原本](https://www.city.gyoda.lg.jp/material/files/group/50/2611.pdf)
 - 新座市・市議会だより 令和8年第3回定例会 No238 議会だより（2026年11月25日発行号） （別ウィンドウ・PDFファイル・3.71MB）。対象頁 1、2、3、4、5、6、8、10、11、12、qc_review_flags。 [原本](https://www.city.niiza.lg.jp/uploaded/attachment/74879.pdf)
 - 八潮市・令和8年第3回定例会報告号（令和8年11月発行） 令和8年第3回定例会報告号（令和8年11月発行）（PDF：2,307KB）。対象頁 1、2、3、6、7、qc_review_flags。 [原本](https://www.city.yashio.lg.jp/gikai/gikaidayori/index.files/127yashioshig_p01-08.pdf)
