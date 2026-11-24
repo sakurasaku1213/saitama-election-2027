@@ -2385,7 +2385,8 @@ GIKAI.councilPolicyReviews = [
           }
         ],
         "followUp": "incomplete",
-        "followUpNote": "３会期の一般質問を対象。委員会・文書・事業資料などの横断照合は未了。"
+        "followUpNote": "３会期の一般質問を対象。委員会・文書・事業資料などの横断照合は未了。",
+        "caseTitle": "かわまるの予約難をめぐる増車検討と進捗"
       },
       {
         "id": "kwg-2026-044",
@@ -4065,7 +4066,8 @@ GIKAI.councilPolicyReviews = [
           }
         ],
         "followUp": "incomplete",
-        "followUpNote": "３会期の一般質問を対象。委員会・文書・事業資料などの横断照合は未了。"
+        "followUpNote": "３会期の一般質問を対象。委員会・文書・事業資料などの横断照合は未了。",
+        "caseTitle": "猫の不妊・去勢手術補助を事後申請１回に"
       },
       {
         "id": "kwg-2026-085",
@@ -6347,7 +6349,8 @@ GIKAI.councilPolicyReviews = [
           }
         ],
         "followUp": "incomplete",
-        "followUpNote": "３会期の一般質問を対象。委員会・文書・事業資料などの横断照合は未了。"
+        "followUpNote": "３会期の一般質問を対象。委員会・文書・事業資料などの横断照合は未了。",
+        "caseTitle": "観光財源の質問から法定外税の検討委員会条例まで"
       },
       {
         "id": "kwg-2026-138",
@@ -7433,7 +7436,8 @@ GIKAI.councilPolicyReviews = [
           }
         ],
         "followUp": "incomplete",
-        "followUpNote": "３会期の一般質問を対象。委員会・文書・事業資料などの横断照合は未了。"
+        "followUpNote": "３会期の一般質問を対象。委員会・文書・事業資料などの横断照合は未了。",
+        "caseTitle": "東中学校の更新を問う質疑と市の学校配置方針"
       },
       {
         "id": "kwg-2026-165",
@@ -12345,7 +12349,8 @@ GIKAI.councilPolicyReviews = [
           }
         ],
         "followUp": "open",
-        "followUpNote": "後続会期の資料はこの比較の対象期間外。"
+        "followUpNote": "後続会期の資料はこの比較の対象期間外。",
+        "caseTitle": "中学校の部活動を地域クラブへ広げるまで"
       },
       {
         "id": "kwg-2026-290",
@@ -12423,7 +12428,8 @@ GIKAI.councilPolicyReviews = [
           }
         ],
         "followUp": "open",
-        "followUpNote": "後続会期の資料はこの比較の対象期間外。"
+        "followUpNote": "後続会期の資料はこの比較の対象期間外。",
+        "caseTitle": "かわまるの予約難をめぐる増車検討と進捗"
       },
       {
         "id": "kwg-2026-292",
@@ -13053,57 +13059,246 @@ GIKAI.councilPolicyReviews = [
     ]
   }
 ];
-GIKAI.cases.push({
-  "title": "中学校の部活動を地域クラブへ広げるまで",
-  "place": "川越市",
-  "actors": [
-    "牛窪喜史",
-    "今野英子",
-    "川越市",
-    "川越市議会"
-  ],
-  "topic": "教育・文化スポーツ",
-  "steps": [
-    {
-      "date": "2026-03-05",
-      "actor": "牛窪喜史議員、市教育委員会等",
-      "stage": "一般質問・答弁",
-      "detail": "文化部の受皿、指導者、費用負担などを質問。市は音楽団体等の協力による実証や、地域クラブの認定を検討していると答えた。",
-      "url": "https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r08-0305_002",
-      "sourceTitle": "3月5日会議録・発言順11〜20"
-    },
-    {
-      "date": "2026-08",
-      "actor": "川越市",
-      "stage": "補正予算案",
-      "detail": "８月付の予算資料で、部活動の地域展開に397万4,000円を追加。文化系214万5,000円、運動系182万9,000円。",
-      "url": "https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/021/702/point8-02.pdf#page=3",
-      "sourceTitle": "令和8年度9月補正予算のポイント3頁"
-    },
-    {
-      "date": "2026-09-14",
-      "actor": "今野英子議員、市教育委員会等",
-      "stage": "採決前の質問・答弁",
-      "detail": "外部指導者の派遣実績と地域クラブの拡充状況を質問。市は直営８クラブの状況と、運動系10クラブを追加する補正予算案を説明した。",
-      "url": "https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r08-0914_002",
-      "sourceTitle": "9月14日会議録・発言順17〜28"
-    },
-    {
-      "date": "2026-09-29",
-      "actor": "川越市議会",
-      "stage": "可決結果を確認",
-      "detail": "９月29日現在の議決結果一覧で、関連経費を含む一般会計補正予算（第２号、議案第84号）の原案可決を確認。",
-      "url": "https://www.city.kawagoe.saitama.jp/shigikai/shingi/1007573.html",
-      "sourceTitle": "川越市議会・令和８年第４回定例会の議決結果"
-    },
-    {
-      "date": "2026-10-01",
-      "actor": "川越市",
-      "stage": "認定２団体を確認",
-      "detail": "10月１日現在の一覧には、９月18日と28日に認定された運動系２団体が掲載されている。",
-      "url": "https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/958/nintei_ichiran_261001.pdf",
-      "sourceTitle": "川越市・地域クラブ活動の認定一覧（10月1日現在）"
-    }
-  ],
-  "note": "補正予算は９月14日の質問より前の８月付の資料に掲載。認定２団体は市の認定制度の実績で、直営クラブの追加数とは別に公表されている。"
-});
+GIKAI.cases.push(...[
+  {
+    "place": "川越市",
+    "title": "猫の不妊・去勢手術補助を事後申請１回に",
+    "topic": "動物愛護・行政手続",
+    "actors": [
+      "栗原瑞治",
+      "川越市"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-12",
+        "actor": "栗原瑞治、川越市保健医療部",
+        "stage": "一般質問と変更予定の答弁",
+        "detail": "申請から交付までの時間や手間を取り上げ、手続きを簡素にする方法を確認。市は要綱を改め、令和８年度から手術後１回の申請にする予定と答えた。",
+        "url": "https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r08-0312_002",
+        "sourceTitle": "川越市議会の3月12日会議録・発言順13〜20"
+      },
+      {
+        "date": "2026-04-01",
+        "actor": "川越市",
+        "stage": "手続変更を実施",
+        "detail": "手術前の申請と手術後の報告を要した手順を、手術後の申請１回に変更。窓口又は郵送で新しい申請書を受け付ける。",
+        "url": "https://www.city.kawagoe.saitama.jp/kurashi/s-kankyo/1002982/1002989/1002998.html",
+        "sourceTitle": "川越市・補助金交付制度"
+      },
+      {
+        "date": "2026-11-16",
+        "actor": "川越市",
+        "stage": "11月16日時点の予算執行状況",
+        "detail": "市の案内は、10月に始まった第２期について、11月16日時点で予算31万4,000円、執行7,000円と掲載。",
+        "url": "https://www.city.kawagoe.saitama.jp/kurashi/s-kankyo/1002982/1002989/1002998.html",
+        "sourceTitle": "川越市・第２期の予算執行状況"
+      }
+    ],
+    "note": "一般質問では市が予定していた変更を確認できる。制度変更の決定と実施は市の資料に記録されている。"
+  },
+  {
+    "place": "川越市",
+    "title": "東中学校の更新を問う質疑と市の学校配置方針",
+    "topic": "教育・公共施設",
+    "actors": [
+      "高橋剛",
+      "川越市教育委員会",
+      "川越市立小中学校適正規模・適正配置審議会"
+    ],
+    "steps": [
+      {
+        "date": "2025-12-22",
+        "actor": "川越市立小中学校適正規模・適正配置審議会",
+        "stage": "基本方針に先立つ答申",
+        "detail": "市立小中学校の将来の規模・配置について、審議会が教育長に答申した。",
+        "url": "https://www.city.kawagoe.saitama.jp/shisei/seisaku/1008588/1008763/1008875/1014496.html",
+        "sourceTitle": "川越市・審議会の結果"
+      },
+      {
+        "date": "2026-06-12",
+        "actor": "高橋剛、川越市学校教育部",
+        "stage": "一般質問と答弁",
+        "detail": "古谷地区の学校の老朽化や将来の生徒数を挙げ、東中学校の更新を質問。市は同じ校種の統合や小中一体化を含めて検討する考えを示した。",
+        "url": "https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r08-0612_007",
+        "sourceTitle": "川越市議会の6月12日会議録・発言順81〜82"
+      },
+      {
+        "date": "2026-06-15",
+        "actor": "高橋剛、川越市教育委員会等",
+        "stage": "同じ一般質問の続き",
+        "detail": "通学区域、敷地、財源や他施設との複合化を踏まえ、移転建て替えの検討を要望。市は基本方針を策定し、その後、地区ごとの計画を進めると答えた。",
+        "url": "https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r08-0615_001",
+        "sourceTitle": "川越市議会の6月15日会議録・発言順4〜8"
+      },
+      {
+        "date": "2026-07",
+        "actor": "川越市教育委員会",
+        "stage": "基本方針を策定",
+        "detail": "学級規模や施設の著しい老朽化などを優先検討の基準とした。通学距離・地域事情を考慮し、関係者の意見を聴きながら検討を進める。",
+        "url": "https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/574/080716_kihonnhousinn.pdf#page=11",
+        "sourceTitle": "市立小中学校適正規模・適正配置基本方針・本文9頁"
+      }
+    ],
+    "note": "市が公表した到達点は全市の基本方針。東中学校の移転先・工期・予算は、この資料では確認できない。"
+  },
+  {
+    "place": "川越市",
+    "title": "観光財源の質問から法定外税の検討委員会条例まで",
+    "topic": "観光・財政",
+    "actors": [
+      "粂真美子",
+      "小高浩行",
+      "高橋剛",
+      "海沼秀幸",
+      "中原秀文",
+      "須藤直樹",
+      "桐野忠",
+      "柿田有一",
+      "川越市議会",
+      "川越市"
+    ],
+    "steps": [
+      {
+        "date": "2026-06-11",
+        "actor": "粂真美子、川越市財政部",
+        "stage": "一般質問と調査研究の答弁",
+        "detail": "日帰り観光客が多い川越の財源として宿泊税以外も検討するよう論点を示した。市は庁内で令和６年度から他市の事例や導入の可能性を調べていると答えた。",
+        "url": "https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r08-0611_005",
+        "sourceTitle": "川越市議会の6月11日会議録・発言順67〜68"
+      },
+      {
+        "date": "2026-09-03",
+        "actor": "小高浩行、粂真美子、高橋剛、川越市財政部等",
+        "stage": "議案第72号への質疑",
+        "detail": "条例案を審議し、小高は手続と委員構成、粂は導入の是非・税目を含む検討範囲、高橋は徴収を担う事業者の負担などを質した。市は外部の知見を入れて導入の可否と制度設計を検討すると説明した。",
+        "url": "https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=document&Id=4308#all",
+        "sourceTitle": "川越市議会の9月3日会議録・議案第72号（発言順79以降）"
+      },
+      {
+        "date": "2026-09-16",
+        "actor": "中原秀文、須藤直樹、桐野忠、柿田有一、総務財政常任委員会",
+        "stage": "委員会質疑・審査",
+        "detail": "中原は課税以外の選択肢との比較、須藤は条例以外に定める運営事項、桐野は寄せられた意見、柿田は郊外の住民の意見聴取を確認。委員会は説明と質疑を経て原案可決すべきものと決めた。",
+        "url": "https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=document&Id=4315#all",
+        "sourceTitle": "9月16日 総務財政常任委員会会議録・発言順223〜235"
+      },
+      {
+        "date": "2026-09-29",
+        "actor": "川越市議会",
+        "stage": "条例案を原案可決",
+        "detail": "本会議で委員長報告どおり議案第72号を原案可決した。",
+        "url": "https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=document&Id=4320#all",
+        "sourceTitle": "川越市議会の9月29日会議録・議案第72号の採決"
+      },
+      {
+        "date": "2026-09-29",
+        "actor": "川越市長",
+        "stage": "検討委員会の条例を公布・施行",
+        "detail": "市長の諮問に応じて法定外税の導入を検討する委員会を置く条例を公布。附則により公布日から施行した。",
+        "url": "https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/993/textdata.pdf",
+        "sourceTitle": "川越市条例第29号・第1条及び附則"
+      }
+    ],
+    "note": "粂真美子については一般質問後の議案質疑も確認できる。資料上の到達点は検討機関の設置で、課税の開始日は確認できない。"
+  },
+  {
+    "place": "川越市",
+    "title": "かわまるの予約難をめぐる増車検討と進捗",
+    "topic": "公共交通",
+    "actors": [
+      "小ノ澤哲也",
+      "柿田有一",
+      "川越市交通政策審議会",
+      "川越市"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-06",
+        "actor": "小ノ澤哲也、川越市都市計画部",
+        "stage": "一般質問と増車費の試算",
+        "detail": "予約不成立や地区差を取り上げ、各地区を２台にした場合と午前だけ増車した場合の費用を質問。市は試算と審議会での検討状況を説明した。",
+        "url": "https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r08-0306_004",
+        "sourceTitle": "川越市議会の3月6日会議録・発言順44〜49"
+      },
+      {
+        "date": "2026-08-18",
+        "actor": "川越市交通政策審議会事務局",
+        "stage": "見直しを協議",
+        "detail": "追加車両を導入する手法などは庁内で検討中と説明。予約成立率と乗合率の向上に向け、実証運行も選択肢に挙げた。",
+        "url": "https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/953/r8.1.shingikai/01kaigiyoushi.pdf#page=10",
+        "sourceTitle": "第１回交通政策審議会・会議要旨10頁"
+      },
+      {
+        "date": "2026-09-14",
+        "actor": "柿田有一、川越市都市計画部",
+        "stage": "一般質問と利用状況の答弁",
+        "detail": "かわまるの予約難と改善策を質問。市は令和７年度の予約成立率58.8％を示し、利用状況を踏まえて改善策を検討すると答えた。",
+        "url": "https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r08-0914_003",
+        "sourceTitle": "川越市議会の9月14日会議録・発言順34、38〜42"
+      },
+      {
+        "date": "2026-10-15",
+        "actor": "川越市交通政策審議会・事務局",
+        "stage": "予約成立率の改善を引き続き協議",
+        "detail": "委員から福祉部局と協力して利用者の声を聞く提案があった。事務局は高齢者の移動支援について議論し、福祉部局と高齢者向け調査の結果を共有したと説明した。",
+        "url": "https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/023/214/r8.2.shingikai/00kaigiyoushi.pdf#page=2",
+        "sourceTitle": "第２回交通政策審議会・会議要旨2〜3頁"
+      }
+    ],
+    "note": "審議会の要旨は発言者を「委員」「事務局」と記載している。増車の決定・実施はこれらの資料では確認できない。"
+  },
+  {
+    "title": "中学校の部活動を地域クラブへ広げるまで",
+    "place": "川越市",
+    "actors": [
+      "牛窪喜史",
+      "今野英子",
+      "川越市",
+      "川越市議会"
+    ],
+    "topic": "教育・文化スポーツ",
+    "steps": [
+      {
+        "date": "2026-03-05",
+        "actor": "牛窪喜史議員、市教育委員会等",
+        "stage": "一般質問・答弁",
+        "detail": "文化部の受皿、指導者、費用負担などを質問。市は音楽団体等の協力による実証や、地域クラブの認定を検討していると答えた。",
+        "url": "https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r08-0305_002",
+        "sourceTitle": "3月5日会議録・発言順11〜20"
+      },
+      {
+        "date": "2026-08",
+        "actor": "川越市",
+        "stage": "補正予算案",
+        "detail": "８月付の予算資料で、部活動の地域展開に397万4,000円を追加。文化系214万5,000円、運動系182万9,000円。",
+        "url": "https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/021/702/point8-02.pdf#page=3",
+        "sourceTitle": "令和8年度9月補正予算のポイント3頁"
+      },
+      {
+        "date": "2026-09-14",
+        "actor": "今野英子議員、市教育委員会等",
+        "stage": "採決前の質問・答弁",
+        "detail": "外部指導者の派遣実績と地域クラブの拡充状況を質問。市は直営８クラブの状況と、運動系10クラブを追加する補正予算案を説明した。",
+        "url": "https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r08-0914_002",
+        "sourceTitle": "9月14日会議録・発言順17〜28"
+      },
+      {
+        "date": "2026-09-29",
+        "actor": "川越市議会",
+        "stage": "可決結果を確認",
+        "detail": "９月29日現在の議決結果一覧で、関連経費を含む一般会計補正予算（第２号、議案第84号）の原案可決を確認。",
+        "url": "https://www.city.kawagoe.saitama.jp/shigikai/shingi/1007573.html",
+        "sourceTitle": "川越市議会・令和８年第４回定例会の議決結果"
+      },
+      {
+        "date": "2026-10-01",
+        "actor": "川越市",
+        "stage": "認定２団体を確認",
+        "detail": "10月１日現在の一覧には、９月18日と28日に認定された運動系２団体が掲載されている。",
+        "url": "https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/958/nintei_ichiran_261001.pdf",
+        "sourceTitle": "川越市・地域クラブ活動の認定一覧（10月1日現在）"
+      }
+    ],
+    "note": "補正予算は９月14日の質問より前の８月付の資料に掲載。認定２団体は市の認定制度の実績で、直営クラブの追加数とは別に公表されている。"
+  }
+]);

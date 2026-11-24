@@ -258,6 +258,11 @@ for (const comparison of data.councilPolicyReviews) {
     assert.ok(issue.id && issue.title && !issued.has(issue.id), issue.id);
     issued.set(issue.id, issue);
     assert.ok(issue.items.length && issue.outcomes.length && followUpStates.has(issue.followUp));
+    if (issue.caseTitle) {
+      const related = data.cases.find((item) =>
+        item.place === comparison.place && item.title === issue.caseTitle);
+      assert.ok(related?.actors.includes(issue.name), issue.id);
+    }
     assert.equal(issue.followUp === "confirmed", Boolean(issue.actions?.length), issue.id);
     const references = new Set();
     for (const item of issue.items) {
@@ -325,6 +330,16 @@ for (const bill of coverage.decisions) {
     assert.ok(bill.voteType && Object.keys(bill.votes).length);
     validLink(bill.voteURL);
   }
+}
+const matsubushiVotes = coverage.decisions.filter((bill) => bill.place === "松伏町" && bill.season === "fall");
+assert.equal(matsubushiVotes.length, 20);
+for (const bill of matsubushiVotes) {
+  assert.equal(Object.keys(bill.votes).length, 12, bill.number);
+  assert.ok(Object.values(bill.votes).every((vote) =>
+    ["賛成", "反対", "欠席", "提出者"].includes(vote)), bill.number);
+  const presenters = Object.entries(bill.votes).filter(([, vote]) => vote === "提出者");
+  assert.equal(presenters.length, bill.number.startsWith("発議") ? 1 : 0);
+  if (presenters.length) assert.equal(presenters[0][0], bill.proposer);
 }
 for (const review of coverage.policy) {
   assert.ok(coverageSlots.has(review.place + "|" + review.season));

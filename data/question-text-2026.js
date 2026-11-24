@@ -17533,6 +17533,92 @@ GIKAI.questionText = {
       "speakers": []
     },
     {
+      "id": "10bfb798c3f12bdd5323",
+      "place": "川越市",
+      "season": "spring",
+      "date": "2026-02-24",
+      "url": "https://www.city.kawagoe.saitama.dbsr.jp/151580?Template=document&Id=4270#all",
+      "title": "令和8年第1回定例会(第1日・2月24日) 本文",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "定例会の公式目次から、一般質問日以外の本会議の本文を収録。議案の質疑、上程、議決などを含みます。",
+      "speakers": [
+        "中村文明"
+      ]
+    },
+    {
+      "id": "9ad352cd3e6e996a1b3f",
+      "place": "川越市",
+      "season": "spring",
+      "date": "2026-02-27",
+      "url": "https://www.city.kawagoe.saitama.dbsr.jp/151580?Template=document&Id=4271#all",
+      "title": "令和8年第1回定例会(第4日・2月27日) 本文",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "定例会の公式目次から、一般質問日以外の本会議の本文を収録。議案の質疑、上程、議決などを含みます。",
+      "speakers": [
+        "中村文明",
+        "吉敷賢一郎",
+        "吉野郁惠",
+        "山木綾子",
+        "川口知子",
+        "桐野忠",
+        "神田賢志"
+      ]
+    },
+    {
+      "id": "abe1ea93c55327b24379",
+      "place": "川越市",
+      "season": "spring",
+      "date": "2026-03-02",
+      "url": "https://www.city.kawagoe.saitama.dbsr.jp/151580?Template=document&Id=4272#all",
+      "title": "令和8年第1回定例会(第7日・3月2日) 本文",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "定例会の公式目次から、一般質問日以外の本会議の本文を収録。議案の質疑、上程、議決などを含みます。",
+      "speakers": [
+        "中村文明",
+        "今野英子",
+        "伊藤正子",
+        "加藤みなこ",
+        "小島洋一",
+        "小林範子",
+        "嶋田弘二",
+        "江田崇",
+        "池浜あけみ",
+        "海沼秀幸",
+        "片野広隆",
+        "田畑たき子",
+        "粂真美子",
+        "鈴木謙一郎",
+        "須藤直樹",
+        "高橋剛"
+      ]
+    },
+    {
+      "id": "b3ae4dcae78977006af9",
+      "place": "川越市",
+      "season": "spring",
+      "date": "2026-03-03",
+      "url": "https://www.city.kawagoe.saitama.dbsr.jp/151580?Template=document&Id=4273#all",
+      "title": "令和8年第1回定例会(第8日・3月3日) 本文",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "定例会の公式目次から、一般質問日以外の本会議の本文を収録。議案の質疑、上程、議決などを含みます。",
+      "speakers": [
+        "中村文明",
+        "今野英子",
+        "伊藤正子",
+        "倉嶋真史",
+        "加藤みなこ",
+        "小ノ澤哲也",
+        "小島洋一",
+        "柿田有一",
+        "片野広隆",
+        "神田賢志"
+      ]
+    },
+    {
       "id": "d313ad747fa52d095cce",
       "place": "川越市",
       "season": "spring",
@@ -17623,6 +17709,188 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "f008a384fe37835c0095",
+      "place": "川越市",
+      "season": "spring",
+      "date": "2026-03-16",
+      "url": "https://www.city.kawagoe.saitama.dbsr.jp/244788?Template=document&Id=4278#all",
+      "title": "令和8年 文化教育常任委員会 会期中(第1日・3月16日)本文",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "議会会議録ライブラリに掲載された、会期中の常任委員会の本文。",
+      "speakers": [
+        "川口知子",
+        "松本きみ",
+        "江田崇",
+        "片野広隆"
+      ]
+    },
+    {
+      "id": "898caa86f79b2c485d23",
+      "place": "川越市",
+      "season": "spring",
+      "date": "2026-03-16",
+      "url": "https://www.city.kawagoe.saitama.dbsr.jp/223185?Template=document&Id=4279#all",
+      "title": "令和8年 総務財政常任委員会 会期中(第1日・3月16日)本文",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "議会会議録ライブラリに掲載された、会期中の常任委員会の本文。",
+      "speakers": [
+        "中原秀文",
+        "倉嶋真史副",
+        "川口啓介",
+        "柳沢貴雄",
+        "柿田有一",
+        "桐野忠",
+        "須藤直樹"
+      ]
+    },
+    {
+      "id": "5a0786cb9e4bbe190b87",
+      "place": "川越市",
+      "season": "spring",
+      "date": "2026-03-17",
+      "url": "https://www.city.kawagoe.saitama.dbsr.jp/313030?Template=document&Id=4280#all",
+      "title": "令和8年 保健福祉常任委員会 会期中(第1日・3月17日)本文",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "議会会議録ライブラリに掲載された、会期中の常任委員会の本文。",
+      "speakers": [
+        "伊藤正子",
+        "加藤みなこ",
+        "吉敷賢一郎",
+        "小林透",
+        "小高浩行",
+        "池浜あけみ",
+        "田畑たき子"
+      ]
+    },
+    {
+      "id": "991b15989c54daaecbcd",
+      "place": "川越市",
+      "season": "spring",
+      "date": "2026-03-17",
+      "url": "https://www.city.kawagoe.saitama.dbsr.jp/114095?Template=document&Id=4281#all",
+      "title": "令和8年 産業建設常任委員会 会期中(第1日・3月17日)本文",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "議会会議録ライブラリに掲載された、会期中の常任委員会の本文。",
+      "speakers": [
+        "今野英子",
+        "吉野郁惠",
+        "小ノ澤哲也",
+        "小林範子",
+        "嶋田弘二副",
+        "栗原瑞治",
+        "神田賢志",
+        "高橋剛"
+      ]
+    },
+    {
+      "id": "9f38f9835d6ea2892a18",
+      "place": "川越市",
+      "season": "spring",
+      "date": "2026-03-18",
+      "url": "https://www.city.kawagoe.saitama.dbsr.jp/313030?Template=document&Id=4283#all",
+      "title": "令和8年 保健福祉常任委員会 会期中(第2日・3月18日)本文",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "議会会議録ライブラリに掲載された、会期中の常任委員会の本文。",
+      "speakers": [
+        "伊藤正子",
+        "吉敷賢一郎",
+        "小高浩行",
+        "池浜あけみ",
+        "田畑たき子"
+      ]
+    },
+    {
+      "id": "b83a80b11f4f0562c7ee",
+      "place": "川越市",
+      "season": "spring",
+      "date": "2026-03-18",
+      "url": "https://www.city.kawagoe.saitama.dbsr.jp/244788?Template=document&Id=4282#all",
+      "title": "令和8年 文化教育常任委員会 会期中(第2日・3月18日)本文",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "議会会議録ライブラリに掲載された、会期中の常任委員会の本文。",
+      "speakers": [
+        "大石教育",
+        "小林薫",
+        "岡本教育",
+        "川口知子",
+        "村山博紀",
+        "松本きみ",
+        "片野広隆",
+        "鈴木教育",
+        "鈴木謙一郎副"
+      ]
+    },
+    {
+      "id": "c2dcd2799df7ac27d522",
+      "place": "川越市",
+      "season": "spring",
+      "date": "2026-03-25",
+      "url": "https://www.city.kawagoe.saitama.dbsr.jp/118231?Template=document&Id=4284#all",
+      "title": "令和8年第1回定例会(第30日・3月25日) 本文",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "定例会の公式目次から、一般質問日以外の本会議の本文を収録。議案の質疑、上程、議決などを含みます。",
+      "speakers": [
+        "中村文明",
+        "今野英子",
+        "伊藤正子",
+        "小林範子",
+        "小林薫",
+        "松本きみ",
+        "柿田有一",
+        "栗原瑞治"
+      ]
+    },
+    {
+      "id": "12e7ebd31df3e50f8545",
+      "place": "川越市",
+      "season": "summer",
+      "date": "2026-06-02",
+      "url": "https://www.city.kawagoe.saitama.dbsr.jp/144570?Template=document&Id=4291#all",
+      "title": "令和8年第3回定例会(第1日・6月2日) 本文",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "定例会の公式目次から、一般質問日以外の本会議の本文を収録。議案の質疑、上程、議決などを含みます。",
+      "speakers": [
+        "片野広隆"
+      ]
+    },
+    {
+      "id": "8218a193c089f3339723",
+      "place": "川越市",
+      "season": "summer",
+      "date": "2026-06-05",
+      "url": "https://www.city.kawagoe.saitama.dbsr.jp/144570?Template=document&Id=4292#all",
+      "title": "令和8年第3回定例会(第4日・6月5日) 本文",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "定例会の公式目次から、一般質問日以外の本会議の本文を収録。議案の質疑、上程、議決などを含みます。",
+      "speakers": [
+        "中村文明",
+        "今野英子",
+        "伊藤正子",
+        "加藤みなこ",
+        "小林範子",
+        "嶋田弘二",
+        "川口知子",
+        "松本きみ",
+        "柿田有一",
+        "江田崇",
+        "池浜あけみ",
+        "片野広隆",
+        "神田賢志",
+        "粂真美子",
+        "鈴木謙一郎",
+        "須藤直樹"
+      ]
+    },
+    {
       "id": "5020a7fc16eb7f9137da",
       "place": "川越市",
       "season": "summer",
@@ -17707,6 +17975,170 @@ GIKAI.questionText = {
         "池浜あけみ",
         "片野広隆",
         "高橋剛"
+      ]
+    },
+    {
+      "id": "dee5fdfc23b7eb00e90c",
+      "place": "川越市",
+      "season": "summer",
+      "date": "2026-06-17",
+      "url": "https://www.city.kawagoe.saitama.dbsr.jp/244788?Template=document&Id=4297#all",
+      "title": "令和8年 文化教育常任委員会 会期中(第1日・6月17日)本文",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "議会会議録ライブラリに掲載された、会期中の常任委員会の本文。",
+      "speakers": [
+        "中村文明",
+        "小林薫",
+        "川口知子",
+        "村山博紀",
+        "松本きみ",
+        "江田崇"
+      ]
+    },
+    {
+      "id": "acac8fb121f51f9865db",
+      "place": "川越市",
+      "season": "summer",
+      "date": "2026-06-17",
+      "url": "https://www.city.kawagoe.saitama.dbsr.jp/223185?Template=document&Id=4298#all",
+      "title": "令和8年 総務財政常任委員会 会期中(第1日・6月17日)本文",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "議会会議録ライブラリに掲載された、会期中の常任委員会の本文。",
+      "speakers": [
+        "中原秀文",
+        "川口啓介",
+        "柳沢貴雄",
+        "柿田有一",
+        "桐野忠",
+        "須藤直樹"
+      ]
+    },
+    {
+      "id": "17ba228814eea0bf2f60",
+      "place": "川越市",
+      "season": "summer",
+      "date": "2026-06-18",
+      "url": "https://www.city.kawagoe.saitama.dbsr.jp/313030?Template=document&Id=4299#all",
+      "title": "令和8年 保健福祉常任委員会 会期中(第1日・6月18日)本文",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "議会会議録ライブラリに掲載された、会期中の常任委員会の本文。",
+      "speakers": [
+        "伊藤正子",
+        "加藤みなこ",
+        "吉敷賢一郎",
+        "小林透",
+        "小高浩行",
+        "池浜あけみ",
+        "田畑たき子"
+      ]
+    },
+    {
+      "id": "f1008de5a1e940322722",
+      "place": "川越市",
+      "season": "summer",
+      "date": "2026-06-18",
+      "url": "https://www.city.kawagoe.saitama.dbsr.jp/114095?Template=document&Id=4300#all",
+      "title": "令和8年 産業建設常任委員会 会期中(第1日・6月18日)本文",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "議会会議録ライブラリに掲載された、会期中の常任委員会の本文。",
+      "speakers": [
+        "今野英子",
+        "吉野郁惠",
+        "小ノ澤哲也",
+        "小林範子",
+        "嶋田弘二副",
+        "栗原瑞治",
+        "神田賢志",
+        "高橋剛"
+      ]
+    },
+    {
+      "id": "822f643ef62c09f3b9d4",
+      "place": "川越市",
+      "season": "summer",
+      "date": "2026-06-24",
+      "url": "https://www.city.kawagoe.saitama.dbsr.jp/144570?Template=document&Id=4301#all",
+      "title": "令和8年第3回定例会(第23日・6月24日) 本文",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "定例会の公式目次から、一般質問日以外の本会議の本文を収録。議案の質疑、上程、議決などを含みます。",
+      "speakers": [
+        "倉嶋真史",
+        "吉野郁惠",
+        "小林透",
+        "小高浩行",
+        "川口知子",
+        "松本きみ",
+        "片野広隆",
+        "粂真美子"
+      ]
+    },
+    {
+      "id": "a9e33e94d8a4c76a44ab",
+      "place": "川越市",
+      "season": "fall",
+      "date": "2026-08-31",
+      "url": "https://www.city.kawagoe.saitama.dbsr.jp/407877?Template=document&Id=4307#all",
+      "title": "令和8年第4回定例会(第1日・8月31日) 本文",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "定例会の公式目次から、一般質問日以外の本会議の本文を収録。議案の質疑、上程、議決などを含みます。",
+      "speakers": [
+        "小ノ澤哲也",
+        "片野広隆"
+      ]
+    },
+    {
+      "id": "89acb7f24ab60e0968fb",
+      "place": "川越市",
+      "season": "fall",
+      "date": "2026-09-03",
+      "url": "https://www.city.kawagoe.saitama.dbsr.jp/407877?Template=document&Id=4308#all",
+      "title": "令和8年第4回定例会(第4日・9月3日) 本文",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "定例会の公式目次から、一般質問日以外の本会議の本文を収録。議案の質疑、上程、議決などを含みます。",
+      "speakers": [
+        "伊藤正子",
+        "小高浩行",
+        "川口啓介",
+        "松本きみ",
+        "柿田有一",
+        "江田崇",
+        "片野広隆",
+        "粂真美子",
+        "鈴木謙一郎",
+        "須藤直樹",
+        "高橋剛"
+      ]
+    },
+    {
+      "id": "65d15b8bba764a166351",
+      "place": "川越市",
+      "season": "fall",
+      "date": "2026-09-04",
+      "url": "https://www.city.kawagoe.saitama.dbsr.jp/407877?Template=document&Id=4309#all",
+      "title": "令和8年第4回定例会(第5日・9月4日) 本文",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "定例会の公式目次から、一般質問日以外の本会議の本文を収録。議案の質疑、上程、議決などを含みます。",
+      "speakers": [
+        "今野英子",
+        "伊藤正子",
+        "倉嶋真史",
+        "吉野郁惠",
+        "小林範子",
+        "嶋田弘二",
+        "川口知子",
+        "池浜あけみ",
+        "片野広隆",
+        "田畑たき子",
+        "神田賢志",
+        "須藤直樹"
       ]
     },
     {
@@ -17795,6 +18227,146 @@ GIKAI.questionText = {
         "池浜あけみ",
         "片野広隆",
         "高橋剛"
+      ]
+    },
+    {
+      "id": "a163a1ae8092681a88c0",
+      "place": "川越市",
+      "season": "fall",
+      "date": "2026-09-16",
+      "url": "https://www.city.kawagoe.saitama.dbsr.jp/244788?Template=document&Id=4314#all",
+      "title": "令和8年 文化教育常任委員会 会期中(第1日・9月16日)本文",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "議会会議録ライブラリに掲載された、会期中の常任委員会の本文。",
+      "speakers": [
+        "中村文明",
+        "大石教育",
+        "小林薫",
+        "岡本教育",
+        "川口知子",
+        "村山博紀",
+        "松本きみ",
+        "江田崇",
+        "鈴木教育"
+      ]
+    },
+    {
+      "id": "318a973471ea6e59446c",
+      "place": "川越市",
+      "season": "fall",
+      "date": "2026-09-16",
+      "url": "https://www.city.kawagoe.saitama.dbsr.jp/223185?Template=document&Id=4315#all",
+      "title": "令和8年 総務財政常任委員会 会期中(第1日・9月16日)本文",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "議会会議録ライブラリに掲載された、会期中の常任委員会の本文。",
+      "speakers": [
+        "中原秀文",
+        "倉嶋真史",
+        "川口啓介",
+        "柳沢貴雄",
+        "柿田有一",
+        "桐野忠",
+        "須藤直樹"
+      ]
+    },
+    {
+      "id": "36b2c9fd69a269866957",
+      "place": "川越市",
+      "season": "fall",
+      "date": "2026-09-17",
+      "url": "https://www.city.kawagoe.saitama.dbsr.jp/313030?Template=document&Id=4316#all",
+      "title": "令和8年 保健福祉常任委員会 会期中(第1日・9月17日)本文",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "議会会議録ライブラリに掲載された、会期中の常任委員会の本文。",
+      "speakers": [
+        "伊藤正子",
+        "加藤みなこ",
+        "小林透",
+        "小高浩行",
+        "池浜あけみ",
+        "田畑たき子"
+      ]
+    },
+    {
+      "id": "8d3ee449ff454a2f35f5",
+      "place": "川越市",
+      "season": "fall",
+      "date": "2026-09-17",
+      "url": "https://www.city.kawagoe.saitama.dbsr.jp/114095?Template=document&Id=4317#all",
+      "title": "令和8年 産業建設常任委員会 会期中(第1日・9月17日)本文",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "議会会議録ライブラリに掲載された、会期中の常任委員会の本文。",
+      "speakers": [
+        "今野英子",
+        "吉野郁惠",
+        "小ノ澤哲也",
+        "小林範子",
+        "栗原瑞治",
+        "神田賢志",
+        "高橋剛"
+      ]
+    },
+    {
+      "id": "163307c00e289706f24a",
+      "place": "川越市",
+      "season": "fall",
+      "date": "2026-09-18",
+      "url": "https://www.city.kawagoe.saitama.dbsr.jp/313030?Template=document&Id=4318#all",
+      "title": "令和8年 保健福祉常任委員会 会期中(第2日・9月18日)本文",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "議会会議録ライブラリに掲載された、会期中の常任委員会の本文。",
+      "speakers": [
+        "伊藤正子",
+        "加藤みなこ",
+        "吉敷賢一郎",
+        "小林透",
+        "小高浩行",
+        "池浜あけみ",
+        "田畑たき子"
+      ]
+    },
+    {
+      "id": "13a08c5bc9de73decb1f",
+      "place": "川越市",
+      "season": "fall",
+      "date": "2026-09-18",
+      "url": "https://www.city.kawagoe.saitama.dbsr.jp/114095?Template=document&Id=4319#all",
+      "title": "令和8年 産業建設常任委員会 会期中(第2日・9月18日)本文",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "議会会議録ライブラリに掲載された、会期中の常任委員会の本文。",
+      "speakers": [
+        "今野英子",
+        "吉野郁惠",
+        "小ノ澤哲也",
+        "小林範子",
+        "嶋田弘二副",
+        "栗原瑞治",
+        "神田賢志",
+        "高橋剛"
+      ]
+    },
+    {
+      "id": "b2976383d2d152d5e590",
+      "place": "川越市",
+      "season": "fall",
+      "date": "2026-09-29",
+      "url": "https://www.city.kawagoe.saitama.dbsr.jp/407877?Template=document&Id=4320#all",
+      "title": "令和8年第4回定例会(第30日・9月29日) 本文",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "定例会の公式目次から、一般質問日以外の本会議の本文を収録。議案の質疑、上程、議決などを含みます。",
+      "speakers": [
+        "伊藤正子",
+        "倉嶋真史",
+        "柿田有一",
+        "片野広隆",
+        "粂真美子"
       ]
     },
     {
@@ -21746,6 +22318,28 @@ GIKAI.questionText = {
         "村上真由美",
         "田口義博",
         "砂川清時"
+      ]
+    },
+    {
+      "id": "ab5a6c576e1678b759d4",
+      "place": "松伏町",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "まつぶし議会だより135号・9月定例会",
+      "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000003/3130/gikaidayori135_P9-13.pdf#page=1",
+      "kind": "議会だよりの質問・答弁（紙面要約）",
+      "scope": "summary",
+      "note": "議会だよりの紙面9～13頁（分割PDF 1～5頁）を照合し、問答が掲載された26論点を要約しました。正式会議録の全文は確認中です。",
+      "speakers": [
+        "吉田俊一",
+        "増田秀雄",
+        "川上力",
+        "平野千穂",
+        "村上真由美",
+        "松岡高志",
+        "田口義博",
+        "福井和義",
+        "長谷川真也"
       ]
     },
     {
@@ -26716,7 +27310,7 @@ GIKAI.questionText = {
       "season": "spring",
       "material": {
         "state": "verified",
-        "note": "会議録または公式の質問・答弁 4資料。公式の一般質問者一覧にある質問日4日分の本文を収録。配布用HTMLで本文を開けます。"
+        "note": "公式会議録検索の本会議9日分と会期中の４常任委員会6会議分を収録。本会議のうち一般質問は４日分。"
       }
     },
     {
@@ -26724,7 +27318,7 @@ GIKAI.questionText = {
       "season": "summer",
       "material": {
         "state": "verified",
-        "note": "会議録または公式の質問・答弁 4資料。公式の一般質問者一覧にある質問日4日分の本文を収録。配布用HTMLで本文を開けます。"
+        "note": "公式会議録検索の本会議7日分と会期中の４常任委員会4会議分を収録。本会議のうち一般質問は４日分。"
       }
     },
     {
@@ -26732,7 +27326,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "verified",
-        "note": "会議録または公式の質問・答弁 4資料。公式の一般質問者一覧にある質問日4日分の本文を収録。配布用HTMLで本文を開けます。"
+        "note": "公式会議録検索の本会議8日分と会期中の４常任委員会6会議分を収録。本会議のうち一般質問は４日分。"
       }
     },
     {
@@ -28195,8 +28789,8 @@ GIKAI.questionText = {
       "place": "松伏町",
       "season": "fall",
       "material": {
-        "state": "notFound",
-        "note": "公式の会議録検索ライブラリで公開されている春・初夏の本文を確認。秋の会議録本文は確認できず。"
+        "state": "partial",
+        "note": "議会だよりの掲載質疑を紙面照合して要約。正式会議録の全文は確認中。"
       }
     }
   ]

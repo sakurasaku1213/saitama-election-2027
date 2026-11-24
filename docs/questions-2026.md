@@ -2,23 +2,24 @@
 
 川越市の３会期の一般質問は、[議員比較の根拠に使った93掲載回と出典の確認範囲](kawagoe-policy-2026.md)も参照してください。
 
-確認日 2026-11-24。県議会と全63市町村の192会期枠を対象に、64議会・181枠で本文または議会だより等に掲載された問答を収録。残る11枠も下表に確認先を示す。
+確認日 2026-11-24。県議会と全63市町村の192会期枠を対象に、64議会・182枠で本文または議会だより等に掲載された問答を収録。残る10枠も下表に確認先を示す。
 
-収録資料 1,619件。33枠は、原典の日程・索引で確認した質問日または掲載項目に対応する。
+収録資料 1,648件。33枠は、原典の日程・索引で確認した質問日または掲載項目に対応する。
 
 | 資料の種類 | 件数 |
 | --- | ---: |
 | 公式の質問・答弁全文（速報版） | 808 |
-| 公式会議録（HTML） | 735 |
+| 公式会議録（HTML） | 747 |
+| 公式会議録（常任委員会） | 16 |
 | 議会だよりの質問・答弁要旨（OCR） | 45 |
 | 公式会議録PDFのOCR転記 | 16 |
 | 公開会議録（閲覧用） | 11 |
 | 議会だよりの質問・答弁要旨（HTML） | 1 |
-| 議会だよりの質問・答弁（紙面要約） | 3 |
+| 議会だよりの質問・答弁（紙面要約） | 4 |
 
 本会議録の日別資料には当日の議事も含まれる。県議会の速報版は質問・答弁の掲載項目ごと。議会だよりは質問者による編集要約等を含む。PDFのOCR転記と、紙面を照合して作った要約には原本の頁番号を付けた。
 
-原典の日付・主体・役割を照合した政策事例を今回 7 件追加。従前の20事例を維持。全会期で個人に帰属できる政策の経過を調べ終えた状態には至っていない。本文と完全な経過確認は別の作業。
+政策事例は32件。川越市の５事例は一般質問に加え、条例の公布、事業の実施や会議での審議など、資料で追えた経過を掲載した。全体の政策経過の照合は進行中。
 
 ## 議会別の収録と確認先
 
@@ -26,7 +27,7 @@
 | --- | --- | --- | --- | --- |
 | 埼玉県 | [本文・要旨 251件](https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/b/09.html)<br>確認した質問日・項目を収録 | [本文・要旨 306件](https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/c/0602.html)<br>確認した質問日・項目を収録 | [本文・要旨 251件](https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/b/0302.html)<br>確認した質問日・項目を収録 | — |
 | さいたま市 | [本文・要旨 7件](https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1074&schedule_id=2)<br>一部収録 | [本文・要旨 7件](https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1083&schedule_id=2)<br>一部収録 | [確認先](https://www.city.saitama.lg.jp/gikai/002/teireirinji/teireikairinjikainojouhou12/p132189.html)<br>確認先で本文未確認 | 1 |
-| 川越市 | [本文・要旨 4件](https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r08-0305_001)<br>確認した質問日・項目を収録 | [本文・要旨 4件](https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r08-0610_001)<br>確認した質問日・項目を収録 | [本文・要旨 4件](https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r08-0909_001)<br>確認した質問日・項目を収録 | — |
+| 川越市 | [本会議録9日分](https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=list&ListOrder=asc&QueryType=new&Cabinet=1&TermStart=2026-02-24&TermEnd=2026-03-25)<br>一般質問4日・常任委員会6会議 | [本会議録7日分](https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=list&ListOrder=asc&QueryType=new&Cabinet=1&TermStart=2026-06-02&TermEnd=2026-06-24)<br>一般質問4日・常任委員会4会議 | [本会議録8日分](https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=list&ListOrder=asc&QueryType=new&Cabinet=1&TermStart=2026-08-31&TermEnd=2026-09-29)<br>一般質問4日・常任委員会6会議 | [５事例の経過](kawagoe-policy-2026.md) |
 | 熊谷市 | [本文・要旨 4件](https://www.city.kumagaya.lg.jp/shigikai/gikaidayori/20260501.files/83all.pdf)<br>確認した質問日・項目を収録 | [本文・要旨 4件](https://www.city.kumagaya.lg.jp/shigikai/gikaidayori/20260801.files/84all.pdf)<br>確認した質問日・項目を収録 | [本文・要旨 1件](https://www.city.kumagaya.lg.jp/shigikai/gikaidayori/20261101.files/85all.pdf)<br>一部収録 | — |
 | 川口市 | [本文・要旨 8件](https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1408&schedule_id=2)<br>一部収録 | [本文・要旨 7件](https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1418&schedule_id=2)<br>一部収録 | [本文・要旨 7件](https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1427&schedule_id=2)<br>一部収録 | 2 |
 | 行田市 | [本文・要旨 8件](https://ssp.kaigiroku.net/tenant/gyoda/SpMinuteView.html?tenant_id=351&council_id=258&schedule_id=2)<br>一部収録 | [本文・要旨 7件](https://ssp.kaigiroku.net/tenant/gyoda/SpMinuteView.html?tenant_id=351&council_id=260&schedule_id=2)<br>一部収録 | [本文・要旨 1件](https://www.city.gyoda.lg.jp/material/files/group/50/2611.pdf)<br>一部収録 | — |
@@ -87,17 +88,17 @@
 | 寄居町 | [本文・要旨 8件](https://ssp.kaigiroku.net/tenant/yorii/SpMinuteView.html?tenant_id=232&council_id=106&schedule_id=2)<br>一部収録 | [本文・要旨 4件](https://ssp.kaigiroku.net/tenant/yorii/SpMinuteView.html?tenant_id=232&council_id=107&schedule_id=2)<br>一部収録 | [本文・要旨 1件](https://www.town.yorii.saitama.jp/uploaded/attachment/28518.pdf)<br>一部収録 | 2 |
 | 宮代町 | [本文・要旨 8件](https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteView.html?tenant_id=224&council_id=122&schedule_id=2)<br>一部収録 | [本文・要旨 5件](https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteView.html?tenant_id=224&council_id=123&schedule_id=2)<br>一部収録 | [本文・要旨 1件](https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27014/gikaidayori140.pdf)<br>一部収録 | — |
 | 杉戸町 | [本文・要旨 3件](https://ssp.kaigiroku.net/tenant/sugito/SpMinuteView.html?tenant_id=78&council_id=261&schedule_id=4)<br>確認した質問日・項目を収録 | [本文・要旨 3件](https://ssp.kaigiroku.net/tenant/sugito/SpMinuteView.html?tenant_id=78&council_id=266&schedule_id=3)<br>確認した質問日・項目を収録 | [本文・要旨 1件](https://www.town.sugito.lg.jp/uploaded/attachment/18196.pdf)<br>一部収録 | — |
-| 松伏町 | [本文・要旨 9件](https://www.town.matsubushi.saitama.dbsr.jp/449469?Template=document&Id=1215#one)<br>一部収録 | [本文・要旨 4件](https://www.town.matsubushi.saitama.dbsr.jp/972119?Template=document&Id=1237#one)<br>一部収録 | [確認先](https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000003/3031/202609ippanshitsumontuukokuichiran.pdf)<br>確認先で本文未確認 | — |
+| 松伏町 | [本文・要旨 9件](https://www.town.matsubushi.saitama.dbsr.jp/449469?Template=document&Id=1215#one)<br>一部収録 | [本文・要旨 4件](https://www.town.matsubushi.saitama.dbsr.jp/972119?Template=document&Id=1237#one)<br>一部収録 | [議会だより135号・紙面9～13頁](https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000003/3130/gikaidayori135_P9-13.pdf)<br>紙面要約1件・一般質問9人26論点 | — |
 
 ## 状態の集計
 
 | 資料の確認状態 | 会期枠 |
 | --- | ---: |
 | 確認した質問日・項目を収録 | 33 |
-| 一部収録 | 148 |
+| 一部収録 | 149 |
 | 掲載先候補あり・本文未収録 | 0 |
 | 取得・照合できず | 0 |
-| 確認先で本文未確認 | 11 |
+| 確認先で本文未確認 | 10 |
 | 調査中 | 0 |
 | 対象会期なし | 0 |
 
@@ -107,6 +108,7 @@
 - 手元閲覧用の単一HTMLにのみ、取得・照合した本文と要旨のローカル束を埋め込んだ。正式会議録・速報版・議会だより・OCR転記を区別して表示する。
 - 小鹿野町は、町公式の会議録一覧から３月・６月の本会議録を取り込み、公式目次の全７日と照合した。９月定例会の会議録は一覧で未確認。
 - 羽生市は、９月定例会の議会だよりに問答の掲載がある一般質問12人分と議案質疑を紙面と照合した。見出しのみ掲載された項目の問答と、正式会議録の本文は確認中。[羽生市議会の最新号案内](https://www.city.hanyu.lg.jp/docs/2026051900012/)
+- 松伏町は、９月定例会の議会だよりに問答の掲載がある26論点を、紙面の９〜13頁と照合した。議決と記名表決を20件ずつ照合し、提出者の記号は賛否と区別して表示した。[町の会議結果](https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000003/3031/0809kaigikekka.pdf)・[議会だよりの記名表決](https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000003/3130/gikaidayori135_P7.pdf)
 - OCRの確認警告がある頁は本文束から除いた。警告のない頁だけを収録した資料では、除外頁を本文カードに表示した。
 
 ### 今回のOCR保留

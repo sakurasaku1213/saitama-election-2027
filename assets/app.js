@@ -483,12 +483,16 @@
         <p>${esc(item.reason)}</p><p class="small">${link(q.url, q.title)}　${dateTag(q.date)}${item.locator ? `　${esc(item.locator)}` : ""}${archivedMinutes(place, q.date)}</p>${item.recordingURL ? `<p class="small">${link(item.recordingURL, "当日の公式録画")}</p>` : ""}</li>`;
     }).join("");
     const followUp = followUpLabels[issue.followUp];
+    const progress = issue.caseTitle && D.cases.find((entry) =>
+      entry.place === place && entry.title === issue.caseTitle,
+    );
     return `<details class="entry policy-issue"><summary><span>${esc(title)}</span></summary>
       <div class="detail-body"><h5>何を尋ねたか</h5><ul class="policy-evidence">${questions}</ul>
       <h5>本人の後続行動</h5><p>${esc(followUp)}${issue.followUpNote ? `。 ${esc(issue.followUpNote)}` : ""}</p>
       ${issue.actions?.length ? `<ol class="steps">${issue.actions.map((event) => reviewEvent(event, place)).join("")}</ol>` : ""}
       <h5>行政の対応・到達点</h5>
       ${issue.outcomes?.length ? `<ol class="steps">${issue.outcomes.map((event) => reviewEvent(event, place)).join("")}</ol>` : `<p>${link(original.url, "当初の答弁を読む")}</p>`}
+      ${progress ? `<p class="small">${tag(progress.steps.at(-1).stage)} ${jump("cases", { place, q: progress.title }, "資料で追った経過を読む")}</p>` : ""}
       </div></details>`;
   }
 
@@ -693,7 +697,11 @@
     const named = b.names?.length
       ? b.names.map(esc).join("、")
       : esc(b.proposer || "掲載資料で提出者を特定できず");
-    return `<details class="entry"><summary><div><div class="meta">${tag(b.result)}<span>${esc(b.place)}議会</span>${dateTag(b.date)}<span>${esc(b.number)}</span></div><p class="title">${esc(b.title)}</p></div></summary><div class="detail-body"><p>提出者　${named}</p><ul class="ballots">${ballots.map(([name, position]) => `<li><span>${esc(name)}</span><b>${esc(position)}</b></li>`).join("")}</ul>${!ballots.length ? `<p class="small">個々の賛否はこの表に掲載していません。</p>` : ""}<div class="links">${link(b.url, "議案・提出者の原文")}${link(b.resultURL, "審議結果・表決の原表")}</div></div></details>`;
+    const separateVote = b.voteURL && b.voteURL !== b.resultURL;
+    const sources = `${b.url !== b.resultURL ? link(b.url, "議案・提出者の原文") : ""}
+      ${link(b.resultURL, separateVote ? "議決結果の原表" : "審議結果・表決の原表")}
+      ${separateVote ? link(b.voteURL, "記名表決の原表") : ""}`;
+    return `<details class="entry"><summary><div><div class="meta">${tag(b.result)}<span>${esc(b.place)}議会</span>${dateTag(b.date)}<span>${esc(b.number)}</span></div><p class="title">${esc(b.title)}</p></div></summary><div class="detail-body"><p>提出者　${named}</p><ul class="ballots">${ballots.map(([name, position]) => `<li><span>${esc(name)}</span><b>${esc(position)}</b></li>`).join("")}</ul>${!ballots.length ? `<p class="small">個々の賛否はこの表に掲載していません。</p>` : ""}<div class="links">${sources}</div></div></details>`;
   }
   function voteResults() {
     const prefItems = voteRows.filter(
