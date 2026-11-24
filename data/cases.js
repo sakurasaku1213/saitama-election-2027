@@ -16,7 +16,7 @@ GIKAI.cases.push(...[
 {"title":"投票所に行きにくい人の移動を翌年度予算の論点にする","place":"寄居町","actors":["寄居町議会"],"topic":"選挙・移動支援","steps":[{"date":"2026-11-02","actor":"寄居町議会","stage":"提出を公表","detail":"令和9年度の予算に向けて町に提言書を提出したと公表した。投票環境の整備は、文書が取り上げた4項目の一つ。","url":"https://www.town.yorii.saitama.jp/site/gikai/teigenr-9.html","sourceTitle":"寄居町議会「令和9年度に向けた提言書」"},{"date":"2026-11-02","actor":"寄居町議会","stage":"要望内容の公表","detail":"投票所の段差への対策に加え、移動投票や電子投票について、費用、仕組み、運用上の課題を調べるよう町に求めた。","url":"https://www.town.yorii.saitama.jp/uploaded/attachment/28410.pdf","sourceTitle":"寄居町議会・令和9年度予算に向けた提言書（1頁）"}],"note":"日付は提言書の公表日。移動投票・電子投票についての記載は調査・検討の要望。"},
 {"title":"玉ノ岡中学校北入口で、大型車規制と注意看板をどう判断したか","place":"嵐山町","actors":["畠山美幸","嵐山町長","まちづくり整備課長"],"topic":"通学路・交通安全","steps":[{"date":"2026-09","actor":"畠山美幸","stage":"一般質問","detail":"通学路でもある町道で下水道の緊急工事があったことを受け、工事費、大型車の規制、工業団地周辺の道路の強度を質問した。","url":"https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000008/8030/204gikaidayori.pdf#page=6","sourceTitle":"嵐山町議会だより「らんざん」第204号 6頁"},{"date":"2026-09","actor":"地域支援課長、まちづくり整備課長、嵐山町長","stage":"答弁","detail":"町は工事と車両通行の因果関係を認めず、交通規制の導入は考えていないと答えた。関係企業への運行ルート分散の働きかけと、注意看板の協議に言及した。","url":"https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000008/8030/204gikaidayori.pdf#page=6","sourceTitle":"嵐山町議会だより「らんざん」第204号 6頁"},{"date":"2026-10-16","actor":"嵐山町議会","stage":"設置後の写真","detail":"議会だよりが、同じ交差点に新たに設置された看板の10月16日付写真を掲載した。","url":"https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000008/8030/204gikaidayori.pdf#page=6","sourceTitle":"嵐山町議会だより「らんざん」第204号 6頁"}],"note":"10月16日は写真の日付。交通規制を導入したという記録ではなく、設置主体や議員個人の寄与の大きさは資料から定められない。"},
 {"title":"核兵器禁止条約について国への意見書を提出した議員と議決","place":"吉見町","actors":["杉田しのぶ","福田妙子","福井学","吉見町議会"],"topic":"議員提出議案・平和政策","steps":[{"date":"2026-09","actor":"杉田しのぶ（提出者）、福田妙子・福井学（賛成者）","stage":"議員発議","detail":"条約の再検討会議へのオブザーバー参加と、条約への署名・批准を国に求める意見書案を提出した。","url":"https://www.town.yoshimi.saitama.jp/material/files/group/3/gikai14.pdf#page=7","sourceTitle":"吉見町議会「よしみぎかい」第14号 7頁"},{"date":"2026-09","actor":"吉見町議会","stage":"質疑・討論","detail":"国際情勢や日米安全保障条約との関係を理由とする慎重論と、平和都市宣言を踏まえた行動を求める賛成論が記録された。","url":"https://www.town.yoshimi.saitama.jp/material/files/group/3/gikai14.pdf#page=7","sourceTitle":"吉見町議会「よしみぎかい」第14号 7頁"},{"date":"2026-09","actor":"吉見町議会","stage":"本会議で議決","detail":"賛成7、反対5、棄権1で可決。議案別の公式審議結果にも発議第4号の原案可決が掲載されている。","url":"https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf","sourceTitle":"吉見町議会「審議結果（令和8年9月議会定例会）」"}],"note":"署名・批准を求める意見書についての議決。町議会は提出者と議案提出時の賛成者を区別して公表している。"},
-{"title":"中学校の部活動の暑さ対策を、屋内と校庭で続けて問う","place":"神川町","actors":["柴崎愛子","神川町"],"topic":"学校・熱中症対策","steps":[{"date":"2026-06-04","actor":"柴崎愛子","stage":"活動場所の気温を測り、柔剣道場の空調を求める","detail":"柴崎議員は、複数の練習会場で温度を測ったと報告した。６月１日は外気温33度、柔剣道場２階の卓球部会場35度、体育館のバスケットボール部会場26度弱だったと示し、柔剣道場の空調を早急に整備するよう求めた。","url":"https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteView.html?tenant_id=73&council_id=96&schedule_id=2","sourceTitle":"神川町議会 ６月４日の本会議録 34頁・一般質問"},{"date":"2026-06-04","actor":"福嶋慶治 教育長","stage":"答弁","detail":"柔剣道場の老朽化や工事の費用を挙げ、空調を設置中の体育館や空き教室を活動に使う方法を研究すると答えた。早期の対策を求める再質問には、既存施設でできることを学校と相談する考えを示した。","url":"https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteView.html?tenant_id=73&council_id=96&schedule_id=2","sourceTitle":"神川町議会 ６月４日の本会議録 35・36頁・答弁"},{"date":"2026-09","actor":"柴崎愛子","stage":"現地見学を踏まえた次会期の質問通告","detail":"夏休みに部活動を見学し、早朝から練習する部の実情を記載。6月の質問を明示して、屋外の陸上部・野球部へのミスト扇風機導入を取り上げた。","url":"https://www.town.kamikawa.saitama.jp/material/files/group/18/ippannsitsumonn202609.pdf#page=2","sourceTitle":"神川町議会「令和8年第4回定例会・予定されている一般質問」"}],"note":"温度の計測は議員が６月の会議録で報告し、夏休みの見学は９月の質問通告に記載しています。９月の答弁と設備の購入は確認中です。"}
+{"title":"中学校の部活動の暑さ対策を、屋内と校庭で続けて問う","place":"神川町","actors":["福島康弘","柴崎愛子","神川町議会","神川町"],"topic":"学校・熱中症対策","steps":[{"date":"2026-01-23","stage":"体育館の空調・非常用発電機工事の落札","actor":"神川町","detail":"神川中学校体育館の空調設備と非常用発電機の設置工事の入札で、長沼設備工業が税込1億1,550万円で落札した。入札結果表の工期は契約締結日から10月31日まで。","url":"https://www.town.kamikawa.saitama.jp/material/files/group/3/03_20260123_koji.pdf","sourceTitle":"神川町 １月23日の入札結果表"},{"date":"2026-03-18","stage":"落札後の審議で設備費と非常用発電機を質疑","actor":"福島康弘","detail":"契約額の内訳、発電機の稼働日数、燃料交換の頻度を尋ねた。町は、空調工事が概算４割、受変電設備の増設と非常用発電機工事が概算６割と説明した。","url":"https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteView.html?tenant_id=73&council_id=95&schedule_id=5","sourceTitle":"神川町議会 ３月18日本会議録 議案第29号の質疑"},{"date":"2026-03-18","stage":"体育館の工事請負契約議案を可決","actor":"神川町議会","detail":"体育館空調設備及び非常用発電機設置工事の請負契約議案を、異議なしで原案可決した。","url":"https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteView.html?tenant_id=73&council_id=95&schedule_id=5","sourceTitle":"神川町議会 ３月18日本会議録 議案第29号の採決","billNumber":"議案第29号"},{"date":"2026-06-04","actor":"柴崎愛子","stage":"活動場所の気温を測り、柔剣道場の空調を求める","detail":"柴崎議員は、複数の練習会場で温度を測ったと報告した。６月１日は外気温33度、柔剣道場２階の卓球部会場35度、体育館のバスケットボール部会場26度弱だったと示し、柔剣道場の空調を早急に整備するよう求めた。","url":"https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteView.html?tenant_id=73&council_id=96&schedule_id=2","sourceTitle":"神川町議会 ６月４日の本会議録 34頁・一般質問"},{"date":"2026-06-04","actor":"福嶋慶治 教育長","stage":"答弁","detail":"柔剣道場の老朽化や工事の費用を挙げ、空調を設置中の体育館や空き教室を活動に使う方法を研究すると答えた。早期の対策を求める再質問には、既存施設でできることを学校と相談する考えを示した。","url":"https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteView.html?tenant_id=73&council_id=96&schedule_id=2","sourceTitle":"神川町議会 ６月４日の本会議録 35・36頁・答弁"},{"date":"2026-09","actor":"柴崎愛子","stage":"現地見学を踏まえた次会期の質問通告","detail":"夏休みに部活動を見学し、早朝から練習する部の実情を記載。6月の質問を明示して、屋外の陸上部・野球部へのミスト扇風機導入を取り上げた。","url":"https://www.town.kamikawa.saitama.jp/material/files/group/18/ippannsitsumonn202609.pdf#page=2","sourceTitle":"神川町議会「令和8年第4回定例会・予定されている一般質問」"}],"note":"体育館工事の入札・契約議案、柔剣道場と校庭への暑さ対策を資料で確認しました。温度の計測は６月会議録にある議員の報告です。９月の通告に対する答弁、設備の完成・購入は確認中です。"}
 ]);
 // 日高市９月定例会の請願
 GIKAI.cases.push(...[
@@ -539,13 +539,19 @@ GIKAI.cases.push(
         sourceTitle: "東秩父村議会 ６月12日会議録・議案第29号の採決", billNumber: "議案第29号",
       },
       {
+        date: "2026-09", stage: "運用後の光熱費と設備の管理を質問通告", actor: "渡辺絹代",
+        detail: "新庁舎の吹き抜けが冷暖房効率に与える影響や、光熱費を抑えながら執務環境を保つ運用方法を質問事項とした。シャワールームの設置目的、利用基準と管理方法も通告した。",
+        url: "https://www.vill.higashichichibu.saitama.jp/uploaded/life/8517_61127_misc.pdf#page=9",
+        sourceTitle: "東秩父村議会 ９月定例会の質問通告 PDF９頁",
+      },
+      {
         date: "2026-10", stage: "庁舎本体の鉄骨工事完了を報告", actor: "東秩父村",
         detail: "村は10月に庁舎本体の鉄骨工事が完了し、屋根工事に着手したと公表した。付帯工事の完了は確認中。",
         url: "https://www.vill.higashichichibu.saitama.jp/site/sintyousyakensetu/sintyousya-kouji-shintyoku.html",
         sourceTitle: "東秩父村 新庁舎建設工事の進捗状況・令和８年10月",
       },
     ],
-    note: "発注方法の説明、開札後の議員の検証、契約議決、庁舎本体の工事進捗を資料と日付で確認しました。",
+    note: "発注方法と契約の質疑・議決、庁舎本体の工事進捗を確認しました。９月分は運用に関する事前の通告を収録し、実際の発言と答弁は確認中です。",
   },
   {
     place: "上里町",
@@ -758,4 +764,38 @@ GIKAI.cases.push({
     },
   ],
   note: "委員会の設置、調査、公聴会請願の採決、正副委員長に提言素案の作成を一任したことを確認しました。再整備の具体的な決定・実施は確認中です。",
+});
+
+GIKAI.cases.push({
+  place: "神川町",
+  title: "予約制乗合交通の停留所と運賃を見直して実証運行",
+  topic: "地域交通・高齢者の移動",
+  actors: ["野口弘吉", "櫻澤晃", "神川町"],
+  steps: [
+    {
+      date: "2025-01-06", stage: "予約制の乗合交通の実証運行を開始", actor: "神川町",
+      detail: "公共交通の空白地域や高齢者の移動に対応するため、会員登録と予約で利用する乗合交通の実証を始めた。",
+      url: "https://www.town.kamikawa.saitama.jp/soshiki/sougouseisaku/6060.html",
+      sourceTitle: "神川町の実証運行概要・運行期間",
+    },
+    {
+      date: "2026-03-04", stage: "次年度の交通や高齢者支援の重点施策を質問", actor: "野口弘吉",
+      detail: "デマンド交通の実証や高齢者の外出支援を挙げ、町長の２期目の重点施策を尋ねた。町長は令和８年度から停留所を増やし、高齢者等への運賃割引制度を始める予定と答えた。",
+      url: "https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteView.html?tenant_id=73&council_id=95&schedule_id=2",
+      sourceTitle: "神川町議会 ３月４日本会議録51頁・一般質問と答弁",
+    },
+    {
+      date: "2026-04-01", stage: "停留所を増やし、割引を始めて第２段階へ", actor: "神川町",
+      detail: "町は停留所の増設と運賃割引を４月１日から実施した。運行案内に、運行日、利用登録、予約、対象者別の割引条件を掲載した。",
+      url: "https://www.town.kamikawa.saitama.jp/soshiki/sougouseisaku/6060.html",
+      sourceTitle: "神川町 デマンド交通の利用案内・４月１日の変更",
+    },
+    {
+      date: "2026-05-29", stage: "第２段階の実証運行について意見募集を案内", actor: "神川町",
+      detail: "町は住民の意見を運行に反映するため、窓口と電子申請で意見を提出する方法を公表した。",
+      url: "https://www.town.kamikawa.saitama.jp/soshiki/sougouseisaku/demand/6986.html",
+      sourceTitle: "神川町 デマンド交通に係る意見募集の案内",
+    },
+  ],
+  note: "一般質問への答弁と、町が公表した運行条件の変更、実証中の意見募集を確認しました。",
 });

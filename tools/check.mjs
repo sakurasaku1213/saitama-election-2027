@@ -409,12 +409,13 @@ for (const doc of questionDocs) {
   assert.ok(!questionKeys.has(sourceKey), sourceKey);
   questionIds.add(doc.id);
   questionKeys.add(sourceKey);
-  docCouncilSeasons.add(slot);
+  if (doc.scope !== "notice") docCouncilSeasons.add(slot);
   validLink(doc.url);
   validDay(doc.date);
   assert.match(doc.date, /^2026-/);
   assert.ok(doc.title && doc.kind);
-  assert.ok(["minutes", "fullQA", "summary", "recording"].includes(doc.scope));
+  assert.ok(["minutes", "fullQA", "summary", "recording", "notice"].includes(doc.scope));
+  if (doc.scope === "notice") assert.ok(doc.kind === "一般質問通告（公式資料）" && doc.note);
   if (doc.scope === "recording") {
     assert.match(doc.kind, /機械文字起こし|公開自動字幕/);
     assert.ok(doc.speakers.length || doc.kind === "公式録画の公開自動字幕");
@@ -426,9 +427,8 @@ for (const row of data.questionText.coverage) {
   assert.ok(coverageSlots.has(row.place + "|" + row.season));
   assert.ok(materialStates.has(row.material.state) && row.material.note);
   if (row.material.indexURL) validLink(row.material.indexURL);
-  if (row.material.state === "verified" || row.material.state === "partial") {
-    assert.ok(docCouncilSeasons.has(row.place + "|" + row.season));
-  }
+  assert.equal(docCouncilSeasons.has(row.place + "|" + row.season),
+    row.material.state === "verified" || row.material.state === "partial", row.place + "|" + row.season);
 }
 let votes = 0;
 for (const v of data.voteSessions) {
@@ -488,6 +488,7 @@ console.log(
       questionArchiveDocuments: questionDocs.length,
       questionArchiveCouncils: new Set(questionDocs.map((doc) => doc.place)).size,
       questionArchiveSlots: docCouncilSeasons.size,
+      questionArchiveNotices: questionDocs.filter((doc) => doc.scope === "notice").length,
       additionalDecisions: coverage.decisions.length,
       additionalRollCalls: coverage.decisions.filter((bill) => bill.votes && bill.voteType !== "会派等").length,
       additionalGroupVotes: coverage.decisions.filter((bill) => bill.voteType === "会派等").length,

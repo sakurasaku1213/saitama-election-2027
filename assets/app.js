@@ -480,7 +480,7 @@
   };
   function archivedMinutes(place, day) {
     if (!place || !get("question-text-bodies")) return "";
-    const archive = D.questionText.documents.find((doc) => doc.place === place && doc.date === day);
+    const archive = D.questionText.documents.find((doc) => doc.place === place && doc.date === day && doc.scope !== "notice");
     return archive ? "　" + jump("texts", { place, season: archive.season, q: day }, "収録本文") : "";
   }
   function reviewEvent(event, place) {
@@ -941,7 +941,7 @@
     return attachedQuestionBodies;
   }
   function questionTextControls() {
-    section("質問・答弁の本文", "2026年の春・初夏・秋の資料を、議会と会期から探せます。資料の種類と原典を表示します。");
+    section("質問・答弁の資料", "2026年の春・初夏・秋の会議録、発言通告、録画の文字起こしなどを議会と会期から探せます。");
     filters([
       searchField("例　議員名、会期、会議録"),
       field("place", "議会", placeList(personPlaces)),
@@ -951,9 +951,11 @@
   }
   function questionTextCard(entry, open = false) {
     const doc = `<div class="meta"><span>${esc(entry.place)}議会</span>${dateTag(entry.date)}${tag(entry.kind)}</div><h3>${esc(entry.title)}</h3>`;
+    const speakerLabel = entry.scope === "recording" ? "録画一覧の質問者" :
+      entry.scope === "notice" ? "通告に掲載された質問者" : "本文に名前がある議員";
     const source = `<div class="links">${link(entry.url, "公式資料の該当箇所")}</div>
       ${entry.note ? `<p class="small">${esc(entry.note)}</p>` : ""}
-      ${entry.speakers?.length ? `<p class="small">${entry.scope === "recording" ? "録画一覧の質問者" : "本文に名前がある議員"}　${entry.speakers.map(esc).join("、")}</p>` : ""}`;
+      ${entry.speakers?.length ? `<p class="small">${speakerLabel}　${entry.speakers.map(esc).join("、")}</p>` : ""}`;
     const available = Boolean(get("question-text-bodies"));
     return `<details class="entry question-document" data-question-id="${esc(entry.id)}"${open ? " open" : ""}>
       <summary><div>${doc}</div></summary><div class="detail-body">${source}

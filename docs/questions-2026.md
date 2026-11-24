@@ -4,7 +4,7 @@
 
 確認日 2026-11-24。県議会と全63市町村の192会期枠を対象に、64議会・188枠で会議録、紙面の問答、録画の機械文字起こし、または公開自動字幕を収録。本文・要旨等が未収録の4枠にも確認先を示す。
 
-収録資料 1,929件。147枠では、原典の目次・索引等にある本会議の日別資料、一般質問日または掲載項目と収録範囲を照合した。
+収録資料 1,933件（事前の一般質問通告3件を含む）。147枠では、原典の目次・索引等にある本会議の日別資料、一般質問日または掲載項目と収録範囲を照合した。
 
 | 資料の種類 | 件数 |
 | --- | ---: |
@@ -16,17 +16,18 @@
 | 公式会議録（議会運営委員会） | 2 |
 | 委員長報告（公式資料） | 17 |
 | 議事概要（公式資料） | 1 |
+| 一般質問通告（公式資料） | 3 |
 | 議会だよりの質問・答弁要旨（OCR） | 45 |
 | 公式会議録PDFのOCR転記 | 16 |
 | 公開会議録（閲覧用） | 11 |
 | 議会だよりの質問・答弁要旨（HTML） | 1 |
 | 議会だよりの質問・答弁（紙面要約） | 4 |
-| 公式録画の機械文字起こし | 20 |
+| 公式録画の機械文字起こし | 21 |
 | 公式録画の公開自動字幕 | 33 |
 
 本会議録の日別資料には当日の議事も含まれる。県議会の速報版は質問・答弁の掲載項目ごと。議会だよりは質問者による編集要約等を含む。PDFのOCR転記と、紙面を照合して作った要約には原本の頁番号を付けた。
 
-政策事例は51件。川越市の５事例に加え、所沢市の保健医療特別委員会の設置・調査・提言案の経過、さいたま市の食肉市場の協議、埼玉県の訪問介護の複数訪問補助の拡大などを、出典とともに追える。全体の政策経過の照合は進行中。
+政策事例は52件。川越市の５事例に加え、神川町のデマンド交通の実証と停留所・運賃の見直し、所沢市の保健医療特別委員会の設置・調査・提言素案の経過などを、出典とともに追える。全体の政策経過の照合は進行中。
 
 ## 議会別の収録と確認先
 
@@ -88,14 +89,14 @@
 | 皆野町 | [本会議録1資料・PDF計181頁](https://www.town.minano.saitama.jp/section/gikai/815/)<br>公式掲載目次と照合 | [本会議録1資料・PDF計93頁](https://www.town.minano.saitama.jp/section/gikai/815/)<br>公式掲載目次と照合 | [本文・要旨 1件](https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/92100d92c95bb691d0d849b4595977d4.pdf)<br>一部収録 | — |
 | 長瀞町 | [本会議録1資料・PDF計197頁](https://www.town.nagatoro.saitama.jp/nagatorochougikai/%e4%bc%9a%e8%ad%b0%e9%8c%b2/)<br>公式掲載目次と照合 | [本会議録1資料・PDF計80頁](https://www.town.nagatoro.saitama.jp/nagatorochougikai/%e4%bc%9a%e8%ad%b0%e9%8c%b2/)<br>公式掲載目次と照合 | [本文・要旨 1件](https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf)<br>一部収録 | — |
 | 小鹿野町 | [正式会議録4日分](https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803T.html)<br>うち一般質問2日 | [正式会議録3日分](https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0806T.html)<br>うち一般質問2日 | [町公式の会議録一覧](https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/index.html)<br>9月会期の本文未確認 | — |
-| 東秩父村 | [本会議録3資料](https://ssp.kaigiroku.net/tenant/higashichichibu/SpMinuteBrowse.html?tenant_id=91&view_years=2026)<br>公式掲載目次と照合 | [本会議録2資料](https://ssp.kaigiroku.net/tenant/higashichichibu/SpMinuteBrowse.html?tenant_id=91&view_years=2026)<br>公式掲載目次と照合 | [確認先](https://www.vill.higashichichibu.saitama.jp/site/gikai/higashichichibumuragikaiteireikai9gatu.html)<br>確認先で本文未確認 | — |
-| 美里町 | [本会議録4資料](https://ssp.kaigiroku.net/tenant/saimisato/SpMinuteBrowse.html?tenant_id=46&view_years=2026)<br>公式掲載目次と照合 | [本会議録3資料](https://ssp.kaigiroku.net/tenant/saimisato/SpMinuteBrowse.html?tenant_id=46&view_years=2026)<br>公式掲載目次と照合 | [確認先](https://www.town.saitama-misato.lg.jp/0000001226.html)<br>確認先で本文未確認 | — |
-| 神川町 | [本会議録4資料](https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteBrowse.html?tenant_id=73&view_years=2026)<br>公式掲載目次と照合 | [本会議録2資料](https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteBrowse.html?tenant_id=73&view_years=2026)<br>公式掲載目次と照合 | [町の定例会日程・一般質問通告](https://www.town.kamikawa.saitama.jp/soshiki/gikai/nittei/reiwa6_2/6817.html)<br>質問・答弁本文を確認中 | — |
+| 東秩父村 | [本会議録3資料](https://ssp.kaigiroku.net/tenant/higashichichibu/SpMinuteBrowse.html?tenant_id=91&view_years=2026)<br>公式掲載目次と照合 | [本会議録2資料](https://ssp.kaigiroku.net/tenant/higashichichibu/SpMinuteBrowse.html?tenant_id=91&view_years=2026)<br>公式掲載目次と照合 | [事前の質問要旨・4人](https://www.vill.higashichichibu.saitama.jp/site/gikai/ippan-shitsumon.html)<br>発言・答弁を確認中 | — |
+| 美里町 | [本会議録4資料](https://ssp.kaigiroku.net/tenant/saimisato/SpMinuteBrowse.html?tenant_id=46&view_years=2026)<br>公式掲載目次と照合 | [本会議録3資料](https://ssp.kaigiroku.net/tenant/saimisato/SpMinuteBrowse.html?tenant_id=46&view_years=2026)<br>公式掲載目次と照合 | [事前の質問予定項目・5人](https://www.town.saitama-misato.lg.jp/0000002738.html)<br>発言・答弁を確認中 | — |
+| 神川町 | [本会議録4資料](https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteBrowse.html?tenant_id=73&view_years=2026)<br>公式掲載目次と照合 | [本会議録2資料](https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteBrowse.html?tenant_id=73&view_years=2026)<br>公式掲載目次と照合 | [事前の質問要旨・9人](https://www.town.kamikawa.saitama.jp/soshiki/gikai/nittei/reiwa6_2/6817.html)<br>発言・答弁を確認中 | — |
 | 上里町 | [本会議録6資料・PDF計259頁](https://www.town.kamisato.saitama.jp/7977.htm)<br>公式掲載目次と照合 | [本文・要旨 1件](https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf)<br>一部収録 | [公式録画一覧](https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/council.html?year=2026&council_id=47)<br>機械文字起こし1件・正式会議録を確認中 | — |
 | 寄居町 | [本会議録8資料](https://ssp.kaigiroku.net/tenant/yorii/SpMinuteBrowse.html?tenant_id=232&view_years=2026)<br>公式掲載目次と照合 | [本会議録4資料](https://ssp.kaigiroku.net/tenant/yorii/SpMinuteBrowse.html?tenant_id=232&view_years=2026)<br>公式掲載目次と照合 | [本文・要旨 1件](https://www.town.yorii.saitama.jp/uploaded/attachment/28518.pdf)<br>一部収録 | 2 |
 | 宮代町 | [本会議録8資料](https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteBrowse.html?tenant_id=224&view_years=2026)<br>公式掲載目次と照合 | [本会議録5資料](https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteBrowse.html?tenant_id=224&view_years=2026)<br>公式掲載目次と照合 | [本文・要旨 1件](https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27014/gikaidayori140.pdf)<br>一部収録 | — |
 | 杉戸町 | [本会議録7資料](https://ssp.kaigiroku.net/tenant/sugito/SpMinuteBrowse.html?tenant_id=78&view_years=2026)<br>公式掲載目次と照合 | [本会議録5資料](https://ssp.kaigiroku.net/tenant/sugito/SpMinuteBrowse.html?tenant_id=78&view_years=2026)<br>公式掲載目次と照合 | [本文・要旨 1件](https://www.town.sugito.lg.jp/uploaded/attachment/18196.pdf)<br>一部収録 | — |
-| 松伏町 | [本会議録9資料](https://www.town.matsubushi.saitama.dbsr.jp/100000?QueryType=new&Template=list&ListOrder=asc&Cabinet=1&TermStart=2026-02-26&TermEnd=2026-03-19)<br>公式掲載目次と照合 | [本会議録4資料](https://www.town.matsubushi.saitama.dbsr.jp/100000?QueryType=new&Template=list&ListOrder=asc&Cabinet=1&TermStart=2026-06-05&TermEnd=2026-06-15)<br>公式掲載目次と照合 | [議会だよりの紙面要約26論点](https://www.town.matsubushi.lg.jp/0000003130.html)<br>[機械文字起こし2件](https://matsubushi-town.stream.jfit.co.jp/?tpl=gikai_days_list&gikai_id=2)・正式会議録を確認中 | — |
+| 松伏町 | [本会議録9資料](https://www.town.matsubushi.saitama.dbsr.jp/100000?QueryType=new&Template=list&ListOrder=asc&Cabinet=1&TermStart=2026-02-26&TermEnd=2026-03-19)<br>公式掲載目次と照合 | [本会議録4資料](https://www.town.matsubushi.saitama.dbsr.jp/100000?QueryType=new&Template=list&ListOrder=asc&Cabinet=1&TermStart=2026-06-05&TermEnd=2026-06-15)<br>公式掲載目次と照合 | [議会だよりの紙面要約26論点](https://www.town.matsubushi.lg.jp/0000003130.html)<br>[機械文字起こし3件](https://matsubushi-town.stream.jfit.co.jp/?tpl=gikai_days_list&gikai_id=2)・正式会議録を確認中 | — |
 
 ## 状態の集計
 
@@ -118,7 +119,7 @@
 - 小鹿野町は、町公式の会議録一覧から３月・６月の本会議録を取り込み、公式目次の全７日と照合した。９月定例会の会議録は一覧で未確認。
 - 羽生市は、９月定例会の議会だよりに問答の掲載がある一般質問12人分と議案質疑を紙面と照合した。見出しのみ掲載された項目の問答と、正式会議録の本文は確認中。[羽生市議会の最新号案内](https://www.city.hanyu.lg.jp/docs/2026051900012/)
 - 松伏町は、９月定例会の議会だよりに問答の掲載がある26論点を、紙面の９〜13頁と照合した。議決と記名表決を20件ずつ照合し、提出者の記号は賛否と区別して表示した。[町の会議結果](https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000003/3031/0809kaigikekka.pdf)・[議会だよりの記名表決](https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000003/3130/gikaidayori135_P7.pdf)
-- 松伏町の秋の公式録画は、一般質問９人のうち2人分の機械文字起こしを収録した。原音による本文の確定照合は未了。[松伏町の公式録画一覧](https://matsubushi-town.stream.jfit.co.jp/?tpl=gikai_days_list&gikai_id=2)
+- 松伏町の秋の公式録画は、一般質問９人のうち3人分の機械文字起こしを収録した。原音による本文の確定照合は未了。[松伏町の公式録画一覧](https://matsubushi-town.stream.jfit.co.jp/?tpl=gikai_days_list&gikai_id=2)
 - 蕨市の９月定例会は、公式録画の一般質問15人のうち11人分の機械文字起こしを収録。質問者は録画一覧で照合した。本文の話者名・用語・数字は原録画で確認できる。[公式録画一覧](https://warabi.gijiroku.com/gikai/g07_Video_Search.asp)
 - OCRの確認警告がある頁は本文束から除いた。警告のない頁だけを収録した資料では、除外頁を本文カードに表示した。
 
@@ -151,6 +152,8 @@
 - 川口市の３会期の議決結果表は156件。議決番号・提出日、請願の空欄、夏の無番号の継続審査、秋の決算継続審査を原表で照合。公開された委員長報告17資料の全頁も収録した。資料日は報告対象の委員会開催日。[川口市議会・過去の議決結果](https://kawaguchi.gsl-service.net/doc/2014072400529/)
 - 所沢市は各会期の採決結果123件を公式原表と本会議録で照合。うち原表の記名表決は121件・3,993欄。議長の表決不参加と、９月24日の議員提出議案第４号における佐野允彦議員の除斥を表示した。認定10件の委員会付託、請願第５号の継続審査も収録した。[２月](https://www.city.tokorozawa.saitama.jp/shigikai/shingi/r8dai2/R8_dai2kai_kekka.html)・[６月](https://www.city.tokorozawa.saitama.jp/shigikai/shingi/r8dai4/R8_dai4kai_kekka.html)・[９月](https://www.city.tokorozawa.saitama.jp/shigikai/shingi/r8dai5/r8_9shingikekka.html)
 - 所沢市は秋会期中の保健医療特別委員会会議録３資料と、議会運営委員会の議事概要49頁を収録。大石健一議員の設置案の提案理由、議会の可決、公聴会請願の不採択、正副委員長への提言素案作成の一任を確認した。神川町の秋は９月17日議決の補正予算６件を公式一覧から収録した。[所沢市保健医療特別委員会](https://www.city.tokorozawa.saitama.jp/shigikai/tokubetuiinkaijyouhou/jyonininkai/yotoku_bunkakai/hokenniryou.html)・[所沢市議会運営委員会](https://www.city.tokorozawa.saitama.jp/shigikai/tokubetuiinkaijyouhou/jyonininkai/giun.html)・[神川町の９月補正予算](https://www.town.kamikawa.saitama.jp/soshiki/sougouseisaku/zaisei/yosan/6917.html)
+- 秋の事前通告として、東秩父村４人の質問要旨９頁、神川町９人の質問要旨５頁、美里町５人の質問予定項目１頁を収録。本文・要旨の収録会期数は、会議録、紙面の問答、録画の文字起こしなどから確認できる会期を集計した。[東秩父村の通告](https://www.vill.higashichichibu.saitama.jp/site/gikai/ippan-shitsumon.html)・[神川町の通告](https://www.town.kamikawa.saitama.jp/soshiki/gikai/nittei/reiwa6_2/6817.html)・[美里町の予定項目](https://www.town.saitama-misato.lg.jp/0000002738.html)
+- 神川町のデマンド交通は、野口弘吉議員の質問への町長答弁、４月１日の停留所増設と割引開始、５月の意見募集の案内を照合した。神川中学校の暑さ対策事例では、体育館の空調・非常用発電機工事の落札、福島康弘議員の契約額の内訳等への質疑、契約議案の可決を追記した。東秩父村の新庁舎事例には、渡辺絹代議員の光熱費と設備管理に関する９月の質問通告を追加した。[神川町の運行案内](https://www.town.kamikawa.saitama.jp/soshiki/sougouseisaku/6060.html)・[体育館工事の入札結果](https://www.town.kamikawa.saitama.jp/material/files/group/3/03_20260123_koji.pdf)・[東秩父村の質問通告９頁](https://www.vill.higashichichibu.saitama.jp/uploaded/life/8517_61127_misc.pdf#page=9)
 - 松伏町の手話言語条例は、請願の紹介と趣旨説明、委員会の判断、2025年９月の本会議での討論・採択、2026年９月の全員協議会、10月19日からの素案への意見募集を資料でつないだ。高校生の車椅子通学については、越生町議会の意見書案可決と、県議会の質疑・答弁を収録した。[松伏町議会の本会議録](https://www.town.matsubushi.saitama.dbsr.jp/650568?Template=document&Id=1184#one)・[広報まつぶし10月号](https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000003/3121/matsubushi689_11-16.pdf#page=4)・[越生町の議決結果](https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf)・[埼玉県議会の質問・答弁](https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/b/0203a.html)
 
 ### 今回のOCR保留

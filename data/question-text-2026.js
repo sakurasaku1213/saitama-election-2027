@@ -25162,6 +25162,23 @@ GIKAI.questionText = {
       "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
     },
     {
+      "id": "312e4fd589731a748b4c",
+      "place": "東秩父村",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "令和８年第４回定例会 一般質問一覧表・質問要旨",
+      "url": "https://www.vill.higashichichibu.saitama.jp/uploaded/life/8517_61127_misc.pdf",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "speakers": [
+        "吉野文泰",
+        "百瀬浩子",
+        "梅澤邦夫",
+        "渡辺絹代"
+      ],
+      "note": "公式の質問一覧と質問要旨をPDF全9頁収録。議会が公表した事前の通告で、実際の発言と答弁は確認中です。"
+    },
+    {
       "id": "8e38f6c1463cacf7f162",
       "place": "松伏町",
       "season": "spring",
@@ -25425,6 +25442,20 @@ GIKAI.questionText = {
         "田口義博",
         "福井和義",
         "長谷川真也"
+      ]
+    },
+    {
+      "id": "817c03daa11602673701",
+      "place": "松伏町",
+      "season": "fall",
+      "date": "2026-09-03",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "村上真由美議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://matsubushi-town.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=5",
+      "speakers": [
+        "村上真由美"
       ]
     },
     {
@@ -27430,6 +27461,28 @@ GIKAI.questionText = {
       "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
     },
     {
+      "id": "a25d098d3854afed24a3",
+      "place": "神川町",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "令和８年第４回定例会 予定されている一般質問と質問要旨",
+      "url": "https://www.town.kamikawa.saitama.jp/material/files/group/18/ippannsitsumonn202609.pdf",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "speakers": [
+        "川浦雅子",
+        "新井太一",
+        "柴崎愛子",
+        "林部葉月",
+        "坂田弘",
+        "坂本貴佳",
+        "剣持真菜美",
+        "福島康弘",
+        "四方田繁男"
+      ],
+      "note": "公式の質問事項と質問要旨をPDF全5頁収録。議会が公表した事前の通告で、実際の発言と答弁は確認中です。"
+    },
+    {
       "id": "8fe653ffaec2bcdc8f43",
       "place": "秩父市",
       "season": "spring",
@@ -27794,6 +27847,24 @@ GIKAI.questionText = {
       "scope": "minutes",
       "speakers": [],
       "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
+    },
+    {
+      "id": "8aa45376fe6191df2d82",
+      "place": "美里町",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "令和８年第３回定例会 一般質問通告一覧表・予定項目",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000002/2738/R8.9tuukokuitiran.pdf",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "speakers": [
+        "新井英行",
+        "根本孝代",
+        "フジタルイジ",
+        "堀越賢司",
+        "田端恵美子"
+      ],
+      "note": "公式の質問予定項目の一覧をPDF全1頁収録。議会が公表した事前の通告で、実際の発言と答弁は確認中です。"
     },
     {
       "id": "44ce5d0aaaadc130d5c1",
@@ -32859,7 +32930,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "notFound",
-        "note": "2026年の公式会議録の年別一覧で秋の定例会本文を確認できませんでした。"
+        "note": "2026年の公式会議録の年別一覧で秋の定例会本文を確認できませんでした。公式の質問一覧と質問要旨は収録。"
       }
     },
     {
@@ -32885,7 +32956,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "notFound",
-        "note": "2026年の公式会議録の年別一覧で秋の定例会本文を確認できませんでした。"
+        "note": "2026年の公式会議録の年別一覧で秋の定例会本文を確認できませんでした。公式の質問予定項目の一覧は収録。"
       }
     },
     {
@@ -32911,7 +32982,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "notFound",
-        "note": "2026年の公式会議録の年別一覧で秋の定例会本文を確認できませんでした。"
+        "note": "2026年の公式会議録の年別一覧で秋の定例会本文を確認できませんでした。公式の質問事項と質問要旨は収録。"
       }
     },
     {
@@ -33043,7 +33114,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://matsubushi-town.stream.jfit.co.jp/?tpl=gikai_days_list&gikai_id=2",
-        "note": "公式録画一覧の一般質問9人のうち、2人の映像音声を機械文字起こしとして収録。正式会議録は確認中。議会だよりの紙面要約（26論点）も収録。"
+        "note": "公式録画一覧の一般質問9人のうち、3人の映像音声を機械文字起こしとして収録。正式会議録は確認中。議会だよりの紙面要約（26論点）も収録。"
       }
     }
   ]
