@@ -1069,3 +1069,87 @@ GIKAI.cases.push(
     note: "新施設の給食開始と、既存棟を解体する議案の審議・可決を確認しました。解体と外構工事の完成は確認中です。",
   },
 );
+
+GIKAI.cases.push(
+  {
+    place: "新座市",
+    title: "障がい者福祉手当などの復活を求める予算組み替え動議",
+    topic: "当初予算・福祉",
+    actors: ["小野大輔", "石島陽子", "笠原進", "黒田実樹", "小野由美子", "新座市議会"],
+    steps: [
+      {
+        date: "2026-03-26", stage: "基金を財源に福祉など11項目を増やす動議を提出", actor: "小野大輔、石島陽子、笠原進、黒田実樹、小野由美子",
+        detail: "小野大輔議員が提出し、石島陽子、笠原進、黒田実樹、小野由美子の４議員が議案書の賛成者となった。財政調整基金１億2,300万円を財源に、障がい者福祉手当の復活5,680万円、難病患者支援金の復活650万円などを計上するよう求めた。",
+        url: "https://www.city.niiza.lg.jp/uploaded/attachment/70982.pdf#page=1",
+        sourceTitle: "新座市議会 議第５号議案・１頁の署名欄と２頁の組み替え案", billNumber: "議第5号議案",
+      },
+      {
+        date: "2026-03-26", stage: "組み替え動議を否決し、当初予算の原案を可決", actor: "新座市議会",
+        detail: "組み替え動議は賛成７・反対18で否決された。続いて一般会計当初予算（議案第27号）の原案を賛成18・反対７で可決した。",
+        url: "https://niiza.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%82P%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E26%93%FA-15%8D%86&KGNO=538&FINO=2106&UNID=K_R08032600151",
+        sourceTitle: "新座市議会 ３月26日本会議録・発言順23・42", billNumber: "議案第27号",
+      },
+    ],
+    note: "議案書で確認した提出・賛成の役割と、動議・原案それぞれの記名表決を掲載しました。",
+  },
+  {
+    place: "新座市",
+    title: "学校の適正配置を審議する条例を可決し、教育委員会が諮問",
+    topic: "学校配置・教育環境",
+    actors: ["笠原進", "よねはしゆうた", "白井忠雄", "島田久仁代", "池田貞雄", "新座市議会", "新座市教育委員会"],
+    steps: [
+      {
+        date: "2026-03-25", stage: "学校の適正配置を審議する条例案を討論・可決", actor: "新座市議会",
+        detail: "笠原議員は既存の検討報告の検証が足りないとして反対した。よねはし、白井、島田、池田の４議員は賛成の討論を行った。島田議員は、有識者や保護者を含め検討する場の設置だと述べた。市議会は議案第６号を賛成18・反対７で原案可決した。",
+        url: "https://niiza.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%82P%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E25%93%FA-14%8D%86&KGNO=538&FINO=2105&UNID=K_R08032500141",
+        sourceTitle: "新座市議会 ３月25日本会議録・発言順63～80", billNumber: "議案第6号",
+      },
+      {
+        date: "2026-04-01", stage: "学校適正配置等審議会を設置", actor: "新座市",
+        detail: "市立学校の適正配置等について、教育委員会の諮問に応じて審議する機関として設置された。",
+        url: "https://www.city.niiza.lg.jp/site/gakkouteiseihaichi-singikai/",
+        sourceTitle: "新座市 学校適正配置等審議会の設置日・所掌事務",
+      },
+      {
+        date: "2026-07-30", stage: "第１回審議会で学校の規模と配置を諮問", actor: "新座市教育委員会",
+        detail: "教育長から審議会会長へ諮問書を交付した。審議会は学校施設の現況や、保護者等へのアンケート調査についても扱った。",
+        url: "https://www.city.niiza.lg.jp/site/gakkouteiseihaichi-singikai/r080730gakkoutekiseihaichi-kaigiroku.html",
+        sourceTitle: "新座市 第１回審議会の会議録・配布資料・諮問書",
+      },
+    ],
+    note: "条例の可決、審議会の設置と初回の諮問まで確認しました。個別校の再編決定と第２回会議の結果は確認中です。",
+  },
+  {
+    place: "白岡市",
+    title: "旧大山小学校の跡地活用を質し、情報共有を求める決議案を提出",
+    topic: "学校跡地・情報公開",
+    actors: ["大島勉", "嶋田友一郎", "江原浩之", "浜口清志", "黒須大一郎", "和賀正義", "白岡市議会", "白岡市"],
+    steps: [
+      {
+        date: "2026-06-10", stage: "跡地活用の経緯と市の説明を一般質問で確認", actor: "大島勉、白岡市",
+        detail: "大島議員は、県の情報公開で判明した経緯を議会への説明と照らして質問した。経営企画部長は副市長の県学事課への同行を認め、市の当時の答弁が議会や住民に誤解を招いたと説明した。",
+        url: "https://ssp.kaigiroku.net/tenant/shiraoka/SpMinuteView.html?tenant_id=45&council_id=213&schedule_id=5",
+        sourceTitle: "白岡市議会 ６月10日本会議録・発言順151～153",
+      },
+      {
+        date: "2026-06-24", stage: "重要な政策や事業の途中段階で情報共有を求める案を提出", actor: "大島勉、嶋田友一郎、江原浩之、浜口清志",
+        detail: "大島・嶋田両議員は政策決定に至る過程で議会への情報提供と説明を徹底する決議案を提出した。江原・浜口両議員は議案書の賛成者欄に署名した。",
+        url: "https://www.city.shiraoka.lg.jp/material/files/group/28/R8giteian1-1.pdf#page=1",
+        sourceTitle: "白岡市議会 議提案第１号原本・１頁提出者等、２頁決議本文",
+      },
+      {
+        date: "2026-06-25", stage: "賛否の討論を経て決議案を否決", actor: "白岡市議会",
+        detail: "黒須・嶋田両議員は情報公開や説明を徹底する必要があるとして賛成。和賀議員は情報共有の重要性を認めつつ、決議で求めることには反対した。市議会は起立少数で否決した。",
+        url: "https://ssp.kaigiroku.net/tenant/shiraoka/SpMinuteView.html?tenant_id=45&council_id=213&schedule_id=7",
+        sourceTitle: "白岡市議会 ６月25日本会議録・提案説明、討論と採決", billNumber: "議提案第1号",
+      },
+      {
+        date: "2026-10-21", stage: "跡地利用案を含む住民提案への回答を掲載", actor: "白岡市",
+        detail: "旧大山小学校を農業の学びの場に使う案を含む提案に対し、市は関係部署で共有する方針と、法制度や財源などを踏まえて個別施策を判断する考えを示した。日付は掲載ページの更新日。",
+        url: "https://www.city.shiraoka.lg.jp/soshiki/keieikikakubu/kikakuseisakuka/24/15/tegami8/10033.html",
+        sourceTitle: "白岡市 ９月６日受付の市長への手紙と回答の公表ページ",
+      },
+    ],
+    note: "議員の質問、決議案の提出・採決と、市が公表した跡地利用提案への回答を確認しました。跡地の活用方法の決定は確認中です。",
+  },
+);

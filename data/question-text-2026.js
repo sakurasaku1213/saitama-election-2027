@@ -3270,6 +3270,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "114cf9f140d8ee4d1808",
+      "place": "上里町",
+      "season": "fall",
+      "date": "2026-09-04",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "植原育雄議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。 自動検査で確認候補になった時間帯も含まれます。",
+      "url": "https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/speech.html?council_id=47&schedule_id=1&playlist_id=4&speaker_id=14&target_year=2026",
+      "speakers": [
+        "植原育雄"
+      ]
+    },
+    {
       "id": "23042e8eb18c7904c181",
       "place": "上里町",
       "season": "fall",
@@ -23759,6 +23773,34 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "a003e4a1350cee7a32f1",
+      "place": "日高市",
+      "season": "fall",
+      "date": "2026-09-09",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "三木伸也議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/hidaka/WebView/rd/speech.html?council_id=54&schedule_id=4&playlist_id=2&speaker_id=24&target_year=2026",
+      "speakers": [
+        "三木伸也"
+      ]
+    },
+    {
+      "id": "154812a37f449b801ab1",
+      "place": "日高市",
+      "season": "fall",
+      "date": "2026-09-09",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "山田一繁議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/hidaka/WebView/rd/speech.html?council_id=54&schedule_id=4&playlist_id=1&speaker_id=9&target_year=2026",
+      "speakers": [
+        "山田一繁"
+      ]
+    },
+    {
       "id": "be32e2e0190eb1966ead",
       "place": "春日部市",
       "season": "spring",
@@ -27712,6 +27754,30 @@ GIKAI.questionText = {
       "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
     },
     {
+      "id": "6e156027a327f8d95356",
+      "place": "白岡市",
+      "season": "fall",
+      "date": "2026-08-27",
+      "kind": "公式録画の公開自動字幕",
+      "scope": "recording",
+      "title": "白岡市議会 第５回定例会 開会、議案の上程・説明、一部議案の採決（公開字幕）",
+      "url": "https://www.youtube.com/watch?v=qo4oADwrN0g",
+      "speakers": [],
+      "note": "白岡市議会の公式録画に付いた日本語の自動字幕を収録しました。原音を聴いて確定する照合は未了です。時刻は動画の先頭からの目安です。"
+    },
+    {
+      "id": "57dc40e30f7ed2d600ae",
+      "place": "白岡市",
+      "season": "fall",
+      "date": "2026-08-31",
+      "kind": "公式録画の公開自動字幕",
+      "scope": "recording",
+      "title": "白岡市議会 第５回定例会 一般質問１日目（公開字幕）",
+      "url": "https://www.youtube.com/watch?v=7lrQ2-OilKI",
+      "speakers": [],
+      "note": "白岡市議会の公式録画に付いた日本語の自動字幕を収録しました。原音を聴いて確定する照合は未了です。時刻は動画の先頭からの目安です。当日の質問と答弁を含む録画１本分です。発言者名・数字・固有名詞は元の録画でご確認ください。"
+    },
+    {
       "id": "3c6fec6b00e627b6dfff",
       "place": "白岡市",
       "season": "fall",
@@ -27802,6 +27868,54 @@ GIKAI.questionText = {
       "scope": "summary",
       "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
       "speakers": []
+    },
+    {
+      "id": "1dae1f5b479b60b82ac7",
+      "place": "白岡市",
+      "season": "fall",
+      "date": "2026-09-01",
+      "kind": "公式録画の公開自動字幕",
+      "scope": "recording",
+      "title": "白岡市議会 第５回定例会 一般質問２日目（公開字幕）",
+      "url": "https://www.youtube.com/watch?v=zM-ebNJGp0k",
+      "speakers": [],
+      "note": "白岡市議会の公式録画に付いた日本語の自動字幕を収録しました。原音を聴いて確定する照合は未了です。時刻は動画の先頭からの目安です。当日の質問と答弁を含む録画１本分です。発言者名・数字・固有名詞は元の録画でご確認ください。"
+    },
+    {
+      "id": "01d0d317be5f3860a109",
+      "place": "白岡市",
+      "season": "fall",
+      "date": "2026-09-02",
+      "kind": "公式録画の公開自動字幕",
+      "scope": "recording",
+      "title": "白岡市議会 第５回定例会 一般質問３日目（公開字幕）",
+      "url": "https://www.youtube.com/watch?v=ekJevMKLt7E",
+      "speakers": [],
+      "note": "白岡市議会の公式録画に付いた日本語の自動字幕を収録しました。原音を聴いて確定する照合は未了です。時刻は動画の先頭からの目安です。当日の質問と答弁を含む録画１本分です。発言者名・数字・固有名詞は元の録画でご確認ください。"
+    },
+    {
+      "id": "f9934715de32a35e388b",
+      "place": "白岡市",
+      "season": "fall",
+      "date": "2026-09-04",
+      "kind": "公式録画の公開自動字幕",
+      "scope": "recording",
+      "title": "白岡市議会 第５回定例会 議案質疑、一部議案の採決、委員会付託（公開字幕）",
+      "url": "https://www.youtube.com/watch?v=f2RqL4vmMhM",
+      "speakers": [],
+      "note": "白岡市議会の公式録画に付いた日本語の自動字幕を収録しました。原音を聴いて確定する照合は未了です。時刻は動画の先頭からの目安です。"
+    },
+    {
+      "id": "5dfbe77a8da35c283a27",
+      "place": "白岡市",
+      "season": "fall",
+      "date": "2026-09-25",
+      "kind": "公式録画の公開自動字幕",
+      "scope": "recording",
+      "title": "白岡市議会 第５回定例会 委員長報告、討論、採決、閉会（公開字幕）",
+      "url": "https://www.youtube.com/watch?v=I0FtW-NcSsw",
+      "speakers": [],
+      "note": "白岡市議会の公式録画に付いた日本語の自動字幕を収録しました。原音を聴いて確定する照合は未了です。時刻は動画の先頭からの目安です。"
     },
     {
       "id": "9630ef8d988dabe61eef",
@@ -32967,7 +33081,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/hidaka/WebView/rd/council.html?year=2026&council_id=54",
-        "note": "公式録画一覧の一般質問12人のうち、4人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
+        "note": "公式録画一覧の一般質問12人のうち、6人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
       }
     },
     {
@@ -33046,7 +33160,8 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "議会だより要旨 7資料。配布用HTMLで本文を開けます。"
+        "indexURL": "https://www.city.shiraoka.lg.jp/soshiki/gikaijimukyoku/5/R8teireikai-joho/9165.html",
+        "note": "市議会公式録画の一般質問３日を含む本会議６日の公開自動字幕と、議会だよりの質問・答弁要旨を収録。正式会議録と原音の照合は確認中。"
       }
     },
     {
@@ -33540,7 +33655,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/council.html?year=2026&council_id=47",
-        "note": "公式録画一覧の一般質問11人のうち、2人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
+        "note": "公式録画一覧の一般質問11人のうち、3人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
       }
     },
     {

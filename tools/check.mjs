@@ -369,6 +369,12 @@ for (const bill of coverage.decisions) {
     assert.ok(bill.voteType && Object.keys(bill.votes).length);
     validLink(bill.voteURL);
   }
+  if (bill.voteConflicts) {
+    assert.ok(bill.voteNote && bill.voteConflicts.length && bill.votes, key);
+    assert.equal(new Set(bill.voteConflicts).size, bill.voteConflicts.length, key);
+    assert.ok(bill.voteConflicts.every((name) => Object.hasOwn(bill.votes, name)), key);
+    validLink(bill.voteConflictURL);
+  }
 }
 const matsubushiVotes = coverage.decisions.filter((bill) => bill.place === "松伏町" && bill.season === "fall");
 assert.equal(matsubushiVotes.length, 20);
