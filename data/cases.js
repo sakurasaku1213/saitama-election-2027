@@ -1798,3 +1798,137 @@ GIKAI.cases.push(
     "note": "議員が確認した解体時の不測の費用や負担割合は協議段階です。分別の変更と新施設の本稼働について、現時点では市の公表した日程を収録しています。"
   },
 );
+
+GIKAI.cases.push({
+  place: "熊谷市",
+  title: "コンビニ交付手数料の引下げを質し、対象の証明書で10円の期間限定措置を開始",
+  topic: "行政手続・窓口サービス",
+  actors: ["小林國章", "熊谷市議会", "熊谷市"],
+  steps: [
+    {
+      date: "2026-03-11", stage: "他市の水準を示して手数料の引下げを求める", actor: "小林國章、熊谷市市民活動推進課",
+      detail: "小林議員は、窓口とコンビニで取得できる証明書の手数料について他市の例を挙げ、窓口混雑の緩和を見据えた引下げを求め、目安となる金額を尋ねた。課長は、当時の金額は示せないが減額を含め検討すると答えた。",
+      url: "https://ssp.kaigiroku.net/tenant/kumagaya/SpMinuteView.html?tenant_id=94&council_id=373&schedule_id=6",
+      sourceTitle: "熊谷市議会 ３月11日本会議録・194～200頁、発言順63・64・72～74",
+      archiveId: "105225cfba7254da5880",
+      memberActions: [
+        { name: "小林國章", blocks: [63, 64, 72, 73, 74], detail: "太田市の期間限定10円などの先行例を示してコンビニ交付手数料の引下げを求め、市が検討する金額の目安を確かめた。" },
+      ],
+    },
+    {
+      date: "2026-09-07", stage: "常任委員会で他の自治体の手数料を確認", actor: "熊谷市議会市民福祉常任委員会",
+      detail: "市議会だよりは、10円措置の後に住民票のコンビニ交付を150円とする案について、委員会が他の自治体の手数料を尋ね、市が県内の状況を説明したと報告している。",
+      url: "https://www.city.kumagaya.lg.jp/shigikai/gikaidayori/20261101.files/85-p12-14-web.pdf#page=2",
+      sourceTitle: "くまがや市議会だより第85号・紙面13頁の委員会質疑",
+    },
+    {
+      date: "2026-09-18", stage: "減額を盛り込んだ補正予算を可決", actor: "熊谷市議会",
+      detail: "市は９月補正予算にコンビニ交付手数料を200円から150円に下げ、利用周知のため１年間は10円とする措置を盛り込んだ。議会は一般会計補正予算（第２号）を原案可決した。",
+      url: "https://www.city.kumagaya.lg.jp/about/zaisei/yosantuite/yosangaiyo/R8-9hoseiyosan.html",
+      sourceTitle: "熊谷市 令和８年度９月補正予算の概要",
+      billNumber: "議案第65号",
+    },
+    {
+      date: "2026-09-18", stage: "手数料徴収条例の改正案を可決", actor: "熊谷市議会",
+      detail: "議会は手数料徴収条例の一部改正を原案可決した。原表では賛成28人、欠席１人、議長は表決不参加。",
+      url: "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      sourceTitle: "熊谷市議会 ９月18日議決分審議結果・議案第68号",
+      billNumber: "議案第68号",
+    },
+    {
+      date: "2026-09-28", stage: "市が対象と実施期間を発表", actor: "熊谷市",
+      detail: "市長定例記者会見で、2026年11月２日から2027年11月１日まで１通10円とし、期間終了後は150円とする対象の証明書を発表した。",
+      url: "https://www.city.kumagaya.lg.jp/shicho/kaiken/r8/R800928kishakaiken.html",
+      sourceTitle: "熊谷市 ９月28日定例記者会見・コンビニ交付手数料",
+    },
+    {
+      date: "2026-11-02", stage: "対象の証明書５種類で10円措置を開始", actor: "熊谷市",
+      detail: "市の利用案内は、住民票の写し・住民票記載事項証明書・印鑑登録証明書・戸籍の附票の写し・市民税県民税の所得等証明書を対象に掲げた。",
+      url: "https://www.city.kumagaya.lg.jp/kurashi/tetsuduki/konbinikouhu.html",
+      sourceTitle: "熊谷市 コンビニ交付手数料10円キャンペーンの案内",
+    },
+  ],
+  note: "小林議員が春に紹介した10円は近隣市の先行例です。熊谷市で実施する額・期間は、秋の予算と市の発表・利用案内で確認しました。制度開始後の交付件数は確認中です。",
+});
+
+GIKAI.cases.push(
+  {
+    place: "熊谷市",
+    title: "荒川公園の新体育館案を２会期で検証し、協議会で市の対応案を審議",
+    topic: "公共施設・公園再整備",
+    actors: ["桜井くるみ", "臼杵健", "熊谷市", "荒川公園周辺再整備基本計画策定協議会"],
+    steps: [
+      {
+        date: "2026-06-16", stage: "第１回協議会で基本計画の素案を検討", actor: "荒川公園周辺再整備基本計画策定協議会",
+        detail: "事務局と委託事業者が検討状況と基本計画の素案を説明し、出席委員が質問や意見を述べた。",
+        url: "https://www.city.kumagaya.lg.jp/about/soshiki/sogo/sportstown/oshirase/arakawaparks.files/kyogikai1_gaiyo.pdf#page=1",
+        sourceTitle: "熊谷市 第１回荒川公園周辺再整備基本計画策定協議会の概要",
+      },
+      {
+        date: "2026-06-18", stage: "規模、住民への影響と協議の進め方を質す", actor: "桜井くるみ、熊谷市",
+        detail: "桜井議員は住民アンケートの内容、施設の規模や配置、浸水への備え、協議会の論点と今後の日程を質した。市は協議会と住民説明を経て年度内の計画策定を目指すと答えた。",
+        url: "https://ssp.kaigiroku.net/tenant/kumagaya/SpMinuteView.html?tenant_id=94&council_id=378&schedule_id=5",
+        sourceTitle: "熊谷市議会 ６月18日本会議・発言順112・114・140・151・159",
+        archiveId: "7fbdce7fe3d03c4f417d",
+        memberActions: [
+          { name: "桜井くるみ", blocks: [112, 114, 140, 151, 159], detail: "住民アンケートの結果や新体育館の規模・配置、周辺への影響、協議会で検討中の論点を尋ねた。" },
+        ],
+      },
+      {
+        date: "2026-09-11", stage: "体育館の使用想定、建設費と維持費を問い直す", actor: "桜井くるみ、熊谷市",
+        detail: "議会だよりは、桜井議員が大会規模や代替案、建設費と維持費を質したと掲載している。市は、競技大会の利用想定や、公園周辺の条件を踏まえた検討状況を説明した。",
+        url: "https://www.city.kumagaya.lg.jp/shigikai/gikaidayori/20261101.files/85-p04-11-web.pdf#page=5",
+        sourceTitle: "くまがや市議会だより第85号・紙面８頁",
+        memberActions: [
+          { name: "桜井くるみ", detail: "６月の質問に続き、全国規模の大会を想定する根拠、代替案、建設費と年間の維持管理費を尋ねた。" },
+        ],
+      },
+      {
+        date: "2026-09-14", stage: "固定席数と費用の算定根拠、協議内容の公開を質す", actor: "臼杵健、熊谷市",
+        detail: "議会だよりは、固定席約1,700席の内訳、解体費を含む事業費、会議記録等の公開を臼杵議員が尋ねたと掲載している。市は席数の見込みを説明し、解体費等を今後精査すると答えた。",
+        url: "https://www.city.kumagaya.lg.jp/shigikai/gikaidayori/20261101.files/85-p04-11-web.pdf#page=7",
+        sourceTitle: "くまがや市議会だより第85号・紙面10頁",
+        memberActions: [
+          { name: "臼杵健", detail: "固定観客席の算定根拠、解体費を含む事業費、協議会記録の公表方針を尋ねた。" },
+        ],
+      },
+      {
+        date: "2026-09-24", stage: "第２回協議会で計画案と市の対応案を審議", actor: "荒川公園周辺再整備基本計画策定協議会",
+        detail: "会議の概要には、住民等からの意見に対する市の対応案と、再整備基本計画案について議論したことが記されている。避難機能や公園利用に関する委員の意見も掲載された。",
+        url: "https://www.city.kumagaya.lg.jp/about/soshiki/sogo/sportstown/oshirase/arakawaparks.files/kyogikai2_gaiyo.pdf#page=1",
+        sourceTitle: "熊谷市 第２回荒川公園周辺再整備基本計画策定協議会の概要",
+      },
+    ],
+    note: "初夏の正式会議録と秋の紙面要旨、２回の協議会概要から確認した経過です。基本計画の決定と工事の着手は確認中です。",
+  },
+  {
+    place: "寄居町",
+    title: "全町民へのヨリカ支給後に、物価高対策の配分を質す",
+    topic: "物価高対策・地域通貨",
+    actors: ["浅見玲子", "寄居町"],
+    steps: [
+      {
+        date: "2026-01", stage: "町民に3,000円分の紙カードを送付", actor: "寄居町",
+        detail: "広報は、１月１日時点の住民登録を基準に一人3,000ポイント分の紙カードを１月末から送付し、２月10日から３月31日まで利用できると案内した。",
+        url: "https://www.town.yorii.saitama.jp/uploaded/attachment/27034.pdf#page=2",
+        sourceTitle: "広報よりい 2026年２月号・ヨリカポイントの物価高騰対応支援",
+      },
+      {
+        date: "2026-06-01", stage: "ヨリカ決済への20％還元を開始", actor: "寄居町",
+        detail: "町は６月１日から30日まで、取扱店のヨリカ決済額の20％を還元し、一人6,000ポイントを上限とした。公式案内では、カードに付与されたポイントをアプリに移行する場合も説明している。",
+        url: "https://www.town.yorii.saitama.jp/soshiki/12/yorica20percentpointback.html",
+        sourceTitle: "寄居町 ヨリカ20％ポイント還元キャンペーンの実施・終了案内",
+      },
+      {
+        date: "2026-09-15", stage: "全町民への支援増額と還元予算との配分を質す", actor: "浅見玲子、寄居町",
+        detail: "議会だよりによると、浅見議員は全町民に支給した3,000円分の増額を求め、アプリ登録者への還元予算との差を指摘した。町は早急な支援を優先したことと、登録すればアプリを使えることを説明した。",
+        url: "https://www.town.yorii.saitama.jp/uploaded/attachment/28518.pdf#page=17",
+        sourceTitle: "寄居議会だより第122号・紙面17頁の一般質問要旨",
+        memberActions: [
+          { name: "浅見玲子", detail: "全町民への支給額を増やすよう求め、アプリ登録者向けの還元との予算配分を質した。" },
+        ],
+      },
+    ],
+    note: "町が公表した配布と購入時の還元を経過に載せました。秋の質問で指摘した還元予算の議案番号と、質問後の全町民向け支援の増額は確認中です。",
+  },
+);
