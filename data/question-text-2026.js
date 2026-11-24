@@ -1,0 +1,28031 @@
+GIKAI.questionText = {
+  "checked": "2026-11-24",
+  "documents": [
+    {
+      "id": "28900786dfbd54b89da9",
+      "place": "さいたま市",
+      "season": "spring",
+      "date": "2026-02-03",
+      "title": "02月03日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1074&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "伊藤仕",
+        "高子景"
+      ]
+    },
+    {
+      "id": "b02dfa86a18acc2f1ffd",
+      "place": "さいたま市",
+      "season": "spring",
+      "date": "2026-02-04",
+      "title": "02月04日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1074&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中山淳一",
+        "伊藤仕",
+        "佐藤征治郎",
+        "吉田一郎",
+        "大貫田鶴子",
+        "小柳嘉文",
+        "川村準",
+        "新井森夫",
+        "神坂達成",
+        "竹腰連"
+      ]
+    },
+    {
+      "id": "95d14b5338bc59d0743f",
+      "place": "さいたま市",
+      "season": "spring",
+      "date": "2026-02-09",
+      "title": "02月09日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1074&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "伊藤仕",
+        "出雲圭子",
+        "吉田一志",
+        "吉田一郎",
+        "松本翔",
+        "谷中信人"
+      ]
+    },
+    {
+      "id": "1987385c5ee35d7a30f7",
+      "place": "さいたま市",
+      "season": "spring",
+      "date": "2026-02-10",
+      "title": "02月10日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1074&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "伊藤仕",
+        "吉田一志",
+        "帆足和之",
+        "渋谷佳孝",
+        "照喜納弘志",
+        "谷中信人",
+        "鶴崎敏康"
+      ]
+    },
+    {
+      "id": "3489182b86cf69b99d1d",
+      "place": "さいたま市",
+      "season": "spring",
+      "date": "2026-02-12",
+      "title": "02月12日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1074&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中山欽哉",
+        "久保美樹",
+        "伊藤仕",
+        "吉村豪介",
+        "堀川友良",
+        "松村敏夫",
+        "江原大輔",
+        "青羽健仁"
+      ]
+    },
+    {
+      "id": "ea496598d4097ad19cdd",
+      "place": "さいたま市",
+      "season": "spring",
+      "date": "2026-03-11",
+      "title": "03月11日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1074&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中山淳一",
+        "伊藤仕",
+        "出雲圭子",
+        "吉田一郎",
+        "土橋勇司",
+        "川崎照正",
+        "松本翔",
+        "神坂達成",
+        "関ひろみ"
+      ]
+    },
+    {
+      "id": "763994c0ebb28a5e0f00",
+      "place": "さいたま市",
+      "season": "spring",
+      "date": "2026-03-12",
+      "title": "03月12日－07号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1074&schedule_id=8",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中山淳一",
+        "伊藤仕",
+        "佐藤征治郎",
+        "出雲圭子",
+        "吉田一郎",
+        "尾上貴明",
+        "川村準",
+        "松村敏夫",
+        "津和野眞佐子",
+        "添野ふみ子",
+        "西山幸代",
+        "谷中信人",
+        "都築龍太",
+        "金子昭代",
+        "阪本克己",
+        "鳥羽恵"
+      ]
+    },
+    {
+      "id": "c856b0b1429d542a755b",
+      "place": "さいたま市",
+      "season": "summer",
+      "date": "2026-06-03",
+      "title": "06月03日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1083&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "久保美樹",
+        "伊藤仕",
+        "佐藤潤",
+        "出雲圭子",
+        "土橋勇司",
+        "小柳嘉文",
+        "川崎照正",
+        "帆足和之",
+        "松本翔",
+        "桶本大輔",
+        "江原大輔",
+        "浜口健司",
+        "渋谷佳孝",
+        "西山幸代",
+        "谷中信人",
+        "関ひろみ"
+      ]
+    },
+    {
+      "id": "f25f9e17a4267421c46e",
+      "place": "さいたま市",
+      "season": "summer",
+      "date": "2026-06-04",
+      "title": "06月04日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1083&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中山淳一",
+        "久保美樹",
+        "伊藤仕",
+        "佐藤潤",
+        "吉田一郎",
+        "川村準",
+        "新井森夫",
+        "服部剛",
+        "松本翔",
+        "松村敏夫",
+        "相川綾香",
+        "秋山朋彦",
+        "高柳俊哉"
+      ]
+    },
+    {
+      "id": "cabb27861b8b1fdfd738",
+      "place": "さいたま市",
+      "season": "summer",
+      "date": "2026-06-08",
+      "title": "06月08日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1083&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "伊藤仕",
+        "佐藤潤",
+        "佐藤真実",
+        "吉田一郎",
+        "堀川友良",
+        "大貫田鶴子",
+        "川村準",
+        "新井森夫",
+        "江原大輔"
+      ]
+    },
+    {
+      "id": "6d159ac69847bfbb5043",
+      "place": "さいたま市",
+      "season": "summer",
+      "date": "2026-06-09",
+      "title": "06月09日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1083&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "三神尊志",
+        "中山淳一",
+        "伊藤仕",
+        "佐々木郷美",
+        "尾上貴明",
+        "池田めぐみ",
+        "萩原章弘",
+        "谷中信人"
+      ]
+    },
+    {
+      "id": "e9fbcc66a3254c39964a",
+      "place": "さいたま市",
+      "season": "summer",
+      "date": "2026-06-10",
+      "title": "06月10日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1083&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中山淳一",
+        "伊藤仕",
+        "佐藤征治郎",
+        "吉田一志",
+        "吉田一郎",
+        "川崎照正",
+        "川村準",
+        "斉藤健一",
+        "桶本大輔",
+        "津和野眞佐子",
+        "竹腰連",
+        "西山幸代",
+        "谷中信人",
+        "金子昭代"
+      ]
+    },
+    {
+      "id": "04d1d4e85f6affc804d0",
+      "place": "さいたま市",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "06月25日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1083&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "伊藤仕",
+        "佐伯加寿美",
+        "出雲圭子",
+        "吉田一郎",
+        "土橋勇司",
+        "堤日出喜",
+        "尾上貴明",
+        "川崎照正",
+        "新井森夫",
+        "松本翔",
+        "江原大輔",
+        "津和野眞佐子",
+        "照喜納弘志",
+        "相川綾香",
+        "石関洋臣",
+        "神坂達成",
+        "竹腰連",
+        "金井康博",
+        "関ひろみ",
+        "青羽健仁"
+      ]
+    },
+    {
+      "id": "ac2f23142ad9a2e2da7a",
+      "place": "さいたま市",
+      "season": "summer",
+      "date": "2026-06-26",
+      "title": "06月26日－07号",
+      "url": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteView.html?tenant_id=134&council_id=1083&schedule_id=8",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中山淳一",
+        "伊藤仕",
+        "佐伯加寿美",
+        "佐藤征治郎",
+        "佐藤潤",
+        "北岡久住",
+        "吉田一志",
+        "吉田一郎",
+        "土橋勇司",
+        "堤日出喜",
+        "小森谷優",
+        "川村準",
+        "斉藤健一",
+        "新井森夫",
+        "松村敏夫",
+        "添野ふみ子",
+        "渋谷佳孝",
+        "西山幸代",
+        "谷中信人",
+        "都築龍太",
+        "金井康博",
+        "阪本克己",
+        "高子景",
+        "鳥羽恵"
+      ]
+    },
+    {
+      "id": "3e75538fc23964a61c0a",
+      "place": "ときがわ町",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "2026-03-04 本会議録",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/htm/gijiroku/r08/03040001.htm",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "小室初江",
+        "小宮正",
+        "小島利枝",
+        "小野田直幸",
+        "田中紀吉",
+        "畑豊",
+        "神山俊",
+        "笠井洋昭",
+        "野原和夫"
+      ]
+    },
+    {
+      "id": "aadb46e04a38bc587c95",
+      "place": "ときがわ町",
+      "season": "spring",
+      "date": "2026-03-13",
+      "title": "2026-03-13 本会議録",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/htm/gijiroku/r08/03130002.htm",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "小宮正",
+        "小島利枝",
+        "田中紀吉",
+        "神山俊",
+        "笠井洋昭",
+        "野原和夫"
+      ]
+    },
+    {
+      "id": "60972d731433b7c9b6b3",
+      "place": "ときがわ町",
+      "season": "summer",
+      "date": "2026-06-02",
+      "title": "2026-06-02 本会議録",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/htm/gijiroku/r08/06020001.htm",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "小宮正",
+        "田中紀吉",
+        "畑豊",
+        "神山由絵",
+        "笠井洋昭",
+        "野原和夫",
+        "髙橋浩美"
+      ]
+    },
+    {
+      "id": "5e5051c87cfac01493f9",
+      "place": "ときがわ町",
+      "season": "summer",
+      "date": "2026-06-04",
+      "title": "2026-06-04 本会議録",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/htm/gijiroku/r08/06040002.htm",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "小室初江",
+        "小宮正",
+        "小島利枝",
+        "小野田直幸",
+        "畑豊",
+        "神山俊"
+      ]
+    },
+    {
+      "id": "5c818c65ae1cc1d46d36",
+      "place": "ときがわ町",
+      "season": "summer",
+      "date": "2026-06-05",
+      "title": "2026-06-05 本会議録",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/htm/gijiroku/r08/06050003.htm",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "小宮正",
+        "田中紀吉",
+        "畑豊",
+        "神山俊",
+        "笠井洋昭",
+        "野原和夫"
+      ]
+    },
+    {
+      "id": "849cc89af95a5271f120",
+      "place": "ときがわ町",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "ときがわ町議会だより第83号 10・11頁「全質問事項」",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83-w-6.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
+      "speakers": []
+    },
+    {
+      "id": "387e47a7d49474097422",
+      "place": "ふじみ野市",
+      "season": "spring",
+      "date": "2026-02-20",
+      "title": "02月20日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=299&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "加藤恵一"
+      ]
+    },
+    {
+      "id": "728d4600c4827e52783c",
+      "place": "ふじみ野市",
+      "season": "spring",
+      "date": "2026-02-25",
+      "title": "02月25日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=299&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "加藤恵一",
+        "原田雄一",
+        "古越孝子",
+        "塚越洋一",
+        "山田敏夫",
+        "川畑京子",
+        "床井紀範",
+        "民部佳代",
+        "田中早苗",
+        "近藤善則"
+      ]
+    },
+    {
+      "id": "4c42ea82adbe03c547e9",
+      "place": "ふじみ野市",
+      "season": "spring",
+      "date": "2026-03-10",
+      "title": "03月10日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=299&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "加藤恵一",
+        "原田雄一",
+        "古越孝子",
+        "坪田敏孝",
+        "田中早苗",
+        "野口一也",
+        "鈴木美恵"
+      ]
+    },
+    {
+      "id": "39a286e5615f6da368bc",
+      "place": "ふじみ野市",
+      "season": "spring",
+      "date": "2026-03-11",
+      "title": "03月11日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=299&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "前田広子",
+        "加藤恵一",
+        "山田敏夫",
+        "床井紀範",
+        "民部佳代",
+        "鈴木宏樹"
+      ]
+    },
+    {
+      "id": "123f64d0f7e234bd47f3",
+      "place": "ふじみ野市",
+      "season": "spring",
+      "date": "2026-03-12",
+      "title": "03月12日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=299&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "加藤恵一",
+        "塚越洋一",
+        "小林久美",
+        "小林憲人",
+        "川島秀男",
+        "板倉篤"
+      ]
+    },
+    {
+      "id": "343bdb45513a688e6198",
+      "place": "ふじみ野市",
+      "season": "spring",
+      "date": "2026-03-18",
+      "title": "03月18日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=299&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "前田広子",
+        "加藤恵一",
+        "古越孝子",
+        "塚越洋一",
+        "小林久美",
+        "小林憲人",
+        "山田敏夫",
+        "川島秀男",
+        "床井紀範",
+        "板倉篤",
+        "民部佳代",
+        "田中早苗",
+        "近藤善則",
+        "野口一也",
+        "鈴木啓太郎",
+        "鈴木宏樹",
+        "鈴木美恵"
+      ]
+    },
+    {
+      "id": "2ade0908b9e7a9276c4f",
+      "place": "ふじみ野市",
+      "season": "summer",
+      "date": "2026-06-01",
+      "title": "06月01日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=308&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "加藤恵一",
+        "原田雄一",
+        "坪田敏孝",
+        "塚越洋一",
+        "小林久美",
+        "民部佳代",
+        "鈴木宏樹"
+      ]
+    },
+    {
+      "id": "3c5fa5e832da08de3797",
+      "place": "ふじみ野市",
+      "season": "summer",
+      "date": "2026-06-03",
+      "title": "06月03日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=308&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "加藤恵一",
+        "小林久美",
+        "床井紀範",
+        "民部佳代",
+        "鈴木宏樹"
+      ]
+    },
+    {
+      "id": "acaeef988a8912901e0a",
+      "place": "ふじみ野市",
+      "season": "summer",
+      "date": "2026-06-11",
+      "title": "06月11日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=308&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "加藤恵一",
+        "古越孝子",
+        "坪田敏孝",
+        "川畑京子",
+        "床井紀範",
+        "田中早苗",
+        "鈴木啓太郎"
+      ]
+    },
+    {
+      "id": "2543124d1cbefa1fe8f0",
+      "place": "ふじみ野市",
+      "season": "summer",
+      "date": "2026-06-12",
+      "title": "06月12日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=308&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "前田広子",
+        "加藤恵一",
+        "塚越洋一",
+        "川島秀男",
+        "民部佳代",
+        "野口一也"
+      ]
+    },
+    {
+      "id": "c6d99849fead18ba113a",
+      "place": "ふじみ野市",
+      "season": "summer",
+      "date": "2026-06-15",
+      "title": "06月15日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=308&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "加藤恵一",
+        "原田雄一",
+        "小林久美",
+        "小林憲人",
+        "板倉篤",
+        "鈴木美恵"
+      ]
+    },
+    {
+      "id": "a60653239579b6c88f14",
+      "place": "ふじみ野市",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "06月19日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=308&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "前田広子",
+        "加藤恵一",
+        "原田雄一",
+        "古越孝子",
+        "坪田敏孝",
+        "塚越洋一",
+        "小林久美",
+        "山田敏夫",
+        "川島秀男",
+        "床井紀範",
+        "板倉篤",
+        "民部佳代",
+        "田中早苗",
+        "近藤善則",
+        "鈴木啓太郎",
+        "鈴木宏樹",
+        "鈴木美恵"
+      ]
+    },
+    {
+      "id": "d3a5347c5b18d1bd121f",
+      "place": "ふじみ野市",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "09月01日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=309&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "加藤恵一",
+        "原田雄一",
+        "坪田敏孝",
+        "塚越洋一",
+        "山田敏夫",
+        "野口一也",
+        "鈴木啓太郎"
+      ]
+    },
+    {
+      "id": "7b03ace9737a7c0593b2",
+      "place": "ふじみ野市",
+      "season": "fall",
+      "date": "2026-09-03",
+      "title": "09月03日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=309&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "加藤恵一",
+        "塚越洋一",
+        "板倉篤",
+        "民部佳代",
+        "鈴木啓太郎",
+        "鈴木美恵"
+      ]
+    },
+    {
+      "id": "4b8a77cffa79257c55bb",
+      "place": "ふじみ野市",
+      "season": "fall",
+      "date": "2026-09-16",
+      "title": "09月16日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=309&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "加藤恵一",
+        "古越孝子",
+        "坪田敏孝",
+        "板倉篤",
+        "田中早苗",
+        "野口一也"
+      ]
+    },
+    {
+      "id": "1d4ea438cab287b51ef9",
+      "place": "ふじみ野市",
+      "season": "fall",
+      "date": "2026-09-17",
+      "title": "09月17日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=309&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "前田広子",
+        "加藤恵一",
+        "塚越洋一",
+        "小林久美",
+        "川島秀男",
+        "鈴木宏樹",
+        "鈴木美恵"
+      ]
+    },
+    {
+      "id": "771b144d37dc328c3310",
+      "place": "ふじみ野市",
+      "season": "fall",
+      "date": "2026-09-18",
+      "title": "09月18日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=309&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "加藤恵一",
+        "原田雄一",
+        "小林憲人",
+        "山田敏夫",
+        "床井紀範",
+        "民部佳代"
+      ]
+    },
+    {
+      "id": "1fb64b3fef7bc4193788",
+      "place": "ふじみ野市",
+      "season": "fall",
+      "date": "2026-09-29",
+      "title": "09月29日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=309&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "前田広子",
+        "加藤恵一",
+        "原田雄一",
+        "古越孝子",
+        "坪田敏孝",
+        "塚越洋一",
+        "小林久美",
+        "川島秀男",
+        "床井紀範",
+        "板倉篤",
+        "民部佳代",
+        "近藤善則",
+        "鈴木啓太郎",
+        "鈴木宏樹",
+        "鈴木美恵"
+      ]
+    },
+    {
+      "id": "f8b8fb0fe6918b55ae0d",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "02月26日－一般質問－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=675&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "内藤美佐子",
+        "桃園典子",
+        "細田三恵",
+        "細谷光弘",
+        "菊地浩二"
+      ]
+    },
+    {
+      "id": "91a5615a9327082f97ed",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-02-27",
+      "title": "02月27日－一般質問－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=675&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "久保健二",
+        "光下重之",
+        "林善美",
+        "桃園典子",
+        "細谷光弘",
+        "長野真寿美"
+      ]
+    },
+    {
+      "id": "fc86d7b26a46e08991b4",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "03月02日－一般質問－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=675&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "吉村美津子",
+        "増田磨美",
+        "小松伸介",
+        "牛丸藍子",
+        "細谷光弘"
+      ]
+    },
+    {
+      "id": "56d3430bfc267fc97773",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "03月03日－一般質問－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=675&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "本名洋",
+        "細谷光弘"
+      ]
+    },
+    {
+      "id": "ee6dc72fa0fd87bc7180",
+      "place": "三芳町",
+      "season": "summer",
+      "date": "2026-06-02",
+      "title": "06月02日－一般質問－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=682&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "内藤美佐子",
+        "桃園典子",
+        "牛丸藍子",
+        "細谷光弘",
+        "菊地浩二"
+      ]
+    },
+    {
+      "id": "5224a65eb98a41b46aa0",
+      "place": "三芳町",
+      "season": "summer",
+      "date": "2026-06-04",
+      "title": "06月04日－一般質問－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=682&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "吉村美津子",
+        "林善美",
+        "桃園典子",
+        "細田三恵",
+        "細谷光弘",
+        "長野真寿美"
+      ]
+    },
+    {
+      "id": "5c15bea69bd180852058",
+      "place": "三芳町",
+      "season": "summer",
+      "date": "2026-06-05",
+      "title": "06月05日－一般質問－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=682&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "久保健二",
+        "光下重之",
+        "増田磨美",
+        "小松伸介",
+        "細谷光弘"
+      ]
+    },
+    {
+      "id": "7129847bb4ec803997fd",
+      "place": "三芳町",
+      "season": "summer",
+      "date": "2026-06-08",
+      "title": "06月08日－一般質問－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=682&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "本名洋",
+        "細谷光弘"
+      ]
+    },
+    {
+      "id": "ed990653b48c7a0168d6",
+      "place": "三芳町",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "三芳町議会だより202号・町政を問う",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_202.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
+      "speakers": []
+    },
+    {
+      "id": "d5f6c688d8bff58573e1",
+      "place": "三郷市",
+      "season": "spring",
+      "date": "2026-02-24",
+      "title": "02月24日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/misato/SpMinuteView.html?tenant_id=209&council_id=188&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "佐々木修"
+      ]
+    },
+    {
+      "id": "5d3d246954a6bc10048a",
+      "place": "三郷市",
+      "season": "spring",
+      "date": "2026-02-25",
+      "title": "02月25日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/misato/SpMinuteView.html?tenant_id=209&council_id=188&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": []
+    },
+    {
+      "id": "c618cb4fcfdcb2c12cb0",
+      "place": "三郷市",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "03月02日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/misato/SpMinuteView.html?tenant_id=209&council_id=188&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "工藤智加子",
+        "柳瀬勝彦",
+        "柴田吾一",
+        "深川智加",
+        "紺野伊久子",
+        "西村寿美枝"
+      ]
+    },
+    {
+      "id": "65af651a95b5e5c6b081",
+      "place": "三郷市",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "03月03日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/misato/SpMinuteView.html?tenant_id=209&council_id=188&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "工藤智加子",
+        "深川智加",
+        "紺野伊久子"
+      ]
+    },
+    {
+      "id": "8dea8eb9457d6432d0a3",
+      "place": "三郷市",
+      "season": "spring",
+      "date": "2026-03-11",
+      "title": "03月11日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/misato/SpMinuteView.html?tenant_id=209&council_id=188&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "佐々木修",
+        "佐藤裕之",
+        "宇治由紀子",
+        "寺沢美紗",
+        "工藤智加子",
+        "柳瀬勝彦",
+        "深川智加",
+        "篠田隆彦",
+        "紺野伊久子",
+        "西尾秀貴",
+        "西村寿美枝",
+        "高橋誠一",
+        "鳴海和美"
+      ]
+    },
+    {
+      "id": "f732e5f10b8d1b3d97f0",
+      "place": "三郷市",
+      "season": "spring",
+      "date": "2026-03-12",
+      "title": "03月12日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/misato/SpMinuteView.html?tenant_id=209&council_id=188&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "宇治由紀子",
+        "日高千穂",
+        "沖原優子",
+        "菊名裕",
+        "西尾秀貴",
+        "鳴海和美"
+      ]
+    },
+    {
+      "id": "4af2733ba96f03c4f740",
+      "place": "三郷市",
+      "season": "spring",
+      "date": "2026-03-13",
+      "title": "03月13日－07号",
+      "url": "https://ssp.kaigiroku.net/tenant/misato/SpMinuteView.html?tenant_id=209&council_id=188&schedule_id=8",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "工藤智加子",
+        "柳瀬勝彦",
+        "柴田吾一",
+        "桑原洋昭",
+        "深川智加",
+        "渡邉雅人",
+        "紺野伊久子",
+        "鈴木優作"
+      ]
+    },
+    {
+      "id": "cb0290943e0b0d20c67d",
+      "place": "三郷市",
+      "season": "spring",
+      "date": "2026-03-16",
+      "title": "03月16日－08号",
+      "url": "https://ssp.kaigiroku.net/tenant/misato/SpMinuteView.html?tenant_id=209&council_id=188&schedule_id=9",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "寺沢美紗",
+        "竹内嘉洋"
+      ]
+    },
+    {
+      "id": "2810b1ca7a07a72965de",
+      "place": "三郷市",
+      "season": "summer",
+      "date": "2026-06-01",
+      "title": "06月01日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/misato/SpMinuteView.html?tenant_id=209&council_id=189&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "佐々木修",
+        "渡邉雅人",
+        "菊名裕",
+        "鈴木深太郎"
+      ]
+    },
+    {
+      "id": "14a8f712af5b9ca7160b",
+      "place": "三郷市",
+      "season": "summer",
+      "date": "2026-06-03",
+      "title": "06月03日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/misato/SpMinuteView.html?tenant_id=209&council_id=189&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "工藤智加子",
+        "深川智加",
+        "紺野伊久子"
+      ]
+    },
+    {
+      "id": "cd84508da45cc7f6b63e",
+      "place": "三郷市",
+      "season": "summer",
+      "date": "2026-06-09",
+      "title": "06月09日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/misato/SpMinuteView.html?tenant_id=209&council_id=189&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "佐々木修",
+        "寺沢美紗",
+        "柳瀬勝彦",
+        "沖原優子",
+        "西尾秀貴",
+        "鳴海和美"
+      ]
+    },
+    {
+      "id": "6ce57cac058dd8002df6",
+      "place": "三郷市",
+      "season": "summer",
+      "date": "2026-06-10",
+      "title": "06月10日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/misato/SpMinuteView.html?tenant_id=209&council_id=189&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "宇治由紀子",
+        "日高千穂",
+        "柳瀬勝彦",
+        "深川智加",
+        "竹内嘉洋",
+        "西村寿美枝"
+      ]
+    },
+    {
+      "id": "101c0b0ba6735a8cd4d4",
+      "place": "三郷市",
+      "season": "summer",
+      "date": "2026-06-11",
+      "title": "06月11日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/misato/SpMinuteView.html?tenant_id=209&council_id=189&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "工藤智加子",
+        "柴田吾一",
+        "桑原洋昭",
+        "渡邉雅人",
+        "紺野伊久子",
+        "鈴木優作",
+        "鳴海和美"
+      ]
+    },
+    {
+      "id": "9402a290a2bee820a4d7",
+      "place": "三郷市",
+      "season": "summer",
+      "date": "2026-06-12",
+      "title": "06月12日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/misato/SpMinuteView.html?tenant_id=209&council_id=189&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "佐々木修",
+        "佐藤裕之",
+        "宇治由紀子",
+        "工藤智加子",
+        "柴田吾一",
+        "渡邉雅人",
+        "竹内嘉洋",
+        "篠田隆彦",
+        "西尾秀貴"
+      ]
+    },
+    {
+      "id": "19afcb7c46c70e67c660",
+      "place": "三郷市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "議会だより 議会だより 令和8年11月15日号 (PDFファイル: 3.5MB)",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/gikaidayori207.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
+      "speakers": []
+    },
+    {
+      "id": "1a662ec728c0488515ed",
+      "place": "上尾市",
+      "season": "spring",
+      "date": "2026-02-16",
+      "title": "02月16日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/ageo/SpMinuteView.html?tenant_id=39&council_id=433&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "小池佑弥",
+        "斎藤哲雄",
+        "田中一崇",
+        "黒須喜美雄"
+      ]
+    },
+    {
+      "id": "3146499b957819f65400",
+      "place": "上尾市",
+      "season": "spring",
+      "date": "2026-02-20",
+      "title": "02月20日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/ageo/SpMinuteView.html?tenant_id=39&council_id=433&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "前島るり",
+        "坂東知子",
+        "新藤孝子",
+        "樋口敦",
+        "田中一崇",
+        "秋山かほる",
+        "金澤祥子"
+      ]
+    },
+    {
+      "id": "f8267b07f8c4d1ccb92f",
+      "place": "上尾市",
+      "season": "spring",
+      "date": "2026-03-09",
+      "title": "03月09日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/ageo/SpMinuteView.html?tenant_id=39&council_id=433&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "佐藤恵理子",
+        "前島るり",
+        "坂東知子",
+        "小高進",
+        "新道龍一",
+        "星野良行",
+        "田中一崇"
+      ]
+    },
+    {
+      "id": "43c4e3559a57e6d7772e",
+      "place": "上尾市",
+      "season": "spring",
+      "date": "2026-03-10",
+      "title": "03月10日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/ageo/SpMinuteView.html?tenant_id=39&council_id=433&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "井上智則",
+        "佐藤恵理子",
+        "島津秋男",
+        "浦和三郎",
+        "田中一崇",
+        "秋山かほる",
+        "稲村久美子",
+        "篠原文子",
+        "金澤祥子"
+      ]
+    },
+    {
+      "id": "b1d157ce9363d3f88a92",
+      "place": "上尾市",
+      "season": "spring",
+      "date": "2026-03-11",
+      "title": "03月11日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/ageo/SpMinuteView.html?tenant_id=39&council_id=433&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "井上淳子",
+        "佐藤恵理子",
+        "樋口敦",
+        "浦和三郎",
+        "田中一崇",
+        "荒川昌佑",
+        "黒須喜美雄"
+      ]
+    },
+    {
+      "id": "90ccc54875850fb09a67",
+      "place": "上尾市",
+      "season": "spring",
+      "date": "2026-03-12",
+      "title": "03月12日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/ageo/SpMinuteView.html?tenant_id=39&council_id=433&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "井上茂",
+        "佐藤恵理子",
+        "新藤孝子",
+        "浦和三郎",
+        "田中一崇",
+        "矢口豊人",
+        "秋山かほる",
+        "轟信一"
+      ]
+    },
+    {
+      "id": "80c0d6f8d87c199f0681",
+      "place": "上尾市",
+      "season": "spring",
+      "date": "2026-03-16",
+      "title": "03月16日－07号",
+      "url": "https://ssp.kaigiroku.net/tenant/ageo/SpMinuteView.html?tenant_id=39&council_id=433&schedule_id=8",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "佐藤恵理子",
+        "大室尚",
+        "平田通子",
+        "田中一崇",
+        "秋山かほる"
+      ]
+    },
+    {
+      "id": "9f83245be9b8d84ec9f8",
+      "place": "上尾市",
+      "season": "spring",
+      "date": "2026-03-19",
+      "title": "03月19日－08号",
+      "url": "https://ssp.kaigiroku.net/tenant/ageo/SpMinuteView.html?tenant_id=39&council_id=433&schedule_id=9",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "井上智則",
+        "井上淳子",
+        "佐藤恵理子",
+        "原田嘉明",
+        "坂東知子",
+        "大室尚",
+        "小池佑弥",
+        "島津秋男",
+        "平田通子",
+        "新藤孝子",
+        "新道龍一",
+        "津田ひとみ",
+        "田中一崇",
+        "秋山かほる",
+        "稲村久美子",
+        "篠原文子",
+        "荒川昌佑"
+      ]
+    },
+    {
+      "id": "b71ca28db5962006613c",
+      "place": "上尾市",
+      "season": "summer",
+      "date": "2026-06-05",
+      "title": "06月05日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/ageo/SpMinuteView.html?tenant_id=39&council_id=437&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "井上智則",
+        "大室尚",
+        "小高進",
+        "斎藤哲雄",
+        "津田ひとみ",
+        "浦和三郎",
+        "田中一崇",
+        "黒須喜美雄"
+      ]
+    },
+    {
+      "id": "e4cd7bb76ac25eab6168",
+      "place": "上尾市",
+      "season": "summer",
+      "date": "2026-06-10",
+      "title": "06月10日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/ageo/SpMinuteView.html?tenant_id=39&council_id=437&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "新藤孝子",
+        "浦和三郎",
+        "秋山かほる"
+      ]
+    },
+    {
+      "id": "d8650511c94921d8d3e4",
+      "place": "上尾市",
+      "season": "summer",
+      "date": "2026-06-16",
+      "title": "06月16日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/ageo/SpMinuteView.html?tenant_id=39&council_id=437&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "井上智則",
+        "佐藤恵理子",
+        "前島るり",
+        "坂東知子",
+        "小川明仁",
+        "小池佑弥",
+        "星野良行",
+        "浦和三郎",
+        "秋山かほる"
+      ]
+    },
+    {
+      "id": "aef1f36279e63bc9fc09",
+      "place": "上尾市",
+      "season": "summer",
+      "date": "2026-06-17",
+      "title": "06月17日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/ageo/SpMinuteView.html?tenant_id=39&council_id=437&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "井上智則",
+        "小高進",
+        "島津秋男",
+        "浦和三郎",
+        "稲村久美子",
+        "金澤祥子"
+      ]
+    },
+    {
+      "id": "fb8faf87556a63e87c3f",
+      "place": "上尾市",
+      "season": "summer",
+      "date": "2026-06-18",
+      "title": "06月18日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/ageo/SpMinuteView.html?tenant_id=39&council_id=437&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "井上智則",
+        "井上茂",
+        "原田嘉明",
+        "浦和三郎",
+        "秋山かほる",
+        "荒川昌佑"
+      ]
+    },
+    {
+      "id": "a8abca0350321e447a3a",
+      "place": "上尾市",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "06月19日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/ageo/SpMinuteView.html?tenant_id=39&council_id=437&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "井上智則",
+        "井上淳子",
+        "佐藤恵理子",
+        "新藤孝子",
+        "樋口敦",
+        "津田ひとみ",
+        "浦和三郎",
+        "篠原文子",
+        "轟信一"
+      ]
+    },
+    {
+      "id": "92cc685d77432dd59a14",
+      "place": "上尾市",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "06月22日－07号",
+      "url": "https://ssp.kaigiroku.net/tenant/ageo/SpMinuteView.html?tenant_id=39&council_id=437&schedule_id=8",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "佐藤恵理子",
+        "平田通子",
+        "新藤孝子",
+        "新道龍一",
+        "浦和三郎",
+        "矢口豊人",
+        "秋山かほる"
+      ]
+    },
+    {
+      "id": "3a6f151248b1b08b02c9",
+      "place": "上尾市",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "06月25日－08号",
+      "url": "https://ssp.kaigiroku.net/tenant/ageo/SpMinuteView.html?tenant_id=39&council_id=437&schedule_id=9",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "井上淳子",
+        "井上茂",
+        "原田嘉明",
+        "大室尚",
+        "小池佑弥",
+        "新藤孝子",
+        "樋口敦",
+        "浦和三郎",
+        "田中一崇",
+        "秋山かほる",
+        "荒川昌佑",
+        "轟信一",
+        "金澤祥子"
+      ]
+    },
+    {
+      "id": "402fe0db1d7eb7109cac",
+      "place": "上尾市",
+      "season": "fall",
+      "date": "2026-08-27",
+      "title": "08月27日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/ageo/SpMinuteView.html?tenant_id=39&council_id=441&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "斎藤哲雄",
+        "浦和三郎",
+        "田中一崇",
+        "黒須喜美雄"
+      ]
+    },
+    {
+      "id": "c664193cf0abf913b45a",
+      "place": "上尾市",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "09月01日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/ageo/SpMinuteView.html?tenant_id=39&council_id=441&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "佐藤恵理子",
+        "坂東知子",
+        "新藤孝子",
+        "浦和三郎",
+        "秋山かほる"
+      ]
+    },
+    {
+      "id": "fca9a62b1ea84cc221d8",
+      "place": "上尾市",
+      "season": "fall",
+      "date": "2026-09-16",
+      "title": "09月16日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/ageo/SpMinuteView.html?tenant_id=39&council_id=441&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "井上智則",
+        "佐藤恵理子",
+        "前島るり",
+        "坂東知子",
+        "小高進",
+        "浦和三郎",
+        "田中一崇",
+        "稲村久美子"
+      ]
+    },
+    {
+      "id": "6d2d88b4d889b17a68a3",
+      "place": "上尾市",
+      "season": "fall",
+      "date": "2026-09-17",
+      "title": "09月17日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/ageo/SpMinuteView.html?tenant_id=39&council_id=441&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "井上智則",
+        "佐藤恵理子",
+        "小川明仁",
+        "島津秋男",
+        "星野良行",
+        "浦和三郎",
+        "秋山かほる"
+      ]
+    },
+    {
+      "id": "c77211b551ef32825092",
+      "place": "上尾市",
+      "season": "fall",
+      "date": "2026-09-18",
+      "title": "09月18日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/ageo/SpMinuteView.html?tenant_id=39&council_id=441&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "井上智則",
+        "佐藤恵理子",
+        "樋口敦",
+        "津田ひとみ",
+        "浦和三郎",
+        "篠原文子",
+        "金澤祥子",
+        "黒須喜美雄"
+      ]
+    },
+    {
+      "id": "88211bb326caf5c5d94c",
+      "place": "上尾市",
+      "season": "fall",
+      "date": "2026-09-24",
+      "title": "09月24日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/ageo/SpMinuteView.html?tenant_id=39&council_id=441&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "井上智則",
+        "井上淳子",
+        "佐藤恵理子",
+        "小池佑弥",
+        "新藤孝子",
+        "浦和三郎",
+        "荒川昌佑",
+        "轟信一"
+      ]
+    },
+    {
+      "id": "828612e2ffb06308fcaf",
+      "place": "上尾市",
+      "season": "fall",
+      "date": "2026-09-25",
+      "title": "09月25日－07号",
+      "url": "https://ssp.kaigiroku.net/tenant/ageo/SpMinuteView.html?tenant_id=39&council_id=441&schedule_id=8",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "井上智則",
+        "井上茂",
+        "佐藤恵理子",
+        "平田通子",
+        "新道龍一",
+        "樋口敦",
+        "浦和三郎",
+        "矢口豊人",
+        "秋山かほる"
+      ]
+    },
+    {
+      "id": "781e22c35c65b8a9acba",
+      "place": "上尾市",
+      "season": "fall",
+      "date": "2026-09-28",
+      "title": "09月28日－08号",
+      "url": "https://ssp.kaigiroku.net/tenant/ageo/SpMinuteView.html?tenant_id=39&council_id=441&schedule_id=9",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "井上茂",
+        "佐藤恵理子",
+        "原田嘉明",
+        "大室尚",
+        "浦和三郎"
+      ]
+    },
+    {
+      "id": "baa1b4c4afa258a24b0a",
+      "place": "上尾市",
+      "season": "fall",
+      "date": "2026-09-30",
+      "title": "09月30日－09号",
+      "url": "https://ssp.kaigiroku.net/tenant/ageo/SpMinuteView.html?tenant_id=39&council_id=441&schedule_id=10",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "井上淳子",
+        "佐藤恵理子",
+        "原田嘉明",
+        "大室尚",
+        "小池佑弥",
+        "小高進",
+        "島津秋男",
+        "新藤孝子",
+        "樋口敦",
+        "浦和三郎",
+        "田中一崇",
+        "秋山かほる",
+        "稲村久美子",
+        "篠原文子",
+        "荒川昌佑"
+      ]
+    },
+    {
+      "id": "a3c269f6bf2a16cdab20",
+      "place": "上里町",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "3月4日・上里町議会定例会会議録",
+      "url": "https://www.town.kamisato.saitama.jp/secure/15813/R8.3.4.pdf",
+      "kind": "公式会議録PDFのOCR転記",
+      "scope": "minutes",
+      "note": "上里町の公式日別PDFをOCRで転記。ページ番号はPDF内の位置です。",
+      "speakers": [
+        "戸矢隆光",
+        "新井實",
+        "石井慎也",
+        "飯塚賢治"
+      ]
+    },
+    {
+      "id": "e985317237cd26aa8ccc",
+      "place": "上里町",
+      "season": "spring",
+      "date": "2026-03-05",
+      "title": "3月5日・上里町議会定例会会議録",
+      "url": "https://www.town.kamisato.saitama.jp/secure/15813/R8.3.5.pdf",
+      "kind": "公式会議録PDFのOCR転記",
+      "scope": "minutes",
+      "note": "上里町の公式日別PDFをOCRで転記。ページ番号はPDF内の位置です。",
+      "speakers": [
+        "伊藤覚",
+        "沓澤幸子",
+        "猪岡壽",
+        "石井慎也",
+        "金子義則",
+        "飯塚賢治"
+      ]
+    },
+    {
+      "id": "095857e3d7da7e9504d4",
+      "place": "上里町",
+      "season": "spring",
+      "date": "2026-03-09",
+      "title": "3月9日・上里町議会定例会会議録",
+      "url": "https://www.town.kamisato.saitama.jp/secure/15813/R8.3.9.pdf",
+      "kind": "公式会議録PDFのOCR転記",
+      "scope": "minutes",
+      "note": "上里町の公式日別PDFをOCRで転記。ページ番号はPDF内の位置です。",
+      "speakers": [
+        "沓澤幸子",
+        "石井慎也",
+        "飯塚賢治"
+      ]
+    },
+    {
+      "id": "fa3ac48c44eac25f2a8e",
+      "place": "上里町",
+      "season": "spring",
+      "date": "2026-03-10",
+      "title": "3月10日・上里町議会定例会会議録",
+      "url": "https://www.town.kamisato.saitama.jp/secure/15813/R8.3.10.pdf",
+      "kind": "公式会議録PDFのOCR転記",
+      "scope": "minutes",
+      "note": "上里町の公式日別PDFをOCRで転記。ページ番号はPDF内の位置です。",
+      "speakers": [
+        "石井慎也",
+        "飯塚賢治"
+      ]
+    },
+    {
+      "id": "f442ed2b9a74ffb6e584",
+      "place": "上里町",
+      "season": "spring",
+      "date": "2026-03-18",
+      "title": "3月18日・上里町議会定例会会議録",
+      "url": "https://www.town.kamisato.saitama.jp/secure/15813/R8.3.18.pdf",
+      "kind": "公式会議録PDFのOCR転記",
+      "scope": "minutes",
+      "note": "上里町の公式日別PDFをOCRで転記。ページ番号はPDF内の位置です。",
+      "speakers": [
+        "沓澤幸子",
+        "石井慎也",
+        "飯塚賢治"
+      ]
+    },
+    {
+      "id": "8ce8986dc432f121ec5e",
+      "place": "上里町",
+      "season": "spring",
+      "date": "2026-03-23",
+      "title": "3月23日・上里町議会定例会会議録",
+      "url": "https://www.town.kamisato.saitama.jp/secure/15813/R8.3.23.pdf",
+      "kind": "公式会議録PDFのOCR転記",
+      "scope": "minutes",
+      "note": "上里町の公式日別PDFをOCRで転記。ページ番号はPDF内の位置です。",
+      "speakers": [
+        "石井慎也",
+        "飯塚賢治"
+      ]
+    },
+    {
+      "id": "4bd75009ec6d0305ebb8",
+      "place": "上里町",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "上里町議会だより112号・令和8年6月定例会",
+      "url": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
+      "speakers": []
+    },
+    {
+      "id": "8ae755034939917ef86b",
+      "place": "久喜市",
+      "season": "spring",
+      "date": "2026-01-27",
+      "title": "01月27日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/kuki/SpMinuteView.html?tenant_id=534&council_id=367&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": []
+    },
+    {
+      "id": "83279eec182d40162e3d",
+      "place": "久喜市",
+      "season": "spring",
+      "date": "2026-02-08",
+      "title": "02月08日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/kuki/SpMinuteView.html?tenant_id=534&council_id=367&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "川内鴻輝",
+        "川辺美信",
+        "渡辺昌代"
+      ]
+    },
+    {
+      "id": "92eb636e7101caab8e83",
+      "place": "久喜市",
+      "season": "spring",
+      "date": "2026-02-09",
+      "title": "02月09日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/kuki/SpMinuteView.html?tenant_id=534&council_id=367&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "成田ルミ子",
+        "春山千明",
+        "田村栄子"
+      ]
+    },
+    {
+      "id": "b8935e53c254c40360ba",
+      "place": "久喜市",
+      "season": "spring",
+      "date": "2026-02-10",
+      "title": "02月10日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/kuki/SpMinuteView.html?tenant_id=534&council_id=367&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "大橋きよみ",
+        "山田正義",
+        "杉野修",
+        "瀬川泰祐",
+        "瀬田博文"
+      ]
+    },
+    {
+      "id": "20e583b858ae0ab57e81",
+      "place": "久喜市",
+      "season": "spring",
+      "date": "2026-02-12",
+      "title": "02月12日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/kuki/SpMinuteView.html?tenant_id=534&council_id=367&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "園部茂雄",
+        "川内鴻輝",
+        "成田ルミ子",
+        "渡辺昌代"
+      ]
+    },
+    {
+      "id": "929c15de655fef842f9b",
+      "place": "久喜市",
+      "season": "spring",
+      "date": "2026-02-13",
+      "title": "02月13日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/kuki/SpMinuteView.html?tenant_id=534&council_id=367&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "丹野郁夫",
+        "奈良政宏",
+        "川辺美信",
+        "新井兼",
+        "樋口智洋",
+        "猪股和雄"
+      ]
+    },
+    {
+      "id": "9464b7f5eca7818a4933",
+      "place": "久喜市",
+      "season": "spring",
+      "date": "2026-02-17",
+      "title": "02月17日－07号",
+      "url": "https://ssp.kaigiroku.net/tenant/kuki/SpMinuteView.html?tenant_id=534&council_id=367&schedule_id=8",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "園部茂雄",
+        "大橋きよみ",
+        "奈良政宏",
+        "山田正義",
+        "川辺美信",
+        "春山千明",
+        "杉野修",
+        "渡辺昌代",
+        "瀬川泰祐",
+        "猪股和雄",
+        "田村栄子"
+      ]
+    },
+    {
+      "id": "1c340c5bb3f67d1eba79",
+      "place": "久喜市",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "03月03日－08号",
+      "url": "https://ssp.kaigiroku.net/tenant/kuki/SpMinuteView.html?tenant_id=534&council_id=367&schedule_id=9",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "丹野郁夫",
+        "園部茂雄",
+        "大橋きよみ",
+        "奈良政宏",
+        "川内鴻輝",
+        "川辺美信",
+        "新井兼",
+        "春山千明",
+        "杉野修",
+        "樋口智洋",
+        "渡辺昌代",
+        "瀬川泰祐",
+        "瀬田博文",
+        "猪股和雄",
+        "田村栄子"
+      ]
+    },
+    {
+      "id": "a9b62742f92e2dc0d13e",
+      "place": "久喜市",
+      "season": "summer",
+      "date": "2026-06-08",
+      "title": "06月08日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/kuki/SpMinuteView.html?tenant_id=534&council_id=368&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "園部茂雄",
+        "春山千明"
+      ]
+    },
+    {
+      "id": "2a732ae23d0ac77e772f",
+      "place": "久喜市",
+      "season": "summer",
+      "date": "2026-06-18",
+      "title": "06月18日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/kuki/SpMinuteView.html?tenant_id=534&council_id=368&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "上条あきひろ",
+        "丹野郁夫",
+        "坂本和久",
+        "春山千明",
+        "杉野修",
+        "猪股和雄"
+      ]
+    },
+    {
+      "id": "d24891040abc9aa6aa99",
+      "place": "久喜市",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "06月19日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/kuki/SpMinuteView.html?tenant_id=534&council_id=368&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "園部茂雄",
+        "川内鴻輝",
+        "成田ルミ子",
+        "春山千明",
+        "杉野修",
+        "田村栄子",
+        "菊地雅典"
+      ]
+    },
+    {
+      "id": "24195f97ae747bf6601b",
+      "place": "久喜市",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "06月22日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/kuki/SpMinuteView.html?tenant_id=534&council_id=368&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "坂本和久",
+        "大橋きよみ",
+        "山田正義",
+        "平岡りえ",
+        "春山千明",
+        "瀬川泰祐",
+        "福井奈穂美"
+      ]
+    },
+    {
+      "id": "67b81bea4ab759cda8c9",
+      "place": "久喜市",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "06月24日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/kuki/SpMinuteView.html?tenant_id=534&council_id=368&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "むらまつ健太",
+        "丹野郁夫",
+        "宮崎あき",
+        "川内鴻輝",
+        "春山千明",
+        "杉山鎮夫",
+        "渡辺昌代",
+        "瀬田博文",
+        "速山武士"
+      ]
+    },
+    {
+      "id": "a89ab36c49d7cb4a5c3a",
+      "place": "久喜市",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "06月25日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/kuki/SpMinuteView.html?tenant_id=534&council_id=368&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "井上忠昭",
+        "園部茂雄",
+        "奈良政宏",
+        "川辺美信",
+        "新井兼",
+        "春山千明",
+        "樋口智洋",
+        "猪股和雄"
+      ]
+    },
+    {
+      "id": "33704b7f2078a1ecc50d",
+      "place": "久喜市",
+      "season": "summer",
+      "date": "2026-06-29",
+      "title": "06月29日－07号",
+      "url": "https://ssp.kaigiroku.net/tenant/kuki/SpMinuteView.html?tenant_id=534&council_id=368&schedule_id=8",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "丹野郁夫",
+        "園部茂雄",
+        "宮崎あき",
+        "川辺美信",
+        "新井兼",
+        "春山千明",
+        "杉野修",
+        "樋口智洋",
+        "渡辺昌代",
+        "瀬川泰祐",
+        "猪股和雄",
+        "田村栄子"
+      ]
+    },
+    {
+      "id": "700613255b1353d96d72",
+      "place": "久喜市",
+      "season": "summer",
+      "date": "2026-07-08",
+      "title": "07月08日－08号",
+      "url": "https://ssp.kaigiroku.net/tenant/kuki/SpMinuteView.html?tenant_id=534&council_id=368&schedule_id=9",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "丹野郁夫",
+        "園部茂雄",
+        "坂本和久",
+        "奈良政宏",
+        "宮崎あき",
+        "山田正義",
+        "川辺美信",
+        "成田ルミ子",
+        "新井兼",
+        "春山千明",
+        "杉野修",
+        "渡辺昌代",
+        "瀬川泰祐",
+        "猪股和雄",
+        "速山武士"
+      ]
+    },
+    {
+      "id": "6c051bc05e4322f8d750",
+      "place": "久喜市",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "09月01日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/kuki/SpMinuteView.html?tenant_id=534&council_id=942&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "丹野郁夫",
+        "園部茂雄",
+        "奈良政宏",
+        "川辺美信",
+        "成田ルミ子",
+        "春山千明",
+        "猪股和雄",
+        "菊地雅典"
+      ]
+    },
+    {
+      "id": "8474b6d9fb3e71377df3",
+      "place": "久喜市",
+      "season": "fall",
+      "date": "2026-09-07",
+      "title": "09月07日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/kuki/SpMinuteView.html?tenant_id=534&council_id=942&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "山田正義",
+        "春山千明",
+        "杉野修",
+        "樋口智洋",
+        "渡辺昌代",
+        "田村栄子",
+        "福井奈穂美"
+      ]
+    },
+    {
+      "id": "d561f166a69f47825bd8",
+      "place": "久喜市",
+      "season": "fall",
+      "date": "2026-09-08",
+      "title": "09月08日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/kuki/SpMinuteView.html?tenant_id=534&council_id=942&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "坂本和久",
+        "大橋きよみ",
+        "宮崎あき",
+        "川内鴻輝",
+        "春山千明",
+        "瀬川泰祐",
+        "瀬田博文"
+      ]
+    },
+    {
+      "id": "f337375b9167692588ca",
+      "place": "久喜市",
+      "season": "fall",
+      "date": "2026-09-10",
+      "title": "09月10日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/kuki/SpMinuteView.html?tenant_id=534&council_id=942&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "むらまつ健太",
+        "丹野郁夫",
+        "園部茂雄",
+        "奈良政宏",
+        "川内鴻輝",
+        "平岡りえ",
+        "春山千明",
+        "杉山鎮夫",
+        "速山武士"
+      ]
+    },
+    {
+      "id": "7b6e96aaf1bef2833f41",
+      "place": "久喜市",
+      "season": "fall",
+      "date": "2026-09-11",
+      "title": "09月11日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/kuki/SpMinuteView.html?tenant_id=534&council_id=942&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "井上忠昭",
+        "川辺美信",
+        "成田ルミ子",
+        "新井兼",
+        "春山千明",
+        "猪股和雄",
+        "菊地雅典"
+      ]
+    },
+    {
+      "id": "bb401e82cc698db7ce68",
+      "place": "久喜市",
+      "season": "fall",
+      "date": "2026-09-15",
+      "title": "09月15日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/kuki/SpMinuteView.html?tenant_id=534&council_id=942&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "井上忠昭",
+        "園部茂雄",
+        "坂本和久",
+        "大橋きよみ",
+        "奈良政宏",
+        "宮崎あき",
+        "山田正義",
+        "川辺美信",
+        "成田ルミ子",
+        "新井兼",
+        "春山千明",
+        "杉山鎮夫",
+        "杉野修",
+        "樋口智洋",
+        "渡辺昌代",
+        "瀬川泰祐",
+        "猪股和雄",
+        "田村栄子",
+        "福井奈穂美",
+        "速山武士"
+      ]
+    },
+    {
+      "id": "edf55d68f38d72faabac",
+      "place": "久喜市",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "10月05日－07号",
+      "url": "https://ssp.kaigiroku.net/tenant/kuki/SpMinuteView.html?tenant_id=534&council_id=942&schedule_id=8",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "井上忠昭",
+        "園部茂雄",
+        "奈良政宏",
+        "宮崎あき",
+        "山田正義",
+        "川辺美信",
+        "成田ルミ子",
+        "新井兼",
+        "春山千明",
+        "杉野修",
+        "樋口智洋",
+        "渡辺昌代",
+        "瀬川泰祐",
+        "猪股和雄",
+        "福井奈穂美",
+        "菊地雅典",
+        "速山武士"
+      ]
+    },
+    {
+      "id": "9af8625cdbda4fbd5460",
+      "place": "伊奈町",
+      "season": "spring",
+      "date": "2026-02-25",
+      "title": "02月25日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/inamachi/SpMinuteView.html?tenant_id=218&council_id=451&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "冨井篤弥",
+        "戸張光枝"
+      ]
+    },
+    {
+      "id": "b07a1fe88c47adb8db6b",
+      "place": "伊奈町",
+      "season": "summer",
+      "date": "2026-06-04",
+      "title": "06月04日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/inamachi/SpMinuteView.html?tenant_id=218&council_id=456&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": []
+    },
+    {
+      "id": "46736ed7c71156aae595",
+      "place": "伊奈町",
+      "season": "summer",
+      "date": "2026-06-08",
+      "title": "06月08日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/inamachi/SpMinuteView.html?tenant_id=218&council_id=456&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": []
+    },
+    {
+      "id": "a5d6ed6df6951d90bba2",
+      "place": "伊奈町",
+      "season": "summer",
+      "date": "2026-06-11",
+      "title": "06月11日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/inamachi/SpMinuteView.html?tenant_id=218&council_id=456&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "山野智彦",
+        "川内雅人",
+        "戸張光枝",
+        "木俣美千代",
+        "藤原義春"
+      ]
+    },
+    {
+      "id": "5c814f058af154db42bd",
+      "place": "伊奈町",
+      "season": "summer",
+      "date": "2026-06-12",
+      "title": "06月12日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/inamachi/SpMinuteView.html?tenant_id=218&council_id=456&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "五味雅美",
+        "仲島雄大",
+        "大沢淳",
+        "大野興一",
+        "青木久男"
+      ]
+    },
+    {
+      "id": "d57872d2679e0ed531ee",
+      "place": "伊奈町",
+      "season": "summer",
+      "date": "2026-06-15",
+      "title": "06月15日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/inamachi/SpMinuteView.html?tenant_id=218&council_id=456&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "冨井篤弥",
+        "栗原惠子",
+        "武藤倫雄",
+        "青木久男"
+      ]
+    },
+    {
+      "id": "f016d05fff4dc007d566",
+      "place": "伊奈町",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "06月19日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/inamachi/SpMinuteView.html?tenant_id=218&council_id=456&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "仲島雄大",
+        "栗原惠子"
+      ]
+    },
+    {
+      "id": "8156e72bae81e889e25b",
+      "place": "伊奈町",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "第２１３号「令和８年９月定例会」（令和８年１１月１日発行） P1～P２０",
+      "url": "https://inamachi.gsl-service.net/dayori/dayori213/dayori213.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
+      "speakers": []
+    },
+    {
+      "id": "0b77229a349c559247d0",
+      "place": "入間市",
+      "season": "spring",
+      "date": "2026-02-13",
+      "title": "2026-02-13 本会議録",
+      "url": "https://www3.city.iruma.saitama.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82R%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82P%89%F1%81j%81%7C02%8C%8E13%93%FA-01%8D%86&HUID=241183&KGNO=515&FINO=1917&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "内村忠久",
+        "末次正",
+        "横田淳一",
+        "池畠司"
+      ]
+    },
+    {
+      "id": "1b69d16efd85dc9d0d36",
+      "place": "入間市",
+      "season": "spring",
+      "date": "2026-02-24",
+      "title": "2026-02-24 本会議録",
+      "url": "https://www3.city.iruma.saitama.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82R%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82P%89%F1%81j%81%7C02%8C%8E24%93%FA-02%8D%86&HUID=241265&KGNO=515&FINO=1918&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "佐藤匡",
+        "双木小百合",
+        "吉田賢一",
+        "向口文恵",
+        "大野勉",
+        "小島清人",
+        "栗山英美",
+        "横田淳一",
+        "永澤美恵子",
+        "池畠司",
+        "田山雅子",
+        "野口哲次"
+      ]
+    },
+    {
+      "id": "2ecee4ebb4206cd1d379",
+      "place": "入間市",
+      "season": "spring",
+      "date": "2026-02-25",
+      "title": "2026-02-25 本会議録",
+      "url": "https://www3.city.iruma.saitama.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82R%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82P%89%F1%81j%81%7C02%8C%8E25%93%FA-03%8D%86&HUID=241483&KGNO=515&FINO=1919&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "安道佳子",
+        "横田淳一",
+        "町田健治",
+        "細田智也",
+        "野口哲次"
+      ]
+    },
+    {
+      "id": "cd84c21afc77d9a4c244",
+      "place": "入間市",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "2026-03-04 本会議録",
+      "url": "https://www3.city.iruma.saitama.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82R%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82P%89%F1%81j%81%7C03%8C%8E04%93%FA-04%8D%86&HUID=242862&KGNO=515&FINO=1926&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "内村忠久",
+        "吉田賢一",
+        "横田淳一",
+        "永澤美恵子",
+        "細田智也",
+        "野口哲次"
+      ]
+    },
+    {
+      "id": "a7d1560a1c190055ff99",
+      "place": "入間市",
+      "season": "spring",
+      "date": "2026-03-05",
+      "title": "2026-03-05 本会議録",
+      "url": "https://www3.city.iruma.saitama.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82R%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82P%89%F1%81j%81%7C03%8C%8E05%93%FA-05%8D%86&HUID=243134&KGNO=515&FINO=1927&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "双木小百合",
+        "古仲リカ",
+        "向口文恵",
+        "大野勉",
+        "宮岡治郎",
+        "末次正",
+        "横田淳一"
+      ]
+    },
+    {
+      "id": "ea018eecc69b8b5ebe4f",
+      "place": "入間市",
+      "season": "spring",
+      "date": "2026-03-06",
+      "title": "2026-03-06 本会議録",
+      "url": "https://www3.city.iruma.saitama.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82R%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82P%89%F1%81j%81%7C03%8C%8E06%93%FA-06%8D%86&HUID=243358&KGNO=515&FINO=1928&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "佐藤匡",
+        "内村忠久",
+        "安道佳子",
+        "山川さおり",
+        "栗山英美",
+        "横田淳一",
+        "田山雅子",
+        "町田健治"
+      ]
+    },
+    {
+      "id": "b4e2e30d1593cd7cb889",
+      "place": "入間市",
+      "season": "spring",
+      "date": "2026-03-16",
+      "title": "2026-03-16 本会議録",
+      "url": "https://www3.city.iruma.saitama.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82R%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82P%89%F1%81j%81%7C03%8C%8E16%93%FA-07%8D%86&HUID=243686&KGNO=515&FINO=1929&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "佐藤匡",
+        "内村忠久",
+        "双木小百合",
+        "吉田賢一",
+        "向口文恵",
+        "大野勉",
+        "安道佳子",
+        "宮岡治郎",
+        "末次正",
+        "栗山英美",
+        "横田淳一",
+        "池畠司",
+        "田山雅子",
+        "細田智也",
+        "野口哲次",
+        "長谷川渉"
+      ]
+    },
+    {
+      "id": "af19ad7f9439e605bbbd",
+      "place": "入間市",
+      "season": "summer",
+      "date": "2026-06-01",
+      "title": "2026-06-01 本会議録",
+      "url": "https://www3.city.iruma.saitama.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82U%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82Q%89%F1%81j%81%7C06%8C%8E01%93%FA-01%8D%86&HUID=243837&KGNO=519&FINO=1931&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "内村忠久",
+        "双木小百合",
+        "古仲リカ",
+        "横田淳一"
+      ]
+    },
+    {
+      "id": "45e331864544dd52cfc7",
+      "place": "入間市",
+      "season": "summer",
+      "date": "2026-06-08",
+      "title": "2026-06-08 本会議録",
+      "url": "https://www3.city.iruma.saitama.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82U%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82Q%89%F1%81j%81%7C06%8C%8E08%93%FA-02%8D%86&HUID=243942&KGNO=519&FINO=1932&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "丹下敦子",
+        "吉田賢一",
+        "大野勉",
+        "末次正",
+        "横田淳一",
+        "田山雅子"
+      ]
+    },
+    {
+      "id": "fcfb2c6b1301d0c420f1",
+      "place": "入間市",
+      "season": "summer",
+      "date": "2026-06-15",
+      "title": "2026-06-15 本会議録",
+      "url": "https://www3.city.iruma.saitama.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82U%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82Q%89%F1%81j%81%7C06%8C%8E15%93%FA-03%8D%86&HUID=244215&KGNO=519&FINO=1939&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "丹下敦子",
+        "吉田賢一",
+        "向口文恵",
+        "末次正",
+        "横田淳一",
+        "細田智也"
+      ]
+    },
+    {
+      "id": "099dab6beadce8c23c68",
+      "place": "入間市",
+      "season": "summer",
+      "date": "2026-06-16",
+      "title": "2026-06-16 本会議録",
+      "url": "https://www3.city.iruma.saitama.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82U%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82Q%89%F1%81j%81%7C06%8C%8E16%93%FA-04%8D%86&HUID=244438&KGNO=519&FINO=1940&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "佐藤匡",
+        "内村忠久",
+        "古仲リカ",
+        "安道佳子",
+        "栗山英美",
+        "横田淳一",
+        "田山雅子",
+        "町田健治",
+        "野口哲次"
+      ]
+    },
+    {
+      "id": "b486304e649c51687333",
+      "place": "入間市",
+      "season": "summer",
+      "date": "2026-06-17",
+      "title": "2026-06-17 本会議録",
+      "url": "https://www3.city.iruma.saitama.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82U%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82Q%89%F1%81j%81%7C06%8C%8E17%93%FA-05%8D%86&HUID=244733&KGNO=519&FINO=1941&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "双木小百合",
+        "大野勉",
+        "宮岡治郎",
+        "山川さおり",
+        "横田淳一",
+        "永澤美恵子",
+        "野口哲次"
+      ]
+    },
+    {
+      "id": "821309aea6bb86bd4ba0",
+      "place": "入間市",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "2026-06-24 本会議録",
+      "url": "https://www3.city.iruma.saitama.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82U%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82Q%89%F1%81j%81%7C06%8C%8E24%93%FA-06%8D%86&HUID=245008&KGNO=519&FINO=1944&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "丹下敦子",
+        "内村忠久",
+        "安道佳子",
+        "宮岡治郎",
+        "横田淳一",
+        "永澤美恵子",
+        "池畠司",
+        "田山雅子",
+        "長谷川渉"
+      ]
+    },
+    {
+      "id": "a2d528cbe7dafafbef42",
+      "place": "入間市",
+      "season": "fall",
+      "date": "2026-08-28",
+      "title": "2026-08-28 本会議録",
+      "url": "https://www3.city.iruma.saitama.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82X%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82R%89%F1%81j%81%7C08%8C%8E28%93%FA-01%8D%86&HUID=245104&KGNO=524&FINO=1946&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "佐藤匡",
+        "内村忠久",
+        "双木小百合",
+        "末次正",
+        "横田淳一",
+        "野口哲次"
+      ]
+    },
+    {
+      "id": "cb329e91ee833765bbf1",
+      "place": "入間市",
+      "season": "fall",
+      "date": "2026-09-07",
+      "title": "2026-09-07 本会議録",
+      "url": "https://www3.city.iruma.saitama.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82X%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82R%89%F1%81j%81%7C09%8C%8E07%93%FA-02%8D%86&HUID=245198&KGNO=524&FINO=1947&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "丹下敦子",
+        "佐藤匡",
+        "吉田賢一",
+        "大野勉",
+        "宮岡治郎",
+        "末次正",
+        "栗山英美",
+        "横田淳一",
+        "永澤美恵子",
+        "田山雅子",
+        "町田健治",
+        "細田智也",
+        "野口哲次",
+        "長谷川渉"
+      ]
+    },
+    {
+      "id": "9f72dc5b30ccd53d6930",
+      "place": "入間市",
+      "season": "fall",
+      "date": "2026-09-08",
+      "title": "2026-09-08 本会議録",
+      "url": "https://www3.city.iruma.saitama.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82X%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82R%89%F1%81j%81%7C09%8C%8E08%93%FA-03%8D%86&HUID=245373&KGNO=524&FINO=1948&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "向口文恵",
+        "安道佳子",
+        "横田淳一",
+        "細田智也",
+        "野口哲次"
+      ]
+    },
+    {
+      "id": "bd8f3cddef7aa65c64e0",
+      "place": "入間市",
+      "season": "fall",
+      "date": "2026-09-15",
+      "title": "2026-09-15 本会議録",
+      "url": "https://www3.city.iruma.saitama.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82X%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82R%89%F1%81j%81%7C09%8C%8E15%93%FA-04%8D%86&HUID=245915&KGNO=524&FINO=1955&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "丹下敦子",
+        "末次正",
+        "栗山英美",
+        "横田淳一",
+        "池畠司",
+        "細田智也"
+      ]
+    },
+    {
+      "id": "c59a33e79b3cf547b8b5",
+      "place": "入間市",
+      "season": "fall",
+      "date": "2026-09-16",
+      "title": "2026-09-16 本会議録",
+      "url": "https://www3.city.iruma.saitama.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82X%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82R%89%F1%81j%81%7C09%8C%8E16%93%FA-05%8D%86&HUID=246118&KGNO=524&FINO=1956&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "双木小百合",
+        "古仲リカ",
+        "安道佳子",
+        "横田淳一",
+        "永澤美恵子",
+        "田山雅子",
+        "町田健治"
+      ]
+    },
+    {
+      "id": "efefc3732d1dd5327445",
+      "place": "入間市",
+      "season": "fall",
+      "date": "2026-09-17",
+      "title": "2026-09-17 本会議録",
+      "url": "https://www3.city.iruma.saitama.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82X%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82R%89%F1%81j%81%7C09%8C%8E17%93%FA-06%8D%86&HUID=246281&KGNO=524&FINO=1957&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "佐藤匡",
+        "向口文恵",
+        "大野勉",
+        "宮岡治郎",
+        "横田淳一"
+      ]
+    },
+    {
+      "id": "302389d8c20f90f72b28",
+      "place": "入間市",
+      "season": "fall",
+      "date": "2026-09-28",
+      "title": "2026-09-28 本会議録",
+      "url": "https://www3.city.iruma.saitama.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82X%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82R%89%F1%81j%81%7C09%8C%8E28%93%FA-07%8D%86&HUID=246506&KGNO=524&FINO=1960&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "佐藤匡",
+        "内村忠久",
+        "吉田賢一",
+        "宮岡治郎",
+        "末次正",
+        "横田淳一",
+        "池畠司",
+        "細田智也",
+        "長谷川渉"
+      ]
+    },
+    {
+      "id": "fde3dce4e6bef1dc28b7",
+      "place": "八潮市",
+      "season": "spring",
+      "date": "2026-02-27",
+      "title": "02月27日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/yashio/SpMinuteView.html?tenant_id=233&council_id=137&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "林雄一"
+      ]
+    },
+    {
+      "id": "83bc6f909e36e64c28c8",
+      "place": "八潮市",
+      "season": "spring",
+      "date": "2026-03-09",
+      "title": "03月09日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/yashio/SpMinuteView.html?tenant_id=233&council_id=137&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "二木和枝",
+        "内田亜希子",
+        "土屋茂樹",
+        "大島愛音",
+        "大泉芳行",
+        "小倉聖彦",
+        "小宮弘子",
+        "岡部一正",
+        "朝田和宏",
+        "林雄一",
+        "池谷正",
+        "金子壮一"
+      ]
+    },
+    {
+      "id": "fd5022d963cd7bf5e5f8",
+      "place": "八潮市",
+      "season": "spring",
+      "date": "2026-03-16",
+      "title": "03月16日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/yashio/SpMinuteView.html?tenant_id=233&council_id=137&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "二木和枝",
+        "前原鮎美",
+        "吉野雄喜",
+        "小倉聖彦",
+        "小宮弘子",
+        "林雄一",
+        "金子壮一"
+      ]
+    },
+    {
+      "id": "c566133cacfdd7e3b073",
+      "place": "八潮市",
+      "season": "spring",
+      "date": "2026-03-17",
+      "title": "03月17日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/yashio/SpMinuteView.html?tenant_id=233&council_id=137&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中江友哉",
+        "佐藤寛美",
+        "内田亜希子",
+        "平山貴博",
+        "朝田和宏",
+        "林雄一",
+        "篠原亮太"
+      ]
+    },
+    {
+      "id": "46a33faaecb3f4ec3718",
+      "place": "八潮市",
+      "season": "spring",
+      "date": "2026-03-18",
+      "title": "03月18日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/yashio/SpMinuteView.html?tenant_id=233&council_id=137&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "土屋茂樹",
+        "大島愛音",
+        "大泉芳行",
+        "岡部一正",
+        "林雄一",
+        "池谷正"
+      ]
+    },
+    {
+      "id": "b6b65292b0afb980934c",
+      "place": "八潮市",
+      "season": "spring",
+      "date": "2026-03-19",
+      "title": "03月19日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/yashio/SpMinuteView.html?tenant_id=233&council_id=137&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "大島愛音",
+        "大泉芳行",
+        "小宮弘子",
+        "岡部一正",
+        "林雄一",
+        "池谷正",
+        "篠原亮太"
+      ]
+    },
+    {
+      "id": "232a358e3c82a6fab6fd",
+      "place": "八潮市",
+      "season": "summer",
+      "date": "2026-06-01",
+      "title": "06月01日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/yashio/SpMinuteView.html?tenant_id=233&council_id=138&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "林雄一",
+        "池谷正"
+      ]
+    },
+    {
+      "id": "1522c86e0d800c7cbae0",
+      "place": "八潮市",
+      "season": "summer",
+      "date": "2026-06-09",
+      "title": "06月09日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/yashio/SpMinuteView.html?tenant_id=233&council_id=138&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "内田亜希子",
+        "林雄一",
+        "金子壮一"
+      ]
+    },
+    {
+      "id": "8e833b7e74d8bd68ebd9",
+      "place": "八潮市",
+      "season": "summer",
+      "date": "2026-06-15",
+      "title": "06月15日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/yashio/SpMinuteView.html?tenant_id=233&council_id=138&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中江友哉",
+        "大島愛音",
+        "平山貴博",
+        "朝田和宏",
+        "林雄一",
+        "篠原亮太",
+        "金子壮一"
+      ]
+    },
+    {
+      "id": "1a4a4acf2755221813e1",
+      "place": "八潮市",
+      "season": "summer",
+      "date": "2026-06-16",
+      "title": "06月16日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/yashio/SpMinuteView.html?tenant_id=233&council_id=138&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "佐藤寛美",
+        "土屋茂樹",
+        "大泉芳行",
+        "小倉聖彦",
+        "小宮弘子",
+        "林雄一",
+        "池谷正"
+      ]
+    },
+    {
+      "id": "108662c50b4c9857e210",
+      "place": "八潮市",
+      "season": "summer",
+      "date": "2026-06-17",
+      "title": "06月17日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/yashio/SpMinuteView.html?tenant_id=233&council_id=138&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "二木和枝",
+        "内田亜希子",
+        "前原鮎美",
+        "吉野雄喜",
+        "岡部一正",
+        "林雄一"
+      ]
+    },
+    {
+      "id": "547dba7fa37c8efd261d",
+      "place": "八潮市",
+      "season": "summer",
+      "date": "2026-06-18",
+      "title": "06月18日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/yashio/SpMinuteView.html?tenant_id=233&council_id=138&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "大島愛音",
+        "岡部一正",
+        "林雄一",
+        "篠原亮太"
+      ]
+    },
+    {
+      "id": "5da081741da9cc3fc8c7",
+      "place": "八潮市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "令和8年第3回定例会報告号（令和8年11月発行） 令和8年第3回定例会報告号（令和8年11月発行）（PDF：2,307KB）",
+      "url": "https://www.city.yashio.lg.jp/gikai/gikaidayori/index.files/127yashioshig_p01-08.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。 OCRの確認警告があるPDF 1、2、3、6、7頁を除外しています。",
+      "speakers": []
+    },
+    {
+      "id": "d9cce7192f74b659d00d",
+      "place": "加須市",
+      "season": "spring",
+      "date": "2026-02-05",
+      "title": "02月05日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/kazo/SpMinuteView.html?tenant_id=219&council_id=348&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "竹内政雄"
+      ]
+    },
+    {
+      "id": "a17f22d79a64d7b9c138",
+      "place": "加須市",
+      "season": "spring",
+      "date": "2026-02-13",
+      "title": "02月13日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/kazo/SpMinuteView.html?tenant_id=219&council_id=348&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "佐伯由恵",
+        "原田悟",
+        "宮代翔太",
+        "山本仁美",
+        "池田年美",
+        "竹内政雄",
+        "齋藤理史"
+      ]
+    },
+    {
+      "id": "8859d7afaaedadfa1011",
+      "place": "加須市",
+      "season": "spring",
+      "date": "2026-02-16",
+      "title": "02月16日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/kazo/SpMinuteView.html?tenant_id=219&council_id=348&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中島正和",
+        "及川和子",
+        "大内清心",
+        "宮代翔太",
+        "竹内政雄",
+        "高橋一夫"
+      ]
+    },
+    {
+      "id": "8d5c3cbaded18361e05b",
+      "place": "加須市",
+      "season": "spring",
+      "date": "2026-02-19",
+      "title": "02月19日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/kazo/SpMinuteView.html?tenant_id=219&council_id=348&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "大内清心",
+        "山本仁美",
+        "森本寿子",
+        "池田年美",
+        "竹内政雄"
+      ]
+    },
+    {
+      "id": "601f9f327b026768aefd",
+      "place": "加須市",
+      "season": "spring",
+      "date": "2026-02-20",
+      "title": "02月20日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/kazo/SpMinuteView.html?tenant_id=219&council_id=348&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "内田昇",
+        "原田悟",
+        "山下雄希",
+        "栗原智之",
+        "竹内政雄",
+        "野中芳子"
+      ]
+    },
+    {
+      "id": "185f14f9bb8aa8803a18",
+      "place": "加須市",
+      "season": "spring",
+      "date": "2026-02-24",
+      "title": "02月24日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/kazo/SpMinuteView.html?tenant_id=219&council_id=348&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中條恵子",
+        "宮崎智司",
+        "山下雄希",
+        "新井好一",
+        "竹内政雄",
+        "金子正則"
+      ]
+    },
+    {
+      "id": "6c472cbc6cb8449d6125",
+      "place": "加須市",
+      "season": "spring",
+      "date": "2026-02-25",
+      "title": "02月25日－07号",
+      "url": "https://ssp.kaigiroku.net/tenant/kazo/SpMinuteView.html?tenant_id=219&council_id=348&schedule_id=8",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "佐伯由恵",
+        "及川和子",
+        "宮代翔太",
+        "松本幸子",
+        "竹内政雄"
+      ]
+    },
+    {
+      "id": "e2a8ee81a54bdd591b29",
+      "place": "加須市",
+      "season": "spring",
+      "date": "2026-03-09",
+      "title": "03月09日－08号",
+      "url": "https://ssp.kaigiroku.net/tenant/kazo/SpMinuteView.html?tenant_id=219&council_id=348&schedule_id=9",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "佐伯由恵",
+        "内田昇",
+        "及川和子",
+        "大内清心",
+        "宮代翔太",
+        "宮崎智司",
+        "山本仁美",
+        "松本幸子",
+        "栗原智之",
+        "竹内政雄",
+        "赤坂和洋",
+        "野中芳子",
+        "金子正則",
+        "高橋一夫"
+      ]
+    },
+    {
+      "id": "56b83eb2a5a0029bf478",
+      "place": "加須市",
+      "season": "summer",
+      "date": "2026-06-09",
+      "title": "06月09日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/kazo/SpMinuteView.html?tenant_id=219&council_id=353&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中島正和",
+        "宮代翔太",
+        "山下雄希",
+        "山本仁美",
+        "森本寿子",
+        "池田年美",
+        "田中良夫",
+        "竹内政雄",
+        "野中芳子",
+        "金子正則"
+      ]
+    },
+    {
+      "id": "b5614a232ca48b8de839",
+      "place": "加須市",
+      "season": "summer",
+      "date": "2026-06-15",
+      "title": "06月15日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/kazo/SpMinuteView.html?tenant_id=219&council_id=353&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中島正和",
+        "中條恵子",
+        "佐伯由恵",
+        "原田悟",
+        "及川和子",
+        "宮代翔太",
+        "栗原智之",
+        "森本寿子",
+        "池田裕美子",
+        "野中芳子",
+        "金子正則"
+      ]
+    },
+    {
+      "id": "2647efab07efa5676057",
+      "place": "加須市",
+      "season": "summer",
+      "date": "2026-06-16",
+      "title": "06月16日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/kazo/SpMinuteView.html?tenant_id=219&council_id=353&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "大内清心",
+        "山下雄希",
+        "栗原智之",
+        "森本寿子",
+        "池田年美",
+        "金子正則"
+      ]
+    },
+    {
+      "id": "b3000712dd070018c061",
+      "place": "加須市",
+      "season": "summer",
+      "date": "2026-06-17",
+      "title": "06月17日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/kazo/SpMinuteView.html?tenant_id=219&council_id=353&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "内田昇",
+        "原田悟",
+        "山本仁美",
+        "池田裕美子",
+        "赤坂和洋",
+        "金子正則"
+      ]
+    },
+    {
+      "id": "48450735a3e290cee85a",
+      "place": "加須市",
+      "season": "summer",
+      "date": "2026-06-18",
+      "title": "06月18日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/kazo/SpMinuteView.html?tenant_id=219&council_id=353&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中島正和",
+        "中條恵子",
+        "宮崎智司",
+        "新井好一",
+        "金子正則",
+        "高橋一夫",
+        "齋藤理史"
+      ]
+    },
+    {
+      "id": "68d7f2fd6787854cad5a",
+      "place": "加須市",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "06月19日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/kazo/SpMinuteView.html?tenant_id=219&council_id=353&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "佐伯由恵",
+        "及川和子",
+        "宮代翔太",
+        "松本幸子",
+        "野中芳子",
+        "金子正則"
+      ]
+    },
+    {
+      "id": "139a3208e655e4f4bb52",
+      "place": "加須市",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "06月25日－07号",
+      "url": "https://ssp.kaigiroku.net/tenant/kazo/SpMinuteView.html?tenant_id=219&council_id=353&schedule_id=8",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中島正和",
+        "佐伯由恵",
+        "内田昇",
+        "及川和子",
+        "宮代翔太",
+        "宮崎智司",
+        "森本寿子",
+        "池田裕美子",
+        "野中芳子",
+        "金子正則",
+        "高橋一夫"
+      ]
+    },
+    {
+      "id": "6ef752864e55a5e303e9",
+      "place": "北本市",
+      "season": "spring",
+      "date": "2026-02-19",
+      "title": "02月19日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=318&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "保角美代",
+        "現王園孝昭"
+      ]
+    },
+    {
+      "id": "0a3592ea52618ec8738d",
+      "place": "北本市",
+      "season": "spring",
+      "date": "2026-02-27",
+      "title": "02月27日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=318&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中村洋子",
+        "保角美代",
+        "岡村有正",
+        "斉藤章",
+        "桜井卓",
+        "諏訪幸男",
+        "金森すみ子",
+        "青野康子"
+      ]
+    },
+    {
+      "id": "38f8633c0d7a5cdab1c5",
+      "place": "北本市",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "03月02日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=318&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "保角美代",
+        "大嶋達巳",
+        "工藤日出夫",
+        "桜井卓",
+        "諏訪幸男"
+      ]
+    },
+    {
+      "id": "462b585178777bc161de",
+      "place": "北本市",
+      "season": "spring",
+      "date": "2026-03-11",
+      "title": "03月11日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=318&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "今関公美",
+        "保角美代",
+        "桜井卓",
+        "毛呂一夫",
+        "湯沢美恵",
+        "諏訪幸男",
+        "高橋誠"
+      ]
+    },
+    {
+      "id": "052304eb48d922803539",
+      "place": "北本市",
+      "season": "spring",
+      "date": "2026-03-12",
+      "title": "03月12日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=318&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中村洋子",
+        "保角美代",
+        "斉藤章",
+        "村田裕子",
+        "諏訪幸男",
+        "金森すみ子",
+        "青野康子"
+      ]
+    },
+    {
+      "id": "513d6c58c969a9531a3f",
+      "place": "北本市",
+      "season": "spring",
+      "date": "2026-03-16",
+      "title": "03月16日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=318&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "保角美代",
+        "大嶋達巳",
+        "小久保博雅",
+        "島野和夫",
+        "永井司",
+        "諏訪幸男",
+        "金森すみ子",
+        "高橋誠"
+      ]
+    },
+    {
+      "id": "d2148433a28ec6867ec9",
+      "place": "北本市",
+      "season": "spring",
+      "date": "2026-03-17",
+      "title": "03月17日－07号",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=318&schedule_id=8",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "保角美代",
+        "岡村有正",
+        "工藤日出夫",
+        "滝瀬光一",
+        "高橋誠"
+      ]
+    },
+    {
+      "id": "1b6ec2d8eb92e4736f4e",
+      "place": "北本市",
+      "season": "spring",
+      "date": "2026-03-25",
+      "title": "03月25日－08号",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=318&schedule_id=9",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中村洋子",
+        "保角美代",
+        "大嶋達巳",
+        "小久保博雅",
+        "岡村有正",
+        "島野和夫",
+        "工藤日出夫",
+        "斉藤章",
+        "村田裕子",
+        "桜井卓",
+        "毛呂一夫",
+        "永井司",
+        "湯沢美恵",
+        "滝瀬光一",
+        "諏訪幸男",
+        "金森すみ子",
+        "青野康子",
+        "高橋誠"
+      ]
+    },
+    {
+      "id": "a4d4ca809e68e0bdc418",
+      "place": "北本市",
+      "season": "summer",
+      "date": "2026-06-03",
+      "title": "06月03日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=326&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "保角美代",
+        "大嶋達巳"
+      ]
+    },
+    {
+      "id": "5f80a29a6ea6ea298a06",
+      "place": "北本市",
+      "season": "summer",
+      "date": "2026-06-08",
+      "title": "06月08日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=326&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "保角美代",
+        "工藤日出夫",
+        "村田裕子",
+        "毛呂一夫",
+        "永井司",
+        "湯沢美恵"
+      ]
+    },
+    {
+      "id": "51cb93cc38559088098b",
+      "place": "北本市",
+      "season": "summer",
+      "date": "2026-06-15",
+      "title": "06月15日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=326&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中村洋子",
+        "保角美代",
+        "大嶋達巳",
+        "島野和夫",
+        "工藤日出夫",
+        "桜井卓",
+        "毛呂一夫",
+        "高橋誠"
+      ]
+    },
+    {
+      "id": "52224cedf0187b8476d2",
+      "place": "北本市",
+      "season": "summer",
+      "date": "2026-06-16",
+      "title": "06月16日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=326&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "今関公美",
+        "保角美代",
+        "斉藤章",
+        "永井司",
+        "湯沢美恵",
+        "金森すみ子",
+        "青野康子",
+        "高橋誠"
+      ]
+    },
+    {
+      "id": "a3ad75edab40442c983a",
+      "place": "北本市",
+      "season": "summer",
+      "date": "2026-06-17",
+      "title": "06月17日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=326&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "保角美代",
+        "小久保博雅",
+        "岡村有正",
+        "工藤日出夫",
+        "村田裕子",
+        "桜井卓",
+        "金森すみ子",
+        "高橋誠"
+      ]
+    },
+    {
+      "id": "db33584cd36d3164b135",
+      "place": "北本市",
+      "season": "summer",
+      "date": "2026-06-18",
+      "title": "06月18日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=326&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "保角美代",
+        "滝瀬光一",
+        "高橋誠"
+      ]
+    },
+    {
+      "id": "ef3d283a6ab03fb51ed0",
+      "place": "北本市",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "06月24日－07号",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=326&schedule_id=8",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "保角美代",
+        "大嶋達巳",
+        "工藤日出夫",
+        "桜井卓",
+        "毛呂一夫",
+        "永井司"
+      ]
+    },
+    {
+      "id": "3b3a4fad2c5fd8e264af",
+      "place": "北本市",
+      "season": "fall",
+      "date": "2026-08-25",
+      "title": "08月25日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=333&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "保角美代",
+        "斉藤章",
+        "高橋誠"
+      ]
+    },
+    {
+      "id": "c4771c3433044c35052b",
+      "place": "北本市",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "09月01日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=333&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "今関公美",
+        "保角美代",
+        "小久保博雅",
+        "岡村有正",
+        "斉藤章",
+        "湯沢美恵",
+        "高橋誠"
+      ]
+    },
+    {
+      "id": "82f1e6a88e7f1e280da5",
+      "place": "北本市",
+      "season": "fall",
+      "date": "2026-09-02",
+      "title": "09月02日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=333&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "保角美代",
+        "工藤日出夫",
+        "桜井卓",
+        "永井司",
+        "湯沢美恵"
+      ]
+    },
+    {
+      "id": "17729c07fdcb4dc6c7ca",
+      "place": "北本市",
+      "season": "fall",
+      "date": "2026-09-14",
+      "title": "09月14日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=333&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中村洋子",
+        "保角美代",
+        "大嶋達巳",
+        "斉藤章",
+        "村田裕子",
+        "毛呂一夫"
+      ]
+    },
+    {
+      "id": "dbcb74c4294a5585133a",
+      "place": "北本市",
+      "season": "fall",
+      "date": "2026-09-15",
+      "title": "09月15日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=333&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "今関公美",
+        "保角美代",
+        "島野和夫",
+        "桜井卓",
+        "諏訪幸男",
+        "金森すみ子",
+        "青野康子",
+        "高橋誠"
+      ]
+    },
+    {
+      "id": "81a6895e8aa4010406d2",
+      "place": "北本市",
+      "season": "fall",
+      "date": "2026-09-16",
+      "title": "09月16日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=333&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "保角美代",
+        "小久保博雅",
+        "岡村有正",
+        "永井司",
+        "湯沢美恵",
+        "諏訪幸男",
+        "金森すみ子"
+      ]
+    },
+    {
+      "id": "bda833a60e0af8265ffe",
+      "place": "北本市",
+      "season": "fall",
+      "date": "2026-09-17",
+      "title": "09月17日－07号",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=333&schedule_id=8",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "保角美代",
+        "工藤日出夫",
+        "滝瀬光一"
+      ]
+    },
+    {
+      "id": "64e1611be5a5c6690e5a",
+      "place": "北本市",
+      "season": "fall",
+      "date": "2026-09-28",
+      "title": "09月28日－08号",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=333&schedule_id=9",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中村洋子",
+        "今関公美",
+        "保角美代",
+        "大嶋達巳",
+        "小久保博雅",
+        "岡村有正",
+        "工藤日出夫",
+        "斉藤章",
+        "村田裕子",
+        "桜井卓",
+        "毛呂一夫",
+        "永井司",
+        "湯沢美恵",
+        "滝瀬光一",
+        "金森すみ子",
+        "青野康子",
+        "高橋誠"
+      ]
+    },
+    {
+      "id": "70f0c0827d1618bc9868",
+      "place": "吉川市",
+      "season": "spring",
+      "date": "2026-02-20",
+      "title": "02月20日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/yoshikawa/SpMinuteView.html?tenant_id=230&council_id=167&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "林美希",
+        "菊名克典"
+      ]
+    },
+    {
+      "id": "db5835e3c3e3812863b5",
+      "place": "吉川市",
+      "season": "spring",
+      "date": "2026-02-25",
+      "title": "02月25日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/yoshikawa/SpMinuteView.html?tenant_id=230&council_id=167&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": []
+    },
+    {
+      "id": "2b1af39938c0b7099e8b",
+      "place": "吉川市",
+      "season": "spring",
+      "date": "2026-02-27",
+      "title": "02月27日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/yoshikawa/SpMinuteView.html?tenant_id=230&council_id=167&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": []
+    },
+    {
+      "id": "b60eb93196238d11312d",
+      "place": "吉川市",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "03月02日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/yoshikawa/SpMinuteView.html?tenant_id=230&council_id=167&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": []
+    },
+    {
+      "id": "7fd92ba5deeb6df6e068",
+      "place": "吉川市",
+      "season": "spring",
+      "date": "2026-03-12",
+      "title": "03月12日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/yoshikawa/SpMinuteView.html?tenant_id=230&council_id=167&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": []
+    },
+    {
+      "id": "7994cbbaa6cefe8a8c90",
+      "place": "吉川市",
+      "season": "spring",
+      "date": "2026-03-16",
+      "title": "03月16日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/yoshikawa/SpMinuteView.html?tenant_id=230&council_id=167&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": []
+    },
+    {
+      "id": "a9374ebbd55c7c15e2de",
+      "place": "吉川市",
+      "season": "spring",
+      "date": "2026-03-17",
+      "title": "03月17日－07号",
+      "url": "https://ssp.kaigiroku.net/tenant/yoshikawa/SpMinuteView.html?tenant_id=230&council_id=167&schedule_id=8",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": []
+    },
+    {
+      "id": "9783ae37c60e8828e0a4",
+      "place": "吉川市",
+      "season": "spring",
+      "date": "2026-03-18",
+      "title": "03月18日－08号",
+      "url": "https://ssp.kaigiroku.net/tenant/yoshikawa/SpMinuteView.html?tenant_id=230&council_id=167&schedule_id=9",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": []
+    },
+    {
+      "id": "a5933c49dbaec45e05a9",
+      "place": "吉川市",
+      "season": "summer",
+      "date": "2026-06-02",
+      "title": "06月02日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/yoshikawa/SpMinuteView.html?tenant_id=230&council_id=172&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "菊名克典"
+      ]
+    },
+    {
+      "id": "05fea19d1a128a7cefe9",
+      "place": "吉川市",
+      "season": "summer",
+      "date": "2026-06-04",
+      "title": "06月04日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/yoshikawa/SpMinuteView.html?tenant_id=230&council_id=172&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": []
+    },
+    {
+      "id": "f42b7fa0d28bb6ed4cd1",
+      "place": "吉川市",
+      "season": "summer",
+      "date": "2026-06-11",
+      "title": "06月11日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/yoshikawa/SpMinuteView.html?tenant_id=230&council_id=172&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": []
+    },
+    {
+      "id": "d3a32f68d00947bf4cd4",
+      "place": "吉川市",
+      "season": "summer",
+      "date": "2026-06-12",
+      "title": "06月12日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/yoshikawa/SpMinuteView.html?tenant_id=230&council_id=172&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": []
+    },
+    {
+      "id": "3ffbb7e2f4efde739662",
+      "place": "吉川市",
+      "season": "summer",
+      "date": "2026-06-15",
+      "title": "06月15日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/yoshikawa/SpMinuteView.html?tenant_id=230&council_id=172&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": []
+    },
+    {
+      "id": "e03342a3216113ff9df8",
+      "place": "吉川市",
+      "season": "summer",
+      "date": "2026-06-16",
+      "title": "06月16日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/yoshikawa/SpMinuteView.html?tenant_id=230&council_id=172&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": []
+    },
+    {
+      "id": "b15cfddbf937e552ac50",
+      "place": "吉川市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "第211号（令和8年9月定例会） 第211号の全ページはこちら.pdf [ 5318 KB pdfファイル]",
+      "url": "https://www.city.yoshikawa.saitama.jp/index.cfm/34,117448,c,html/117448/20261028-093511.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。 OCRの確認警告があるPDF 1、6頁を除外しています。",
+      "speakers": [
+        "戸田馨",
+        "雪田きよみ"
+      ]
+    },
+    {
+      "id": "ac6c8a2277759bd5160a",
+      "place": "吉見町",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "03月04日－一般質問－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/yoshimi/SpMinuteView.html?tenant_id=17&council_id=172&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "吉田克之",
+        "大野陽康",
+        "宮﨑雄一",
+        "尾﨑豊",
+        "新井寛雄",
+        "福井学",
+        "福田妙子"
+      ]
+    },
+    {
+      "id": "73889743dcecb504be53",
+      "place": "吉見町",
+      "season": "spring",
+      "date": "2026-03-05",
+      "title": "03月05日－一般質問－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/yoshimi/SpMinuteView.html?tenant_id=17&council_id=172&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "伊藤えりか",
+        "宮尾美千代",
+        "宮﨑雄一",
+        "杉田しのぶ",
+        "栁谷泉",
+        "秋山真美"
+      ]
+    },
+    {
+      "id": "e966d581a883a185d261",
+      "place": "吉見町",
+      "season": "summer",
+      "date": "2026-06-10",
+      "title": "06月10日－一般質問－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/yoshimi/SpMinuteView.html?tenant_id=17&council_id=174&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "吉田克之",
+        "大野陽康",
+        "宮尾美千代",
+        "宮﨑雄一",
+        "新井寛雄",
+        "福田妙子"
+      ]
+    },
+    {
+      "id": "c7ea109ac9a2610465ab",
+      "place": "吉見町",
+      "season": "summer",
+      "date": "2026-06-11",
+      "title": "06月11日－一般質問－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/yoshimi/SpMinuteView.html?tenant_id=17&council_id=174&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "宮﨑雄一",
+        "杉田しのぶ",
+        "栁谷泉",
+        "福井学",
+        "秋山真美"
+      ]
+    },
+    {
+      "id": "e32a650a8ab70fa7b82b",
+      "place": "吉見町",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "よしみぎかい14号・9月定例会一般質問（紙面9〜14頁）",
+      "url": "https://www.town.yoshimi.saitama.jp/material/files/group/3/gikai14.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
+      "speakers": [
+        "大野陽康",
+        "杉田しのぶ",
+        "福井学",
+        "福田妙子"
+      ]
+    },
+    {
+      "id": "929a0215def5d4454b6f",
+      "place": "吉見町",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "議会だより最新号について よしみぎかい14号（令和8年11月1日） (PDFファイル: 7.3MB)",
+      "url": "https://www.town.yoshimi.saitama.jp/material/files/group/14/gika-181.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。 OCRの確認警告があるPDF 1、13頁を除外しています。",
+      "speakers": [
+        "大野陽康",
+        "宮尾美千代",
+        "新井寛雄",
+        "福井学",
+        "福田妙子"
+      ]
+    },
+    {
+      "id": "6f0bfe086ce117eb31b4",
+      "place": "和光市",
+      "season": "spring",
+      "date": "2026-02-19",
+      "title": "02月19日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/wako/SpMinuteView.html?tenant_id=382&council_id=503&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "内田あや",
+        "富澤啓二",
+        "小嶋智子",
+        "待鳥美光",
+        "渡邉竜幸",
+        "鎌田泰春"
+      ]
+    },
+    {
+      "id": "3dee005b192b99b7fe85",
+      "place": "和光市",
+      "season": "summer",
+      "date": "2026-06-04",
+      "title": "06月04日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/wako/SpMinuteView.html?tenant_id=382&council_id=510&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "吉田活世",
+        "小嶋智子",
+        "萩原圭一",
+        "赤松祐造"
+      ]
+    },
+    {
+      "id": "7ec00b93dd13790b7bbb",
+      "place": "和光市",
+      "season": "fall",
+      "date": "2026-08-27",
+      "title": "08月27日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/wako/SpMinuteView.html?tenant_id=382&council_id=517&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "小嶋智子",
+        "渡邉竜幸",
+        "鎌田泰春"
+      ]
+    },
+    {
+      "id": "5dc1ad99c7e698d5d9bd",
+      "place": "和光市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "わこう市議会だより134号・一般質問ダイジェスト",
+      "url": "https://www.city.wako.lg.jp/_res/projects/default_project/_page_/001/013/556/r81101dayori.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
+      "speakers": []
+    },
+    {
+      "id": "c835ba55e232cf8bb79c",
+      "place": "坂戸市",
+      "season": "spring",
+      "date": "2026-03-10",
+      "title": "03月10日－一般質問－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/sakado/SpMinuteView.html?tenant_id=348&council_id=857&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中島浩喜",
+        "吉川厚季",
+        "小川未奈子",
+        "小澤弘",
+        "柴田文子",
+        "飯田恵"
+      ]
+    },
+    {
+      "id": "b5787f234a3ba9beaa58",
+      "place": "坂戸市",
+      "season": "spring",
+      "date": "2026-03-11",
+      "title": "03月11日－一般質問－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/sakado/SpMinuteView.html?tenant_id=348&council_id=857&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中村拡史",
+        "小澤弘",
+        "綿貫正寿",
+        "野沢聖子"
+      ]
+    },
+    {
+      "id": "94149eb72d4d6e9840aa",
+      "place": "坂戸市",
+      "season": "spring",
+      "date": "2026-03-12",
+      "title": "03月12日－一般質問－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/sakado/SpMinuteView.html?tenant_id=348&council_id=857&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "大山嘉代子",
+        "小澤弘",
+        "新井文雄"
+      ]
+    },
+    {
+      "id": "09dc1e0b473637b021f6",
+      "place": "坂戸市",
+      "season": "summer",
+      "date": "2026-06-09",
+      "title": "06月09日－一般質問－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/sakado/SpMinuteView.html?tenant_id=348&council_id=873&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中島浩喜",
+        "中村拡史",
+        "森田文明",
+        "石井寛",
+        "鏑木幸代",
+        "飯田恵"
+      ]
+    },
+    {
+      "id": "f5715278fa4f6bee0ba9",
+      "place": "坂戸市",
+      "season": "summer",
+      "date": "2026-06-10",
+      "title": "06月10日－一般質問－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/sakado/SpMinuteView.html?tenant_id=348&council_id=873&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "吉川厚季",
+        "小川未奈子",
+        "森田文明",
+        "波多野功和",
+        "田中栄",
+        "野沢聖子"
+      ]
+    },
+    {
+      "id": "fea99e2ce6817b484e49",
+      "place": "坂戸市",
+      "season": "summer",
+      "date": "2026-06-11",
+      "title": "06月11日－一般質問－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/sakado/SpMinuteView.html?tenant_id=348&council_id=873&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "大山嘉代子",
+        "弓削勇人",
+        "柴田文子",
+        "森田文明",
+        "綿貫正寿"
+      ]
+    },
+    {
+      "id": "db57275c89c7a7b0bf01",
+      "place": "坂戸市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "坂戸市議会だより182号・9月定例会の一般質問（紙面9〜13頁）",
+      "url": "https://www.city.sakado.lg.jp/uploaded/attachment/37154.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
+      "speakers": []
+    },
+    {
+      "id": "a79fa097cfa1e674c27a",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "木村勇夫議員　人口減少・気候変動時代における食料生産の持続可能性と次世代農業への転換について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/b/09.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "木村勇夫"
+      ]
+    },
+    {
+      "id": "052e11c6483db312ebf9",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "木村勇夫議員　今後の企業誘致について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/b/07.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "木村勇夫"
+      ]
+    },
+    {
+      "id": "86bc41639d838ab75d5b",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "木村勇夫議員　令和8年度予算編成について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/b/01.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "木村勇夫"
+      ]
+    },
+    {
+      "id": "50d2dcfe2b40ddb5f3fc",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "木村勇夫議員　公共工事の入札不調・不落とその対策について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/b/08.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "木村勇夫"
+      ]
+    },
+    {
+      "id": "71ab540e2ba891358d90",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "木村勇夫議員　医薬品の供給制限について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/b/06.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "木村勇夫"
+      ]
+    },
+    {
+      "id": "0939c4a57f464efb320c",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "木村勇夫議員　未来を創る子供たちの育成について／埼玉県特別支援教育推進計画における知的障害特別支援学校の過密状況の改善について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/b/0403.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "木村勇夫"
+      ]
+    },
+    {
+      "id": "b37e1d55a14daf6f34b6",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "木村勇夫議員　未来を創る子供たちの育成について／私立高校の授業料実質無償化を契機とした本県の高校教育の在り方と方向性について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/b/0401.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "木村勇夫"
+      ]
+    },
+    {
+      "id": "bc1654fe7c62e6a1bc5f",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "木村勇夫議員　未来を創る子供たちの育成について／経済的自立を支える「包括的経済教育」の幅広い展開について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/b/0402.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "木村勇夫"
+      ]
+    },
+    {
+      "id": "bfe4776715762b61cdb9",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "木村勇夫議員　知事の県政運営について／TXについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/b/0203.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "木村勇夫"
+      ]
+    },
+    {
+      "id": "079b6b7f8f6a638da5df",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "木村勇夫議員　知事の県政運営について／事業レビューによる事業の見直しについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/b/0202.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "木村勇夫"
+      ]
+    },
+    {
+      "id": "e8957f595fe9c199b292",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "木村勇夫議員　知事の県政運営について／保育の公定価格の地域区分について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/b/0206.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "木村勇夫"
+      ]
+    },
+    {
+      "id": "1efe42a011a67f614e0e",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "木村勇夫議員　知事の県政運営について／施策の進め方について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/b/0201.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "木村勇夫"
+      ]
+    },
+    {
+      "id": "3b023eccae13ee4dd584",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "木村勇夫議員　知事の県政運営について／未来の県庁の姿について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/b/0204.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "木村勇夫"
+      ]
+    },
+    {
+      "id": "309ec894eb0322decff8",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "木村勇夫議員　知事の県政運営について／自治体の基幹業務システムの標準化について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/b/0205.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "木村勇夫"
+      ]
+    },
+    {
+      "id": "85d81e803dd192718ad8",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "木村勇夫議員　財源確保に向けて／地方税の偏在について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/b/0302.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "木村勇夫"
+      ]
+    },
+    {
+      "id": "9682df7d76c5b0879df0",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "木村勇夫議員　財源確保に向けて／金利上昇局面における県の資金調達について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/b/0301.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "木村勇夫"
+      ]
+    },
+    {
+      "id": "634d4b8ee68f86e23adf",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "木村勇夫議員　高次脳機能障害者支援法の施行を踏まえた県の対応について／実態調査の実施について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/b/0506.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "木村勇夫"
+      ]
+    },
+    {
+      "id": "e8a83aaab57cdc84ed6f",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "木村勇夫議員　高次脳機能障害者支援法の施行を踏まえた県の対応について／家族支援とピアサポートの環境整備について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/b/0505.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "木村勇夫"
+      ]
+    },
+    {
+      "id": "26b9489af9fed107380f",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "木村勇夫議員　高次脳機能障害者支援法の施行を踏まえた県の対応について／専門的医療機関の確保について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/b/0501.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "木村勇夫"
+      ]
+    },
+    {
+      "id": "5f0511287e8a8ab8159d",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "木村勇夫議員　高次脳機能障害者支援法の施行を踏まえた県の対応について／教育における個別の教育支援計画等の作成について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/b/0503.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "木村勇夫"
+      ]
+    },
+    {
+      "id": "a9c4ed9b01b6442a15b1",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "木村勇夫議員　高次脳機能障害者支援法の施行を踏まえた県の対応について／高次脳機能障害者支援センターの設置について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/b/0502.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "木村勇夫"
+      ]
+    },
+    {
+      "id": "92a871abc3290108d0fb",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "木村勇夫議員　高次脳機能障害者支援法の施行を踏まえた県の対応について／高次脳機能障害者支援地域協議会の設置について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/b/0504.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "木村勇夫"
+      ]
+    },
+    {
+      "id": "b31b7ad5010d4fb7a506",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "田村琢実議員　令和8年度埼玉県一般会計予算案について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/a/01.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "田村琢実"
+      ]
+    },
+    {
+      "id": "8dfa0db9615b24e8e64a",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "田村琢実議員　公正公平な選挙の実施に向けた取組について／ポスター掲示場の設置場所について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/a/0603.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "田村琢実"
+      ]
+    },
+    {
+      "id": "91d7541396c007ee92f4",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "田村琢実議員　公正公平な選挙の実施に向けた取組について／投票所入場券の配布と投票箱の確保について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/a/0601.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "田村琢実"
+      ]
+    },
+    {
+      "id": "2c8caa29e3bfa49c20af",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "田村琢実議員　公正公平な選挙の実施に向けた取組について／有権者を惑わす偽りの情報への対策について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/a/0604.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "田村琢実"
+      ]
+    },
+    {
+      "id": "bc84bf26f8dde36ea769",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "田村琢実議員　公正公平な選挙の実施に向けた取組について／期日前投票の促進策について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/a/0602.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "田村琢実"
+      ]
+    },
+    {
+      "id": "7bc61fa52bf68a8b60e7",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "田村琢実議員　効果・効率を高める行政改革について／AIを活用した行政改革の推進について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/a/0402.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "田村琢実"
+      ]
+    },
+    {
+      "id": "fc77592412d6a77d53d9",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "田村琢実議員　効果・効率を高める行政改革について／AI時代に即した「埼玉県DX推進計画」の見直しについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/a/0401.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "田村琢実"
+      ]
+    },
+    {
+      "id": "77144613e4cd76183d2b",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "田村琢実議員　効果・効率を高める行政改革について／県庁舎建替えにおける位置の選定について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/a/0403.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "田村琢実"
+      ]
+    },
+    {
+      "id": "eafacd58cc7e33e7c166",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "田村琢実議員　国の税制改正に伴う地方財源の確保及び地方税財政制度の抜本的改革について／国の税制改正に伴う地方財源の確保について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/a/0201.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "田村琢実"
+      ]
+    },
+    {
+      "id": "7e2a60ef1c002f22f299",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "田村琢実議員　国の税制改正に伴う地方財源の確保及び地方税財政制度の抜本的改革について／税の地域偏在の是正について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/a/0202.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "田村琢実"
+      ]
+    },
+    {
+      "id": "fb5827fb41f3d60b82d2",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "田村琢実議員　国の税制改正に伴う地方財源の確保及び地方税財政制度の抜本的改革について／軽油引取税の特別徴収交付金について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/a/0203.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "田村琢実"
+      ]
+    },
+    {
+      "id": "b3a9d2e782d691ab2061",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "田村琢実議員　教育の時代変革への対応について／生命（いのち）の安全教育の推進について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/a/0701.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "田村琢実"
+      ]
+    },
+    {
+      "id": "002e31744ce065e4a0c2",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "田村琢実議員　教育の時代変革への対応について／高等学校におけるバリアフリー設備の整備促進について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/a/0703.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "田村琢実"
+      ]
+    },
+    {
+      "id": "ab1d52a307c589ccfeff",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "田村琢実議員　教育の時代変革への対応について／高等学校体育館におけるエアコン使用について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/a/0702.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "田村琢実"
+      ]
+    },
+    {
+      "id": "4932063c922e8f17ac0d",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "田村琢実議員　県内経済の活性化について／SAITAMAロボティクスセンター（仮称）の強化について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/a/0301.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "田村琢実"
+      ]
+    },
+    {
+      "id": "c378510128f1bf98502d",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "田村琢実議員　県内経済の活性化について／農産物のネーミングについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/a/0302.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "田村琢実"
+      ]
+    },
+    {
+      "id": "d18719433d0e449e92e3",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "田村琢実議員　誰もが暮らしやすい埼玉の創造について／クビアカツヤカミキリの早急な対策の推進について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/a/0506.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "田村琢実"
+      ]
+    },
+    {
+      "id": "1d9001d9cd3bdc26de08",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "田村琢実議員　誰もが暮らしやすい埼玉の創造について／児童養護施設の課題と施策の必要性について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/a/0504.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "田村琢実"
+      ]
+    },
+    {
+      "id": "7c98f21002a07822e3e2",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "田村琢実議員　誰もが暮らしやすい埼玉の創造について／医師、看護師、保育士等のエッセンシャルワーカー確保策について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/a/0505.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "田村琢実"
+      ]
+    },
+    {
+      "id": "6903fd22a1c880922c16",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "田村琢実議員　誰もが暮らしやすい埼玉の創造について／外国人問題と言われる対策について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/a/0501.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "田村琢実"
+      ]
+    },
+    {
+      "id": "d472976ce98d26563781",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "田村琢実議員　誰もが暮らしやすい埼玉の創造について／過疎地域における医療提供体制の拡充策について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/a/0503.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "田村琢実"
+      ]
+    },
+    {
+      "id": "c5b0aa1a83d887b56c87",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "田村琢実議員　誰もが暮らしやすい埼玉の創造について／都道府県魅力度ランキングについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/a/0502.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "田村琢実"
+      ]
+    },
+    {
+      "id": "4f97a1674c12a91d7355",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-27",
+      "title": "蒲生徳明議員　コンテンツ産業支援について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/c/06.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "蒲生徳明"
+      ]
+    },
+    {
+      "id": "18c18665869307880dca",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-27",
+      "title": "蒲生徳明議員　不登校対策について／「ネット出席制度」を活用した不登校児童生徒への支援について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/c/1202.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "蒲生徳明"
+      ]
+    },
+    {
+      "id": "c62df1928b49737d93a0",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-27",
+      "title": "蒲生徳明議員　不登校対策について／不登校対策の支援について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/c/1201.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "蒲生徳明"
+      ]
+    },
+    {
+      "id": "b76dc48f586442fc8f8f",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-27",
+      "title": "蒲生徳明議員　不登校対策について／県立大宮中央高校の学習環境の整備について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/c/1203.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "蒲生徳明"
+      ]
+    },
+    {
+      "id": "d9ea6cca36e74e61f5b4",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-27",
+      "title": "蒲生徳明議員　令和8年度予算案における公明党県議団の要望の反映状況について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/c/01.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "蒲生徳明"
+      ]
+    },
+    {
+      "id": "021f96ba4dc9d0ebbc3b",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-27",
+      "title": "蒲生徳明議員　児童虐待防止のための環境整備について／児童相談所の人材確保について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/c/0801.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "蒲生徳明"
+      ]
+    },
+    {
+      "id": "87e710355478a43f1f5a",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-27",
+      "title": "蒲生徳明議員　児童虐待防止のための環境整備について／市町村のこども家庭センターの機能強化について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/c/0802.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "蒲生徳明"
+      ]
+    },
+    {
+      "id": "9a86f6db7a45cfed7f23",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-27",
+      "title": "蒲生徳明議員　八潮市道路陥没事故への県の対応について／今回の事故の教訓を生かした全国模範のインフラ整備について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/c/0402.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "蒲生徳明"
+      ]
+    },
+    {
+      "id": "8c1e0d67c50a08edb0d0",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-27",
+      "title": "蒲生徳明議員　八潮市道路陥没事故への県の対応について／住民に寄り添った県の対応について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/c/0401.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "蒲生徳明"
+      ]
+    },
+    {
+      "id": "fe2c789fd046ac4cb903",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-27",
+      "title": "蒲生徳明議員　埼玉県の生産性向上について／県内中小企業の生産性向上について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/c/0202.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "蒲生徳明"
+      ]
+    },
+    {
+      "id": "c54dc56447299329d452",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-27",
+      "title": "蒲生徳明議員　埼玉県の生産性向上について／県庁の生産性向上に向けた職場づくりについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/c/0201.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "蒲生徳明"
+      ]
+    },
+    {
+      "id": "acf9c204bdf79efeb1d0",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-27",
+      "title": "蒲生徳明議員　持続可能な介護について／ケアマネジャーの負担軽減と、安定的ななり手の確保について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/c/1003.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "蒲生徳明"
+      ]
+    },
+    {
+      "id": "93e0d1ae6bad9b3d9e9c",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-27",
+      "title": "蒲生徳明議員　持続可能な介護について／介護の社会化の加速化について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/c/1001.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "蒲生徳明"
+      ]
+    },
+    {
+      "id": "ad333f8de495bfb24220",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-27",
+      "title": "蒲生徳明議員　持続可能な介護について／仕事と介護の両立ができる職場環境の整備について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/c/1002.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "蒲生徳明"
+      ]
+    },
+    {
+      "id": "0186e26f4a278be68f96",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-27",
+      "title": "蒲生徳明議員　本県の防災対策について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/c/11.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "蒲生徳明"
+      ]
+    },
+    {
+      "id": "e5733367e499650f73e3",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-27",
+      "title": "蒲生徳明議員　気候変動対策における若者の参画について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/c/07.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "蒲生徳明"
+      ]
+    },
+    {
+      "id": "4a9c534b3bc761130653",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-27",
+      "title": "蒲生徳明議員　若者の県政への参画の在り方について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/c/05.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "蒲生徳明"
+      ]
+    },
+    {
+      "id": "de42486ab6e81ec56bc3",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-27",
+      "title": "蒲生徳明議員　認知症支援について／新しい認知症観の県民への普及について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/c/0901.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "蒲生徳明"
+      ]
+    },
+    {
+      "id": "49fba41b1bc5dea90eae",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-27",
+      "title": "蒲生徳明議員　認知症支援について／若年性認知症のピアサポートについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/c/0902.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "蒲生徳明"
+      ]
+    },
+    {
+      "id": "9696fe4b5bfd2926bbc6",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02-27",
+      "title": "蒲生徳明議員　財源の確保について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/c/03.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "蒲生徳明"
+      ]
+    },
+    {
+      "id": "eab0672b089afb9342e9",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "塩野正行議員　セーフティネット住宅について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/f/05.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "塩野正行"
+      ]
+    },
+    {
+      "id": "36a21bdb46068d91b5fc",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "塩野正行議員　中小企業への支援と県内経済の発展について／イノベーションを促進するために",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/f/0102.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "塩野正行"
+      ]
+    },
+    {
+      "id": "de385749419110d06029",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "塩野正行議員　中小企業への支援と県内経済の発展について／企業誘致について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/f/0103.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "塩野正行"
+      ]
+    },
+    {
+      "id": "f9ab20af1555924bb6f3",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "塩野正行議員　中小企業への支援と県内経済の発展について／価格転嫁をさらに進めるために",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/f/0101.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "塩野正行"
+      ]
+    },
+    {
+      "id": "c206a2ee89ea5a4b308a",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "塩野正行議員　中小企業への支援と県内経済の発展について／制度融資の金利負担について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/f/0104.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "塩野正行"
+      ]
+    },
+    {
+      "id": "68f9721ddafe32642bbc",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "塩野正行議員　児童生徒への性犯罪を根絶するために／教員による児童生徒への性犯罪を根絶するために",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/f/0401.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "塩野正行"
+      ]
+    },
+    {
+      "id": "f91124fa5981c695152a",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "塩野正行議員　児童生徒への性犯罪を根絶するために／校内盗撮の防止対策について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/f/0402.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "塩野正行"
+      ]
+    },
+    {
+      "id": "e642a4ac329acbbe5cd4",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "塩野正行議員　在宅重症心身障害児等の家族に対するレスパイトケアについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/f/06.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "塩野正行"
+      ]
+    },
+    {
+      "id": "b040d30dbdb6e1efba38",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "塩野正行議員　多胎家庭への支援について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/f/02.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "塩野正行"
+      ]
+    },
+    {
+      "id": "824285f26cef3692b955",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "塩野正行議員　特別支援学校に係る転学について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/f/03.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "塩野正行"
+      ]
+    },
+    {
+      "id": "5606f9a01da168beee28",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "塩野正行議員　生物多様性クレジットの導入について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/f/07.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "塩野正行"
+      ]
+    },
+    {
+      "id": "c8a2f0cf8ca1ea3e1404",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "武田和浩議員　バス運転手の労働環境改善などを通じた担い手確保に向けた県の積極的な役割について／AI・データ活用による労働負担軽減について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/e/0602.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "武田和浩"
+      ]
+    },
+    {
+      "id": "5d30596b18fab3831025",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "武田和浩議員　バス運転手の労働環境改善などを通じた担い手確保に向けた県の積極的な役割について／労働環境改善などを通じた地域公共交通の担い手確保を交通政策の柱として位置付けることについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/e/0601.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "武田和浩"
+      ]
+    },
+    {
+      "id": "02dedd4855bcdc28bc21",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "武田和浩議員　バス運転手の労働環境改善などを通じた担い手確保に向けた県の積極的な役割について／女性・若年層が働きやすい環境整備について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/e/0603.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "武田和浩"
+      ]
+    },
+    {
+      "id": "b886b2417e11f4a76450",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "武田和浩議員　メタバース空間の更なる拡充について／中長期的な視点でのバーチャル埼玉の更なる活用について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/e/0504.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "武田和浩"
+      ]
+    },
+    {
+      "id": "75a2b6975afd2d3d0c45",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "武田和浩議員　メタバース空間の更なる拡充について／安全性・プライバシーの確保について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/e/0503.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "武田和浩"
+      ]
+    },
+    {
+      "id": "aa5c30079d37d7de7f6a",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "武田和浩議員　メタバース空間の更なる拡充について／自殺防止、ギャンブル等依存症相談への拡充について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/e/0501.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "武田和浩"
+      ]
+    },
+    {
+      "id": "641e0d796e6653ada487",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "武田和浩議員　メタバース空間の更なる拡充について／障がい者支援への応用の可能性について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/e/0502.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "武田和浩"
+      ]
+    },
+    {
+      "id": "15ec0950d46ffffaf9c6",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "武田和浩議員　医療的ケア児の災害対策・防災対策の強化について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/e/09.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "武田和浩"
+      ]
+    },
+    {
+      "id": "cc1559be77d82d049ca8",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "武田和浩議員　国の地震被害想定調査の活用について／埼玉版FEMAの高度化について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/e/0102.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "武田和浩"
+      ]
+    },
+    {
+      "id": "71daff49e81d2bb27436",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "武田和浩議員　国の地震被害想定調査の活用について／県の地震被害想定調査について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/e/0101.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "武田和浩"
+      ]
+    },
+    {
+      "id": "b5c3c232ae65b2a4f20f",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "武田和浩議員　埼玉県の刀剣文化を未来へ継承するための支援について／技術継承のための支援制度について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/e/0801.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "武田和浩"
+      ]
+    },
+    {
+      "id": "6750cb335d40e5165f85",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "武田和浩議員　埼玉県の刀剣文化を未来へ継承するための支援について／観光振興について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/e/0802.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "武田和浩"
+      ]
+    },
+    {
+      "id": "a12ab678e1afadb0620f",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "武田和浩議員　災害時の食料確保とプッシュ型支援への対応について／国のプッシュ型支援の円滑な受入れについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/e/0203.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "武田和浩"
+      ]
+    },
+    {
+      "id": "e1c0b6fe509afcc0b018",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "武田和浩議員　災害時の食料確保とプッシュ型支援への対応について／民間物流事業者との連携について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/e/0202.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "武田和浩"
+      ]
+    },
+    {
+      "id": "efb814d7ac4eab69ab1e",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "武田和浩議員　災害時の食料確保とプッシュ型支援への対応について／災害時の食料確保について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/e/0201.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "武田和浩"
+      ]
+    },
+    {
+      "id": "315f483500bffb05b57b",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "武田和浩議員　災害時の食料確保とプッシュ型支援への対応について／県民への情報提供と家庭備蓄の促進について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/e/0204.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "武田和浩"
+      ]
+    },
+    {
+      "id": "bc313517a8ab0788d314",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "武田和浩議員　物流の2026年問題総合対策について／中小運送事業者のデジタル化補助について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/e/0701.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "武田和浩"
+      ]
+    },
+    {
+      "id": "85630326cf382ecd8ba3",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "武田和浩議員　物流の2026年問題総合対策について／物流人材の確保と育成について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/e/0702.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "武田和浩"
+      ]
+    },
+    {
+      "id": "a05e5c9dc1ad92aa1fdf",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "武田和浩議員　物流の2026年問題総合対策について／集配時のスペース拡大と進捗状況について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/e/0703.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "武田和浩"
+      ]
+    },
+    {
+      "id": "1f43012d0e030a29afba",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "武田和浩議員　県単独補助事業におけるさいたま市と他市町村との格差について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/e/04.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "武田和浩"
+      ]
+    },
+    {
+      "id": "8001fb56865c3ecc876e",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "武田和浩議員　総合診療医の育成・確保について／今後の総合診療医確保に向けた県の方針について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/e/1003.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "武田和浩"
+      ]
+    },
+    {
+      "id": "f492ad8b99cbbc6c3bd1",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "武田和浩議員　総合診療医の育成・確保について／総合診療医を志望する若手医師を増やすための支援策について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/e/1002.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "武田和浩"
+      ]
+    },
+    {
+      "id": "770c8b0b34cabbb26ecf",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "武田和浩議員　総合診療医の育成・確保について／総合診療専門研修プログラムの現状評価について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/e/1001.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "武田和浩"
+      ]
+    },
+    {
+      "id": "62bc251fb34b1a7812a2",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "武田和浩議員　自主防災組織リーダー養成指導員等の活動支援について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/e/03.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "武田和浩"
+      ]
+    },
+    {
+      "id": "ed6480e87480132c5db6",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "武田和浩議員　自転車の青切符制度導入に伴う安全な走行環境整備と取締りの方向性について／反則金制度の施行に伴う取締りの方向性と反則金制度の運用について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/e/1101.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "武田和浩"
+      ]
+    },
+    {
+      "id": "73b5f604e005e9e5707a",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "武田和浩議員　自転車の青切符制度導入に伴う安全な走行環境整備と取締りの方向性について／自転車が安全に通行できる自転車通行空間の整備の考え方と整備状況について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/e/1102.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "武田和浩"
+      ]
+    },
+    {
+      "id": "f15770c9cc9de9e3d6b5",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "細田善則議員　「ボートの聖地」県営戸田公園の改善について／県艇庫の安全性向上",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/d/0501.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "細田善則"
+      ]
+    },
+    {
+      "id": "1a886b9f43e432f13fec",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "細田善則議員　「ボートの聖地」県営戸田公園の改善について／競技に関わる設備の改善",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/d/0502.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "細田善則"
+      ]
+    },
+    {
+      "id": "a554ce04b56a41dbeab6",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "細田善則議員　ねんりんピックの成功と健康長寿社会の実現に向けて／コバトン健康ダンスとラジオ体操",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/d/0702.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "細田善則"
+      ]
+    },
+    {
+      "id": "58ce5413f3342bb5cc8e",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "細田善則議員　ねんりんピックの成功と健康長寿社会の実現に向けて／テクノロジーの活用",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/d/0701.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "細田善則"
+      ]
+    },
+    {
+      "id": "3458d05895f17bddc734",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "細田善則議員　ケアラー支援について／トイレ介助環境の整備",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/d/0801.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "細田善則"
+      ]
+    },
+    {
+      "id": "d725fd4006306c99c98b",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "細田善則議員　ケアラー支援について／マイナンバー活用による介護DX",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/d/0802.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "細田善則"
+      ]
+    },
+    {
+      "id": "96474d92f4f5909ae702",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "細田善則議員　スリープテックを活用した睡眠改善と健康づくりについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/d/10.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "細田善則"
+      ]
+    },
+    {
+      "id": "50f1021db0350d56db7e",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "細田善則議員　共同親権の円滑な運用と支援について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/d/09.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "細田善則"
+      ]
+    },
+    {
+      "id": "e5e31f3f2ec479bd7386",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "細田善則議員　商工会・商工会議所会館の耐震化・建替え支援について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/d/03.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "細田善則"
+      ]
+    },
+    {
+      "id": "67856e1080edc800f4ca",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "細田善則議員　地元問題／JR埼京線の事故をなくすために／ホームドア等の安全対策",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/d/1401a.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "細田善則"
+      ]
+    },
+    {
+      "id": "31f0ea238dfbab831f1f",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "細田善則議員　地元問題／JR埼京線の事故をなくすために／心理的アプローチによる人身事故防止",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/d/1401i.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "細田善則"
+      ]
+    },
+    {
+      "id": "0fe96204b031db21dc90",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "細田善則議員　地元問題／川岸三丁目交差点の安全対策",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/d/1402.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "細田善則"
+      ]
+    },
+    {
+      "id": "973e637daa52bcc2882e",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "細田善則議員　廃棄物処理場におけるリチウムイオン電池検知機器の導入支援について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/d/11.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "細田善則"
+      ]
+    },
+    {
+      "id": "406ef796b9181b91a8bd",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "細田善則議員　物価高・円安を踏まえた留学支援について／姉妹友好州省大学との学費減免協定",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/d/0201.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "細田善則"
+      ]
+    },
+    {
+      "id": "05809897f14b8497d181",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "細田善則議員　物価高・円安を踏まえた留学支援について／留学支援金の増額",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/d/0202.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "細田善則"
+      ]
+    },
+    {
+      "id": "ad3763b1b6a8e98b2b60",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "細田善則議員　生成AIを悪用した詐欺対策について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/d/13.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "細田善則"
+      ]
+    },
+    {
+      "id": "20746c3f8ce08cd68d96",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "細田善則議員　秩序あるインバウンド観光の確立のために／ガストロノミーツーリズム「食」の強化",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/d/0602.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "細田善則"
+      ]
+    },
+    {
+      "id": "dfaced79d619291fb03a",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "細田善則議員　秩序あるインバウンド観光の確立のために／ポケモンローカルActs",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/d/0601.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "細田善則"
+      ]
+    },
+    {
+      "id": "7e4053a38303fd1c7371",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "細田善則議員　警察活動の透明性確保のためのウェアラブルカメラの早期導入について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/d/12.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "細田善則"
+      ]
+    },
+    {
+      "id": "6dd9bd1ada07ac081344",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "細田善則議員　責任ある積極財政における本県の方針について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/d/01.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "細田善則"
+      ]
+    },
+    {
+      "id": "5e07abb92857122fd2ef",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "細田善則議員　都市河川の安全度向上と流域治水の推進について／三領排水機場の排水能力向上",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/d/0405.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "細田善則"
+      ]
+    },
+    {
+      "id": "661c9b0e77631d7db836",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "細田善則議員　都市河川の安全度向上と流域治水の推進について／新たな貯留施設計画",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/d/0403.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "細田善則"
+      ]
+    },
+    {
+      "id": "e7c2793516a090d9e08f",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "細田善則議員　都市河川の安全度向上と流域治水の推進について／流域水害対策計画",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/d/0402.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "細田善則"
+      ]
+    },
+    {
+      "id": "5643470559ae74a00621",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "細田善則議員　都市河川の安全度向上と流域治水の推進について／特定都市河川の指定範囲",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/d/0401.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "細田善則"
+      ]
+    },
+    {
+      "id": "0f9136f974c2e5102926",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "細田善則議員　都市河川の安全度向上と流域治水の推進について／笹目川排水機場の機能強化",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/d/0404.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "細田善則"
+      ]
+    },
+    {
+      "id": "2d907e6f9035af5759f4",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "宮崎吾一議員　JR東日本について／さいたま新都心駅活性化について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/i/1402.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "eac20530b41ade13b396",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "宮崎吾一議員　JR東日本について／そうだ大宮から京都に行こう",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/i/1401.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "fe3fc239ecb71ecd1a43",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "宮崎吾一議員　さいたまスーパーアリーナの休館時の対応について／けやきひろばの活用について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/i/1201.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "ec6cf2baec9938bf07a1",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "宮崎吾一議員　さいたまスーパーアリーナの休館時の対応について／イベントの県外流出防止について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/i/1202.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "e721b510c64e3af050b1",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "宮崎吾一議員　エッセンシャルワーカーの育成について／就職率の向上について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/i/0302.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "5c806f5cf3f5901d0664",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "宮崎吾一議員　エッセンシャルワーカーの育成について／長期高度人材育成コースの柔軟な運用について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/i/0301.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "caaab2d1cda850cd1f8a",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "宮崎吾一議員　スポーツ振興について／他県と同じく甲子園対策を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/i/0201.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "acde80e72850892d47b6",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "宮崎吾一議員　スポーツ振興について／女子スポーツの振興について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/i/0202.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "b16d6aec5f24c01c642d",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "宮崎吾一議員　予算の透明化について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/i/05.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "e570cb2869229e2e0a75",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "宮崎吾一議員　児童生徒のメンタルヘルスについて／いじめ担当の専門部署の設置について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/i/0702.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "6271ec7ec4efde19eb85",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "宮崎吾一議員　児童生徒のメンタルヘルスについて／いじめ関連文書の保存年限について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/i/0703.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "99e1dbb4611e6e1925c3",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "宮崎吾一議員　児童生徒のメンタルヘルスについて／学校健康診断項目について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/i/0701.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "1a548969ba19fe5a9f15",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "宮崎吾一議員　国際園芸博覧会について／来場者増の取組について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/i/1601.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "8b11262de3830dd61125",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "宮崎吾一議員　国際園芸博覧会について／民間の力の活用について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/i/1602.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "6810f22e686a4502fd4d",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "宮崎吾一議員　地域交通安全について／外国人運転者の自転車の交通安全教育について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/i/1101.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "147da5bc484db0745461",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "宮崎吾一議員　地域交通安全について／警察官空調服の導入について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/i/1102.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "c61380d3f31b8f8f0be2",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "宮崎吾一議員　地方税について／キャッシュレス納税率の向上について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/i/1002.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "b857cea780cfe05d50b1",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "宮崎吾一議員　地方税について／納税意識の向上について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/i/1001.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "19396f1801d77420c4dd",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "宮崎吾一議員　基礎疾患がある若年者の新型コロナウイルス感染症のワクチン接種について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/i/04.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "2fcc4da1fe4f90cd9ff7",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "宮崎吾一議員　求償権の放棄に関する条例について／再生ファンドの立ち上げについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/i/1502.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "9bafe94809ac69ff1286",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "宮崎吾一議員　求償権の放棄に関する条例について／条例の運用整備について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/i/1501.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "58a9b60455b2c4924a49",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "宮崎吾一議員　法制執務事務について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/i/09.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "546e927f1bca2feac690",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "宮崎吾一議員　消費者問題について／消費者安全確保地域協議会の形骸化の防止について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/i/0102.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "556ebe3dd975514af081",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "宮崎吾一議員　消費者問題について／県立消費者安全確保地域協議会見守りネットワークの設置と空白地域ゼロへ",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/i/0101.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "8efbabf9d32599b11eb9",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "宮崎吾一議員　監査専門委員の設置について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/i/13.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "9ce8a44d41e5667f52c0",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "宮崎吾一議員　行政のデジタル化について／地方自治体システムの標準化について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/i/0802.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "f5caad3a26677c9e1a6f",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "宮崎吾一議員　行政のデジタル化について／決算会計データについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/i/0801.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "b2bc72981ba6d5cc8458",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "宮崎吾一議員　認証学童について／学童支援について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/i/0601.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "abd094322b0b65a0f38e",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "宮崎吾一議員　認証学童について／民間学童支援について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/i/0602.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "86aaee7e1390c6caf347",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "栄寛美議員　たばこ税の流出防止と分煙環境の整備促進について／「受動喫煙防止対策実施施設等認証制度」の内容拡充について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/g/0503.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "栄寛美"
+      ]
+    },
+    {
+      "id": "db10e0456940369986a2",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "栄寛美議員　たばこ税の流出防止と分煙環境の整備促進について／県外への「たばこ税流出」防止と広報戦略について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/g/0501.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "栄寛美"
+      ]
+    },
+    {
+      "id": "1c5613168b954d693078",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "栄寛美議員　たばこ税の流出防止と分煙環境の整備促進について／路上受動喫煙の深刻な実態と「実効性のある分煙」への転換について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/g/0502.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "栄寛美"
+      ]
+    },
+    {
+      "id": "8d5a9b5ee3a4a313642c",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "栄寛美議員　人口減少に対する持続可能な自治体の在り方について／市町村事務の肩代わりと「埼玉モデル」の構築について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/g/0101.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "栄寛美"
+      ]
+    },
+    {
+      "id": "2b312444fc57f898f2d5",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "栄寛美議員　人口減少に対する持続可能な自治体の在り方について／道州制・広域合併など「次世代の地方統治構造」について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/g/0102.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "栄寛美"
+      ]
+    },
+    {
+      "id": "c8d2507742655a32e77a",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "栄寛美議員　地元問題について／春日部市大落古利根川かわまちづくりについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/g/1002.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "栄寛美"
+      ]
+    },
+    {
+      "id": "3276d7f10e2c62dee78e",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "栄寛美議員　地元問題について／県道西金野井春日部線の整備について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/g/1003.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "栄寛美"
+      ]
+    },
+    {
+      "id": "0d401c1df39ef0320bee",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "栄寛美議員　地元問題について／都市計画道路袋陣屋線の整備について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/g/1001.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "栄寛美"
+      ]
+    },
+    {
+      "id": "dbfb63825c302b972193",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "栄寛美議員　埼玉県ならではの婚活支援・出会いの場の提供について／「婚活」から「友活」への展開について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/g/0301.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "栄寛美"
+      ]
+    },
+    {
+      "id": "bc5e849defd224bcdf29",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "栄寛美議員　埼玉県ならではの婚活支援・出会いの場の提供について／「家族都市」を活かした広域交流と旅行企画について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/g/0302.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "栄寛美"
+      ]
+    },
+    {
+      "id": "e78264d161f2b2146dfd",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "栄寛美議員　埼玉県東西交通の強化について／春日部駅付近連続立体交差事業の進捗と今後の見通し",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/g/0902.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "栄寛美"
+      ]
+    },
+    {
+      "id": "4ed014bc0a68e4daea53",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "栄寛美議員　埼玉県東西交通の強化について／核都市広域幹線道路の整備促進について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/g/0901.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "栄寛美"
+      ]
+    },
+    {
+      "id": "27a2937652dc339e1442",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "栄寛美議員　大宮駅の「観光・情報発信ハブ」化による地域経済への波及について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/g/07.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "栄寛美"
+      ]
+    },
+    {
+      "id": "24a6afe3a7de8b4807c0",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "栄寛美議員　子育てしやすい埼玉県づくりへ民間連携の深化と質的転換について／事業の民間移管とデジタル時代の利便性向上について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/g/0201.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "栄寛美"
+      ]
+    },
+    {
+      "id": "018487da117a9b88697d",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "栄寛美議員　子育てしやすい埼玉県づくりへ民間連携の深化と質的転換について／数値目標の妥当性と「真のバリアフリー」への転換について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/g/0202.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "栄寛美"
+      ]
+    },
+    {
+      "id": "74a2aeb3795d2fa895ac",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "栄寛美議員　災害救助用エアボートの導入による災害対応の強化について／初動対応の空白を埋める「機動的なエアボート導入」の再考について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/g/0402.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "栄寛美"
+      ]
+    },
+    {
+      "id": "0a9161611f122cf815f1",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "栄寛美議員　災害救助用エアボートの導入による災害対応の強化について／官民連携による災害対応力の強化と適切な支援の在り方について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/g/0401.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "栄寛美"
+      ]
+    },
+    {
+      "id": "3a41dbaac23f1bb796a0",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "栄寛美議員　県有資産の最適化と資産経営の推進について／未利用地の早期売却とデータに基づく資産経営の推進について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/g/0602.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "栄寛美"
+      ]
+    },
+    {
+      "id": "b73de503ac0f88fba3ed",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "栄寛美議員　県有資産の最適化と資産経営の推進について／県有資産の最適化と行政施設の複合化について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/g/0601.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "栄寛美"
+      ]
+    },
+    {
+      "id": "0693dab34e0107e73b67",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "栄寛美議員　郷土の記憶を未来へつなぐ「デジタル埼玉県立博物館」の構築について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/g/08.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "栄寛美"
+      ]
+    },
+    {
+      "id": "382d337c1db044d87095",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "石川忠義議員　「彩の国エコぐるめ協力店」登録の今後について／「彩の国エコぐるめ協力店」の登録状況について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/h/0601.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "石川忠義"
+      ]
+    },
+    {
+      "id": "a69c02d6147b194328db",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "石川忠義議員　「彩の国エコぐるめ協力店」登録の今後について／「彩の国エコぐるめ協力店」登録の地域偏在を解消すべき",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/h/0604.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "石川忠義"
+      ]
+    },
+    {
+      "id": "d271f794fb6bcecb4930",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "石川忠義議員　「彩の国エコぐるめ協力店」登録の今後について／県施設内飲食店の「彩の国エコぐるめ協力店」登録を進めるべき",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/h/0603.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "石川忠義"
+      ]
+    },
+    {
+      "id": "e6afcb8f4284c6268a8e",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "石川忠義議員　「彩の国エコぐるめ協力店」登録の今後について／県関連イベントにおける飲食店への食品ロス削減協力の依頼を行うべき",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/h/0602.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "石川忠義"
+      ]
+    },
+    {
+      "id": "8e4394989bae6f50d63c",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "石川忠義議員　シニア活躍推進宣言企業の認定を更に推進すべき",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/h/0703.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "石川忠義"
+      ]
+    },
+    {
+      "id": "b3ba21841ec5d1d22f66",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "石川忠義議員　シニア活躍推進宣言企業の認定を更に推進すべき／シニア活躍推進宣言企業の追跡調査後の実態について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/h/0701.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "石川忠義"
+      ]
+    },
+    {
+      "id": "d2eddd34429d3209434b",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "石川忠義議員　シニア活躍推進宣言企業の認定を更に推進すべき／追跡調査やその後の調査を徹底すべき",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/h/0702.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "石川忠義"
+      ]
+    },
+    {
+      "id": "f1664e48f84cb3d5c530",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "石川忠義議員　事業者が難病患者の雇用に積極的になる制度を／新たに難病患者雇用優良事業所の認証制度を創設すべき",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/h/0202.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "石川忠義"
+      ]
+    },
+    {
+      "id": "dc15a252a84210e42bec",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "石川忠義議員　事業者が難病患者の雇用に積極的になる制度を／難病患者の県による就労実績の所見について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/h/0201.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "石川忠義"
+      ]
+    },
+    {
+      "id": "1e7640c98874745b1b06",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "石川忠義議員　地元問題について／県道北根菖蒲線の整備について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/h/0901.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "石川忠義"
+      ]
+    },
+    {
+      "id": "88009d306f1c8fd56cd2",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "石川忠義議員　地元問題について／県道川越栗橋線、清久さくら通り入口交差点から六万部橋西側間の安全対策について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/h/0902.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "石川忠義"
+      ]
+    },
+    {
+      "id": "6eac14ce4fc478f86d18",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "石川忠義議員　埼玉県の古墳による地域振興・活用について／古墳を活用した観光ルートの開発やPRを行うべき",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/h/0502.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "石川忠義"
+      ]
+    },
+    {
+      "id": "fc546763826f9344bf5e",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "石川忠義議員　埼玉県の古墳による地域振興・活用について／教育的視点からの古墳巡りツアーの再開・開発や活用を進めるべき",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/h/0503.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "石川忠義"
+      ]
+    },
+    {
+      "id": "e68e1b1154dd8b93a4ab",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "石川忠義議員　埼玉県の古墳による地域振興・活用について／県内の古墳と古墳活用に関する所見について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/h/0501.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "石川忠義"
+      ]
+    },
+    {
+      "id": "7c482579cf21cbe3bfb6",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "石川忠義議員　県立病院での就労相談への対応について／県立循環器・呼吸器病センター、県立精神医療センターの就労相談体制強化を進めるべき",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/h/0402.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "石川忠義"
+      ]
+    },
+    {
+      "id": "ce00370f7a7c9282349b",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "石川忠義議員　県立病院での就労相談への対応について／県立病院での就労に関する相談体制について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/h/0401.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "石川忠義"
+      ]
+    },
+    {
+      "id": "2cf3c27c6935e8e5b8ae",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "石川忠義議員　聴覚障害者・高齢者等の危険回避のためにフラッシュライトの設置を／「福祉のまちづくり条例設計ガイドブック」を改訂しフラッシュライトの積極的な設置の推進を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/h/0302.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "石川忠義"
+      ]
+    },
+    {
+      "id": "429f08f23bb48b155c55",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "石川忠義議員　聴覚障害者・高齢者等の危険回避のためにフラッシュライトの設置を／県管理施設にフラッシュライトを積極的に設置すべき",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/h/0303.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "石川忠義"
+      ]
+    },
+    {
+      "id": "56d3b8cd376189161fde",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "石川忠義議員　聴覚障害者・高齢者等の危険回避のためにフラッシュライトの設置を／聴覚障害者や高齢者等の緊急時危険回避について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/h/0301.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "石川忠義"
+      ]
+    },
+    {
+      "id": "c3550ed33a092ef9e81c",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "石川忠義議員　貴重な文化財を積極的に守るべき／文化財登録制度に関する所見について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/h/0802.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "石川忠義"
+      ]
+    },
+    {
+      "id": "5087898e6c6996bcf400",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "石川忠義議員　貴重な文化財を積極的に守るべき／県内の祭りや文化継承状況に関する所見について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/h/0801.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "石川忠義"
+      ]
+    },
+    {
+      "id": "1f8af29d17f6e37e5f48",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "石川忠義議員　貴重な文化財を積極的に守るべき／県内の貴重な文化を守るため埼玉県に文化財登録制度を導入すべき",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/h/0803.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "石川忠義"
+      ]
+    },
+    {
+      "id": "94d8db1188fee67c3c2b",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "石川忠義議員　障害者手帳を所持しない難病患者の県職員採用を進めるべき／スマートステーション「flat」での障害者手帳を所持しない難病患者の就労状況に関する県の評価・認識について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/h/0101.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "石川忠義"
+      ]
+    },
+    {
+      "id": "c7f4b99122cc0b1afd7a",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "石川忠義議員　障害者手帳を所持しない難病患者の県職員採用を進めるべき／障害者手帳を所持しない個々の難病患者における就労困難性の把握について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/h/0102.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "石川忠義"
+      ]
+    },
+    {
+      "id": "22d9252fa36d18832dad",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "石川忠義議員　障害者手帳を所持しない難病患者の県職員採用を進めるべき／障害者手帳を所持しない難病患者の県職員採用をできるだけ早く進めるべき",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/h/0103.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "石川忠義"
+      ]
+    },
+    {
+      "id": "67ec8743ee0d600d6aef",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "吉良英敏議員　こどもたちの「居場所」について／「いっぽ」の拡充を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/j/0402.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "吉良英敏"
+      ]
+    },
+    {
+      "id": "9312a523e2fe8eee7528",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "吉良英敏議員　こどもたちの「居場所」について／学校カフェの設置を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/j/0401.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "吉良英敏"
+      ]
+    },
+    {
+      "id": "3be1f7073ad3f9de0302",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "吉良英敏議員　ケアラー支援について／ケアラーセンターの設置を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/j/0202.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "吉良英敏"
+      ]
+    },
+    {
+      "id": "a695d448bec872cd80ef",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "吉良英敏議員　ケアラー支援について／個人を尊重する施策を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/j/0201.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "吉良英敏"
+      ]
+    },
+    {
+      "id": "4dc286d3706e2356fac3",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "吉良英敏議員　ヤングケアラー支援について／バーチャルユースセンターの在り方は",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/j/0302.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "吉良英敏"
+      ]
+    },
+    {
+      "id": "63ec8acba3c88d0428d8",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "吉良英敏議員　ヤングケアラー支援について／教育メタバースとバーチャルユースセンターの一体化を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/j/0301.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "吉良英敏"
+      ]
+    },
+    {
+      "id": "94c7bf240b567ba1bf7a",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "吉良英敏議員　埼玉県が進めるDX・TXについて／DX・TXで何を目指すのか",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/j/0101.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "吉良英敏"
+      ]
+    },
+    {
+      "id": "5b0cf00ea805a31f29a7",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "吉良英敏議員　埼玉県が進めるDX・TXについて／オンラインを駆使する／オンライン授業の積極的展開について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/j/0102i.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "吉良英敏"
+      ]
+    },
+    {
+      "id": "cba51ffae0ce3572df24",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "吉良英敏議員　埼玉県が進めるDX・TXについて／オンラインを駆使する／オンライン診療の推進について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/j/0102a.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "吉良英敏"
+      ]
+    },
+    {
+      "id": "57b8b03a2093ce049896",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "吉良英敏議員　県の構造改革について／コネクテッド型の組織構造を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/j/0501.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "吉良英敏"
+      ]
+    },
+    {
+      "id": "b0d1bc31a5cdb4bf63b7",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "吉良英敏議員　県の構造改革について／庁内副業の推進を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/j/0502.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "吉良英敏"
+      ]
+    },
+    {
+      "id": "41b8d62c1ab68845cfe7",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "吉良英敏議員　県営権現堂公園の魅力向上について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/j/06.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "吉良英敏"
+      ]
+    },
+    {
+      "id": "26a3f720576ade1cc720",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "小森克己議員　「SAITAMAロボティクスセンター（仮称）」を中核とする、ロボット産業クラスター",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/k/02.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小森克己"
+      ]
+    },
+    {
+      "id": "3bd310de461955a688b6",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "小森克己議員　「インフラモニタリング」の活用で、「事後保全」から「予防保全」へ",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/k/03.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小森克己"
+      ]
+    },
+    {
+      "id": "a39524a0403e2913b88b",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "小森克己議員　「空飛ぶクルマ」の就航へ向けて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/k/04.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小森克己"
+      ]
+    },
+    {
+      "id": "536a41178c329d96ebb7",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "小森克己議員　保育に関する施策の充実について／「保留児童数」にも重点を置いた待機児童対策",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/k/0701.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小森克己"
+      ]
+    },
+    {
+      "id": "f406e20139a9b01cf859",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "小森克己議員　保育に関する施策の充実について／将来的な保育士の確保対策",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/k/0702.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小森克己"
+      ]
+    },
+    {
+      "id": "9b8e59eb343b048c776f",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "小森克己議員　国に対する、トルコ共和国との「相互査証（ビザ）免除協定」一時停止の要望／「（仮称）川口市外国人政策対応センター」の整備構想",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/k/0802.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小森克己"
+      ]
+    },
+    {
+      "id": "ab6968b83bed3c037632",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "小森克己議員　国に対する、トルコ共和国との「相互査証（ビザ）免除協定」一時停止の要望／外務省への要望活動",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/k/0801.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小森克己"
+      ]
+    },
+    {
+      "id": "991310b1443bd2308844",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "小森克己議員　埼玉県の「産業戦略」について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/k/01.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小森克己"
+      ]
+    },
+    {
+      "id": "67d0f094c074840fb431",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "小森克己議員　広域連携を通じた、草加市観光振興への支援",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/k/09.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小森克己"
+      ]
+    },
+    {
+      "id": "7911f0f6fd77dae9c6c8",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "小森克己議員　県内の医療格差是正について／不採算医療を担う公立病院の支援",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/k/0502.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小森克己"
+      ]
+    },
+    {
+      "id": "c861e9a14d96df503bda",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "小森克己議員　県内の医療格差是正について／二次医療圏における病院の適切な役割分担と連携",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/k/0501.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小森克己"
+      ]
+    },
+    {
+      "id": "001a76aff51d6955673c",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "小森克己議員　遠隔教育や教育DXを活用した、多様性ある教育の推進を／「メタバース空間を活用した不登校児童生徒等支援事業」の更なる発展",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/k/0601.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小森克己"
+      ]
+    },
+    {
+      "id": "d43734bec7cf509f7c3f",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "小森克己議員　遠隔教育や教育DXを活用した、多様性ある教育の推進を／今後の県立高校における遠隔教育の展望",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/k/0602.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小森克己"
+      ]
+    },
+    {
+      "id": "4a3bde84e9e6e9a48c13",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "新井一徳議員　優秀な職員の確保のために／仕事内容の見直しも進めるべき",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/l/0202.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "新井一徳"
+      ]
+    },
+    {
+      "id": "b29e18e74526419b807c",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "新井一徳議員　優秀な職員の確保のために／現状の合格倍率に対する認識は？",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/l/0201.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "新井一徳"
+      ]
+    },
+    {
+      "id": "10a2b362bb1fe8d04199",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "新井一徳議員　優秀な職員の確保のために／職員採用の多様化を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/l/0203.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "新井一徳"
+      ]
+    },
+    {
+      "id": "422a0ff894770332b7fb",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "新井一徳議員　児童虐待のない社会を／各部局が主体的に取り組みを",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/l/0604.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "新井一徳"
+      ]
+    },
+    {
+      "id": "0afbf2c510cdfe32f0ce",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "新井一徳議員　児童虐待のない社会を／子育てを体系的に学ぶ機会を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/l/0602.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "新井一徳"
+      ]
+    },
+    {
+      "id": "5bf7167db6c1972a0bbf",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "新井一徳議員　児童虐待のない社会を／若者の稼ぐ力の向上を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/l/0603.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "新井一徳"
+      ]
+    },
+    {
+      "id": "15b53b7fb3e4cd8ba0ce",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "新井一徳議員　児童虐待のない社会を／虐待対策は発想の転換を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/l/0601.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "新井一徳"
+      ]
+    },
+    {
+      "id": "3326994226752c0f3731",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "新井一徳議員　国の補正予算の執行のあり方は？／委託費用に対する考えは？",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/l/0101.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "新井一徳"
+      ]
+    },
+    {
+      "id": "db39823246095709d446",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "新井一徳議員　国の補正予算の執行のあり方は？／支援効果はしっかりと",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/l/0102.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "新井一徳"
+      ]
+    },
+    {
+      "id": "aa8f8ea3c0bf8f5e9fa9",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "新井一徳議員　国の補正予算の執行のあり方は？／県の姿勢を明確に示そう",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/l/0103.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "新井一徳"
+      ]
+    },
+    {
+      "id": "71baa2cf6c52187764fa",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "新井一徳議員　地域公共交通支援のための株式取得を／地域公共交通維持における県の役割は？",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/l/0402.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "新井一徳"
+      ]
+    },
+    {
+      "id": "0564d5d0af2e63c72745",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "新井一徳議員　地域公共交通支援のための株式取得を／自治体による鉄道事業者の株式取得に対する評価は？",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/l/0401.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "新井一徳"
+      ]
+    },
+    {
+      "id": "882e4968391cceffc45f",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "新井一徳議員　地域公共交通支援のための株式取得を／鉄道事業者を対象とした株式取得の議論を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/l/0403.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "新井一徳"
+      ]
+    },
+    {
+      "id": "089e14d74dcb7050683b",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "新井一徳議員　埼玉版スーパー・シティプロジェクトの今後は？／第1フェーズの成果は？",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/l/0501.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "新井一徳"
+      ]
+    },
+    {
+      "id": "cb0b9ac27ec94c37a1bf",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "新井一徳議員　埼玉版スーパー・シティプロジェクトの今後は？／第2フェーズで代表事例を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/l/0502.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "新井一徳"
+      ]
+    },
+    {
+      "id": "7c54ac277a75135541c6",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "新井一徳議員　本庁と地域機関における差異は？／人事の硬直化を招く原因は？",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/l/0302.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "新井一徳"
+      ]
+    },
+    {
+      "id": "64225d1c34b021327c9c",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "新井一徳議員　本庁と地域機関における差異は？／人材配置の最適化、本庁勤務にインセンティブを",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/l/0303.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "新井一徳"
+      ]
+    },
+    {
+      "id": "0d2536a2b4503558cabb",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "新井一徳議員　本庁と地域機関における差異は？／本庁と地域機関における勤務実態の違いの背景は？",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/l/0301.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "新井一徳"
+      ]
+    },
+    {
+      "id": "9caf2347ae7c69610985",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "新井一徳議員　産業振興のための基金のあり方は？／これまでの補助の実績は？",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/l/0701.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "新井一徳"
+      ]
+    },
+    {
+      "id": "bb67f87ab95fc5091dfe",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "新井一徳議員　産業振興のための基金のあり方は？／生み出された税収、雇用は？",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/l/0702.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "新井一徳"
+      ]
+    },
+    {
+      "id": "1f089a891c8f34b75b1b",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "新井一徳議員　産業振興のための基金のあり方は？／産業支援は目標の明確化を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/l/0704.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "新井一徳"
+      ]
+    },
+    {
+      "id": "dbc4e425c4b3942d68a9",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "新井一徳議員　産業振興のための基金のあり方は？／設定した目標の達成具合は？",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/l/0703.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "新井一徳"
+      ]
+    },
+    {
+      "id": "1c707358dded72abe424",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "新井一徳議員　魅力ある県立学校の姿は？／中等教育への認識は？",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/l/0801.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "新井一徳"
+      ]
+    },
+    {
+      "id": "10b8054ef425de4598bf",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "新井一徳議員　魅力ある県立学校の姿は？／今こそ、県立の中高一貫校を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/l/0802.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "新井一徳"
+      ]
+    },
+    {
+      "id": "5affe2f31c6905a3e855",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "新井一徳議員　魅力ある県立学校の姿は？／時間軸を踏まえた検討を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/l/0804.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "新井一徳"
+      ]
+    },
+    {
+      "id": "d3596551e597c95bb3db",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "新井一徳議員　魅力ある県立学校の姿は？／検討の進捗状況は？",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/4/l/0803.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "新井一徳"
+      ]
+    },
+    {
+      "id": "3c2846e5a1f7defdcc75",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "安藤友貴議員　LPガス料金負担軽減補助事業について／制度運用の見直しについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/c/0602.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "安藤友貴"
+      ]
+    },
+    {
+      "id": "cb8e5bedfd60d9e68608",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "安藤友貴議員　LPガス料金負担軽減補助事業について／協力事業者数減少の分析について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/c/0601.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "安藤友貴"
+      ]
+    },
+    {
+      "id": "3a2cfba0ece5560b7f33",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "安藤友貴議員　中東情勢に伴う原油高や国際物流停滞による県内産業への影響について／国の交付金の規模に対する受け止めと県の支援策について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/c/0103.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "安藤友貴"
+      ]
+    },
+    {
+      "id": "2d25dbf6998f8ec7887e",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "安藤友貴議員　中東情勢に伴う原油高や国際物流停滞による県内産業への影響について／建設現場における資材不足と年度内工事執行の課題について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/c/0102.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "安藤友貴"
+      ]
+    },
+    {
+      "id": "b07ab68bb087ef3d2c7a",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "安藤友貴議員　中東情勢に伴う原油高や国際物流停滞による県内産業への影響について／建設資材の供給遅延による公共事業への影響について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/c/0101.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "安藤友貴"
+      ]
+    },
+    {
+      "id": "eec8663843df51053383",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "安藤友貴議員　交通DXの推進による安全で円滑な交通環境の実現について／AIを活用した交通管制システムの高度化と次世代交通管制システムの導入について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/c/0501.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "安藤友貴"
+      ]
+    },
+    {
+      "id": "98bb3ffff911879eb3c3",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "安藤友貴議員　交通DXの推進による安全で円滑な交通環境の実現について／AI等を活用した道路標示の維持管理について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/c/0502.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "安藤友貴"
+      ]
+    },
+    {
+      "id": "702576ee52cd004328d6",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "安藤友貴議員　伊豆潮風館について／伊豆潮風館が有する福祉的価値の評価について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/c/0403.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "安藤友貴"
+      ]
+    },
+    {
+      "id": "e002ec040ea5c42ce9cc",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "安藤友貴議員　伊豆潮風館について／伊豆潮風館の存続に向けた検討について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/c/0404.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "安藤友貴"
+      ]
+    },
+    {
+      "id": "8b23a3e9517ccce001bc",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "安藤友貴議員　伊豆潮風館について／民間宿泊施設による代替可能性の検証について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/c/0402.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "安藤友貴"
+      ]
+    },
+    {
+      "id": "96006039750e01fc97fd",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "安藤友貴議員　伊豆潮風館について／障がい当事者や家族の意見の受け止めと今後の検討への反映について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/c/0401.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "安藤友貴"
+      ]
+    },
+    {
+      "id": "2970e2a45f512b9e8de4",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "安藤友貴議員　地元問題／あたご・菅沢地区の市街地整備と市街化区域への編入について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/c/0703.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "安藤友貴"
+      ]
+    },
+    {
+      "id": "0ad50ea7279465954036",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "安藤友貴議員　地元問題／保谷朝霞線の整備について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/c/0701.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "安藤友貴"
+      ]
+    },
+    {
+      "id": "190a11c8529777ee125a",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "安藤友貴議員　地元問題／東京12号線（都営大江戸線）の延伸促進について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/c/0702.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "安藤友貴"
+      ]
+    },
+    {
+      "id": "f9c68ec78136b388f9ce",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "安藤友貴議員　女性の視点を生かした地域防災力の向上について／女性や子育て世代の地域防災活動への参加支援と女性防災リーダーのネットワークづくりの推進について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/c/0202.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "安藤友貴"
+      ]
+    },
+    {
+      "id": "c80c22d56fb92f38afd7",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "安藤友貴議員　女性の視点を生かした地域防災力の向上について／女性防災士や女性防災リーダーの育成と課題、継続的な活躍を支える仕組みづくりについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/c/0201.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "安藤友貴"
+      ]
+    },
+    {
+      "id": "05b61aa19f56bc23dbfa",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "安藤友貴議員　教員加配制度について／教員加配制度の柔軟な運用について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/c/0301.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "安藤友貴"
+      ]
+    },
+    {
+      "id": "b090bd69d26dfd46563a",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "安藤友貴議員　教員加配制度について／産休・育休取得に伴う産育加配の対応について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/c/0302.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "安藤友貴"
+      ]
+    },
+    {
+      "id": "989c6f22673cbaa01b5e",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "水村篤弘議員　あと数マイル・プロジェクトの進捗について／多摩都市モノレール延伸と「移動の観光化」を実現する都市型ロープウェイ等の導入可能性について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/b/0502.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "水村篤弘"
+      ]
+    },
+    {
+      "id": "b070c2c1256f0492ed2c",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "水村篤弘議員　あと数マイル・プロジェクトの進捗について／東京12号線（大江戸線）の東所沢駅延伸について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/b/0501.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "水村篤弘"
+      ]
+    },
+    {
+      "id": "64f3906ebf8b8a18e2f5",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "水村篤弘議員　デジタル自転車ルールカードを用いた交通安全対策について／全県的な普及・活用について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/b/0801.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "水村篤弘"
+      ]
+    },
+    {
+      "id": "a8f60de6bfc4203fff37",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "水村篤弘議員　デジタル自転車ルールカードを用いた交通安全対策について／公立中学校・高校での普及・活用について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/b/0802.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "水村篤弘"
+      ]
+    },
+    {
+      "id": "9620fce4ca1435d66711",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "水村篤弘議員　万引き犯罪防止対策の強化について／埼玉県万引き防止官民合同会議の機能拡充について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/b/0101.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "水村篤弘"
+      ]
+    },
+    {
+      "id": "ba5c0c0caef5340df900",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "水村篤弘議員　万引き犯罪防止対策の強化について／店舗等の負担軽減のための専用調書の活用について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/b/0102.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "水村篤弘"
+      ]
+    },
+    {
+      "id": "658065243ba0959d97e7",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "水村篤弘議員　万引き犯罪防止対策の強化について／高齢者等の再犯防止に向けての連携強化について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/b/0103.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "水村篤弘"
+      ]
+    },
+    {
+      "id": "addda6aeda8294bcd489",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "水村篤弘議員　介護職員・ケアマネジャーの安全確保に向けての複数訪問費用補助制度の改善について／同行者の要件緩和と外部人材の活用支援について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/b/0302.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "水村篤弘"
+      ]
+    },
+    {
+      "id": "cdde428f2e2ef17a815e",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "水村篤弘議員　介護職員・ケアマネジャーの安全確保に向けての複数訪問費用補助制度の改善について／補助制度の抜本的改善と手続きの簡素化について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/b/0301.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "水村篤弘"
+      ]
+    },
+    {
+      "id": "8dfa72c61f88eb52f1b4",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "水村篤弘議員　全ての産業を対象にした公契約の適正化について～公契約条例制定の進捗について～",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/b/07.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "水村篤弘"
+      ]
+    },
+    {
+      "id": "7fb5a3af4e1f4c5fc46e",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "水村篤弘議員　子どもの食育と儲かる農業を両立する有機給食の推進について／民間団体との連携による有機給食のノウハウ共有・研修の充実について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/b/0402.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "水村篤弘"
+      ]
+    },
+    {
+      "id": "b850d91e82d2dfaa7353",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "水村篤弘議員　子どもの食育と儲かる農業を両立する有機給食の推進について／環境配慮型農業の推進について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/b/0401.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "水村篤弘"
+      ]
+    },
+    {
+      "id": "873ef9f3418fd5fd66c9",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "水村篤弘議員　学校部活動等のバス借り上げ及び移動時の安全対策について／県立学校における実態調査などを踏まえた今後の安全対策について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/b/0601.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "水村篤弘"
+      ]
+    },
+    {
+      "id": "b5a8ccb758d7529d1330",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "水村篤弘議員　学校部活動等のバス借り上げ及び移動時の安全対策について／私立学校における安全対策について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/b/0602.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "水村篤弘"
+      ]
+    },
+    {
+      "id": "b88f67ba1de8ee12223a",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "水村篤弘議員　所沢航空発祥記念館リニューアルの戦略について／アクティブ・ラーニングの視点からのリニューアル戦略について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/b/1002.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "水村篤弘"
+      ]
+    },
+    {
+      "id": "62ed2edda4dfc0c66ba5",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "水村篤弘議員　所沢航空発祥記念館リニューアルの戦略について／新コンテンツとリニューアル工事の具体的進捗状況について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/b/1001.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "水村篤弘"
+      ]
+    },
+    {
+      "id": "7371eaea3c72b607fe9a",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "水村篤弘議員　肢体不自由の方とご家族が更に暮らしやすい環境づくりについて／ユニバーサルシートの設置促進について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/b/0203.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "水村篤弘"
+      ]
+    },
+    {
+      "id": "a7bdf83ab15349023274",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "水村篤弘議員　肢体不自由の方とご家族が更に暮らしやすい環境づくりについて／居宅生活動作補助用具の給付事業の改善について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/b/0202.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "水村篤弘"
+      ]
+    },
+    {
+      "id": "5d44aaf55046daa1bdc8",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "水村篤弘議員　肢体不自由の方とご家族が更に暮らしやすい環境づくりについて／補装具の更新判定の利便性向上について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/b/0201.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "水村篤弘"
+      ]
+    },
+    {
+      "id": "b58cbaf2d5e14085ef1c",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "水村篤弘議員　西武池袋線・JR武蔵野線の直通臨時列車と秋津駅・新秋津駅の直結を契機とした地域活性化について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/b/09.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "水村篤弘"
+      ]
+    },
+    {
+      "id": "90d914d7ea0a4f75bc9f",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "美田宗亮議員　「確かな学力」「シビックプライド」の成果を生み出すことについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/a/08.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "美田宗亮"
+      ]
+    },
+    {
+      "id": "15f149ef858b8a2fd2b4",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "美田宗亮議員　「防災先進地域化」の考えについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/a/04.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "美田宗亮"
+      ]
+    },
+    {
+      "id": "f5995c8e761f7f9a0427",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "美田宗亮議員　中東情勢が県内に与える影響及び県の対応について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/a/01.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "美田宗亮"
+      ]
+    },
+    {
+      "id": "7e07a6ed30601ac6c507",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "美田宗亮議員　人口減少社会における埼玉県の都市戦略について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/a/03.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "美田宗亮"
+      ]
+    },
+    {
+      "id": "b57ab56f8df43939de78",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "美田宗亮議員　地域における私立幼稚園の役割と現状認識について／人材確保の課題について～近隣自治体との支援格差の解消～",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/a/0702.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "美田宗亮"
+      ]
+    },
+    {
+      "id": "1b2601aad81dbcbea3bb",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "美田宗亮議員　地域における私立幼稚園の役割と現状認識について／運営費補助金の算定基準の明確化について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/a/0701.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "美田宗亮"
+      ]
+    },
+    {
+      "id": "f2fbae5a6d88d9bd04ea",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "美田宗亮議員　地域区分制度と介護提供体制の維持について／介護人材流出の実態把握と令和9年度以降を見据えた対応について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/a/0503.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "美田宗亮"
+      ]
+    },
+    {
+      "id": "9e70f31081135136079a",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "美田宗亮議員　地域区分制度と介護提供体制の維持について／地域包括ケアシステムとの整合性について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/a/0502.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "美田宗亮"
+      ]
+    },
+    {
+      "id": "6df51f6ccc60a9ec3b76",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "美田宗亮議員　地域区分制度と介護提供体制の維持について／埼玉県は東京の介護人材供給基地になっていないか",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/a/0501.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "美田宗亮"
+      ]
+    },
+    {
+      "id": "17b1e1c16169aa7f6535",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "美田宗亮議員　埼玉県東南部地域の災害時医療体制について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/a/06.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "美田宗亮"
+      ]
+    },
+    {
+      "id": "1c15980703625353e513",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "美田宗亮議員　専門性を生かした体育教育の充実と、実効性ある幼保小接続の推進について／あそび・運動・体育を軸とする「交流プログラム」をきっかけとした幼保小接続の強化について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/a/0902.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "美田宗亮"
+      ]
+    },
+    {
+      "id": "3e1b437b489c729590cd",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "美田宗亮議員　専門性を生かした体育教育の充実と、実効性ある幼保小接続の推進について／体育授業における専門的な技能を持つ外部人材の活用について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/a/0901.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "美田宗亮"
+      ]
+    },
+    {
+      "id": "d8999f745b1c5a045122",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "美田宗亮議員　県土整備事務所の再編整備について／懸念の声の受け止めについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/a/0202.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "美田宗亮"
+      ]
+    },
+    {
+      "id": "7024944078efde7af9c5",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "美田宗亮議員　県土整備事務所の再編整備について／検討の経緯について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/a/0201.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "美田宗亮"
+      ]
+    },
+    {
+      "id": "e5976f42a071442865e8",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "美田宗亮議員　県土整備事務所の再編整備について／現在の状況と結果について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/a/0203.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "美田宗亮"
+      ]
+    },
+    {
+      "id": "7461bb659d620990bba9",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "八子朋弘議員　いわゆる「高校無償化」への対策について／公立高校の価値、強みについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/e/0102.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "八子朋弘"
+      ]
+    },
+    {
+      "id": "39412f388335bc92c583",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "八子朋弘議員　いわゆる「高校無償化」への対策について／公立高校の役割、存在意義について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/e/0101.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "八子朋弘"
+      ]
+    },
+    {
+      "id": "c9863ccc347b1b790731",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "八子朋弘議員　いわゆる「高校無償化」への対策について／公立高校への支援について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/e/0103.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "八子朋弘"
+      ]
+    },
+    {
+      "id": "401908bd3ec252337400",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "八子朋弘議員　ナガエツルノゲイトウ対策について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/e/07.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "八子朋弘"
+      ]
+    },
+    {
+      "id": "de8c132cc342841bbace",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "八子朋弘議員　勝手橋について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/e/08.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "八子朋弘"
+      ]
+    },
+    {
+      "id": "99f21cfe405899079ee0",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "八子朋弘議員　地元問題について／国道254号バイパスの全線開通に向けた見通しについて／和光バイパスの進捗状況と今後の見通しについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/e/1201i.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "八子朋弘"
+      ]
+    },
+    {
+      "id": "00bb322bdaa18a5dca66",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "八子朋弘議員　地元問題について／国道254号バイパスの全線開通に向けた見通しについて／和光富士見バイパスの進捗状況と今後の見通しについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/e/1201a.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "八子朋弘"
+      ]
+    },
+    {
+      "id": "b6da08bda2d0e512f094",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "八子朋弘議員　地元問題について／都市計画道路水子鶴馬通線の現状と今後の見通しについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/e/1202.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "八子朋弘"
+      ]
+    },
+    {
+      "id": "3ad2e2c1749fdf940eeb",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "八子朋弘議員　埼玉県歌の更なる周知・活用について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/e/06.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "八子朋弘"
+      ]
+    },
+    {
+      "id": "fcd797393aac8e50c7ff",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "八子朋弘議員　市町村における大型公共施設の整備への支援について／公共施設等適正管理推進事業債について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/e/1001.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "八子朋弘"
+      ]
+    },
+    {
+      "id": "842714019a05478a42a3",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "八子朋弘議員　市町村における大型公共施設の整備への支援について／新庁舎整備に対する建設費コスト高騰を踏まえた財政的支援の拡充について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/e/1002.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "八子朋弘"
+      ]
+    },
+    {
+      "id": "3b96bdd0d3cbe807ee96",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "八子朋弘議員　救急医療体制について／救急搬送の有料化について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/e/0902.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "八子朋弘"
+      ]
+    },
+    {
+      "id": "01d705ccc183598273b3",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "八子朋弘議員　救急医療体制について／救急搬送困難事案の状況について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/e/0901.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "八子朋弘"
+      ]
+    },
+    {
+      "id": "f29461c142d1548e757f",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "八子朋弘議員　教員の働き方改革について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/e/04.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "八子朋弘"
+      ]
+    },
+    {
+      "id": "f1a0958fba51db35d9ce",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "八子朋弘議員　県立特別支援学校坂戸ろう学園を取り巻く課題について／体育館への空調設備設置について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/e/0501.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "八子朋弘"
+      ]
+    },
+    {
+      "id": "fb4fde7cdddb0fe38aa9",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "八子朋弘議員　県立特別支援学校坂戸ろう学園を取り巻く課題について／先生への支援について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/e/0502.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "八子朋弘"
+      ]
+    },
+    {
+      "id": "469bc23448429f8050c9",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "八子朋弘議員　県立特別支援学校坂戸ろう学園を取り巻く課題について／手話の更なる広報・啓発について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/e/0503.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "八子朋弘"
+      ]
+    },
+    {
+      "id": "c13ae084d9d6b4e738b3",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "八子朋弘議員　県立男女別学校の維持について／共学化を求める市民団体との接触について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/e/0307.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "八子朋弘"
+      ]
+    },
+    {
+      "id": "1e000233195ec50b62ad",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "八子朋弘議員　県立男女別学校の維持について／埼玉県こども・若者基本条例の遵守について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/e/0305.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "八子朋弘"
+      ]
+    },
+    {
+      "id": "f74a8865698edfc5c08c",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "八子朋弘議員　県立男女別学校の維持について／埼玉県の県立高校教育の独自性について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/e/0309.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "八子朋弘"
+      ]
+    },
+    {
+      "id": "a804bfa27ebf7e646084",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "八子朋弘議員　県立男女別学校の維持について／埼玉県男女共同参画苦情処理委員の勧告に至る議論の公開について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/e/0308.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "八子朋弘"
+      ]
+    },
+    {
+      "id": "6ff544769164bf85725b",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "八子朋弘議員　県立男女別学校の維持について／就任記者会見における発言について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/e/0301.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "八子朋弘"
+      ]
+    },
+    {
+      "id": "9ff64960965a00f04915",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "八子朋弘議員　県立男女別学校の維持について／所信表明の際の発言について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/e/0303.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "八子朋弘"
+      ]
+    },
+    {
+      "id": "54e31c449faac39685a4",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "八子朋弘議員　県立男女別学校の維持について／教育委員との意見交換について／中学生・高校生からの要望について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/e/0306a.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "八子朋弘"
+      ]
+    },
+    {
+      "id": "cb30daf1e613c1e345de",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "八子朋弘議員　県立男女別学校の維持について／教育委員との意見交換について／意見交換に応じるべき",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/e/0306i.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "八子朋弘"
+      ]
+    },
+    {
+      "id": "66d1874201a6a4d2ae34",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "八子朋弘議員　県立男女別学校の維持について／教育長ご自身の経験について／仮に高校時代にこの問題が起こった場合の対応について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/e/0304u.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "八子朋弘"
+      ]
+    },
+    {
+      "id": "a8a10fbf2e200237b6d7",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "八子朋弘議員　県立男女別学校の維持について／教育長ご自身の経験について／別学校の出身者としての見解について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/e/0304a.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "八子朋弘"
+      ]
+    },
+    {
+      "id": "59857deec6271a376910",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "八子朋弘議員　県立男女別学校の維持について／教育長ご自身の経験について／別学校の校長経験者としての見解について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/e/0304i.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "八子朋弘"
+      ]
+    },
+    {
+      "id": "338c6c128ad404cb92cf",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "八子朋弘議員　県立男女別学校の維持について／男女別学校の良さについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/e/0302.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "八子朋弘"
+      ]
+    },
+    {
+      "id": "98b219a57ac0809c92fe",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "八子朋弘議員　県立高校の倍率向上策について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/e/02.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "八子朋弘"
+      ]
+    },
+    {
+      "id": "c5ccde136204f6947b31",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "八子朋弘議員　警察力の強化について／サイバー警察部の新設について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/e/1102.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "八子朋弘"
+      ]
+    },
+    {
+      "id": "a38355197294e3587f99",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "八子朋弘議員　警察力の強化について／警察と市町村の情報共有強化について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/e/1101.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "八子朋弘"
+      ]
+    },
+    {
+      "id": "10207ecd2bafcf3bf310",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "橋本健人議員　2040年を見据えた地域医療体制の確保について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/d/05.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "橋本健人"
+      ]
+    },
+    {
+      "id": "ad985f33d4983ef98116",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "橋本健人議員　プロスポーツを軸としたまちづくりによる地域活性化について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/d/06.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "橋本健人"
+      ]
+    },
+    {
+      "id": "197fa6c686ce894cf3dd",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "橋本健人議員　二つの歴史的課題に対応するための「埼玉県5か年計画」について／県民満足度調査から見る重点課題",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/d/0202.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "橋本健人"
+      ]
+    },
+    {
+      "id": "bc7a951d39527c224391",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "橋本健人議員　二つの歴史的課題に対応するための「埼玉県5か年計画」について／計画最終年度の総仕上げ",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/d/0201.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "橋本健人"
+      ]
+    },
+    {
+      "id": "d0e7bf8e52ce4b291dd1",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "橋本健人議員　地元問題について／新方川流域における調節池の整備",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/d/0801.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "橋本健人"
+      ]
+    },
+    {
+      "id": "ae85719f1edce187681b",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "橋本健人議員　地元問題について／荻島地区産業団地の整備",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/d/0802.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "橋本健人"
+      ]
+    },
+    {
+      "id": "4a0b6ed11ec96d6fc197",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "橋本健人議員　持続可能性のある地方自治の実現について／県民の更なる理解促進",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/d/0102.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "橋本健人"
+      ]
+    },
+    {
+      "id": "1cfa6d7b4e76707c2f33",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "橋本健人議員　持続可能性のある地方自治の実現について／首都圏の性質を踏まえた税源偏在の是正",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/d/0101.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "橋本健人"
+      ]
+    },
+    {
+      "id": "2a8f01b31605fdc189dd",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "橋本健人議員　挑戦する人財が集まり続ける埼玉県庁について／公務員と民間企業が行き来可能な採用制度の創設",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/d/0703.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "橋本健人"
+      ]
+    },
+    {
+      "id": "c806f055f6187baab224",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "橋本健人議員　挑戦する人財が集まり続ける埼玉県庁について／執務環境の改善",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/d/0701.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "橋本健人"
+      ]
+    },
+    {
+      "id": "c91b27db10d046bfe35e",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "橋本健人議員　挑戦する人財が集まり続ける埼玉県庁について／職責に応じた給与体系への見直し／人事委員会の勧告",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/d/0702i.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "橋本健人"
+      ]
+    },
+    {
+      "id": "b2a9e8f4d496244665d8",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "橋本健人議員　挑戦する人財が集まり続ける埼玉県庁について／職責に応じた給与体系への見直し／制度の改正",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/d/0702a.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "橋本健人"
+      ]
+    },
+    {
+      "id": "7fa37ca3042cea4c7d87",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "橋本健人議員　日本の未来を担う全てのこどもが成長できる社会について／ICTを活用したこどものこころの見守り",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/d/0402.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "橋本健人"
+      ]
+    },
+    {
+      "id": "74bcb0c55ec1d1e0c4f3",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "橋本健人議員　日本の未来を担う全てのこどもが成長できる社会について／こどもの可能性を広げる放課後の環境づくり",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/d/0403.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "橋本健人"
+      ]
+    },
+    {
+      "id": "8a7c777364f3449815d4",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "橋本健人議員　日本の未来を担う全てのこどもが成長できる社会について／こども誰でも通園制度の充実",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/d/0401.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "橋本健人"
+      ]
+    },
+    {
+      "id": "645a760593a9c7a68ad6",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "橋本健人議員　県の経済的優位性を高めるための産業振興について／企業価値担保権制度の活用",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/d/0301.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "橋本健人"
+      ]
+    },
+    {
+      "id": "4844519181647534d7e4",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "橋本健人議員　県の経済的優位性を高めるための産業振興について／副業・兼業人財の支援による開業率の向上",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/d/0302.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "橋本健人"
+      ]
+    },
+    {
+      "id": "08e0b64bfb487a165031",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "橋本健人議員　県の経済的優位性を高めるための産業振興について／海外から稼ぐ力の強化に向けた新たな品種・系統の育成",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/d/0303.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "橋本健人"
+      ]
+    },
+    {
+      "id": "7904d85b68826ac400c0",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "金子裕太議員　AGI時代に対応した埼玉県行政の体制構築について／AGI時代の知事の基本認識について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/f/0101.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "金子裕太"
+      ]
+    },
+    {
+      "id": "86df12d6be9a81238617",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "金子裕太議員　AGI時代に対応した埼玉県行政の体制構築について／CAIO（AI統括責任者）の設置について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/f/0103.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "金子裕太"
+      ]
+    },
+    {
+      "id": "58f744689cee3ed598a0",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "金子裕太議員　AGI時代に対応した埼玉県行政の体制構築について／「AI前提」での業務・制度・組織の構造転換について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/f/0102.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "金子裕太"
+      ]
+    },
+    {
+      "id": "eb7428903f6b3a60768e",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "金子裕太議員　AXを前提とした教育の在り方について／AI時代の教育を実行する教育局の推進体制について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/f/0202.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "金子裕太"
+      ]
+    },
+    {
+      "id": "b457f51a30a77974e580",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "金子裕太議員　AXを前提とした教育の在り方について／「教育のためのAI」と「AIのための教育」への基本認識について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/f/0201.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "金子裕太"
+      ]
+    },
+    {
+      "id": "6a38d8ee2218ba414a4a",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "金子裕太議員　AXを前提とした教育の在り方について／教員からこどもたちへ ―AI活用の段階展開について―",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/f/0203.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "金子裕太"
+      ]
+    },
+    {
+      "id": "900ea58ab3d1a3206588",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "金子裕太議員　バーチャル埼玉実証実験の評価と出口戦略について／アジャイル改善の実績について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/f/0301.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "金子裕太"
+      ]
+    },
+    {
+      "id": "680444518c6459c9eae2",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "金子裕太議員　バーチャル埼玉実証実験の評価と出口戦略について／出口基準の明確化について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/f/0302.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "金子裕太"
+      ]
+    },
+    {
+      "id": "acf0c877bf6cd2010f1f",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "金子裕太議員　リンクワーカーの育成・配置による複合課題世帯への横串支援体制の整備について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/f/05.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "金子裕太"
+      ]
+    },
+    {
+      "id": "afa0b16f775a8ec7961f",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "金子裕太議員　合併処理浄化槽の推進について／一括契約制度の普及について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/f/0603.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "金子裕太"
+      ]
+    },
+    {
+      "id": "6c209ff124e43ce3d7d9",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "金子裕太議員　合併処理浄化槽の推進について／合併処理浄化槽への転換について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/f/0601.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "金子裕太"
+      ]
+    },
+    {
+      "id": "6f07a892120301c7bd74",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "金子裕太議員　合併処理浄化槽の推進について／浄化槽台帳のデータ活用について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/f/0602.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "金子裕太"
+      ]
+    },
+    {
+      "id": "761d4fc6ec689cb1613f",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "金子裕太議員　御成橋の4車線化について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/f/08.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "金子裕太"
+      ]
+    },
+    {
+      "id": "193e183cc494ac5e3c89",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "金子裕太議員　県の情報発信サイト・アプリの乱立と戦略転換について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/f/04.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "金子裕太"
+      ]
+    },
+    {
+      "id": "970c5d5abc3c4b724073",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "金子裕太議員　聴覚障害者による運転免許証の更新時における情報保障について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/f/07.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "金子裕太"
+      ]
+    },
+    {
+      "id": "7d741dea3c43fddea6aa",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "保谷武議員　健全な民泊市場の育成に向けた違法民泊対策の実効性強化について／保健所と警察の連携",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/i/0603.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "保谷武"
+      ]
+    },
+    {
+      "id": "e153f4b2af33750e52af",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "保谷武議員　健全な民泊市場の育成に向けた違法民泊対策の実効性強化について／健全な民泊市場育成に関する県の認識",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/i/0601.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "保谷武"
+      ]
+    },
+    {
+      "id": "3f4b595af059e3dcc520",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "保谷武議員　健全な民泊市場の育成に向けた違法民泊対策の実効性強化について／旅館業法に基づく行政調査",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/i/0602.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "保谷武"
+      ]
+    },
+    {
+      "id": "f5ee4831f006c96c9eef",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "保谷武議員　太陽光発電設備のFIT大量卒業に備えたリスク対応について／リスク顕在化時の県の対応",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/i/0202.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "保谷武"
+      ]
+    },
+    {
+      "id": "689484ef4f5fa2cdb762",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "保谷武議員　太陽光発電設備のFIT大量卒業に備えたリスク対応について／県内の太陽光発電施設のリスク把握",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/i/0201.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "保谷武"
+      ]
+    },
+    {
+      "id": "ad777e5b022a324d0da3",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "保谷武議員　小中学校における水泳教育の機会と質の確保について／水泳授業の質の確保に向けた目標設定",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/i/0702.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "保谷武"
+      ]
+    },
+    {
+      "id": "ed7c3e0297c8710099cb",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "保谷武議員　小中学校における水泳教育の機会と質の確保について／水泳授業の質の確保に対する考え",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/i/0701.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "保谷武"
+      ]
+    },
+    {
+      "id": "3c45cbd96c4b5202885a",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "保谷武議員　新県立図書館による県内知的資産DXの推進について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/i/04.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "保谷武"
+      ]
+    },
+    {
+      "id": "8fd2626ae1a47d9c6dc1",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "保谷武議員　流域治水の自分事化に向けた治水施設・流域対策の現場学習の推進について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/i/05.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "保谷武"
+      ]
+    },
+    {
+      "id": "0a99009f81748e970446",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "保谷武議員　身体介護を支援する介護ロボットの社会実装について／ロボティクス産業政策との連携について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/i/0303.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "保谷武"
+      ]
+    },
+    {
+      "id": "d821e6841c96c52be73d",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "保谷武議員　身体介護を支援する介護ロボットの社会実装について／介護ロボットの社会実装に向けた支援体制の強化",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/i/0302.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "保谷武"
+      ]
+    },
+    {
+      "id": "0a71fd84aec4bc98d612",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "保谷武議員　身体介護を支援する介護ロボットの社会実装について／身体介護を支援する介護ロボットの導入が進まない理由",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/i/0301.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "保谷武"
+      ]
+    },
+    {
+      "id": "78ff847d8f9c76fe3234",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "保谷武議員　農政としての都市農業保護から、防災・都市政策としての都市農地・緑地保全への転換について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/i/01.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "保谷武"
+      ]
+    },
+    {
+      "id": "180169d92363ac981413",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "城下のり子議員　「全国狭山茶化計画」ふたたび／まっ茶製造機器の補助要件の緩和へ",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/h/0702.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "城下のり子"
+      ]
+    },
+    {
+      "id": "762dc7fb1239b03d1211",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "城下のり子議員　「全国狭山茶化計画」ふたたび／既存の煎茶用設備を使った、まっ茶製造の調査研究を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/h/0703.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "城下のり子"
+      ]
+    },
+    {
+      "id": "cb065246b269508ee212",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "城下のり子議員　「全国狭山茶化計画」ふたたび／物価高騰に合わせて補助額引上げを",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/h/0705.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "城下のり子"
+      ]
+    },
+    {
+      "id": "e8f858ddb53f95350010",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "城下のり子議員　「全国狭山茶化計画」ふたたび／茶業研究所の職員増員を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/h/0701.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "城下のり子"
+      ]
+    },
+    {
+      "id": "e35ec6ac8067bac8d9fa",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "城下のり子議員　「全国狭山茶化計画」ふたたび／茶生産条件整備事業の補助要件の緩和へ",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/h/0704.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "城下のり子"
+      ]
+    },
+    {
+      "id": "7b24dd33221370f31c99",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "城下のり子議員　困難を抱える女性への実効性ある支援を／困難を抱える女性支援法の枠組みでこそ",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/h/0304.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "城下のり子"
+      ]
+    },
+    {
+      "id": "64c543ce1ec96e632bac",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "城下のり子議員　困難を抱える女性への実効性ある支援を／女性相談支援センターの拡充を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/h/0305.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "城下のり子"
+      ]
+    },
+    {
+      "id": "674a8e4e58a585621f4b",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "城下のり子議員　困難を抱える女性への実効性ある支援を／女性相談支援員の処遇改善を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/h/0306.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "城下のり子"
+      ]
+    },
+    {
+      "id": "f7fce12a848f12bf3fe1",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "城下のり子議員　困難を抱える女性への実効性ある支援を／家を失った女性たちへの支援方法の是正を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/h/0301.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "城下のり子"
+      ]
+    },
+    {
+      "id": "2e18904199e9385a117b",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "城下のり子議員　困難を抱える女性への実効性ある支援を／市町村の困難な問題を抱える女性支援の推進を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/h/0308.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "城下のり子"
+      ]
+    },
+    {
+      "id": "5ec9171a78437594ac2f",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "城下のり子議員　困難を抱える女性への実効性ある支援を／民間支援団体への財政的支援拡充を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/h/0307.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "城下のり子"
+      ]
+    },
+    {
+      "id": "8f5ad53f54ee9500a2d1",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "城下のり子議員　困難を抱える女性への実効性ある支援を／金銭管理の強要は是正を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/h/0302.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "城下のり子"
+      ]
+    },
+    {
+      "id": "c15bcd009a7573fad8e1",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "城下のり子議員　困難を抱える女性への実効性ある支援を／鍵の交換費用の支給を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/h/0303.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "城下のり子"
+      ]
+    },
+    {
+      "id": "4a2b9ec2bdf54ceea8db",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "城下のり子議員　悲しい事件を繰り返さない。訪問介護事業支援への強化を／介護士の大幅な処遇改善を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/h/0404.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "城下のり子"
+      ]
+    },
+    {
+      "id": "765d5e07a3f9d1eea8b0",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "城下のり子議員　悲しい事件を繰り返さない。訪問介護事業支援への強化を／複数人訪問に係る経費の補助手続の簡素化を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/h/0402.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "城下のり子"
+      ]
+    },
+    {
+      "id": "f98cc457c0b24f2f7b44",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "城下のり子議員　悲しい事件を繰り返さない。訪問介護事業支援への強化を／複数人訪問に係る経費の補助額拡充について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/h/0403.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "城下のり子"
+      ]
+    },
+    {
+      "id": "8bcd54237483e98b91ed",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "城下のり子議員　悲しい事件を繰り返さない。訪問介護事業支援への強化を／訪問介護事業の報酬減額の回復を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/h/0405.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "城下のり子"
+      ]
+    },
+    {
+      "id": "9a36198d427c1ba6c331",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "城下のり子議員　悲しい事件を繰り返さない。訪問介護事業支援への強化を／訪問介護従事者の声を聴いて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/h/0401.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "城下のり子"
+      ]
+    },
+    {
+      "id": "254f2eedd80918fe835c",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "城下のり子議員　生活困窮で危機的な県民に緊急支援を／県の事業で県民負担の軽減を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/h/0102.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "城下のり子"
+      ]
+    },
+    {
+      "id": "f71c8364c4382f98a449",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "城下のり子議員　生活困窮で危機的な県民に緊急支援を／県民は危機的状態",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/h/0101.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "城下のり子"
+      ]
+    },
+    {
+      "id": "00193190e493a5e430f9",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "城下のり子議員　県民の願いを基本としたさいたま水上公園跡地計画に／さいたま水上公園跡地の緑の保全を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/h/0601.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "城下のり子"
+      ]
+    },
+    {
+      "id": "6897deb14dacb27968c0",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "城下のり子議員　県民の願いを基本としたさいたま水上公園跡地計画に／スポーツ総合センターにエアコンを",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/h/0603.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "城下のり子"
+      ]
+    },
+    {
+      "id": "09fff161c4ed84350346",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "城下のり子議員　県民の願いを基本としたさいたま水上公園跡地計画に／跡地計画策定は、市民の声を基本に",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/h/0602.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "城下のり子"
+      ]
+    },
+    {
+      "id": "b79c6093014f9858faf7",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "城下のり子議員　資材不足の中小事業者に寄り添った支援を／ナフサ不足をチャンスに！石油に頼らない素材の開発支援を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/h/0204.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "城下のり子"
+      ]
+    },
+    {
+      "id": "fc9ae76246fc299bdcbb",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "城下のり子議員　資材不足の中小事業者に寄り添った支援を／国保の減免を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/h/0203.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "城下のり子"
+      ]
+    },
+    {
+      "id": "347e4908726da0564ce0",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "城下のり子議員　資材不足の中小事業者に寄り添った支援を／資材不足で仕事ができない事業者への救済を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/h/0201.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "城下のり子"
+      ]
+    },
+    {
+      "id": "b486f11b7037f503c224",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "城下のり子議員　資材不足の中小事業者に寄り添った支援を／返済免除付き融資を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/h/0202.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "城下のり子"
+      ]
+    },
+    {
+      "id": "507e93e867bf906275dd",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "城下のり子議員　障害者の自由な移動を保障するために／伊豆潮風館の公聴会について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/h/0504.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "城下のり子"
+      ]
+    },
+    {
+      "id": "5f8eceda2c44ab43f0d2",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "城下のり子議員　障害者の自由な移動を保障するために／車いす障害者への対応改善を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/h/0501.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "城下のり子"
+      ]
+    },
+    {
+      "id": "715f5ed29e571ec8b1e6",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "城下のり子議員　障害者の自由な移動を保障するために／障害児者生活サポート事業の拡充を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/h/0503.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "城下のり子"
+      ]
+    },
+    {
+      "id": "aa20d41ad835adaca512",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "城下のり子議員　障害者の自由な移動を保障するために／駅無人化はストップを",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/h/0502.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "城下のり子"
+      ]
+    },
+    {
+      "id": "3be43e4cf52fdfb66df5",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "林薫議員　こどもの自殺防止について／「西東京ルール」を踏まえた県の取組について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/g/0502.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "林薫"
+      ]
+    },
+    {
+      "id": "799278624318151f21ea",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "林薫議員　こどもの自殺防止について／いじめの調査報告書の透明性確保について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/g/0504.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "林薫"
+      ]
+    },
+    {
+      "id": "62443a4a29dd108b5a64",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "林薫議員　こどもの自殺防止について／教師の不適切指導を起こさせないために",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/g/0503.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "林薫"
+      ]
+    },
+    {
+      "id": "a3063a5f8642a18b4cff",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "林薫議員　こどもの自殺防止について／若者の自殺危機対応チームについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/g/0501.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "林薫"
+      ]
+    },
+    {
+      "id": "c1fd170a744edaae69fe",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "林薫議員　埼玉県における林野火災対策について／実際に発生した際の対策について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/g/1202.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "林薫"
+      ]
+    },
+    {
+      "id": "54b83e63a18a70756f02",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "林薫議員　埼玉県における林野火災対策について／未然防止策について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/g/1201.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "林薫"
+      ]
+    },
+    {
+      "id": "322a1be614c86cd7e6ac",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "林薫議員　学術用語を行政用語に転用する際の注意点について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/g/09.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "林薫"
+      ]
+    },
+    {
+      "id": "46593dba7b6703a58d47",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "林薫議員　教育局から県民への一次情報の発信について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/g/08.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "林薫"
+      ]
+    },
+    {
+      "id": "b2093c75aae257dc7e18",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "林薫議員　現在の経済環境における中小企業振興策について／GNT（グローバル・ニッチ・トップ）企業の育成支援について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/g/0203.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "林薫"
+      ]
+    },
+    {
+      "id": "ed578a35cca3a92c386d",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "林薫議員　現在の経済環境における中小企業振興策について／サプライチェーン全体における適正取引の確保について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/g/0201.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "林薫"
+      ]
+    },
+    {
+      "id": "21ef0604be980a85310b",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "林薫議員　現在の経済環境における中小企業振興策について／機動的な支援策としての融資制度について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/g/0202.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "林薫"
+      ]
+    },
+    {
+      "id": "bc13ed969d1e649ec882",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "林薫議員　現在の経済環境における入札制度のあるべき姿について／災害復旧工事における入札の不調・不落について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/g/0401.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "林薫"
+      ]
+    },
+    {
+      "id": "f64028d2e74b02f8c846",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "林薫議員　現在の経済環境における入札制度のあるべき姿について／県内市町村が行う入札において県が果たすべき役割について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/g/0402.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "林薫"
+      ]
+    },
+    {
+      "id": "1436c311deb3da43b16e",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "林薫議員　現政権下における中小企業支援策について／サステナブル企業認証制度について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/g/0302.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "林薫"
+      ]
+    },
+    {
+      "id": "168686fa401a6ff6d2ad",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "林薫議員　現政権下における中小企業支援策について／売上高「100億宣言」について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/g/0301.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "林薫"
+      ]
+    },
+    {
+      "id": "ac52e7cf6b8416cd7ffa",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "林薫議員　県立高校における特色ある教育活動について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/g/07.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "林薫"
+      ]
+    },
+    {
+      "id": "7920de6ab7dd984ef2c4",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "林薫議員　組織横断的な女性支援について／With You さいたまでの取組について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/g/1002.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "林薫"
+      ]
+    },
+    {
+      "id": "5dc971d3bfa660681944",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "林薫議員　組織横断的な女性支援について／県における取組について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/g/1001.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "林薫"
+      ]
+    },
+    {
+      "id": "725d0b588db3f5e5176a",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "林薫議員　行政に求められる科学的な未来予測について／前例主義や無謬主義にとらわれないことについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/g/0102.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "林薫"
+      ]
+    },
+    {
+      "id": "92ee34947adc9dc9aa0a",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "林薫議員　行政に求められる科学的な未来予測について／県行政に係る未来予測について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/g/0101.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "林薫"
+      ]
+    },
+    {
+      "id": "ce459d721a4675fb2461",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "林薫議員　部活動等の移動時の安全確保に向けた保護者負担の在り方について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/g/06.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "林薫"
+      ]
+    },
+    {
+      "id": "7df6a413370c78cf7afc",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "林薫議員　障害者スポーツ（ユニバーサルスポーツ）の振興について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/g/11.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "林薫"
+      ]
+    },
+    {
+      "id": "ff13d4e0974a01af044a",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "杉田茂実議員　上之（南）交差点の整備について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/l/08.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "杉田茂実"
+      ]
+    },
+    {
+      "id": "6761ec56e0814f5b91a6",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "杉田茂実議員　北部地域振興交流拠点の整備に向けて／本庁機能の一部移転のメリットについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/l/0301.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "杉田茂実"
+      ]
+    },
+    {
+      "id": "21dea5918607bfa7ce1a",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "杉田茂実議員　北部地域振興交流拠点の整備に向けて／移転に向けた対応について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/l/0302.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "杉田茂実"
+      ]
+    },
+    {
+      "id": "2ab08a12088fc4c64f0f",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "杉田茂実議員　北部地域振興交流拠点の整備に向けて／職員採用試験に「北部拠点採用枠を」",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/l/0303.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "杉田茂実"
+      ]
+    },
+    {
+      "id": "bb649cb928ff06fe3d6a",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "杉田茂実議員　地域の維持・発展に向けた教育の在り方について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/l/07.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "杉田茂実"
+      ]
+    },
+    {
+      "id": "593097667aedce7d727c",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "杉田茂実議員　大宮スーパー・ボールパーク構想の施設整備について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/l/06.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "杉田茂実"
+      ]
+    },
+    {
+      "id": "93fc66ad9828a69d6ad3",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "杉田茂実議員　広域道路ネットワークの充実に向けた取組について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/l/05.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "杉田茂実"
+      ]
+    },
+    {
+      "id": "c4cb345083f5c5c79d04",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "杉田茂実議員　県境を超えた温暖化対策について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/l/02.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "杉田茂実"
+      ]
+    },
+    {
+      "id": "873a535eab220d67c608",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "杉田茂実議員　農業基盤整備及び林業政策について／土地改良区の運営の方向性について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/l/0402.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "杉田茂実"
+      ]
+    },
+    {
+      "id": "8f47122d8de072c55f04",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "杉田茂実議員　農業基盤整備及び林業政策について／森林資源の有効活用について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/l/0403.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "杉田茂実"
+      ]
+    },
+    {
+      "id": "3e869beb0b838b22b465",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "杉田茂実議員　農業基盤整備及び林業政策について／水利施設の持続可能な維持管理について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/l/0401.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "杉田茂実"
+      ]
+    },
+    {
+      "id": "3ad88e6e2aef06d8b2a9",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "杉田茂実議員　農業基盤整備及び林業政策について／農業基盤整備及び林業の発展に向けたDXの取組について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/l/0404.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "杉田茂実"
+      ]
+    },
+    {
+      "id": "ecd50403f0fde4526892",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "杉田茂実議員　障害者支援施設 嵐山郷のこれからについて／入所者の生活環境及び職員の就労環境の改善に向けたDXの推進について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/l/0104.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "杉田茂実"
+      ]
+    },
+    {
+      "id": "11be17c6f6f758bdb9ac",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "杉田茂実議員　障害者支援施設 嵐山郷のこれからについて／地域移行や施設の小規模化の方向性について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/l/0102.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "杉田茂実"
+      ]
+    },
+    {
+      "id": "619af352763a13e7e5a7",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "杉田茂実議員　障害者支援施設 嵐山郷のこれからについて／嵐山郷の中・長期的な将来ビジョンについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/l/0101.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "杉田茂実"
+      ]
+    },
+    {
+      "id": "9c5f3dc07bd837ab65e1",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "杉田茂実議員　障害者支援施設 嵐山郷のこれからについて／施設の老朽化に伴う建替えについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/l/0103.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "杉田茂実"
+      ]
+    },
+    {
+      "id": "31511bfc8f6b649be697",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "松本義明議員　「稼ぐ」県政への転換について／システム化によるプッシュ型の中小企業支援",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/j/0302.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "松本義明"
+      ]
+    },
+    {
+      "id": "1bca6b583b097e2b1c48",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "松本義明議員　「稼ぐ」県政への転換について／ターゲットを明確にした本社機能の移転",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/j/0301.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "松本義明",
+        "橋本健人"
+      ]
+    },
+    {
+      "id": "e618f6e3e7ee19218c20",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "松本義明議員　「稼ぐ」県政への転換について／産業政策における特区制度の積極的活用",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/j/0303.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "松本義明"
+      ]
+    },
+    {
+      "id": "0efcc326e0357755c511",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "松本義明議員　「稼ぐ」県政への転換について／鶴ヶ島JCTを核とした企業誘致",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/j/0304.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "松本義明"
+      ]
+    },
+    {
+      "id": "2f267afbddc7470040ad",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "松本義明議員　ソーシャルインクルージョンの推進について／ソーシャルインクルージョンの推進における課題と解決の方向性",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/j/0101.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "松本義明"
+      ]
+    },
+    {
+      "id": "786b1b46ded697271a76",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "松本義明議員　ソーシャルインクルージョンの推進について／小規模市町村・中山間・人口減少地域における特例介護サービス",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/j/0104.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "松本義明"
+      ]
+    },
+    {
+      "id": "330bff9b0e0424d63104",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "松本義明議員　ソーシャルインクルージョンの推進について／強度行動障害の方への支援の徹底",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/j/0102.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "松本義明"
+      ]
+    },
+    {
+      "id": "dd8eaeb198f242ff6d04",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "松本義明議員　ソーシャルインクルージョンの推進について／県立高校における精神保健教育の徹底",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/j/0106.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "松本義明"
+      ]
+    },
+    {
+      "id": "bf781680a85f56df3b24",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "松本義明議員　ソーシャルインクルージョンの推進について／福祉人材の安定的な確保と定着支援",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/j/0105.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "松本義明"
+      ]
+    },
+    {
+      "id": "e75242774c2ccb7104c5",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "松本義明議員　ソーシャルインクルージョンの推進について／適切な時期における迅速な介護の提供",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/j/0103.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "松本義明"
+      ]
+    },
+    {
+      "id": "c109add994aaab789aeb",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "松本義明議員　地元問題について／入間市金子地区新産業団地",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/j/0601.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "松本義明"
+      ]
+    },
+    {
+      "id": "e348cb8eacdad50d158b",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "松本義明議員　地元問題について／県道青梅入間線の歩道拡幅",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/j/0602.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "松本義明"
+      ]
+    },
+    {
+      "id": "63fbec272d440bd2b585",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "松本義明議員　市町村行政の持続可能性について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/j/04.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "松本義明"
+      ]
+    },
+    {
+      "id": "274388d991599515cdbc",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "松本義明議員　県職員の人材確保について／兼業による人材確保",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/j/0502.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "松本義明"
+      ]
+    },
+    {
+      "id": "0ef43eb72ac6d15b933b",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "松本義明議員　県職員の人材確保について／採用する職員の理想像",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/j/0501.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "松本義明"
+      ]
+    },
+    {
+      "id": "f287c1d13d0a2215b287",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "松本義明議員　脱暗記・実学重視への教育改革について／ライフプラン構築にかかる体系的な教育",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/j/0201.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "松本義明"
+      ]
+    },
+    {
+      "id": "0d133ede90527436f33f",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "松本義明議員　脱暗記・実学重視への教育改革について／県立高校における実学重視への転換",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/j/0202.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "松本義明"
+      ]
+    },
+    {
+      "id": "f538f4fa42cd4a3fbc2d",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "細川威議員　SNS時代における新たな防犯対策について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/k/07.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "細川威"
+      ]
+    },
+    {
+      "id": "e4533926015c1f7ae016",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "細川威議員　「選ばれる県庁」に向けた人材戦略について／「選ばれる県庁」へ向けた取組について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/k/0203.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "細川威"
+      ]
+    },
+    {
+      "id": "10e629ce05e64f9e8731",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "細川威議員　「選ばれる県庁」に向けた人材戦略について／カムバック採用を「循環型人材戦略」へ発展させることについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/k/0201.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "細川威"
+      ]
+    },
+    {
+      "id": "50798ac5b763f3fda003",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "細川威議員　「選ばれる県庁」に向けた人材戦略について／県職員確保に向けた対話機会の充実について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/k/0202.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "細川威"
+      ]
+    },
+    {
+      "id": "4e89b6f38d6a6f21185d",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "細川威議員　中学校部活動の地域展開について県の方向性を問う",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/k/03.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "細川威"
+      ]
+    },
+    {
+      "id": "590e6a7d73a3edf73c82",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "細川威議員　交通事故を未然に防ぐ道路環境整備について／県民協働による交通安全インフラの維持管理について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/k/0502.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "細川威"
+      ]
+    },
+    {
+      "id": "69897abb8e733990438a",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "細川威議員　交通事故を未然に防ぐ道路環境整備について／路面標示の劣化と交通規制の実効性について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/k/0501.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "細川威"
+      ]
+    },
+    {
+      "id": "3111e956dc586ab37adf",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "細川威議員　児童・生徒の視力低下対策について／ICT時代におけるこどもの目を守る取組について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/k/0802.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "細川威"
+      ]
+    },
+    {
+      "id": "8ebfd50c2101a7ca1d6e",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "細川威議員　児童・生徒の視力低下対策について／視力低下対策の効果について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/k/0801.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "細川威"
+      ]
+    },
+    {
+      "id": "046422859a20ff65ef01",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "細川威議員　埼玉県生活環境保全条例における規制基準の在り方について／屋外保管場所に係る規制対象面積の考え方について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/k/0901.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "細川威"
+      ]
+    },
+    {
+      "id": "85459bc34f9e7dd0e21a",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "細川威議員　埼玉県生活環境保全条例における規制基準の在り方について／規制基準の見直しについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/k/0902.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "細川威"
+      ]
+    },
+    {
+      "id": "12e6b7e9cc7a2c11c944",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "細川威議員　東京都一極集中による埼玉県への影響について／「税源偏在是正」について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/k/0101.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "細川威"
+      ]
+    },
+    {
+      "id": "d58873f519fcaaa9bf11",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "細川威議員　東京都一極集中による埼玉県への影響について／保育士の処遇改善と人材確保に関する国への要望の見通しについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/k/0102.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "細川威"
+      ]
+    },
+    {
+      "id": "6bc35731d10fe66af683",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "細川威議員　消防団の持続可能な活動を支える県の役割について／消防団員の学びを支える「埼玉県版プラットフォーム」の構築について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/k/0401.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "細川威"
+      ]
+    },
+    {
+      "id": "e2d4ba2713e2b6ba12de",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "細川威議員　消防団の持続可能な活動を支える県の役割について／消防操法大会の意義と今後の在り方について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/k/0402.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "細川威"
+      ]
+    },
+    {
+      "id": "79e8a6202146fe389d38",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "細川威議員　自転車の青切符制度開始後に見えてきた課題と情報発信について／制度の誤情報に対する取組について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/k/0602.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "細川威"
+      ]
+    },
+    {
+      "id": "fdfb7fc5a65ed099e38f",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "細川威議員　自転車の青切符制度開始後に見えてきた課題と情報発信について／運用後の課題や問題点について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/k/0601.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "細川威"
+      ]
+    },
+    {
+      "id": "d8acf9b0dee2458a65bc",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "細川威議員　越谷市における「中川・綾瀬川緊急流域治水プロジェクト」の取組について／「プロジェクト」の進捗状況と今後の見通しについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/k/1001.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "細川威"
+      ]
+    },
+    {
+      "id": "ac15cb78d140b833dd8c",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "細川威議員　越谷市における「中川・綾瀬川緊急流域治水プロジェクト」の取組について／治水対策の見える化と周知について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/k/1002.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "細川威"
+      ]
+    },
+    {
+      "id": "b7c63a5bd09e1996187b",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "千葉達也議員　イノシシの対策について／渡良瀬遊水地でのドローン調査の成果について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/n/0402.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "千葉達也"
+      ]
+    },
+    {
+      "id": "0c98cc40d3ab255d8b4d",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "千葉達也議員　イノシシの対策について／渡良瀬遊水地での個体数を継続的に減らすための具体的対策について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/n/0403.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "千葉達也"
+      ]
+    },
+    {
+      "id": "6491fcbd689e866df943",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "千葉達也議員　イノシシの対策について／県内の農作物の被害状況と対策について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/n/0401.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "千葉達也"
+      ]
+    },
+    {
+      "id": "4982b1f010e98757f5e4",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "千葉達也議員　地元問題について／県道久喜騎西線バイパスの整備について／上高柳2工区について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/n/0801a.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "千葉達也"
+      ]
+    },
+    {
+      "id": "b796f8420cc1fb620dfa",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "千葉達也議員　地元問題について／県道久喜騎西線バイパスの整備について／県道久喜騎西線バイパスの東方面への延伸について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/n/0801i.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "千葉達也"
+      ]
+    },
+    {
+      "id": "2e5541a695a01170e5e5",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "千葉達也議員　地元問題について／県道加須幸手線バイパスの幸手方面への延伸について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/n/0802.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "千葉達也"
+      ]
+    },
+    {
+      "id": "e2fb3bf0961a98771aee",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "千葉達也議員　地元問題について／県道羽生栗橋線バイパスの進捗状況について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/n/0803.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "千葉達也"
+      ]
+    },
+    {
+      "id": "ea92fd35a8b2e95cc60f",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "千葉達也議員　地政学的リスクに伴う建築資材の調達難と建築業の保護策について／国際情勢の認識と建築業界への影響について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/n/0701.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "千葉達也"
+      ]
+    },
+    {
+      "id": "abd3447910387f97fbe0",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "千葉達也議員　地政学的リスクに伴う建築資材の調達難と建築業の保護策について／工事価格の適正化とスライド条項の発動について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/n/0702.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "千葉達也"
+      ]
+    },
+    {
+      "id": "b8a9cc394de0c4b2df81",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "千葉達也議員　地政学的リスクに伴う建築資材の調達難と建築業の保護策について／工期の柔軟な設定について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/n/0703.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "千葉達也"
+      ]
+    },
+    {
+      "id": "4279e1f4a1a6a8f69fbd",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "千葉達也議員　埼玉版スーパー・シティプロジェクトの加速と県の能動的支援について／成功事例の創出に向けた「攻めの支援」について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/n/0103.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "千葉達也"
+      ]
+    },
+    {
+      "id": "4b7629214ebdcaf7d580",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "千葉達也議員　埼玉版スーパー・シティプロジェクトの加速と県の能動的支援について／県による「伴走型支援」について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/n/0102.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "千葉達也"
+      ]
+    },
+    {
+      "id": "32d25d9c71d183fd7ec9",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "千葉達也議員　埼玉版スーパー・シティプロジェクトの加速と県の能動的支援について／県内自治体の成功事例について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/n/0101.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "千葉達也"
+      ]
+    },
+    {
+      "id": "3303be97e7a5e607f18a",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "千葉達也議員　本県農業の競争力強化について／RTK基地局の整備状況とスマート農業の将来展望について／RTK基地局の整備状況について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/n/0502a.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "千葉達也"
+      ]
+    },
+    {
+      "id": "1814b595105358d1430c",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "千葉達也議員　本県農業の競争力強化について／RTK基地局の整備状況とスマート農業の将来展望について／スマート農業の将来展望について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/n/0502i.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "千葉達也"
+      ]
+    },
+    {
+      "id": "f1f61c949c1a90b332d6",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "千葉達也議員　本県農業の競争力強化について／薬剤抵抗性イネカメムシへの備えと防除体系の進化について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/n/0501.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "千葉達也"
+      ]
+    },
+    {
+      "id": "f7472978090dd4741356",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "千葉達也議員　本県農業の競争力強化について／高温障害による「白未熟粒」の等級選定基準見直しについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/n/05033.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "千葉達也"
+      ]
+    },
+    {
+      "id": "dfc6c6e60f6ed9bb82ff",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "千葉達也議員　民間活力を導入した商店街の空き店舗対策について／市町村・不動産業界・商工会と連携した活動について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/n/0202.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "千葉達也"
+      ]
+    },
+    {
+      "id": "fa24059af82605686285",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "千葉達也議員　民間活力を導入した商店街の空き店舗対策について／民間の知恵を生かした「エリアリノベーション」の推進について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/n/0203.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "千葉達也"
+      ]
+    },
+    {
+      "id": "91230b54e012af52ec0e",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "千葉達也議員　民間活力を導入した商店街の空き店舗対策について／空き店舗の現状分析と市町村の支援について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/n/0201.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "千葉達也"
+      ]
+    },
+    {
+      "id": "24608d57579cbc4f2f7e",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "千葉達也議員　流域下水道の維持管理負担金の格差是正について／持続可能な下水道事業に向けた経営効率化の取組について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/n/0302.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "千葉達也"
+      ]
+    },
+    {
+      "id": "108e293d8a24ca608d93",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "千葉達也議員　流域下水道の維持管理負担金の格差是正について／県内格差の現状と課題認識について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/n/0301.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "千葉達也"
+      ]
+    },
+    {
+      "id": "36566ec7e97d9f9e617e",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "千葉達也議員　自転車の安全通行とインフラ整備の整合性について／「道路幅員が狭い危険な箇所」への対策について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/n/0603.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "千葉達也"
+      ]
+    },
+    {
+      "id": "80a905fed6c3a45e93c7",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "千葉達也議員　自転車の安全通行とインフラ整備の整合性について／利用者目線に立った現場の安全対策について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/n/0604.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "千葉達也"
+      ]
+    },
+    {
+      "id": "f5fbad88875c836a2c9c",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "千葉達也議員　自転車の安全通行とインフラ整備の整合性について／改正道路交通法の周知について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/n/0602.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "千葉達也"
+      ]
+    },
+    {
+      "id": "e00ffd9da117e300e956",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "千葉達也議員　自転車の安全通行とインフラ整備の整合性について／改正道路交通法の変更点について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/n/0601.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "千葉達也"
+      ]
+    },
+    {
+      "id": "64faadec50b98b814ed9",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "宮崎吾一議員　ふるさと納税の活用について／こども食堂の支援について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/m/0502.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "899620b8175951fc9abf",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "宮崎吾一議員　ふるさと納税の活用について／企業版ふるさと納税の物納スキームの活用について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/m/0501.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "69426e10ef484a1d2edd",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "宮崎吾一議員　予算編成過程の透明化について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/m/06.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "c58a39a1ce5a38b44608",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "宮崎吾一議員　地元課題について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/m/11.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "c76f25e18c5a102390b0",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "宮崎吾一議員　地域医療について／コミュニティホスピタルについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/m/0303.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "be4b3ac9ab9509e9c88a",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "宮崎吾一議員　地域医療について／国民健康保険の第三者求償権の傷病届について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/m/0301.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "420c8f7dadb598c65d07",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "宮崎吾一議員　地域医療について／地域フォーミュラリの本県の導入状況について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/m/0302.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "f55e02374e5a17a84833",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "宮崎吾一議員　埼玉県に海を／全国大会誘致について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/m/0801.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "3ca91e3d005a31a44fd5",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "宮崎吾一議員　埼玉県に海を／陸上養殖の浄水場の利用について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/m/0802.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "59c339bed25ca01bc580",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "宮崎吾一議員　文化・教育の振興について／GMOアリーナさいたまの予約について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/m/0704.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "c814393c4e2d350fea60",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "宮崎吾一議員　文化・教育の振興について／ロケ地を生かした観光振興について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/m/0706.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "002ea1ad0c427e160f70",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "宮崎吾一議員　文化・教育の振興について／公立高校の改革先導拠点について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/m/0705.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "dc5f1dbf6b496a2a96a0",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "宮崎吾一議員　文化・教育の振興について／埼玉県広報アンバサダーについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/m/0703.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "90b7afa8377c4cf0d2d7",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "宮崎吾一議員　文化・教育の振興について／彩の国さいたま芸術劇場について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/m/0702.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "0a06238aa04efed2e16e",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "宮崎吾一議員　文化・教育の振興について／高卒資格について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/m/0701.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "d43d4c972dc51ae619ff",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "宮崎吾一議員　更生保護について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/m/10.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "5c652e60c445f6e721f8",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "宮崎吾一議員　死因究明について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/m/04.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "3bee4d68fadb11d46ff6",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "宮崎吾一議員　気候変動への対応について／暑さ対策について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/m/0901.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "90ab30e56489f8a675f5",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "宮崎吾一議員　気候変動への対応について／県産うどんを全国1位に",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/m/0902.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "7eae2119b3d02ae9f516",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "宮崎吾一議員　県庁債務と消滅時効について／各手当・県庁債務の消滅時効について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/m/0102.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "8f7db35728060f91a962",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "宮崎吾一議員　県庁債務と消滅時効について／県税還付金の消滅時効について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/m/0101.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "4c592a3bdddc0050f0a3",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "宮崎吾一議員　行政のデジタル化について／オンライン手続の手数料引下げと入力データの共有について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/m/0201.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "3ce8d281dd66222d8c29",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "宮崎吾一議員　行政のデジタル化について／家庭学習におけるデジタルツールの調査について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/m/0202.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "0f05c6c95b7756b893d1",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "宮崎吾一議員　行政のデジタル化について／道路データのデジタル化について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/m/0203.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "宮崎吾一"
+      ]
+    },
+    {
+      "id": "1450cb6596ea695fd863",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "岡地優議員　「技-1（わざわん）グランプリ～埼玉″高技専″まつり～」について／技-1（わざわん）グランプリについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/o/0201.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "岡地優"
+      ]
+    },
+    {
+      "id": "72be6fa759668619ef71",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "岡地優議員　「技-1（わざわん）グランプリ～埼玉″高技専″まつり～」について／技能人材の社会的評価向上について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/o/0203.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "岡地優"
+      ]
+    },
+    {
+      "id": "dd4601f8bd6379a7adc0",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "岡地優議員　「技-1（わざわん）グランプリ～埼玉″高技専″まつり～」について／県立高等技術専門校の周知について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/o/0202.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "岡地優"
+      ]
+    },
+    {
+      "id": "888de07a7fc1f9194b39",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "岡地優議員　ねんりんピックを契機とした高齢者が活躍できる社会づくりについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/o/06.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "岡地優"
+      ]
+    },
+    {
+      "id": "5c6b765709ea78689221",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "岡地優議員　クビアカツヤカミキリへの対応について／クビアカツヤカミキリの被害について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/o/0301.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "岡地優"
+      ]
+    },
+    {
+      "id": "aff736726c3a296ffa92",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "岡地優議員　クビアカツヤカミキリへの対応について／全県的な住民参加型の監視体制の構築について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/o/0304.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "岡地優"
+      ]
+    },
+    {
+      "id": "09f6b98911d987ae38f3",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "岡地優議員　クビアカツヤカミキリへの対応について／市町村への補助制度案内の進捗について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/o/0302.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "岡地優"
+      ]
+    },
+    {
+      "id": "8f6905f7690169367988",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "岡地優議員　クビアカツヤカミキリへの対応について／防除方針の計画化と市町村管理公園への支援展開について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/o/0303.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "岡地優"
+      ]
+    },
+    {
+      "id": "36727f0669b29b474f0c",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "岡地優議員　今後の埼玉県のインフラ整備について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/o/04.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "岡地優"
+      ]
+    },
+    {
+      "id": "0ad86f87b09b9dc6c236",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "岡地優議員　医療的ケア児等の短期入所サービスの充実について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/o/08.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "岡地優"
+      ]
+    },
+    {
+      "id": "f94612eaf2824f9548a9",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "岡地優議員　地元問題について／一級河川江川の浸水被害対策について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/o/1101.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "岡地優"
+      ]
+    },
+    {
+      "id": "3114773647c97e3e2d24",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "岡地優議員　地元問題について／県道桶川停車場線の整備について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/o/1102.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "岡地優"
+      ]
+    },
+    {
+      "id": "1cf6577ef9160b1d786e",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "岡地優議員　地域コミュニティの衰退と県の支援の在り方について／地域コミュニティに係る市町村支援について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/o/0902.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "岡地優"
+      ]
+    },
+    {
+      "id": "1787eb1924be19560cd3",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "岡地優議員　地域コミュニティの衰退と県の支援の在り方について／地域コミュニティの現状について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/o/0901.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "岡地優"
+      ]
+    },
+    {
+      "id": "2dbc34c3b8ea2de2946e",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "岡地優議員　埼玉から「日本一」を目指そう",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/o/01.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "岡地優"
+      ]
+    },
+    {
+      "id": "e2fb9c51c1744c9731df",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "岡地優議員　放課後児童クラブについて／放課後児童クラブにおける人材の確保について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/o/1001.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "岡地優"
+      ]
+    },
+    {
+      "id": "d59ef6b63bf54e104b3e",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "岡地優議員　放課後児童クラブについて／放課後児童クラブの質の確保について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/o/1002.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "岡地優"
+      ]
+    },
+    {
+      "id": "1fad2e1a37acdcf93956",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "岡地優議員　本県における個人県民税の収納対策について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/o/07.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "岡地優"
+      ]
+    },
+    {
+      "id": "ba7330a959729724df71",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "岡地優議員　若年層を中心とした多重債務問題について／埼玉県内の多重債務問題の現状について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/o/0501.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "岡地優"
+      ]
+    },
+    {
+      "id": "5d66b3c5a795008085a5",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "岡地優議員　若年層を中心とした多重債務問題について／多重債務問題の予防策について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/o/0502.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "岡地優"
+      ]
+    },
+    {
+      "id": "551b344f1206cfcb6072",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "小川寿士議員　がん患者支援について／アピアランスケアの体制整備について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/b/0302.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小川寿士"
+      ]
+    },
+    {
+      "id": "69c1dd46c98ea755c64d",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "小川寿士議員　がん患者支援について／妊孕性の保存期間の更新費用助成について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/b/0301.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小川寿士"
+      ]
+    },
+    {
+      "id": "5634659a9695fe7654ed",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "小川寿士議員　ストーカー・家族からの暴力・DV被害の防止について／ストーカー対策について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/b/0401.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小川寿士"
+      ]
+    },
+    {
+      "id": "db9ee3024100d781f77d",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "小川寿士議員　ストーカー・家族からの暴力・DV被害の防止について／家族からの暴力・DV被害の相談について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/b/0402.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小川寿士"
+      ]
+    },
+    {
+      "id": "543ab770207e18a4d11f",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "小川寿士議員　埼玉県福祉タクシー運営協議会に係る福祉タクシー利用券枚数上限緩和について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/b/05.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小川寿士"
+      ]
+    },
+    {
+      "id": "8bdec62d154f292834b9",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "小川寿士議員　孤独・孤立対策について／住宅ソーシャルワーカー事業について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/b/0603.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小川寿士"
+      ]
+    },
+    {
+      "id": "a09d6afe76bffae9ef66",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "小川寿士議員　孤独・孤立対策について／住宅確保要配慮者の住宅確保について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/b/0601.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小川寿士"
+      ]
+    },
+    {
+      "id": "4639978c016bd2be3e3f",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "小川寿士議員　孤独・孤立対策について／民間賃貸住宅のセーフティネット化について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/b/0602.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小川寿士"
+      ]
+    },
+    {
+      "id": "cba56b6c28678bb22ac2",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "小川寿士議員　孤独・孤立対策について／県の今後の取組方針について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/b/0604.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小川寿士"
+      ]
+    },
+    {
+      "id": "8cf49533dc1b6ec0e636",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "小川寿士議員　災害対策について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/b/01.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小川寿士"
+      ]
+    },
+    {
+      "id": "03b663a993b9cf03fc54",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "小川寿士議員　高次脳機能障害者支援法の施行を踏まえた対応について／同法第12条「教育的支援」について／県立高校生徒の通学支援について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/b/0203i.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小川寿士"
+      ]
+    },
+    {
+      "id": "804b98dc1a9e8ea87ee3",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "小川寿士議員　高次脳機能障害者支援法の施行を踏まえた対応について／同法第12条「教育的支援」について／知事部局の対応について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/b/0203u.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小川寿士"
+      ]
+    },
+    {
+      "id": "a194eaadad0d28eebb5a",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "小川寿士議員　高次脳機能障害者支援法の施行を踏まえた対応について／同法第12条「教育的支援」について／高次脳機能障害のある生徒の通学について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/b/0203a.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小川寿士"
+      ]
+    },
+    {
+      "id": "d3bfa776411d002f30c0",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "小川寿士議員　高次脳機能障害者支援法の施行を踏まえた対応について／県内での小児への医学的リハビリ等の医療体制整備について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/b/0202.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小川寿士"
+      ]
+    },
+    {
+      "id": "1261ee3e7419dca7004a",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "小川寿士議員　高次脳機能障害者支援法の施行を踏まえた対応について／神奈川リハビリテーション病院における小児への支援について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/b/0201.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小川寿士"
+      ]
+    },
+    {
+      "id": "46d83c1085f7a76e1a67",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "権守幸男議員　SNS教育相談の対象拡大と通年化について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/c/06.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "権守幸男"
+      ]
+    },
+    {
+      "id": "41a2654f1e314328456d",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "権守幸男議員　不登校児童生徒の多様な学びの保障と適切な評価について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/c/05.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "権守幸男"
+      ]
+    },
+    {
+      "id": "02eec3282522d74d8721",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "権守幸男議員　八潮市道路陥没事故を踏まえた下水道の強靱化について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/c/03.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "権守幸男"
+      ]
+    },
+    {
+      "id": "6ef7abfb7183f952c2bb",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "権守幸男議員　地元問題／春日部駅付近連続立体交差事業を活用したにぎわい創出について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/c/1001.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "権守幸男"
+      ]
+    },
+    {
+      "id": "7946dd45f1b4f93d0c76",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "権守幸男議員　地元問題／県営かすかべ夢の森公園の更なる魅力向上について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/c/1003.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "権守幸男"
+      ]
+    },
+    {
+      "id": "f546c7b693ca0a0a02cd",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "権守幸男議員　地元問題／県道西金野井春日部線・新川工区の整備について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/c/1002.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "権守幸男"
+      ]
+    },
+    {
+      "id": "ad70783e60eaff8eba04",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "権守幸男議員　県有施設における落雷リスク低減に向けた次世代型雷対策について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/c/08.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "権守幸男"
+      ]
+    },
+    {
+      "id": "5c7dcf3a091aecaf9c0d",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "権守幸男議員　県立特別支援学校における安全対策の強化について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/c/04.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "権守幸男"
+      ]
+    },
+    {
+      "id": "904e96545164a9a777ed",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "権守幸男議員　社会情勢の変化に対応した県営住宅の入居要件の見直しについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/c/09.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "権守幸男"
+      ]
+    },
+    {
+      "id": "7a3746e623925e4bd84e",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "権守幸男議員　豪雨災害に備えたソフト・ハード両面の対策強化について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/c/02.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "権守幸男"
+      ]
+    },
+    {
+      "id": "7ecc742af47f99b1e093",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "権守幸男議員　避難後の命を守る災害関連死防止対策について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/c/01.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "権守幸男"
+      ]
+    },
+    {
+      "id": "ce17dfafe95fafa33326",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "権守幸男議員　障害福祉サービス事業所における不正請求の防止と指導・監査体制の強化について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/c/07.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "権守幸男"
+      ]
+    },
+    {
+      "id": "d24808be516d9231786c",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "永瀬秀樹議員　「あと数マイル・プロジェクト」の今後と日暮里・舎人ライナーの延伸について／「あと数マイル・プロジェクト」の今後について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/a/0101.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "永瀬秀樹"
+      ]
+    },
+    {
+      "id": "4b216f48e675ddf5bb24",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "永瀬秀樹議員　「あと数マイル・プロジェクト」の今後と日暮里・舎人ライナーの延伸について／日暮里・舎人ライナーの延伸について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/a/0102.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "永瀬秀樹"
+      ]
+    },
+    {
+      "id": "02b338b7319b9809b441",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "永瀬秀樹議員　保育士の処遇改善について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/a/02.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "永瀬秀樹"
+      ]
+    },
+    {
+      "id": "45b97148d5db6125831a",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "永瀬秀樹議員　地域の課題／川口市の警察力の向上について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/a/0601.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "永瀬秀樹"
+      ]
+    },
+    {
+      "id": "ab4a19dc1226643b1f6e",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "永瀬秀樹議員　地域の課題／河川の治水対策について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/a/0602.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "永瀬秀樹"
+      ]
+    },
+    {
+      "id": "b289b7f695310daef86c",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "永瀬秀樹議員　地域の課題／都市計画道路南浦和越谷線の整備について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/a/0603.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "永瀬秀樹"
+      ]
+    },
+    {
+      "id": "09f31e9ede59cee65c6e",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "永瀬秀樹議員　木造住宅密集市街地の震災対策と感震ブレーカーの導入支援について／住宅密集地の改善計画と出火防止対策について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/a/0401.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "永瀬秀樹"
+      ]
+    },
+    {
+      "id": "0560f6930dbb8b903b30",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "永瀬秀樹議員　木造住宅密集市街地の震災対策と感震ブレーカーの導入支援について／感震ブレーカーの普及と導入支援について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/a/0402.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "永瀬秀樹"
+      ]
+    },
+    {
+      "id": "0aa4a159f03701dd9c74",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "永瀬秀樹議員　災害時の避難環境向上に向けた大型資機材の機動支援について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/a/05.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "永瀬秀樹"
+      ]
+    },
+    {
+      "id": "53cb4076eb8de53baf25",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "永瀬秀樹議員　第10期埼玉県高齢者支援計画と介護人材の確保・定着について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/a/03.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "永瀬秀樹"
+      ]
+    },
+    {
+      "id": "3a353648760bccdacdc8",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "山田裕子議員　地元問題について／都市計画道路浦和野田線（元荒川工区）について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/f/0601.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "山田裕子"
+      ]
+    },
+    {
+      "id": "259e618c3a482864446e",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "山田裕子議員　地元問題について／都市計画道路越谷市役所通り線について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/f/0602.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "山田裕子"
+      ]
+    },
+    {
+      "id": "0eadeec87314f85a7d45",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "山田裕子議員　地域課題の解決と生きがいを生む協同労働の推進を／労働者協同組合活用促進モデル事業への応募について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/f/0502.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "山田裕子"
+      ]
+    },
+    {
+      "id": "76595f3b6a4700503193",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "山田裕子議員　地域課題の解決と生きがいを生む協同労働の推進を／協同労働の価値を、地域の現場に届けるために",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/f/0501.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "山田裕子"
+      ]
+    },
+    {
+      "id": "c6212417301678b86443",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "山田裕子議員　埼玉県伊豆潮風館のあり方について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/f/04.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "山田裕子"
+      ]
+    },
+    {
+      "id": "aaf7e31ac46b14551459",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "山田裕子議員　差別と排外主義を許さない埼玉県へ／「外国人だから貸さない」をなくすために",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/f/0103.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "山田裕子"
+      ]
+    },
+    {
+      "id": "5caf0f69e3033b0f8e33",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "山田裕子議員　差別と排外主義を許さない埼玉県へ／差別をなくすためのルールを埼玉にも",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/f/0104.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "山田裕子"
+      ]
+    },
+    {
+      "id": "9232fd491896072b5a84",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "山田裕子議員　差別と排外主義を許さない埼玉県へ／朝鮮学校への16年続く補助金不支給を、こどもの権利から問い直す／こどもの権利から不支給を問い直す",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/f/0102i.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "山田裕子"
+      ]
+    },
+    {
+      "id": "42e0f0677a1115f7b6ee",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "山田裕子議員　差別と排外主義を許さない埼玉県へ／朝鮮学校への16年続く補助金不支給を、こどもの権利から問い直す／補助金不支給の根拠は何なのか",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/f/0102a.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "山田裕子"
+      ]
+    },
+    {
+      "id": "d32c6846b232ab4f3890",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "山田裕子議員　差別と排外主義を許さない埼玉県へ／深刻化するヘイトスピーチへの対応について／「選挙ヘイト」をどう止めるのか",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/f/0101i.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "山田裕子"
+      ]
+    },
+    {
+      "id": "abc8eb2fe55192e3be91",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "山田裕子議員　差別と排外主義を許さない埼玉県へ／深刻化するヘイトスピーチへの対応について／啓発や相談だけでヘイトスピーチを止められるのか",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/f/0101u.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "山田裕子"
+      ]
+    },
+    {
+      "id": "3b3fddcf4977c422ef73",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "山田裕子議員　差別と排外主義を許さない埼玉県へ／深刻化するヘイトスピーチへの対応について／県内に広がるヘイトスピーチをどう認識しているのか",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/f/0101a.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "山田裕子"
+      ]
+    },
+    {
+      "id": "1d850823a2341939ebc8",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "山田裕子議員　悪質な無料低額宿泊所から生活困窮者を守るために／住まいを失った女性を「無低しかない」にしないために",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/f/0203.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "山田裕子"
+      ]
+    },
+    {
+      "id": "330a4318ba67e6b614f1",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "山田裕子議員　悪質な無料低額宿泊所から生活困窮者を守るために／悪質な無料低額宿泊所を生活困窮者の行き先にしないために",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/f/0201.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "山田裕子"
+      ]
+    },
+    {
+      "id": "05f952192aafa97a32a8",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "山田裕子議員　悪質な無料低額宿泊所から生活困窮者を守るために／改善指導を「出しただけ」で終わらせないために",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/f/0202.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "山田裕子"
+      ]
+    },
+    {
+      "id": "586bdf0d8ce276a4f312",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "山田裕子議員　除染土の再利用～県民への説明なき実施を許さない～／なぜ住民への事前説明と対話を実施の前提としなかったのか",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/f/0301.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "山田裕子"
+      ]
+    },
+    {
+      "id": "db3ac682d55ae5e6e24f",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "山田裕子議員　除染土の再利用～県民への説明なき実施を許さない～／撤去や原状回復を国に求めることについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/f/0302.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "山田裕子"
+      ]
+    },
+    {
+      "id": "c995d8bb9d331c95e211",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "山田裕子議員　除染土の再利用～県民への説明なき実施を許さない～／県内での再利用を繰り返さないために",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/f/0303.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "山田裕子"
+      ]
+    },
+    {
+      "id": "9742932913fdf13e97a4",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "金野桃子議員　AI時代の障がい者就労について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/e/12.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "金野桃子"
+      ]
+    },
+    {
+      "id": "79e6ffe3edc0830e2b87",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "金野桃子議員　「ほじょ犬」の理解促進について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/e/10.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "金野桃子"
+      ]
+    },
+    {
+      "id": "8c18f9271f36ccaa350e",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "金野桃子議員　コミュニティソーシャルワーカーについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/e/08.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "金野桃子"
+      ]
+    },
+    {
+      "id": "a4c15b0122fdc9559074",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "金野桃子議員　交通違反検挙件数の多い箇所の把握・公表・対策について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/e/15.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "金野桃子"
+      ]
+    },
+    {
+      "id": "a6b7fdfabf077c0eaf0b",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "金野桃子議員　保育士、福祉人材確保について／地域限定保育士試験の実施を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/e/0901.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "金野桃子"
+      ]
+    },
+    {
+      "id": "5a0e79e9b1234f1ee7b4",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "金野桃子議員　保育士、福祉人材確保について／福祉人材の公的マッチングの強化を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/e/0902.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "金野桃子"
+      ]
+    },
+    {
+      "id": "105e9fa7ddb113f18a50",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "金野桃子議員　地元問題について／県民に愛される県営戸田公園の再整備を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/e/1802.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "金野桃子"
+      ]
+    },
+    {
+      "id": "3b01dbab457205ec55c6",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "金野桃子議員　地元問題について／荒川水循環センター及び周辺環境の改善を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/e/1801.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "金野桃子"
+      ]
+    },
+    {
+      "id": "ff2d1ed12879c8815487",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "金野桃子議員　女性の健康について／「女性の健康プロジェクト」を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/e/0301.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "金野桃子"
+      ]
+    },
+    {
+      "id": "b8d885822ac466422e29",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "金野桃子議員　女性の健康について／高校生のためのユースヘルスケア・ユースクリニックの実施を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/e/0302.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "金野桃子"
+      ]
+    },
+    {
+      "id": "efc1607b8fbe811d4bbd",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "金野桃子議員　専修学校等への支援など、職業教育の充実について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/e/07.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "金野桃子"
+      ]
+    },
+    {
+      "id": "61ec78f92d1fda3f946b",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "金野桃子議員　工業高校の充実について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/e/06.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "金野桃子"
+      ]
+    },
+    {
+      "id": "e3f8789d18048e7c93a5",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "金野桃子議員　県内ごみ処理場における火災について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/e/14.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "金野桃子"
+      ]
+    },
+    {
+      "id": "dc0b27020ea678a63bd4",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "金野桃子議員　県営住宅での入居者死亡時の残置物について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/e/13.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "金野桃子"
+      ]
+    },
+    {
+      "id": "eb348243a1df88e248eb",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "金野桃子議員　県立学校の給食について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/e/05.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "金野桃子"
+      ]
+    },
+    {
+      "id": "4e66aa121693181fe302",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "金野桃子議員　県立高校の共学化について／県内市町村議会で議決された意見書等への認識は",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/e/0402.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "金野桃子"
+      ]
+    },
+    {
+      "id": "72f9cde25c7350fedd9c",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "金野桃子議員　県立高校の共学化について／苦情申出に係る事実確認について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/e/0401.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "井上航",
+        "八子朋弘",
+        "金野桃子"
+      ]
+    },
+    {
+      "id": "8494d2ca0a375f2f596d",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "金野桃子議員　税収の東京一極集中について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/e/02.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "金野桃子"
+      ]
+    },
+    {
+      "id": "7f7772c3c7925c4886d4",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "金野桃子議員　笹目川の治水対策について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/e/17.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "金野桃子"
+      ]
+    },
+    {
+      "id": "eef45a282f639d8e4b18",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "金野桃子議員　里親制度の充実について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/e/11.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "金野桃子"
+      ]
+    },
+    {
+      "id": "9174e2e4e1a5f088aff7",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "金野桃子議員　防災・減災対策について／1.5次・2次避難等、広域的な避難対策の強化を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/e/0102.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "金野桃子"
+      ]
+    },
+    {
+      "id": "10a92c53d8d16f3488e8",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "金野桃子議員　防災・減災対策について／冠水対策及び冠水箇所の事前通行規制を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/e/0101.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "権守幸男",
+        "金野桃子"
+      ]
+    },
+    {
+      "id": "ebbb15ba79773284a6f0",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "金野桃子議員　高速道路ネットワークの強化と渋滞対策について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/e/16.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "金野桃子"
+      ]
+    },
+    {
+      "id": "2eaa58ae084fc8c5d794",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "鈴木まさひろ議員　AI時代を見据えたグローバル教育の深化について／AI時代に育むべきグローバル能力について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/d/0201.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "鈴木まさひろ"
+      ]
+    },
+    {
+      "id": "4d85358b18eeb0d2bc06",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "鈴木まさひろ議員　AI時代を見据えたグローバル教育の深化について／世界で得た学びを将来の埼玉につなぐ仕組みについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/d/0203.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "鈴木まさひろ"
+      ]
+    },
+    {
+      "id": "c87d7315cccf0791a55e",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "鈴木まさひろ議員　AI時代を見据えたグローバル教育の深化について／世界に触れる機会の裾野拡大について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/d/0202.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "鈴木まさひろ"
+      ]
+    },
+    {
+      "id": "e279ce60f2bd1423b773",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "鈴木まさひろ議員　こどもの心を守る医療・支援体制の抜本的強化について／待機期間の短縮と受診機会の確保について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/d/0101.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "鈴木まさひろ"
+      ]
+    },
+    {
+      "id": "672eb3a84ec7d5f02fbb",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "鈴木まさひろ議員　こどもの心を守る医療・支援体制の抜本的強化について／拠点病院を核とした地域の支援体制について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/d/0104.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "鈴木まさひろ"
+      ]
+    },
+    {
+      "id": "c1f078aca3ea1fc39aa9",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "鈴木まさひろ議員　こどもの心を守る医療・支援体制の抜本的強化について／県立病院の診療機能の強化について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/d/0103.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "鈴木まさひろ"
+      ]
+    },
+    {
+      "id": "5646ccb68aa413c97e74",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "鈴木まさひろ議員　こどもの心を守る医療・支援体制の抜本的強化について／緊急性に応じた受診調整について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/d/0102.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "鈴木まさひろ"
+      ]
+    },
+    {
+      "id": "831959bc3d13a172dc14",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "鈴木まさひろ議員　こどもの心を守る医療・支援体制の抜本的強化について／身近な医師等の対応力を支える仕組みについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/d/0105.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "鈴木まさひろ"
+      ]
+    },
+    {
+      "id": "7d8918b9bb944e8a28bd",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "鈴木まさひろ議員　企業誘致の実効性を高める基盤づくりについて／成長産業を支える電力基盤について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/d/0502.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "鈴木まさひろ"
+      ]
+    },
+    {
+      "id": "ca31c31287aa498f37c0",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "鈴木まさひろ議員　企業誘致の実効性を高める基盤づくりについて／産業用地の創出を支える県の役割について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/d/0501.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "鈴木まさひろ"
+      ]
+    },
+    {
+      "id": "37958b50794ac698cd6b",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "鈴木まさひろ議員　企業誘致の実効性を高める基盤づくりについて／立地後の地域経済への波及について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/d/0503.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "鈴木まさひろ"
+      ]
+    },
+    {
+      "id": "6eab4a2f1c036e9e0f95",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "鈴木まさひろ議員　保育士の確保と働き続けられる環境づくりについて／人材紹介への依存を減らす仕組みについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/d/0302.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "鈴木まさひろ"
+      ]
+    },
+    {
+      "id": "53ad8644e3f62614eb92",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "鈴木まさひろ議員　保育士の確保と働き続けられる環境づくりについて／取組の成果を測る仕組みについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/d/0303.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "鈴木まさひろ"
+      ]
+    },
+    {
+      "id": "9f74dd1b1b9486cb9049",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "鈴木まさひろ議員　保育士の確保と働き続けられる環境づくりについて／地域の将来を見据えた人材確保について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/d/0301.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "鈴木まさひろ"
+      ]
+    },
+    {
+      "id": "0c3e4b419afc860aa01f",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "鈴木まさひろ議員　匿名・流動型犯罪グループへの対策強化について／実行役を生まず、離脱を支える仕組みについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/d/0601.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "鈴木まさひろ"
+      ]
+    },
+    {
+      "id": "9d2eead9d029cca8232a",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "鈴木まさひろ議員　匿名・流動型犯罪グループへの対策強化について／特殊詐欺対策アプリの普及について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/d/0603.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "鈴木まさひろ"
+      ]
+    },
+    {
+      "id": "ec75f6a032f58d041b57",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "鈴木まさひろ議員　匿名・流動型犯罪グループへの対策強化について／犯罪収益を断ち、被害金を取り戻す取組について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/d/0602.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "鈴木まさひろ"
+      ]
+    },
+    {
+      "id": "b8c2b23926f160a18241",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "鈴木まさひろ議員　激甚化する豪雨災害への対策強化について／個別避難計画の作成促進について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/d/0403.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "鈴木まさひろ"
+      ]
+    },
+    {
+      "id": "e02f53531e536f184866",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "鈴木まさひろ議員　激甚化する豪雨災害への対策強化について／内外水を一体で捉えた水害リスク情報の展開について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/d/0402.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "鈴木まさひろ"
+      ]
+    },
+    {
+      "id": "9cb85a83c71229f3a004",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-02",
+      "title": "鈴木まさひろ議員　激甚化する豪雨災害への対策強化について／浸水の可視化等における県の総合的な取組について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/d/0401.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "鈴木まさひろ"
+      ]
+    },
+    {
+      "id": "f3d2252e395cb538f923",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "小見山祐紀議員　エンターテイメントを活用した観光施策について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/g/05.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小見山祐紀"
+      ]
+    },
+    {
+      "id": "ec72e3514cb207ef6c8d",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "小見山祐紀議員　地元問題について／県道川口蕨線・済生会川口総合病院南側の無電柱化について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/g/0601.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小見山祐紀"
+      ]
+    },
+    {
+      "id": "4316e7cd49cba007016c",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "小見山祐紀議員　地元問題について／県道根岸本町線・青木地区の無電柱化について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/g/0602.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小見山祐紀"
+      ]
+    },
+    {
+      "id": "225f570c6e4999b0d0b2",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "小見山祐紀議員　外国人を巡る諸課題解決に向けて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/g/0401.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小見山祐紀"
+      ]
+    },
+    {
+      "id": "d9c87a0c34a6314787dc",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "小見山祐紀議員　教育行政改革について／学校を地域に開くためのガイドラインについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/g/0304.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小見山祐紀"
+      ]
+    },
+    {
+      "id": "35733c3d03a3d6bf9fe2",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "小見山祐紀議員　教育行政改革について／教員養成段階からの日本語指導力の強化について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/g/0303.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小見山祐紀"
+      ]
+    },
+    {
+      "id": "5bb9e6a299285b2f7047",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "小見山祐紀議員　教育行政改革について／日本語初期指導拠点校への支援について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/g/0302.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小見山祐紀"
+      ]
+    },
+    {
+      "id": "cb404fccde9f381bf2af",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "小見山祐紀議員　教育行政改革について／民間経験を評価する教員の給与制度について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/g/0301.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小見山祐紀"
+      ]
+    },
+    {
+      "id": "4c6d9728755570a6cc86",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "小見山祐紀議員　県内産業の振興について／SKIPシティの今後について／NHK移転後の交通網整備について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/g/0106u.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小見山祐紀"
+      ]
+    },
+    {
+      "id": "9574805777dfefd8f9cd",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "小見山祐紀議員　県内産業の振興について／SKIPシティの今後について／ブランド価値をどう高めるかについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/g/0106a.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小見山祐紀"
+      ]
+    },
+    {
+      "id": "791848d6fc6fc6ede349",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "小見山祐紀議員　県内産業の振興について／SKIPシティの今後について／理系スタートアップ向けの「貸研究室」について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/g/0106i.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小見山祐紀"
+      ]
+    },
+    {
+      "id": "a561a2ea7150241d9060",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "小見山祐紀議員　県内産業の振興について／事業承継者への支援について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/g/0101.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小見山祐紀"
+      ]
+    },
+    {
+      "id": "4225869b81a1cb4111bf",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "小見山祐紀議員　県内産業の振興について／人材採用への支援について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/g/0104.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小見山祐紀"
+      ]
+    },
+    {
+      "id": "0a29982e3223ed160a1b",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "小見山祐紀議員　県内産業の振興について／商店街による外部人材活用への支援について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/g/0105.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小見山祐紀"
+      ]
+    },
+    {
+      "id": "ea55034a9a6529c369ee",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "小見山祐紀議員　県内産業の振興について／熱中症対策への支援について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/g/0102.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小見山祐紀"
+      ]
+    },
+    {
+      "id": "9808a11c37cb689cfdfe",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "小見山祐紀議員　県内産業の振興について／設備導入支援施策の運用について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/g/0103.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小見山祐紀"
+      ]
+    },
+    {
+      "id": "fbc161bee08effdb421a",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "小見山祐紀議員　福祉現場の安全確保について／ケアマネジャーの複数訪問への支援について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/g/0201.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小見山祐紀"
+      ]
+    },
+    {
+      "id": "d386e173a6834fb35778",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "小見山祐紀議員　福祉現場の安全確保について／福祉と警察の連携強化について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/g/0202.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "小見山祐紀"
+      ]
+    },
+    {
+      "id": "e8ac3ba8aa8f196bc832",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "泉津井京子議員　「選ばれる県立高校」をつくる仕組みについて／生徒の主体性を生かした特色ある取組への支援について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/h/0502.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "泉津井京子"
+      ]
+    },
+    {
+      "id": "2fa0cc39d4c34024e5af",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "泉津井京子議員　「選ばれる県立高校」をつくる仕組みについて／県立高校の特色化の推進について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/h/0501.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "泉津井京子"
+      ]
+    },
+    {
+      "id": "9f9015a84b8f52660ad4",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "泉津井京子議員　「選ばれる県立高校」をつくる仕組みについて／高校の魅力ある学びを支援する外部人材の活用について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/h/0503.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "泉津井京子"
+      ]
+    },
+    {
+      "id": "bcca8c174317fe4f05b5",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "泉津井京子議員　おおぞら号廃止後の障害者の移動支援について／制度の検証と改善について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/h/0304.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "泉津井京子"
+      ]
+    },
+    {
+      "id": "67de06593bc438c3c129",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "泉津井京子議員　おおぞら号廃止後の障害者の移動支援について／潜在需要を踏まえた予算確保について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/h/0302.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "泉津井京子"
+      ]
+    },
+    {
+      "id": "3285bb22cf2cab2b3af1",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "泉津井京子議員　おおぞら号廃止後の障害者の移動支援について／申込状況を踏まえた事業運営について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/h/0301.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "泉津井京子"
+      ]
+    },
+    {
+      "id": "bf02805230c56a31c921",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "泉津井京子議員　おおぞら号廃止後の障害者の移動支援について／障害者団体への相談支援について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/h/0303.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "泉津井京子"
+      ]
+    },
+    {
+      "id": "ecd4b419fa0ae1bd017d",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "泉津井京子議員　さいたま緑の森博物館におけるボランティアとの連携について／ボランティアとの連携の在り方について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/h/0601.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "泉津井京子"
+      ]
+    },
+    {
+      "id": "96ed186f3338e712308f",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "泉津井京子議員　さいたま緑の森博物館におけるボランティアとの連携について／活動の継承と連携について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/h/0602.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "泉津井京子"
+      ]
+    },
+    {
+      "id": "99a7bb8bdc7fa1c1e579",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "泉津井京子議員　人口減少社会における「眠れる労働力」の活用について／希望する働き方を実現できる環境づくりについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/h/0102.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "泉津井京子"
+      ]
+    },
+    {
+      "id": "d2cde019038c546bc1cd",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "泉津井京子議員　人口減少社会における「眠れる労働力」の活用について／未活用労働に対する認識について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/h/0101.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "泉津井京子"
+      ]
+    },
+    {
+      "id": "dacf44c2cfa1c513b8cc",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "泉津井京子議員　人口減少社会における「眠れる労働力」の活用について／未活用労働の実態把握について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/h/0103.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "泉津井京子"
+      ]
+    },
+    {
+      "id": "68c8064f36f095c8554b",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "泉津井京子議員　医療的ケア者等が成人後も安心して健診を受けられる体制の整備について／受診実態と受診ニーズの把握について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/h/0701.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "泉津井京子"
+      ]
+    },
+    {
+      "id": "8ad6c8cd60712b9c0df5",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "泉津井京子議員　医療的ケア者等が成人後も安心して健診を受けられる体制の整備について／受診支援の仕組みづくりについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/h/0702.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "泉津井京子"
+      ]
+    },
+    {
+      "id": "bee5a3eaf9b192b48901",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "泉津井京子議員　放課後等デイサービスの送迎加算における柔軟な運用と国への働き掛けについて／国への働き掛けについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/h/0203.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "泉津井京子"
+      ]
+    },
+    {
+      "id": "22e56e49d20dda9746f7",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "泉津井京子議員　放課後等デイサービスの送迎加算における柔軟な運用と国への働き掛けについて／現場ニーズに対する認識について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/h/0202.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "泉津井京子"
+      ]
+    },
+    {
+      "id": "8cf83a27534347f20ca7",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "泉津井京子議員　放課後等デイサービスの送迎加算における柔軟な運用と国への働き掛けについて／送迎加算の運用について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/h/0201.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "泉津井京子"
+      ]
+    },
+    {
+      "id": "a3ddd53388d94927317d",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "泉津井京子議員　県道富岡入間線の歩道整備について／歩道整備の見通しについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/h/0801.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "泉津井京子"
+      ]
+    },
+    {
+      "id": "7cfc57688313a84af729",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "泉津井京子議員　県道富岡入間線の歩道整備について／用地確保の機会を逃さない取組について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/h/0802.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "泉津井京子"
+      ]
+    },
+    {
+      "id": "766826ae8670cc017dbc",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "泉津井京子議員　系統用蓄電池の整備における周辺住民の安心・安全な生活環境の保全について／住民の不安や苦情への対応について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/h/0401.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "泉津井京子"
+      ]
+    },
+    {
+      "id": "365d1bcf6270e68e23de",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "泉津井京子議員　系統用蓄電池の整備における周辺住民の安心・安全な生活環境の保全について／住民への情報提供と安全確保について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/h/0402.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "泉津井京子"
+      ]
+    },
+    {
+      "id": "64a8aa3a98fac40f3366",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "泉津井京子議員　系統用蓄電池の整備における周辺住民の安心・安全な生活環境の保全について／国への働き掛けについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/h/0403.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "泉津井京子"
+      ]
+    },
+    {
+      "id": "45b3c26945b589868e01",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "渡辺聡一郎議員　アーバンカルチャーと公共空間の活用について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/i/07.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渡辺聡一郎"
+      ]
+    },
+    {
+      "id": "6a8db34e18b54ce61ad2",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "渡辺聡一郎議員　地元問題／主要地方道さいたま幸手線における歩道・側道橋の整備について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/i/0802.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渡辺聡一郎"
+      ]
+    },
+    {
+      "id": "8c6e696333c14894d5bb",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "渡辺聡一郎議員　地元問題／県道春日部菖蒲線白岡久喜バイパスの早期完成を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/i/0801.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渡辺聡一郎"
+      ]
+    },
+    {
+      "id": "3464d55602455ed8a67a",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "渡辺聡一郎議員　埼玉県が目指すべき子育て支援について／こどもまんなか県政の具体化を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/i/0101.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渡辺聡一郎"
+      ]
+    },
+    {
+      "id": "d188d7ab6f9b0a831e7c",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "渡辺聡一郎議員　埼玉県が目指すべき子育て支援について／パパ・ママ応援ショップを子育て支援の入口に",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/i/0102.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渡辺聡一郎"
+      ]
+    },
+    {
+      "id": "cea71e7f386bed803370",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "渡辺聡一郎議員　埼玉県が目指すべき子育て支援について／産後ケアのアクセス・質の向上について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/i/0103.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渡辺聡一郎"
+      ]
+    },
+    {
+      "id": "c1f749a9c7fc445681d8",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "渡辺聡一郎議員　埼玉県学力・学習状況調査の進化を／「測る調査」から「伸ばす仕組み」へ",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/i/0201.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渡辺聡一郎"
+      ]
+    },
+    {
+      "id": "223266c9aa2ce7b8046e",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "渡辺聡一郎議員　埼玉県学力・学習状況調査の進化を／県学調を活用したEBPMによる学力向上について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/i/0202.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渡辺聡一郎"
+      ]
+    },
+    {
+      "id": "117bad84ce953328b473",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "渡辺聡一郎議員　持続可能な小児救急体制を／将来にわたる小児二次救急の体制構築を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/i/0601.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渡辺聡一郎"
+      ]
+    },
+    {
+      "id": "66aa66e4e7d2af523959",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "渡辺聡一郎議員　持続可能な小児救急体制を／小児初期救急支援の拡充について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/i/0602.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渡辺聡一郎"
+      ]
+    },
+    {
+      "id": "29c5b4b81615de820839",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "渡辺聡一郎議員　次代の成長産業を埼玉から／マッチングから開発プロジェクトへ",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/i/0402.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渡辺聡一郎"
+      ]
+    },
+    {
+      "id": "cd921d282f1294ccadea",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "渡辺聡一郎議員　次代の成長産業を埼玉から／物流×フィジカルAIの推進を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/i/0401.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渡辺聡一郎"
+      ]
+    },
+    {
+      "id": "5f8251a409003e5ee141",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "渡辺聡一郎議員　県による主体的な交通政策を／既存輸送資源のフル活用について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/i/0502.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渡辺聡一郎"
+      ]
+    },
+    {
+      "id": "8e0e88e6bc20998cabc4",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "渡辺聡一郎議員　県による主体的な交通政策を／自動運転の社会実装を加速させるべき",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/i/0501.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渡辺聡一郎"
+      ]
+    },
+    {
+      "id": "8659a370b6aea0986659",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "渡辺聡一郎議員　誰一人取り残さない教育を／不登校児童生徒の学びへの経済的支援について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/i/0302.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渡辺聡一郎"
+      ]
+    },
+    {
+      "id": "299d94120ee089347c1a",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-05",
+      "title": "渡辺聡一郎議員　誰一人取り残さない教育を／不登校離職を防ぐ取組を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/i/0301.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渡辺聡一郎"
+      ]
+    },
+    {
+      "id": "04b9328e5ec2d118ebb1",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "戸野部直乃議員　スポーツ科学拠点施設を活用した浸水対策",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/k/09.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "戸野部直乃"
+      ]
+    },
+    {
+      "id": "b40e4560dfaa01578ef3",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "戸野部直乃議員　ドナーミルクの利用拡大について／安定したドナーミルクを届けられる体制の構築",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/k/0601.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "戸野部直乃"
+      ]
+    },
+    {
+      "id": "b52fd15290c4432ac278",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "戸野部直乃議員　ドナーミルクの利用拡大について／母乳育児支援",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/k/0602.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "戸野部直乃"
+      ]
+    },
+    {
+      "id": "6571ca406a92ab01195e",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "戸野部直乃議員　地域企業の稼ぐ力を賃上げにつなげるために",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/k/01.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "戸野部直乃"
+      ]
+    },
+    {
+      "id": "8af52acba05e5ca75b31",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "戸野部直乃議員　地域公共交通の充実に向けて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/k/03.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "戸野部直乃"
+      ]
+    },
+    {
+      "id": "04c3caedb98c087af017",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "戸野部直乃議員　外国籍等の幼児の就学前から小学校入学後までを見通した支援",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/k/05.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "戸野部直乃"
+      ]
+    },
+    {
+      "id": "002526a3241f259c7b4b",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "戸野部直乃議員　妊娠・出産を望む方に寄り添う切れ目のない支援について／不妊・不育症に悩む方への相談支援",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/k/0202.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "戸野部直乃"
+      ]
+    },
+    {
+      "id": "56b968bdbd3e31eb58b4",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "戸野部直乃議員　妊娠・出産を望む方に寄り添う切れ目のない支援について／不妊・不育症の検査・治療における経済的支援",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/k/0201.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "戸野部直乃"
+      ]
+    },
+    {
+      "id": "eed71c1d7441f1eaab41",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "戸野部直乃議員　妊娠・出産を望む方に寄り添う切れ目のない支援について／若い世代へのプレコンセプションケア",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/k/0203.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "戸野部直乃"
+      ]
+    },
+    {
+      "id": "d96b80ec3b56b5a4a6dc",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "戸野部直乃議員　県民活動総合センター利用者意見聴取会を受けて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/k/08.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "戸野部直乃"
+      ]
+    },
+    {
+      "id": "eea9b78a77e7d978cf7b",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "戸野部直乃議員　部活動地域展開に伴う課題について／スポーツ活動に参加する機会の保障",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/k/0402.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "戸野部直乃"
+      ]
+    },
+    {
+      "id": "ab3510b0416ba7e5702e",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "戸野部直乃議員　部活動地域展開に伴う課題について／適切な指導に関する相談体制",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/k/0401.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "戸野部直乃"
+      ]
+    },
+    {
+      "id": "cf1fb473cd5f628076b8",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "戸野部直乃議員　高齢者とペットがともに安心して暮らせる地域づくりについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/k/07.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "戸野部直乃"
+      ]
+    },
+    {
+      "id": "c71c5355ab5e152a6fb7",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "渋谷真実子議員　ガソリン補助金について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/l/02.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渋谷真実子"
+      ]
+    },
+    {
+      "id": "aa89fd3ab63aa59a6561",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "渋谷真実子議員　伝統文化・芸能を継承する更なる取組について／埼玉県文化アプリ「ぶんたま」について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/l/0401.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渋谷真実子"
+      ]
+    },
+    {
+      "id": "2df5d40be457a616527f",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "渋谷真実子議員　伝統文化・芸能を継承する更なる取組について／文化振興基金を充実させるために",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/l/0402.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渋谷真実子"
+      ]
+    },
+    {
+      "id": "6d30d1cad158bf46c9ab",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "渋谷真実子議員　地元問題／川越公園の老朽化対策と魅力向上について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/l/0701.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渋谷真実子"
+      ]
+    },
+    {
+      "id": "f9c747a9589d66fc5cf0",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "渋谷真実子議員　地元問題／新河岸川の護岸修繕について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/l/0702.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渋谷真実子"
+      ]
+    },
+    {
+      "id": "f7fc09de5da664369523",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "渋谷真実子議員　埼玉県民の「こころ」に余裕を保つ施策について／こころの余裕を保つ習慣づくりについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/l/0602.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渋谷真実子"
+      ]
+    },
+    {
+      "id": "e10063c0bcc0d3c6ff86",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "渋谷真実子議員　埼玉県民の「こころ」に余裕を保つ施策について／メンタルヘルスの推進について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/l/0601.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渋谷真実子"
+      ]
+    },
+    {
+      "id": "e47183fb5af87e8c9e9f",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "渋谷真実子議員　日本の文化である農業を守るために／GISを活用したこれからの埼玉農業について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/l/0105.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渋谷真実子"
+      ]
+    },
+    {
+      "id": "94e4da97ab35b335b329",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "渋谷真実子議員　日本の文化である農業を守るために／「農家経営」をもっと身近に",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/l/0103.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渋谷真実子"
+      ]
+    },
+    {
+      "id": "14f3eef7f363b00f67ec",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "渋谷真実子議員　日本の文化である農業を守るために／小規模農家に届く県独自の支援について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/l/0101.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渋谷真実子"
+      ]
+    },
+    {
+      "id": "5bf349a1dc399085adb5",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "渋谷真実子議員　日本の文化である農業を守るために／親元就農を含め農業を有力な職業選択にするために",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/l/0106.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渋谷真実子"
+      ]
+    },
+    {
+      "id": "79b15865f15f564916a2",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "渋谷真実子議員　日本の文化である農業を守るために／農地中間管理機構の更なる取組について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/l/0104.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渋谷真実子"
+      ]
+    },
+    {
+      "id": "60bfe5c76f35df7caae0",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "渋谷真実子議員　日本の文化である農業を守るために／農産物の適正な価格形成の周知徹底について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/l/0102.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渋谷真実子"
+      ]
+    },
+    {
+      "id": "bc90981a0118ba3dcbd5",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "渋谷真実子議員　空による観光振興について／スカイダイビングを地域と共存する観光資源に",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/l/0302.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渋谷真実子"
+      ]
+    },
+    {
+      "id": "403968b74a7d26f732ca",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "渋谷真実子議員　空による観光振興について／県内の空の観光資源をつなぐ「スカイツーリズム」について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/l/0301.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渋谷真実子"
+      ]
+    },
+    {
+      "id": "b32dc0d3d39c65c0eb83",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "渋谷真実子議員　空による観光振興について／空の体験を新たな観光周遊につなげるために",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/l/0303.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渋谷真実子"
+      ]
+    },
+    {
+      "id": "20d0e16d106b11943d99",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "渋谷真実子議員　障がい者アートの推進について／アートオンライン美術館の在り方について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/l/0503.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渋谷真実子"
+      ]
+    },
+    {
+      "id": "d5c0b77f184223d62558",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "渋谷真実子議員　障がい者アートの推進について／県の施設における創作支援について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/l/0502.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渋谷真実子"
+      ]
+    },
+    {
+      "id": "50fcfe8d05833b642d2e",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "渋谷真実子議員　障がい者アートの推進について／障害者芸術文化活動支援センターの支援について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/l/0501.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渋谷真実子"
+      ]
+    },
+    {
+      "id": "2a502d889784a1305f2a",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "須賀昭夫議員　「行政につながれない人」をどう救うか～申請主義から「気付く福祉」へ～",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/j/06.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "須賀昭夫"
+      ]
+    },
+    {
+      "id": "e8964322da878caefc63",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "須賀昭夫議員　人手不足時代の中小企業をどう支えるか／「人を探す」だけではなく、「仕事と働き方を組み直す」人手不足対策について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/j/0202.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "須賀昭夫"
+      ]
+    },
+    {
+      "id": "1e19c77d39c0f8607eac",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "須賀昭夫議員　人手不足時代の中小企業をどう支えるか／一社では雇えない専門人材を、複数企業で共有する仕組みについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/j/0201.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "須賀昭夫"
+      ]
+    },
+    {
+      "id": "2e93bf3e898d5b10d8bc",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "須賀昭夫議員　地域公共交通基本方針を「実行」につなげるか／「生活圏」で地域公共交通を検討する仕組みを",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/j/0502.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "須賀昭夫"
+      ]
+    },
+    {
+      "id": "f094a5761be62215d253",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "須賀昭夫議員　地域公共交通基本方針を「実行」につなげるか／市町村ごとの取組を県全体の成果へつなげることについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/j/0501.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "須賀昭夫"
+      ]
+    },
+    {
+      "id": "29d58aff077235948ebf",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "須賀昭夫議員　教員不足対策を「人を集める」から「教育の質を取り戻す」へ／働き方改革の成果を「教員が児童生徒に使える時間」で測る",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/j/0302.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "須賀昭夫"
+      ]
+    },
+    {
+      "id": "59e6a7fa5d448307cf9c",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "須賀昭夫議員　教員不足対策を「人を集める」から「教育の質を取り戻す」へ／働き方改革を「削る改革」で終わらせず、教育を豊かにする改革へ",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/j/0303.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "須賀昭夫"
+      ]
+    },
+    {
+      "id": "b3b22f3074e17b758ebb",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "須賀昭夫議員　教員不足対策を「人を集める」から「教育の質を取り戻す」へ／教員確保策の効果を「応募・任用につながる力」で検証する",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/j/0301.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "須賀昭夫"
+      ]
+    },
+    {
+      "id": "5f5a84019b722f31a3cc",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "須賀昭夫議員　災害時、「避難所に行かない県民」をどう守るか～防災政策を「避難所中心」から「生活継続中心」へ～／「建物は無事だが生活できない」マンションに備える",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/j/0103.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "須賀昭夫"
+      ]
+    },
+    {
+      "id": "97c0f1c1a3c4051b0c4c",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "須賀昭夫議員　災害時、「避難所に行かない県民」をどう守るか～防災政策を「避難所中心」から「生活継続中心」へ～／「避難所に来ない被災者」を防災政策の中心に",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/j/0102.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "須賀昭夫"
+      ]
+    },
+    {
+      "id": "d2ca0f7ffd311a39b1c4",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "須賀昭夫議員　災害時、「避難所に行かない県民」をどう守るか～防災政策を「避難所中心」から「生活継続中心」へ～／避難所を「何人入るか」から「災害関連死を出さない環境」へ",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/j/0101.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "須賀昭夫"
+      ]
+    },
+    {
+      "id": "b9a21354d8dd93853b8d",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "須賀昭夫議員　行政のAI活用を「実証」から「実装」へ～人手不足時代の県庁をどう変えるか～／RAG活用の現在地と効果検証について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/j/0401.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "須賀昭夫"
+      ]
+    },
+    {
+      "id": "ec74d0e76a2e04b8d248",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "須賀昭夫議員　行政のAI活用を「実証」から「実装」へ～人手不足時代の県庁をどう変えるか～／効果のあるAIを「実証」で終わらせず、全庁へ",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/j/0402.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "須賀昭夫"
+      ]
+    },
+    {
+      "id": "9147245c381803fc69b8",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "須賀昭夫議員　観光客が増えれば、本当に地域は豊かになるのか～川越から考える持続可能な観光～／「観光消費額」から「観光地域還元率」へ",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/j/0701.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "須賀昭夫"
+      ]
+    },
+    {
+      "id": "538458b634500965fdd6",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "須賀昭夫議員　観光客が増えれば、本当に地域は豊かになるのか～川越から考える持続可能な観光～／外部事業者にも地域の一員になってもらう「地域協力協定」を",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/j/0702.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "須賀昭夫"
+      ]
+    },
+    {
+      "id": "c413ea43b44df31108c0",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "須賀昭夫議員　観光客が増えれば、本当に地域は豊かになるのか～川越から考える持続可能な観光～／川越を「持続可能な観光」の全国モデルへ",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/j/0703.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "須賀昭夫"
+      ]
+    },
+    {
+      "id": "17fcf9645d71d4f493b0",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "梅澤佳一議員　「埼玉ゆかりの三偉人」から「埼玉五大偉人」へ",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/o/01.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "梅澤佳一"
+      ]
+    },
+    {
+      "id": "66220f41a489ccb0362d",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "梅澤佳一議員　ペロブスカイト太陽電池の導入推進について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/o/02.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "梅澤佳一"
+      ]
+    },
+    {
+      "id": "04ed690781ed02232738",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "梅澤佳一議員　利根川水系の治水対策について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/o/05.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "梅澤佳一"
+      ]
+    },
+    {
+      "id": "d075bed9e2a97c978c46",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "梅澤佳一議員　地元問題／久喜市内の治水対策について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/o/0702.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "梅澤佳一"
+      ]
+    },
+    {
+      "id": "f2c55f52f7f3d4afe70e",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "梅澤佳一議員　地元問題／県道川越栗橋線小林交差点の整備について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/o/0701.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "梅澤佳一"
+      ]
+    },
+    {
+      "id": "107b69d90a0d68746e7b",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "梅澤佳一議員　病床数の適正化支援について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/o/03.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "梅澤佳一"
+      ]
+    },
+    {
+      "id": "006bc299eaafe0f0dbd6",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "梅澤佳一議員　米価の安定について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/o/04.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "梅澤佳一"
+      ]
+    },
+    {
+      "id": "d5645e96316474fadcec",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "梅澤佳一議員　高校における平和学習について／校外学習における安全管理体制と政治的中立性の確保について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/o/0602.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "梅澤佳一"
+      ]
+    },
+    {
+      "id": "60194895a2370e4e1f0e",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "梅澤佳一議員　高校における平和学習について／県立高校における平和学習と主権者教育の充実について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/o/0601.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "梅澤佳一"
+      ]
+    },
+    {
+      "id": "a06c6690678fbe0095be",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "渡辺大議員　介護、保育、看護等の公定価格下の制約のもと、人材確保が極めて厳しい業界に向けた「埼玉県公的人材紹介サービス」の創設",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/n/01.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渡辺大"
+      ]
+    },
+    {
+      "id": "1f5cce13f737c4303d8b",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "渡辺大議員　医療的ケア児等への経済的支援の充実／医療的ケアに必要な医療用消耗品等への支援",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/n/0303.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渡辺大"
+      ]
+    },
+    {
+      "id": "4bed47c72b286498d17b",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "渡辺大議員　医療的ケア児等への経済的支援の充実／特別児童扶養手当等の所得制限の見直し",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/n/0301.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渡辺大"
+      ]
+    },
+    {
+      "id": "7d4ca4b66a468346a8d5",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "渡辺大議員　医療的ケア児等への経済的支援の充実／障害児通所支援費等の利用者負担額の細分化・軽減",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/n/0302.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渡辺大"
+      ]
+    },
+    {
+      "id": "071f3b748918b8ea39bd",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "渡辺大議員　地元問題／ふじみ野市内の県道整備",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/n/0801.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渡辺大"
+      ]
+    },
+    {
+      "id": "c4609f03600b301a893d",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "渡辺大議員　地元問題／三芳町内の県管理道整備",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/n/0803.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渡辺大"
+      ]
+    },
+    {
+      "id": "2d42c96c9787d070e2a8",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "渡辺大議員　地元問題／新河岸川の治水安全度向上",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/n/0802.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渡辺大"
+      ]
+    },
+    {
+      "id": "48648fd0e982804efc3a",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "渡辺大議員　地域福祉の要である民生委員・児童委員の活動支援／物価高騰を踏まえた個人活動費補助の増額検討",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/n/0401.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渡辺大"
+      ]
+    },
+    {
+      "id": "868862384b5e4135a8e0",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "渡辺大議員　地域福祉の要である民生委員・児童委員の活動支援／負担軽減に向けたICT化実証事業の検証と次年度以降の継続",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/n/0402.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渡辺大"
+      ]
+    },
+    {
+      "id": "1ec6f0415603bec3ce77",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "渡辺大議員　外国にルーツを持つ子どもの学習権保障／初期指導後の日本語学習支援",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/n/0702.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渡辺大"
+      ]
+    },
+    {
+      "id": "f22fde62fc5225acc001",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "渡辺大議員　外国にルーツを持つ子どもの学習権保障／地域の支援基盤強化",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/n/0703.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渡辺大"
+      ]
+    },
+    {
+      "id": "4e25d7e5831049c29f2e",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "渡辺大議員　外国にルーツを持つ子どもの学習権保障／日本語初期指導教室の整備",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/n/0701.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渡辺大"
+      ]
+    },
+    {
+      "id": "1049911ff5faf4138feb",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "渡辺大議員　指定難病医療費助成制度の継続申請手続の簡素化／オンラインによる継続申請",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/n/0203.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渡辺大"
+      ]
+    },
+    {
+      "id": "4809afad6590ae4a25d9",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "渡辺大議員　指定難病医療費助成制度の継続申請手続の簡素化／マイナンバーによる情報連携の原則例外の逆転",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/n/0202.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渡辺大"
+      ]
+    },
+    {
+      "id": "45255981faaa5072a957",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "渡辺大議員　指定難病医療費助成制度の継続申請手続の簡素化／継続申請の抜本的簡素化",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/n/0201.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渡辺大"
+      ]
+    },
+    {
+      "id": "60d6250841fcd9bb7011",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "渡辺大議員　指定難病医療費助成制度の継続申請手続の簡素化／臨床調査個人票のオンライン登録に対する障壁とそれを除くための方法",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/n/0204.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渡辺大"
+      ]
+    },
+    {
+      "id": "a66a15b9ae9f8c39af20",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "渡辺大議員　指定難病医療費助成制度の継続申請手続の簡素化／複数年更新",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/n/0205.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渡辺大"
+      ]
+    },
+    {
+      "id": "38e1dd5363df1d1b67c5",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "渡辺大議員　民間企業等経験者の教員採用を抜本的に増やす取組",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/n/06.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渡辺大"
+      ]
+    },
+    {
+      "id": "bb83871f37695e9ca0d0",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "渡辺大議員　生活保護ケースワーカーの育成、支援策／「ケースワーカー育成モデル」の構築",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/n/0506.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渡辺大"
+      ]
+    },
+    {
+      "id": "09fca50db95188da4220",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "渡辺大議員　生活保護ケースワーカーの育成、支援策／困難ケースの組織的対応",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/n/0503.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渡辺大"
+      ]
+    },
+    {
+      "id": "327d892d0f626fb0da0a",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "渡辺大議員　生活保護ケースワーカーの育成、支援策／査察指導員によるスーパービジョン",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/n/0502.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渡辺大"
+      ]
+    },
+    {
+      "id": "d5c2fdeb06507d5c3840",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "渡辺大議員　生活保護ケースワーカーの育成、支援策／監査結果の人材育成への活用",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/n/0505.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渡辺大"
+      ]
+    },
+    {
+      "id": "a2945a739ac1dad5a07e",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "渡辺大議員　生活保護ケースワーカーの育成、支援策／県としていかに「ケースワークの質」を保証するか",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/n/0507.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渡辺大"
+      ]
+    },
+    {
+      "id": "05b829cd20217eb754dc",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "渡辺大議員　生活保護ケースワーカーの育成、支援策／研修を「受講」から「実践能力の習得」へ",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/n/0501.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渡辺大"
+      ]
+    },
+    {
+      "id": "bb62311a91614788d01b",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "渡辺大議員　生活保護ケースワーカーの育成、支援策／配置数と質の連動",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/n/0504.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "渡辺大"
+      ]
+    },
+    {
+      "id": "5b5886202f3146525499",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "逢澤圭一郎議員　AX・DX時代の職員の人材育成と県民対応力について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/m/02.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "逢澤圭一郎"
+      ]
+    },
+    {
+      "id": "feb774b46a905105d21e",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "逢澤圭一郎議員　こども誰でも通園制度について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/m/07.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "逢澤圭一郎"
+      ]
+    },
+    {
+      "id": "d61a7a210f52a936ba8d",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "逢澤圭一郎議員　公文書の正確性の担保について／再発の防止について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/m/0602.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "逢澤圭一郎"
+      ]
+    },
+    {
+      "id": "3847dc5c4dbe2106074c",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "逢澤圭一郎議員　公文書の正確性の担保について／埼玉県教育委員会が開示した公文書の正確性について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/m/0601.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "逢澤圭一郎"
+      ]
+    },
+    {
+      "id": "08b40d2236133448b129",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "逢澤圭一郎議員　公立小中学校の老朽化対策について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/m/05.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "逢澤圭一郎"
+      ]
+    },
+    {
+      "id": "e2f31fc03bc5ddde46d0",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "逢澤圭一郎議員　地元問題について／大場川上流排水機場のポンプ増強について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/m/1001.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "逢澤圭一郎"
+      ]
+    },
+    {
+      "id": "21b3879789c5798b95cf",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "逢澤圭一郎議員　地元問題について／栄調節池の対応について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/m/1002.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "逢澤圭一郎"
+      ]
+    },
+    {
+      "id": "18f95467296e45301470",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "逢澤圭一郎議員　救急搬送適正化に向けた取組について／二次救急医療機関における病院救急車の配置促進について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/m/0301.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "逢澤圭一郎"
+      ]
+    },
+    {
+      "id": "7d44c2199a7b8209c3fd",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "逢澤圭一郎議員　救急搬送適正化に向けた取組について／民間救急車の利用補助について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/m/0303.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "逢澤圭一郎"
+      ]
+    },
+    {
+      "id": "d69e178999fcaf8beae8",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "逢澤圭一郎議員　救急搬送適正化に向けた取組について／消防救急車、病院救急車、民間救急車の連携について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/m/0304.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "逢澤圭一郎"
+      ]
+    },
+    {
+      "id": "20c03bd285db76b1ff17",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "逢澤圭一郎議員　救急搬送適正化に向けた取組について／転院搬送の実態把握について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/m/0302.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "逢澤圭一郎"
+      ]
+    },
+    {
+      "id": "15e7248eda522bd9e3bd",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "逢澤圭一郎議員　県庁舎建替えについて",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/m/01.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "逢澤圭一郎"
+      ]
+    },
+    {
+      "id": "0d0cc33695b16c966b98",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "逢澤圭一郎議員　県立高等学校の学食について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/m/04.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "逢澤圭一郎"
+      ]
+    },
+    {
+      "id": "b14531261450c503533f",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "逢澤圭一郎議員　賃上げ率の世代間格差について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/m/08.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "逢澤圭一郎"
+      ]
+    },
+    {
+      "id": "55b50d9e9013f6f09358",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "逢澤圭一郎議員　電子投票の導入について",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/m/09.html",
+      "kind": "公式の質問・答弁全文（速報版）",
+      "scope": "fullQA",
+      "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
+      "speakers": [
+        "逢澤圭一郎"
+      ]
+    },
+    {
+      "id": "a2976f4d9f0da359893e",
+      "place": "宮代町",
+      "season": "spring",
+      "date": "2026-02-18",
+      "title": "02月18日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteView.html?tenant_id=224&council_id=122&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "丸山妙子",
+        "丸藤栄一",
+        "佐藤将行",
+        "合川泰治",
+        "土渕保美",
+        "塚村香織",
+        "小島あけみ",
+        "川野武志",
+        "泉伸一郎",
+        "田島正徳",
+        "福澤和美",
+        "野原洋子",
+        "鈴木次男"
+      ]
+    },
+    {
+      "id": "c0cff647b5d9b770e28d",
+      "place": "宮代町",
+      "season": "spring",
+      "date": "2026-02-19",
+      "title": "02月19日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteView.html?tenant_id=224&council_id=122&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "佐藤将行",
+        "土渕保美",
+        "川野武志",
+        "田島正徳"
+      ]
+    },
+    {
+      "id": "4c8b2bafee1558710556",
+      "place": "宮代町",
+      "season": "spring",
+      "date": "2026-02-24",
+      "title": "02月24日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteView.html?tenant_id=224&council_id=122&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "丸藤栄一",
+        "佐藤将行",
+        "塚村香織",
+        "川野武志"
+      ]
+    },
+    {
+      "id": "45f6a52e000c1582cc30",
+      "place": "宮代町",
+      "season": "spring",
+      "date": "2026-02-25",
+      "title": "02月25日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteView.html?tenant_id=224&council_id=122&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "丸山妙子",
+        "佐藤将行",
+        "合川泰治",
+        "土渕保美",
+        "小島あけみ",
+        "川野武志",
+        "鈴木次男"
+      ]
+    },
+    {
+      "id": "30f29faaf764c9f1512d",
+      "place": "宮代町",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "02月26日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteView.html?tenant_id=224&council_id=122&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "丸藤栄一",
+        "佐藤将行",
+        "土渕保美",
+        "塚村香織",
+        "川野武志",
+        "泉伸一郎",
+        "福澤和美",
+        "野原洋子"
+      ]
+    },
+    {
+      "id": "7489f1e4474a770620b0",
+      "place": "宮代町",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "03月03日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteView.html?tenant_id=224&council_id=122&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "佐藤将行",
+        "土渕保美",
+        "川野武志",
+        "田島正徳"
+      ]
+    },
+    {
+      "id": "a72743aa454f2f05f1cf",
+      "place": "宮代町",
+      "season": "spring",
+      "date": "2026-03-23",
+      "title": "03月23日－07号",
+      "url": "https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteView.html?tenant_id=224&council_id=122&schedule_id=8",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "丸山妙子",
+        "丸藤栄一",
+        "佐藤将行",
+        "塚村香織",
+        "川野武志",
+        "泉伸一郎",
+        "福澤和美",
+        "野原洋子"
+      ]
+    },
+    {
+      "id": "b9f3854b39f01bcb16c5",
+      "place": "宮代町",
+      "season": "spring",
+      "date": "2026-03-26",
+      "title": "03月26日－08号",
+      "url": "https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteView.html?tenant_id=224&council_id=122&schedule_id=9",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "丸山妙子",
+        "丸藤栄一",
+        "佐藤将行",
+        "塚村香織",
+        "川野武志",
+        "泉伸一郎",
+        "田島正徳",
+        "野原洋子"
+      ]
+    },
+    {
+      "id": "6185075dd7e70a6c1443",
+      "place": "宮代町",
+      "season": "summer",
+      "date": "2026-05-28",
+      "title": "05月28日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteView.html?tenant_id=224&council_id=123&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "丸山妙子",
+        "佐藤将行",
+        "土渕保美",
+        "塚村香織",
+        "川野武志",
+        "泉伸一郎",
+        "野原洋子"
+      ]
+    },
+    {
+      "id": "22fad8d30ca2a0f17694",
+      "place": "宮代町",
+      "season": "summer",
+      "date": "2026-06-02",
+      "title": "06月02日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteView.html?tenant_id=224&council_id=123&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "合川泰治",
+        "小島あけみ",
+        "川野武志",
+        "福澤和美",
+        "野原洋子",
+        "鈴木次男"
+      ]
+    },
+    {
+      "id": "c14e96d9bae0278fc6b9",
+      "place": "宮代町",
+      "season": "summer",
+      "date": "2026-06-03",
+      "title": "06月03日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteView.html?tenant_id=224&council_id=123&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "丸藤栄一",
+        "佐藤将行",
+        "塚村香織",
+        "川野武志",
+        "泉伸一郎",
+        "田島正徳"
+      ]
+    },
+    {
+      "id": "7fedc1b56c5281e743e6",
+      "place": "宮代町",
+      "season": "summer",
+      "date": "2026-06-04",
+      "title": "06月04日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteView.html?tenant_id=224&council_id=123&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "丸山妙子",
+        "佐藤将行",
+        "川野武志",
+        "泉伸一郎",
+        "野原洋子"
+      ]
+    },
+    {
+      "id": "40f4d26d40f4f760378d",
+      "place": "宮代町",
+      "season": "summer",
+      "date": "2026-06-10",
+      "title": "06月10日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteView.html?tenant_id=224&council_id=123&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "丸山妙子",
+        "丸藤栄一",
+        "佐藤将行",
+        "川野武志",
+        "泉伸一郎",
+        "野原洋子"
+      ]
+    },
+    {
+      "id": "8df628c212811a2d98e6",
+      "place": "宮代町",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "宮代町議会だより140号・秋の定例会",
+      "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27014/gikaidayori140.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。 OCRの確認警告があるPDF 1、2、3、4、6、8、9、10、12、14、16、17、18、19、20頁を除外しています。",
+      "speakers": []
+    },
+    {
+      "id": "61b45e5956cb5620c088",
+      "place": "寄居町",
+      "season": "spring",
+      "date": "2026-02-24",
+      "title": "02月24日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/yorii/SpMinuteView.html?tenant_id=232&council_id=106&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "久保鷹矢",
+        "大澤博",
+        "浅見玲子",
+        "稲山良文",
+        "鈴木詠子"
+      ]
+    },
+    {
+      "id": "2a0dae755b28ca118b0f",
+      "place": "寄居町",
+      "season": "spring",
+      "date": "2026-02-25",
+      "title": "02月25日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/yorii/SpMinuteView.html?tenant_id=232&council_id=106&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "久保鷹矢",
+        "保泉周平",
+        "原口孝",
+        "大澤博",
+        "本間政道",
+        "津久井大雄",
+        "浅見玲子",
+        "稲山良文",
+        "鈴木詠子"
+      ]
+    },
+    {
+      "id": "523d8d2d529e9c7b8b79",
+      "place": "寄居町",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "03月04日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/yorii/SpMinuteView.html?tenant_id=232&council_id=106&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "原口孝",
+        "吉田林藏",
+        "本間政道",
+        "津久井大雄",
+        "浅見玲子",
+        "鈴木詠子"
+      ]
+    },
+    {
+      "id": "bd007410c1c1f00fe396",
+      "place": "寄居町",
+      "season": "spring",
+      "date": "2026-03-05",
+      "title": "03月05日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/yorii/SpMinuteView.html?tenant_id=232&council_id=106&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "久保鷹矢",
+        "保泉周平",
+        "原口孝",
+        "大澤博",
+        "稲山良文",
+        "里見夕子"
+      ]
+    },
+    {
+      "id": "69dcc47946ed63c03c06",
+      "place": "寄居町",
+      "season": "spring",
+      "date": "2026-03-10",
+      "title": "03月10日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/yorii/SpMinuteView.html?tenant_id=232&council_id=106&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "久保鷹矢",
+        "保泉周平",
+        "原口孝",
+        "吉田林藏",
+        "大澤博",
+        "本間政道",
+        "津久井大雄",
+        "浅見玲子",
+        "稲山良文",
+        "笠原則夫",
+        "里見夕子",
+        "鈴木詠子"
+      ]
+    },
+    {
+      "id": "1bbac1417349ee7c81ae",
+      "place": "寄居町",
+      "season": "spring",
+      "date": "2026-03-11",
+      "title": "03月11日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/yorii/SpMinuteView.html?tenant_id=232&council_id=106&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "久保鷹矢",
+        "保泉周平",
+        "原口孝",
+        "吉田林藏",
+        "大澤博",
+        "本間政道",
+        "津久井大雄",
+        "浅見玲子",
+        "稲山良文",
+        "里見夕子",
+        "鈴木詠子"
+      ]
+    },
+    {
+      "id": "a85b59ae2d95dfb80605",
+      "place": "寄居町",
+      "season": "spring",
+      "date": "2026-03-12",
+      "title": "03月12日－07号",
+      "url": "https://ssp.kaigiroku.net/tenant/yorii/SpMinuteView.html?tenant_id=232&council_id=106&schedule_id=8",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "久保鷹矢",
+        "原口孝",
+        "大澤博",
+        "津久井大雄",
+        "浅見玲子",
+        "稲山良文",
+        "鈴木詠子"
+      ]
+    },
+    {
+      "id": "1b0d6dbd0958e4c56094",
+      "place": "寄居町",
+      "season": "spring",
+      "date": "2026-03-19",
+      "title": "03月19日－08号",
+      "url": "https://ssp.kaigiroku.net/tenant/yorii/SpMinuteView.html?tenant_id=232&council_id=106&schedule_id=9",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "久保鷹矢",
+        "保泉周平",
+        "原口孝",
+        "大澤博",
+        "本間政道",
+        "津久井大雄",
+        "浅見玲子",
+        "稲山良文"
+      ]
+    },
+    {
+      "id": "228d58420de9e5e3d943",
+      "place": "寄居町",
+      "season": "summer",
+      "date": "2026-06-02",
+      "title": "06月02日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/yorii/SpMinuteView.html?tenant_id=232&council_id=107&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "久保鷹矢",
+        "保泉周平",
+        "原口孝",
+        "吉田林藏",
+        "大澤博",
+        "本間政道",
+        "津久井大雄",
+        "浅見玲子",
+        "鈴木詠子"
+      ]
+    },
+    {
+      "id": "9029172957393f438845",
+      "place": "寄居町",
+      "season": "summer",
+      "date": "2026-06-03",
+      "title": "06月03日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/yorii/SpMinuteView.html?tenant_id=232&council_id=107&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "保泉周平",
+        "原口孝",
+        "吉田林藏",
+        "本間政道",
+        "津久井大雄",
+        "浅見玲子"
+      ]
+    },
+    {
+      "id": "cc7e2a52d38d9c3a5689",
+      "place": "寄居町",
+      "season": "summer",
+      "date": "2026-06-04",
+      "title": "06月04日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/yorii/SpMinuteView.html?tenant_id=232&council_id=107&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "久保鷹矢",
+        "原口孝",
+        "大澤博",
+        "稲山良文",
+        "里見夕子",
+        "鈴木詠子"
+      ]
+    },
+    {
+      "id": "aae5b7a8ea1756d6d2ad",
+      "place": "寄居町",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "06月19日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/yorii/SpMinuteView.html?tenant_id=232&council_id=107&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "保泉周平",
+        "原口孝",
+        "権田孝史",
+        "津久井大雄",
+        "浅見玲子",
+        "稲山良文",
+        "鈴木詠子"
+      ]
+    },
+    {
+      "id": "d1aa2c3a2bb3e6533290",
+      "place": "寄居町",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "寄居町議会だより122号・9月定例会",
+      "url": "https://www.town.yorii.saitama.jp/uploaded/attachment/28518.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
+      "speakers": []
+    },
+    {
+      "id": "a0478bd049c0fa264cf5",
+      "place": "富士見市",
+      "season": "spring",
+      "date": "2026-02-17",
+      "title": "02月17日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=695&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": []
+    },
+    {
+      "id": "a03b747ca86e69777cfe",
+      "place": "富士見市",
+      "season": "spring",
+      "date": "2026-02-19",
+      "title": "02月19日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=695&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": []
+    },
+    {
+      "id": "3db6972e5b4a2be3cdc9",
+      "place": "富士見市",
+      "season": "spring",
+      "date": "2026-02-20",
+      "title": "02月20日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=695&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": []
+    },
+    {
+      "id": "610d09e933ea10e1badf",
+      "place": "富士見市",
+      "season": "spring",
+      "date": "2026-02-24",
+      "title": "02月24日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=695&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "堀航大",
+        "根岸操"
+      ]
+    },
+    {
+      "id": "c0bd9362e705d4f3f8b5",
+      "place": "富士見市",
+      "season": "spring",
+      "date": "2026-03-06",
+      "title": "03月06日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=695&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "伊勢田幸正",
+        "斉藤隆浩",
+        "深瀬優子",
+        "田中栄志"
+      ]
+    },
+    {
+      "id": "b1822adc7b4f9510afaf",
+      "place": "富士見市",
+      "season": "spring",
+      "date": "2026-03-09",
+      "title": "03月09日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=695&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "堀航大",
+        "山下淑子",
+        "根岸操",
+        "田中栄志",
+        "篠原通裕"
+      ]
+    },
+    {
+      "id": "30d7277d82d87383886f",
+      "place": "富士見市",
+      "season": "spring",
+      "date": "2026-03-10",
+      "title": "03月10日－07号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=695&schedule_id=8",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "宮尾玲",
+        "川畑勝弘",
+        "根岸操",
+        "須崎悦子"
+      ]
+    },
+    {
+      "id": "dff0eb927ac48efe0b8f",
+      "place": "富士見市",
+      "season": "spring",
+      "date": "2026-03-11",
+      "title": "03月11日－08号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=695&schedule_id=9",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "小泉陽",
+        "川畑勝弘",
+        "木村邦憲",
+        "松本剛",
+        "篠田剛"
+      ]
+    },
+    {
+      "id": "175e6e187e7086d40fa3",
+      "place": "富士見市",
+      "season": "spring",
+      "date": "2026-03-12",
+      "title": "03月12日－09号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=695&schedule_id=10",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "今成優太",
+        "加賀奈々恵",
+        "小泉陽",
+        "村元寛",
+        "熊谷麗"
+      ]
+    },
+    {
+      "id": "500066f07dd9a0a690c9",
+      "place": "富士見市",
+      "season": "spring",
+      "date": "2026-03-18",
+      "title": "03月18日－10号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=695&schedule_id=11",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "宮尾玲"
+      ]
+    },
+    {
+      "id": "a9eee15b9af93608bad3",
+      "place": "富士見市",
+      "season": "summer",
+      "date": "2026-06-02",
+      "title": "06月02日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=706&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": []
+    },
+    {
+      "id": "6b807aad0483c712bf46",
+      "place": "富士見市",
+      "season": "summer",
+      "date": "2026-06-05",
+      "title": "06月05日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=706&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": []
+    },
+    {
+      "id": "b67abf4b6a7ce842ee5c",
+      "place": "富士見市",
+      "season": "summer",
+      "date": "2026-06-12",
+      "title": "06月12日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=706&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "伊勢田幸正",
+        "斉藤隆浩",
+        "松本剛",
+        "田中栄志"
+      ]
+    },
+    {
+      "id": "59b3480d976714ddfaaf",
+      "place": "富士見市",
+      "season": "summer",
+      "date": "2026-06-15",
+      "title": "06月15日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=706&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "小泉陽",
+        "山下淑子",
+        "川畑勝弘",
+        "松本剛",
+        "深瀬優子"
+      ]
+    },
+    {
+      "id": "1f11430521dbb08d22a8",
+      "place": "富士見市",
+      "season": "summer",
+      "date": "2026-06-16",
+      "title": "06月16日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=706&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "宮尾玲",
+        "川畑勝弘",
+        "木村邦憲",
+        "篠原通裕",
+        "須崎悦子"
+      ]
+    },
+    {
+      "id": "463777e8cbbd771bcc66",
+      "place": "富士見市",
+      "season": "summer",
+      "date": "2026-06-17",
+      "title": "06月17日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=706&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "加賀奈々恵",
+        "堀航大",
+        "根岸操",
+        "篠原通裕",
+        "篠田剛"
+      ]
+    },
+    {
+      "id": "a404cdc13753c5b7a15d",
+      "place": "富士見市",
+      "season": "summer",
+      "date": "2026-06-18",
+      "title": "06月18日－07号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=706&schedule_id=8",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "今成優太",
+        "加賀奈々恵",
+        "村元寛",
+        "熊谷麗"
+      ]
+    },
+    {
+      "id": "dcb40c67b7b4699ad0e9",
+      "place": "富士見市",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "06月24日－08号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=706&schedule_id=9",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": []
+    },
+    {
+      "id": "28730e6abde58c3dfbef",
+      "place": "富士見市",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "09月01日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=712&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": []
+    },
+    {
+      "id": "fc43c8ec6c59855448b6",
+      "place": "富士見市",
+      "season": "fall",
+      "date": "2026-09-04",
+      "title": "09月04日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=712&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": []
+    },
+    {
+      "id": "b4856989658dde352719",
+      "place": "富士見市",
+      "season": "fall",
+      "date": "2026-09-16",
+      "title": "09月16日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=712&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "伊勢田幸正",
+        "川畑勝弘",
+        "斉藤隆浩",
+        "須崎悦子"
+      ]
+    },
+    {
+      "id": "46b5efca6cb4b60c06b3",
+      "place": "富士見市",
+      "season": "fall",
+      "date": "2026-09-17",
+      "title": "09月17日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=712&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "宮尾玲",
+        "川畑勝弘",
+        "木村邦憲",
+        "深瀬優子",
+        "篠原通裕"
+      ]
+    },
+    {
+      "id": "4efa49ef1e10c3277d4b",
+      "place": "富士見市",
+      "season": "fall",
+      "date": "2026-09-18",
+      "title": "09月18日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=712&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "山下淑子",
+        "根岸操",
+        "深瀬優子",
+        "田中栄志",
+        "篠田剛"
+      ]
+    },
+    {
+      "id": "e5900138723b041a6c07",
+      "place": "富士見市",
+      "season": "fall",
+      "date": "2026-09-24",
+      "title": "09月24日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=712&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "加賀奈々恵",
+        "堀航大",
+        "小泉陽",
+        "松本剛",
+        "田中栄志"
+      ]
+    },
+    {
+      "id": "d86c4d92d1e937a8f913",
+      "place": "富士見市",
+      "season": "fall",
+      "date": "2026-09-25",
+      "title": "09月25日－07号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=712&schedule_id=8",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "今成優太",
+        "加賀奈々恵",
+        "村元寛",
+        "熊谷麗"
+      ]
+    },
+    {
+      "id": "4dcbca63d26a63f41418",
+      "place": "富士見市",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "10月01日－08号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=712&schedule_id=9",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": []
+    },
+    {
+      "id": "607ce3bd2e9b7f683ac4",
+      "place": "小川町",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "02月26日－一般質問－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/ogawa/SpMinuteView.html?tenant_id=87&council_id=100&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "田端良成",
+        "笠原規弘",
+        "関根慶則",
+        "髙橋さゆり",
+        "髙橋功人",
+        "髙瀬勉"
+      ]
+    },
+    {
+      "id": "a754e37f84246940dd8d",
+      "place": "小川町",
+      "season": "spring",
+      "date": "2026-02-27",
+      "title": "02月27日－一般質問－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/ogawa/SpMinuteView.html?tenant_id=87&council_id=100&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "山口勝士",
+        "田端良成",
+        "稲村壌治",
+        "鈴木秀尚",
+        "髙橋さゆり",
+        "髙瀬勉"
+      ]
+    },
+    {
+      "id": "35f24e38ee43ab580704",
+      "place": "小川町",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "06月23日－一般質問－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/ogawa/SpMinuteView.html?tenant_id=87&council_id=102&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "大戸久一",
+        "山口勝士",
+        "岡部久志",
+        "島﨑隆夫",
+        "鈴木秀尚",
+        "髙橋功人",
+        "髙瀬勉"
+      ]
+    },
+    {
+      "id": "b3b685d388184f71aaac",
+      "place": "小川町",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "06月24日－一般質問－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/ogawa/SpMinuteView.html?tenant_id=87&council_id=102&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "笠原規弘",
+        "関根慶則",
+        "髙橋さゆり",
+        "髙瀬勉"
+      ]
+    },
+    {
+      "id": "d7b448aa0909aeba24a9",
+      "place": "小川町",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "06月25日－一般質問－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/ogawa/SpMinuteView.html?tenant_id=87&council_id=102&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "山口勝士",
+        "田中立男",
+        "田端良成",
+        "髙瀬勉"
+      ]
+    },
+    {
+      "id": "f109077b9263386fa4ff",
+      "place": "小川町",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "小川町議会だより121号・一般質問1",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/R0811121P10-11.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
+      "speakers": []
+    },
+    {
+      "id": "fb6a4892070444bbb8fd",
+      "place": "小川町",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "小川町議会だより121号・一般質問2",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/R0811121P12-13.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
+      "speakers": []
+    },
+    {
+      "id": "1ec65c473dbc8e3a3b25",
+      "place": "小川町",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "小川町議会だより121号・一般質問3",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/R0811121P14-15.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
+      "speakers": []
+    },
+    {
+      "id": "1dfb2763b5bacea141c9",
+      "place": "嵐山町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "令和8年3月定例会・会議録",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "kind": "公式会議録PDFのOCR転記",
+      "scope": "minutes",
+      "note": "公式PDFの本文をローカルOCRで転記。頁番号はPDF内の位置です。原本を出典として表示します。",
+      "speakers": [
+        "佐藤弘美",
+        "川口浩史",
+        "橋本将",
+        "渋谷登美子",
+        "犾守勝義",
+        "畠山美幸",
+        "藤野和美",
+        "青柳賢治"
+      ]
+    },
+    {
+      "id": "37c7ecc8365b3f4d0e24",
+      "place": "嵐山町",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "令和8年6月定例会・会議録",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000008/8026/R0806T.pdf",
+      "kind": "公式会議録PDFのOCR転記",
+      "scope": "minutes",
+      "note": "公式PDFの本文をローカルOCRで転記。頁番号はPDF内の位置です。原本を出典として表示します。",
+      "speakers": [
+        "佐藤弘美",
+        "宮本大裕",
+        "小林智",
+        "川口浩史",
+        "橋本将",
+        "渋谷登美子",
+        "犾守勝義",
+        "畠山美幸",
+        "藤野和美"
+      ]
+    },
+    {
+      "id": "444037774a55afbb4cc5",
+      "place": "川口市",
+      "season": "spring",
+      "date": "2026-02-24",
+      "title": "02月24日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1408&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "古川九一",
+        "坂口安那",
+        "岡本さゆり",
+        "本橋慎吾",
+        "松本進",
+        "柳田つとむ",
+        "稲川和成",
+        "若谷正巳"
+      ]
+    },
+    {
+      "id": "b475f9982b12af671573",
+      "place": "川口市",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "03月03日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1408&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "今田真美",
+        "古川九一",
+        "松本幸恵",
+        "池田けい",
+        "福森悦子",
+        "舩津由徳",
+        "若谷正巳",
+        "関裕通",
+        "青山聖子"
+      ]
+    },
+    {
+      "id": "3b8bd21c7b01adfbdfd1",
+      "place": "川口市",
+      "season": "spring",
+      "date": "2026-03-06",
+      "title": "03月06日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1408&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "古川九一",
+        "最上祐次",
+        "松本進",
+        "稲川和成"
+      ]
+    },
+    {
+      "id": "3224140b3aa0ed1e0a04",
+      "place": "川口市",
+      "season": "spring",
+      "date": "2026-03-09",
+      "title": "03月09日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1408&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "前原博孝",
+        "古川九一",
+        "石橋俊伸",
+        "金子幸弘"
+      ]
+    },
+    {
+      "id": "cee87101363ea7dbc8af",
+      "place": "川口市",
+      "season": "spring",
+      "date": "2026-03-10",
+      "title": "03月10日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1408&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "古川九一",
+        "奥富精一",
+        "福森悦子",
+        "福田洋子"
+      ]
+    },
+    {
+      "id": "e641b641c9f4ca128d26",
+      "place": "川口市",
+      "season": "spring",
+      "date": "2026-03-11",
+      "title": "03月11日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1408&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "ふじしまともこ",
+        "古川九一",
+        "松本英利",
+        "青山聖子"
+      ]
+    },
+    {
+      "id": "4943ab6a5d87a5087717",
+      "place": "川口市",
+      "season": "spring",
+      "date": "2026-03-12",
+      "title": "03月12日－07号",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1408&schedule_id=8",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "古川九一",
+        "岡本さゆり",
+        "碇康雄"
+      ]
+    },
+    {
+      "id": "9a708d5d218c92c3680f",
+      "place": "川口市",
+      "season": "spring",
+      "date": "2026-03-23",
+      "title": "03月23日－08号",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1408&schedule_id=9",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "今田真美",
+        "古川九一",
+        "奥富精一",
+        "宇田川好秀",
+        "岡本さゆり",
+        "幡野茂",
+        "後藤留美",
+        "杉本佳代",
+        "松本幸恵",
+        "江袋正敬",
+        "池田けい",
+        "石橋俊伸",
+        "福森悦子",
+        "福田洋子",
+        "舩津由徳",
+        "若谷正巳",
+        "藤田みつぐ",
+        "金子幸弘",
+        "関裕通",
+        "青山聖子",
+        "飯塚孝行"
+      ]
+    },
+    {
+      "id": "cb72a2a08f3fba65bf29",
+      "place": "川口市",
+      "season": "summer",
+      "date": "2026-06-05",
+      "title": "06月05日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1418&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "宇田川好秀",
+        "松本進",
+        "柳田つとむ",
+        "稲川和成",
+        "若谷正巳"
+      ]
+    },
+    {
+      "id": "487f6a2e07c321c77366",
+      "place": "川口市",
+      "season": "summer",
+      "date": "2026-06-16",
+      "title": "06月16日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1418&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "吉田英司",
+        "宇田川好秀",
+        "松本幸恵",
+        "芝﨑正太"
+      ]
+    },
+    {
+      "id": "5a02abf7389cc40aa0b4",
+      "place": "川口市",
+      "season": "summer",
+      "date": "2026-06-17",
+      "title": "06月17日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1418&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "宇田川好秀",
+        "若谷正巳",
+        "藤田みつぐ",
+        "関由紀夫"
+      ]
+    },
+    {
+      "id": "051125b66f1cd82c5edc",
+      "place": "川口市",
+      "season": "summer",
+      "date": "2026-06-18",
+      "title": "06月18日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1418&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "宇田川好秀",
+        "後藤留美",
+        "杉本佳代",
+        "福田洋子",
+        "舩津由徳"
+      ]
+    },
+    {
+      "id": "4435033f96afe078fec0",
+      "place": "川口市",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "06月19日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1418&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "宇田川好秀",
+        "本橋慎吾",
+        "松浦洋之",
+        "益田みなみ"
+      ]
+    },
+    {
+      "id": "9d0fb7cb9c93af759def",
+      "place": "川口市",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "06月22日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1418&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "今田真美",
+        "坂口安那",
+        "宇田川好秀",
+        "池田けい",
+        "荻野梓"
+      ]
+    },
+    {
+      "id": "dfe78aa63298e3467dea",
+      "place": "川口市",
+      "season": "summer",
+      "date": "2026-06-30",
+      "title": "06月30日－07号",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1418&schedule_id=8",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "ふじしまともこ",
+        "今田真美",
+        "前原博孝",
+        "古川九一",
+        "吉田英司",
+        "坂本だいすけ",
+        "奥富精一",
+        "宇田川好秀",
+        "岡本さゆり",
+        "最上祐次",
+        "杉本佳代",
+        "板橋博美",
+        "池田けい",
+        "碇康雄",
+        "福森悦子",
+        "福田洋子",
+        "舩津由徳",
+        "若谷正巳",
+        "金子幸弘",
+        "関裕通",
+        "青山聖子"
+      ]
+    },
+    {
+      "id": "75bd09f9093f78228222",
+      "place": "川口市",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "09月01日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1427&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "奥富精一",
+        "宇田川好秀",
+        "松本進",
+        "柳田つとむ",
+        "稲川和成",
+        "若谷正巳",
+        "関裕通"
+      ]
+    },
+    {
+      "id": "52da8ed5d11ab19c6e00",
+      "place": "川口市",
+      "season": "fall",
+      "date": "2026-09-10",
+      "title": "09月10日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1427&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "坂本だいすけ",
+        "宇田川好秀",
+        "幡野茂",
+        "柳田つとむ"
+      ]
+    },
+    {
+      "id": "cae5df3c1897ca11a75e",
+      "place": "川口市",
+      "season": "fall",
+      "date": "2026-09-11",
+      "title": "09月11日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1427&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "前原博孝",
+        "宇田川好秀",
+        "板橋博美",
+        "江袋正敬"
+      ]
+    },
+    {
+      "id": "edf409f2fae729979d1a",
+      "place": "川口市",
+      "season": "fall",
+      "date": "2026-09-14",
+      "title": "09月14日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1427&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "ふじしまともこ",
+        "宇田川好秀",
+        "牛嶋宏一",
+        "福田洋子"
+      ]
+    },
+    {
+      "id": "103a6d19c962ea8f0daa",
+      "place": "川口市",
+      "season": "fall",
+      "date": "2026-09-15",
+      "title": "09月15日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1427&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "古川九一",
+        "宇田川好秀",
+        "最上祐次",
+        "飯塚孝行"
+      ]
+    },
+    {
+      "id": "e7fea0dc69e10b0b1179",
+      "place": "川口市",
+      "season": "fall",
+      "date": "2026-09-16",
+      "title": "09月16日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1427&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "宇田川好秀",
+        "松本英利",
+        "碇康雄",
+        "荻野梓"
+      ]
+    },
+    {
+      "id": "d6757eb6e6ddbfd65854",
+      "place": "川口市",
+      "season": "fall",
+      "date": "2026-09-29",
+      "title": "09月29日－07号",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1427&schedule_id=8",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "今田真美",
+        "古川九一",
+        "宇田川好秀",
+        "岡本さゆり",
+        "本橋慎吾",
+        "福森悦子",
+        "舩津由徳",
+        "芝﨑正太",
+        "若谷正巳",
+        "金子幸弘",
+        "関裕通",
+        "青山聖子"
+      ]
+    },
+    {
+      "id": "59a9e557bed6ee8656f0",
+      "place": "川島町",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "03月04日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteView.html?tenant_id=175&council_id=120&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "加藤進",
+        "小峯松治",
+        "山﨑宣佳",
+        "柴田一典",
+        "渋谷幸司"
+      ]
+    },
+    {
+      "id": "2b181823206eebbdee3c",
+      "place": "川島町",
+      "season": "spring",
+      "date": "2026-03-05",
+      "title": "03月05日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteView.html?tenant_id=175&council_id=120&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "井上智恵",
+        "加藤進",
+        "坂本順子",
+        "小峯松治",
+        "小高春雄",
+        "山﨑宣佳",
+        "柴田一典",
+        "渋谷幸司",
+        "矢内秀憲"
+      ]
+    },
+    {
+      "id": "45ae2b56735da5a7990d",
+      "place": "川島町",
+      "season": "spring",
+      "date": "2026-03-06",
+      "title": "03月06日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteView.html?tenant_id=175&council_id=120&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "小峯松治",
+        "山﨑宣佳",
+        "柴田一典",
+        "渋谷幸司"
+      ]
+    },
+    {
+      "id": "96cccbfdcb0fa24e39c3",
+      "place": "川島町",
+      "season": "spring",
+      "date": "2026-03-16",
+      "title": "03月16日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteView.html?tenant_id=175&council_id=120&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "井上智恵",
+        "加藤進",
+        "坂本順子",
+        "小峯松治",
+        "渋谷幸司"
+      ]
+    },
+    {
+      "id": "773848c7d4ee3d5b50ba",
+      "place": "川島町",
+      "season": "spring",
+      "date": "2026-03-17",
+      "title": "03月17日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteView.html?tenant_id=175&council_id=120&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "小峯松治",
+        "山﨑宣佳",
+        "松原謙司",
+        "菊地敏昭"
+      ]
+    },
+    {
+      "id": "c4cc4a06a4649a795bf9",
+      "place": "川島町",
+      "season": "spring",
+      "date": "2026-03-18",
+      "title": "03月18日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteView.html?tenant_id=175&council_id=120&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "小峯松治",
+        "山﨑宣佳",
+        "松原謙司",
+        "森田敏男",
+        "渋谷幸司"
+      ]
+    },
+    {
+      "id": "3dfcf320a56303f5fdf5",
+      "place": "川島町",
+      "season": "summer",
+      "date": "2026-06-03",
+      "title": "06月03日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteView.html?tenant_id=175&council_id=121&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "加藤進",
+        "小峯松治",
+        "渋谷幸司"
+      ]
+    },
+    {
+      "id": "102788bd057261795380",
+      "place": "川島町",
+      "season": "summer",
+      "date": "2026-06-08",
+      "title": "06月08日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteView.html?tenant_id=175&council_id=121&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "坂本順子",
+        "小峯松治",
+        "柴田一典",
+        "矢内秀憲",
+        "菊地敏昭"
+      ]
+    },
+    {
+      "id": "5be9e932742bef186683",
+      "place": "川島町",
+      "season": "summer",
+      "date": "2026-06-09",
+      "title": "06月09日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteView.html?tenant_id=175&council_id=121&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "井上智恵",
+        "小峯松治",
+        "山﨑宣佳",
+        "松原謙司",
+        "渋谷幸司"
+      ]
+    },
+    {
+      "id": "46904869dcd353e15943",
+      "place": "川島町",
+      "season": "summer",
+      "date": "2026-06-10",
+      "title": "06月10日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteView.html?tenant_id=175&council_id=121&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "小峯松治"
+      ]
+    },
+    {
+      "id": "df1a9a7031ee13f1f1df",
+      "place": "川島町",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "川島町議会 155号(2026年11月)",
+      "url": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori155.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
+      "speakers": []
+    },
+    {
+      "id": "d313ad747fa52d095cce",
+      "place": "川越市",
+      "season": "spring",
+      "date": "2026-03-05",
+      "title": "当日の会議録",
+      "url": "https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r08-0305_001",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中村文明",
+        "倉嶋真史",
+        "小林薫",
+        "嶋田弘二",
+        "松本きみ",
+        "柳沢貴雄",
+        "江田崇",
+        "牛窪喜史",
+        "鈴木謙一郎",
+        "須藤直樹"
+      ]
+    },
+    {
+      "id": "db6041cdc2816d24108a",
+      "place": "川越市",
+      "season": "spring",
+      "date": "2026-03-06",
+      "title": "当日の会議録",
+      "url": "https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r08-0306_001",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中村文明",
+        "中野敏浩",
+        "伊藤正子",
+        "加藤みなこ",
+        "小ノ澤哲也",
+        "小林範子",
+        "小高浩行",
+        "桐野忠",
+        "田畑たき子",
+        "粂真美子"
+      ]
+    },
+    {
+      "id": "2ecdd615d91642c634ff",
+      "place": "川越市",
+      "season": "spring",
+      "date": "2026-03-09",
+      "title": "当日の会議録",
+      "url": "https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r08-0309_001",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中村文明",
+        "今野英子",
+        "伊藤正子",
+        "川口知子",
+        "村山博紀",
+        "柿田有一",
+        "池浜あけみ",
+        "神田賢志"
+      ]
+    },
+    {
+      "id": "2991e66b1bc765dfd121",
+      "place": "川越市",
+      "season": "spring",
+      "date": "2026-03-12",
+      "title": "当日の会議録",
+      "url": "https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r08-0312_001",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中村文明",
+        "吉敷賢一郎",
+        "吉野郁惠",
+        "小島洋一",
+        "小林透",
+        "川口啓介",
+        "松本きみ",
+        "栗原瑞治",
+        "海沼秀幸",
+        "高橋剛"
+      ]
+    },
+    {
+      "id": "5020a7fc16eb7f9137da",
+      "place": "川越市",
+      "season": "summer",
+      "date": "2026-06-10",
+      "title": "当日の会議録",
+      "url": "https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r08-0610_001",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中原秀文",
+        "中村文明",
+        "加藤みなこ",
+        "小林範子",
+        "小高浩行",
+        "松本きみ",
+        "江田崇",
+        "片野広隆",
+        "牛窪喜史"
+      ]
+    },
+    {
+      "id": "e823e5feaaf822b1dd6e",
+      "place": "川越市",
+      "season": "summer",
+      "date": "2026-06-11",
+      "title": "当日の会議録",
+      "url": "https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r08-0611_001",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中野敏浩",
+        "倉嶋真史",
+        "吉敷賢一郎",
+        "嶋田弘二",
+        "桐野忠",
+        "片野広隆",
+        "田畑たき子",
+        "粂真美子",
+        "鈴木謙一郎",
+        "須藤直樹"
+      ]
+    },
+    {
+      "id": "01661a803cb5964c008b",
+      "place": "川越市",
+      "season": "summer",
+      "date": "2026-06-12",
+      "title": "当日の会議録",
+      "url": "https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r08-0612_001",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "伊藤正子",
+        "小島洋一",
+        "小林薫",
+        "小林透",
+        "川口啓介",
+        "村山博紀",
+        "片野広隆",
+        "高橋剛"
+      ]
+    },
+    {
+      "id": "412b26fcce3bc2b3c77f",
+      "place": "川越市",
+      "season": "summer",
+      "date": "2026-06-15",
+      "title": "当日の会議録",
+      "url": "https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r08-0615_001",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "今野英子",
+        "吉野郁惠",
+        "川口知子",
+        "柳沢貴雄",
+        "柿田有一",
+        "池浜あけみ",
+        "片野広隆",
+        "高橋剛"
+      ]
+    },
+    {
+      "id": "a85b253916e1778635cf",
+      "place": "川越市",
+      "season": "fall",
+      "date": "2026-09-09",
+      "title": "当日の会議録",
+      "url": "https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r08-0909_001",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "吉敷賢一郎",
+        "小島洋一",
+        "小林範子",
+        "小高浩行",
+        "松本きみ",
+        "柳沢貴雄",
+        "江田崇",
+        "片野広隆",
+        "牛窪喜史",
+        "鈴木謙一郎"
+      ]
+    },
+    {
+      "id": "598e3f6938f6d0e5af38",
+      "place": "川越市",
+      "season": "fall",
+      "date": "2026-09-10",
+      "title": "当日の会議録",
+      "url": "https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r08-0910_001",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中村文明",
+        "伊藤正子",
+        "小林薫",
+        "小林透",
+        "嶋田弘二",
+        "桐野忠",
+        "片野広隆",
+        "田畑たき子",
+        "須藤直樹"
+      ]
+    },
+    {
+      "id": "70b229c5822d37c2557f",
+      "place": "川越市",
+      "season": "fall",
+      "date": "2026-09-11",
+      "title": "当日の会議録",
+      "url": "https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r08-0911_001",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中野敏浩",
+        "倉嶋真史",
+        "加藤みなこ",
+        "川口啓介",
+        "川口知子",
+        "桐野忠",
+        "海沼秀幸",
+        "片野広隆",
+        "神田賢志",
+        "粂真美子"
+      ]
+    },
+    {
+      "id": "747ef30fe7eff649c106",
+      "place": "川越市",
+      "season": "fall",
+      "date": "2026-09-14",
+      "title": "当日の会議録",
+      "url": "https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r08-0914_001",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "今野英子",
+        "吉野郁惠",
+        "村山博紀",
+        "柿田有一",
+        "池浜あけみ",
+        "片野広隆",
+        "高橋剛"
+      ]
+    },
+    {
+      "id": "0ac3f066dad29bae96d6",
+      "place": "幸手市",
+      "season": "spring",
+      "date": "2026-02-18",
+      "title": "02月18日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/satte/SpMinuteView.html?tenant_id=182&council_id=117&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "木村治夫",
+        "青木章"
+      ]
+    },
+    {
+      "id": "07ca6a65cd5c8c4e98a3",
+      "place": "幸手市",
+      "season": "spring",
+      "date": "2026-02-19",
+      "title": "02月19日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/satte/SpMinuteView.html?tenant_id=182&council_id=117&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "坂本達夫",
+        "宮澤大地",
+        "小泉圭司",
+        "芦葉弘志",
+        "青木章"
+      ]
+    },
+    {
+      "id": "72fd92580cf98e01e016",
+      "place": "幸手市",
+      "season": "spring",
+      "date": "2026-02-20",
+      "title": "02月20日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/satte/SpMinuteView.html?tenant_id=182&council_id=117&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "大平泰二",
+        "小林英雄",
+        "小泉圭司",
+        "枝久保喜八郎",
+        "青木章",
+        "髙野優一"
+      ]
+    },
+    {
+      "id": "a48a21e59adf74f22899",
+      "place": "幸手市",
+      "season": "spring",
+      "date": "2026-02-24",
+      "title": "02月24日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/satte/SpMinuteView.html?tenant_id=182&council_id=117&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "四本奈緒美",
+        "木村治夫",
+        "本田謡子",
+        "松田雅代",
+        "芦葉弘志",
+        "青木章"
+      ]
+    },
+    {
+      "id": "ff31c5ef9600256d8ced",
+      "place": "幸手市",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "03月02日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/satte/SpMinuteView.html?tenant_id=182&council_id=117&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "坂本達夫",
+        "宮澤大地",
+        "小泉圭司",
+        "青木章"
+      ]
+    },
+    {
+      "id": "595970ae17660158c6fe",
+      "place": "幸手市",
+      "season": "spring",
+      "date": "2026-03-17",
+      "title": "03月17日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/satte/SpMinuteView.html?tenant_id=182&council_id=117&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "四本奈緒美",
+        "坂本達夫",
+        "大平泰二",
+        "宮澤大地",
+        "小河原浩和",
+        "小泉圭司",
+        "本田謡子",
+        "松田雅代",
+        "枝久保喜八郎",
+        "芦葉弘志",
+        "青木章"
+      ]
+    },
+    {
+      "id": "1d307c08889d09953f18",
+      "place": "幸手市",
+      "season": "summer",
+      "date": "2026-06-01",
+      "title": "06月01日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/satte/SpMinuteView.html?tenant_id=182&council_id=118&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "木村治夫",
+        "青木章"
+      ]
+    },
+    {
+      "id": "1f50d6ddea252300d155",
+      "place": "幸手市",
+      "season": "summer",
+      "date": "2026-06-02",
+      "title": "06月02日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/satte/SpMinuteView.html?tenant_id=182&council_id=118&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "坂本達夫",
+        "宮澤大地",
+        "松田雅代",
+        "芦葉弘志",
+        "青木章",
+        "髙野優一"
+      ]
+    },
+    {
+      "id": "93e929554d51c9b5fc82",
+      "place": "幸手市",
+      "season": "summer",
+      "date": "2026-06-03",
+      "title": "06月03日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/satte/SpMinuteView.html?tenant_id=182&council_id=118&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "四本奈緒美",
+        "小林英雄",
+        "小河原浩和",
+        "小泉圭司",
+        "松田雅代",
+        "青木章"
+      ]
+    },
+    {
+      "id": "f0798dd08d76acafdfa2",
+      "place": "幸手市",
+      "season": "summer",
+      "date": "2026-06-04",
+      "title": "06月04日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/satte/SpMinuteView.html?tenant_id=182&council_id=118&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "大平泰二",
+        "木村治夫",
+        "本田謡子",
+        "枝久保喜八郎",
+        "青木章"
+      ]
+    },
+    {
+      "id": "99f51e187d171e4e3f54",
+      "place": "幸手市",
+      "season": "summer",
+      "date": "2026-06-10",
+      "title": "06月10日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/satte/SpMinuteView.html?tenant_id=182&council_id=118&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "青木章"
+      ]
+    },
+    {
+      "id": "cc24a3727e6449487d7c",
+      "place": "幸手市",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "06月19日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/satte/SpMinuteView.html?tenant_id=182&council_id=118&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "坂本達夫",
+        "小河原浩和",
+        "木村治夫",
+        "本田謡子",
+        "松田雅代",
+        "青木章"
+      ]
+    },
+    {
+      "id": "1f57f1be393f916e1f44",
+      "place": "幸手市",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "09月01日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/satte/SpMinuteView.html?tenant_id=182&council_id=119&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "木村治夫",
+        "青木章"
+      ]
+    },
+    {
+      "id": "b97a9288ad9937128f22",
+      "place": "幸手市",
+      "season": "fall",
+      "date": "2026-09-02",
+      "title": "09月02日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/satte/SpMinuteView.html?tenant_id=182&council_id=119&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "坂本達夫",
+        "宮澤大地",
+        "本田謡子",
+        "芦葉弘志",
+        "青木章"
+      ]
+    },
+    {
+      "id": "9efc106def9c76ec56fe",
+      "place": "幸手市",
+      "season": "fall",
+      "date": "2026-09-03",
+      "title": "09月03日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/satte/SpMinuteView.html?tenant_id=182&council_id=119&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "四本奈緒美",
+        "小林英雄",
+        "小河原浩和",
+        "枝久保喜八郎",
+        "青木章",
+        "髙野優一"
+      ]
+    },
+    {
+      "id": "966e80fdc64889f971ab",
+      "place": "幸手市",
+      "season": "fall",
+      "date": "2026-09-04",
+      "title": "09月04日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/satte/SpMinuteView.html?tenant_id=182&council_id=119&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "大平泰二",
+        "小泉圭司",
+        "木村治夫",
+        "松田雅代",
+        "青木章"
+      ]
+    },
+    {
+      "id": "6948287f74104592f718",
+      "place": "幸手市",
+      "season": "fall",
+      "date": "2026-09-10",
+      "title": "09月10日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/satte/SpMinuteView.html?tenant_id=182&council_id=119&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "大平泰二",
+        "小泉圭司",
+        "枝久保喜八郎",
+        "青木章"
+      ]
+    },
+    {
+      "id": "cd5c61f4a535f3390539",
+      "place": "幸手市",
+      "season": "fall",
+      "date": "2026-09-29",
+      "title": "09月29日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/satte/SpMinuteView.html?tenant_id=182&council_id=119&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "四本奈緒美",
+        "坂本達夫",
+        "大平泰二",
+        "宮澤大地",
+        "小河原浩和",
+        "小泉圭司",
+        "木村治夫",
+        "本田謡子",
+        "松田雅代",
+        "芦葉弘志",
+        "青木章"
+      ]
+    },
+    {
+      "id": "8739c3e354abeb9e927b",
+      "place": "志木市",
+      "season": "spring",
+      "date": "2026-02-19",
+      "title": "02月19日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/shiki/SpMinuteView.html?tenant_id=381&council_id=408&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中村智紀",
+        "今村弘志",
+        "天田いづみ",
+        "高山優太"
+      ]
+    },
+    {
+      "id": "8c43201a6f9f7451dd95",
+      "place": "志木市",
+      "season": "spring",
+      "date": "2026-02-24",
+      "title": "02月24日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/shiki/SpMinuteView.html?tenant_id=381&council_id=408&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "上野琢磨",
+        "中村智紀",
+        "今村弘志",
+        "天田いづみ",
+        "河野芳徳",
+        "田畑寛治"
+      ]
+    },
+    {
+      "id": "5e61567ff2cb2a1a00f3",
+      "place": "志木市",
+      "season": "spring",
+      "date": "2026-03-10",
+      "title": "03月10日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/shiki/SpMinuteView.html?tenant_id=381&council_id=408&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "上野琢磨",
+        "今村弘志",
+        "天田いづみ",
+        "小池真由美",
+        "河野芳徳",
+        "田畑寛治",
+        "阿部竜一"
+      ]
+    },
+    {
+      "id": "47ae5de25d4fc8ea7b0e",
+      "place": "志木市",
+      "season": "spring",
+      "date": "2026-03-11",
+      "title": "03月11日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/shiki/SpMinuteView.html?tenant_id=381&council_id=408&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中村智紀",
+        "今村弘志",
+        "吉澤富美夫",
+        "岡島貴弘",
+        "鈴木潔",
+        "高山優太"
+      ]
+    },
+    {
+      "id": "dc5504e0a1c4a6b04146",
+      "place": "志木市",
+      "season": "spring",
+      "date": "2026-03-12",
+      "title": "03月12日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/shiki/SpMinuteView.html?tenant_id=381&council_id=408&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "今村弘志",
+        "古谷孝",
+        "安藤圭介",
+        "河野芳徳"
+      ]
+    },
+    {
+      "id": "6ff0bb378254ed428cda",
+      "place": "志木市",
+      "season": "spring",
+      "date": "2026-03-17",
+      "title": "03月17日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/shiki/SpMinuteView.html?tenant_id=381&council_id=408&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "上野琢磨",
+        "中村智紀",
+        "今村弘志",
+        "古谷孝",
+        "吉澤富美夫",
+        "天田いづみ",
+        "安藤圭介",
+        "小池真由美",
+        "岡島貴弘",
+        "河野芳徳",
+        "田畑寛治",
+        "阿部竜一"
+      ]
+    },
+    {
+      "id": "9052570cba599b555726",
+      "place": "志木市",
+      "season": "spring",
+      "date": "2026-03-18",
+      "title": "03月18日－07号",
+      "url": "https://ssp.kaigiroku.net/tenant/shiki/SpMinuteView.html?tenant_id=381&council_id=408&schedule_id=8",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "今村弘志",
+        "吉澤富美夫",
+        "天田いづみ",
+        "安藤圭介",
+        "田畑寛治"
+      ]
+    },
+    {
+      "id": "e6751f5bff432bb1751a",
+      "place": "志木市",
+      "season": "summer",
+      "date": "2026-06-02",
+      "title": "06月02日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/shiki/SpMinuteView.html?tenant_id=381&council_id=412&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "上野琢磨",
+        "中村智紀",
+        "今村弘志",
+        "吉澤富美夫",
+        "天田いづみ",
+        "河野芳徳",
+        "高山優太"
+      ]
+    },
+    {
+      "id": "95ea2b39427bea48ac77",
+      "place": "志木市",
+      "season": "summer",
+      "date": "2026-06-05",
+      "title": "06月05日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/shiki/SpMinuteView.html?tenant_id=381&council_id=412&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中村智紀",
+        "吉澤富美夫",
+        "天田いづみ"
+      ]
+    },
+    {
+      "id": "32451f96b570bf220b67",
+      "place": "志木市",
+      "season": "summer",
+      "date": "2026-06-11",
+      "title": "06月11日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/shiki/SpMinuteView.html?tenant_id=381&council_id=412&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "上野琢磨",
+        "中村智紀",
+        "吉澤富美夫",
+        "天田いづみ"
+      ]
+    },
+    {
+      "id": "b2b76b50c0dcc0249ce3",
+      "place": "志木市",
+      "season": "summer",
+      "date": "2026-06-16",
+      "title": "06月16日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/shiki/SpMinuteView.html?tenant_id=381&council_id=412&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "上野琢磨",
+        "今村弘志",
+        "吉澤富美夫",
+        "天田いづみ",
+        "小池真由美",
+        "阿部竜一"
+      ]
+    },
+    {
+      "id": "f2756641a32bafc48abc",
+      "place": "志木市",
+      "season": "summer",
+      "date": "2026-06-17",
+      "title": "06月17日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/shiki/SpMinuteView.html?tenant_id=381&council_id=412&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中村智紀",
+        "古谷孝",
+        "吉澤富美夫",
+        "岡島貴弘",
+        "田畑寛治",
+        "高山優太"
+      ]
+    },
+    {
+      "id": "b2d98509f59a9a016e47",
+      "place": "志木市",
+      "season": "summer",
+      "date": "2026-06-18",
+      "title": "06月18日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/shiki/SpMinuteView.html?tenant_id=381&council_id=412&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "吉澤富美夫",
+        "安藤圭介",
+        "河野芳徳",
+        "鈴木潔"
+      ]
+    },
+    {
+      "id": "c6bad777a4d123e0ae24",
+      "place": "志木市",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "06月23日－07号",
+      "url": "https://ssp.kaigiroku.net/tenant/shiki/SpMinuteView.html?tenant_id=381&council_id=412&schedule_id=8",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "今村弘志",
+        "吉澤富美夫",
+        "天田いづみ",
+        "小池真由美",
+        "岡島貴弘",
+        "河野芳徳",
+        "田畑寛治",
+        "鈴木潔"
+      ]
+    },
+    {
+      "id": "871b31fdc4f31d0d8a86",
+      "place": "志木市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "志木市議会だより214号・9月定例会の一般質問（紙面2〜8頁）",
+      "url": "https://www.city.shiki.lg.jp/uploaded/attachment/24682.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
+      "speakers": []
+    },
+    {
+      "id": "c20d96b5ef7dc5596927",
+      "place": "戸田市",
+      "season": "spring",
+      "date": "2026-02-02",
+      "title": "2026-02-02 本会議録",
+      "url": "https://toda.gijiroku.com/gikai/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&FMM=1&FDD=1&TYY=2026&TMM=12&TDD=31&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82R%8C%8E%92%E8%97%E1%89%EF%81%7C02%8C%8E02%93%FA-01%8D%86&KGNO=157&FINO=1279&UNID=K_R08020200011",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "三浦のぶお",
+        "三輪なお子",
+        "佐藤太信",
+        "古屋としみつ",
+        "小沼さゆり",
+        "本田哲",
+        "榎本守明",
+        "河合ゆうすけ",
+        "浅生和英",
+        "矢澤青河",
+        "花井あきこ",
+        "辺見智子",
+        "酒井いくろう",
+        "野澤茂雅"
+      ]
+    },
+    {
+      "id": "b9237a47f836e7b7d19c",
+      "place": "戸田市",
+      "season": "spring",
+      "date": "2026-02-05",
+      "title": "2026-02-05 本会議録",
+      "url": "https://toda.gijiroku.com/gikai/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&FMM=1&FDD=1&TYY=2026&TMM=12&TDD=31&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82R%8C%8E%92%E8%97%E1%89%EF%81%7C02%8C%8E05%93%FA-03%8D%86&KGNO=157&FINO=1281&UNID=K_R08020500031",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "三輪なお子"
+      ]
+    },
+    {
+      "id": "52611286e4ce4b9177a7",
+      "place": "戸田市",
+      "season": "spring",
+      "date": "2026-02-06",
+      "title": "2026-02-06 本会議録",
+      "url": "https://toda.gijiroku.com/gikai/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&FMM=1&FDD=1&TYY=2026&TMM=12&TDD=31&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82R%8C%8E%92%E8%97%E1%89%EF%81%7C02%8C%8E06%93%FA-04%8D%86&KGNO=157&FINO=1282&UNID=K_R08020600041",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "三輪なお子",
+        "野澤茂雅"
+      ]
+    },
+    {
+      "id": "267a1fd34e60f02efcf0",
+      "place": "戸田市",
+      "season": "spring",
+      "date": "2026-02-18",
+      "title": "2026-02-18 本会議録",
+      "url": "https://toda.gijiroku.com/gikai/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&FMM=1&FDD=1&TYY=2026&TMM=12&TDD=31&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82R%8C%8E%92%E8%97%E1%89%EF%81%7C02%8C%8E18%93%FA-05%8D%86&KGNO=157&FINO=1283&UNID=K_R08021800051",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "三輪なお子",
+        "本田哲",
+        "榎本守明",
+        "竹内正明",
+        "遠藤英樹",
+        "酒井いくろう"
+      ]
+    },
+    {
+      "id": "8b19a1154ac8b43bcdcf",
+      "place": "戸田市",
+      "season": "spring",
+      "date": "2026-02-19",
+      "title": "2026-02-19 本会議録",
+      "url": "https://toda.gijiroku.com/gikai/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&FMM=1&FDD=1&TYY=2026&TMM=12&TDD=31&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82R%8C%8E%92%E8%97%E1%89%EF%81%7C02%8C%8E19%93%FA-06%8D%86&KGNO=157&FINO=1284&UNID=K_R08021900061",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "三輪なお子",
+        "小金沢優",
+        "河合ゆうすけ",
+        "石川清明",
+        "花井あきこ"
+      ]
+    },
+    {
+      "id": "11581c620c7184f5dfaa",
+      "place": "戸田市",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "2026-03-02 本会議録",
+      "url": "https://toda.gijiroku.com/gikai/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&FMM=1&FDD=1&TYY=2026&TMM=12&TDD=31&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82R%8C%8E%92%E8%97%E1%89%EF%81%7C03%8C%8E02%93%FA-07%8D%86&KGNO=157&FINO=1285&UNID=K_R08030200071",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "三輪なお子",
+        "佐藤太信",
+        "宮内そうこ",
+        "小沼さゆり",
+        "細田昌孝",
+        "辺見智子"
+      ]
+    },
+    {
+      "id": "1c63d718f1db893cb1e7",
+      "place": "戸田市",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "2026-03-03 本会議録",
+      "url": "https://toda.gijiroku.com/gikai/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&FMM=1&FDD=1&TYY=2026&TMM=12&TDD=31&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82R%8C%8E%92%E8%97%E1%89%EF%81%7C03%8C%8E03%93%FA-08%8D%86&KGNO=157&FINO=1286&UNID=K_R08030300081",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "むとう葉子",
+        "三浦のぶお",
+        "三輪なお子",
+        "古屋としみつ",
+        "小山大輔"
+      ]
+    },
+    {
+      "id": "b47faeb16bc977ea9a0e",
+      "place": "戸田市",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "2026-03-04 本会議録",
+      "url": "https://toda.gijiroku.com/gikai/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&FMM=1&FDD=1&TYY=2026&TMM=12&TDD=31&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82R%8C%8E%92%E8%97%E1%89%EF%81%7C03%8C%8E04%93%FA-09%8D%86&KGNO=157&FINO=1287&UNID=K_R08030400091",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "そごう拓也",
+        "三輪なお子",
+        "浅生和英",
+        "石川清明",
+        "野澤茂雅"
+      ]
+    },
+    {
+      "id": "9f53cc95024f3a5fda40",
+      "place": "戸田市",
+      "season": "spring",
+      "date": "2026-03-05",
+      "title": "2026-03-05 本会議録",
+      "url": "https://toda.gijiroku.com/gikai/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&FMM=1&FDD=1&TYY=2026&TMM=12&TDD=31&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82R%8C%8E%92%E8%97%E1%89%EF%81%7C03%8C%8E05%93%FA-10%8D%86&KGNO=157&FINO=1288&UNID=K_R08030500101",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "三輪なお子",
+        "小金沢優",
+        "河合ゆうすけ",
+        "花井あきこ"
+      ]
+    },
+    {
+      "id": "5b1e064c0ff537cb943a",
+      "place": "戸田市",
+      "season": "spring",
+      "date": "2026-03-11",
+      "title": "2026-03-11 本会議録",
+      "url": "https://toda.gijiroku.com/gikai/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&FMM=1&FDD=1&TYY=2026&TMM=12&TDD=31&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82R%8C%8E%92%E8%97%E1%89%EF%81%7C03%8C%8E11%93%FA-11%8D%86&KGNO=157&FINO=1289&UNID=K_R08031100111",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "むとう葉子",
+        "三浦のぶお",
+        "三輪なお子",
+        "古屋としみつ",
+        "宮内そうこ",
+        "小沼さゆり",
+        "小金沢優",
+        "本田哲",
+        "河合ゆうすけ",
+        "矢澤青河",
+        "花井あきこ",
+        "遠藤英樹",
+        "酒井いくろう",
+        "野澤茂雅"
+      ]
+    },
+    {
+      "id": "4df83352e93d2c8b3190",
+      "place": "戸田市",
+      "season": "summer",
+      "date": "2026-05-28",
+      "title": "2026-05-28 本会議録",
+      "url": "https://toda.gijiroku.com/gikai/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&FMM=1&FDD=1&TYY=2026&TMM=12&TDD=31&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82U%8C%8E%92%E8%97%E1%89%EF%81%7C05%8C%8E28%93%FA-01%8D%86&KGNO=159&FINO=1295&UNID=K_R08052800011",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "三浦のぶお",
+        "三輪なお子",
+        "古屋としみつ",
+        "小金沢優",
+        "竹内正明",
+        "遠藤英樹"
+      ]
+    },
+    {
+      "id": "c6bb96f8a0b9da739cc3",
+      "place": "戸田市",
+      "season": "summer",
+      "date": "2026-06-04",
+      "title": "2026-06-04 本会議録",
+      "url": "https://toda.gijiroku.com/gikai/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&FMM=1&FDD=1&TYY=2026&TMM=12&TDD=31&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82U%8C%8E%92%E8%97%E1%89%EF%81%7C06%8C%8E04%93%FA-02%8D%86&KGNO=159&FINO=1296&UNID=K_R08060400021",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "むとう葉子",
+        "三輪なお子",
+        "本田哲",
+        "矢澤青河",
+        "花井あきこ",
+        "酒井いくろう"
+      ]
+    },
+    {
+      "id": "21f74a64983b1674c4f6",
+      "place": "戸田市",
+      "season": "summer",
+      "date": "2026-06-09",
+      "title": "2026-06-09 本会議録",
+      "url": "https://toda.gijiroku.com/gikai/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&FMM=1&FDD=1&TYY=2026&TMM=12&TDD=31&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82U%8C%8E%92%E8%97%E1%89%EF%81%7C06%8C%8E09%93%FA-03%8D%86&KGNO=159&FINO=1297&UNID=K_R08060900031",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "むとう葉子",
+        "三浦のぶお",
+        "三輪なお子",
+        "佐藤太信",
+        "宮内そうこ",
+        "小山大輔",
+        "辺見智子"
+      ]
+    },
+    {
+      "id": "ac10ba76cbe89aa3fbb2",
+      "place": "戸田市",
+      "season": "summer",
+      "date": "2026-06-11",
+      "title": "2026-06-11 本会議録",
+      "url": "https://toda.gijiroku.com/gikai/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&FMM=1&FDD=1&TYY=2026&TMM=12&TDD=31&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82U%8C%8E%92%E8%97%E1%89%EF%81%7C06%8C%8E11%93%FA-04%8D%86&KGNO=159&FINO=1298&UNID=K_R08061100041",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "そごう拓也",
+        "三輪なお子",
+        "小沼さゆり",
+        "河合ゆうすけ",
+        "石川清明",
+        "花井あきこ",
+        "野澤茂雅"
+      ]
+    },
+    {
+      "id": "f0b7d92bea8a3479209e",
+      "place": "戸田市",
+      "season": "summer",
+      "date": "2026-06-12",
+      "title": "2026-06-12 本会議録",
+      "url": "https://toda.gijiroku.com/gikai/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&FMM=1&FDD=1&TYY=2026&TMM=12&TDD=31&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82U%8C%8E%92%E8%97%E1%89%EF%81%7C06%8C%8E12%93%FA-05%8D%86&KGNO=159&FINO=1299&UNID=K_R08061200051",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "三輪なお子",
+        "古屋としみつ",
+        "本田哲",
+        "浅生和英",
+        "矢澤青河",
+        "竹内正明"
+      ]
+    },
+    {
+      "id": "a610f81daa050bf695f3",
+      "place": "戸田市",
+      "season": "summer",
+      "date": "2026-06-15",
+      "title": "2026-06-15 本会議録",
+      "url": "https://toda.gijiroku.com/gikai/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&FMM=1&FDD=1&TYY=2026&TMM=12&TDD=31&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82U%8C%8E%92%E8%97%E1%89%EF%81%7C06%8C%8E15%93%FA-06%8D%86&KGNO=159&FINO=1300&UNID=K_R08061500061",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "三輪なお子",
+        "小金沢優",
+        "山屋佳代",
+        "遠藤英樹",
+        "酒井いくろう"
+      ]
+    },
+    {
+      "id": "763713f2980d55fd8aa6",
+      "place": "戸田市",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "2026-06-19 本会議録",
+      "url": "https://toda.gijiroku.com/gikai/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&FMM=1&FDD=1&TYY=2026&TMM=12&TDD=31&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82U%8C%8E%92%E8%97%E1%89%EF%81%7C06%8C%8E19%93%FA-07%8D%86&KGNO=159&FINO=1301&UNID=K_R08061900071",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "むとう葉子",
+        "三浦のぶお",
+        "三輪なお子",
+        "古屋としみつ",
+        "小山大輔",
+        "小金沢優",
+        "本田哲",
+        "河合ゆうすけ",
+        "竹内正明",
+        "花井あきこ",
+        "遠藤英樹"
+      ]
+    },
+    {
+      "id": "177341ec1750dfb3e664",
+      "place": "戸田市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "戸田市議会だより236号・一般質問の見開き",
+      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055902&fileId=dd82a10f1e594ab2aa76f45623067024&fileName=236_A3.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。 OCRの確認警告があるPDF 7頁を除外しています。",
+      "speakers": []
+    },
+    {
+      "id": "ab9387289ec18d0d6298",
+      "place": "所沢市",
+      "season": "spring",
+      "date": "2026-02-18",
+      "title": "02月18日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/tokorozawa/SpMinuteView.html?tenant_id=213&council_id=188&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "大石健一",
+        "大舘隆行",
+        "松本明信",
+        "粕谷不二夫"
+      ]
+    },
+    {
+      "id": "346e8db03c6d78d4cbd3",
+      "place": "所沢市",
+      "season": "spring",
+      "date": "2026-02-25",
+      "title": "02月25日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/tokorozawa/SpMinuteView.html?tenant_id=213&council_id=188&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中井めぐみ",
+        "大石健一",
+        "大舘隆行",
+        "小林澄子",
+        "山口浩美",
+        "島田一隆",
+        "松本明信",
+        "矢作いづみ",
+        "粕谷不二夫",
+        "花岡健太",
+        "谷口雅典",
+        "赤川洋二",
+        "長岡恵子"
+      ]
+    },
+    {
+      "id": "96d41132a739291068d1",
+      "place": "所沢市",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "02月26日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/tokorozawa/SpMinuteView.html?tenant_id=213&council_id=188&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "大久保竜一",
+        "島田一隆",
+        "斉藤かおり",
+        "末吉美帆子",
+        "石本亮三",
+        "福原浩昭",
+        "粕谷不二夫",
+        "荻野泰男",
+        "長谷川礼奈"
+      ]
+    },
+    {
+      "id": "5055d065528ddb1450ea",
+      "place": "所沢市",
+      "season": "spring",
+      "date": "2026-03-16",
+      "title": "03月16日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/tokorozawa/SpMinuteView.html?tenant_id=213&council_id=188&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中毅志",
+        "大石健一",
+        "大舘隆行",
+        "小林澄子",
+        "島田一隆",
+        "川辺浩直",
+        "末吉美帆子",
+        "粕谷不二夫",
+        "花岡健太",
+        "谷口雅典",
+        "長岡恵子"
+      ]
+    },
+    {
+      "id": "20de4931da788d612f64",
+      "place": "所沢市",
+      "season": "spring",
+      "date": "2026-03-17",
+      "title": "03月17日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/tokorozawa/SpMinuteView.html?tenant_id=213&council_id=188&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "大久保竜一",
+        "川辺浩直",
+        "植竹成年",
+        "石原昂",
+        "粕谷不二夫",
+        "長谷川礼奈",
+        "青木利幸"
+      ]
+    },
+    {
+      "id": "1c479633c3d25f9f2961",
+      "place": "所沢市",
+      "season": "spring",
+      "date": "2026-03-18",
+      "title": "03月18日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/tokorozawa/SpMinuteView.html?tenant_id=213&council_id=188&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "前田浩昭",
+        "山口浩美",
+        "末吉美帆子",
+        "石本亮三",
+        "福原浩昭",
+        "秋田孝",
+        "粕谷不二夫"
+      ]
+    },
+    {
+      "id": "bef62becb90623183ab8",
+      "place": "所沢市",
+      "season": "spring",
+      "date": "2026-03-19",
+      "title": "03月19日－07号",
+      "url": "https://ssp.kaigiroku.net/tenant/tokorozawa/SpMinuteView.html?tenant_id=213&council_id=188&schedule_id=8",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中井めぐみ",
+        "入沢豊",
+        "松本明信",
+        "神戸鉄郎",
+        "粕谷不二夫",
+        "花岡健太",
+        "谷口雅典"
+      ]
+    },
+    {
+      "id": "189cbc68df218d2a0626",
+      "place": "所沢市",
+      "season": "spring",
+      "date": "2026-03-23",
+      "title": "03月23日－08号",
+      "url": "https://ssp.kaigiroku.net/tenant/tokorozawa/SpMinuteView.html?tenant_id=213&council_id=188&schedule_id=9",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "小林澄子",
+        "島田一隆",
+        "斉藤かおり",
+        "斎藤由紀",
+        "矢作いづみ",
+        "石本亮三",
+        "粕谷不二夫",
+        "荻野泰男"
+      ]
+    },
+    {
+      "id": "4e3eb50ae2b19c7db5f5",
+      "place": "所沢市",
+      "season": "spring",
+      "date": "2026-03-24",
+      "title": "03月24日－09号",
+      "url": "https://ssp.kaigiroku.net/tenant/tokorozawa/SpMinuteView.html?tenant_id=213&council_id=188&schedule_id=10",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "佐野允彦",
+        "大石健一",
+        "大舘隆行",
+        "島田一隆",
+        "川辺浩直",
+        "石本亮三",
+        "福原浩昭",
+        "粕谷不二夫",
+        "花岡健太",
+        "荻野泰男",
+        "谷口雅典",
+        "赤川洋二"
+      ]
+    },
+    {
+      "id": "3eea0e33c24a15ccffbc",
+      "place": "所沢市",
+      "season": "summer",
+      "date": "2026-06-01",
+      "title": "06月01日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/tokorozawa/SpMinuteView.html?tenant_id=213&council_id=190&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "入沢豊",
+        "大石健一",
+        "小林澄子",
+        "島田一隆",
+        "斉藤かおり",
+        "松本明信",
+        "植竹成年",
+        "粕谷不二夫",
+        "青木利幸"
+      ]
+    },
+    {
+      "id": "5097411c3f6e18539976",
+      "place": "所沢市",
+      "season": "summer",
+      "date": "2026-06-04",
+      "title": "06月04日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/tokorozawa/SpMinuteView.html?tenant_id=213&council_id=190&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中井めぐみ",
+        "小林澄子",
+        "矢作いづみ",
+        "石本亮三",
+        "粕谷不二夫",
+        "花岡健太",
+        "荻野泰男",
+        "赤川洋二",
+        "長岡恵子",
+        "長谷川礼奈"
+      ]
+    },
+    {
+      "id": "3a2c02f2f3427098f244",
+      "place": "所沢市",
+      "season": "summer",
+      "date": "2026-06-12",
+      "title": "06月12日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/tokorozawa/SpMinuteView.html?tenant_id=213&council_id=190&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中井めぐみ",
+        "大石健一",
+        "島田一隆",
+        "川辺浩直",
+        "松本明信",
+        "植竹成年",
+        "矢作いづみ",
+        "神戸鉄郎",
+        "粕谷不二夫",
+        "花岡健太",
+        "谷口雅典"
+      ]
+    },
+    {
+      "id": "b8bf00809f647a7f6b68",
+      "place": "所沢市",
+      "season": "summer",
+      "date": "2026-06-15",
+      "title": "06月15日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/tokorozawa/SpMinuteView.html?tenant_id=213&council_id=190&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "亀山恭子",
+        "山口浩美",
+        "島田一隆",
+        "川辺浩直",
+        "秋田孝",
+        "粕谷不二夫",
+        "荻野泰男"
+      ]
+    },
+    {
+      "id": "73aa59fd3439f0d0d32b",
+      "place": "所沢市",
+      "season": "summer",
+      "date": "2026-06-16",
+      "title": "06月16日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/tokorozawa/SpMinuteView.html?tenant_id=213&council_id=190&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "入沢豊",
+        "大石健一",
+        "斎藤由紀",
+        "粕谷不二夫",
+        "花岡健太",
+        "谷口雅典",
+        "青木利幸"
+      ]
+    },
+    {
+      "id": "4ad390cae2aad1068b49",
+      "place": "所沢市",
+      "season": "summer",
+      "date": "2026-06-17",
+      "title": "06月17日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/tokorozawa/SpMinuteView.html?tenant_id=213&council_id=190&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "大久保竜一",
+        "大舘隆行",
+        "斉藤かおり",
+        "松本明信",
+        "石本亮三",
+        "粕谷不二夫",
+        "長岡恵子"
+      ]
+    },
+    {
+      "id": "2af787b14f140155f945",
+      "place": "所沢市",
+      "season": "summer",
+      "date": "2026-06-18",
+      "title": "06月18日－07号",
+      "url": "https://ssp.kaigiroku.net/tenant/tokorozawa/SpMinuteView.html?tenant_id=213&council_id=190&schedule_id=8",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中井めぐみ",
+        "中毅志",
+        "小林澄子",
+        "矢作いづみ",
+        "石原昂",
+        "粕谷不二夫",
+        "赤川洋二"
+      ]
+    },
+    {
+      "id": "2c2fcb22dc4045085de0",
+      "place": "所沢市",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "06月19日－08号",
+      "url": "https://ssp.kaigiroku.net/tenant/tokorozawa/SpMinuteView.html?tenant_id=213&council_id=190&schedule_id=9",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中井めぐみ",
+        "前田浩昭",
+        "大石健一",
+        "小林澄子",
+        "島田一隆",
+        "松本明信",
+        "植竹成年",
+        "矢作いづみ",
+        "石本亮三",
+        "神戸鉄郎",
+        "福原浩昭",
+        "粕谷不二夫",
+        "花岡健太",
+        "荻野泰男",
+        "赤川洋二",
+        "長岡恵子",
+        "長谷川礼奈"
+      ]
+    },
+    {
+      "id": "cbefdeec9818dd4dbb8f",
+      "place": "所沢市",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "09月01日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/tokorozawa/SpMinuteView.html?tenant_id=213&council_id=191&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "大石健一",
+        "小林澄子",
+        "島田一隆",
+        "川辺浩直",
+        "植竹成年",
+        "石本亮三",
+        "粕谷不二夫",
+        "花岡健太",
+        "谷口雅典",
+        "長岡恵子"
+      ]
+    },
+    {
+      "id": "8e9962248b74789cf1be",
+      "place": "所沢市",
+      "season": "fall",
+      "date": "2026-09-04",
+      "title": "09月04日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/tokorozawa/SpMinuteView.html?tenant_id=213&council_id=191&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中井めぐみ",
+        "小林澄子",
+        "島田一隆",
+        "川辺浩直",
+        "斉藤かおり",
+        "植竹成年",
+        "矢作いづみ",
+        "石原昂",
+        "石本亮三",
+        "神戸鉄郎",
+        "粕谷不二夫",
+        "花岡健太",
+        "荻野泰男",
+        "長岡恵子",
+        "長谷川礼奈"
+      ]
+    },
+    {
+      "id": "51d697504c52969ec3cf",
+      "place": "所沢市",
+      "season": "fall",
+      "date": "2026-09-14",
+      "title": "09月14日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/tokorozawa/SpMinuteView.html?tenant_id=213&council_id=191&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "大石健一",
+        "小林澄子",
+        "島田一隆",
+        "川辺浩直",
+        "松本明信",
+        "植竹成年",
+        "粕谷不二夫",
+        "花岡健太",
+        "荻野泰男",
+        "谷口雅典"
+      ]
+    },
+    {
+      "id": "6b51c9c2600debacbcea",
+      "place": "所沢市",
+      "season": "fall",
+      "date": "2026-09-15",
+      "title": "09月15日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/tokorozawa/SpMinuteView.html?tenant_id=213&council_id=191&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "斎藤由紀",
+        "矢作いづみ",
+        "石原昂",
+        "秋田孝",
+        "粕谷不二夫",
+        "花岡健太",
+        "谷口雅典"
+      ]
+    },
+    {
+      "id": "f47bad7d3b7e4e04d4cd",
+      "place": "所沢市",
+      "season": "fall",
+      "date": "2026-09-16",
+      "title": "09月16日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/tokorozawa/SpMinuteView.html?tenant_id=213&council_id=191&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中井めぐみ",
+        "大舘隆行",
+        "島田一隆",
+        "川辺浩直",
+        "石本亮三",
+        "神戸鉄郎",
+        "粕谷不二夫"
+      ]
+    },
+    {
+      "id": "b2b29b3bff05d996d785",
+      "place": "所沢市",
+      "season": "fall",
+      "date": "2026-09-17",
+      "title": "09月17日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/tokorozawa/SpMinuteView.html?tenant_id=213&council_id=191&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "入沢豊",
+        "前田浩昭",
+        "大久保竜一",
+        "大石健一",
+        "福原浩昭",
+        "粕谷不二夫",
+        "長岡恵子"
+      ]
+    },
+    {
+      "id": "a7bdcbe28e61b7ec49b5",
+      "place": "所沢市",
+      "season": "fall",
+      "date": "2026-09-18",
+      "title": "09月18日－07号",
+      "url": "https://ssp.kaigiroku.net/tenant/tokorozawa/SpMinuteView.html?tenant_id=213&council_id=191&schedule_id=8",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "亀山恭子",
+        "佐野允彦",
+        "斉藤かおり",
+        "松本明信",
+        "粕谷不二夫",
+        "荻野泰男",
+        "赤川洋二"
+      ]
+    },
+    {
+      "id": "56e55b70a6947133e21e",
+      "place": "所沢市",
+      "season": "fall",
+      "date": "2026-09-24",
+      "title": "09月24日－08号",
+      "url": "https://ssp.kaigiroku.net/tenant/tokorozawa/SpMinuteView.html?tenant_id=213&council_id=191&schedule_id=9",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "佐野允彦",
+        "小林澄子",
+        "山口浩美",
+        "植竹成年",
+        "石本亮三",
+        "粕谷不二夫",
+        "花岡健太",
+        "荻野泰男",
+        "谷口雅典",
+        "長谷川礼奈"
+      ]
+    },
+    {
+      "id": "b1cfc39a0848d985cef6",
+      "place": "新座市",
+      "season": "spring",
+      "date": "2026-02-20",
+      "title": "2026-02-20 本会議録",
+      "url": "https://niiza.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%82P%89%F1%92%E8%97%E1%89%EF%81%7C02%8C%8E20%93%FA-01%8D%86&KGNO=538&FINO=2080&UNID=K_R08022000011",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "よねはしゆうた",
+        "佐藤重忠",
+        "助川昇",
+        "島田久仁代",
+        "片山敏子",
+        "白井忠雄",
+        "笠原進",
+        "野中弥生",
+        "鈴木明子",
+        "鈴木秀一",
+        "鈴木芳宗",
+        "黒田実樹"
+      ]
+    },
+    {
+      "id": "6f14fe3b2fc70b5ebf55",
+      "place": "新座市",
+      "season": "spring",
+      "date": "2026-02-24",
+      "title": "2026-02-24 本会議録",
+      "url": "https://niiza.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%82P%89%F1%92%E8%97%E1%89%EF%81%7C02%8C%8E24%93%FA-02%8D%86&KGNO=538&FINO=2081&UNID=K_R08022400021",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "鈴木芳宗"
+      ]
+    },
+    {
+      "id": "1c1a9b88a222cb8107de",
+      "place": "新座市",
+      "season": "spring",
+      "date": "2026-02-27",
+      "title": "2026-02-27 本会議録",
+      "url": "https://niiza.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%82P%89%F1%92%E8%97%E1%89%EF%81%7C02%8C%8E27%93%FA-03%8D%86&KGNO=538&FINO=2082&UNID=K_R08022700031",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "小野大輔",
+        "島田久仁代",
+        "池田貞雄",
+        "白井忠雄",
+        "笠原進",
+        "鈴木明子",
+        "鈴木芳宗",
+        "高邑朋矢"
+      ]
+    },
+    {
+      "id": "8e252a83f84764c60d95",
+      "place": "新座市",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "2026-03-02 本会議録",
+      "url": "https://niiza.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%82P%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E02%93%FA-04%8D%86&KGNO=538&FINO=2083&UNID=K_R08030200041",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "小野大輔",
+        "島田久仁代",
+        "田口訓子",
+        "石島陽子",
+        "笠原進",
+        "鈴木明子",
+        "鈴木芳宗"
+      ]
+    },
+    {
+      "id": "7820643c6a5203704143",
+      "place": "新座市",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "2026-03-03 本会議録",
+      "url": "https://niiza.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%82P%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E03%93%FA-05%8D%86&KGNO=538&FINO=2084&UNID=K_R08030300051",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "小野大輔",
+        "島田久仁代",
+        "石島陽子",
+        "笠原進",
+        "鈴木芳宗",
+        "黒田実樹"
+      ]
+    },
+    {
+      "id": "fa045533f639a9812c04",
+      "place": "新座市",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "2026-03-04 本会議録",
+      "url": "https://niiza.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%82P%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E04%93%FA-06%8D%86&KGNO=538&FINO=2085&UNID=K_R08030400061",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "小野大輔",
+        "石島陽子",
+        "笠原進",
+        "野中弥生",
+        "鈴木芳宗",
+        "高邑朋矢",
+        "黒田実樹"
+      ]
+    },
+    {
+      "id": "e7adcdd6e06046846d2b",
+      "place": "新座市",
+      "season": "spring",
+      "date": "2026-03-11",
+      "title": "2026-03-11 本会議録",
+      "url": "https://niiza.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%82P%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E11%93%FA-07%8D%86&KGNO=538&FINO=2098&UNID=K_R08031100071",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "上田美小枝",
+        "助川昇",
+        "嶋野加代",
+        "池田貞雄",
+        "鈴木明子",
+        "鈴木芳宗"
+      ]
+    },
+    {
+      "id": "9be4f4844d7ead240abc",
+      "place": "新座市",
+      "season": "spring",
+      "date": "2026-03-12",
+      "title": "2026-03-12 本会議録",
+      "url": "https://niiza.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%82P%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E12%93%FA-08%8D%86&KGNO=538&FINO=2099&UNID=K_R08031200081",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "よねはしゆうた",
+        "伊藤信太郎",
+        "鈴木明子",
+        "鈴木秀一",
+        "鈴木芳宗"
+      ]
+    },
+    {
+      "id": "6aafd5c3fa92e697f18c",
+      "place": "新座市",
+      "season": "spring",
+      "date": "2026-03-16",
+      "title": "2026-03-16 本会議録",
+      "url": "https://niiza.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%82P%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E16%93%FA-09%8D%86&KGNO=538&FINO=2100&UNID=K_R08031600091",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "伊藤智砂子",
+        "堀内博史",
+        "山口歩",
+        "片山敏子",
+        "野中弥生",
+        "鈴木芳宗"
+      ]
+    },
+    {
+      "id": "715ea958cc745252b008",
+      "place": "新座市",
+      "season": "spring",
+      "date": "2026-03-17",
+      "title": "2026-03-17 本会議録",
+      "url": "https://niiza.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%82P%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E17%93%FA-10%8D%86&KGNO=538&FINO=2101&UNID=K_R08031700101",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "島田久仁代",
+        "片山敏子",
+        "田口訓子",
+        "谷地田庸子",
+        "鈴木芳宗"
+      ]
+    },
+    {
+      "id": "a602a87b9abd1e95de2e",
+      "place": "新座市",
+      "season": "spring",
+      "date": "2026-03-18",
+      "title": "2026-03-18 本会議録",
+      "url": "https://niiza.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%82P%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E18%93%FA-11%8D%86&KGNO=538&FINO=2102&UNID=K_R08031800111",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "よねはしゆうた",
+        "伊藤信太郎",
+        "佐藤重忠",
+        "小野大輔",
+        "笠原進",
+        "鈴木芳宗"
+      ]
+    },
+    {
+      "id": "646a79f557ddd2b28f3b",
+      "place": "新座市",
+      "season": "spring",
+      "date": "2026-03-19",
+      "title": "2026-03-19 本会議録",
+      "url": "https://niiza.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%82P%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E19%93%FA-12%8D%86&KGNO=538&FINO=2103&UNID=K_R08031900121",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "小野大輔",
+        "小野由美子",
+        "石島陽子",
+        "鈴木芳宗",
+        "黒田実樹"
+      ]
+    },
+    {
+      "id": "10f651351ad0bfcdc8b2",
+      "place": "新座市",
+      "season": "spring",
+      "date": "2026-03-23",
+      "title": "2026-03-23 本会議録",
+      "url": "https://niiza.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%82P%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E23%93%FA-13%8D%86&KGNO=538&FINO=2104&UNID=K_R08032300131",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "川村よしひさ",
+        "白井忠雄",
+        "鈴木芳宗",
+        "高邑朋矢"
+      ]
+    },
+    {
+      "id": "8172a2ad9615112da385",
+      "place": "新座市",
+      "season": "spring",
+      "date": "2026-03-25",
+      "title": "2026-03-25 本会議録",
+      "url": "https://niiza.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%82P%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E25%93%FA-14%8D%86&KGNO=538&FINO=2105&UNID=K_R08032500141",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "よねはしゆうた",
+        "伊藤智砂子",
+        "助川昇",
+        "小野大輔",
+        "小野由美子",
+        "島田久仁代",
+        "池田貞雄",
+        "田口訓子",
+        "白井忠雄",
+        "石島陽子",
+        "笠原進",
+        "谷地田庸子",
+        "鈴木芳宗",
+        "黒田実樹"
+      ]
+    },
+    {
+      "id": "3fa4c444274b33d77600",
+      "place": "新座市",
+      "season": "spring",
+      "date": "2026-03-26",
+      "title": "2026-03-26 本会議録",
+      "url": "https://niiza.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%82P%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E26%93%FA-15%8D%86&KGNO=538&FINO=2106&UNID=K_R08032600151",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "伊藤智砂子",
+        "小野大輔",
+        "小野由美子",
+        "島田久仁代",
+        "嶋野加代",
+        "白井忠雄",
+        "笠原進",
+        "谷地田庸子",
+        "野中弥生",
+        "鈴木芳宗",
+        "高邑朋矢"
+      ]
+    },
+    {
+      "id": "2aed7e984bbb809864b3",
+      "place": "新座市",
+      "season": "spring",
+      "date": "2026-03-27",
+      "title": "2026-03-27 本会議録",
+      "url": "https://niiza.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%82P%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E27%93%FA-16%8D%86&KGNO=538&FINO=2107&UNID=K_R08032700161",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "堀内博史",
+        "小野大輔",
+        "小野由美子",
+        "島田久仁代",
+        "白井忠雄",
+        "石島陽子",
+        "笠原進",
+        "鈴木芳宗",
+        "高邑朋矢",
+        "黒田実樹"
+      ]
+    },
+    {
+      "id": "e9dd829006c7659c09a2",
+      "place": "新座市",
+      "season": "summer",
+      "date": "2026-05-29",
+      "title": "2026-05-29 本会議録",
+      "url": "https://niiza.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%82Q%89%F1%92%E8%97%E1%89%EF%81%7C05%8C%8E29%93%FA-01%8D%86&KGNO=544&FINO=2110&UNID=K_R08052900011",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "小野大輔",
+        "鈴木芳宗"
+      ]
+    },
+    {
+      "id": "d0b8fb451facf9d75a99",
+      "place": "新座市",
+      "season": "summer",
+      "date": "2026-06-05",
+      "title": "2026-06-05 本会議録",
+      "url": "https://niiza.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%82Q%89%F1%92%E8%97%E1%89%EF%81%7C06%8C%8E05%93%FA-03%8D%86&KGNO=544&FINO=2116&UNID=K_R08060500031",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "伊藤信太郎",
+        "堀内博史",
+        "島田久仁代",
+        "嶋野加代",
+        "鈴木明子",
+        "鈴木芳宗"
+      ]
+    },
+    {
+      "id": "f1ae9050fbf244c39d51",
+      "place": "新座市",
+      "season": "summer",
+      "date": "2026-06-08",
+      "title": "2026-06-08 本会議録",
+      "url": "https://niiza.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%82Q%89%F1%92%E8%97%E1%89%EF%81%7C06%8C%8E08%93%FA-04%8D%86&KGNO=544&FINO=2117&UNID=K_R08060800041",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "上田美小枝",
+        "小野大輔",
+        "笠原進",
+        "野中弥生",
+        "鈴木明子",
+        "鈴木芳宗"
+      ]
+    },
+    {
+      "id": "7676693f25d57fdbf760",
+      "place": "新座市",
+      "season": "summer",
+      "date": "2026-06-11",
+      "title": "2026-06-11 本会議録",
+      "url": "https://niiza.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%82Q%89%F1%92%E8%97%E1%89%EF%81%7C06%8C%8E11%93%FA-05%8D%86&KGNO=544&FINO=2118&UNID=K_R08061100051",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "伊藤智砂子",
+        "片山敏子",
+        "谷地田庸子",
+        "鈴木明子",
+        "鈴木秀一",
+        "鈴木芳宗"
+      ]
+    },
+    {
+      "id": "f783d022f27ba0d49b46",
+      "place": "新座市",
+      "season": "summer",
+      "date": "2026-06-12",
+      "title": "2026-06-12 本会議録",
+      "url": "https://niiza.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%82Q%89%F1%92%E8%97%E1%89%EF%81%7C06%8C%8E12%93%FA-06%8D%86&KGNO=544&FINO=2119&UNID=K_R08061200061",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "よねはしゆうた",
+        "山口歩",
+        "島田久仁代",
+        "田口訓子",
+        "鈴木明子",
+        "鈴木芳宗"
+      ]
+    },
+    {
+      "id": "8fad0d24c7b47c1543bb",
+      "place": "新座市",
+      "season": "summer",
+      "date": "2026-06-15",
+      "title": "2026-06-15 本会議録",
+      "url": "https://niiza.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%82Q%89%F1%92%E8%97%E1%89%EF%81%7C06%8C%8E15%93%FA-07%8D%86&KGNO=544&FINO=2120&UNID=K_R08061500071",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "小野由美子",
+        "川村よしひさ",
+        "石島陽子",
+        "鈴木芳宗",
+        "黒田実樹"
+      ]
+    },
+    {
+      "id": "4c4fbe8699f9f4599fa7",
+      "place": "新座市",
+      "season": "summer",
+      "date": "2026-06-16",
+      "title": "2026-06-16 本会議録",
+      "url": "https://niiza.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%82Q%89%F1%92%E8%97%E1%89%EF%81%7C06%8C%8E16%93%FA-08%8D%86&KGNO=544&FINO=2121&UNID=K_R08061600081",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "佐藤重忠",
+        "川村よしひさ",
+        "白井忠雄",
+        "石島陽子",
+        "鈴木芳宗",
+        "高邑朋矢"
+      ]
+    },
+    {
+      "id": "d86a4c1704812755dae5",
+      "place": "新座市",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "2026-06-19 本会議録",
+      "url": "https://niiza.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%82Q%89%F1%92%E8%97%E1%89%EF%81%7C06%8C%8E19%93%FA-09%8D%86&KGNO=544&FINO=2122&UNID=K_R08061900091",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "よねはしゆうた",
+        "上田美小枝",
+        "伊藤智砂子",
+        "佐藤重忠",
+        "助川昇",
+        "小野大輔",
+        "小野由美子",
+        "島田久仁代",
+        "石島陽子",
+        "谷地田庸子",
+        "鈴木秀一",
+        "鈴木芳宗",
+        "高邑朋矢",
+        "黒田実樹"
+      ]
+    },
+    {
+      "id": "c67a16343638a641d35a",
+      "place": "新座市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "市議会だより 令和8年第3回定例会 No238 議会だより（2026年11月25日発行号） （別ウィンドウ・PDFファイル・3.71MB）",
+      "url": "https://www.city.niiza.lg.jp/uploaded/attachment/74879.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。 OCRの確認警告があるPDF 1、2、3、4、5、6、8、10、11、12頁を除外しています。",
+      "speakers": []
+    },
+    {
+      "id": "a71b04b7710df46215e8",
+      "place": "日高市",
+      "season": "spring",
+      "date": "2026-03-10",
+      "title": "03月10日－一般質問－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/saihidaka/SpMinuteView.html?tenant_id=44&council_id=384&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "佐藤真",
+        "和田貴弘",
+        "小谷野五成",
+        "横尾貴文",
+        "金子博"
+      ]
+    },
+    {
+      "id": "0a7274b1419be3b702b9",
+      "place": "日高市",
+      "season": "spring",
+      "date": "2026-03-11",
+      "title": "03月11日－一般質問－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/saihidaka/SpMinuteView.html?tenant_id=44&council_id=384&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "三木伸也",
+        "加藤大輔",
+        "加藤将伍",
+        "山田一繁",
+        "新井均",
+        "金子博"
+      ]
+    },
+    {
+      "id": "d92151f74e48307361de",
+      "place": "日高市",
+      "season": "spring",
+      "date": "2026-03-12",
+      "title": "03月12日－一般質問－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/saihidaka/SpMinuteView.html?tenant_id=44&council_id=384&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "加藤大輔",
+        "城所美奈子",
+        "成田奈緒子",
+        "金子博",
+        "鈴木健夫"
+      ]
+    },
+    {
+      "id": "183b371a2d3e22c44905",
+      "place": "日高市",
+      "season": "summer",
+      "date": "2026-05-27",
+      "title": "05月27日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/saihidaka/SpMinuteView.html?tenant_id=44&council_id=386&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "和田貴弘"
+      ]
+    },
+    {
+      "id": "3b5ed5f64d400119c3a6",
+      "place": "日高市",
+      "season": "summer",
+      "date": "2026-06-02",
+      "title": "06月02日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/saihidaka/SpMinuteView.html?tenant_id=44&council_id=386&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "佐藤真",
+        "和田貴弘"
+      ]
+    },
+    {
+      "id": "ded7ecfec9093217861b",
+      "place": "日高市",
+      "season": "summer",
+      "date": "2026-06-09",
+      "title": "06月09日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/saihidaka/SpMinuteView.html?tenant_id=44&council_id=386&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "三木伸也",
+        "佐藤真",
+        "加藤大輔",
+        "加藤将伍",
+        "和田貴弘"
+      ]
+    },
+    {
+      "id": "7525bd2850210881b2b1",
+      "place": "日高市",
+      "season": "summer",
+      "date": "2026-06-10",
+      "title": "06月10日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/saihidaka/SpMinuteView.html?tenant_id=44&council_id=386&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "和田貴弘",
+        "山田一繁",
+        "新井均",
+        "横尾貴文",
+        "鈴木健夫"
+      ]
+    },
+    {
+      "id": "0e0b053fd68e09e76f1b",
+      "place": "日高市",
+      "season": "summer",
+      "date": "2026-06-11",
+      "title": "06月11日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/saihidaka/SpMinuteView.html?tenant_id=44&council_id=386&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "和田貴弘",
+        "城所美奈子",
+        "小谷野五成",
+        "成田奈緒子",
+        "近藤沙織"
+      ]
+    },
+    {
+      "id": "f061d7be29c4e4aba0ab",
+      "place": "日高市",
+      "season": "summer",
+      "date": "2026-06-16",
+      "title": "06月16日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/saihidaka/SpMinuteView.html?tenant_id=44&council_id=386&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "和田貴弘",
+        "城所美奈子",
+        "山田一繁",
+        "新井均"
+      ]
+    },
+    {
+      "id": "be32e2e0190eb1966ead",
+      "place": "春日部市",
+      "season": "spring",
+      "date": "2026-02-16",
+      "title": "2026-02-16 本会議録",
+      "url": "https://www.kasukabe-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82R%8C%8E%92%E8%97%E1%89%EF%81%7C02%8C%8E16%93%FA-01%8D%86&KGNO=1390&FINO=2264&UNID=K_R08021600011",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "小久保博史"
+      ]
+    },
+    {
+      "id": "a0e09467f79735ca0f95",
+      "place": "春日部市",
+      "season": "spring",
+      "date": "2026-02-24",
+      "title": "2026-02-24 本会議録",
+      "url": "https://www.kasukabe-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82R%8C%8E%92%E8%97%E1%89%EF%81%7C02%8C%8E24%93%FA-02%8D%86&KGNO=1390&FINO=2266&UNID=K_R08022400021",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "吉田稔",
+        "小久保博史",
+        "平沢一博",
+        "鈴木一利",
+        "鬼丸裕史"
+      ]
+    },
+    {
+      "id": "a94826f0954751cf5227",
+      "place": "春日部市",
+      "season": "spring",
+      "date": "2026-02-25",
+      "title": "2026-02-25 本会議録",
+      "url": "https://www.kasukabe-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82R%8C%8E%92%E8%97%E1%89%EF%81%7C02%8C%8E25%93%FA-03%8D%86&KGNO=1390&FINO=2267&UNID=K_R08022500031",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "古沢耕作",
+        "大野とし子",
+        "小久保博史",
+        "平沢一博",
+        "永田飛鳳"
+      ]
+    },
+    {
+      "id": "35f1011beffbcddd0fe3",
+      "place": "春日部市",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "2026-02-26 本会議録",
+      "url": "https://www.kasukabe-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82R%8C%8E%92%E8%97%E1%89%EF%81%7C02%8C%8E26%93%FA-04%8D%86&KGNO=1390&FINO=2270&UNID=K_R08022600041",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中村貴彰",
+        "古沢耕作",
+        "大野とし子",
+        "小久保博史",
+        "永田飛鳳",
+        "石川友和",
+        "藤原智子"
+      ]
+    },
+    {
+      "id": "10c9b0be9046e9ba1e0c",
+      "place": "春日部市",
+      "season": "spring",
+      "date": "2026-02-27",
+      "title": "2026-02-27 本会議録",
+      "url": "https://www.kasukabe-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82R%8C%8E%92%E8%97%E1%89%EF%81%7C02%8C%8E27%93%FA-05%8D%86&KGNO=1390&FINO=2272&UNID=K_R08022700051",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "伊藤一洋",
+        "吉田稔",
+        "奥沢裕介",
+        "平沢一博",
+        "榛野博",
+        "石川友和",
+        "阿部雅一"
+      ]
+    },
+    {
+      "id": "9febd3a94cbf053b93a7",
+      "place": "春日部市",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "2026-03-02 本会議録",
+      "url": "https://www.kasukabe-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82R%8C%8E%92%E8%97%E1%89%EF%81%7C03%8C%8E02%93%FA-06%8D%86&KGNO=1390&FINO=2274&UNID=K_R08030200061",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "大野とし子",
+        "小久保博史"
+      ]
+    },
+    {
+      "id": "6b72e19035c71871e6ce",
+      "place": "春日部市",
+      "season": "spring",
+      "date": "2026-03-09",
+      "title": "2026-03-09 本会議録",
+      "url": "https://www.kasukabe-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82R%8C%8E%92%E8%97%E1%89%EF%81%7C03%8C%8E09%93%FA-07%8D%86&KGNO=1390&FINO=2284&UNID=K_R08030900071",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "大里昇",
+        "平沢一博",
+        "榛野博",
+        "石川友和",
+        "藤原智子"
+      ]
+    },
+    {
+      "id": "7ac3677aeb7e831d8fd4",
+      "place": "春日部市",
+      "season": "spring",
+      "date": "2026-03-10",
+      "title": "2026-03-10 本会議録",
+      "url": "https://www.kasukabe-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82R%8C%8E%92%E8%97%E1%89%EF%81%7C03%8C%8E10%93%FA-08%8D%86&KGNO=1390&FINO=2287&UNID=K_R08031000081",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "奥沢裕介",
+        "小久保博史",
+        "木村圭一",
+        "水沼日出夫",
+        "鬼丸裕史"
+      ]
+    },
+    {
+      "id": "b48d03f754bca23da59b",
+      "place": "春日部市",
+      "season": "spring",
+      "date": "2026-03-12",
+      "title": "2026-03-12 本会議録",
+      "url": "https://www.kasukabe-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82R%8C%8E%92%E8%97%E1%89%EF%81%7C03%8C%8E12%93%FA-09%8D%86&KGNO=1390&FINO=2288&UNID=K_R08031200091",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中村貴彰",
+        "伊藤一洋",
+        "石川友和"
+      ]
+    },
+    {
+      "id": "445bdd2d205f5f31c6a8",
+      "place": "春日部市",
+      "season": "spring",
+      "date": "2026-03-16",
+      "title": "2026-03-16 本会議録",
+      "url": "https://www.kasukabe-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82R%8C%8E%92%E8%97%E1%89%EF%81%7C03%8C%8E16%93%FA-10%8D%86&KGNO=1390&FINO=2289&UNID=K_R08031600101",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "吉田稔",
+        "大野とし子",
+        "小久保博史",
+        "山崎進",
+        "阿部雅一"
+      ]
+    },
+    {
+      "id": "5a812aeb64e09d44982b",
+      "place": "春日部市",
+      "season": "spring",
+      "date": "2026-03-17",
+      "title": "2026-03-17 本会議録",
+      "url": "https://www.kasukabe-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82R%8C%8E%92%E8%97%E1%89%EF%81%7C03%8C%8E17%93%FA-11%8D%86&KGNO=1390&FINO=2291&UNID=K_R08031700111",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "古沢耕作",
+        "小久保博史",
+        "永田飛鳳",
+        "石川友和",
+        "鈴木一利"
+      ]
+    },
+    {
+      "id": "a08b05cd4b7ecd1851d6",
+      "place": "春日部市",
+      "season": "spring",
+      "date": "2026-03-19",
+      "title": "2026-03-19 本会議録",
+      "url": "https://www.kasukabe-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82R%8C%8E%92%E8%97%E1%89%EF%81%7C03%8C%8E19%93%FA-12%8D%86&KGNO=1390&FINO=2292&UNID=K_R08031900121",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "古沢耕作",
+        "吉田稔",
+        "大野とし子",
+        "小久保博史",
+        "平沢一博",
+        "木村圭一",
+        "榛野博",
+        "永田飛鳳",
+        "鬼丸裕史"
+      ]
+    },
+    {
+      "id": "d57d429674fd64e27f48",
+      "place": "春日部市",
+      "season": "summer",
+      "date": "2026-05-28",
+      "title": "2026-05-28 本会議録",
+      "url": "https://www.kasukabe-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82U%8C%8E%92%E8%97%E1%89%EF%81%7C05%8C%8E28%93%FA-01%8D%86&KGNO=1421&FINO=2311&UNID=K_R08052800011",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "小久保博史",
+        "山崎進",
+        "木村圭一",
+        "角田妙子"
+      ]
+    },
+    {
+      "id": "462eed9095dcbbc080de",
+      "place": "春日部市",
+      "season": "summer",
+      "date": "2026-06-02",
+      "title": "2026-06-02 本会議録",
+      "url": "https://www.kasukabe-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82U%8C%8E%92%E8%97%E1%89%EF%81%7C06%8C%8E02%93%FA-02%8D%86&KGNO=1421&FINO=2312&UNID=K_R08060200021",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "卯月武彦",
+        "古沢耕作",
+        "大里昇",
+        "大野とし子",
+        "小久保博史",
+        "松本浩一",
+        "榛野博",
+        "永田飛鳳",
+        "鈴木一利",
+        "阿部雅一"
+      ]
+    },
+    {
+      "id": "47e3b63386ff0a70a232",
+      "place": "春日部市",
+      "season": "summer",
+      "date": "2026-06-08",
+      "title": "2026-06-08 本会議録",
+      "url": "https://www.kasukabe-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82U%8C%8E%92%E8%97%E1%89%EF%81%7C06%8C%8E08%93%FA-03%8D%86&KGNO=1421&FINO=2320&UNID=K_R08060800031",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "伊藤一洋",
+        "大里昇",
+        "小久保博史",
+        "山崎進",
+        "松本浩一",
+        "水沼日出夫",
+        "鬼丸裕史"
+      ]
+    },
+    {
+      "id": "9ce71b043476f3a87703",
+      "place": "春日部市",
+      "season": "summer",
+      "date": "2026-06-09",
+      "title": "2026-06-09 本会議録",
+      "url": "https://www.kasukabe-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82U%8C%8E%92%E8%97%E1%89%EF%81%7C06%8C%8E09%93%FA-04%8D%86&KGNO=1421&FINO=2321&UNID=K_R08060900041",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "卯月武彦",
+        "吉田稔",
+        "奥沢裕介",
+        "小久保博史",
+        "平沢一博",
+        "藤原智子",
+        "鈴木一利"
+      ]
+    },
+    {
+      "id": "d1df11e5bedc1f035870",
+      "place": "春日部市",
+      "season": "summer",
+      "date": "2026-06-11",
+      "title": "2026-06-11 本会議録",
+      "url": "https://www.kasukabe-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82U%8C%8E%92%E8%97%E1%89%EF%81%7C06%8C%8E11%93%FA-05%8D%86&KGNO=1421&FINO=2324&UNID=K_R08061100051",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "宗像英男",
+        "島田美智子",
+        "木村圭一",
+        "落合桜花",
+        "角田妙子",
+        "遠藤彩生"
+      ]
+    },
+    {
+      "id": "8cd84c50b2adde8f7277",
+      "place": "春日部市",
+      "season": "summer",
+      "date": "2026-06-15",
+      "title": "2026-06-15 本会議録",
+      "url": "https://www.kasukabe-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82U%8C%8E%92%E8%97%E1%89%EF%81%7C06%8C%8E15%93%FA-06%8D%86&KGNO=1421&FINO=2325&UNID=K_R08061500061",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中村貴彰",
+        "大野とし子",
+        "小久保博史",
+        "木村圭一",
+        "水書祐美子",
+        "阿部雅一"
+      ]
+    },
+    {
+      "id": "b2fade59c4b4df3c2b50",
+      "place": "春日部市",
+      "season": "summer",
+      "date": "2026-06-16",
+      "title": "2026-06-16 本会議録",
+      "url": "https://www.kasukabe-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82U%8C%8E%92%E8%97%E1%89%EF%81%7C06%8C%8E16%93%FA-07%8D%86&KGNO=1421&FINO=2327&UNID=K_R08061600071",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "北谷大地",
+        "古沢耕作",
+        "大野とし子",
+        "富田豊",
+        "小久保博史",
+        "桑原弘樹",
+        "榛野博"
+      ]
+    },
+    {
+      "id": "4be5773e2a17bf4e1341",
+      "place": "春日部市",
+      "season": "summer",
+      "date": "2026-06-18",
+      "title": "2026-06-18 本会議録",
+      "url": "https://www.kasukabe-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82U%8C%8E%92%E8%97%E1%89%EF%81%7C06%8C%8E18%93%FA-08%8D%86&KGNO=1421&FINO=2330&UNID=K_R08061800081",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中村貴彰",
+        "卯月武彦",
+        "吉田稔",
+        "大野とし子",
+        "小久保博史",
+        "山崎進",
+        "平沢一博",
+        "松本浩一",
+        "水沼日出夫",
+        "藤原智子",
+        "鈴木一利",
+        "阿部雅一"
+      ]
+    },
+    {
+      "id": "8f08e15bc3cfe988449d",
+      "place": "春日部市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "春日部市議会だより85号・9月定例会",
+      "url": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Koho/Kh95_85all.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
+      "speakers": []
+    },
+    {
+      "id": "931ed30066836c4414f1",
+      "place": "朝霞市",
+      "season": "spring",
+      "date": "2026-02-20",
+      "title": "02月20日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1112&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "野本一幸"
+      ]
+    },
+    {
+      "id": "787ea57af21fe1d880b0",
+      "place": "朝霞市",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "03月02日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1112&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "外山麻貴",
+        "本田麻希子",
+        "田原亮",
+        "田辺淳",
+        "石川啓子",
+        "西明",
+        "野本一幸",
+        "飯倉一樹",
+        "駒牧容子",
+        "高堀亮太郎",
+        "黒川滋"
+      ]
+    },
+    {
+      "id": "c7f4e45fdd87aea4fad6",
+      "place": "朝霞市",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "03月03日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1112&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "外山麻貴",
+        "本田麻希子",
+        "田辺淳",
+        "石川啓子",
+        "福川鷹子",
+        "野本一幸",
+        "飯倉一樹",
+        "高堀亮太郎",
+        "黒川滋"
+      ]
+    },
+    {
+      "id": "72da4beb2ae8c4d68d92",
+      "place": "朝霞市",
+      "season": "spring",
+      "date": "2026-03-12",
+      "title": "03月12日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1112&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "兼本尚昌",
+        "増田ともみ",
+        "宮林智美",
+        "岡﨑和広",
+        "田原亮",
+        "福川鷹子",
+        "西明",
+        "遠藤光博",
+        "野本一幸",
+        "駒牧容子",
+        "高堀亮太郎"
+      ]
+    },
+    {
+      "id": "1ce7132f7e49dec86487",
+      "place": "朝霞市",
+      "season": "spring",
+      "date": "2026-03-16",
+      "title": "03月16日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1112&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "ごん純一",
+        "本田麻希子",
+        "渡部竜二",
+        "獅子倉晴樹",
+        "石原茂",
+        "野本一幸",
+        "飯倉一樹",
+        "黒川滋"
+      ]
+    },
+    {
+      "id": "30a6d41cc74b654b875d",
+      "place": "朝霞市",
+      "season": "spring",
+      "date": "2026-03-17",
+      "title": "03月17日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1112&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "利根川仁志",
+        "外山麻貴",
+        "田辺淳",
+        "石川啓子",
+        "野本一幸"
+      ]
+    },
+    {
+      "id": "182928410c8431826068",
+      "place": "朝霞市",
+      "season": "spring",
+      "date": "2026-03-23",
+      "title": "03月23日－07号",
+      "url": "https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1112&schedule_id=8",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "ごん純一",
+        "利根川仁志",
+        "増田ともみ",
+        "本田麻希子",
+        "獅子倉晴樹",
+        "田原亮",
+        "田辺淳",
+        "石原茂",
+        "石川啓子",
+        "野本一幸",
+        "陶山憲雅",
+        "飯倉一樹",
+        "高堀亮太郎",
+        "黒川滋"
+      ]
+    },
+    {
+      "id": "9d4f3ba379bd2b9b50b9",
+      "place": "朝霞市",
+      "season": "summer",
+      "date": "2026-06-05",
+      "title": "06月05日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1131&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "野本一幸"
+      ]
+    },
+    {
+      "id": "5b7a250a6c17280cdcd2",
+      "place": "朝霞市",
+      "season": "summer",
+      "date": "2026-06-11",
+      "title": "06月11日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1131&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "本田麻希子",
+        "田原亮",
+        "田辺淳",
+        "石川啓子",
+        "野本一幸",
+        "駒牧容子",
+        "黒川滋"
+      ]
+    },
+    {
+      "id": "afe386bcf3412f5d7148",
+      "place": "朝霞市",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "06月22日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1131&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "兼本尚昌",
+        "増田ともみ",
+        "宮林智美",
+        "岡﨑和広",
+        "田原亮",
+        "福川鷹子",
+        "西明",
+        "遠藤光博",
+        "野本一幸",
+        "駒牧容子",
+        "高堀亮太郎"
+      ]
+    },
+    {
+      "id": "6db03f946854435b980a",
+      "place": "朝霞市",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "06月23日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1131&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "ごん純一",
+        "本田麻希子",
+        "渡部竜二",
+        "田辺淳",
+        "野本一幸",
+        "陶山憲雅",
+        "黒川滋"
+      ]
+    },
+    {
+      "id": "eac469a68913f7996d3b",
+      "place": "朝霞市",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "06月24日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1131&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "利根川仁志",
+        "外山麻貴",
+        "石川啓子",
+        "野本一幸",
+        "飯倉一樹"
+      ]
+    },
+    {
+      "id": "2d33d3e7f9e8c568c746",
+      "place": "朝霞市",
+      "season": "summer",
+      "date": "2026-06-26",
+      "title": "06月26日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1131&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "増田ともみ",
+        "本田麻希子",
+        "獅子倉晴樹",
+        "田原亮",
+        "田辺淳",
+        "石原茂",
+        "石川啓子",
+        "野本一幸",
+        "陶山憲雅",
+        "飯倉一樹",
+        "高堀亮太郎",
+        "黒川滋"
+      ]
+    },
+    {
+      "id": "f8ce9f99989668723e7f",
+      "place": "朝霞市",
+      "season": "fall",
+      "date": "2026-08-27",
+      "title": "08月27日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1142&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "野本一幸"
+      ]
+    },
+    {
+      "id": "003705d35e91b15307bb",
+      "place": "朝霞市",
+      "season": "fall",
+      "date": "2026-09-03",
+      "title": "09月03日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1142&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "外山麻貴",
+        "本田麻希子",
+        "田原亮",
+        "田辺淳",
+        "遠藤光博",
+        "野本一幸",
+        "飯倉一樹",
+        "黒川滋"
+      ]
+    },
+    {
+      "id": "c3115941b995670697c5",
+      "place": "朝霞市",
+      "season": "fall",
+      "date": "2026-09-04",
+      "title": "09月04日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1142&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "外山麻貴",
+        "本田麻希子",
+        "田辺淳",
+        "野本一幸",
+        "飯倉一樹",
+        "黒川滋"
+      ]
+    },
+    {
+      "id": "3b791a14175a62e803b9",
+      "place": "朝霞市",
+      "season": "fall",
+      "date": "2026-09-16",
+      "title": "09月16日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1142&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "兼本尚昌",
+        "宮林智美",
+        "岡﨑和広",
+        "田原亮",
+        "福川鷹子",
+        "遠藤光博",
+        "野本一幸",
+        "駒牧容子",
+        "高堀亮太郎"
+      ]
+    },
+    {
+      "id": "526ae2e8640431170afe",
+      "place": "朝霞市",
+      "season": "fall",
+      "date": "2026-09-17",
+      "title": "09月17日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1142&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "ごん純一",
+        "増田ともみ",
+        "渡部竜二",
+        "田辺淳",
+        "西明",
+        "野本一幸",
+        "飯倉一樹"
+      ]
+    },
+    {
+      "id": "80bb84c30d36fdbb7a51",
+      "place": "朝霞市",
+      "season": "fall",
+      "date": "2026-09-18",
+      "title": "09月18日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1142&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "利根川仁志",
+        "外山麻貴",
+        "野本一幸",
+        "黒川滋"
+      ]
+    },
+    {
+      "id": "a5c09c6857a741554636",
+      "place": "朝霞市",
+      "season": "fall",
+      "date": "2026-09-28",
+      "title": "09月28日－07号",
+      "url": "https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1142&schedule_id=8",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "ごん純一",
+        "利根川仁志",
+        "増田ともみ",
+        "宮林智美",
+        "渡部竜二",
+        "獅子倉晴樹",
+        "田原亮",
+        "田辺淳",
+        "石原茂",
+        "石川啓子",
+        "西明",
+        "野本一幸",
+        "陶山憲雅",
+        "飯倉一樹",
+        "黒川滋"
+      ]
+    },
+    {
+      "id": "595a9f09d3dd7af59a21",
+      "place": "本庄市",
+      "season": "spring",
+      "date": "2026-02-25",
+      "title": "02月25日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/honjo/SpMinuteView.html?tenant_id=48&council_id=542&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "加藤栄二",
+        "山田康博",
+        "山田高史",
+        "広瀬伸一"
+      ]
+    },
+    {
+      "id": "3c74d2062bb7b67c133e",
+      "place": "本庄市",
+      "season": "spring",
+      "date": "2026-02-27",
+      "title": "02月27日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/honjo/SpMinuteView.html?tenant_id=48&council_id=542&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "冨田雅寿",
+        "原史子",
+        "原由徳",
+        "図師雄太",
+        "堀口伊代子",
+        "山田康博",
+        "柿沼綾子",
+        "栗田弘志",
+        "田中輝好",
+        "門倉道雄"
+      ]
+    },
+    {
+      "id": "4484128337b1d3bb7d96",
+      "place": "本庄市",
+      "season": "spring",
+      "date": "2026-03-18",
+      "title": "03月18日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/honjo/SpMinuteView.html?tenant_id=48&council_id=542&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "倉林益代",
+        "冨田雅寿",
+        "図師雄太",
+        "堀口伊代子",
+        "山田康博",
+        "早野清",
+        "栗田弘志"
+      ]
+    },
+    {
+      "id": "35de0fc9d8e9f0f08218",
+      "place": "本庄市",
+      "season": "spring",
+      "date": "2026-03-19",
+      "title": "03月19日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/honjo/SpMinuteView.html?tenant_id=48&council_id=542&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "内田英亮",
+        "加藤栄二",
+        "原由徳",
+        "小賀野健司",
+        "山口豊",
+        "山田康博",
+        "山田高史",
+        "広瀬伸一",
+        "朝比奈知恵子",
+        "柿沼綾子",
+        "矢野間規"
+      ]
+    },
+    {
+      "id": "f6abeb2e659f73973c03",
+      "place": "本庄市",
+      "season": "spring",
+      "date": "2026-03-23",
+      "title": "03月23日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/honjo/SpMinuteView.html?tenant_id=48&council_id=542&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "出牛順一",
+        "原史子",
+        "山田康博",
+        "田中輝好",
+        "門倉道雄"
+      ]
+    },
+    {
+      "id": "72f5a4549dc7fad98003",
+      "place": "本庄市",
+      "season": "spring",
+      "date": "2026-03-25",
+      "title": "03月25日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/honjo/SpMinuteView.html?tenant_id=48&council_id=542&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "冨田雅寿",
+        "原史子",
+        "堀口伊代子",
+        "小賀野健司",
+        "山田康博",
+        "早野清",
+        "柿沼綾子",
+        "門倉道雄"
+      ]
+    },
+    {
+      "id": "8495af1c5fbb813bdbd2",
+      "place": "本庄市",
+      "season": "summer",
+      "date": "2026-05-28",
+      "title": "05月28日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/honjo/SpMinuteView.html?tenant_id=48&council_id=547&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "山田康博",
+        "広瀬伸一",
+        "朝比奈知恵子",
+        "栗田弘志"
+      ]
+    },
+    {
+      "id": "38b33c19b7b09f8f8b32",
+      "place": "本庄市",
+      "season": "summer",
+      "date": "2026-06-01",
+      "title": "06月01日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/honjo/SpMinuteView.html?tenant_id=48&council_id=547&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "原史子",
+        "原由徳",
+        "山田康博",
+        "柿沼綾子"
+      ]
+    },
+    {
+      "id": "80a96414252063398a96",
+      "place": "本庄市",
+      "season": "summer",
+      "date": "2026-06-18",
+      "title": "06月18日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/honjo/SpMinuteView.html?tenant_id=48&council_id=547&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "出牛順一",
+        "山田康博",
+        "早野清",
+        "朝比奈知恵子",
+        "田中輝好",
+        "門倉道雄"
+      ]
+    },
+    {
+      "id": "9fbbe8244ac471e9d0ff",
+      "place": "本庄市",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "06月19日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/honjo/SpMinuteView.html?tenant_id=48&council_id=547&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "倉林益代",
+        "内田英亮",
+        "冨田雅寿",
+        "原由徳",
+        "図師雄太",
+        "小賀野健司",
+        "山口豊",
+        "山田康博",
+        "山田高史",
+        "栗田弘志",
+        "田中輝好"
+      ]
+    },
+    {
+      "id": "9180a2e53da844b21732",
+      "place": "本庄市",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "06月22日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/honjo/SpMinuteView.html?tenant_id=48&council_id=547&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "加藤栄二",
+        "原史子",
+        "堀口伊代子",
+        "山田康博",
+        "柿沼綾子",
+        "田中輝好",
+        "矢野間規"
+      ]
+    },
+    {
+      "id": "4142b2a7d3c3e590dbb7",
+      "place": "本庄市",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "06月24日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/honjo/SpMinuteView.html?tenant_id=48&council_id=547&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "冨田雅寿",
+        "堀口伊代子",
+        "小賀野健司",
+        "山田康博",
+        "早野清",
+        "柿沼綾子",
+        "門倉道雄"
+      ]
+    },
+    {
+      "id": "b3f7064ddf3e76e881dc",
+      "place": "本庄市",
+      "season": "fall",
+      "date": "2026-08-25",
+      "title": "08月25日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/honjo/SpMinuteView.html?tenant_id=48&council_id=552&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "小賀野健司",
+        "山田康博",
+        "広瀬伸一",
+        "矢野間規"
+      ]
+    },
+    {
+      "id": "a7d84538c1852332dd9a",
+      "place": "本庄市",
+      "season": "fall",
+      "date": "2026-08-27",
+      "title": "08月27日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/honjo/SpMinuteView.html?tenant_id=48&council_id=552&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "冨田雅寿",
+        "原由徳",
+        "堀口伊代子",
+        "山田康博",
+        "柿沼綾子",
+        "栗田弘志"
+      ]
+    },
+    {
+      "id": "37e7d20666fcd93166c2",
+      "place": "本庄市",
+      "season": "fall",
+      "date": "2026-09-14",
+      "title": "09月14日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/honjo/SpMinuteView.html?tenant_id=48&council_id=552&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "原史子",
+        "山田康博",
+        "山田高史",
+        "広瀬伸一",
+        "矢野間規"
+      ]
+    },
+    {
+      "id": "a8a737ea8a769dc38585",
+      "place": "本庄市",
+      "season": "fall",
+      "date": "2026-09-15",
+      "title": "09月15日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/honjo/SpMinuteView.html?tenant_id=48&council_id=552&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "倉林益代",
+        "内田英亮",
+        "冨田雅寿",
+        "加藤栄二",
+        "図師雄太",
+        "小賀野健司",
+        "山口豊",
+        "山田康博",
+        "早野清",
+        "栗田弘志"
+      ]
+    },
+    {
+      "id": "8a148d23cb1628201a52",
+      "place": "本庄市",
+      "season": "fall",
+      "date": "2026-09-16",
+      "title": "09月16日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/honjo/SpMinuteView.html?tenant_id=48&council_id=552&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "出牛順一",
+        "原由徳",
+        "堀口伊代子",
+        "山田康博",
+        "朝比奈知恵子",
+        "柿沼綾子",
+        "田中輝好",
+        "門倉道雄"
+      ]
+    },
+    {
+      "id": "81716449583c8357a468",
+      "place": "本庄市",
+      "season": "fall",
+      "date": "2026-09-18",
+      "title": "09月18日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/honjo/SpMinuteView.html?tenant_id=48&council_id=552&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "冨田雅寿",
+        "堀口伊代子",
+        "小賀野健司",
+        "山田康博",
+        "早野清",
+        "柿沼綾子",
+        "門倉道雄"
+      ]
+    },
+    {
+      "id": "8768736111fc32a3b574",
+      "place": "杉戸町",
+      "season": "spring",
+      "date": "2026-02-18",
+      "title": "02月18日－一般質問－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/sugito/SpMinuteView.html?tenant_id=78&council_id=261&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "上田聡",
+        "伊藤美佐子",
+        "太田康之",
+        "江口栄子",
+        "野口俊彦"
+      ]
+    },
+    {
+      "id": "51625ab427ae0d13ba26",
+      "place": "杉戸町",
+      "season": "spring",
+      "date": "2026-02-19",
+      "title": "02月19日－一般質問－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/sugito/SpMinuteView.html?tenant_id=78&council_id=261&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "上田聡",
+        "冨澤義之",
+        "北出惠造",
+        "宮田雄一"
+      ]
+    },
+    {
+      "id": "9fcbbe07f6223abad7ba",
+      "place": "杉戸町",
+      "season": "spring",
+      "date": "2026-02-24",
+      "title": "02月24日－一般質問－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/sugito/SpMinuteView.html?tenant_id=78&council_id=261&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "上田聡",
+        "久松祐樹",
+        "大橋芳久",
+        "市毛大助",
+        "平川忠良"
+      ]
+    },
+    {
+      "id": "a510b429cc8757c8059d",
+      "place": "杉戸町",
+      "season": "summer",
+      "date": "2026-06-05",
+      "title": "06月05日－一般質問－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/sugito/SpMinuteView.html?tenant_id=78&council_id=266&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "上田聡",
+        "久松祐樹",
+        "伊藤美佐子",
+        "平川忠良",
+        "野口俊彦"
+      ]
+    },
+    {
+      "id": "57d206d960549fec1cf6",
+      "place": "杉戸町",
+      "season": "summer",
+      "date": "2026-06-08",
+      "title": "06月08日－一般質問－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/sugito/SpMinuteView.html?tenant_id=78&council_id=266&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "上田聡",
+        "冨澤義之",
+        "大橋芳久",
+        "太田康之",
+        "宮田雄一",
+        "江口栄子"
+      ]
+    },
+    {
+      "id": "ccac05f4ce5ab31843b3",
+      "place": "杉戸町",
+      "season": "summer",
+      "date": "2026-06-09",
+      "title": "06月09日－一般質問－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/sugito/SpMinuteView.html?tenant_id=78&council_id=266&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "上田聡",
+        "北出惠造",
+        "市毛大助"
+      ]
+    },
+    {
+      "id": "0ae4bb615aa1a9a546dc",
+      "place": "杉戸町",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "杉戸町議会だより133号・町政を問う",
+      "url": "https://www.town.sugito.lg.jp/uploaded/attachment/18196.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
+      "speakers": [
+        "平川忠良",
+        "野口俊彦"
+      ]
+    },
+    {
+      "id": "878638d718204cbdbf0d",
+      "place": "東松山市",
+      "season": "spring",
+      "date": "2026-02-20",
+      "title": "02月20日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/higashimatsuyama/SpMinuteView.html?tenant_id=43&council_id=489&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "藤倉憲"
+      ]
+    },
+    {
+      "id": "a166bf6772f30d0fffc9",
+      "place": "東松山市",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "03月03日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/higashimatsuyama/SpMinuteView.html?tenant_id=43&council_id=489&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "堀内真理子",
+        "安藤和俊",
+        "平澤牧子",
+        "蓮見節",
+        "藤倉憲"
+      ]
+    },
+    {
+      "id": "f266ae708f29d8bceee7",
+      "place": "東松山市",
+      "season": "spring",
+      "date": "2026-03-09",
+      "title": "03月09日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/higashimatsuyama/SpMinuteView.html?tenant_id=43&council_id=489&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "佐藤恵一",
+        "堀内真理子",
+        "安藤和俊",
+        "斎藤雅男",
+        "横田正芳",
+        "藤倉憲",
+        "関口武雄"
+      ]
+    },
+    {
+      "id": "385e7e696a5d15648da4",
+      "place": "東松山市",
+      "season": "spring",
+      "date": "2026-03-10",
+      "title": "03月10日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/higashimatsuyama/SpMinuteView.html?tenant_id=43&council_id=489&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "平澤牧子",
+        "浜田敦子",
+        "米山真澄",
+        "蓮見節",
+        "藤倉憲"
+      ]
+    },
+    {
+      "id": "5d17cf8a494462ff5f68",
+      "place": "東松山市",
+      "season": "spring",
+      "date": "2026-03-12",
+      "title": "03月12日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/higashimatsuyama/SpMinuteView.html?tenant_id=43&council_id=489&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "坂本俊夫",
+        "大山義一",
+        "石川和良",
+        "藤倉憲",
+        "高田正人"
+      ]
+    },
+    {
+      "id": "0e0738d2d807e94d8b96",
+      "place": "東松山市",
+      "season": "spring",
+      "date": "2026-03-19",
+      "title": "03月19日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/higashimatsuyama/SpMinuteView.html?tenant_id=43&council_id=489&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "井上聖子",
+        "堀内真理子",
+        "安藤和俊",
+        "浜田敦子",
+        "蓮見節",
+        "藤倉憲"
+      ]
+    },
+    {
+      "id": "1849e98828c1ab6aa2ef",
+      "place": "東松山市",
+      "season": "summer",
+      "date": "2026-06-02",
+      "title": "06月02日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/higashimatsuyama/SpMinuteView.html?tenant_id=43&council_id=494&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "井上聖子",
+        "佐藤恵一",
+        "大山義一",
+        "斎藤雅男",
+        "福田武彦",
+        "蓮見節",
+        "藤倉憲"
+      ]
+    },
+    {
+      "id": "2838f22610db4a770a6d",
+      "place": "東松山市",
+      "season": "summer",
+      "date": "2026-06-09",
+      "title": "06月09日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/higashimatsuyama/SpMinuteView.html?tenant_id=43&council_id=494&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "堀越博文",
+        "安藤和俊",
+        "藤倉憲",
+        "高田正人"
+      ]
+    },
+    {
+      "id": "6ce39bfb28a0f458272c",
+      "place": "東松山市",
+      "season": "summer",
+      "date": "2026-06-15",
+      "title": "06月15日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/higashimatsuyama/SpMinuteView.html?tenant_id=43&council_id=494&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "佐藤恵一",
+        "堀内真理子",
+        "安藤和俊",
+        "横田正芳",
+        "藤倉憲"
+      ]
+    },
+    {
+      "id": "35e8368d77451592dc68",
+      "place": "東松山市",
+      "season": "summer",
+      "date": "2026-06-16",
+      "title": "06月16日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/higashimatsuyama/SpMinuteView.html?tenant_id=43&council_id=494&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "斎藤雅男",
+        "米山真澄",
+        "藤倉憲"
+      ]
+    },
+    {
+      "id": "9671222a20b275226804",
+      "place": "東松山市",
+      "season": "summer",
+      "date": "2026-06-18",
+      "title": "06月18日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/higashimatsuyama/SpMinuteView.html?tenant_id=43&council_id=494&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "浜田敦子",
+        "蓮見節",
+        "藤倉憲",
+        "関口武雄",
+        "高田正人"
+      ]
+    },
+    {
+      "id": "9a57cbeba66d2d6c3f2d",
+      "place": "東松山市",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "06月19日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/higashimatsuyama/SpMinuteView.html?tenant_id=43&council_id=494&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "大山義一",
+        "平澤牧子",
+        "石川和良",
+        "藤倉憲"
+      ]
+    },
+    {
+      "id": "8ff4a8c95f951e7ef641",
+      "place": "東松山市",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "06月25日－07号",
+      "url": "https://ssp.kaigiroku.net/tenant/higashimatsuyama/SpMinuteView.html?tenant_id=43&council_id=494&schedule_id=8",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "佐藤恵一",
+        "堀内真理子",
+        "安藤和俊",
+        "平澤牧子",
+        "横田正芳",
+        "石川和良",
+        "福田武彦",
+        "蓮見節",
+        "藤倉憲"
+      ]
+    },
+    {
+      "id": "c9708b8541cf51f95fef",
+      "place": "東松山市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "東松山市議会だより11月1日号",
+      "url": "https://www.city.higashimatsuyama.lg.jp/uploaded/attachment/21055.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
+      "speakers": []
+    },
+    {
+      "id": "2c76822b2861a24d05bd",
+      "place": "東秩父村",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "03月03日－一般質問－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/higashichichibu/SpMinuteView.html?tenant_id=91&council_id=114&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "吉野文泰",
+        "渡辺絹代",
+        "田中秀雄",
+        "百瀬浩子",
+        "野口勝則",
+        "鷹野明"
+      ]
+    },
+    {
+      "id": "f40e0c44b179f0c1dca8",
+      "place": "東秩父村",
+      "season": "summer",
+      "date": "2026-06-09",
+      "title": "06月09日－一般質問－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/higashichichibu/SpMinuteView.html?tenant_id=91&council_id=115&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "吉野文泰",
+        "梅澤邦夫",
+        "渡辺絹代",
+        "田中秀雄",
+        "百瀬浩子",
+        "野口勝則",
+        "鷹野明"
+      ]
+    },
+    {
+      "id": "8e38f6c1463cacf7f162",
+      "place": "松伏町",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "令和８年３月定例会（第１号）　本文",
+      "url": "https://www.town.matsubushi.saitama.dbsr.jp/449469?Template=document&Id=1215#one",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "川上力",
+        "田口義博"
+      ]
+    },
+    {
+      "id": "790149f3b1ab45dd318a",
+      "place": "松伏町",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "令和８年３月定例会（第２号）　本文",
+      "url": "https://www.town.matsubushi.saitama.dbsr.jp/449469?Template=document&Id=1217#one",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "増田秀雄",
+        "川上力",
+        "村上真由美",
+        "松岡高志",
+        "田口義博",
+        "砂川清時"
+      ]
+    },
+    {
+      "id": "edb177181cd83a93879d",
+      "place": "松伏町",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "令和８年３月定例会（第３号）　本文",
+      "url": "https://www.town.matsubushi.saitama.dbsr.jp/449469?Template=document&Id=1219#one",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "吉田俊一",
+        "平野千穂",
+        "田口義博"
+      ]
+    },
+    {
+      "id": "334098dae2cb33d9948d",
+      "place": "松伏町",
+      "season": "spring",
+      "date": "2026-03-06",
+      "title": "令和８年３月定例会（第４号）　本文",
+      "url": "https://www.town.matsubushi.saitama.dbsr.jp/449469?Template=document&Id=1221#one",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "佐藤永子",
+        "吉田俊一",
+        "増田秀雄",
+        "川上力",
+        "平野千穂",
+        "村上真由美",
+        "田口義博",
+        "砂川清時"
+      ]
+    },
+    {
+      "id": "5f4f529f9c8f58476d3c",
+      "place": "松伏町",
+      "season": "spring",
+      "date": "2026-03-10",
+      "title": "令和８年３月定例会（第５号）　本文",
+      "url": "https://www.town.matsubushi.saitama.dbsr.jp/190206?Template=document&Id=1223#one",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "佐藤永子",
+        "吉田俊一",
+        "増田秀雄",
+        "川上力",
+        "松岡高志",
+        "田口義博"
+      ]
+    },
+    {
+      "id": "27810b26f63446891158",
+      "place": "松伏町",
+      "season": "spring",
+      "date": "2026-03-12",
+      "title": "令和８年３月定例会（第６号）　本文",
+      "url": "https://www.town.matsubushi.saitama.dbsr.jp/190206?Template=document&Id=1225#one",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "吉田俊一",
+        "増田秀雄",
+        "平野千穂",
+        "村上真由美",
+        "松岡高志",
+        "田口義博",
+        "砂川清時"
+      ]
+    },
+    {
+      "id": "2fa1689b8766ff09ee6a",
+      "place": "松伏町",
+      "season": "spring",
+      "date": "2026-03-16",
+      "title": "令和８年３月定例会（第７号）　本文",
+      "url": "https://www.town.matsubushi.saitama.dbsr.jp/190206?Template=document&Id=1227#one",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "吉田俊一",
+        "増田秀雄",
+        "平野千穂",
+        "村上真由美",
+        "松岡高志",
+        "田口義博",
+        "砂川清時"
+      ]
+    },
+    {
+      "id": "8a434d011d5dc76c1535",
+      "place": "松伏町",
+      "season": "spring",
+      "date": "2026-03-17",
+      "title": "令和８年３月定例会（第８号）　本文",
+      "url": "https://www.town.matsubushi.saitama.dbsr.jp/190206?Template=document&Id=1229#one",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "佐藤永子",
+        "吉田俊一",
+        "増田秀雄",
+        "川上力",
+        "平野千穂",
+        "村上真由美",
+        "松岡高志",
+        "田口義博",
+        "砂川清時",
+        "福井和義"
+      ]
+    },
+    {
+      "id": "0287bb9ed3421b98cc47",
+      "place": "松伏町",
+      "season": "spring",
+      "date": "2026-03-19",
+      "title": "令和８年３月定例会（第９号）　本文",
+      "url": "https://www.town.matsubushi.saitama.dbsr.jp/190206?Template=document&Id=1231#one",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "佐藤永子",
+        "吉田俊一",
+        "増田秀雄",
+        "川上力",
+        "平野千穂",
+        "村上真由美",
+        "田口義博"
+      ]
+    },
+    {
+      "id": "3316b2b3c79562228df7",
+      "place": "松伏町",
+      "season": "summer",
+      "date": "2026-06-05",
+      "title": "令和８年６月定例会（第１号）　本文",
+      "url": "https://www.town.matsubushi.saitama.dbsr.jp/972119?Template=document&Id=1237#one",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "田口義博",
+        "砂川清時"
+      ]
+    },
+    {
+      "id": "37fd991e04a6d2f18fdb",
+      "place": "松伏町",
+      "season": "summer",
+      "date": "2026-06-09",
+      "title": "令和８年６月定例会（第２号）　本文",
+      "url": "https://www.town.matsubushi.saitama.dbsr.jp/972119?Template=document&Id=1239#one",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "増田秀雄",
+        "川上力",
+        "村上真由美",
+        "田口義博",
+        "砂川清時"
+      ]
+    },
+    {
+      "id": "bed35a9fc967d3c31a02",
+      "place": "松伏町",
+      "season": "summer",
+      "date": "2026-06-10",
+      "title": "令和８年６月定例会（第３号）　本文",
+      "url": "https://www.town.matsubushi.saitama.dbsr.jp/972119?Template=document&Id=1241#one",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "佐藤永子",
+        "吉田俊一",
+        "平野千穂",
+        "砂川清時"
+      ]
+    },
+    {
+      "id": "0500ddc74cfc004da29f",
+      "place": "松伏町",
+      "season": "summer",
+      "date": "2026-06-15",
+      "title": "令和８年６月定例会（第４号）　本文",
+      "url": "https://www.town.matsubushi.saitama.dbsr.jp/972119?Template=document&Id=1243#one",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "佐藤永子",
+        "吉田俊一",
+        "増田秀雄",
+        "川上力",
+        "平野千穂",
+        "村上真由美",
+        "田口義博",
+        "砂川清時"
+      ]
+    },
+    {
+      "id": "84021d3b9b8535f7fcf1",
+      "place": "桶川市",
+      "season": "spring",
+      "date": "2026-02-20",
+      "title": "02月20日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/okegawa/SpMinuteView.html?tenant_id=184&council_id=794&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "仲又清美",
+        "北村あやこ",
+        "岡安政彦",
+        "浦田充"
+      ]
+    },
+    {
+      "id": "8dcb36ea3b72dd7ec7a8",
+      "place": "桶川市",
+      "season": "spring",
+      "date": "2026-02-24",
+      "title": "02月24日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/okegawa/SpMinuteView.html?tenant_id=184&council_id=794&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "仲又清美",
+        "北村あやこ",
+        "岡安政彦",
+        "榊萌美",
+        "浦田充",
+        "渡辺まや",
+        "細谷文人",
+        "近本あんな",
+        "須山陽一朗"
+      ]
+    },
+    {
+      "id": "481d5e659ef45210b3c9",
+      "place": "桶川市",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "03月04日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/okegawa/SpMinuteView.html?tenant_id=184&council_id=794&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "北村あやこ",
+        "山中敏正",
+        "岡安政彦",
+        "榊萌美",
+        "浦田充",
+        "渡辺まや",
+        "渡邉光子",
+        "渡邉広美",
+        "砂川和也",
+        "近本あんな",
+        "須山陽一朗"
+      ]
+    },
+    {
+      "id": "3552664c2d403020d191",
+      "place": "桶川市",
+      "season": "spring",
+      "date": "2026-03-12",
+      "title": "03月12日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/okegawa/SpMinuteView.html?tenant_id=184&council_id=794&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "仲又清美",
+        "山中敏正",
+        "岡安政彦",
+        "渡邉光子",
+        "細谷文人",
+        "近本あんな"
+      ]
+    },
+    {
+      "id": "4e29625555adc0190a29",
+      "place": "桶川市",
+      "season": "spring",
+      "date": "2026-03-16",
+      "title": "03月16日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/okegawa/SpMinuteView.html?tenant_id=184&council_id=794&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "岡安政彦",
+        "江森誠一",
+        "浦田充",
+        "渡辺まや",
+        "渡邉広美",
+        "砂川和也"
+      ]
+    },
+    {
+      "id": "1834b439e97bd3998190",
+      "place": "桶川市",
+      "season": "spring",
+      "date": "2026-03-17",
+      "title": "03月17日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/okegawa/SpMinuteView.html?tenant_id=184&council_id=794&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "佐藤洋",
+        "北村あやこ",
+        "岡安政彦",
+        "榊萌美",
+        "糸井政樹",
+        "須山陽一朗"
+      ]
+    },
+    {
+      "id": "8bcbec2daf9bca0c8563",
+      "place": "桶川市",
+      "season": "spring",
+      "date": "2026-03-19",
+      "title": "03月19日－07号",
+      "url": "https://ssp.kaigiroku.net/tenant/okegawa/SpMinuteView.html?tenant_id=184&council_id=794&schedule_id=8",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "北村あやこ",
+        "岡安政彦",
+        "浦田充"
+      ]
+    },
+    {
+      "id": "db646f61297343f5cd02",
+      "place": "桶川市",
+      "season": "spring",
+      "date": "2026-03-25",
+      "title": "03月25日－08号",
+      "url": "https://ssp.kaigiroku.net/tenant/okegawa/SpMinuteView.html?tenant_id=184&council_id=794&schedule_id=9",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "北村あやこ",
+        "山中敏正",
+        "岡安政彦",
+        "江森誠一",
+        "砂川和也"
+      ]
+    },
+    {
+      "id": "a21608820fd9f1dcb74a",
+      "place": "桶川市",
+      "season": "spring",
+      "date": "2026-03-26",
+      "title": "03月26日－09号",
+      "url": "https://ssp.kaigiroku.net/tenant/okegawa/SpMinuteView.html?tenant_id=184&council_id=794&schedule_id=10",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "北村あやこ",
+        "山中敏正",
+        "岡安政彦",
+        "浦田充"
+      ]
+    },
+    {
+      "id": "7a2fd3c39b724ca48bb9",
+      "place": "桶川市",
+      "season": "summer",
+      "date": "2026-06-02",
+      "title": "06月02日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/okegawa/SpMinuteView.html?tenant_id=184&council_id=801&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "仲又清美",
+        "北村あやこ",
+        "岡安政彦",
+        "岩﨑隆志",
+        "江森誠一",
+        "渡邉広美",
+        "砂川和也"
+      ]
+    },
+    {
+      "id": "256f32fd0078cbd57498",
+      "place": "桶川市",
+      "season": "summer",
+      "date": "2026-06-10",
+      "title": "06月10日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/okegawa/SpMinuteView.html?tenant_id=184&council_id=801&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "山中敏正",
+        "岡安政彦",
+        "江森誠一",
+        "渡邉光子",
+        "砂川和也",
+        "細谷文人"
+      ]
+    },
+    {
+      "id": "6d560778e251223fcfe0",
+      "place": "桶川市",
+      "season": "summer",
+      "date": "2026-06-11",
+      "title": "06月11日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/okegawa/SpMinuteView.html?tenant_id=184&council_id=801&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "仲又清美",
+        "岡安政彦",
+        "浦田充",
+        "渡邉広美",
+        "糸井政樹",
+        "近本あんな"
+      ]
+    },
+    {
+      "id": "e9cbab3e44e04212c31f",
+      "place": "桶川市",
+      "season": "summer",
+      "date": "2026-06-12",
+      "title": "06月12日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/okegawa/SpMinuteView.html?tenant_id=184&council_id=801&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "北村あやこ",
+        "岡安政彦",
+        "榊萌美",
+        "渡辺まや"
+      ]
+    },
+    {
+      "id": "c75e77f3a431e19eb768",
+      "place": "桶川市",
+      "season": "summer",
+      "date": "2026-06-17",
+      "title": "06月17日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/okegawa/SpMinuteView.html?tenant_id=184&council_id=801&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "仲又清美",
+        "佐藤洋",
+        "北村あやこ",
+        "山中敏正",
+        "岡安政彦",
+        "榊萌美",
+        "江森誠一",
+        "浦田充",
+        "渡辺まや",
+        "近本あんな",
+        "須山陽一朗"
+      ]
+    },
+    {
+      "id": "4c2e96a18866ba5f16fd",
+      "place": "横瀬町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "令和8年3月定例会・会議録",
+      "url": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/06/%EF%BC%98%EF%BC%8E%EF%BC%93%E6%A8%AA%E7%80%AC%E7%94%BA%E8%A1%A8%E7%B4%99%E6%9C%AC%E6%96%87.pdf",
+      "kind": "公式会議録PDFのOCR転記",
+      "scope": "minutes",
+      "note": "公式PDFの本文をローカルOCRで転記。頁番号はPDF内の位置です。原本を出典として表示します。",
+      "speakers": [
+        "内藤純夫",
+        "向井芳文",
+        "宮原みさ子",
+        "新井鼓次郎",
+        "森沢望美",
+        "若林想一郎",
+        "関貴志",
+        "黒澤克久"
+      ]
+    },
+    {
+      "id": "a55737ba45274679d13b",
+      "place": "横瀬町",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "令和8年6月定例会・会議録",
+      "url": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/09/%EF%BC%98%EF%BC%8E%EF%BC%96%E6%A8%AA%E7%80%AC%E7%94%BA%E8%A1%A8%E7%B4%99%E6%9C%AC%E6%96%87.pdf",
+      "kind": "公式会議録PDFのOCR転記",
+      "scope": "minutes",
+      "note": "公式PDFの本文をローカルOCRで転記。頁番号はPDF内の位置です。原本を出典として表示します。",
+      "speakers": [
+        "向井芳文",
+        "宮原みさ子",
+        "森沢望美",
+        "関根修",
+        "関貴志",
+        "黒澤克久"
+      ]
+    },
+    {
+      "id": "2869c688dd9a58c564d1",
+      "place": "横瀬町",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "横瀬町議会だより152号・9月定例会",
+      "url": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
+      "speakers": []
+    },
+    {
+      "id": "0367ee0c957ffd115fe1",
+      "place": "毛呂山町",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "03月02日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/moroyama/SpMinuteView.html?tenant_id=50&council_id=159&schedule_id=2",
+      "kind": "公開会議録（閲覧用）",
+      "scope": "minutes",
+      "note": "町が閲覧用に公開する会議録の当日本文。町は正式な会議録と区別しています。",
+      "speakers": [
+        "小野浩",
+        "平野隆"
+      ]
+    },
+    {
+      "id": "0b07ab96ae8a98335172",
+      "place": "毛呂山町",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "03月03日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/moroyama/SpMinuteView.html?tenant_id=50&council_id=159&schedule_id=3",
+      "kind": "公開会議録（閲覧用）",
+      "scope": "minutes",
+      "note": "町が閲覧用に公開する会議録の当日本文。町は正式な会議録と区別しています。",
+      "speakers": [
+        "佐島啓晋",
+        "堀江快治",
+        "小峰明雄",
+        "平野隆",
+        "荒木かおる"
+      ]
+    },
+    {
+      "id": "c8ae336b37343db54148",
+      "place": "毛呂山町",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "03月04日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/moroyama/SpMinuteView.html?tenant_id=50&council_id=159&schedule_id=4",
+      "kind": "公開会議録（閲覧用）",
+      "scope": "minutes",
+      "note": "町が閲覧用に公開する会議録の当日本文。町は正式な会議録と区別しています。",
+      "speakers": [
+        "下田泰章",
+        "佐藤秀樹",
+        "千葉三津子",
+        "平野隆",
+        "長瀬衛"
+      ]
+    },
+    {
+      "id": "28b059d56874fbfbda69",
+      "place": "毛呂山町",
+      "season": "spring",
+      "date": "2026-03-05",
+      "title": "03月05日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/moroyama/SpMinuteView.html?tenant_id=50&council_id=159&schedule_id=5",
+      "kind": "公開会議録（閲覧用）",
+      "scope": "minutes",
+      "note": "町が閲覧用に公開する会議録の当日本文。町は正式な会議録と区別しています。",
+      "speakers": [
+        "中村奨平",
+        "岡野勉",
+        "平野隆",
+        "澤田巌",
+        "高橋達夫"
+      ]
+    },
+    {
+      "id": "d381a47c6541efa0e627",
+      "place": "毛呂山町",
+      "season": "spring",
+      "date": "2026-03-06",
+      "title": "03月06日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/moroyama/SpMinuteView.html?tenant_id=50&council_id=159&schedule_id=6",
+      "kind": "公開会議録（閲覧用）",
+      "scope": "minutes",
+      "note": "町が閲覧用に公開する会議録の当日本文。町は正式な会議録と区別しています。",
+      "speakers": [
+        "下田泰章",
+        "中村奨平",
+        "佐藤秀樹",
+        "堀江快治",
+        "小峰明雄",
+        "岡野勉",
+        "平野隆",
+        "荒木かおる",
+        "長瀬衛"
+      ]
+    },
+    {
+      "id": "12696de24c1ab9f49aef",
+      "place": "毛呂山町",
+      "season": "spring",
+      "date": "2026-03-19",
+      "title": "03月19日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/moroyama/SpMinuteView.html?tenant_id=50&council_id=159&schedule_id=7",
+      "kind": "公開会議録（閲覧用）",
+      "scope": "minutes",
+      "note": "町が閲覧用に公開する会議録の当日本文。町は正式な会議録と区別しています。",
+      "speakers": [
+        "中村奨平",
+        "佐藤秀樹",
+        "千葉三津子",
+        "堀江快治",
+        "岡野勉",
+        "平野隆",
+        "荒木かおる",
+        "長瀬衛",
+        "高橋達夫"
+      ]
+    },
+    {
+      "id": "37c8ee4cd5a37bf07466",
+      "place": "毛呂山町",
+      "season": "summer",
+      "date": "2026-05-29",
+      "title": "05月29日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/moroyama/SpMinuteView.html?tenant_id=50&council_id=160&schedule_id=2",
+      "kind": "公開会議録（閲覧用）",
+      "scope": "minutes",
+      "note": "町が閲覧用に公開する会議録の当日本文。町は正式な会議録と区別しています。",
+      "speakers": [
+        "小峰明雄",
+        "岡野勉",
+        "平野隆"
+      ]
+    },
+    {
+      "id": "020813e4d5c2395f79f2",
+      "place": "毛呂山町",
+      "season": "summer",
+      "date": "2026-06-01",
+      "title": "06月01日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/moroyama/SpMinuteView.html?tenant_id=50&council_id=160&schedule_id=3",
+      "kind": "公開会議録（閲覧用）",
+      "scope": "minutes",
+      "note": "町が閲覧用に公開する会議録の当日本文。町は正式な会議録と区別しています。",
+      "speakers": [
+        "中村奨平",
+        "佐島啓晋",
+        "小峰明雄",
+        "平野隆",
+        "長瀬衛"
+      ]
+    },
+    {
+      "id": "d8f99ad972218762ea7a",
+      "place": "毛呂山町",
+      "season": "summer",
+      "date": "2026-06-02",
+      "title": "06月02日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/moroyama/SpMinuteView.html?tenant_id=50&council_id=160&schedule_id=4",
+      "kind": "公開会議録（閲覧用）",
+      "scope": "minutes",
+      "note": "町が閲覧用に公開する会議録の当日本文。町は正式な会議録と区別しています。",
+      "speakers": [
+        "下田泰章",
+        "千葉三津子",
+        "小野浩",
+        "平野隆",
+        "荒木かおる"
+      ]
+    },
+    {
+      "id": "0061dfa8731292958ebc",
+      "place": "毛呂山町",
+      "season": "summer",
+      "date": "2026-06-03",
+      "title": "6月3日・一般質問（本文の議事日程による）",
+      "url": "https://ssp.kaigiroku.net/tenant/moroyama/SpMinuteView.html?tenant_id=50&council_id=160&schedule_id=5",
+      "kind": "公開会議録（閲覧用）",
+      "scope": "minutes",
+      "note": "本文の議事日程による日付です。検索画面の見出しは6月4日と表示されます。町は公開版の位置付けを案内しています。",
+      "speakers": [
+        "佐藤秀樹",
+        "岡野勉",
+        "平野隆",
+        "澤田巌",
+        "高橋達夫"
+      ]
+    },
+    {
+      "id": "e56069852ceefbd449af",
+      "place": "毛呂山町",
+      "season": "summer",
+      "date": "2026-06-04",
+      "title": "06月04日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/moroyama/SpMinuteView.html?tenant_id=50&council_id=160&schedule_id=6",
+      "kind": "公開会議録（閲覧用）",
+      "scope": "minutes",
+      "note": "町が閲覧用に公開する会議録の当日本文。町は正式な会議録と区別しています。",
+      "speakers": [
+        "下田泰章",
+        "中村奨平",
+        "佐藤秀樹",
+        "堀江快治",
+        "小峰明雄",
+        "岡野勉",
+        "平野隆"
+      ]
+    },
+    {
+      "id": "0879dd1c22982b07d3cf",
+      "place": "毛呂山町",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "毛呂山町議会だより134号・令和8年9月議会",
+      "url": "https://www.town.moroyama.saitama.jp/material/files/group/2/gikaidayori134.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。 OCRの確認警告があるPDF 1、2、4、7、8、11、12頁を除外しています。",
+      "speakers": [
+        "荒木かおる"
+      ]
+    },
+    {
+      "id": "ddaa831f07ead47c1628",
+      "place": "深谷市",
+      "season": "spring",
+      "date": "2026-02-19",
+      "title": "02月19日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=902&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "五間くみ子",
+        "加藤利江",
+        "小林真",
+        "清水健一",
+        "田口英夫"
+      ]
+    },
+    {
+      "id": "ac87c0de91bd84554040",
+      "place": "深谷市",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "02月26日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=902&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "五間くみ子",
+        "佐久間奈々",
+        "坂本博",
+        "富田勝",
+        "柿澤祐介",
+        "田口英夫",
+        "田島秀興",
+        "福島秀樹",
+        "鈴木三男",
+        "高田博之"
+      ]
+    },
+    {
+      "id": "9f3abd0b1d655d7e3315",
+      "place": "深谷市",
+      "season": "spring",
+      "date": "2026-03-10",
+      "title": "03月10日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=902&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "五間くみ子",
+        "加藤利江",
+        "坂本博",
+        "岡仁",
+        "清水健一",
+        "湯本哲昭",
+        "田口英夫",
+        "福島秀樹",
+        "繋由香"
+      ]
+    },
+    {
+      "id": "918087788603c9d8a5a5",
+      "place": "深谷市",
+      "season": "spring",
+      "date": "2026-03-11",
+      "title": "03月11日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=902&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "今井慶一郎",
+        "佐久間奈々",
+        "富田勝",
+        "小泉誠",
+        "山出秀明",
+        "柿澤祐介",
+        "田口英夫",
+        "田島秀興",
+        "鈴木三男"
+      ]
+    },
+    {
+      "id": "8492536a1adce6141d03",
+      "place": "深谷市",
+      "season": "spring",
+      "date": "2026-03-12",
+      "title": "03月12日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=902&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "八須由憲",
+        "小林真",
+        "田口英夫",
+        "高田博之"
+      ]
+    },
+    {
+      "id": "336570a9f92d2690b659",
+      "place": "深谷市",
+      "season": "spring",
+      "date": "2026-03-16",
+      "title": "03月16日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=902&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "佐久間奈々",
+        "八須由憲",
+        "坂本博",
+        "岡仁",
+        "清水健一",
+        "湯本哲昭",
+        "田口英夫",
+        "田島秀興",
+        "繋由香",
+        "茂木一郎",
+        "鈴木三男"
+      ]
+    },
+    {
+      "id": "dcb914cfa3864655dfce",
+      "place": "深谷市",
+      "season": "summer",
+      "date": "2026-06-02",
+      "title": "06月02日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=911&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "今井慶一郎",
+        "小泉誠",
+        "岡仁",
+        "柿澤祐介",
+        "清水健一",
+        "田口英夫",
+        "田島秀興",
+        "高田博之"
+      ]
+    },
+    {
+      "id": "9befdd22793b2e4d2872",
+      "place": "深谷市",
+      "season": "summer",
+      "date": "2026-06-05",
+      "title": "06月05日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=911&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "五間くみ子",
+        "今井慶一郎",
+        "八須由憲",
+        "坂本博",
+        "富田勝",
+        "茂木一郎",
+        "鈴木三男",
+        "高田博之"
+      ]
+    },
+    {
+      "id": "e2f9f5cb646911e6860c",
+      "place": "深谷市",
+      "season": "summer",
+      "date": "2026-06-16",
+      "title": "06月16日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=911&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "今井慶一郎",
+        "加藤利江",
+        "小泉誠",
+        "山出秀明",
+        "柿澤祐介",
+        "清水健一",
+        "田口英夫",
+        "福島秀樹",
+        "繋由香"
+      ]
+    },
+    {
+      "id": "7d0e3f6cf4e662395876",
+      "place": "深谷市",
+      "season": "summer",
+      "date": "2026-06-17",
+      "title": "06月17日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=911&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "五間くみ子",
+        "今井慶一郎",
+        "佐久間奈々",
+        "八須由憲",
+        "坂本博",
+        "岡仁",
+        "湯本哲昭",
+        "田島秀興",
+        "繋由香"
+      ]
+    },
+    {
+      "id": "2d014ac5a04e99c3c4c6",
+      "place": "深谷市",
+      "season": "summer",
+      "date": "2026-06-18",
+      "title": "06月18日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=911&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "今井慶一郎",
+        "富田勝",
+        "小林真",
+        "茂木一郎",
+        "鈴木三男",
+        "高田博之"
+      ]
+    },
+    {
+      "id": "2b07d4afc1de24a43207",
+      "place": "深谷市",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "06月22日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=911&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "今井慶一郎",
+        "坂本博",
+        "小林真",
+        "柿澤祐介",
+        "清水健一",
+        "湯本哲昭",
+        "田島秀興",
+        "繋由香",
+        "角田義徳"
+      ]
+    },
+    {
+      "id": "a63d103e9a4e804e737f",
+      "place": "深谷市",
+      "season": "fall",
+      "date": "2026-08-31",
+      "title": "08月31日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=918&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "今井慶一郎",
+        "坂本博",
+        "小泉誠",
+        "柿澤祐介",
+        "清水健一",
+        "鈴木三男"
+      ]
+    },
+    {
+      "id": "2d4a42dfa3c5c7c16e64",
+      "place": "深谷市",
+      "season": "fall",
+      "date": "2026-09-03",
+      "title": "09月03日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=918&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "今井慶一郎",
+        "富田勝",
+        "小泉誠",
+        "湯本哲昭",
+        "鈴木三男"
+      ]
+    },
+    {
+      "id": "e72b1a6f18f4498e7dc4",
+      "place": "深谷市",
+      "season": "fall",
+      "date": "2026-09-16",
+      "title": "09月16日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=918&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "五間くみ子",
+        "今井慶一郎",
+        "加藤利江",
+        "坂本博",
+        "小泉誠",
+        "山出秀明",
+        "岡仁",
+        "柿澤祐介",
+        "清水健一",
+        "繋由香"
+      ]
+    },
+    {
+      "id": "010ff7b9e5c2696f1477",
+      "place": "深谷市",
+      "season": "fall",
+      "date": "2026-09-17",
+      "title": "09月17日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=918&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "今井慶一郎",
+        "佐久間奈々",
+        "富田勝",
+        "湯本哲昭",
+        "田口英夫",
+        "田島秀興",
+        "福島秀樹",
+        "鈴木三男"
+      ]
+    },
+    {
+      "id": "e61f71a916bd118f1d70",
+      "place": "深谷市",
+      "season": "fall",
+      "date": "2026-09-18",
+      "title": "09月18日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=918&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "今井慶一郎",
+        "八須由憲",
+        "小林真",
+        "茂木一郎",
+        "高田博之"
+      ]
+    },
+    {
+      "id": "869e420b26edd2b7210b",
+      "place": "深谷市",
+      "season": "fall",
+      "date": "2026-09-25",
+      "title": "09月25日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=918&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "五間くみ子",
+        "今井慶一郎",
+        "佐久間奈々",
+        "坂本博",
+        "富田勝",
+        "小泉誠",
+        "柿澤祐介",
+        "清水健一",
+        "湯本哲昭",
+        "田口英夫",
+        "田島秀興",
+        "繋由香",
+        "茂木一郎",
+        "鈴木三男"
+      ]
+    },
+    {
+      "id": "0470c167eb139bac075d",
+      "place": "滑川町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "令和8年3月定例会・会議録",
+      "url": "https://www.town.namegawa.saitama.jp/material/files/group/12/R0803Teireikai.pdf",
+      "kind": "公式会議録PDFのOCR転記",
+      "scope": "minutes",
+      "note": "公式PDFの本文をローカルOCRで転記。頁番号はPDF内の位置です。原本を出典として表示します。",
+      "speakers": [
+        "内田敏雄",
+        "原徹",
+        "小澤実",
+        "赤沼正副",
+        "阿部弘明"
+      ]
+    },
+    {
+      "id": "1d6cbd6776ef161a51d9",
+      "place": "滑川町",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "令和8年6月定例会・会議録",
+      "url": "https://www.town.namegawa.saitama.jp/material/files/group/12/R0806Teireikai.pdf",
+      "kind": "公式会議録PDFのOCR転記",
+      "scope": "minutes",
+      "note": "公式PDFの本文をローカルOCRで転記。頁番号はPDF内の位置です。原本を出典として表示します。",
+      "speakers": [
+        "中西文寿",
+        "井上章",
+        "内田敏雄",
+        "原徹",
+        "小澤実",
+        "阿部弘明"
+      ]
+    },
+    {
+      "id": "993858a92f8fd7831d90",
+      "place": "滑川町",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "滑川町議会だより163号・9月定例会",
+      "url": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori163.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
+      "speakers": []
+    },
+    {
+      "id": "270ec0dd315f8845b945",
+      "place": "熊谷市",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "くまがや市議会だより第83号（一般質問一覧・4頁）",
+      "url": "https://www.city.kumagaya.lg.jp/shigikai/gikaidayori/20260501.files/83all.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
+      "speakers": []
+    },
+    {
+      "id": "6d8800305920e14ef414",
+      "place": "熊谷市",
+      "season": "spring",
+      "date": "2026-03-09",
+      "title": "03月09日－一般質問－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/kumagaya/SpMinuteView.html?tenant_id=94&council_id=373&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "三浦和一",
+        "小鮒賢二",
+        "林幸子",
+        "江田大助",
+        "池井光吉",
+        "田中正",
+        "石川広己",
+        "福田勝美"
+      ]
+    },
+    {
+      "id": "562a3434d651be5c5e52",
+      "place": "熊谷市",
+      "season": "spring",
+      "date": "2026-03-10",
+      "title": "03月10日－一般質問－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/kumagaya/SpMinuteView.html?tenant_id=94&council_id=373&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "大山美智子",
+        "小島正泰",
+        "川田勝巳",
+        "影山琢也",
+        "桜井くるみ",
+        "白根佳典",
+        "臼杵健",
+        "黒澤三千夫"
+      ]
+    },
+    {
+      "id": "105225cfba7254da5880",
+      "place": "熊谷市",
+      "season": "spring",
+      "date": "2026-03-11",
+      "title": "03月11日－一般質問－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/kumagaya/SpMinuteView.html?tenant_id=94&council_id=373&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "小林國章",
+        "小林拓朗",
+        "小鮒賢二",
+        "山本絢女",
+        "権田清志",
+        "沼上政幸",
+        "田中純一",
+        "須永宣延"
+      ]
+    },
+    {
+      "id": "0ffc07a22d600cbfd560",
+      "place": "熊谷市",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "くまがや市議会だより第84号（一般質問一覧・5頁）",
+      "url": "https://www.city.kumagaya.lg.jp/shigikai/gikaidayori/20260801.files/84all.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
+      "speakers": []
+    },
+    {
+      "id": "b2640403b15637d64876",
+      "place": "熊谷市",
+      "season": "summer",
+      "date": "2026-06-17",
+      "title": "06月17日－一般質問－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/kumagaya/SpMinuteView.html?tenant_id=94&council_id=378&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "三浦和一",
+        "影山琢也",
+        "林幸子",
+        "江田大助",
+        "田中正",
+        "石川広己",
+        "福田勝美",
+        "腰塚菜穂子"
+      ]
+    },
+    {
+      "id": "7fbdce7fe3d03c4f417d",
+      "place": "熊谷市",
+      "season": "summer",
+      "date": "2026-06-18",
+      "title": "06月18日－一般質問－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/kumagaya/SpMinuteView.html?tenant_id=94&council_id=378&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "山本絢女",
+        "桜井くるみ",
+        "池井光吉",
+        "田中純一",
+        "白根佳典",
+        "臼杵健",
+        "黒澤三千夫"
+      ]
+    },
+    {
+      "id": "e1a27f3ce34b52988b55",
+      "place": "熊谷市",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "06月19日－一般質問－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/kumagaya/SpMinuteView.html?tenant_id=94&council_id=378&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "千葉義浩",
+        "大山美智子",
+        "小島正泰",
+        "小林國章",
+        "小林拓朗",
+        "山下一男",
+        "影山琢也"
+      ]
+    },
+    {
+      "id": "e14a3fa7c64bfd309ca0",
+      "place": "熊谷市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "くまがや市議会だより第85号（一般質問一覧・4頁）",
+      "url": "https://www.city.kumagaya.lg.jp/shigikai/gikaidayori/20261101.files/85all.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。 OCRの確認警告があるPDF 7頁を除外しています。",
+      "speakers": []
+    },
+    {
+      "id": "36c4861ebb1ce70c80b6",
+      "place": "狭山市",
+      "season": "spring",
+      "date": "2026-02-20",
+      "title": "2026-02-20 本会議録",
+      "url": "https://sayama.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82R%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82P%89%F1%81j%81%7C02%8C%8E20%93%FA-01%8D%86&KGNO=530&FINO=2203&UNID=k_R08022000011",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "内藤光雄",
+        "笹本英輔",
+        "菅野淳",
+        "豊泉正人"
+      ]
+    },
+    {
+      "id": "e5f8230dd2ae8f3a1553",
+      "place": "狭山市",
+      "season": "spring",
+      "date": "2026-02-24",
+      "title": "2026-02-24 本会議録",
+      "url": "https://sayama.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82R%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82P%89%F1%81j%81%7C02%8C%8E24%93%FA-02%8D%86&KGNO=530&FINO=2204&UNID=k_R08022400021",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "内藤光雄"
+      ]
+    },
+    {
+      "id": "7c1bd762fa809ce6fc5f",
+      "place": "狭山市",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "2026-02-26 本会議録",
+      "url": "https://sayama.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82R%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82P%89%F1%81j%81%7C02%8C%8E26%93%FA-03%8D%86&KGNO=530&FINO=2205&UNID=k_R08022600031",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "丸橋ユキ",
+        "内藤光雄",
+        "大沢えみ子",
+        "太田博希",
+        "広山清志",
+        "橋本亜矢",
+        "船川秀子",
+        "衣川千代子",
+        "関根弘樹"
+      ]
+    },
+    {
+      "id": "9c192e5507ff310c4282",
+      "place": "狭山市",
+      "season": "spring",
+      "date": "2026-02-27",
+      "title": "2026-02-27 本会議録",
+      "url": "https://sayama.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82R%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82P%89%F1%81j%81%7C02%8C%8E27%93%FA-04%8D%86&KGNO=530&FINO=2206&UNID=k_R08022700041",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "丸橋ユキ",
+        "内藤光雄",
+        "大沢えみ子",
+        "太田博希",
+        "橋本亜矢",
+        "町田昌弘",
+        "笹本英輔",
+        "船川秀子",
+        "菅野淳",
+        "衣川千代子",
+        "酒井英男"
+      ]
+    },
+    {
+      "id": "fc0d0118e8e8d1322f3b",
+      "place": "狭山市",
+      "season": "spring",
+      "date": "2026-03-06",
+      "title": "2026-03-06 本会議録",
+      "url": "https://sayama.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82R%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82P%89%F1%81j%81%7C03%8C%8E06%93%FA-05%8D%86&KGNO=530&FINO=2216&UNID=k_R08030600051",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "三浦和也",
+        "丸橋ユキ",
+        "内藤光雄",
+        "土方隆司",
+        "大沢えみ子",
+        "町田昌弘",
+        "衣川千代子",
+        "豊泉正人"
+      ]
+    },
+    {
+      "id": "f1ebdf2da7cc800855c0",
+      "place": "狭山市",
+      "season": "spring",
+      "date": "2026-03-09",
+      "title": "2026-03-09 本会議録",
+      "url": "https://sayama.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82R%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82P%89%F1%81j%81%7C03%8C%8E09%93%FA-06%8D%86&KGNO=530&FINO=2217&UNID=k_R08030900061",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "丸橋ユキ",
+        "内藤光雄",
+        "千葉良秋",
+        "橋本亜矢",
+        "福田正",
+        "菅野淳",
+        "酒井英男"
+      ]
+    },
+    {
+      "id": "95fadfe9f4b8bf268cf8",
+      "place": "狭山市",
+      "season": "spring",
+      "date": "2026-03-10",
+      "title": "2026-03-10 本会議録",
+      "url": "https://sayama.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82R%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82P%89%F1%81j%81%7C03%8C%8E10%93%FA-07%8D%86&KGNO=530&FINO=2218&UNID=k_R08031000071",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "内藤光雄",
+        "太田博希",
+        "広山清志",
+        "田中寿夫",
+        "笹本英輔",
+        "船川秀子",
+        "関根弘樹"
+      ]
+    },
+    {
+      "id": "c62735c5c244b2211c9e",
+      "place": "狭山市",
+      "season": "spring",
+      "date": "2026-03-17",
+      "title": "2026-03-17 本会議録",
+      "url": "https://sayama.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82R%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82P%89%F1%81j%81%7C03%8C%8E17%93%FA-08%8D%86&KGNO=530&FINO=2219&UNID=k_R08031700081",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "丸橋ユキ",
+        "内藤光雄",
+        "大沢えみ子",
+        "太田博希",
+        "広山清志",
+        "橋本亜矢",
+        "町田昌弘",
+        "福田正",
+        "笹本英輔",
+        "船川秀子",
+        "衣川千代子",
+        "豊泉正人",
+        "酒井英男",
+        "関根弘樹"
+      ]
+    },
+    {
+      "id": "74c33530302cad0d06fa",
+      "place": "狭山市",
+      "season": "summer",
+      "date": "2026-06-05",
+      "title": "2026-06-05 本会議録",
+      "url": "https://sayama.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82U%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82Q%89%F1%81j%81%7C06%8C%8E05%93%FA-01%8D%86&KGNO=534&FINO=2221&UNID=k_R08060500011",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "内藤光雄",
+        "千葉良秋",
+        "土方隆司",
+        "太田博希",
+        "町田昌弘",
+        "福田正",
+        "笹本英輔",
+        "菅野淳",
+        "金子広和"
+      ]
+    },
+    {
+      "id": "d7a8720e10d065392e94",
+      "place": "狭山市",
+      "season": "summer",
+      "date": "2026-06-09",
+      "title": "2026-06-09 本会議録",
+      "url": "https://sayama.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82U%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82Q%89%F1%81j%81%7C06%8C%8E09%93%FA-02%8D%86&KGNO=534&FINO=2224&UNID=k_R08060900021",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "丸橋ユキ",
+        "大沢えみ子",
+        "広山清志",
+        "船川秀子",
+        "金子広和",
+        "関根弘樹"
+      ]
+    },
+    {
+      "id": "dd271c4196e374be2c6f",
+      "place": "狭山市",
+      "season": "summer",
+      "date": "2026-06-15",
+      "title": "2026-06-15 本会議録",
+      "url": "https://sayama.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82U%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82Q%89%F1%81j%81%7C06%8C%8E15%93%FA-03%8D%86&KGNO=534&FINO=2230&UNID=k_R08061500031",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "三浦和也",
+        "土方隆司",
+        "大沢えみ子",
+        "町田昌弘",
+        "菅野淳",
+        "金子広和"
+      ]
+    },
+    {
+      "id": "b9e8e58dd6d2085db8e6",
+      "place": "狭山市",
+      "season": "summer",
+      "date": "2026-06-16",
+      "title": "2026-06-16 本会議録",
+      "url": "https://sayama.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82U%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82Q%89%F1%81j%81%7C06%8C%8E16%93%FA-04%8D%86&KGNO=534&FINO=2231&UNID=k_R08061600041",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "橋本亜矢",
+        "田中寿夫",
+        "笹本英輔",
+        "船川秀子",
+        "衣川千代子",
+        "豊泉正人",
+        "酒井英男",
+        "金子広和"
+      ]
+    },
+    {
+      "id": "86ef8199b09a28795382",
+      "place": "狭山市",
+      "season": "summer",
+      "date": "2026-06-17",
+      "title": "2026-06-17 本会議録",
+      "url": "https://sayama.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82U%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82Q%89%F1%81j%81%7C06%8C%8E17%93%FA-05%8D%86&KGNO=534&FINO=2232&UNID=k_R08061700051",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "丸橋ユキ",
+        "太田博希",
+        "広山清志",
+        "田中寿夫",
+        "笹本英輔",
+        "金子広和",
+        "関根弘樹"
+      ]
+    },
+    {
+      "id": "1a52c966dbe494e862c4",
+      "place": "狭山市",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "2026-06-23 本会議録",
+      "url": "https://sayama.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82U%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82Q%89%F1%81j%81%7C06%8C%8E23%93%FA-06%8D%86&KGNO=534&FINO=2233&UNID=k_R08062300061",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "太田博希",
+        "広山清志",
+        "田中寿夫",
+        "町田昌弘",
+        "豊泉正人",
+        "酒井英男",
+        "金子広和"
+      ]
+    },
+    {
+      "id": "85083c73051bcf1897f0",
+      "place": "狭山市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "狭山市議会だより231号・9月定例会の一般質問（紙面7〜14頁）",
+      "url": "https://www.city.sayama.saitama.jp/gikai/gikaidayori/dayoriR8.files/231.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。 OCRの確認警告があるPDF 15頁を除外しています。",
+      "speakers": []
+    },
+    {
+      "id": "280073cc0d5365f6c94b",
+      "place": "白岡市",
+      "season": "spring",
+      "date": "2026-02-24",
+      "title": "02月24日－一般質問－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/shiraoka/SpMinuteView.html?tenant_id=45&council_id=212&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中山廣子",
+        "中川幸廣",
+        "尾嶋一雄",
+        "細井藤夫",
+        "遠藤誠",
+        "野々口眞由美"
+      ]
+    },
+    {
+      "id": "48fa0c796d6f301c2221",
+      "place": "白岡市",
+      "season": "spring",
+      "date": "2026-02-25",
+      "title": "02月25日－一般質問－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/shiraoka/SpMinuteView.html?tenant_id=45&council_id=212&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中川幸廣",
+        "和賀正義",
+        "大島勉",
+        "寺戸睦子",
+        "嶋田友一郎",
+        "菱沼あゆ美"
+      ]
+    },
+    {
+      "id": "ed3db5450ba799bb26e0",
+      "place": "白岡市",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "02月26日－一般質問－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/shiraoka/SpMinuteView.html?tenant_id=45&council_id=212&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中川幸廣",
+        "加藤一生",
+        "斎藤信治",
+        "浜口清志",
+        "石渡征浩",
+        "黒須大一郎"
+      ]
+    },
+    {
+      "id": "61e4161ea7de271db9dd",
+      "place": "白岡市",
+      "season": "summer",
+      "date": "2026-06-08",
+      "title": "06月08日－一般質問－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/shiraoka/SpMinuteView.html?tenant_id=45&council_id=213&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中川幸廣",
+        "和賀正義",
+        "尾嶋一雄",
+        "斎藤信治",
+        "石渡征浩",
+        "細井藤夫",
+        "野々口眞由美"
+      ]
+    },
+    {
+      "id": "36feff92a75b01e9e5bd",
+      "place": "白岡市",
+      "season": "summer",
+      "date": "2026-06-09",
+      "title": "06月09日－一般質問－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/shiraoka/SpMinuteView.html?tenant_id=45&council_id=213&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中山廣子",
+        "中川幸廣",
+        "加藤一生",
+        "寺戸睦子",
+        "江原浩之",
+        "菱沼あゆ美"
+      ]
+    },
+    {
+      "id": "07e82168693d5110624a",
+      "place": "白岡市",
+      "season": "summer",
+      "date": "2026-06-10",
+      "title": "06月10日－一般質問－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/shiraoka/SpMinuteView.html?tenant_id=45&council_id=213&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中川幸廣",
+        "大島勉",
+        "嶋田友一郎",
+        "松本栄一",
+        "浜口清志",
+        "黒須大一郎"
+      ]
+    },
+    {
+      "id": "3c6fec6b00e627b6dfff",
+      "place": "白岡市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "白岡市議会だより233号・9月定例会の一般質問（紙面10頁）",
+      "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/P10-233.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
+      "speakers": [
+        "菱沼あゆ美"
+      ]
+    },
+    {
+      "id": "6b8b9db322e3af1d8305",
+      "place": "白岡市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "白岡市議会だより233号・9月定例会の一般質問（紙面11頁）",
+      "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/P11-233.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
+      "speakers": []
+    },
+    {
+      "id": "73f9155666f9eead5aab",
+      "place": "白岡市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "白岡市議会だより233号・9月定例会の一般質問（紙面12頁）",
+      "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/P12-233.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
+      "speakers": [
+        "加藤一生"
+      ]
+    },
+    {
+      "id": "b1a6799f37fc08079a53",
+      "place": "白岡市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "白岡市議会だより233号・9月定例会の一般質問（紙面13頁）",
+      "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/P13-233.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
+      "speakers": []
+    },
+    {
+      "id": "b64fe1746d4be04528ad",
+      "place": "白岡市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "白岡市議会だより233号・9月定例会の一般質問（紙面14頁）",
+      "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/P14-233.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
+      "speakers": [
+        "大島勉"
+      ]
+    },
+    {
+      "id": "3c2c2a2908b4280e6606",
+      "place": "白岡市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "白岡市議会だより233号・9月定例会の一般質問（紙面8頁）",
+      "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/P8-233.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
+      "speakers": [
+        "石渡征浩"
+      ]
+    },
+    {
+      "id": "aed3da169db424922b8e",
+      "place": "白岡市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "白岡市議会だより233号・9月定例会の一般質問（紙面9頁）",
+      "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/P9-233.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
+      "speakers": []
+    },
+    {
+      "id": "9630ef8d988dabe61eef",
+      "place": "皆野町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "令和8年3月定例会・会議録",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/06/68f9ad31d1c5dd2728eff3a9d70cab1f.pdf",
+      "kind": "公式会議録PDFのOCR転記",
+      "scope": "minutes",
+      "note": "公式PDFの本文をローカルOCRで転記。頁番号はPDF内の位置です。原本を出典として表示します。",
+      "speakers": [
+        "倉林郁雄",
+        "内海勝男",
+        "大塚鉄也",
+        "宮原睦夫",
+        "常山知子",
+        "新井健司",
+        "新井達男",
+        "林太平",
+        "林豊",
+        "黒澤広治"
+      ]
+    },
+    {
+      "id": "77dc9361680cbf6f7b6d",
+      "place": "皆野町",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "令和8年6月定例会・会議録",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/06/47872e77c18151483cdf31c438d6f4d7.pdf",
+      "kind": "公式会議録PDFのOCR転記",
+      "scope": "minutes",
+      "note": "公式PDFの本文をローカルOCRで転記。頁番号はPDF内の位置です。原本を出典として表示します。",
+      "speakers": [
+        "倉林郁雄",
+        "内海勝男",
+        "大塚鉄也",
+        "新井健司",
+        "林太平",
+        "林豊"
+      ]
+    },
+    {
+      "id": "a14fae0ca831913cde5a",
+      "place": "皆野町",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "議会だより 議会だより第５９号（令和8年11月1日発行）",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/92100d92c95bb691d0d849b4595977d4.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
+      "speakers": []
+    },
+    {
+      "id": "ef07169ed5fcc1ad65ba",
+      "place": "神川町",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "03月04日－議案説明、一般質問－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteView.html?tenant_id=73&council_id=95&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "四方田繁男",
+        "坂本貴佳",
+        "川浦雅子",
+        "新井太一",
+        "柴崎愛子",
+        "福島康弘",
+        "赤羽奈保子",
+        "野口弘吉"
+      ]
+    },
+    {
+      "id": "62d688b1c8fb3eec2c03",
+      "place": "神川町",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "かみかわ町議会だより第83号 2～6頁・令和8年6月定例会",
+      "url": "https://www.town.kamikawa.saitama.jp/material/files/group/18/gikaidayori83.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。 OCRの確認警告があるPDF 4頁を除外しています。",
+      "speakers": [
+        "坂田弘",
+        "川浦雅子",
+        "林部葉月"
+      ]
+    },
+    {
+      "id": "a1a9f7dd55fb44ac4bfa",
+      "place": "神川町",
+      "season": "summer",
+      "date": "2026-06-04",
+      "title": "06月04日－一般質問、議案説明－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteView.html?tenant_id=73&council_id=96&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "剣持真菜美",
+        "坂本貴佳",
+        "坂田弘",
+        "川浦雅子",
+        "新井太一",
+        "林部葉月",
+        "柴崎愛子",
+        "赤羽奈保子"
+      ]
+    },
+    {
+      "id": "e4b2c072128050c16381",
+      "place": "秩父市",
+      "season": "spring",
+      "date": "2026-03-09",
+      "title": "03月09日－一般質問－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/chichibu/SpMinuteView.html?tenant_id=41&council_id=423&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "堀口義正",
+        "宮前昌美",
+        "小松穂波",
+        "木村隆彦",
+        "本橋貢"
+      ]
+    },
+    {
+      "id": "4736e25dfeb2ad053cbd",
+      "place": "秩父市",
+      "season": "spring",
+      "date": "2026-03-10",
+      "title": "03月10日－一般質問－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/chichibu/SpMinuteView.html?tenant_id=41&council_id=423&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "坂本勝幸",
+        "堀口義正",
+        "髙野宏"
+      ]
+    },
+    {
+      "id": "02bad5978a95a8202cad",
+      "place": "秩父市",
+      "season": "spring",
+      "date": "2026-03-11",
+      "title": "03月11日－一般質問－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/chichibu/SpMinuteView.html?tenant_id=41&council_id=423&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "内田均",
+        "堀口義正"
+      ]
+    },
+    {
+      "id": "095eb3428b898a6cef23",
+      "place": "秩父市",
+      "season": "summer",
+      "date": "2026-06-15",
+      "title": "06月15日－一般質問－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/chichibu/SpMinuteView.html?tenant_id=41&council_id=434&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "宮前昌美",
+        "小松穂波",
+        "赤岩秀文",
+        "関根浩",
+        "黒澤秀之"
+      ]
+    },
+    {
+      "id": "a9f4d1ea1dd5d9174200",
+      "place": "秩父市",
+      "season": "summer",
+      "date": "2026-06-16",
+      "title": "06月16日－一般質問－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/chichibu/SpMinuteView.html?tenant_id=41&council_id=434&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "三澤颯",
+        "土谷眞一",
+        "小櫃市郎",
+        "山中佳子",
+        "本橋貢",
+        "赤岩秀文"
+      ]
+    },
+    {
+      "id": "e3985acd4daead538514",
+      "place": "秩父市",
+      "season": "summer",
+      "date": "2026-06-17",
+      "title": "06月17日－一般質問－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/chichibu/SpMinuteView.html?tenant_id=41&council_id=434&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "原嶋日巳佳",
+        "坂本勝幸",
+        "大岩優次",
+        "宮川浩司",
+        "赤岩秀文"
+      ]
+    },
+    {
+      "id": "84cb1b427e64f0ea8384",
+      "place": "秩父市",
+      "season": "fall",
+      "date": "2026-09-07",
+      "title": "09月07日－一般質問－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/chichibu/SpMinuteView.html?tenant_id=41&council_id=437&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "原嶋日巳佳",
+        "宮前昌美",
+        "小松穂波",
+        "赤岩秀文",
+        "黒澤秀之"
+      ]
+    },
+    {
+      "id": "79b825635f892392cfd1",
+      "place": "秩父市",
+      "season": "fall",
+      "date": "2026-09-08",
+      "title": "09月08日－一般質問－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/chichibu/SpMinuteView.html?tenant_id=41&council_id=437&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "山中佳子",
+        "本橋貢",
+        "菅沼史明",
+        "赤岩秀文",
+        "関根浩"
+      ]
+    },
+    {
+      "id": "5f588ed3dd3f9e69dbd6",
+      "place": "秩父市",
+      "season": "fall",
+      "date": "2026-09-09",
+      "title": "09月09日－一般質問－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/chichibu/SpMinuteView.html?tenant_id=41&council_id=437&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "三澤颯",
+        "大岩優次",
+        "宮川浩司",
+        "赤岩秀文"
+      ]
+    },
+    {
+      "id": "616d9d2b62e7ed920712",
+      "place": "美里町",
+      "season": "spring",
+      "date": "2026-03-19",
+      "title": "03月19日－一般質問－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/saimisato/SpMinuteView.html?tenant_id=46&council_id=114&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "フジタルイジ",
+        "堀越賢司",
+        "大島輝雄",
+        "新井英行",
+        "根本孝代",
+        "櫻沢保",
+        "櫻沢克幸"
+      ]
+    },
+    {
+      "id": "cf78f31b2a37125b825f",
+      "place": "美里町",
+      "season": "summer",
+      "date": "2026-06-11",
+      "title": "06月11日－一般質問－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/saimisato/SpMinuteView.html?tenant_id=46&council_id=115&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "フジタルイジ",
+        "堀越賢司",
+        "新井英行",
+        "橋場倖男",
+        "櫻沢保",
+        "櫻沢克幸",
+        "田島國利",
+        "田端恵美子"
+      ]
+    },
+    {
+      "id": "44ce5d0aaaadc130d5c1",
+      "place": "羽生市",
+      "season": "spring",
+      "date": "2026-02-24",
+      "title": "02月24日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/hanyu/SpMinuteView.html?tenant_id=159&council_id=207&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "丑久保恒行",
+        "小野田和男",
+        "川田真也",
+        "柳沢暁"
+      ]
+    },
+    {
+      "id": "3cf44cf19bd8359c2974",
+      "place": "羽生市",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "03月03日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/hanyu/SpMinuteView.html?tenant_id=159&council_id=207&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "丑久保恒行",
+        "中島直樹",
+        "島村勉",
+        "川田真也",
+        "昆佳子",
+        "柳沢暁",
+        "田口さとる",
+        "西山丈由",
+        "野中一城"
+      ]
+    },
+    {
+      "id": "7281616e77eecba7bbee",
+      "place": "羽生市",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "03月04日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/hanyu/SpMinuteView.html?tenant_id=159&council_id=207&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "丑久保恒行",
+        "小林誠弥",
+        "小野田和男",
+        "川田真也",
+        "昆佳子"
+      ]
+    },
+    {
+      "id": "1ff0aaef21429aae9e73",
+      "place": "羽生市",
+      "season": "spring",
+      "date": "2026-03-05",
+      "title": "03月05日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/hanyu/SpMinuteView.html?tenant_id=159&council_id=207&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "丑久保恒行",
+        "田口さとる",
+        "西山丈由",
+        "野中一城"
+      ]
+    },
+    {
+      "id": "72ef0545b79a3954ff21",
+      "place": "羽生市",
+      "season": "spring",
+      "date": "2026-03-06",
+      "title": "03月06日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/hanyu/SpMinuteView.html?tenant_id=159&council_id=207&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "丑久保恒行",
+        "中島直樹",
+        "島村勉",
+        "松本敏夫",
+        "柳沢暁"
+      ]
+    },
+    {
+      "id": "a6d86f777ef0496a91bb",
+      "place": "羽生市",
+      "season": "spring",
+      "date": "2026-03-19",
+      "title": "03月19日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/hanyu/SpMinuteView.html?tenant_id=159&council_id=207&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "丑久保恒行",
+        "中島直樹",
+        "小林誠弥",
+        "柳沢暁",
+        "田口さとる"
+      ]
+    },
+    {
+      "id": "13380c9b772352bee620",
+      "place": "羽生市",
+      "season": "summer",
+      "date": "2026-07-02",
+      "title": "07月02日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/hanyu/SpMinuteView.html?tenant_id=159&council_id=212&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "丑久保恒行",
+        "中島直樹",
+        "小川明彦",
+        "小林誠弥",
+        "小野田和男",
+        "川田真也",
+        "昆佳子",
+        "野中一城",
+        "駒宮圭吾"
+      ]
+    },
+    {
+      "id": "d368ff444d4cf4a91012",
+      "place": "羽生市",
+      "season": "summer",
+      "date": "2026-07-13",
+      "title": "07月13日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/hanyu/SpMinuteView.html?tenant_id=159&council_id=212&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "丑久保恒行",
+        "中島直樹",
+        "小川明彦",
+        "小林誠弥",
+        "島村勉",
+        "川田真也",
+        "昆佳子",
+        "柳沢暁",
+        "田口さとる",
+        "野中一城",
+        "駒宮圭吾"
+      ]
+    },
+    {
+      "id": "fbb56e6c48ff8670bb71",
+      "place": "羽生市",
+      "season": "summer",
+      "date": "2026-07-14",
+      "title": "07月14日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/hanyu/SpMinuteView.html?tenant_id=159&council_id=212&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "丑久保恒行",
+        "小林誠弥",
+        "小野田和男",
+        "昆佳子",
+        "駒宮圭吾"
+      ]
+    },
+    {
+      "id": "2643a53f4ef1dbaf2dd4",
+      "place": "羽生市",
+      "season": "summer",
+      "date": "2026-07-15",
+      "title": "07月15日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/hanyu/SpMinuteView.html?tenant_id=159&council_id=212&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "丑久保恒行",
+        "中島直樹",
+        "川田真也",
+        "田口さとる",
+        "西山丈由"
+      ]
+    },
+    {
+      "id": "17afc9d942c4239a231c",
+      "place": "羽生市",
+      "season": "summer",
+      "date": "2026-07-16",
+      "title": "07月16日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/hanyu/SpMinuteView.html?tenant_id=159&council_id=212&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "丑久保恒行",
+        "島村勉",
+        "柳沢暁",
+        "野中一城",
+        "駒宮圭吾"
+      ]
+    },
+    {
+      "id": "071b3986f3e71889f882",
+      "place": "羽生市",
+      "season": "summer",
+      "date": "2026-07-23",
+      "title": "07月23日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/hanyu/SpMinuteView.html?tenant_id=159&council_id=212&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "丑久保恒行",
+        "中島直樹",
+        "小林誠弥",
+        "島村勉",
+        "川田真也",
+        "昆佳子",
+        "柳沢暁",
+        "田口さとる",
+        "駒宮圭吾"
+      ]
+    },
+    {
+      "id": "f7ed7762ec5c27aab7db",
+      "place": "草加市",
+      "season": "spring",
+      "date": "2026-02-18",
+      "title": "2026-02-18 本会議録",
+      "url": "http://www.soka-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82Q%8C%8E%81@%92%E8%97%E1%89%EF%81%7C02%8C%8E18%93%FA-01%8D%86&KGNO=856&FINO=2570&UNID=K_R08021800011",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "川﨑久範",
+        "鈴木由和"
+      ]
+    },
+    {
+      "id": "8adf288be686c97caf34",
+      "place": "草加市",
+      "season": "spring",
+      "date": "2026-02-24",
+      "title": "2026-02-24 本会議録",
+      "url": "http://www.soka-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82Q%8C%8E%81@%92%E8%97%E1%89%EF%81%7C02%8C%8E24%93%FA-02%8D%86&KGNO=856&FINO=2572&UNID=K_R08022400021",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "鈴木由和"
+      ]
+    },
+    {
+      "id": "7d408c475df201fcd090",
+      "place": "草加市",
+      "season": "spring",
+      "date": "2026-02-25",
+      "title": "2026-02-25 本会議録",
+      "url": "http://www.soka-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82Q%8C%8E%81@%92%E8%97%E1%89%EF%81%7C02%8C%8E25%93%FA-03%8D%86&KGNO=856&FINO=2573&UNID=K_R08022500031",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "田中宣光",
+        "菊地慶太",
+        "鈴木由和"
+      ]
+    },
+    {
+      "id": "576e5aa80033221ee95b",
+      "place": "草加市",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "2026-03-04 本会議録",
+      "url": "http://www.soka-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82Q%8C%8E%81@%92%E8%97%E1%89%EF%81%7C03%8C%8E04%93%FA-04%8D%86&KGNO=856&FINO=2579&UNID=K_R08030400041",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "平野厚子",
+        "矢部正平",
+        "鈴木由和"
+      ]
+    },
+    {
+      "id": "e3c89c821a3fe4bb8fa6",
+      "place": "草加市",
+      "season": "spring",
+      "date": "2026-03-11",
+      "title": "2026-03-11 本会議録",
+      "url": "http://www.soka-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82Q%8C%8E%81@%92%E8%97%E1%89%EF%81%7C03%8C%8E11%93%FA-05%8D%86&KGNO=856&FINO=2584&UNID=K_R08031100051",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "並木正成",
+        "川﨑久範",
+        "木村忠義",
+        "森覚",
+        "石川祐一",
+        "藤原みどり",
+        "金井俊治",
+        "鈴木由和"
+      ]
+    },
+    {
+      "id": "86445422f379c24d1cda",
+      "place": "草加市",
+      "season": "spring",
+      "date": "2026-03-12",
+      "title": "2026-03-12 本会議録",
+      "url": "http://www.soka-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82Q%8C%8E%81@%92%E8%97%E1%89%EF%81%7C03%8C%8E12%93%FA-06%8D%86&KGNO=856&FINO=2585&UNID=K_R08031200061",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "平山杏香",
+        "平野厚子",
+        "田川浩司",
+        "鈴木由和"
+      ]
+    },
+    {
+      "id": "a482e563bffa400f961d",
+      "place": "草加市",
+      "season": "spring",
+      "date": "2026-03-13",
+      "title": "2026-03-13 本会議録",
+      "url": "http://www.soka-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82Q%8C%8E%81@%92%E8%97%E1%89%EF%81%7C03%8C%8E13%93%FA-07%8D%86&KGNO=856&FINO=2586&UNID=K_R08031300071",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "平野厚子",
+        "矢部正平",
+        "鈴木由和"
+      ]
+    },
+    {
+      "id": "06f226a18fd8fd69e09a",
+      "place": "草加市",
+      "season": "spring",
+      "date": "2026-03-18",
+      "title": "2026-03-18 本会議録",
+      "url": "http://www.soka-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82Q%8C%8E%81@%92%E8%97%E1%89%EF%81%7C03%8C%8E18%93%FA-08%8D%86&KGNO=856&FINO=2587&UNID=K_R08031800081",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "並木正成",
+        "佐藤憲和",
+        "川﨑久範",
+        "平野厚子",
+        "木村忠義",
+        "森覚",
+        "田中宣光",
+        "矢部正平",
+        "菊地慶太",
+        "鈴木由和"
+      ]
+    },
+    {
+      "id": "5e24706dd28cfb26ba24",
+      "place": "草加市",
+      "season": "summer",
+      "date": "2026-06-04",
+      "title": "2026-06-04 本会議録",
+      "url": "http://www.soka-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82U%8C%8E%81@%92%E8%97%E1%89%EF%81%7C06%8C%8E04%93%FA-01%8D%86&KGNO=862&FINO=2590&UNID=K_R08060400011",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "鈴木由和"
+      ]
+    },
+    {
+      "id": "1ac9c40cbcd002706d25",
+      "place": "草加市",
+      "season": "summer",
+      "date": "2026-06-08",
+      "title": "2026-06-08 本会議録",
+      "url": "http://www.soka-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82U%8C%8E%81@%92%E8%97%E1%89%EF%81%7C06%8C%8E08%93%FA-02%8D%86&KGNO=862&FINO=2591&UNID=K_R08060800021",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "佐藤憲和",
+        "平野厚子",
+        "鈴木由和"
+      ]
+    },
+    {
+      "id": "5e460f49907b8e87eb5f",
+      "place": "草加市",
+      "season": "summer",
+      "date": "2026-06-15",
+      "title": "2026-06-15 本会議録",
+      "url": "http://www.soka-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82U%8C%8E%81@%92%E8%97%E1%89%EF%81%7C06%8C%8E15%93%FA-03%8D%86&KGNO=862&FINO=2595&UNID=K_R08061500031",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "並木正成",
+        "佐藤憲和",
+        "森覚",
+        "石川祐一",
+        "菊地慶太",
+        "藤原みどり",
+        "金井俊治",
+        "鈴木由和"
+      ]
+    },
+    {
+      "id": "4d0326cbd03d365bb225",
+      "place": "草加市",
+      "season": "summer",
+      "date": "2026-06-16",
+      "title": "2026-06-16 本会議録",
+      "url": "http://www.soka-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82U%8C%8E%81@%92%E8%97%E1%89%EF%81%7C06%8C%8E16%93%FA-04%8D%86&KGNO=862&FINO=2596&UNID=K_R08061600041",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "川﨑久範",
+        "木村忠義",
+        "田中宣光",
+        "金井俊治",
+        "鈴木由和",
+        "関一幸"
+      ]
+    },
+    {
+      "id": "41b1ffc48f67eb99c3cc",
+      "place": "草加市",
+      "season": "summer",
+      "date": "2026-06-17",
+      "title": "2026-06-17 本会議録",
+      "url": "http://www.soka-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82U%8C%8E%81@%92%E8%97%E1%89%EF%81%7C06%8C%8E17%93%FA-05%8D%86&KGNO=862&FINO=2597&UNID=K_R08061700051",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "平山杏香",
+        "平野厚子",
+        "田川浩司",
+        "矢部正平",
+        "鈴木由和"
+      ]
+    },
+    {
+      "id": "a1d2d659bf9bcadeaaa6",
+      "place": "草加市",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "2026-06-22 本会議録",
+      "url": "http://www.soka-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82U%8C%8E%81@%92%E8%97%E1%89%EF%81%7C06%8C%8E22%93%FA-06%8D%86&KGNO=862&FINO=2598&UNID=K_R08062200061",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "佐藤憲和",
+        "平野厚子",
+        "田中宣光",
+        "矢部正平",
+        "菊地慶太",
+        "鈴木由和"
+      ]
+    },
+    {
+      "id": "7182f3a4517514963a6e",
+      "place": "草加市",
+      "season": "fall",
+      "date": "2026-08-27",
+      "title": "2026-08-27 本会議録",
+      "url": "http://www.soka-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82X%8C%8E%81@%92%E8%97%E1%89%EF%81%7C08%8C%8E27%93%FA-01%8D%86&KGNO=866&FINO=2601&UNID=K_R08082700011",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "鈴木由和"
+      ]
+    },
+    {
+      "id": "dfdb9b22de6156791a01",
+      "place": "草加市",
+      "season": "fall",
+      "date": "2026-09-04",
+      "title": "2026-09-04 本会議録",
+      "url": "http://www.soka-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82X%8C%8E%81@%92%E8%97%E1%89%EF%81%7C09%8C%8E04%93%FA-02%8D%86&KGNO=866&FINO=2602&UNID=K_R08090400021",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "佐藤憲和",
+        "平野厚子",
+        "鈴木由和"
+      ]
+    },
+    {
+      "id": "44828acc68f1554d473f",
+      "place": "草加市",
+      "season": "fall",
+      "date": "2026-09-10",
+      "title": "2026-09-10 本会議録",
+      "url": "http://www.soka-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82X%8C%8E%81@%92%E8%97%E1%89%EF%81%7C09%8C%8E10%93%FA-03%8D%86&KGNO=866&FINO=2606&UNID=K_R08091000031",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "川﨑久範",
+        "平野厚子",
+        "森覚",
+        "矢部正平",
+        "石川祐一",
+        "菊地慶太",
+        "藤原みどり",
+        "金井俊治",
+        "鈴木由和"
+      ]
+    },
+    {
+      "id": "baf5aa26c710670452b9",
+      "place": "草加市",
+      "season": "fall",
+      "date": "2026-09-11",
+      "title": "2026-09-11 本会議録",
+      "url": "http://www.soka-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82X%8C%8E%81@%92%E8%97%E1%89%EF%81%7C09%8C%8E11%93%FA-04%8D%86&KGNO=866&FINO=2607&UNID=K_R08091100041",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "並木正成",
+        "佐藤憲和",
+        "田中宣光",
+        "金井俊治",
+        "鈴木由和"
+      ]
+    },
+    {
+      "id": "db8072068e12fd0bae43",
+      "place": "草加市",
+      "season": "fall",
+      "date": "2026-09-14",
+      "title": "2026-09-14 本会議録",
+      "url": "http://www.soka-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82X%8C%8E%81@%92%E8%97%E1%89%EF%81%7C09%8C%8E14%93%FA-05%8D%86&KGNO=866&FINO=2608&UNID=K_R08091400051",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "平山杏香",
+        "木村忠義",
+        "田川浩司",
+        "金井俊治",
+        "鈴木由和"
+      ]
+    },
+    {
+      "id": "375d6a398b0fe8c75f78",
+      "place": "草加市",
+      "season": "fall",
+      "date": "2026-09-16",
+      "title": "2026-09-16 本会議録",
+      "url": "http://www.soka-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82X%8C%8E%81@%92%E8%97%E1%89%EF%81%7C09%8C%8E16%93%FA-06%8D%86&KGNO=866&FINO=2609&UNID=K_R08091600061",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "佐藤憲和",
+        "川﨑久範",
+        "平野厚子",
+        "矢部正平",
+        "石川祐一",
+        "菊地慶太",
+        "鈴木由和"
+      ]
+    },
+    {
+      "id": "d6ea5dde074ba693d373",
+      "place": "蓮田市",
+      "season": "spring",
+      "date": "2026-03-06",
+      "title": "03月06日－一般質問－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/hasuda/SpMinuteView.html?tenant_id=51&council_id=407&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "勝浦敦",
+        "木佐木照男",
+        "秦邦雄",
+        "諸根善昭",
+        "近藤純枝",
+        "鈴木貴美子"
+      ]
+    },
+    {
+      "id": "afb4135bd17a21ea9ad3",
+      "place": "蓮田市",
+      "season": "spring",
+      "date": "2026-03-09",
+      "title": "03月09日－一般質問－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/hasuda/SpMinuteView.html?tenant_id=51&council_id=407&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "山田孝夫",
+        "木佐木照男",
+        "菊池義人",
+        "豊嶋遥",
+        "関根香織",
+        "高橋健一郎"
+      ]
+    },
+    {
+      "id": "4f94e5d785e0c9472800",
+      "place": "蓮田市",
+      "season": "spring",
+      "date": "2026-03-10",
+      "title": "03月10日－一般質問－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/hasuda/SpMinuteView.html?tenant_id=51&council_id=407&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "山田慎太郎",
+        "木佐木照男",
+        "榎本菜保",
+        "深田康孝",
+        "湯谷百合子",
+        "関根守男"
+      ]
+    },
+    {
+      "id": "028ecb25aeff9b51c939",
+      "place": "蓮田市",
+      "season": "summer",
+      "date": "2026-06-29",
+      "title": "06月29日－一般質問－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/hasuda/SpMinuteView.html?tenant_id=51&council_id=410&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "山田孝夫",
+        "木佐木照男",
+        "秦邦雄",
+        "諸根善昭",
+        "関根守男",
+        "高橋健一郎"
+      ]
+    },
+    {
+      "id": "a1e80fb734429a6c333b",
+      "place": "蓮田市",
+      "season": "summer",
+      "date": "2026-06-30",
+      "title": "06月30日－一般質問－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/hasuda/SpMinuteView.html?tenant_id=51&council_id=410&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "山田慎太郎",
+        "木佐木照男",
+        "榎本菜保",
+        "湯谷百合子",
+        "菊池義人",
+        "関根香織"
+      ]
+    },
+    {
+      "id": "10bdd2cd5aa2a95d7099",
+      "place": "蓮田市",
+      "season": "summer",
+      "date": "2026-07-01",
+      "title": "07月01日－一般質問－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/hasuda/SpMinuteView.html?tenant_id=51&council_id=410&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "木佐木照男",
+        "深田康孝",
+        "豊嶋遥",
+        "近藤純枝",
+        "鈴木貴美子",
+        "齋藤昌司"
+      ]
+    },
+    {
+      "id": "5ee44a8980fcc3bca6f0",
+      "place": "蓮田市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "はすだ市議会だより139号・9月の一般質問",
+      "url": "https://www.city.hasuda.saitama.jp/gikai/shise/shigikai/dayori/documents/0809ippansitumon.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
+      "speakers": []
+    },
+    {
+      "id": "976835e7852354d9e1fa",
+      "place": "蓮田市",
+      "season": "fall",
+      "date": "2026-09-17",
+      "title": "09月17日－一般質問－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/hasuda/SpMinuteView.html?tenant_id=51&council_id=413&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "山田孝夫",
+        "木佐木照男",
+        "湯谷百合子",
+        "菊池義人",
+        "諸根善昭",
+        "関根守男",
+        "高橋健一郎"
+      ]
+    },
+    {
+      "id": "cff3577eb5a53395b0ac",
+      "place": "蓮田市",
+      "season": "fall",
+      "date": "2026-09-18",
+      "title": "09月18日－一般質問－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/hasuda/SpMinuteView.html?tenant_id=51&council_id=413&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "勝浦敦",
+        "木佐木照男",
+        "榎本菜保",
+        "秦邦雄",
+        "関根香織",
+        "齋藤昌司"
+      ]
+    },
+    {
+      "id": "8fb17f4411e1a2ea784a",
+      "place": "蓮田市",
+      "season": "fall",
+      "date": "2026-09-24",
+      "title": "09月24日－一般質問－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/hasuda/SpMinuteView.html?tenant_id=51&council_id=413&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "山田慎太郎",
+        "木佐木照男",
+        "深田康孝",
+        "豊嶋遥",
+        "近藤純枝",
+        "鈴木貴美子"
+      ]
+    },
+    {
+      "id": "8a19a62b616df446038e",
+      "place": "蕨市",
+      "season": "spring",
+      "date": "2026-02-17",
+      "title": "2026-02-17 本会議録",
+      "url": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82Q%89%F1%92%E8%97%E1%89%EF%81%7C02%8C%8E17%93%FA-01%8D%86&HUID=122890&KGNO=612&FINO=1507&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "前川やすえ",
+        "大石圭子"
+      ]
+    },
+    {
+      "id": "b6a0e357d0a13a9380d7",
+      "place": "蕨市",
+      "season": "spring",
+      "date": "2026-02-25",
+      "title": "2026-02-25 本会議録",
+      "url": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82Q%89%F1%92%E8%97%E1%89%EF%81%7C02%8C%8E25%93%FA-02%8D%86&HUID=122922&KGNO=612&FINO=1508&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "前川やすえ",
+        "大石圭子",
+        "鈴木智"
+      ]
+    },
+    {
+      "id": "6ec8c640cb4997200d95",
+      "place": "蕨市",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "2026-02-26 本会議録",
+      "url": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82Q%89%F1%92%E8%97%E1%89%EF%81%7C02%8C%8E26%93%FA-03%8D%86&HUID=123071&KGNO=612&FINO=1509&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "前川やすえ",
+        "大石圭子",
+        "大石幸一",
+        "小林利規",
+        "榎本和孝",
+        "鈴木慎乃助"
+      ]
+    },
+    {
+      "id": "8a8709bdfafa11ad6273",
+      "place": "蕨市",
+      "season": "spring",
+      "date": "2026-03-12",
+      "title": "2026-03-12 本会議録",
+      "url": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82Q%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E12%93%FA-04%8D%86&HUID=123750&KGNO=612&FINO=1517&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "大石圭子",
+        "岡田みきお",
+        "庄野航二",
+        "栃本よしかね",
+        "比企孝司",
+        "矢嶋聡子"
+      ]
+    },
+    {
+      "id": "a05fe2668282767592cf",
+      "place": "蕨市",
+      "season": "spring",
+      "date": "2026-03-16",
+      "title": "2026-03-16 本会議録",
+      "url": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82Q%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E16%93%FA-05%8D%86&HUID=124013&KGNO=612&FINO=1518&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "大石圭子",
+        "本田てい子",
+        "金丸けんじ",
+        "鈴木慎乃助",
+        "鈴木智"
+      ]
+    },
+    {
+      "id": "45c4caddc1b50056c025",
+      "place": "蕨市",
+      "season": "spring",
+      "date": "2026-03-17",
+      "title": "2026-03-17 本会議録",
+      "url": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82Q%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E17%93%FA-06%8D%86&HUID=124217&KGNO=612&FINO=1519&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "大石圭子",
+        "宮下奈美",
+        "小林利規",
+        "山脇紀子",
+        "榎本和孝"
+      ]
+    },
+    {
+      "id": "4d143e608bf8d714112d",
+      "place": "蕨市",
+      "season": "spring",
+      "date": "2026-03-23",
+      "title": "2026-03-23 本会議録",
+      "url": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82Q%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E23%93%FA-07%8D%86&HUID=124504&KGNO=612&FINO=1521&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "前川やすえ",
+        "古川歩",
+        "大石圭子",
+        "宮下奈美",
+        "小林利規",
+        "庄野航二",
+        "本田てい子",
+        "栃本よしかね",
+        "榎本和孝",
+        "鈴木慎乃助",
+        "鈴木智"
+      ]
+    },
+    {
+      "id": "e72427a630a358601511",
+      "place": "蕨市",
+      "season": "summer",
+      "date": "2026-06-01",
+      "title": "2026-06-01 本会議録",
+      "url": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82R%89%F1%92%E8%97%E1%89%EF%81%7C06%8C%8E01%93%FA-01%8D%86&HUID=124628&KGNO=621&FINO=1524&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "前川やすえ",
+        "大石圭子"
+      ]
+    },
+    {
+      "id": "cf2d88c2261de7be07e2",
+      "place": "蕨市",
+      "season": "summer",
+      "date": "2026-06-03",
+      "title": "2026-06-03 本会議録",
+      "url": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82R%89%F1%92%E8%97%E1%89%EF%81%7C06%8C%8E03%93%FA-02%8D%86&HUID=124663&KGNO=621&FINO=1525&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "大石圭子",
+        "小林利規"
+      ]
+    },
+    {
+      "id": "9588c61834001c1fb727",
+      "place": "蕨市",
+      "season": "summer",
+      "date": "2026-06-15",
+      "title": "2026-06-15 本会議録",
+      "url": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82R%89%F1%92%E8%97%E1%89%EF%81%7C06%8C%8E15%93%FA-03%8D%86&HUID=124742&KGNO=621&FINO=1529&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "大石圭子",
+        "岡田みきお",
+        "庄野航二",
+        "栃本よしかね",
+        "比企孝司",
+        "矢嶋聡子"
+      ]
+    },
+    {
+      "id": "c6fed0dfdb4cdde56209",
+      "place": "蕨市",
+      "season": "summer",
+      "date": "2026-06-16",
+      "title": "2026-06-16 本会議録",
+      "url": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82R%89%F1%92%E8%97%E1%89%EF%81%7C06%8C%8E16%93%FA-04%8D%86&HUID=124974&KGNO=621&FINO=1530&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "古川歩",
+        "大石圭子",
+        "宮下奈美",
+        "本田てい子",
+        "鈴木慎乃助",
+        "鈴木智"
+      ]
+    },
+    {
+      "id": "173139e70ab9abc7a994",
+      "place": "蕨市",
+      "season": "summer",
+      "date": "2026-06-17",
+      "title": "2026-06-17 本会議録",
+      "url": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82R%89%F1%92%E8%97%E1%89%EF%81%7C06%8C%8E17%93%FA-05%8D%86&HUID=125209&KGNO=621&FINO=1531&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "前川やすえ",
+        "大石圭子",
+        "大石幸一",
+        "小林利規",
+        "山脇紀子",
+        "榎本和孝",
+        "金丸けんじ"
+      ]
+    },
+    {
+      "id": "6f56b21778756bdea7f4",
+      "place": "蕨市",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "2026-06-19 本会議録",
+      "url": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82R%89%F1%92%E8%97%E1%89%EF%81%7C06%8C%8E19%93%FA-06%8D%86&HUID=125466&KGNO=621&FINO=1532&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "大石圭子",
+        "庄野航二",
+        "本田てい子",
+        "栃本よしかね"
+      ]
+    },
+    {
+      "id": "f9fc40097eb5185ff0a4",
+      "place": "行田市",
+      "season": "spring",
+      "date": "2026-02-18",
+      "title": "02月18日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/gyoda/SpMinuteView.html?tenant_id=351&council_id=258&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "村田秀夫",
+        "福島ともお"
+      ]
+    },
+    {
+      "id": "c8616057ddd10e47f4ad",
+      "place": "行田市",
+      "season": "spring",
+      "date": "2026-02-19",
+      "title": "02月19日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/gyoda/SpMinuteView.html?tenant_id=351&council_id=258&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "福島ともお"
+      ]
+    },
+    {
+      "id": "ecfd7b451c170d0e2b6c",
+      "place": "行田市",
+      "season": "spring",
+      "date": "2026-02-25",
+      "title": "02月25日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/gyoda/SpMinuteView.html?tenant_id=351&council_id=258&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "小林淳一",
+        "小野寺貴男",
+        "岩崎彰",
+        "斉藤博美",
+        "村田秀夫",
+        "福島ともお",
+        "野本翔平",
+        "養田英雄",
+        "駒見行彦"
+      ]
+    },
+    {
+      "id": "089b568c6e2751c39281",
+      "place": "行田市",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "02月26日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/gyoda/SpMinuteView.html?tenant_id=351&council_id=258&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "小林修",
+        "岩崎彰",
+        "新諒平",
+        "福島ともお",
+        "養田英雄"
+      ]
+    },
+    {
+      "id": "157a52f369e750ecdd03",
+      "place": "行田市",
+      "season": "spring",
+      "date": "2026-02-27",
+      "title": "02月27日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/gyoda/SpMinuteView.html?tenant_id=351&council_id=258&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "小林修",
+        "斉藤博美",
+        "木村博",
+        "梁瀬里司",
+        "橋本祐一",
+        "田中和美",
+        "福島ともお"
+      ]
+    },
+    {
+      "id": "0f3d335b5d1b2c53ea38",
+      "place": "行田市",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "03月02日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/gyoda/SpMinuteView.html?tenant_id=351&council_id=258&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "大屋彰",
+        "小林淳一",
+        "村田秀夫",
+        "福島ともお",
+        "野本翔平",
+        "駒見行彦"
+      ]
+    },
+    {
+      "id": "8ce0248067e9a0a094b5",
+      "place": "行田市",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "03月03日－07号",
+      "url": "https://ssp.kaigiroku.net/tenant/gyoda/SpMinuteView.html?tenant_id=351&council_id=258&schedule_id=8",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "小野寺貴男",
+        "村田清治",
+        "福島ともお"
+      ]
+    },
+    {
+      "id": "8ac6dcd1bf89a7040cad",
+      "place": "行田市",
+      "season": "spring",
+      "date": "2026-03-19",
+      "title": "03月19日－08号",
+      "url": "https://ssp.kaigiroku.net/tenant/gyoda/SpMinuteView.html?tenant_id=351&council_id=258&schedule_id=9",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "小野寺貴男",
+        "斉藤博美",
+        "村田秀夫",
+        "田中和美",
+        "町田光",
+        "福島ともお",
+        "野本翔平"
+      ]
+    },
+    {
+      "id": "58b29ed88563941eb447",
+      "place": "行田市",
+      "season": "summer",
+      "date": "2026-06-04",
+      "title": "06月04日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/gyoda/SpMinuteView.html?tenant_id=351&council_id=260&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "斉藤博美",
+        "村田秀夫",
+        "梁瀬里司",
+        "福島ともお"
+      ]
+    },
+    {
+      "id": "0c6f0a66c48a2443be3a",
+      "place": "行田市",
+      "season": "summer",
+      "date": "2026-06-09",
+      "title": "06月09日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/gyoda/SpMinuteView.html?tenant_id=351&council_id=260&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "斉藤博美",
+        "村田秀夫",
+        "田中和美",
+        "福島ともお"
+      ]
+    },
+    {
+      "id": "2f58b8929207805618bd",
+      "place": "行田市",
+      "season": "summer",
+      "date": "2026-06-11",
+      "title": "06月11日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/gyoda/SpMinuteView.html?tenant_id=351&council_id=260&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "小林淳一",
+        "斉藤博美",
+        "橋本祐一",
+        "田中和美",
+        "福島ともお",
+        "養田英雄"
+      ]
+    },
+    {
+      "id": "a55e62c7ba6b25ce6b0b",
+      "place": "行田市",
+      "season": "summer",
+      "date": "2026-06-12",
+      "title": "06月12日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/gyoda/SpMinuteView.html?tenant_id=351&council_id=260&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "小林修",
+        "小野寺貴男",
+        "梁瀬里司",
+        "福島ともお",
+        "野本翔平",
+        "駒見行彦"
+      ]
+    },
+    {
+      "id": "7510fc5389f86b231bdb",
+      "place": "行田市",
+      "season": "summer",
+      "date": "2026-06-15",
+      "title": "06月15日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/gyoda/SpMinuteView.html?tenant_id=351&council_id=260&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "大屋彰",
+        "岩崎彰",
+        "新諒平",
+        "木村博",
+        "町田光",
+        "福島ともお"
+      ]
+    },
+    {
+      "id": "fd32742191a0f5e3526b",
+      "place": "行田市",
+      "season": "summer",
+      "date": "2026-06-16",
+      "title": "06月16日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/gyoda/SpMinuteView.html?tenant_id=351&council_id=260&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "村田清治",
+        "村田秀夫",
+        "福島ともお"
+      ]
+    },
+    {
+      "id": "f099070b4e9130c44586",
+      "place": "行田市",
+      "season": "summer",
+      "date": "2026-06-29",
+      "title": "06月29日－07号",
+      "url": "https://ssp.kaigiroku.net/tenant/gyoda/SpMinuteView.html?tenant_id=351&council_id=260&schedule_id=8",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "小林修",
+        "斉藤博美",
+        "木村博",
+        "村田秀夫",
+        "橋本祐一",
+        "田中和美",
+        "町田光",
+        "福島ともお",
+        "野本翔平",
+        "養田英雄"
+      ]
+    },
+    {
+      "id": "2b73dee9a756414f864d",
+      "place": "行田市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "ぎょうだ議会だより令和8年11月発行No.130 全ページ一括ダウンロード 全ページ (PDFファイル: 11.1MB)",
+      "url": "https://www.city.gyoda.lg.jp/material/files/group/50/2611.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。 OCRの確認警告があるPDF 1、2、3、5、7、15、16頁を除外しています。",
+      "speakers": []
+    },
+    {
+      "id": "88f8768ff1f6051699d9",
+      "place": "越生町",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "03月03日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/ogose/SpMinuteView.html?tenant_id=75&council_id=90&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "島野美佳子",
+        "木村正美",
+        "高橋一正"
+      ]
+    },
+    {
+      "id": "17cca61ab9eed134ddd9",
+      "place": "越生町",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "03月04日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/ogose/SpMinuteView.html?tenant_id=75&council_id=90&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "宮島サイ子",
+        "木村正美",
+        "池田かつ子",
+        "高橋一正"
+      ]
+    },
+    {
+      "id": "2ce5a016d8adc4e76f61",
+      "place": "越生町",
+      "season": "spring",
+      "date": "2026-03-05",
+      "title": "03月05日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/ogose/SpMinuteView.html?tenant_id=75&council_id=90&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "宮島サイ子",
+        "島野美佳子",
+        "木村好美",
+        "木村正美",
+        "池田かつ子",
+        "長根弘倫",
+        "関根真一",
+        "高橋一正"
+      ]
+    },
+    {
+      "id": "91880a46d9aebb9662d5",
+      "place": "越生町",
+      "season": "spring",
+      "date": "2026-03-06",
+      "title": "03月06日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/ogose/SpMinuteView.html?tenant_id=75&council_id=90&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "島野美佳子",
+        "木村正美",
+        "池田かつ子",
+        "高橋一正"
+      ]
+    },
+    {
+      "id": "28693a66f0ddd6bd1a6e",
+      "place": "越生町",
+      "season": "spring",
+      "date": "2026-03-09",
+      "title": "03月09日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/ogose/SpMinuteView.html?tenant_id=75&council_id=90&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "宮島サイ子",
+        "木村好美",
+        "木村正美",
+        "長根弘倫"
+      ]
+    },
+    {
+      "id": "f35736e6d886e22316ab",
+      "place": "越生町",
+      "season": "spring",
+      "date": "2026-03-10",
+      "title": "03月10日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/ogose/SpMinuteView.html?tenant_id=75&council_id=90&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "島野美佳子",
+        "木村正美",
+        "関根真一"
+      ]
+    },
+    {
+      "id": "8620b10bc71d5014128d",
+      "place": "越生町",
+      "season": "spring",
+      "date": "2026-03-19",
+      "title": "03月19日－07号",
+      "url": "https://ssp.kaigiroku.net/tenant/ogose/SpMinuteView.html?tenant_id=75&council_id=90&schedule_id=8",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "島野美佳子",
+        "木村正美",
+        "関根真一",
+        "高橋一正"
+      ]
+    },
+    {
+      "id": "fcedc784b5b7b28ee724",
+      "place": "越生町",
+      "season": "summer",
+      "date": "2026-06-02",
+      "title": "06月02日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/ogose/SpMinuteView.html?tenant_id=75&council_id=91&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "宮島サイ子",
+        "島野美佳子",
+        "木村好美",
+        "木村正美",
+        "池田かつ子",
+        "関根真一",
+        "高橋一正"
+      ]
+    },
+    {
+      "id": "bdef2acbf0d249cba8b3",
+      "place": "越生町",
+      "season": "summer",
+      "date": "2026-06-03",
+      "title": "06月03日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/ogose/SpMinuteView.html?tenant_id=75&council_id=91&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "島野美佳子",
+        "木村好美",
+        "木村正美"
+      ]
+    },
+    {
+      "id": "c110d1d9ccc7adb78fbd",
+      "place": "越生町",
+      "season": "summer",
+      "date": "2026-06-04",
+      "title": "06月04日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/ogose/SpMinuteView.html?tenant_id=75&council_id=91&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "宮島サイ子",
+        "木村正美",
+        "長根弘倫",
+        "高橋一正"
+      ]
+    },
+    {
+      "id": "2e86b2ff7ce946cfff39",
+      "place": "越生町",
+      "season": "summer",
+      "date": "2026-06-08",
+      "title": "06月08日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/ogose/SpMinuteView.html?tenant_id=75&council_id=91&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "木村正美",
+        "栗原誠",
+        "池田かつ子",
+        "関根真一"
+      ]
+    },
+    {
+      "id": "ec431397862634b3768f",
+      "place": "越谷市",
+      "season": "spring",
+      "date": "2026-02-24",
+      "title": "02月24日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=714&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "畑谷茂"
+      ]
+    },
+    {
+      "id": "42b71c0e68309327321d",
+      "place": "越谷市",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "03月02日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=714&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "畑谷茂",
+        "白川秀嗣",
+        "竹内栄治",
+        "菊地貴光",
+        "野口佳司"
+      ]
+    },
+    {
+      "id": "9fea6a2c829ddc1b2ad0",
+      "place": "越谷市",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "03月03日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=714&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "大和田哲",
+        "小林成好",
+        "後藤孝江",
+        "畑谷茂",
+        "菊地貴光"
+      ]
+    },
+    {
+      "id": "1b6a81f4929f5dcd947c",
+      "place": "越谷市",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "03月04日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=714&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "大田ちひろ",
+        "横井聖美",
+        "武藤智",
+        "浅古高志",
+        "清水泉",
+        "畑谷茂",
+        "菊地貴光",
+        "野口佳司"
+      ]
+    },
+    {
+      "id": "3c3b0184b0ec614bb90d",
+      "place": "越谷市",
+      "season": "spring",
+      "date": "2026-03-05",
+      "title": "03月05日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=714&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "松島孝夫",
+        "畑谷茂",
+        "立澤貴明",
+        "菊地貴光",
+        "野口高明",
+        "金井直樹"
+      ]
+    },
+    {
+      "id": "61d7d6d12a4d637ad6f6",
+      "place": "越谷市",
+      "season": "spring",
+      "date": "2026-03-06",
+      "title": "03月06日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=714&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "大田ちひろ",
+        "山田大助",
+        "工藤秀次",
+        "松島孝夫",
+        "浅古高志",
+        "畑谷茂",
+        "白川秀嗣"
+      ]
+    },
+    {
+      "id": "ea6ac7412335232b1563",
+      "place": "越谷市",
+      "season": "spring",
+      "date": "2026-03-18",
+      "title": "03月18日－07号",
+      "url": "https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=714&schedule_id=8",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "大和田哲",
+        "小口高寛",
+        "山田大助",
+        "後藤孝江",
+        "横井聖美",
+        "浅古高志",
+        "畑谷茂",
+        "白川秀嗣"
+      ]
+    },
+    {
+      "id": "c143df8a5741f19b17c1",
+      "place": "越谷市",
+      "season": "summer",
+      "date": "2026-06-01",
+      "title": "06月01日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=728&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "大田ちひろ",
+        "大野恭子",
+        "山田大助",
+        "後藤孝江",
+        "斎藤豪人",
+        "松島孝夫",
+        "武藤智",
+        "浅古高志",
+        "清水泉",
+        "畑谷茂",
+        "白川秀嗣",
+        "竹内栄治",
+        "菊地貴光",
+        "野口高明"
+      ]
+    },
+    {
+      "id": "011dde6e0ec01ba15e3b",
+      "place": "越谷市",
+      "season": "summer",
+      "date": "2026-06-05",
+      "title": "06月05日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=728&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "土屋来夢",
+        "小林成好",
+        "小林豊代子",
+        "武藤智",
+        "浅古高志",
+        "清水泉",
+        "竹内栄治",
+        "菊地貴光"
+      ]
+    },
+    {
+      "id": "bfff51dacd0b87b022d4",
+      "place": "越谷市",
+      "season": "summer",
+      "date": "2026-06-08",
+      "title": "06月08日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=728&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "和泉田宏幸",
+        "大和田哲",
+        "大野恭子",
+        "横井聖美",
+        "浅古高志",
+        "瀬賀恭子",
+        "竹内栄治"
+      ]
+    },
+    {
+      "id": "36d11cf922205d360a90",
+      "place": "越谷市",
+      "season": "summer",
+      "date": "2026-06-09",
+      "title": "06月09日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=728&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "久保田茂",
+        "大田ちひろ",
+        "小口高寛",
+        "山田大助",
+        "斎藤豪人",
+        "浅古高志",
+        "竹内栄治"
+      ]
+    },
+    {
+      "id": "2fc47e436aff9084e431",
+      "place": "越谷市",
+      "season": "summer",
+      "date": "2026-06-10",
+      "title": "06月10日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=728&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "工藤秀次",
+        "松島孝夫",
+        "浅古高志",
+        "立澤貴明",
+        "竹内栄治",
+        "野口高明",
+        "金井直樹"
+      ]
+    },
+    {
+      "id": "bbf18a61e84db20f7be8",
+      "place": "越谷市",
+      "season": "summer",
+      "date": "2026-06-11",
+      "title": "06月11日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=728&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "白川秀嗣",
+        "竹内栄治"
+      ]
+    },
+    {
+      "id": "f4ff89f04e8791c49c94",
+      "place": "越谷市",
+      "season": "summer",
+      "date": "2026-06-18",
+      "title": "06月18日－07号",
+      "url": "https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=728&schedule_id=8",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "大和田哲",
+        "小林成好",
+        "山田大助",
+        "工藤秀次",
+        "清水泉",
+        "白川秀嗣",
+        "立澤貴明",
+        "竹内栄治"
+      ]
+    },
+    {
+      "id": "68864426f4a31e3e99f2",
+      "place": "越谷市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "越谷市議会だより234号・9月定例会の一般質問（6〜7頁）",
+      "url": "https://www.city.koshigaya.saitama.jp/gikai/dayori/2026/234-6-7.html",
+      "kind": "議会だよりの質問・答弁要旨（HTML）",
+      "scope": "summary",
+      "note": "公式広報の編集済み要旨。会議録の逐語本文とは別に収録しています。",
+      "speakers": [
+        "久保田茂",
+        "和泉田宏幸",
+        "土屋来夢",
+        "大和田哲",
+        "大田ちひろ",
+        "大野恭子",
+        "小口高寛",
+        "小林成好",
+        "山田大助",
+        "島田玲子",
+        "工藤秀次",
+        "斎藤豪人",
+        "松島孝夫",
+        "横井聖美",
+        "武藤智",
+        "清水泉",
+        "清田巳喜男",
+        "立澤貴明",
+        "菊地貴光",
+        "藤部徳治",
+        "野口高明",
+        "金井直樹"
+      ]
+    },
+    {
+      "id": "f0ca3598087e29afcf15",
+      "place": "長瀞町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "令和8年3月定例会・会議録",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf",
+      "kind": "公式会議録PDFのOCR転記",
+      "scope": "minutes",
+      "note": "公式PDFの本文をローカルOCRで転記。頁番号はPDF内の位置です。原本を出典として表示します。",
+      "speakers": [
+        "中川博介",
+        "大島瑠美子",
+        "新井利朗",
+        "村田徹也",
+        "近藤一美"
+      ]
+    },
+    {
+      "id": "36ad40af3b871179953c",
+      "place": "長瀞町",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "令和8年6月定例会・会議録",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/09/a44d0a483c989d24a206dc636fbee91f.pdf",
+      "kind": "公式会議録PDFのOCR転記",
+      "scope": "minutes",
+      "note": "公式PDFの本文をローカルOCRで転記。頁番号はPDF内の位置です。原本を出典として表示します。",
+      "speakers": [
+        "中川博介",
+        "大島瑠美子",
+        "村田徹也",
+        "村田武彦"
+      ]
+    },
+    {
+      "id": "f90b2c1a871b04a81b44",
+      "place": "長瀞町",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "長瀞町議会だより第39号 4～6頁",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
+      "speakers": []
+    },
+    {
+      "id": "bc7ac9b34e4eebb2bc46",
+      "place": "飯能市",
+      "season": "spring",
+      "date": "2026-02-27",
+      "title": "02月27日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/hanno/SpMinuteView.html?tenant_id=601&council_id=139&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "加涌弘貴",
+        "平沼弘",
+        "新井巧",
+        "栗原義幸",
+        "熊田尚子",
+        "金子敏江",
+        "長谷川順子",
+        "関田直子"
+      ]
+    },
+    {
+      "id": "91c37e8fa39b85c6af74",
+      "place": "飯能市",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "03月04日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/hanno/SpMinuteView.html?tenant_id=601&council_id=139&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "山口則弘",
+        "新井巧",
+        "栗原義幸",
+        "滝沢修",
+        "熊田尚子",
+        "金子敏江",
+        "長谷川順子",
+        "関田直子"
+      ]
+    },
+    {
+      "id": "52aff2962fbee69eadb2",
+      "place": "飯能市",
+      "season": "spring",
+      "date": "2026-03-12",
+      "title": "03月12日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/hanno/SpMinuteView.html?tenant_id=601&council_id=139&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "山口則弘",
+        "岩田隆弘",
+        "栗原義幸",
+        "椙田博之",
+        "滝沢修",
+        "関田直子"
+      ]
+    },
+    {
+      "id": "137d690fd374a61bc459",
+      "place": "飯能市",
+      "season": "spring",
+      "date": "2026-03-16",
+      "title": "03月16日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/hanno/SpMinuteView.html?tenant_id=601&council_id=139&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "小野まり",
+        "新井巧",
+        "栗原義幸",
+        "武田一宏",
+        "長谷川順子"
+      ]
+    },
+    {
+      "id": "533a3ca7c91aa3fd47f2",
+      "place": "飯能市",
+      "season": "spring",
+      "date": "2026-03-17",
+      "title": "03月17日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/hanno/SpMinuteView.html?tenant_id=601&council_id=139&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "パタソンひとみ",
+        "中元太",
+        "栗原義幸",
+        "熊田尚子",
+        "金子敏江"
+      ]
+    },
+    {
+      "id": "98898dc49fac40dfad1f",
+      "place": "飯能市",
+      "season": "spring",
+      "date": "2026-03-25",
+      "title": "03月25日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/hanno/SpMinuteView.html?tenant_id=601&council_id=139&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中元太",
+        "加涌弘貴",
+        "小野まり",
+        "山口則弘",
+        "岩田隆弘",
+        "新井巧",
+        "栗原義幸",
+        "椙田博之",
+        "武田一宏",
+        "滝沢修",
+        "熊田尚子",
+        "金子敏江",
+        "長谷川順子",
+        "関田直子",
+        "鳥居誠明"
+      ]
+    },
+    {
+      "id": "4de74d464ba5dba25751",
+      "place": "飯能市",
+      "season": "summer",
+      "date": "2026-06-05",
+      "title": "06月05日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/hanno/SpMinuteView.html?tenant_id=601&council_id=140&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "加涌弘貴",
+        "小野まり",
+        "栗原義幸",
+        "椙田博之",
+        "滝沢修",
+        "鳥居誠明"
+      ]
+    },
+    {
+      "id": "990019c51ad0289a337c",
+      "place": "飯能市",
+      "season": "summer",
+      "date": "2026-06-10",
+      "title": "06月10日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/hanno/SpMinuteView.html?tenant_id=601&council_id=140&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中元太",
+        "山口則弘",
+        "岩田隆弘",
+        "新井巧",
+        "栗原義幸",
+        "滝沢修",
+        "熊田尚子",
+        "金子敏江",
+        "長谷川順子",
+        "関田直子"
+      ]
+    },
+    {
+      "id": "ffcf5f9e826832065f62",
+      "place": "飯能市",
+      "season": "summer",
+      "date": "2026-06-16",
+      "title": "06月16日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/hanno/SpMinuteView.html?tenant_id=601&council_id=140&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "山口則弘",
+        "岩田隆弘",
+        "栗原義幸",
+        "椙田博之",
+        "滝沢修",
+        "関田直子"
+      ]
+    },
+    {
+      "id": "3f38c4f23ae133f21d62",
+      "place": "飯能市",
+      "season": "summer",
+      "date": "2026-06-17",
+      "title": "06月17日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/hanno/SpMinuteView.html?tenant_id=601&council_id=140&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "平沼弘",
+        "新井巧",
+        "栗原義幸",
+        "武田一宏",
+        "金子敏江",
+        "長谷川順子"
+      ]
+    },
+    {
+      "id": "f285010f8e959759158a",
+      "place": "飯能市",
+      "season": "summer",
+      "date": "2026-06-18",
+      "title": "06月18日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/hanno/SpMinuteView.html?tenant_id=601&council_id=140&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "パタソンひとみ",
+        "中元太",
+        "小野まり",
+        "栗原義幸",
+        "熊田尚子",
+        "美齊津大貴"
+      ]
+    },
+    {
+      "id": "820fc5549cb98fc2b352",
+      "place": "飯能市",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "06月23日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/hanno/SpMinuteView.html?tenant_id=601&council_id=140&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "加涌弘貴",
+        "岩田隆弘",
+        "栗原義幸",
+        "武田一宏",
+        "滝沢修",
+        "熊田尚子",
+        "関田直子"
+      ]
+    },
+    {
+      "id": "5c5a549fc108a0757f50",
+      "place": "飯能市",
+      "season": "fall",
+      "date": "2026-09-04",
+      "title": "09月04日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/hanno/SpMinuteView.html?tenant_id=601&council_id=141&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "加涌弘貴",
+        "山口則弘",
+        "岩田隆弘",
+        "栗原義幸"
+      ]
+    },
+    {
+      "id": "bb4b0d693d7123baad4d",
+      "place": "飯能市",
+      "season": "fall",
+      "date": "2026-09-09",
+      "title": "09月09日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/hanno/SpMinuteView.html?tenant_id=601&council_id=141&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中元太",
+        "山口則弘",
+        "新井巧",
+        "栗原義幸",
+        "滝沢修",
+        "熊田尚子",
+        "金子敏江",
+        "長谷川順子"
+      ]
+    },
+    {
+      "id": "344a66ad641eee37e0a5",
+      "place": "飯能市",
+      "season": "fall",
+      "date": "2026-09-18",
+      "title": "09月18日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/hanno/SpMinuteView.html?tenant_id=601&council_id=141&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "山口則弘",
+        "岩田隆弘",
+        "栗原義幸",
+        "椙田博之",
+        "武田一宏",
+        "滝沢修"
+      ]
+    },
+    {
+      "id": "61acb79007def8845773",
+      "place": "飯能市",
+      "season": "fall",
+      "date": "2026-09-24",
+      "title": "09月24日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/hanno/SpMinuteView.html?tenant_id=601&council_id=141&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "岩田隆弘",
+        "平沼弘",
+        "新井巧",
+        "栗原義幸",
+        "美齊津大貴",
+        "長谷川順子",
+        "関田直子"
+      ]
+    },
+    {
+      "id": "6cf42e204f3a847f5cf8",
+      "place": "飯能市",
+      "season": "fall",
+      "date": "2026-09-25",
+      "title": "09月25日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/hanno/SpMinuteView.html?tenant_id=601&council_id=141&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "パタソンひとみ",
+        "中元太",
+        "小野まり",
+        "栗原義幸",
+        "熊田尚子",
+        "金子敏江"
+      ]
+    },
+    {
+      "id": "472ee29d83f20e9377f7",
+      "place": "飯能市",
+      "season": "fall",
+      "date": "2026-09-29",
+      "title": "09月29日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/hanno/SpMinuteView.html?tenant_id=601&council_id=141&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "加涌弘貴",
+        "小野まり",
+        "山口則弘",
+        "岩田隆弘",
+        "平沼弘",
+        "新井巧",
+        "栗原義幸",
+        "武田一宏",
+        "滝沢修",
+        "熊田尚子",
+        "金子敏江",
+        "長谷川順子",
+        "関田直子"
+      ]
+    },
+    {
+      "id": "5a65527c42513f82b250",
+      "place": "鳩山町",
+      "season": "spring",
+      "date": "2026-02-27",
+      "title": "02月27日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=242&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中山明美",
+        "日坂和久",
+        "松浪健一郎",
+        "清水秀幸",
+        "石井徹",
+        "石井計次",
+        "野田小百合",
+        "関根清隆"
+      ]
+    },
+    {
+      "id": "be559b61a44312442730",
+      "place": "鳩山町",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "03月02日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=242&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "小鷹房義",
+        "日坂和久",
+        "松浪健一郎",
+        "野田小百合",
+        "関根清隆"
+      ]
+    },
+    {
+      "id": "1ecf800721d30a5c09eb",
+      "place": "鳩山町",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "03月03日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=242&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中山明美",
+        "松浪健一郎",
+        "清水秀幸",
+        "石井徹",
+        "石井計次"
+      ]
+    },
+    {
+      "id": "7f527706f30340d8216d",
+      "place": "鳩山町",
+      "season": "spring",
+      "date": "2026-03-13",
+      "title": "03月13日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=242&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中山明美",
+        "日坂和久",
+        "松浪健一郎",
+        "森利夫",
+        "清水秀幸",
+        "石井計次",
+        "野田小百合",
+        "関根清隆"
+      ]
+    },
+    {
+      "id": "f0fcf93692ab0e6749e1",
+      "place": "鳩山町",
+      "season": "summer",
+      "date": "2026-06-02",
+      "title": "06月02日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=245&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中山明美",
+        "日坂和久",
+        "松浪健一郎",
+        "石井計次"
+      ]
+    },
+    {
+      "id": "3992cf9c6070c9d130fb",
+      "place": "鳩山町",
+      "season": "summer",
+      "date": "2026-06-03",
+      "title": "06月03日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=245&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "日坂和久",
+        "松浪健一郎",
+        "森利夫",
+        "石井計次",
+        "関根清隆"
+      ]
+    },
+    {
+      "id": "f1e09d40052acce91373",
+      "place": "鳩山町",
+      "season": "summer",
+      "date": "2026-06-04",
+      "title": "06月04日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=245&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中山明美",
+        "小鷹房義",
+        "松浪健一郎",
+        "森利夫",
+        "清水秀幸",
+        "石井徹",
+        "野田小百合"
+      ]
+    },
+    {
+      "id": "6be7d0e6290ac567481d",
+      "place": "鳩山町",
+      "season": "summer",
+      "date": "2026-06-10",
+      "title": "06月10日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=245&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "松浪健一郎",
+        "石井徹",
+        "野田小百合"
+      ]
+    },
+    {
+      "id": "89289de0ca7e8e2212c6",
+      "place": "鳩山町",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "鳩山町議会だより174号・9月定例会の一般質問（9〜13頁）",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346211_doc_63_0.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
+      "speakers": []
+    },
+    {
+      "id": "745c2b830deb56f08a01",
+      "place": "鴻巣市",
+      "season": "spring",
+      "date": "2026-02-20",
+      "title": "02月20日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/kounosu/SpMinuteView.html?tenant_id=85&council_id=427&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "坂本国広",
+        "市ノ川徳宏",
+        "橋本稔",
+        "芝嵜和好",
+        "藤村孝志",
+        "諏訪三津枝"
+      ]
+    },
+    {
+      "id": "aadb19a5a75c0301ec66",
+      "place": "鴻巣市",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "03月02日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/kounosu/SpMinuteView.html?tenant_id=85&council_id=427&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "小泉晋史",
+        "川﨑葉子",
+        "橋本稔",
+        "潮田幸子",
+        "田中克美",
+        "秋谷修",
+        "竹田悦子",
+        "芝嵜和好",
+        "西尾綾子",
+        "諏訪三津枝",
+        "金澤孝太郎",
+        "高橋亜紀"
+      ]
+    },
+    {
+      "id": "8af9525b6ed30c6d5606",
+      "place": "鴻巣市",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "03月03日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/kounosu/SpMinuteView.html?tenant_id=85&council_id=427&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "橋本稔",
+        "潮田幸子",
+        "竹田悦子",
+        "藤村孝志",
+        "西尾綾子"
+      ]
+    },
+    {
+      "id": "8900a083eb62abba2532",
+      "place": "鴻巣市",
+      "season": "spring",
+      "date": "2026-03-12",
+      "title": "03月12日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/kounosu/SpMinuteView.html?tenant_id=85&council_id=427&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "橋本稔",
+        "矢島洋文",
+        "茂利博之",
+        "藤村孝志",
+        "金子雄一",
+        "金澤孝太郎",
+        "高橋亜紀"
+      ]
+    },
+    {
+      "id": "b14db3fde78c83625868",
+      "place": "鴻巣市",
+      "season": "spring",
+      "date": "2026-03-16",
+      "title": "03月16日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/kounosu/SpMinuteView.html?tenant_id=85&council_id=427&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中西耕二郎",
+        "古山大輔",
+        "後藤耕佑",
+        "橋本稔",
+        "潮田幸子",
+        "矢島洋文",
+        "竹田悦子",
+        "織田京子"
+      ]
+    },
+    {
+      "id": "e788526c889766166353",
+      "place": "鴻巣市",
+      "season": "spring",
+      "date": "2026-03-17",
+      "title": "03月17日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/kounosu/SpMinuteView.html?tenant_id=85&council_id=427&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "川﨑葉子",
+        "橋本稔",
+        "田中克美",
+        "矢島洋文",
+        "羽鳥健",
+        "西尾綾子"
+      ]
+    },
+    {
+      "id": "c5cec757be2cabb6d2ee",
+      "place": "鴻巣市",
+      "season": "spring",
+      "date": "2026-03-18",
+      "title": "03月18日－07号",
+      "url": "https://ssp.kaigiroku.net/tenant/kounosu/SpMinuteView.html?tenant_id=85&council_id=427&schedule_id=8",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "坂本国広",
+        "大塚佳之",
+        "橋本稔",
+        "矢島洋文",
+        "竹田悦子",
+        "諏訪三津枝"
+      ]
+    },
+    {
+      "id": "8584a6b1d8eaa634f9a6",
+      "place": "鴻巣市",
+      "season": "spring",
+      "date": "2026-03-23",
+      "title": "03月23日－08号",
+      "url": "https://ssp.kaigiroku.net/tenant/kounosu/SpMinuteView.html?tenant_id=85&council_id=427&schedule_id=9",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中西耕二郎",
+        "川﨑葉子",
+        "橋本稔",
+        "潮田幸子",
+        "田中克美",
+        "竹田悦子",
+        "織田京子",
+        "芝嵜和好",
+        "茂利博之",
+        "藤村孝志",
+        "西尾綾子",
+        "諏訪三津枝",
+        "高橋亜紀"
+      ]
+    },
+    {
+      "id": "7ca17fd86916d7b6fa79",
+      "place": "鴻巣市",
+      "season": "summer",
+      "date": "2026-05-22",
+      "title": "05月22日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/kounosu/SpMinuteView.html?tenant_id=85&council_id=430&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "橋本稔",
+        "竹田悦子",
+        "諏訪三津枝",
+        "金子雄一"
+      ]
+    },
+    {
+      "id": "91b9bd0962e173c63084",
+      "place": "鴻巣市",
+      "season": "summer",
+      "date": "2026-05-29",
+      "title": "05月29日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/kounosu/SpMinuteView.html?tenant_id=85&council_id=430&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "小泉晋史",
+        "川﨑葉子",
+        "後藤耕佑",
+        "橋本稔",
+        "潮田幸子",
+        "矢島洋文",
+        "秋谷修",
+        "竹田悦子",
+        "織田京子",
+        "芝嵜和好",
+        "茂利博之",
+        "藤村孝志",
+        "西尾綾子"
+      ]
+    },
+    {
+      "id": "22a48d8b2ea79c37302e",
+      "place": "鴻巣市",
+      "season": "summer",
+      "date": "2026-06-05",
+      "title": "06月05日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/kounosu/SpMinuteView.html?tenant_id=85&council_id=430&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "川﨑葉子",
+        "潮田幸子",
+        "芝嵜和好",
+        "茂利博之",
+        "藤村孝志",
+        "金子雄一",
+        "金澤孝太郎"
+      ]
+    },
+    {
+      "id": "22360ae373ae430798fd",
+      "place": "鴻巣市",
+      "season": "summer",
+      "date": "2026-06-08",
+      "title": "06月08日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/kounosu/SpMinuteView.html?tenant_id=85&council_id=430&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中西耕二郎",
+        "古山大輔",
+        "川﨑葉子",
+        "後藤耕佑",
+        "田中克美",
+        "羽鳥健",
+        "芝嵜和好"
+      ]
+    },
+    {
+      "id": "46aa9c37236b99253bd3",
+      "place": "鴻巣市",
+      "season": "summer",
+      "date": "2026-06-10",
+      "title": "06月10日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/kounosu/SpMinuteView.html?tenant_id=85&council_id=430&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "坂本国広",
+        "川﨑葉子",
+        "羽鳥健",
+        "芝嵜和好",
+        "西尾綾子",
+        "高橋亜紀"
+      ]
+    },
+    {
+      "id": "f6c17b001e51b1e4aa6a",
+      "place": "鴻巣市",
+      "season": "summer",
+      "date": "2026-06-11",
+      "title": "06月11日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/kounosu/SpMinuteView.html?tenant_id=85&council_id=430&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "大塚佳之",
+        "川﨑葉子",
+        "矢島洋文",
+        "竹田悦子",
+        "織田京子",
+        "芝嵜和好",
+        "西尾綾子",
+        "諏訪三津枝"
+      ]
+    },
+    {
+      "id": "0f3a887d18365cd45098",
+      "place": "鴻巣市",
+      "season": "summer",
+      "date": "2026-06-15",
+      "title": "06月15日－07号",
+      "url": "https://ssp.kaigiroku.net/tenant/kounosu/SpMinuteView.html?tenant_id=85&council_id=430&schedule_id=8",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中西耕二郎",
+        "古山大輔",
+        "川﨑葉子",
+        "潮田幸子",
+        "竹田悦子",
+        "芝嵜和好",
+        "西尾綾子",
+        "諏訪三津枝",
+        "金澤孝太郎",
+        "高橋亜紀"
+      ]
+    },
+    {
+      "id": "b8cb7b56db7f41e1c8c3",
+      "place": "鴻巣市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "鴻巣市議会だより84号・9月定例会の一般質問（紙面8〜11頁）",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28860.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
+      "speakers": []
+    },
+    {
+      "id": "3226580dd8a96c597377",
+      "place": "鶴ヶ島市",
+      "season": "spring",
+      "date": "2026-02-24",
+      "title": "02月24日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/tsurugashima/SpMinuteView.html?tenant_id=42&council_id=362&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "内野嘉広",
+        "大曽根英明"
+      ]
+    },
+    {
+      "id": "7c1210b0f5827b5209a2",
+      "place": "鶴ヶ島市",
+      "season": "spring",
+      "date": "2026-02-27",
+      "title": "02月27日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/tsurugashima/SpMinuteView.html?tenant_id=42&council_id=362&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "内野嘉広",
+        "太田忠芳",
+        "山中基充",
+        "村上信吉",
+        "福島恵美",
+        "長谷川清",
+        "髙篠雅洋"
+      ]
+    },
+    {
+      "id": "efb990d46a646826354f",
+      "place": "鶴ヶ島市",
+      "season": "spring",
+      "date": "2026-03-16",
+      "title": "03月16日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/tsurugashima/SpMinuteView.html?tenant_id=42&council_id=362&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "内野嘉広",
+        "大野洋子",
+        "小川茂",
+        "小林ひとみ",
+        "村上信吉",
+        "瀧嶋正紀"
+      ]
+    },
+    {
+      "id": "59bb9aff83300ca2a77d",
+      "place": "鶴ヶ島市",
+      "season": "spring",
+      "date": "2026-03-17",
+      "title": "03月17日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/tsurugashima/SpMinuteView.html?tenant_id=42&council_id=362&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "今野雄一",
+        "内野嘉広",
+        "大曽根英明",
+        "太田忠芳",
+        "長谷川清",
+        "髙篠雅洋"
+      ]
+    },
+    {
+      "id": "c8f468f2a047dc3f46f2",
+      "place": "鶴ヶ島市",
+      "season": "spring",
+      "date": "2026-03-18",
+      "title": "03月18日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/tsurugashima/SpMinuteView.html?tenant_id=42&council_id=362&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "内野嘉広",
+        "出雲敏太郎",
+        "山中基充",
+        "福島恵美",
+        "髙橋剣二"
+      ]
+    },
+    {
+      "id": "833efbc75cf21ef17c76",
+      "place": "鶴ヶ島市",
+      "season": "spring",
+      "date": "2026-03-19",
+      "title": "03月19日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/tsurugashima/SpMinuteView.html?tenant_id=42&council_id=362&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "内野嘉広",
+        "大曽根英明",
+        "太田忠芳",
+        "小川茂",
+        "山中基充",
+        "杉田恭之",
+        "村上信吉",
+        "福島恵美",
+        "長谷川清"
+      ]
+    },
+    {
+      "id": "9a4bb351a4da333069af",
+      "place": "鶴ヶ島市",
+      "season": "summer",
+      "date": "2026-05-29",
+      "title": "05月29日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/tsurugashima/SpMinuteView.html?tenant_id=42&council_id=366&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "内野嘉広"
+      ]
+    },
+    {
+      "id": "59dce5a0ecb7d3511633",
+      "place": "鶴ヶ島市",
+      "season": "summer",
+      "date": "2026-06-02",
+      "title": "06月02日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/tsurugashima/SpMinuteView.html?tenant_id=42&council_id=366&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "内野嘉広",
+        "福島恵美",
+        "長谷川清"
+      ]
+    },
+    {
+      "id": "5512944b1b36d36dd898",
+      "place": "鶴ヶ島市",
+      "season": "summer",
+      "date": "2026-06-12",
+      "title": "06月12日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/tsurugashima/SpMinuteView.html?tenant_id=42&council_id=366&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "内野嘉広",
+        "大曽根英明",
+        "小川茂",
+        "小林ひとみ",
+        "山中基充",
+        "村上信吉"
+      ]
+    },
+    {
+      "id": "2930de32dfaf421537fa",
+      "place": "鶴ヶ島市",
+      "season": "summer",
+      "date": "2026-06-15",
+      "title": "06月15日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/tsurugashima/SpMinuteView.html?tenant_id=42&council_id=366&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "今野雄一",
+        "内野嘉広",
+        "大野洋子",
+        "太田忠芳",
+        "瀧嶋正紀",
+        "髙篠雅洋"
+      ]
+    },
+    {
+      "id": "d525bf505c2d723695dc",
+      "place": "鶴ヶ島市",
+      "season": "summer",
+      "date": "2026-06-16",
+      "title": "06月16日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/tsurugashima/SpMinuteView.html?tenant_id=42&council_id=366&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "内野嘉広",
+        "出雲敏太郎",
+        "小島幸広",
+        "福島恵美",
+        "長谷川清"
+      ]
+    },
+    {
+      "id": "7f53cfc099465d524d24",
+      "place": "鶴ヶ島市",
+      "season": "summer",
+      "date": "2026-06-18",
+      "title": "06月18日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/tsurugashima/SpMinuteView.html?tenant_id=42&council_id=366&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "内野嘉広",
+        "出雲敏太郎",
+        "小島幸広",
+        "小川茂",
+        "村上信吉",
+        "福島恵美",
+        "長谷川清"
+      ]
+    },
+    {
+      "id": "aa14a0eedae2f8bd5963",
+      "place": "鶴ヶ島市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "鶴ヶ島市議会だより219号・9月定例会の一般質問（紙面8〜13頁）",
+      "url": "https://www.city.tsurugashima.lg.jp/data/doc/1793248747_doc_318_0.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
+      "speakers": []
+    }
+  ],
+  "coverage": [
+    {
+      "place": "埼玉県",
+      "season": "spring",
+      "material": {
+        "state": "verified",
+        "note": "会議録または公式の質問・答弁 251資料。県議会の当該会期の公式質問・答弁（速報版）の掲載項目を全件収録。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "埼玉県",
+      "season": "summer",
+      "material": {
+        "state": "verified",
+        "note": "会議録または公式の質問・答弁 306資料。県議会の当該会期の公式質問・答弁（速報版）の掲載項目を全件収録。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "埼玉県",
+      "season": "fall",
+      "material": {
+        "state": "verified",
+        "note": "会議録または公式の質問・答弁 251資料。県議会の当該会期の公式質問・答弁（速報版）の掲載項目を全件収録。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "さいたま市",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 7資料。公開の日程で確認した対象本文7日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "さいたま市",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 7資料。公開の日程で確認した対象本文7日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "さいたま市",
+      "season": "fall",
+      "material": {
+        "state": "notFound",
+        "note": "2026年の公式会議録の年別一覧で秋の定例会本文を確認できませんでした。"
+      }
+    },
+    {
+      "place": "川越市",
+      "season": "spring",
+      "material": {
+        "state": "verified",
+        "note": "会議録または公式の質問・答弁 4資料。公式の一般質問者一覧にある質問日4日分の本文を収録。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "川越市",
+      "season": "summer",
+      "material": {
+        "state": "verified",
+        "note": "会議録または公式の質問・答弁 4資料。公式の一般質問者一覧にある質問日4日分の本文を収録。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "川越市",
+      "season": "fall",
+      "material": {
+        "state": "verified",
+        "note": "会議録または公式の質問・答弁 4資料。公式の一般質問者一覧にある質問日4日分の本文を収録。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "熊谷市",
+      "season": "spring",
+      "material": {
+        "state": "verified",
+        "note": "会議録または公式の質問・答弁 3資料。議会だより要旨 1資料。公開日程で一般質問・代表質問と明記された日の本文を全件照合。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "熊谷市",
+      "season": "summer",
+      "material": {
+        "state": "verified",
+        "note": "会議録または公式の質問・答弁 3資料。議会だより要旨 1資料。公開日程で一般質問・代表質問と明記された日の本文を全件照合。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "熊谷市",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "川口市",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 8資料。公開の日程で確認した対象本文8日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "川口市",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 7資料。公開の日程で確認した対象本文7日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "川口市",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 7資料。公開の日程で確認した対象本文7日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "行田市",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 8資料。公開の日程で確認した対象本文8日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "行田市",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 7資料。公開の日程で確認した対象本文7日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "行田市",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "秩父市",
+      "season": "spring",
+      "material": {
+        "state": "verified",
+        "note": "会議録または公式の質問・答弁 3資料。公開日程で一般質問・代表質問と明記された日の本文を全件照合。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "秩父市",
+      "season": "summer",
+      "material": {
+        "state": "verified",
+        "note": "会議録または公式の質問・答弁 3資料。公開日程で一般質問・代表質問と明記された日の本文を全件照合。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "秩父市",
+      "season": "fall",
+      "material": {
+        "state": "verified",
+        "note": "会議録または公式の質問・答弁 3資料。公開日程で一般質問・代表質問と明記された日の本文を全件照合。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "所沢市",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 9資料。公開の日程で確認した対象本文9日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "所沢市",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 8資料。公開の日程で確認した対象本文8日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "所沢市",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 8資料。公開の日程で確認した対象本文8日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "飯能市",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "飯能市",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "飯能市",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 8資料。公開の日程で確認した対象本文8日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "加須市",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 7資料。公開の日程で確認した対象本文7日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "加須市",
+      "season": "fall",
+      "material": {
+        "state": "notFound",
+        "note": "2026年の公式会議録の年別一覧で秋の定例会本文を確認できませんでした。"
+      }
+    },
+    {
+      "place": "本庄市",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "本庄市",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "本庄市",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "東松山市",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "東松山市",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 7資料。公開の日程で確認した対象本文7日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "東松山市",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 12資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "春日部市",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 8資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "春日部市",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "狭山市",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 8資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "狭山市",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 6資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "狭山市",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "羽生市",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "羽生市",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "羽生市",
+      "season": "fall",
+      "material": {
+        "state": "notFound",
+        "note": "2026年の公式会議録の年別一覧で秋の定例会本文を確認できませんでした。"
+      }
+    },
+    {
+      "place": "鴻巣市",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 8資料。公開の日程で確認した対象本文8日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "鴻巣市",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 7資料。公開の日程で確認した対象本文7日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "鴻巣市",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "深谷市",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "深谷市",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "深谷市",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "上尾市",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 8資料。公開の日程で確認した対象本文8日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "上尾市",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 8資料。公開の日程で確認した対象本文8日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "上尾市",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 9資料。公開の日程で確認した対象本文9日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "草加市",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 8資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "草加市",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 6資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "草加市",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 6資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "越谷市",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 7資料。公開の日程で確認した対象本文7日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "越谷市",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 7資料。公開の日程で確認した対象本文7日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "越谷市",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "蕨市",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 7資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "蕨市",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 6資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "蕨市",
+      "season": "fall",
+      "material": {
+        "state": "notFound",
+        "note": "公式の2026年会議録一覧と9月単月検索で対象本文を確認できず。9月の録画と質問通告は確認。"
+      }
+    },
+    {
+      "place": "戸田市",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 10資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "戸田市",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 7資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "戸田市",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "入間市",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 7資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "入間市",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 6資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "入間市",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 7資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "朝霞市",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 7資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "朝霞市",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 6資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "朝霞市",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 7資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "志木市",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 7資料。公開の日程で確認した対象本文7日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "志木市",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 7資料。公開の日程で確認した対象本文7日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "志木市",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "和光市",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 1資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "和光市",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 1資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "和光市",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 1資料。議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "新座市",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 16資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "新座市",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 8資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "新座市",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "桶川市",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 9資料。公開の日程で確認した対象本文9日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "桶川市",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 5資料。公開の日程で確認した対象本文5日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "桶川市",
+      "season": "fall",
+      "material": {
+        "state": "unavailable",
+        "note": "候補となる公式PDFは取得しました。会期または質問・答弁の判読に確認が残り、本文を収録していません。"
+      }
+    },
+    {
+      "place": "久喜市",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 8資料。公開の日程で確認した対象本文8日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "久喜市",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 8資料。公開の日程で確認した対象本文8日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "久喜市",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 7資料。公開の日程で確認した対象本文7日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "北本市",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 8資料。公開の日程で確認した対象本文8日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "北本市",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 7資料。公開の日程で確認した対象本文7日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "北本市",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 8資料。公開の日程で確認した対象本文8日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "八潮市",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "八潮市",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "八潮市",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "富士見市",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 10資料。公開の日程で確認した対象本文10日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "富士見市",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 8資料。公開の日程で確認した対象本文8日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "富士見市",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 8資料。公開の日程で確認した対象本文8日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "三郷市",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 8資料。公開の日程で確認した対象本文8日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "三郷市",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "三郷市",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "蓮田市",
+      "season": "spring",
+      "material": {
+        "state": "verified",
+        "note": "会議録または公式の質問・答弁 3資料。公開日程で一般質問・代表質問と明記された日の本文を全件照合。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "蓮田市",
+      "season": "summer",
+      "material": {
+        "state": "verified",
+        "note": "会議録または公式の質問・答弁 3資料。公開日程で一般質問・代表質問と明記された日の本文を全件照合。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "蓮田市",
+      "season": "fall",
+      "material": {
+        "state": "verified",
+        "note": "会議録または公式の質問・答弁 3資料。議会だより要旨 1資料。公開日程で一般質問・代表質問と明記された日の本文を全件照合。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "坂戸市",
+      "season": "spring",
+      "material": {
+        "state": "verified",
+        "note": "会議録または公式の質問・答弁 3資料。公開日程で一般質問・代表質問と明記された日の本文を全件照合。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "坂戸市",
+      "season": "summer",
+      "material": {
+        "state": "verified",
+        "note": "会議録または公式の質問・答弁 3資料。公開日程で一般質問・代表質問と明記された日の本文を全件照合。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "坂戸市",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "幸手市",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "幸手市",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "幸手市",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "鶴ヶ島市",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "鶴ヶ島市",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "鶴ヶ島市",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "日高市",
+      "season": "spring",
+      "material": {
+        "state": "verified",
+        "note": "会議録または公式の質問・答弁 3資料。公開日程で一般質問・代表質問と明記された日の本文を全件照合。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "日高市",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "日高市",
+      "season": "fall",
+      "material": {
+        "state": "notFound",
+        "note": "2026年の公式会議録の年別一覧で秋の定例会本文を確認できませんでした。"
+      }
+    },
+    {
+      "place": "吉川市",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 8資料。公開の日程で確認した対象本文8日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "吉川市",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "吉川市",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "ふじみ野市",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "ふじみ野市",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "ふじみ野市",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "白岡市",
+      "season": "spring",
+      "material": {
+        "state": "verified",
+        "note": "会議録または公式の質問・答弁 3資料。公開日程で一般質問・代表質問と明記された日の本文を全件照合。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "白岡市",
+      "season": "summer",
+      "material": {
+        "state": "verified",
+        "note": "会議録または公式の質問・答弁 3資料。公開日程で一般質問・代表質問と明記された日の本文を全件照合。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "白岡市",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "議会だより要旨 7資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "伊奈町",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 1資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "伊奈町",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 6資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "伊奈町",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "三芳町",
+      "season": "spring",
+      "material": {
+        "state": "verified",
+        "note": "会議録または公式の質問・答弁 4資料。公開日程で一般質問・代表質問と明記された日の本文を全件照合。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "三芳町",
+      "season": "summer",
+      "material": {
+        "state": "verified",
+        "note": "会議録または公式の質問・答弁 4資料。公開日程で一般質問・代表質問と明記された日の本文を全件照合。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "三芳町",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "毛呂山町",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "毛呂山町",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 5資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "毛呂山町",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "越生町",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 7資料。公開の日程で確認した対象本文7日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "越生町",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 4資料。公開の日程で確認した対象本文4日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "越生町",
+      "season": "fall",
+      "material": {
+        "state": "notFound",
+        "note": "2026年の公式会議録の年別一覧で秋の定例会本文を確認できませんでした。"
+      }
+    },
+    {
+      "place": "滑川町",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 1資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "滑川町",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 1資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "滑川町",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "嵐山町",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 1資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "嵐山町",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 1資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "嵐山町",
+      "season": "fall",
+      "material": {
+        "state": "unavailable",
+        "note": "候補となる公式PDFは取得しました。会期または質問・答弁の判読に確認が残り、本文を収録していません。"
+      }
+    },
+    {
+      "place": "小川町",
+      "season": "spring",
+      "material": {
+        "state": "verified",
+        "note": "会議録または公式の質問・答弁 2資料。公開日程で一般質問・代表質問と明記された日の本文を全件照合。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "小川町",
+      "season": "summer",
+      "material": {
+        "state": "verified",
+        "note": "会議録または公式の質問・答弁 3資料。公開日程で一般質問・代表質問と明記された日の本文を全件照合。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "小川町",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "議会だより要旨 3資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "川島町",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "川島町",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 4資料。公開の日程で確認した対象本文4日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "川島町",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "吉見町",
+      "season": "spring",
+      "material": {
+        "state": "verified",
+        "note": "会議録または公式の質問・答弁 2資料。公開日程で一般質問・代表質問と明記された日の本文を全件照合。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "吉見町",
+      "season": "summer",
+      "material": {
+        "state": "verified",
+        "note": "会議録または公式の質問・答弁 2資料。公開日程で一般質問・代表質問と明記された日の本文を全件照合。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "吉見町",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "議会だより要旨 2資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "鳩山町",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 4資料。公開の日程で確認した対象本文4日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "鳩山町",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 4資料。公開の日程で確認した対象本文4日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "鳩山町",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "ときがわ町",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 2資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "ときがわ町",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 3資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "ときがわ町",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "横瀬町",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 1資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "横瀬町",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 1資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "横瀬町",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "皆野町",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 1資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "皆野町",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 1資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "皆野町",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "長瀞町",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 1資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "長瀞町",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 1資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "長瀞町",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "小鹿野町",
+      "season": "spring",
+      "material": {
+        "state": "unavailable",
+        "note": "町公式サイトの議会資料と公開保存版を調査しましたが、2026年対象会期の日別の質問・答弁本文には到達できませんでした。"
+      }
+    },
+    {
+      "place": "小鹿野町",
+      "season": "summer",
+      "material": {
+        "state": "unavailable",
+        "note": "町公式サイトの議会資料と公開保存版を調査しましたが、2026年対象会期の日別の質問・答弁本文には到達できませんでした。"
+      }
+    },
+    {
+      "place": "小鹿野町",
+      "season": "fall",
+      "material": {
+        "state": "unavailable",
+        "note": "町公式サイトの議会資料と公開保存版を調査しましたが、2026年対象会期の日別の質問・答弁本文には到達できませんでした。"
+      }
+    },
+    {
+      "place": "東秩父村",
+      "season": "spring",
+      "material": {
+        "state": "verified",
+        "note": "会議録または公式の質問・答弁 1資料。公開日程で一般質問・代表質問と明記された日の本文を全件照合。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "東秩父村",
+      "season": "summer",
+      "material": {
+        "state": "verified",
+        "note": "会議録または公式の質問・答弁 1資料。公開日程で一般質問・代表質問と明記された日の本文を全件照合。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "東秩父村",
+      "season": "fall",
+      "material": {
+        "state": "notFound",
+        "note": "2026年の公式会議録の年別一覧で秋の定例会本文を確認できませんでした。"
+      }
+    },
+    {
+      "place": "美里町",
+      "season": "spring",
+      "material": {
+        "state": "verified",
+        "note": "会議録または公式の質問・答弁 1資料。公開日程で一般質問・代表質問と明記された日の本文を全件照合。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "美里町",
+      "season": "summer",
+      "material": {
+        "state": "verified",
+        "note": "会議録または公式の質問・答弁 1資料。公開日程で一般質問・代表質問と明記された日の本文を全件照合。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "美里町",
+      "season": "fall",
+      "material": {
+        "state": "notFound",
+        "note": "2026年の公式会議録の年別一覧で秋の定例会本文を確認できませんでした。"
+      }
+    },
+    {
+      "place": "神川町",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 1資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "神川町",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 1資料。議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "神川町",
+      "season": "fall",
+      "material": {
+        "state": "notFound",
+        "note": "2026年の公式会議録の年別一覧で秋の定例会本文を確認できませんでした。"
+      }
+    },
+    {
+      "place": "上里町",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 6資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "上里町",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "上里町",
+      "season": "fall",
+      "material": {
+        "state": "notFound",
+        "note": "公式の令和8年会議録目次に9月定例会の本文を確認できず。9月の公式録画一覧は確認。"
+      }
+    },
+    {
+      "place": "寄居町",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 8資料。公開の日程で確認した対象本文8日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "寄居町",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 4資料。公開の日程で確認した対象本文4日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "寄居町",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "宮代町",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 8資料。公開の日程で確認した対象本文8日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "宮代町",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 5資料。公開の日程で確認した対象本文5日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "宮代町",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "杉戸町",
+      "season": "spring",
+      "material": {
+        "state": "verified",
+        "note": "会議録または公式の質問・答弁 3資料。公開日程で一般質問・代表質問と明記された日の本文を全件照合。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "杉戸町",
+      "season": "summer",
+      "material": {
+        "state": "verified",
+        "note": "会議録または公式の質問・答弁 3資料。公開日程で一般質問・代表質問と明記された日の本文を全件照合。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "杉戸町",
+      "season": "fall",
+      "material": {
+        "state": "partial",
+        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "松伏町",
+      "season": "spring",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 9資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "松伏町",
+      "season": "summer",
+      "material": {
+        "state": "partial",
+        "note": "会議録または公式の質問・答弁 4資料。配布用HTMLで本文を開けます。"
+      }
+    },
+    {
+      "place": "松伏町",
+      "season": "fall",
+      "material": {
+        "state": "notFound",
+        "note": "公式の会議録検索ライブラリで公開されている春・初夏の本文を確認。秋の会議録本文は確認できず。"
+      }
+    }
+  ]
+};
+for (const row of GIKAI.questionText.coverage) {
+  const slot = GIKAI.coverage2026.sessions.find((item) => item.place === row.place && item.season === row.season);
+  if (slot) slot.materials.text = row.material;
+}

@@ -273,6 +273,35 @@ for (const review of coverage.policy) {
   }
 }
 
+const questionDocs = data.questionText.documents;
+const questionIds = new Set();
+const docCouncilSeasons = new Set();
+const questionKeys = new Set();
+for (const doc of questionDocs) {
+  const slot = doc.place + "|" + doc.season;
+  assert.ok(coverageSlots.has(slot));
+  assert.match(doc.id, /^[a-f0-9]{20}$/);
+  assert.ok(!questionIds.has(doc.id), doc.id);
+  const sourceKey = JSON.stringify([doc.place, doc.season, doc.date, doc.url]);
+  assert.ok(!questionKeys.has(sourceKey), sourceKey);
+  questionIds.add(doc.id);
+  questionKeys.add(sourceKey);
+  docCouncilSeasons.add(slot);
+  validLink(doc.url);
+  validDay(doc.date);
+  assert.match(doc.date, /^2026-/);
+  assert.ok(doc.title && doc.kind);
+  assert.ok(["minutes", "fullQA", "summary"].includes(doc.scope));
+  assert.ok(Array.isArray(doc.speakers) && new Set(doc.speakers).size === doc.speakers.length);
+}
+assert.ok(questionDocs.length >= 808, "Prefecture Q&A texts should be preserved");
+for (const row of data.questionText.coverage) {
+  assert.ok(coverageSlots.has(row.place + "|" + row.season));
+  assert.ok(materialStates.has(row.material.state) && row.material.note);
+  if (row.material.state === "verified" || row.material.state === "partial") {
+    assert.ok(docCouncilSeasons.has(row.place + "|" + row.season));
+  }
+}
 let votes = 0;
 for (const v of data.voteSessions) {
   validLink(v.source);
@@ -324,6 +353,9 @@ console.log(
       announcementRows: data.nominations.length,
       coverageCouncils: new Set(coverage.current.map((row) => row.place)).size,
       coverageSlots: coverageSlots.size,
+      questionArchiveDocuments: questionDocs.length,
+      questionArchiveCouncils: new Set(questionDocs.map((doc) => doc.place)).size,
+      questionArchiveSlots: docCouncilSeasons.size,
       additionalDecisions: coverage.decisions.length,
       additionalRollCalls: coverage.decisions.filter((bill) => bill.votes).length,
       additionalReviewedIssues: coverage.policy.reduce((n, entry) => n + entry.issues.length, 0),

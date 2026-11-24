@@ -135,6 +135,7 @@
   };
   const pages = [
     "records",
+    "texts",
     "cases",
     "people",
     "votes",
@@ -306,6 +307,7 @@
         ${coverageMaterials(slot)}
         <div class="links">${slot.sources.map((s) => link(s.url, s.label)).join("")}</div>
         <div class="links">${jump("records", { place, season: slot.season }, "この時期の掲載活動")}
+        ${jump("texts", { place, season: slot.season }, "質問・答弁の本文")}
         ${jump("votes", { place, season: slot.season }, "議案と賛否")}
         ${jump("people", { place, season: slot.season }, "政策実現力をみる")} ${jump("cases", { place }, "取り組みの経過")}</div></details>`).join("")}
       </details>`;
@@ -471,7 +473,7 @@
     const questions = issue.items.map((item) => {
       const q = reviewQuestions.get(item.url) || item;
       return `<li>${tag(q.kind)} <strong>${esc(questionLevels[item.level])}</strong>
-        <p>${esc(item.reason)}</p><p class="small">${link(q.url, q.title)}　${dateTag(q.date)}　質問・答弁</p>${item.recordingURL ? `<p class="small">${link(item.recordingURL, "当日の公式録画")}</p>` : ""}</li>`;
+        <p>${esc(item.reason)}</p><p class="small">${link(q.url, q.title)}　${dateTag(q.date)}</p>${item.recordingURL ? `<p class="small">${link(item.recordingURL, "当日の公式録画")}</p>` : ""}</li>`;
     }).join("");
     const followUp = followUpLabels[issue.followUp];
     return `<details class="entry policy-issue"><summary><span>${esc(title)}</span></summary>
@@ -490,7 +492,7 @@
       const seasonLabel = seasons2026.find(([key]) => key === season)?.[1];
       const content = issues.length
         ? `<details class="policy-issues"><summary>照合済みの論点を読む</summary><div class="list">${issues.map(policyIssue).join("")}</div></details>`
-        : "<p>本文と本人の役割を照合済みの論点は、この欄にはまだありません。</p>";
+        : "<p>原資料で本人の役割を照合済みの論点は、この欄にはまだありません。</p>";
       return `<section class="policy-review"><h4>政策実現力をみる</h4><p class="small">2026年${esc(seasonLabel)}の定例会。表示は出典を照合済みの資料に限ります。</p>${content}${coveragePanel(p.place, season)}</section>`;
     }
     const issues = reviewsByPerson.get(personKey(p.place, p.name)) || [];
@@ -841,9 +843,78 @@
         `<div class="source-stack">${prereq}${principles}${policyReviewMethod()}</div><h3 class="section-title">活動資料の収録範囲</h3>${coverage}<h3 class="section-title">出典と訂正</h3><div class="grid">${sourcesPanel()}${correction}</div>`,
     );
   }
+
+  let attachedQuestionBodies;
+  function questionBodies() {
+    if (attachedQuestionBodies === undefined) {
+      const payload = get("question-text-bodies");
+      attachedQuestionBodies = payload ? JSON.parse(payload.textContent) : {};
+    }
+    return attachedQuestionBodies;
+  }
+  function questionTextControls() {
+    section("質問・答弁の本文", "2026年の春・初夏・秋の資料を、議会と会期から探せます。資料の種類と原典を表示します。");
+    filters([
+      searchField("例　議員名、会期、会議録"),
+      field("place", "議会", placeList(personPlaces)),
+      field("season", "2026年の時期", seasons2026, "全期間"),
+      field("documentType", "資料の種類", sorted(D.questionText.documents.map((d) => d.kind))),
+    ]);
+  }
+  function questionTextCard(entry) {
+    const doc = `<div class="meta"><span>${esc(entry.place)}議会</span>${dateTag(entry.date)}${tag(entry.kind)}</div><h3>${esc(entry.title)}</h3>`;
+    const source = `<div class="links">${link(entry.url, "公式資料の該当箇所")}</div>
+      ${entry.note ? `<p class="small">${esc(entry.note)}</p>` : ""}
+      ${entry.speakers?.length ? `<p class="small">本文に名前がある議員　${entry.speakers.map(esc).join("、")}</p>` : ""}`;
+    const available = Boolean(get("question-text-bodies"));
+    return `<details class="entry question-document" data-question-id="${esc(entry.id)}">
+      <summary><div>${doc}</div></summary><div class="detail-body">${source}
+      ${available ? '<div class="question-body" data-question-body></div>' : ""}
+      </div></details>`;
+  }
+  function questionTextResults() {
+    const query = terms();
+    const hits = D.questionText.documents.filter((d) =>
+      filteredBody(d.place) && matches("season", d.season) &&
+      matches("documentType", d.kind) && includes([d.place, d.title, d.date, d.kind, ...d.speakers], query),
+    );
+    const selected = state.place ? coveragePanel(state.place, state.season) : "";
+    results(
+      selected + (hits.length ? partial(hits, questionTextCard) :
+        noResult("該当する本文は現在の資料一覧にありません。議会を選ぶと公式資料と収録状況を確認できます。")),
+      `該当する資料 ${count(hits.length)}件`,
+    );
+  }
+  function renderQuestionBody(card) {
+    if (!card.open) return;
+    const target = card.querySelector("[data-question-body]");
+    if (!target || target.childElementCount) return;
+    const stored = questionBodies()[card.dataset.questionId];
+    if (!stored) return;
+    const column = document.createElement("div");
+    const heading = document.createElement("h4");
+    heading.textContent = "資料本文";
+    column.append(heading);
+    for (const [caption, message] of stored) {
+      const block = document.createElement("section");
+      if (caption) {
+        const label = document.createElement("h5");
+        label.textContent = caption;
+        block.append(label);
+      }
+      const body = document.createElement("p");
+      body.textContent = message;
+      block.append(body);
+      column.append(block);
+    }
+    target.append(column);
+  }
+
+
   function renderControls() {
     const controls = {
       records: recordControls,
+      texts: questionTextControls,
       cases: caseControls,
       people: personControls,
       votes: voteControls,
@@ -858,6 +929,7 @@
   function renderResults() {
     ({
       records: recordResults,
+      texts: questionTextResults,
       cases: caseResults,
       people: personResults,
       votes: voteResults,
@@ -944,6 +1016,9 @@
       get("workspace").focus({ preventScroll: true });
     }
   }
+  get("results").addEventListener("toggle", (event) => {
+    if (event.target.matches(".question-document")) renderQuestionBody(event.target);
+  }, true);
   get("controls").addEventListener(
     "toggle",
     (e) => {
