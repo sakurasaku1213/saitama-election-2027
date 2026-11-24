@@ -294,7 +294,8 @@
     return `<dl class="coverage-materials">${Object.entries(coverageKinds).map(([key, label]) => {
       const material = slot.materials[key];
       return `<div><dt>${esc(label)}</dt><dd>${esc(coverageLabels[material.state])}
-      ${material.note ? `<span class="small">${esc(material.note)}</span>` : ""}</dd></div>`;
+      ${material.note ? `<span class="small">${esc(material.note)}</span>` : ""}
+      ${material.indexURL ? `<span class="small">${link(material.indexURL, "確認した公式一覧")}</span>` : ""}</dd></div>`;
     }).join("")}</dl>`;
   }
   function coveragePanel(place, filter = "") {

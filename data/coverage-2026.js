@@ -5262,22 +5262,30 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "公式の９月定例会の結果一覧に掲載された議決27件を、件名・議決日・結果で照合。"
         },
         "votes": {
           "state": "pending",
           "note": "本文・収録範囲の照合が残っています。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "一般質問方式とデータセンターをめぐる請願の受理から議決までを照合。"
         }
       },
       "sources": [
         {
           "label": "会期資料　令和8年第4回定例会",
           "url": "https://smart.discussvision.net/smart/tenant/hidaka/WebView/rd/council.html?year=2026&council_id=54"
+        },
+        {
+          "label": "９月定例会の審議結果",
+          "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf"
+        },
+        {
+          "label": "９月定例会の議案・請願文書表",
+          "url": "https://www.city.hidaka.lg.jp/soshiki/gikai/gikai/teireikairinjikai/gian_ichiran/35919.html"
         }
       ]
     },
@@ -6226,8 +6234,8 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "decisions": {
-          "state": "identified",
-          "note": "公式PDFをOCR済み。議案行と表決欄の照合・取込は未了。"
+          "state": "verified",
+          "note": "公式の９月定例会の結果一覧に掲載された議決17件を、件名・議決日・結果で照合。"
         },
         "votes": {
           "state": "pending",
@@ -15723,6 +15731,517 @@ GIKAI.coverage2026 = {
         "無所属C（1人）": "退席"
       },
       "voteNote": "会派名に付く人数は所属人数。議長は採決に加わっていません。"
+    },
+    {
+      "place": "越生町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-09-02",
+      "number": "承認第5号",
+      "title": "専決処分の承認を求めることについて（令和8年度越生町一般会計補正予算（第2号））",
+      "result": "承認",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf"
+    },
+    {
+      "place": "越生町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-09-02",
+      "number": "議案第22号",
+      "title": "財産の処分について",
+      "result": "可決",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf"
+    },
+    {
+      "place": "越生町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-09-02",
+      "number": "議案第23号",
+      "title": "令和8年度越生町一般会計補正予算（第3号）",
+      "result": "可決",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf"
+    },
+    {
+      "place": "越生町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-09-02",
+      "number": "議案第24号",
+      "title": "令和8年度越生町国民健康保険特別会計補正予算（第1号）",
+      "result": "可決",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf"
+    },
+    {
+      "place": "越生町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-09-02",
+      "number": "議案第25号",
+      "title": "令和8年度越生町介護保険事業特別会計補正予算（第2号）",
+      "result": "可決",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf"
+    },
+    {
+      "place": "越生町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-09-02",
+      "number": "同意第6号",
+      "title": "越生町固定資産評価審査委員会委員の選任について",
+      "result": "同意",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf"
+    },
+    {
+      "place": "越生町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-09-02",
+      "number": "同意第7号",
+      "title": "越生町教育委員会委員の任命について",
+      "result": "同意",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf"
+    },
+    {
+      "place": "越生町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-09-17",
+      "number": "認定第1号",
+      "title": "令和7年度越生町一般会計歳入歳出決算認定",
+      "result": "認定",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf"
+    },
+    {
+      "place": "越生町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-09-17",
+      "number": "認定第2号",
+      "title": "令和7年度越生町、毛呂山町外4組合公平委員会特別会計歳入歳出決算認定",
+      "result": "認定",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf"
+    },
+    {
+      "place": "越生町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-09-17",
+      "number": "認定第3号",
+      "title": "令和7年度越生町国民健康保険特別会計歳入歳出決算認定",
+      "result": "認定",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf"
+    },
+    {
+      "place": "越生町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-09-17",
+      "number": "認定第4号",
+      "title": "令和7年度越生町介護保険事業特別会計歳入歳出決算認定",
+      "result": "認定",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf"
+    },
+    {
+      "place": "越生町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-09-17",
+      "number": "認定第5号",
+      "title": "令和7年度越生町後期高齢者医療特別会計歳入歳出決算認定",
+      "result": "認定",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf"
+    },
+    {
+      "place": "越生町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-09-17",
+      "number": "認定第6号",
+      "title": "令和7年度越生町水道事業会計決算認定",
+      "result": "認定",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf"
+    },
+    {
+      "place": "越生町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-09-17",
+      "number": "認定第7号",
+      "title": "令和7年度越生町農業集落排水事業会計決算認定",
+      "result": "認定",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf"
+    },
+    {
+      "place": "越生町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-09-17",
+      "number": "請願第1号",
+      "title": "「建設資材供給不安の解消並びに中小建設事業者の事業継続支援の拡充等を求める国への意見書」の提出を求める請願",
+      "result": "可決",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf"
+    },
+    {
+      "place": "越生町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-09-17",
+      "number": "発議第2号",
+      "title": "「高校生等における車椅子通学への支援補助および移動支援制度の拡充を求める意見書」",
+      "result": "可決",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf"
+    },
+    {
+      "place": "越生町",
+      "season": "fall",
+      "session": "令和8年第3回定例会（9月）",
+      "date": "2026-09-17",
+      "number": "その他",
+      "title": "議会運営委員会の閉会中の調査及び審査の件",
+      "result": "可決",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf"
+    },
+    {
+      "place": "日高市",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "date": "2026-09-01",
+      "number": "議案第58号",
+      "title": "人権擁護委員の候補者の推薦について",
+      "result": "同意",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「全員」。"
+    },
+    {
+      "place": "日高市",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "date": "2026-09-24",
+      "number": "議案第37号",
+      "title": "令和７年度日高市一般会計歳入歳出決算の認定について",
+      "result": "認定",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「多数」。"
+    },
+    {
+      "place": "日高市",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "date": "2026-09-24",
+      "number": "議案第38号",
+      "title": "令和７年度日高市国民健康保険特別会計歳入歳出決算の認定について",
+      "result": "認定",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「多数」。"
+    },
+    {
+      "place": "日高市",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "date": "2026-09-24",
+      "number": "議案第39号",
+      "title": "令和７年度日高市後期高齢者医療特別会計歳入歳出決算の認定について",
+      "result": "認定",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「多数」。"
+    },
+    {
+      "place": "日高市",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "date": "2026-09-24",
+      "number": "議案第40号",
+      "title": "令和７年度日高市介護保険特別会計歳入歳出決算の認定について",
+      "result": "認定",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「多数」。"
+    },
+    {
+      "place": "日高市",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "date": "2026-09-24",
+      "number": "議案第41号",
+      "title": "令和７年度日高市武蔵高萩駅北土地区画整理事業特別会計歳入歳出決算の認定について",
+      "result": "認定",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「全員」。"
+    },
+    {
+      "place": "日高市",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "date": "2026-09-24",
+      "number": "議案第42号",
+      "title": "令和７年度日高市水道事業会計決算の認定について",
+      "result": "認定",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「全員」。"
+    },
+    {
+      "place": "日高市",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "date": "2026-09-24",
+      "number": "議案第43号",
+      "title": "令和７年度日高市下水道事業会計決算の認定について",
+      "result": "認定",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「多数」。"
+    },
+    {
+      "place": "日高市",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "date": "2026-09-24",
+      "number": "議案第44号",
+      "title": "令和８年度日高市一般会計補正予算（第２号）",
+      "result": "原案可決",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「多数」。"
+    },
+    {
+      "place": "日高市",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "date": "2026-09-24",
+      "number": "議案第45号",
+      "title": "令和８年度日高市後期高齢者医療特別会計補正予算（第１号）",
+      "result": "原案可決",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「全員」。"
+    },
+    {
+      "place": "日高市",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "date": "2026-09-24",
+      "number": "議案第46号",
+      "title": "令和８年度日高市介護保険特別会計補正予算（第１号）",
+      "result": "原案可決",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「全員」。"
+    },
+    {
+      "place": "日高市",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "date": "2026-09-24",
+      "number": "議案第47号",
+      "title": "日高市印鑑条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「多数」。"
+    },
+    {
+      "place": "日高市",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "date": "2026-09-24",
+      "number": "議案第48号",
+      "title": "日高市認可地縁団体印鑑条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「全員」。"
+    },
+    {
+      "place": "日高市",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "date": "2026-09-24",
+      "number": "議案第49号",
+      "title": "職員の勤務時間、休日及び休暇に関する条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「全員」。"
+    },
+    {
+      "place": "日高市",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "date": "2026-09-24",
+      "number": "議案第50号",
+      "title": "日高市学校設置条例等の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「全員」。"
+    },
+    {
+      "place": "日高市",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "date": "2026-09-24",
+      "number": "議案第51号",
+      "title": "日高市保育所設置及び管理条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「全員」。"
+    },
+    {
+      "place": "日高市",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "date": "2026-09-24",
+      "number": "議案第52号",
+      "title": "日高市子ども医療費支給に関する条例等の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「全員」。"
+    },
+    {
+      "place": "日高市",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "date": "2026-09-24",
+      "number": "議案第53号",
+      "title": "日高市廃棄物の処理及び清掃に関する条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「全員」。"
+    },
+    {
+      "place": "日高市",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "date": "2026-09-24",
+      "number": "議案第54号",
+      "title": "日高市地区計画区域内における建築物の制限に関する条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「多数」。"
+    },
+    {
+      "place": "日高市",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "date": "2026-09-24",
+      "number": "議案第55号",
+      "title": "地方自治法の一部改正に伴う関係条例の整理に関する条例",
+      "result": "原案可決",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「全員」。"
+    },
+    {
+      "place": "日高市",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "date": "2026-09-24",
+      "number": "議案第56号",
+      "title": "武蔵高萩駅北地区地区計画区域内における建築物の制限に関する条例を廃止する条例",
+      "result": "原案可決",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「全員」。"
+    },
+    {
+      "place": "日高市",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "date": "2026-09-24",
+      "number": "議案第57号",
+      "title": "令和７年度日高市下水道事業会計未処分利益剰余金の処分について",
+      "result": "原案可決",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「全員」。"
+    },
+    {
+      "place": "日高市",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "date": "2026-09-24",
+      "number": "請願第3号",
+      "title": "日高市議会の一般質問に一問一答方式及び分割方式の採用を求める請願",
+      "result": "不採択",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=2",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=2",
+      "voteNote": "原表の議決結果欄の表記は「少数」。"
+    },
+    {
+      "place": "日高市",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "date": "2026-09-24",
+      "number": "請願第4号",
+      "title": "「大規模データセンター建設・稼働による地下水・自然環境への影響についての十分な検証と説明を求める」請願",
+      "result": "不採択",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=2",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=2",
+      "voteNote": "原表の議決結果欄の表記は「少数」。"
+    },
+    {
+      "place": "日高市",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "date": "2026-09-24",
+      "number": "請願第5号",
+      "title": "建築基準法における用途区分への「データセンター」追加を求める意見書の提出を求める請願",
+      "result": "不採択",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=2",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=2",
+      "voteNote": "原表の議決結果欄の表記は「少数」。"
+    },
+    {
+      "place": "日高市",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "date": "2026-09-24",
+      "number": "議員提出議案第1号",
+      "title": "地方自治法第180条の規定により市長が専決処分することができる事項の一部改正について",
+      "result": "原案可決",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=2",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=2",
+      "voteNote": "原表の議決結果欄の表記は「全員」。"
+    },
+    {
+      "place": "日高市",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "date": "2026-09-24",
+      "number": "意見書案第1号",
+      "title": "「非核三原則」の堅持を求める意見書の提出について",
+      "result": "否決",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=2",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=2",
+      "voteNote": "原表の議決結果欄の表記は「少数」。"
     }
   ],
   "policy": [

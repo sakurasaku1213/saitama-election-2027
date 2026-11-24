@@ -4255,6 +4255,30 @@ GIKAI.questionText = {
       "speakers": []
     },
     {
+      "id": "63500584a2321a03d389",
+      "place": "坂戸市",
+      "season": "spring",
+      "date": "2026-02-24",
+      "title": "坂戸市  令和　８年　　３月定例会（第１回）  02月24日－議案説明－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/sakado/SpMinuteView.html?tenant_id=348&council_id=857&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "speakers": [],
+      "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
+    },
+    {
+      "id": "cdc445e3da1a1d1449dd",
+      "place": "坂戸市",
+      "season": "spring",
+      "date": "2026-02-27",
+      "title": "坂戸市  令和　８年　　３月定例会（第１回）  02月27日－議案質疑－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/sakado/SpMinuteView.html?tenant_id=348&council_id=857&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "speakers": [],
+      "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
+    },
+    {
       "id": "c835ba55e232cf8bb79c",
       "place": "坂戸市",
       "season": "spring",
@@ -4305,6 +4329,42 @@ GIKAI.questionText = {
         "小澤弘",
         "新井文雄"
       ]
+    },
+    {
+      "id": "7e17768196bf19b0919c",
+      "place": "坂戸市",
+      "season": "spring",
+      "date": "2026-03-19",
+      "title": "坂戸市  令和　８年　　３月定例会（第１回）  03月19日－委員長報告、討論、採決－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/sakado/SpMinuteView.html?tenant_id=348&council_id=857&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "speakers": [],
+      "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
+    },
+    {
+      "id": "f4b68a64e6d97158e083",
+      "place": "坂戸市",
+      "season": "summer",
+      "date": "2026-05-26",
+      "title": "坂戸市  令和　８年　　６月定例会（第３回）  05月26日－議案説明－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/sakado/SpMinuteView.html?tenant_id=348&council_id=873&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "speakers": [],
+      "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
+    },
+    {
+      "id": "ebbbb84714ae87d2cf05",
+      "place": "坂戸市",
+      "season": "summer",
+      "date": "2026-05-29",
+      "title": "坂戸市  令和　８年　　６月定例会（第３回）  05月29日－議案質疑－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/sakado/SpMinuteView.html?tenant_id=348&council_id=873&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "speakers": [],
+      "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
     },
     {
       "id": "09dc1e0b473637b021f6",
@@ -4361,6 +4421,18 @@ GIKAI.questionText = {
         "森田文明",
         "綿貫正寿"
       ]
+    },
+    {
+      "id": "e5f0c5cf9aadf6513555",
+      "place": "坂戸市",
+      "season": "summer",
+      "date": "2026-06-17",
+      "title": "坂戸市  令和　８年　　６月定例会（第３回）  06月17日－委員長報告、討論、採決－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/sakado/SpMinuteView.html?tenant_id=348&council_id=873&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "speakers": [],
+      "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
     },
     {
       "id": "db57275c89c7a7b0bf01",
@@ -16657,6 +16729,54 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "bb61383817750f35a00c",
+      "place": "小川町",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "小川町  令和　８年　　３月　定例会（第１回）  03月04日－議案説明、質疑、討論、採決－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/ogawa/SpMinuteView.html?tenant_id=87&council_id=100&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "speakers": [],
+      "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
+    },
+    {
+      "id": "bb30d15e01fb18270203",
+      "place": "小川町",
+      "season": "spring",
+      "date": "2026-03-05",
+      "title": "小川町  令和　８年　　３月　定例会（第１回）  03月05日－議案説明、質疑、委員会付託－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/ogawa/SpMinuteView.html?tenant_id=87&council_id=100&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "speakers": [],
+      "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
+    },
+    {
+      "id": "02181f1bfd0131c8365e",
+      "place": "小川町",
+      "season": "spring",
+      "date": "2026-03-06",
+      "title": "小川町  令和　８年　　３月　定例会（第１回）  03月06日－議案説明、質疑、委員会付託－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/ogawa/SpMinuteView.html?tenant_id=87&council_id=100&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "speakers": [],
+      "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
+    },
+    {
+      "id": "5a2a204d70b548b752f0",
+      "place": "小川町",
+      "season": "spring",
+      "date": "2026-03-19",
+      "title": "小川町  令和　８年　　３月　定例会（第１回）  03月19日－議案説明、質疑、討論、採決－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/ogawa/SpMinuteView.html?tenant_id=87&council_id=100&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "speakers": [],
+      "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
+    },
+    {
       "id": "35f24e38ee43ab580704",
       "place": "小川町",
       "season": "summer",
@@ -16709,6 +16829,30 @@ GIKAI.questionText = {
         "田端良成",
         "髙瀬勉"
       ]
+    },
+    {
+      "id": "b4ffaef406c1ec62e2dc",
+      "place": "小川町",
+      "season": "summer",
+      "date": "2026-06-26",
+      "title": "小川町  令和　８年　　６月　定例会（第２回）  06月26日－議案説明、質疑、討論、採決－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/ogawa/SpMinuteView.html?tenant_id=87&council_id=102&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "speakers": [],
+      "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
+    },
+    {
+      "id": "c412d393ef54a15dd3dd",
+      "place": "小川町",
+      "season": "summer",
+      "date": "2026-07-02",
+      "title": "小川町  令和　８年　　６月　定例会（第２回）  07月02日－議案説明、質疑、討論、採決－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/ogawa/SpMinuteView.html?tenant_id=87&council_id=102&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "speakers": [],
+      "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
     },
     {
       "id": "f109077b9263386fa4ff",
@@ -20355,6 +20499,30 @@ GIKAI.questionText = {
       "speakers": []
     },
     {
+      "id": "0c8e4191d0de8159369b",
+      "place": "日高市",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "日高市  令和　８年　　第２回　定例会  02月26日－議案説明－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/saihidaka/SpMinuteView.html?tenant_id=44&council_id=384&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "speakers": [],
+      "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
+    },
+    {
+      "id": "c63a042c5a53fd223ed4",
+      "place": "日高市",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "日高市  令和　８年　　第２回　定例会  03月04日－議案質疑－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/saihidaka/SpMinuteView.html?tenant_id=44&council_id=384&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "speakers": [],
+      "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
+    },
+    {
       "id": "a71b04b7710df46215e8",
       "place": "日高市",
       "season": "spring",
@@ -20408,6 +20576,18 @@ GIKAI.questionText = {
         "金子博",
         "鈴木健夫"
       ]
+    },
+    {
+      "id": "c3c6eb5cdfe0ad92c7fd",
+      "place": "日高市",
+      "season": "spring",
+      "date": "2026-03-17",
+      "title": "日高市  令和　８年　　第２回　定例会  03月17日－委員長報告・討論・採決－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/saihidaka/SpMinuteView.html?tenant_id=44&council_id=384&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "speakers": [],
+      "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
     },
     {
       "id": "183b371a2d3e22c44905",
@@ -22057,6 +22237,30 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "1d9c080a4d4a71c6fa29",
+      "place": "東秩父村",
+      "season": "spring",
+      "date": "2026-03-06",
+      "title": "東秩父村  令和　８年　　３月　定例会（第２回）  03月06日－議案説明、質疑、討論、採決－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/higashichichibu/SpMinuteView.html?tenant_id=91&council_id=114&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "speakers": [],
+      "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
+    },
+    {
+      "id": "fb7a43f60aed47fdd038",
+      "place": "東秩父村",
+      "season": "spring",
+      "date": "2026-03-09",
+      "title": "東秩父村  令和　８年　　３月　定例会（第２回）  03月09日－議案説明、質疑、討論、採決－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/higashichichibu/SpMinuteView.html?tenant_id=91&council_id=114&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "speakers": [],
+      "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
+    },
+    {
       "id": "f40e0c44b179f0c1dca8",
       "place": "東秩父村",
       "season": "summer",
@@ -22075,6 +22279,18 @@ GIKAI.questionText = {
         "野口勝則",
         "鷹野明"
       ]
+    },
+    {
+      "id": "671b4b06b868b8e3caaf",
+      "place": "東秩父村",
+      "season": "summer",
+      "date": "2026-06-12",
+      "title": "東秩父村  令和　８年　　６月　定例会（第３回）  06月12日－議案説明、質疑、討論、採決－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/higashichichibu/SpMinuteView.html?tenant_id=91&council_id=115&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "speakers": [],
+      "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
     },
     {
       "id": "8e38f6c1463cacf7f162",
@@ -23336,6 +23552,18 @@ GIKAI.questionText = {
       "speakers": []
     },
     {
+      "id": "620feef35c49b1715fde",
+      "place": "熊谷市",
+      "season": "spring",
+      "date": "2026-02-25",
+      "title": "熊谷市  令和　８年　　３月　定例会（第１回）  02月25日－議案説明－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/kumagaya/SpMinuteView.html?tenant_id=94&council_id=373&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "speakers": [],
+      "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
+    },
+    {
       "id": "270ec0dd315f8845b945",
       "place": "熊谷市",
       "season": "spring",
@@ -23346,6 +23574,18 @@ GIKAI.questionText = {
       "scope": "summary",
       "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
       "speakers": []
+    },
+    {
+      "id": "bac6e32b5353b30e48d1",
+      "place": "熊谷市",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "熊谷市  令和　８年　　３月　定例会（第１回）  03月02日－議案質疑－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/kumagaya/SpMinuteView.html?tenant_id=94&council_id=373&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "speakers": [],
+      "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
     },
     {
       "id": "6d8800305920e14ef414",
@@ -23411,6 +23651,18 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "756c11e4ddf8893dd208",
+      "place": "熊谷市",
+      "season": "spring",
+      "date": "2026-03-17",
+      "title": "熊谷市  令和　８年　　３月　定例会（第１回）  03月17日－委員長報告・質疑・討論・採決－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/kumagaya/SpMinuteView.html?tenant_id=94&council_id=373&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "speakers": [],
+      "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
+    },
+    {
       "id": "0ffc07a22d600cbfd560",
       "place": "熊谷市",
       "season": "summer",
@@ -23421,6 +23673,30 @@ GIKAI.questionText = {
       "scope": "summary",
       "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
       "speakers": []
+    },
+    {
+      "id": "02e63ea45736118b09b6",
+      "place": "熊谷市",
+      "season": "summer",
+      "date": "2026-06-05",
+      "title": "熊谷市  令和　８年　　６月　定例会（第２回）  06月05日－議案説明－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/kumagaya/SpMinuteView.html?tenant_id=94&council_id=378&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "speakers": [],
+      "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
+    },
+    {
+      "id": "c0b28a0df6c52a2944e9",
+      "place": "熊谷市",
+      "season": "summer",
+      "date": "2026-06-10",
+      "title": "熊谷市  令和　８年　　６月　定例会（第２回）  06月10日－議案質疑－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/kumagaya/SpMinuteView.html?tenant_id=94&council_id=378&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "speakers": [],
+      "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
     },
     {
       "id": "b2640403b15637d64876",
@@ -23482,6 +23758,18 @@ GIKAI.questionText = {
         "山下一男",
         "影山琢也"
       ]
+    },
+    {
+      "id": "f330149a313c31da9f98",
+      "place": "熊谷市",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "熊谷市  令和　８年　　６月　定例会（第２回）  06月25日－委員長報告・質疑・討論・採決－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/kumagaya/SpMinuteView.html?tenant_id=94&council_id=378&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "speakers": [],
+      "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
     },
     {
       "id": "e14a3fa7c64bfd309ca0",
@@ -23794,6 +24082,18 @@ GIKAI.questionText = {
       "speakers": []
     },
     {
+      "id": "e72b2509d825e6c93d1c",
+      "place": "白岡市",
+      "season": "spring",
+      "date": "2026-02-19",
+      "title": "白岡市  令和　８年　　第２回（　３月）定例会  02月19日－議案説明－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/shiraoka/SpMinuteView.html?tenant_id=45&council_id=212&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "speakers": [],
+      "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
+    },
+    {
       "id": "280073cc0d5365f6c94b",
       "place": "白岡市",
       "season": "spring",
@@ -23849,6 +24149,42 @@ GIKAI.questionText = {
         "石渡征浩",
         "黒須大一郎"
       ]
+    },
+    {
+      "id": "db845986f89beb20cba9",
+      "place": "白岡市",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "白岡市  令和　８年　　第２回（　３月）定例会  03月02日－議案質疑－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/shiraoka/SpMinuteView.html?tenant_id=45&council_id=212&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "speakers": [],
+      "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
+    },
+    {
+      "id": "6039d4c1a5b787019129",
+      "place": "白岡市",
+      "season": "spring",
+      "date": "2026-03-18",
+      "title": "白岡市  令和　８年　　第２回（　３月）定例会  03月18日－委員長報告・討論・採決－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/shiraoka/SpMinuteView.html?tenant_id=45&council_id=212&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "speakers": [],
+      "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
+    },
+    {
+      "id": "bdf8eb17f119f3e4ab5d",
+      "place": "白岡市",
+      "season": "summer",
+      "date": "2026-06-04",
+      "title": "白岡市  令和　８年　　第３回（　６月）定例会  06月04日－議案説明－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/shiraoka/SpMinuteView.html?tenant_id=45&council_id=213&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "speakers": [],
+      "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
     },
     {
       "id": "61e4161ea7de271db9dd",
@@ -23907,6 +24243,30 @@ GIKAI.questionText = {
         "浜口清志",
         "黒須大一郎"
       ]
+    },
+    {
+      "id": "44876455aa3d017cd485",
+      "place": "白岡市",
+      "season": "summer",
+      "date": "2026-06-12",
+      "title": "白岡市  令和　８年　　第３回（　６月）定例会  06月12日－議案質疑－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/shiraoka/SpMinuteView.html?tenant_id=45&council_id=213&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "speakers": [],
+      "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
+    },
+    {
+      "id": "570408213c4de45bb3b4",
+      "place": "白岡市",
+      "season": "summer",
+      "date": "2026-06-25",
+      "title": "白岡市  令和　８年　　第３回（　６月）定例会  06月25日－委員長報告・討論・採決－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/shiraoka/SpMinuteView.html?tenant_id=45&council_id=213&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "speakers": [],
+      "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
     },
     {
       "id": "3c6fec6b00e627b6dfff",
@@ -24270,6 +24630,30 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "e39df75c22b21bd3818f",
+      "place": "美里町",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "美里町  令和　８年　　３月　定例会（第１回）  03月02日－議案説明・質疑・討論－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/saimisato/SpMinuteView.html?tenant_id=46&council_id=114&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "speakers": [],
+      "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
+    },
+    {
+      "id": "7456b6744c701f8742ca",
+      "place": "美里町",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "美里町  令和　８年　　３月　定例会（第１回）  03月03日－議案質疑・討論・採決－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/saimisato/SpMinuteView.html?tenant_id=46&council_id=114&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "speakers": [],
+      "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
+    },
+    {
       "id": "616d9d2b62e7ed920712",
       "place": "美里町",
       "season": "spring",
@@ -24288,6 +24672,30 @@ GIKAI.questionText = {
         "櫻沢保",
         "櫻沢克幸"
       ]
+    },
+    {
+      "id": "45378f17cebe5c77fdd0",
+      "place": "美里町",
+      "season": "spring",
+      "date": "2026-03-23",
+      "title": "美里町  令和　８年　　３月　定例会（第１回）  03月23日－議案質疑・討論・採決－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/saimisato/SpMinuteView.html?tenant_id=46&council_id=114&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "speakers": [],
+      "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
+    },
+    {
+      "id": "1f5416c5cbe12d52862f",
+      "place": "美里町",
+      "season": "summer",
+      "date": "2026-06-02",
+      "title": "美里町  令和　８年　　６月　定例会（第２回）  06月02日－議案説明・質疑・討論－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/saimisato/SpMinuteView.html?tenant_id=46&council_id=115&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "speakers": [],
+      "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
     },
     {
       "id": "cf78f31b2a37125b825f",
@@ -24309,6 +24717,18 @@ GIKAI.questionText = {
         "田島國利",
         "田端恵美子"
       ]
+    },
+    {
+      "id": "b009d25714c60969f545",
+      "place": "美里町",
+      "season": "summer",
+      "date": "2026-06-12",
+      "title": "美里町  令和　８年　　６月　定例会（第２回）  06月12日－議案質疑・討論・採決－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/saimisato/SpMinuteView.html?tenant_id=46&council_id=115&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "speakers": [],
+      "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
     },
     {
       "id": "44ce5d0aaaadc130d5c1",
@@ -25339,6 +25759,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "3d655cabcb845392e6d5",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-17",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "岡田みきお議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Video_View.asp?SrchID=2382",
+      "speakers": [
+        "岡田みきお"
+      ]
+    },
+    {
       "id": "d59dd504a35b704ab7af",
       "place": "蕨市",
       "season": "fall",
@@ -25350,6 +25784,34 @@ GIKAI.questionText = {
       "url": "https://warabi.gijiroku.com/gikai/g07_Video_View.asp?SrchID=2379",
       "speakers": [
         "庄野航二"
+      ]
+    },
+    {
+      "id": "ed4764f0eb3c61ca992d",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-17",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "栃本よしかね議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Video_View.asp?SrchID=2380",
+      "speakers": [
+        "栃本よしかね"
+      ]
+    },
+    {
+      "id": "6a03394bd30139c5933e",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-17",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "比企孝司議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Video_View.asp?SrchID=2381",
+      "speakers": [
+        "比企孝司"
       ]
     },
     {
@@ -25828,6 +26290,146 @@ GIKAI.questionText = {
         "池田かつ子",
         "関根真一"
       ]
+    },
+    {
+      "id": "e3ffc8026f66b349756d",
+      "place": "越生町",
+      "season": "fall",
+      "date": "2026-09-03",
+      "title": "木村好美議員　一般質問（公開字幕）",
+      "kind": "公式録画の公開自動字幕",
+      "scope": "recording",
+      "speakers": [
+        "木村好美"
+      ],
+      "note": "町公式の一般質問一覧から公開された録画の日本語自動字幕です。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。発言者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://www.youtube.com/watch?v=hfTqX6ZPxRw"
+    },
+    {
+      "id": "77ad651bcc9e3dd70083",
+      "place": "越生町",
+      "season": "fall",
+      "date": "2026-09-03",
+      "title": "木村正美議員　一般質問（公開字幕）",
+      "kind": "公式録画の公開自動字幕",
+      "scope": "recording",
+      "speakers": [
+        "木村正美"
+      ],
+      "note": "町公式の一般質問一覧から公開された録画の日本語自動字幕です。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。発言者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://www.youtube.com/watch?v=8CqU2n8IJdI"
+    },
+    {
+      "id": "82bb38e4adb2c450d538",
+      "place": "越生町",
+      "season": "fall",
+      "date": "2026-09-03",
+      "title": "水沢努議員　一般質問（公開字幕）",
+      "kind": "公式録画の公開自動字幕",
+      "scope": "recording",
+      "speakers": [
+        "水沢努"
+      ],
+      "note": "町公式の一般質問一覧から公開された録画の日本語自動字幕です。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。発言者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。質問者の表記は町公式の一般質問一覧と議員名簿によります。",
+      "url": "https://www.youtube.com/watch?v=7nfkrV6GOT0"
+    },
+    {
+      "id": "cffc27aab469fc239428",
+      "place": "越生町",
+      "season": "fall",
+      "date": "2026-09-03",
+      "title": "高橋一正議員　一般質問（公開字幕）",
+      "kind": "公式録画の公開自動字幕",
+      "scope": "recording",
+      "speakers": [
+        "高橋一正"
+      ],
+      "note": "町公式の一般質問一覧から公開された録画の日本語自動字幕です。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。発言者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://www.youtube.com/watch?v=2RpccbYo_Lc"
+    },
+    {
+      "id": "76f677a599f28c5baf57",
+      "place": "越生町",
+      "season": "fall",
+      "date": "2026-09-04",
+      "title": "宮島サイ子議員　一般質問（公開字幕）",
+      "kind": "公式録画の公開自動字幕",
+      "scope": "recording",
+      "speakers": [
+        "宮島サイ子"
+      ],
+      "note": "町公式の一般質問一覧から公開された録画の日本語自動字幕です。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。発言者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://www.youtube.com/watch?v=Ol5nIeeWbvA"
+    },
+    {
+      "id": "d3286ae9991ef6b2b651",
+      "place": "越生町",
+      "season": "fall",
+      "date": "2026-09-04",
+      "title": "島野美佳子議員　一般質問（公開字幕）",
+      "kind": "公式録画の公開自動字幕",
+      "scope": "recording",
+      "speakers": [
+        "島野美佳子"
+      ],
+      "note": "町公式の一般質問一覧から公開された録画の日本語自動字幕です。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。発言者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://www.youtube.com/watch?v=XqXAWNvFrSg"
+    },
+    {
+      "id": "d9e635c2401c3e5f84ac",
+      "place": "越生町",
+      "season": "fall",
+      "date": "2026-09-04",
+      "title": "池田かつ子議員　一般質問（公開字幕）",
+      "kind": "公式録画の公開自動字幕",
+      "scope": "recording",
+      "speakers": [
+        "池田かつ子"
+      ],
+      "note": "町公式の一般質問一覧から公開された録画の日本語自動字幕です。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。発言者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。 字幕の末尾は録画終了の約14秒前です。",
+      "url": "https://www.youtube.com/watch?v=vGqltHKqEvw"
+    },
+    {
+      "id": "08c3f85d0643b943f310",
+      "place": "越生町",
+      "season": "fall",
+      "date": "2026-09-07",
+      "title": "栗原誠議員　一般質問（公開字幕）",
+      "kind": "公式録画の公開自動字幕",
+      "scope": "recording",
+      "speakers": [
+        "栗原誠"
+      ],
+      "note": "町公式の一般質問一覧から公開された録画の日本語自動字幕です。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。発言者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://www.youtube.com/watch?v=wyd-xEySM04"
+    },
+    {
+      "id": "08be2b62b8950af0b0d2",
+      "place": "越生町",
+      "season": "fall",
+      "date": "2026-09-07",
+      "title": "長根弘倫議員　一般質問（公開字幕）",
+      "kind": "公式録画の公開自動字幕",
+      "scope": "recording",
+      "speakers": [
+        "長根弘倫"
+      ],
+      "note": "町公式の一般質問一覧から公開された録画の日本語自動字幕です。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。発言者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://www.youtube.com/watch?v=ls3ECWjxRow"
+    },
+    {
+      "id": "e1dd93bf240aa54cb9f2",
+      "place": "越生町",
+      "season": "fall",
+      "date": "2026-09-07",
+      "title": "関根真一議員　一般質問（公開字幕）",
+      "kind": "公式録画の公開自動字幕",
+      "scope": "recording",
+      "speakers": [
+        "関根真一"
+      ],
+      "note": "町公式の一般質問一覧から公開された録画の日本語自動字幕です。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。発言者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://www.youtube.com/watch?v=6F1MIeKCnZA"
     },
     {
       "id": "ec431397862634b3768f",
@@ -27299,16 +27901,18 @@ GIKAI.questionText = {
       "place": "さいたま市",
       "season": "spring",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 7資料。公開の日程で確認した対象本文7日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録7資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteBrowse.html?tenant_id=134&view_years=2026"
       }
     },
     {
       "place": "さいたま市",
       "season": "summer",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 7資料。公開の日程で確認した対象本文7日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録7資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/saitama/SpMinuteBrowse.html?tenant_id=134&view_years=2026"
       }
     },
     {
@@ -27348,7 +27952,8 @@ GIKAI.questionText = {
       "season": "spring",
       "material": {
         "state": "verified",
-        "note": "会議録または公式の質問・答弁 3資料。議会だより要旨 1資料。公開日程で一般質問・代表質問と明記された日の本文を全件照合。配布用HTMLで本文を開けます。"
+        "note": "公式目次と照合した本会議の日別会議録6資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/kumagaya/SpMinuteBrowse.html?tenant_id=94&view_years=2026"
       }
     },
     {
@@ -27356,7 +27961,8 @@ GIKAI.questionText = {
       "season": "summer",
       "material": {
         "state": "verified",
-        "note": "会議録または公式の質問・答弁 3資料。議会だより要旨 1資料。公開日程で一般質問・代表質問と明記された日の本文を全件照合。配布用HTMLで本文を開けます。"
+        "note": "公式目次と照合した本会議の日別会議録6資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/kumagaya/SpMinuteBrowse.html?tenant_id=94&view_years=2026"
       }
     },
     {
@@ -27387,24 +27993,27 @@ GIKAI.questionText = {
       "place": "川口市",
       "season": "fall",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 7資料。公開の日程で確認した対象本文7日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録7資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteBrowse.html?tenant_id=366&view_years=2026"
       }
     },
     {
       "place": "行田市",
       "season": "spring",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 8資料。公開の日程で確認した対象本文8日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録8資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/gyoda/SpMinuteBrowse.html?tenant_id=351&view_years=2026"
       }
     },
     {
       "place": "行田市",
       "season": "summer",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 7資料。公開の日程で確認した対象本文7日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録7資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/gyoda/SpMinuteBrowse.html?tenant_id=351&view_years=2026"
       }
     },
     {
@@ -27443,64 +28052,72 @@ GIKAI.questionText = {
       "place": "所沢市",
       "season": "spring",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 9資料。公開の日程で確認した対象本文9日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録9資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/tokorozawa/SpMinuteBrowse.html?tenant_id=213&view_years=2026"
       }
     },
     {
       "place": "所沢市",
       "season": "summer",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 8資料。公開の日程で確認した対象本文8日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録8資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/tokorozawa/SpMinuteBrowse.html?tenant_id=213&view_years=2026"
       }
     },
     {
       "place": "所沢市",
       "season": "fall",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 8資料。公開の日程で確認した対象本文8日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録8資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/tokorozawa/SpMinuteBrowse.html?tenant_id=213&view_years=2026"
       }
     },
     {
       "place": "飯能市",
       "season": "spring",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録6資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/hanno/SpMinuteBrowse.html?tenant_id=601&view_years=2026"
       }
     },
     {
       "place": "飯能市",
       "season": "summer",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録6資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/hanno/SpMinuteBrowse.html?tenant_id=601&view_years=2026"
       }
     },
     {
       "place": "飯能市",
       "season": "fall",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録6資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/hanno/SpMinuteBrowse.html?tenant_id=601&view_years=2026"
       }
     },
     {
       "place": "加須市",
       "season": "spring",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 8資料。公開の日程で確認した対象本文8日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録8資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/kazo/SpMinuteBrowse.html?tenant_id=219&view_years=2026"
       }
     },
     {
       "place": "加須市",
       "season": "summer",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 7資料。公開の日程で確認した対象本文7日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録7資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/kazo/SpMinuteBrowse.html?tenant_id=219&view_years=2026"
       }
     },
     {
@@ -27515,24 +28132,27 @@ GIKAI.questionText = {
       "place": "本庄市",
       "season": "spring",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録6資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/honjo/SpMinuteBrowse.html?tenant_id=48&view_years=2026"
       }
     },
     {
       "place": "本庄市",
       "season": "summer",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録6資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/honjo/SpMinuteBrowse.html?tenant_id=48&view_years=2026"
       }
     },
     {
       "place": "本庄市",
       "season": "fall",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録6資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/honjo/SpMinuteBrowse.html?tenant_id=48&view_years=2026"
       }
     },
     {
@@ -27611,16 +28231,18 @@ GIKAI.questionText = {
       "place": "羽生市",
       "season": "spring",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録6資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/hanyu/SpMinuteBrowse.html?tenant_id=159&view_years=2026"
       }
     },
     {
       "place": "羽生市",
       "season": "summer",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録6資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/hanyu/SpMinuteBrowse.html?tenant_id=159&view_years=2026"
       }
     },
     {
@@ -27635,16 +28257,18 @@ GIKAI.questionText = {
       "place": "鴻巣市",
       "season": "spring",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 8資料。公開の日程で確認した対象本文8日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録8資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/kounosu/SpMinuteBrowse.html?tenant_id=85&view_years=2026"
       }
     },
     {
       "place": "鴻巣市",
       "season": "summer",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 7資料。公開の日程で確認した対象本文7日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録7資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/kounosu/SpMinuteBrowse.html?tenant_id=85&view_years=2026"
       }
     },
     {
@@ -27772,7 +28396,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "公式録画一覧の一般質問15人のうち、1人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
+        "note": "公式録画一覧の一般質問15人のうち、4人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
       }
     },
     {
@@ -27851,16 +28475,18 @@ GIKAI.questionText = {
       "place": "志木市",
       "season": "spring",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 7資料。公開の日程で確認した対象本文7日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録7資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/shiki/SpMinuteBrowse.html?tenant_id=381&view_years=2026"
       }
     },
     {
       "place": "志木市",
       "season": "summer",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 7資料。公開の日程で確認した対象本文7日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録7資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/shiki/SpMinuteBrowse.html?tenant_id=381&view_years=2026"
       }
     },
     {
@@ -27923,16 +28549,18 @@ GIKAI.questionText = {
       "place": "桶川市",
       "season": "spring",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 9資料。公開の日程で確認した対象本文9日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録9資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/okegawa/SpMinuteBrowse.html?tenant_id=184&view_years=2026"
       }
     },
     {
       "place": "桶川市",
       "season": "summer",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 5資料。公開の日程で確認した対象本文5日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録5資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/okegawa/SpMinuteBrowse.html?tenant_id=184&view_years=2026"
       }
     },
     {
@@ -27971,40 +28599,45 @@ GIKAI.questionText = {
       "place": "北本市",
       "season": "spring",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 8資料。公開の日程で確認した対象本文8日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録8資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteBrowse.html?tenant_id=300&view_years=2026"
       }
     },
     {
       "place": "北本市",
       "season": "summer",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 7資料。公開の日程で確認した対象本文7日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録7資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteBrowse.html?tenant_id=300&view_years=2026"
       }
     },
     {
       "place": "北本市",
       "season": "fall",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 8資料。公開の日程で確認した対象本文8日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録8資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteBrowse.html?tenant_id=300&view_years=2026"
       }
     },
     {
       "place": "八潮市",
       "season": "spring",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録6資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/yashio/SpMinuteBrowse.html?tenant_id=233&view_years=2026"
       }
     },
     {
       "place": "八潮市",
       "season": "summer",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録6資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/yashio/SpMinuteBrowse.html?tenant_id=233&view_years=2026"
       }
     },
     {
@@ -28019,40 +28652,45 @@ GIKAI.questionText = {
       "place": "富士見市",
       "season": "spring",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 10資料。公開の日程で確認した対象本文10日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録10資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteBrowse.html?tenant_id=47&view_years=2026"
       }
     },
     {
       "place": "富士見市",
       "season": "summer",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 8資料。公開の日程で確認した対象本文8日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録8資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteBrowse.html?tenant_id=47&view_years=2026"
       }
     },
     {
       "place": "富士見市",
       "season": "fall",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 8資料。公開の日程で確認した対象本文8日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録8資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteBrowse.html?tenant_id=47&view_years=2026"
       }
     },
     {
       "place": "三郷市",
       "season": "spring",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 8資料。公開の日程で確認した対象本文8日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録8資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/misato/SpMinuteBrowse.html?tenant_id=209&view_years=2026"
       }
     },
     {
       "place": "三郷市",
       "season": "summer",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録6資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/misato/SpMinuteBrowse.html?tenant_id=209&view_years=2026"
       }
     },
     {
@@ -28092,7 +28730,8 @@ GIKAI.questionText = {
       "season": "spring",
       "material": {
         "state": "verified",
-        "note": "会議録または公式の質問・答弁 3資料。公開日程で一般質問・代表質問と明記された日の本文を全件照合。配布用HTMLで本文を開けます。"
+        "note": "公式目次と照合した本会議の日別会議録6資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/sakado/SpMinuteBrowse.html?tenant_id=348&view_years=2026"
       }
     },
     {
@@ -28100,7 +28739,8 @@ GIKAI.questionText = {
       "season": "summer",
       "material": {
         "state": "verified",
-        "note": "会議録または公式の質問・答弁 3資料。公開日程で一般質問・代表質問と明記された日の本文を全件照合。配布用HTMLで本文を開けます。"
+        "note": "公式目次と照合した本会議の日別会議録6資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/sakado/SpMinuteBrowse.html?tenant_id=348&view_years=2026"
       }
     },
     {
@@ -28115,40 +28755,45 @@ GIKAI.questionText = {
       "place": "幸手市",
       "season": "spring",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録6資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/satte/SpMinuteBrowse.html?tenant_id=182&view_years=2026"
       }
     },
     {
       "place": "幸手市",
       "season": "summer",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録6資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/satte/SpMinuteBrowse.html?tenant_id=182&view_years=2026"
       }
     },
     {
       "place": "幸手市",
       "season": "fall",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録6資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/satte/SpMinuteBrowse.html?tenant_id=182&view_years=2026"
       }
     },
     {
       "place": "鶴ヶ島市",
       "season": "spring",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録6資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/tsurugashima/SpMinuteBrowse.html?tenant_id=42&view_years=2026"
       }
     },
     {
       "place": "鶴ヶ島市",
       "season": "summer",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録6資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/tsurugashima/SpMinuteBrowse.html?tenant_id=42&view_years=2026"
       }
     },
     {
@@ -28164,15 +28809,17 @@ GIKAI.questionText = {
       "season": "spring",
       "material": {
         "state": "verified",
-        "note": "会議録または公式の質問・答弁 3資料。公開日程で一般質問・代表質問と明記された日の本文を全件照合。配布用HTMLで本文を開けます。"
+        "note": "公式目次と照合した本会議の日別会議録6資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/saihidaka/SpMinuteBrowse.html?tenant_id=44&view_years=2026"
       }
     },
     {
       "place": "日高市",
       "season": "summer",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録6資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/saihidaka/SpMinuteBrowse.html?tenant_id=44&view_years=2026"
       }
     },
     {
@@ -28187,16 +28834,18 @@ GIKAI.questionText = {
       "place": "吉川市",
       "season": "spring",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 8資料。公開の日程で確認した対象本文8日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録8資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/yoshikawa/SpMinuteBrowse.html?tenant_id=230&view_years=2026"
       }
     },
     {
       "place": "吉川市",
       "season": "summer",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録6資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/yoshikawa/SpMinuteBrowse.html?tenant_id=230&view_years=2026"
       }
     },
     {
@@ -28211,24 +28860,27 @@ GIKAI.questionText = {
       "place": "ふじみ野市",
       "season": "spring",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録6資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteBrowse.html?tenant_id=24&view_years=2026"
       }
     },
     {
       "place": "ふじみ野市",
       "season": "summer",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録6資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteBrowse.html?tenant_id=24&view_years=2026"
       }
     },
     {
       "place": "ふじみ野市",
       "season": "fall",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録6資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteBrowse.html?tenant_id=24&view_years=2026"
       }
     },
     {
@@ -28236,7 +28888,8 @@ GIKAI.questionText = {
       "season": "spring",
       "material": {
         "state": "verified",
-        "note": "会議録または公式の質問・答弁 3資料。公開日程で一般質問・代表質問と明記された日の本文を全件照合。配布用HTMLで本文を開けます。"
+        "note": "公式目次と照合した本会議の日別会議録6資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/shiraoka/SpMinuteBrowse.html?tenant_id=45&view_years=2026"
       }
     },
     {
@@ -28244,7 +28897,8 @@ GIKAI.questionText = {
       "season": "summer",
       "material": {
         "state": "verified",
-        "note": "会議録または公式の質問・答弁 3資料。公開日程で一般質問・代表質問と明記された日の本文を全件照合。配布用HTMLで本文を開けます。"
+        "note": "公式目次と照合した本会議の日別会議録6資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/shiraoka/SpMinuteBrowse.html?tenant_id=45&view_years=2026"
       }
     },
     {
@@ -28307,8 +28961,9 @@ GIKAI.questionText = {
       "place": "毛呂山町",
       "season": "spring",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録6資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/moroyama/SpMinuteBrowse.html?tenant_id=50&view_years=2026"
       }
     },
     {
@@ -28331,24 +28986,27 @@ GIKAI.questionText = {
       "place": "越生町",
       "season": "spring",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 7資料。公開の日程で確認した対象本文7日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録7資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/ogose/SpMinuteBrowse.html?tenant_id=75&view_years=2026"
       }
     },
     {
       "place": "越生町",
       "season": "summer",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 4資料。公開の日程で確認した対象本文4日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録4資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/ogose/SpMinuteBrowse.html?tenant_id=75&view_years=2026"
       }
     },
     {
       "place": "越生町",
       "season": "fall",
       "material": {
-        "state": "notFound",
-        "note": "2026年の公式会議録の年別一覧で秋の定例会本文を確認できませんでした。"
+        "state": "partial",
+        "note": "９月定例会一般質問の公式録画10人のうち、10人分の公開自動字幕を収録。原音との確定照合と正式会議録は確認中。",
+        "indexURL": "https://www.town.ogose.saitama.jp/kamei/gikai/gyomuannai/reiwa8_9teireikai/4600.html"
       }
     },
     {
@@ -28404,7 +29062,8 @@ GIKAI.questionText = {
       "season": "spring",
       "material": {
         "state": "verified",
-        "note": "会議録または公式の質問・答弁 2資料。公開日程で一般質問・代表質問と明記された日の本文を全件照合。配布用HTMLで本文を開けます。"
+        "note": "公式目次と照合した本会議の日別会議録6資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/ogawa/SpMinuteBrowse.html?tenant_id=87&view_years=2026"
       }
     },
     {
@@ -28412,7 +29071,8 @@ GIKAI.questionText = {
       "season": "summer",
       "material": {
         "state": "verified",
-        "note": "会議録または公式の質問・答弁 3資料。公開日程で一般質問・代表質問と明記された日の本文を全件照合。配布用HTMLで本文を開けます。"
+        "note": "公式目次と照合した本会議の日別会議録5資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/ogawa/SpMinuteBrowse.html?tenant_id=87&view_years=2026"
       }
     },
     {
@@ -28427,16 +29087,18 @@ GIKAI.questionText = {
       "place": "川島町",
       "season": "spring",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 6資料。公開の日程で確認した対象本文6日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録6資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteBrowse.html?tenant_id=175&view_years=2026"
       }
     },
     {
       "place": "川島町",
       "season": "summer",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 4資料。公開の日程で確認した対象本文4日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録4資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteBrowse.html?tenant_id=175&view_years=2026"
       }
     },
     {
@@ -28620,7 +29282,8 @@ GIKAI.questionText = {
       "season": "spring",
       "material": {
         "state": "verified",
-        "note": "会議録または公式の質問・答弁 1資料。公開日程で一般質問・代表質問と明記された日の本文を全件照合。配布用HTMLで本文を開けます。"
+        "note": "公式目次と照合した本会議の日別会議録3資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/higashichichibu/SpMinuteBrowse.html?tenant_id=91&view_years=2026"
       }
     },
     {
@@ -28628,7 +29291,8 @@ GIKAI.questionText = {
       "season": "summer",
       "material": {
         "state": "verified",
-        "note": "会議録または公式の質問・答弁 1資料。公開日程で一般質問・代表質問と明記された日の本文を全件照合。配布用HTMLで本文を開けます。"
+        "note": "公式目次と照合した本会議の日別会議録2資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/higashichichibu/SpMinuteBrowse.html?tenant_id=91&view_years=2026"
       }
     },
     {
@@ -28644,7 +29308,8 @@ GIKAI.questionText = {
       "season": "spring",
       "material": {
         "state": "verified",
-        "note": "会議録または公式の質問・答弁 1資料。公開日程で一般質問・代表質問と明記された日の本文を全件照合。配布用HTMLで本文を開けます。"
+        "note": "公式目次と照合した本会議の日別会議録4資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/saimisato/SpMinuteBrowse.html?tenant_id=46&view_years=2026"
       }
     },
     {
@@ -28652,7 +29317,8 @@ GIKAI.questionText = {
       "season": "summer",
       "material": {
         "state": "verified",
-        "note": "会議録または公式の質問・答弁 1資料。公開日程で一般質問・代表質問と明記された日の本文を全件照合。配布用HTMLで本文を開けます。"
+        "note": "公式目次と照合した本会議の日別会議録3資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/saimisato/SpMinuteBrowse.html?tenant_id=46&view_years=2026"
       }
     },
     {
@@ -28715,16 +29381,18 @@ GIKAI.questionText = {
       "place": "寄居町",
       "season": "spring",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 8資料。公開の日程で確認した対象本文8日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録8資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/yorii/SpMinuteBrowse.html?tenant_id=232&view_years=2026"
       }
     },
     {
       "place": "寄居町",
       "season": "summer",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 4資料。公開の日程で確認した対象本文4日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録4資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/yorii/SpMinuteBrowse.html?tenant_id=232&view_years=2026"
       }
     },
     {
@@ -28739,16 +29407,18 @@ GIKAI.questionText = {
       "place": "宮代町",
       "season": "spring",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 8資料。公開の日程で確認した対象本文8日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録8資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteBrowse.html?tenant_id=224&view_years=2026"
       }
     },
     {
       "place": "宮代町",
       "season": "summer",
       "material": {
-        "state": "partial",
-        "note": "会議録または公式の質問・答弁 5資料。公開の日程で確認した対象本文5日分。一般質問の登壇者全員との照合は未了。配布用HTMLで本文を開けます。"
+        "state": "verified",
+        "note": "公式目次と照合した本会議の日別会議録5資料を収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteBrowse.html?tenant_id=224&view_years=2026"
       }
     },
     {

@@ -18,3 +18,83 @@ GIKAI.cases.push(...[
 {"title":"核兵器禁止条約について国への意見書を提出した議員と議決","place":"吉見町","actors":["杉田しのぶ","福田妙子","福井学","吉見町議会"],"topic":"議員提出議案・平和政策","steps":[{"date":"2026-09","actor":"杉田しのぶ（提出者）、福田妙子・福井学（賛成者）","stage":"議員発議","detail":"条約の再検討会議へのオブザーバー参加と、条約への署名・批准を国に求める意見書案を提出した。","url":"https://www.town.yoshimi.saitama.jp/material/files/group/3/gikai14.pdf#page=7","sourceTitle":"吉見町議会「よしみぎかい」第14号 7頁"},{"date":"2026-09","actor":"吉見町議会","stage":"質疑・討論","detail":"国際情勢や日米安全保障条約との関係を理由とする慎重論と、平和都市宣言を踏まえた行動を求める賛成論が記録された。","url":"https://www.town.yoshimi.saitama.jp/material/files/group/3/gikai14.pdf#page=7","sourceTitle":"吉見町議会「よしみぎかい」第14号 7頁"},{"date":"2026-09","actor":"吉見町議会","stage":"本会議で議決","detail":"賛成7、反対5、棄権1で可決。議案別の公式審議結果にも発議第4号の原案可決が掲載されている。","url":"https://www.town.yoshimi.saitama.jp/material/files/group/14/shingikekka809.pdf","sourceTitle":"吉見町議会「審議結果（令和8年9月議会定例会）」"}],"note":"署名・批准を求める意見書についての議決。町議会は提出者と議案提出時の賛成者を区別して公表している。"},
 {"title":"中学校の部活動の暑さ対策を、屋内と校庭で続けて問う","place":"神川町","actors":["柴崎愛子","神川町"],"topic":"学校・熱中症対策","steps":[{"date":"2026-06-04","actor":"柴崎愛子","stage":"一般質問","detail":"神川中学校の柔剣道場で気温が上がることを取り上げ、空調の導入を求めた。","url":"https://www.town.kamikawa.saitama.jp/material/files/group/18/gikaidayori83.pdf#page=4","sourceTitle":"かみかわ町議会だより第83号・令和8年6月定例会"},{"date":"2026-06-04","actor":"神川町","stage":"答弁","detail":"町は老朽化した柔剣道場への新設は難しいと回答。空調を備える体育館や空き教室での活動を研究すると答えた。","url":"https://www.town.kamikawa.saitama.jp/material/files/group/18/gikaidayori83.pdf#page=4","sourceTitle":"かみかわ町議会だより第83号・令和8年6月定例会"},{"date":"2026-09","actor":"柴崎愛子","stage":"現地見学を踏まえた次会期の質問通告","detail":"夏休みに部活動を見学し、早朝から練習する部の実情を記載。6月の質問を明示して、屋外の陸上部・野球部へのミスト扇風機導入を取り上げた。","url":"https://www.town.kamikawa.saitama.jp/material/files/group/18/ippannsitsumonn202609.pdf#page=2","sourceTitle":"神川町議会「令和8年第4回定例会・予定されている一般質問」"}],"note":"9月の根拠は一般質問通告。現地での見学は議員が通告に記したもので、9月の答弁や設備の購入はこの資料の範囲に含めていない。"}
 ]);
+// 日高市９月定例会の請願
+GIKAI.cases.push(...[
+  {
+    "place": "日高市",
+    "title": "一般質問を一問一答・分割方式で行うよう求めた請願",
+    "topic": "議会運営",
+    "actors": [
+      "請願者",
+      "日高市議会",
+      "議会運営委員会"
+    ],
+    "steps": [
+      {
+        "date": "2026-08-17",
+        "stage": "請願を受理",
+        "actor": "日高市議会",
+        "detail": "一般質問に初回からの一問一答方式と分割方式を採用するよう求める請願第3号を受理した。請願文書表の付託先は議会運営委員会。",
+        "url": "https://www.city.hidaka.lg.jp/material/files/group/30/seigan01-2.pdf",
+        "sourceTitle": "日高市議会 請願文書表・請願第3号"
+      },
+      {
+        "date": "2026-09-24",
+        "stage": "請願は不採択",
+        "actor": "日高市議会",
+        "detail": "本会議で不採択とした。審議結果の欄には少数と記載されている。",
+        "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=2",
+        "sourceTitle": "日高市議会 第4回定例会の審議結果",
+        "billNumber": "請願第3号"
+      }
+    ],
+    "note": "請願文書表は提出された要望、審議結果は本会議での扱いを示します。審議結果の公表範囲は結果と多数・少数の区分です。"
+  },
+  {
+    "place": "日高市",
+    "title": "データセンターの環境検証と用途区分を求めた二つの請願",
+    "topic": "環境・土地利用",
+    "actors": [
+      "請願者",
+      "日高市議会",
+      "文教経済常任委員会"
+    ],
+    "steps": [
+      {
+        "date": "2026-08-17",
+        "stage": "環境への影響に関する請願を受理",
+        "actor": "日高市議会",
+        "detail": "大規模データセンターの建設・稼働による地下水、自然環境への影響について、十分な検証と説明を求める請願第4号を受理した。請願文書表の付託先は文教経済常任委員会。",
+        "url": "https://www.city.hidaka.lg.jp/material/files/group/30/seigan02-2.pdf",
+        "sourceTitle": "日高市議会 請願文書表・請願第4号"
+      },
+      {
+        "date": "2026-08-18",
+        "stage": "用途区分に関する請願を受理",
+        "actor": "日高市議会",
+        "detail": "建築基準法の用途区分への「データセンター」の追加を国に求める意見書の提出を請願する第5号を受理した。請願文書表の付託先は文教経済常任委員会。",
+        "url": "https://www.city.hidaka.lg.jp/material/files/group/30/seigan03-2.pdf",
+        "sourceTitle": "日高市議会 請願文書表・請願第5号"
+      },
+      {
+        "date": "2026-09-24",
+        "stage": "環境への影響に関する請願は不採択",
+        "actor": "日高市議会",
+        "detail": "本会議で第4号を不採択とした。審議結果の欄には少数と記載されている。",
+        "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=2",
+        "sourceTitle": "日高市議会 第4回定例会の審議結果",
+        "billNumber": "請願第4号"
+      },
+      {
+        "date": "2026-09-24",
+        "stage": "用途区分に関する請願は不採択",
+        "actor": "日高市議会",
+        "detail": "本会議で第5号を不採択とした。審議結果の欄には少数と記載されている。",
+        "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf#page=2",
+        "sourceTitle": "日高市議会 第4回定例会の審議結果",
+        "billNumber": "請願第5号"
+      }
+    ],
+    "note": "採決の対象は、環境影響の検証・説明と、国への意見書提出を求める二つの請願です。"
+  }
+]);

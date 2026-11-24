@@ -404,7 +404,7 @@ for (const doc of questionDocs) {
   assert.ok(doc.title && doc.kind);
   assert.ok(["minutes", "fullQA", "summary", "recording"].includes(doc.scope));
   if (doc.scope === "recording") {
-    assert.match(doc.kind, /機械文字起こし/);
+    assert.match(doc.kind, /機械文字起こし|公開自動字幕/);
     assert.ok(doc.speakers.length);
   }
   assert.ok(Array.isArray(doc.speakers) && new Set(doc.speakers).size === doc.speakers.length);
@@ -413,6 +413,7 @@ assert.ok(questionDocs.length >= 808, "Prefecture Q&A texts should be preserved"
 for (const row of data.questionText.coverage) {
   assert.ok(coverageSlots.has(row.place + "|" + row.season));
   assert.ok(materialStates.has(row.material.state) && row.material.note);
+  if (row.material.indexURL) validLink(row.material.indexURL);
   if (row.material.state === "verified" || row.material.state === "partial") {
     assert.ok(docCouncilSeasons.has(row.place + "|" + row.season));
   }
