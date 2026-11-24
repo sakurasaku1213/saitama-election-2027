@@ -21102,6 +21102,20 @@ GIKAI.questionText = {
       "note": "公式HTMLに掲載された12人の事前通告37項目。録画で実施日と氏名を確認。"
     },
     {
+      "id": "ac1a90d071aa9a94e1ad",
+      "place": "宮代町",
+      "season": "fall",
+      "date": "2026-09-02",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "丸藤栄一議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/miyashiro/WebView/rd/speech.html?council_id=32&schedule_id=5&playlist_id=1&speaker_id=4&target_year=2026",
+      "speakers": [
+        "丸藤栄一"
+      ]
+    },
+    {
       "id": "61b45e5956cb5620c088",
       "place": "寄居町",
       "season": "spring",
@@ -24802,12 +24816,51 @@ GIKAI.questionText = {
       "place": "志木市",
       "season": "fall",
       "date": "2026-09",
-      "title": "志木市議会だより214号・9月定例会の一般質問（紙面2〜8頁）",
+      "title": "議会だよりしき第214号・９月定例会の一般質問",
       "url": "https://www.city.shiki.lg.jp/uploaded/attachment/24682.pdf",
-      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "kind": "議会だよりの質問・答弁（紙面要約）",
       "scope": "summary",
-      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
-      "speakers": []
+      "note": "第214号の紙面３～８頁（分割PDF２～７頁）の一般質問12人の掲載問答と、その他の見出し26件を照合。発言日は公式録画目録と照合した。 原紙面の分割PDF全７頁のOCRを併録。",
+      "speakers": [
+        "天田いづみ",
+        "今村弘志",
+        "上野琢磨",
+        "小池真由美",
+        "田畑寛治",
+        "阿部竜一",
+        "岡島貴弘",
+        "高山優太",
+        "古谷孝",
+        "中村智紀",
+        "河野芳徳",
+        "安藤圭介"
+      ]
+    },
+    {
+      "id": "338419aa9af19e07b5e3",
+      "place": "志木市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "９月定例会・一般質問通告13人と録画目録",
+      "url": "https://www.city.shiki.lg.jp/uploaded/attachment/24075.pdf",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "speakers": [
+        "天田いづみ",
+        "今村弘志",
+        "上野琢磨",
+        "小池真由美",
+        "田畑寛治",
+        "阿部竜一",
+        "鈴木潔",
+        "岡島貴弘",
+        "高山優太",
+        "古谷孝",
+        "中村智紀",
+        "河野芳徳",
+        "安藤圭介"
+      ],
+      "note": "公式通告PDF全12頁。録画目録で12人・38項目を照合。鈴木潔議員は９月16日の通告・議事日程に掲載。発言は確認中。"
     },
     {
       "id": "6db5057d300d50d8cb08",
@@ -26554,6 +26607,20 @@ GIKAI.questionText = {
       "url": "https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1872",
       "speakers": [
         "助川昇"
+      ]
+    },
+    {
+      "id": "82d131cc436ae7f8d0d6",
+      "place": "新座市",
+      "season": "fall",
+      "date": "2026-09-09",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "嶋野加代議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1870",
+      "speakers": [
+        "嶋野加代"
       ]
     },
     {
@@ -38166,7 +38233,8 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。公式一覧の委員会2資料も収録。"
+        "indexURL": "https://smart.discussvision.net/smart/tenant/shiki/WebView/rd/council.html?year=2026&council_id=48",
+        "note": "第214号の紙面３～８頁（分割PDF２～７頁）の一般質問12人の掲載問答と、その他の見出し26件を照合。発言日は公式録画目録と照合した。 総務厚生常任委員会の公式会議録２資料を収録。正式な本会議録は確認中。"
       }
     },
     {
@@ -38220,7 +38288,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://niiza-city.stream.jfit.co.jp/?tpl=gikai_days_list&gikai_id=96",
-        "note": "新座の公式録画から機械文字起こし６人分を参考収録。議会だより第238号の質問・答弁要旨はPDF７頁を収録。原音照合と正式会議録は確認中。"
+        "note": "新座の公式録画から機械文字起こし７人分を参考収録。議会だより第238号の質問・答弁要旨はPDF７頁を収録。原音照合と正式会議録は確認中。"
       }
     },
     {
@@ -39141,7 +39209,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "第140号の一般質問12人・47問答、会計・議案の質疑43問答、議員の討論14件を原紙面と照合して要約。一般質問の通告37項目のうち紙面未掲載は７項目。一般質問の個人別日付は公式録画目録で照合。 正式会議録は確認中。",
+        "note": "第140号の一般質問12人・47問答、会計・議案の質疑43問答、議員の討論14件を原紙面と照合して要約。一般質問の通告37項目のうち紙面未掲載は７項目。一般質問の個人別日付は公式録画目録で照合。 公式録画の機械文字起こし１人分を参考収録。原音照合と正式会議録は確認中。",
         "indexURL": "https://smart.discussvision.net/smart/tenant/miyashiro/WebView/rd/council.html?year=2026&council_id=32"
       }
     },

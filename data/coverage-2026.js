@@ -3713,33 +3713,33 @@ GIKAI.coverage2026 = {
       "place": "志木市",
       "season": "fall",
       "label": "2026年秋の定例会",
-      "fromDate": "",
-      "toDate": "",
+      "fromDate": "2026-08-27",
+      "toDate": "2026-09-25",
       "planned": false,
       "materials": {
         "meeting": {
-          "state": "identified",
-          "note": "対象時期に関係する資料の掲載箇所を確認。会期の確定は未了。"
+          "state": "verified",
+          "note": "公式議案一覧と議会だよりの会期を照合。"
         },
         "activity": {
           "state": "partial",
           "note": "この時期の掲載項目 37件。通告・目次・本文の別は活動の出典に表示。"
         },
         "text": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "一般質問12人分の紙面要旨、公式通告、常任委員会会議録２資料。正式本会議録は確認中。"
         },
         "decisions": {
-          "state": "partial",
-          "note": "議決結果 14件を収録。対象資料・頁は各議案に表示。"
+          "state": "verified",
+          "note": "審議結果23件と採決状況を照合。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "紙面の記名３議案・14人欄を照合。全会一致20件は原表の集計を掲載。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "雨水対策、生活道路の安全、公共施設使用料、学童保育料の４事例を収録。"
         }
       },
       "sources": [
@@ -3748,16 +3748,28 @@ GIKAI.coverage2026 = {
           "url": "https://www.city.shiki.lg.jp/uploaded/attachment/24075.pdf"
         },
         {
-          "label": "一般質問の資料　一般質問(2ページから9ページ) [PDFファイル/3.15MB]",
-          "url": "https://www.city.shiki.lg.jp/uploaded/attachment/23647.pdf"
+          "label": "第214号・一般質問（紙面２～８頁）",
+          "url": "https://www.city.shiki.lg.jp/uploaded/attachment/24682.pdf"
         },
         {
-          "label": "議案・議決資料　賛否の分かれた議案等の表決結果(11ページ) [PDFファイル/800KB]",
-          "url": "https://www.city.shiki.lg.jp/uploaded/attachment/23645.pdf"
+          "label": "第214号・賛否が分かれた議案の記名表",
+          "url": "https://www.city.shiki.lg.jp/uploaded/attachment/24685.pdf"
         },
         {
           "label": "志木市議会9月定例会の議案等一覧・審議結果（議会だより該当頁）",
           "url": "https://www.city.shiki.lg.jp/uploaded/attachment/24684.pdf"
+        },
+        {
+          "label": "第214号・全頁",
+          "url": "https://www.city.shiki.lg.jp/uploaded/attachment/24680.pdf"
+        },
+        {
+          "label": "一般質問の公式録画",
+          "url": "https://smart.discussvision.net/smart/tenant/shiki/WebView/rd/council.html?year=2026&council_id=48"
+        },
+        {
+          "label": "秋の公式議決日・結果一覧",
+          "url": "https://www.city.shiki.lg.jp/uploaded/attachment/24417.pdf"
         }
       ]
     },
@@ -13180,7 +13192,8 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24417.pdf#page=1",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "志木市議会の公式一覧1頁・第22行",
-      "voteNote": "公式一覧の採決状況は全会一致。"
+      "voteNote": "議会だよりの採決状況は「全会一致」。",
+      "voteURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24684.pdf"
     },
     {
       "place": "志木市",
@@ -13194,7 +13207,8 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24417.pdf#page=1",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "志木市議会の公式一覧1頁・第21行",
-      "voteNote": "公式一覧の採決状況は全会一致。"
+      "voteNote": "議会だよりの採決状況は「全会一致」。",
+      "voteURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24684.pdf"
     },
     {
       "place": "志木市",
@@ -13208,7 +13222,25 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24417.pdf#page=1",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "志木市議会の公式一覧1頁・第16行",
-      "voteNote": "公式一覧の採決状況は賛成多数。"
+      "voteNote": "第214号紙面10頁の記名表。反対討論は上野琢磨、賛成討論は安藤圭介。",
+      "votes": {
+        "今村弘志": "賛成",
+        "阿部竜一": "賛成",
+        "小池真由美": "賛成",
+        "古谷孝": "反対",
+        "上野琢磨": "反対",
+        "高山優太": "賛成",
+        "岡島貴弘": "賛成",
+        "天田いづみ": "賛成",
+        "中村智紀": "反対",
+        "吉澤富美夫": "議長（表決不参加）",
+        "田畑寛治": "賛成",
+        "安藤圭介": "賛成",
+        "河野芳徳": "賛成",
+        "鈴木潔": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24685.pdf"
     },
     {
       "place": "志木市",
@@ -13222,7 +13254,8 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24417.pdf#page=1",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "志木市議会の公式一覧1頁・第10行",
-      "voteNote": "公式一覧の採決状況は全会一致。"
+      "voteNote": "議会だよりの採決状況は「全会一致」。",
+      "voteURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24684.pdf"
     },
     {
       "place": "志木市",
@@ -13236,7 +13269,8 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24417.pdf#page=1",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "志木市議会の公式一覧1頁・第9行",
-      "voteNote": "公式一覧の採決状況は全会一致。"
+      "voteNote": "議会だよりの採決状況は「全会一致」。",
+      "voteURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24684.pdf"
     },
     {
       "place": "志木市",
@@ -13250,7 +13284,8 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24417.pdf#page=1",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "志木市議会の公式一覧1頁・第8行",
-      "voteNote": "公式一覧の採決状況は全会一致。"
+      "voteNote": "議会だよりの採決状況は「全会一致」。",
+      "voteURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24684.pdf"
     },
     {
       "place": "志木市",
@@ -13264,7 +13299,25 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24417.pdf#page=1",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "志木市議会の公式一覧1頁・第7行",
-      "voteNote": "公式一覧の採決状況は賛成多数。"
+      "voteNote": "第214号紙面10頁の記名表。反対討論は上野琢磨、賛成討論は今村弘志。",
+      "votes": {
+        "今村弘志": "賛成",
+        "阿部竜一": "賛成",
+        "小池真由美": "賛成",
+        "古谷孝": "賛成",
+        "上野琢磨": "反対",
+        "高山優太": "賛成",
+        "岡島貴弘": "賛成",
+        "天田いづみ": "賛成",
+        "中村智紀": "賛成",
+        "吉澤富美夫": "議長（表決不参加）",
+        "田畑寛治": "賛成",
+        "安藤圭介": "賛成",
+        "河野芳徳": "賛成",
+        "鈴木潔": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24685.pdf"
     },
     {
       "place": "志木市",
@@ -13278,7 +13331,8 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24417.pdf#page=1",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "志木市議会の公式一覧1頁・第6行",
-      "voteNote": "公式一覧の採決状況は全会一致。"
+      "voteNote": "議会だよりの採決状況は「全会一致」。",
+      "voteURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24684.pdf"
     },
     {
       "place": "志木市",
@@ -13292,7 +13346,8 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24417.pdf#page=1",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "志木市議会の公式一覧1頁・第5行",
-      "voteNote": "公式一覧の採決状況は全会一致。"
+      "voteNote": "議会だよりの採決状況は「全会一致」。",
+      "voteURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24684.pdf"
     },
     {
       "place": "志木市",
@@ -13306,7 +13361,8 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24417.pdf#page=1",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "志木市議会の公式一覧1頁・第3行",
-      "voteNote": "公式一覧の採決状況は全会一致。"
+      "voteNote": "議会だよりの採決状況は「全会一致」。",
+      "voteURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24684.pdf"
     },
     {
       "place": "志木市",
@@ -13320,7 +13376,8 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24417.pdf#page=1",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "志木市議会の公式一覧1頁・第14行",
-      "voteNote": "公式一覧の採決状況は全会一致。"
+      "voteNote": "議会だよりの採決状況は「全会一致」。",
+      "voteURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24684.pdf"
     },
     {
       "place": "志木市",
@@ -13334,7 +13391,8 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24417.pdf#page=1",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "志木市議会の公式一覧1頁・第11行",
-      "voteNote": "公式一覧の採決状況は全会一致。"
+      "voteNote": "議会だよりの採決状況は「全会一致」。",
+      "voteURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24684.pdf"
     },
     {
       "place": "志木市",
@@ -13348,7 +13406,8 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24417.pdf#page=1",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "志木市議会の公式一覧1頁・第2行",
-      "voteNote": "公式一覧の採決状況は全会一致。"
+      "voteNote": "議会だよりの採決状況は「全会一致」。",
+      "voteURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24684.pdf"
     },
     {
       "place": "志木市",
@@ -13362,7 +13421,8 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24417.pdf#page=1",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "志木市議会の公式一覧1頁・第1行",
-      "voteNote": "公式一覧の採決状況は全会一致。"
+      "voteNote": "議会だよりの採決状況は「全会一致」。",
+      "voteURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24684.pdf"
     },
     {
       "place": "松伏町",
@@ -60661,7 +60721,8 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiki.lg.jp/uploaded/attachment/24417.pdf#page=1",
       "resultURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24417.pdf#page=1",
       "resultLocator": "志木市議会の公式一覧1頁・第4行",
-      "voteNote": "公式一覧の採決状況は全会一致。"
+      "voteNote": "議会だよりの採決状況は「全会一致」。",
+      "voteURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24684.pdf"
     },
     {
       "place": "志木市",
@@ -60674,7 +60735,8 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiki.lg.jp/uploaded/attachment/24417.pdf#page=1",
       "resultURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24417.pdf#page=1",
       "resultLocator": "志木市議会の公式一覧1頁・第12行",
-      "voteNote": "公式一覧の採決状況は全会一致。"
+      "voteNote": "議会だよりの採決状況は「全会一致」。",
+      "voteURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24684.pdf"
     },
     {
       "place": "志木市",
@@ -60687,7 +60749,8 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiki.lg.jp/uploaded/attachment/24417.pdf#page=1",
       "resultURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24417.pdf#page=1",
       "resultLocator": "志木市議会の公式一覧1頁・第13行",
-      "voteNote": "公式一覧の採決状況は全会一致。"
+      "voteNote": "議会だよりの採決状況は「全会一致」。",
+      "voteURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24684.pdf"
     },
     {
       "place": "志木市",
@@ -60700,7 +60763,8 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiki.lg.jp/uploaded/attachment/24417.pdf#page=1",
       "resultURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24417.pdf#page=1",
       "resultLocator": "志木市議会の公式一覧1頁・第15行",
-      "voteNote": "公式一覧の採決状況は全会一致。"
+      "voteNote": "議会だよりの採決状況は「全会一致」。",
+      "voteURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24684.pdf"
     },
     {
       "place": "志木市",
@@ -60713,7 +60777,25 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiki.lg.jp/uploaded/attachment/24417.pdf#page=1",
       "resultURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24417.pdf#page=1",
       "resultLocator": "志木市議会の公式一覧1頁・第17行",
-      "voteNote": "公式一覧の採決状況は賛成多数。"
+      "voteNote": "第214号紙面10頁の記名表。",
+      "votes": {
+        "今村弘志": "賛成",
+        "阿部竜一": "賛成",
+        "小池真由美": "賛成",
+        "古谷孝": "反対",
+        "上野琢磨": "反対",
+        "高山優太": "賛成",
+        "岡島貴弘": "賛成",
+        "天田いづみ": "賛成",
+        "中村智紀": "賛成",
+        "吉澤富美夫": "議長（表決不参加）",
+        "田畑寛治": "賛成",
+        "安藤圭介": "賛成",
+        "河野芳徳": "賛成",
+        "鈴木潔": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24685.pdf"
     },
     {
       "place": "志木市",
@@ -60726,7 +60808,8 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiki.lg.jp/uploaded/attachment/24417.pdf#page=1",
       "resultURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24417.pdf#page=1",
       "resultLocator": "志木市議会の公式一覧1頁・第18行",
-      "voteNote": "公式一覧の採決状況は全会一致。"
+      "voteNote": "議会だよりの採決状況は「全会一致」。",
+      "voteURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24684.pdf"
     },
     {
       "place": "志木市",
@@ -60739,7 +60822,8 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiki.lg.jp/uploaded/attachment/24417.pdf#page=1",
       "resultURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24417.pdf#page=1",
       "resultLocator": "志木市議会の公式一覧1頁・第19行",
-      "voteNote": "公式一覧の採決状況は全会一致。"
+      "voteNote": "議会だよりの採決状況は「全会一致」。",
+      "voteURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24684.pdf"
     },
     {
       "place": "志木市",
@@ -60752,7 +60836,8 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiki.lg.jp/uploaded/attachment/24417.pdf#page=1",
       "resultURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24417.pdf#page=1",
       "resultLocator": "志木市議会の公式一覧1頁・第20行",
-      "voteNote": "公式一覧の採決状況は全会一致。"
+      "voteNote": "議会だよりの採決状況は「全会一致」。",
+      "voteURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24684.pdf"
     },
     {
       "place": "志木市",
@@ -60765,7 +60850,8 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiki.lg.jp/uploaded/attachment/24417.pdf#page=1",
       "resultURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24417.pdf#page=1",
       "resultLocator": "志木市議会の公式一覧1頁・第23行",
-      "voteNote": "公式一覧の採決状況は全会一致。"
+      "voteNote": "議会だよりの採決状況は「全会一致」。",
+      "voteURL": "https://www.city.shiki.lg.jp/uploaded/attachment/24684.pdf"
     },
     {
       "place": "志木市",
