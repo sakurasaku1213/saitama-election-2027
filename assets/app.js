@@ -402,8 +402,11 @@
       const vote = step.billNumber
         ? jump("votes", { place, season: eventSeason(step.date), q: step.billNumber }, "この議案の議決・表決")
         : "";
+      const text = step.archiveId && step.blocks?.length
+        ? archivedMinutes(place, step.date, step.archiveId, step.blocks)
+        : "";
       return `<li>${dateTag(step.date)}　${tag(step.stage)}${locality}<strong>${esc(step.actor)}</strong>
-        <p>${esc(step.detail)}</p><div class="docs-link">${link(step.url, step.sourceTitle)} ${vote}</div></li>`;
+        <p>${esc(step.detail)}</p><div class="docs-link">${link(step.url, step.sourceTitle)} ${vote}${text}</div></li>`;
     }).join("");
     const councilLabel = c.relatedPlaces?.length ? casePlaces(c).join("・") : c.place + "議会";
     return `<details class="case"><summary><div><div class="meta">${tag(c.topic)}<span>${esc(councilLabel)}</span><span>${c.steps.length}段階</span></div><h3>${esc(c.title)}</h3><p class="small">${esc(date(c.steps[0].date))} ～ ${esc(date(last.date))}　${esc(last.stage)}</p></div></summary><div class="detail-body"><p><b>資料に登場する人・組織</b>　${c.actors.map(esc).join("、")}</p><ol class="steps">${steps}</ol>${c.note ? `<p class="note">${esc(c.note)}</p>` : ""}</div></details>`;

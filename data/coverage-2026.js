@@ -7498,12 +7498,12 @@ GIKAI.coverage2026 = {
           "note": "第152号の一般質問６人・11問答を収録。公式日程は10日を一般質問日としている。正式会議録と発言日は確認中。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "紙面の22結果行を会期日程の番号・件名と照合。個別処理日は確認中。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "紙面の22行・10名欄を照合。報告の了承、請願の付託、議長の表決不参加を保持。"
         },
         "policy": {
           "state": "partial",
@@ -7526,6 +7526,10 @@ GIKAI.coverage2026 = {
         {
           "label": "よこぜ議会ナビ第152号・一般質問",
           "url": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=6"
+        },
+        {
+          "label": "よこぜ議会ナビ第152号・審議結果表",
+          "url": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4"
         }
       ]
     },
@@ -7637,33 +7641,33 @@ GIKAI.coverage2026 = {
       "place": "皆野町",
       "season": "fall",
       "label": "2026年秋の定例会",
-      "fromDate": "",
-      "toDate": "",
+      "fromDate": "2026-09-10",
+      "toDate": "2026-09-11",
       "planned": false,
       "materials": {
         "meeting": {
-          "state": "identified",
-          "note": "対象資料の案内を確認。項目の取込・照合範囲は未確定。"
+          "state": "verified",
+          "note": "議会だよりに記載の９月10～11日の会期を照合。"
         },
         "activity": {
           "state": "partial",
           "note": "この時期の掲載項目 11件。通告・目次・本文の別は活動の出典に表示。"
         },
         "text": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "第59号の５人・16問答と決算・補正予算の無記名６問答、質問通告４頁を収録。正式会議録は確認中。"
         },
         "decisions": {
           "state": "verified",
           "note": "公式の審議結果表に掲載された15行を、件名・結果・掲載箇所で照合。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "第３回定例会15行・12名欄を原表と照合。議長の欠席と職務代行を記録。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "小学校統合準備、統合後の水泳授業、デマンドタクシーの住民説明・運行案内を収録。"
         }
       },
       "sources": [
@@ -7678,6 +7682,10 @@ GIKAI.coverage2026 = {
         {
           "label": "議決結果の原典",
           "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf"
+        },
+        {
+          "label": "みなのまち議会だより第59号・記名表決",
+          "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/92100d92c95bb691d0d849b4595977d4.pdf#page=3"
         }
       ]
     },
@@ -19246,7 +19254,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
       "number": "認定第1号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "議長職務代行（表決不参加）",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "欠席"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/92100d92c95bb691d0d849b4595977d4.pdf#page=3",
+      "voteNote": "９月第３回定例会の原表。林太平議長は欠席、黒澤広治の欄は「―」で、原表脚注に従い議長職務代行の表決不参加として表示。"
     },
     {
       "place": "皆野町",
@@ -19257,7 +19282,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
       "number": "認定第2号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "議長職務代行（表決不参加）",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "欠席"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/92100d92c95bb691d0d849b4595977d4.pdf#page=3",
+      "voteNote": "９月第３回定例会の原表。林太平議長は欠席、黒澤広治の欄は「―」で、原表脚注に従い議長職務代行の表決不参加として表示。"
     },
     {
       "place": "皆野町",
@@ -19268,7 +19310,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
       "number": "認定第3号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "議長職務代行（表決不参加）",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "欠席"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/92100d92c95bb691d0d849b4595977d4.pdf#page=3",
+      "voteNote": "９月第３回定例会の原表。林太平議長は欠席、黒澤広治の欄は「―」で、原表脚注に従い議長職務代行の表決不参加として表示。"
     },
     {
       "place": "皆野町",
@@ -19279,7 +19338,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
       "number": "認定第4号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "議長職務代行（表決不参加）",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "欠席"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/92100d92c95bb691d0d849b4595977d4.pdf#page=3",
+      "voteNote": "９月第３回定例会の原表。林太平議長は欠席、黒澤広治の欄は「―」で、原表脚注に従い議長職務代行の表決不参加として表示。"
     },
     {
       "place": "皆野町",
@@ -19290,7 +19366,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
       "number": "議案第38号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "議長職務代行（表決不参加）",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "欠席"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/92100d92c95bb691d0d849b4595977d4.pdf#page=3",
+      "voteNote": "９月第３回定例会の原表。林太平議長は欠席、黒澤広治の欄は「―」で、原表脚注に従い議長職務代行の表決不参加として表示。"
     },
     {
       "place": "皆野町",
@@ -19301,7 +19394,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
       "number": "議案第39号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "議長職務代行（表決不参加）",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "欠席"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/92100d92c95bb691d0d849b4595977d4.pdf#page=3",
+      "voteNote": "９月第３回定例会の原表。林太平議長は欠席、黒澤広治の欄は「―」で、原表脚注に従い議長職務代行の表決不参加として表示。"
     },
     {
       "place": "皆野町",
@@ -19312,7 +19422,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
       "number": "議案第40号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "議長職務代行（表決不参加）",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "欠席"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/92100d92c95bb691d0d849b4595977d4.pdf#page=3",
+      "voteNote": "９月第３回定例会の原表。林太平議長は欠席、黒澤広治の欄は「―」で、原表脚注に従い議長職務代行の表決不参加として表示。"
     },
     {
       "place": "皆野町",
@@ -19323,7 +19450,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
       "number": "議案第41号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "議長職務代行（表決不参加）",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "欠席"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/92100d92c95bb691d0d849b4595977d4.pdf#page=3",
+      "voteNote": "９月第３回定例会の原表。林太平議長は欠席、黒澤広治の欄は「―」で、原表脚注に従い議長職務代行の表決不参加として表示。"
     },
     {
       "place": "皆野町",
@@ -19334,7 +19478,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
       "number": "議案第42号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "議長職務代行（表決不参加）",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "欠席"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/92100d92c95bb691d0d849b4595977d4.pdf#page=3",
+      "voteNote": "９月第３回定例会の原表。林太平議長は欠席、黒澤広治の欄は「―」で、原表脚注に従い議長職務代行の表決不参加として表示。"
     },
     {
       "place": "皆野町",
@@ -19345,7 +19506,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
       "number": "議案第43号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "議長職務代行（表決不参加）",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "欠席"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/92100d92c95bb691d0d849b4595977d4.pdf#page=3",
+      "voteNote": "９月第３回定例会の原表。林太平議長は欠席、黒澤広治の欄は「―」で、原表脚注に従い議長職務代行の表決不参加として表示。"
     },
     {
       "place": "皆野町",
@@ -19356,7 +19534,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
       "number": "議案第44号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "議長職務代行（表決不参加）",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "欠席"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/92100d92c95bb691d0d849b4595977d4.pdf#page=3",
+      "voteNote": "９月第３回定例会の原表。林太平議長は欠席、黒澤広治の欄は「―」で、原表脚注に従い議長職務代行の表決不参加として表示。"
     },
     {
       "place": "皆野町",
@@ -19367,7 +19562,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
       "number": "議案第45号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "議長職務代行（表決不参加）",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "欠席"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/92100d92c95bb691d0d849b4595977d4.pdf#page=3",
+      "voteNote": "９月第３回定例会の原表。林太平議長は欠席、黒澤広治の欄は「―」で、原表脚注に従い議長職務代行の表決不参加として表示。"
     },
     {
       "place": "皆野町",
@@ -19377,7 +19589,24 @@ GIKAI.coverage2026 = {
       "result": "採択",
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
-      "number": "請願第1号"
+      "number": "請願第1号",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "議長職務代行（表決不参加）",
+        "大塚鉄也": "反対",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "反対",
+        "内海勝男": "賛成",
+        "宮原睦夫": "反対",
+        "林太平": "欠席"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/92100d92c95bb691d0d849b4595977d4.pdf#page=3",
+      "voteNote": "９月第３回定例会の原表。林太平議長は欠席、黒澤広治の欄は「―」で、原表脚注に従い議長職務代行の表決不参加として表示。"
     },
     {
       "place": "皆野町",
@@ -19387,7 +19616,24 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
-      "number": "発議第1号"
+      "number": "発議第1号",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "議長職務代行（表決不参加）",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "欠席"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/92100d92c95bb691d0d849b4595977d4.pdf#page=3",
+      "voteNote": "９月第３回定例会の原表。林太平議長は欠席、黒澤広治の欄は「―」で、原表脚注に従い議長職務代行の表決不参加として表示。"
     },
     {
       "place": "皆野町",
@@ -19397,7 +19643,24 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=4",
-      "number": "発議第2号"
+      "number": "発議第2号",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "議長職務代行（表決不参加）",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "欠席"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/92100d92c95bb691d0d849b4595977d4.pdf#page=3",
+      "voteNote": "９月第３回定例会の原表。林太平議長は欠席、黒澤広治の欄は「―」で、原表脚注に従い議長職務代行の表決不参加として表示。"
     },
     {
       "place": "小川町",
@@ -75586,6 +75849,601 @@ GIKAI.coverage2026 = {
         "内田敏雄": "議長（採決に加わらず）"
       },
       "voteType": "記名"
+    },
+    {
+      "place": "横瀬町",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "number": "報告第5号",
+      "title": "横瀬町の健全化判断比率及び横瀬町の公営企業における資金不足比率について",
+      "result": "了承",
+      "url": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/09/・令和8年9月定例会会期日程.pdf",
+      "sourceTitle": "議案番号を確認した公式会期日程",
+      "resultURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4",
+      "resultLocator": "よこぜ議会ナビ第152号４頁・審議結果表1行目",
+      "votes": {
+        "森沢望美": "○（了承欄）",
+        "関貴志": "○（了承欄）",
+        "向井芳文": "議長（表決不参加）",
+        "黒澤克久": "○（了承欄）",
+        "宮原みさ子": "○（了承欄）",
+        "新井鼓次郎": "○（了承欄）",
+        "内藤純夫": "○（了承欄）",
+        "若林想一郎": "○（了承欄）",
+        "関根修": "○（了承欄）",
+        "小泉初男": "○（了承欄）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4",
+      "voteNote": "個別の日付は原表に記載なし。報告への了承の行です。各欄の○は原表どおり。"
+    },
+    {
+      "place": "横瀬町",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "number": "議案第35号",
+      "title": "社会保険診療報酬支払基金法の一部改正に伴う関係条例の整理に関する条例",
+      "result": "可決",
+      "url": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/09/・令和8年9月定例会会期日程.pdf",
+      "sourceTitle": "議案番号を確認した公式会期日程",
+      "resultURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4",
+      "resultLocator": "よこぜ議会ナビ第152号４頁・審議結果表2行目",
+      "votes": {
+        "森沢望美": "賛成",
+        "関貴志": "賛成",
+        "向井芳文": "議長（表決不参加）",
+        "黒澤克久": "賛成",
+        "宮原みさ子": "賛成",
+        "新井鼓次郎": "賛成",
+        "内藤純夫": "賛成",
+        "若林想一郎": "賛成",
+        "関根修": "賛成",
+        "小泉初男": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4",
+      "voteNote": "個別の日付は原表に記載なし。"
+    },
+    {
+      "place": "横瀬町",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "number": "議案第36号",
+      "title": "横瀬町固定資産評価審査委員会条例の一部を改正する条例",
+      "result": "可決",
+      "url": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/09/・令和8年9月定例会会期日程.pdf",
+      "sourceTitle": "議案番号を確認した公式会期日程",
+      "resultURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4",
+      "resultLocator": "よこぜ議会ナビ第152号４頁・審議結果表3行目",
+      "votes": {
+        "森沢望美": "賛成",
+        "関貴志": "賛成",
+        "向井芳文": "議長（表決不参加）",
+        "黒澤克久": "賛成",
+        "宮原みさ子": "賛成",
+        "新井鼓次郎": "賛成",
+        "内藤純夫": "賛成",
+        "若林想一郎": "賛成",
+        "関根修": "賛成",
+        "小泉初男": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4",
+      "voteNote": "個別の日付は原表に記載なし。"
+    },
+    {
+      "place": "横瀬町",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "number": "議案第37号",
+      "title": "横瀬町議会の議員の議員報酬及び費用弁償等に関する条例の一部を改正する条例",
+      "result": "可決",
+      "url": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/09/・令和8年9月定例会会期日程.pdf",
+      "sourceTitle": "議案番号を確認した公式会期日程",
+      "resultURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4",
+      "resultLocator": "よこぜ議会ナビ第152号４頁・審議結果表4行目",
+      "votes": {
+        "森沢望美": "賛成",
+        "関貴志": "賛成",
+        "向井芳文": "議長（表決不参加）",
+        "黒澤克久": "賛成",
+        "宮原みさ子": "賛成",
+        "新井鼓次郎": "賛成",
+        "内藤純夫": "反対",
+        "若林想一郎": "賛成",
+        "関根修": "賛成",
+        "小泉初男": "反対"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4",
+      "voteNote": "個別の日付は原表に記載なし。"
+    },
+    {
+      "place": "横瀬町",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "number": "議案第38号",
+      "title": "横瀬町長等の給与等に関する条例の一部を改正する条例",
+      "result": "可決",
+      "url": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/09/・令和8年9月定例会会期日程.pdf",
+      "sourceTitle": "議案番号を確認した公式会期日程",
+      "resultURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4",
+      "resultLocator": "よこぜ議会ナビ第152号４頁・審議結果表5行目",
+      "votes": {
+        "森沢望美": "賛成",
+        "関貴志": "賛成",
+        "向井芳文": "議長（表決不参加）",
+        "黒澤克久": "賛成",
+        "宮原みさ子": "賛成",
+        "新井鼓次郎": "賛成",
+        "内藤純夫": "賛成",
+        "若林想一郎": "賛成",
+        "関根修": "賛成",
+        "小泉初男": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4",
+      "voteNote": "個別の日付は原表に記載なし。"
+    },
+    {
+      "place": "横瀬町",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "number": "議案第39号",
+      "title": "横瀬町家庭的保育事業等の設備及び運営に関する基準を定める条例の一部を改正する条例",
+      "result": "可決",
+      "url": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/09/・令和8年9月定例会会期日程.pdf",
+      "sourceTitle": "議案番号を確認した公式会期日程",
+      "resultURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4",
+      "resultLocator": "よこぜ議会ナビ第152号４頁・審議結果表6行目",
+      "votes": {
+        "森沢望美": "賛成",
+        "関貴志": "賛成",
+        "向井芳文": "議長（表決不参加）",
+        "黒澤克久": "賛成",
+        "宮原みさ子": "賛成",
+        "新井鼓次郎": "賛成",
+        "内藤純夫": "賛成",
+        "若林想一郎": "賛成",
+        "関根修": "賛成",
+        "小泉初男": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4",
+      "voteNote": "個別の日付は原表に記載なし。"
+    },
+    {
+      "place": "横瀬町",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "number": "議案第40号",
+      "title": "横瀬町乳児等通園支援事業の設備及び運営の基準に関する条例の一部を改正する条例",
+      "result": "可決",
+      "url": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/09/・令和8年9月定例会会期日程.pdf",
+      "sourceTitle": "議案番号を確認した公式会期日程",
+      "resultURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4",
+      "resultLocator": "よこぜ議会ナビ第152号４頁・審議結果表7行目",
+      "votes": {
+        "森沢望美": "賛成",
+        "関貴志": "賛成",
+        "向井芳文": "議長（表決不参加）",
+        "黒澤克久": "賛成",
+        "宮原みさ子": "賛成",
+        "新井鼓次郎": "賛成",
+        "内藤純夫": "賛成",
+        "若林想一郎": "賛成",
+        "関根修": "賛成",
+        "小泉初男": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4",
+      "voteNote": "個別の日付は原表に記載なし。"
+    },
+    {
+      "place": "横瀬町",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "number": "議案第41号",
+      "title": "横瀬町特定教育・保育施設及び特定地域型保育事業の運営に関する基準を定める条例の一部を改正する条例",
+      "result": "可決",
+      "url": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/09/・令和8年9月定例会会期日程.pdf",
+      "sourceTitle": "議案番号を確認した公式会期日程",
+      "resultURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4",
+      "resultLocator": "よこぜ議会ナビ第152号４頁・審議結果表8行目",
+      "votes": {
+        "森沢望美": "賛成",
+        "関貴志": "賛成",
+        "向井芳文": "議長（表決不参加）",
+        "黒澤克久": "賛成",
+        "宮原みさ子": "賛成",
+        "新井鼓次郎": "賛成",
+        "内藤純夫": "賛成",
+        "若林想一郎": "賛成",
+        "関根修": "賛成",
+        "小泉初男": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4",
+      "voteNote": "個別の日付は原表に記載なし。"
+    },
+    {
+      "place": "横瀬町",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "number": "認定第1号",
+      "title": "令和７年度横瀬町一般会計歳入歳出決算の認定について",
+      "result": "認定",
+      "url": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/09/・令和8年9月定例会会期日程.pdf",
+      "sourceTitle": "議案番号を確認した公式会期日程",
+      "resultURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4",
+      "resultLocator": "よこぜ議会ナビ第152号４頁・審議結果表9行目",
+      "votes": {
+        "森沢望美": "賛成",
+        "関貴志": "賛成",
+        "向井芳文": "議長（表決不参加）",
+        "黒澤克久": "賛成",
+        "宮原みさ子": "賛成",
+        "新井鼓次郎": "賛成",
+        "内藤純夫": "賛成",
+        "若林想一郎": "賛成",
+        "関根修": "賛成",
+        "小泉初男": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4",
+      "voteNote": "個別の日付は原表に記載なし。"
+    },
+    {
+      "place": "横瀬町",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "number": "認定第2号",
+      "title": "令和７年度横瀬町国民健康保険特別会計歳入歳出決算の認定について",
+      "result": "認定",
+      "url": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/09/・令和8年9月定例会会期日程.pdf",
+      "sourceTitle": "議案番号を確認した公式会期日程",
+      "resultURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4",
+      "resultLocator": "よこぜ議会ナビ第152号４頁・審議結果表10行目",
+      "votes": {
+        "森沢望美": "賛成",
+        "関貴志": "賛成",
+        "向井芳文": "議長（表決不参加）",
+        "黒澤克久": "賛成",
+        "宮原みさ子": "賛成",
+        "新井鼓次郎": "賛成",
+        "内藤純夫": "賛成",
+        "若林想一郎": "賛成",
+        "関根修": "賛成",
+        "小泉初男": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4",
+      "voteNote": "個別の日付は原表に記載なし。"
+    },
+    {
+      "place": "横瀬町",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "number": "認定第3号",
+      "title": "令和７年度横瀬町介護保険特別会計歳入歳出決算の認定について",
+      "result": "認定",
+      "url": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/09/・令和8年9月定例会会期日程.pdf",
+      "sourceTitle": "議案番号を確認した公式会期日程",
+      "resultURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4",
+      "resultLocator": "よこぜ議会ナビ第152号４頁・審議結果表11行目",
+      "votes": {
+        "森沢望美": "賛成",
+        "関貴志": "賛成",
+        "向井芳文": "議長（表決不参加）",
+        "黒澤克久": "賛成",
+        "宮原みさ子": "賛成",
+        "新井鼓次郎": "賛成",
+        "内藤純夫": "賛成",
+        "若林想一郎": "賛成",
+        "関根修": "賛成",
+        "小泉初男": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4",
+      "voteNote": "個別の日付は原表に記載なし。"
+    },
+    {
+      "place": "横瀬町",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "number": "認定第4号",
+      "title": "令和７年度横瀬町後期高齢者医療特別会計歳入歳出決算の認定について",
+      "result": "認定",
+      "url": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/09/・令和8年9月定例会会期日程.pdf",
+      "sourceTitle": "議案番号を確認した公式会期日程",
+      "resultURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4",
+      "resultLocator": "よこぜ議会ナビ第152号４頁・審議結果表12行目",
+      "votes": {
+        "森沢望美": "賛成",
+        "関貴志": "賛成",
+        "向井芳文": "議長（表決不参加）",
+        "黒澤克久": "賛成",
+        "宮原みさ子": "賛成",
+        "新井鼓次郎": "賛成",
+        "内藤純夫": "賛成",
+        "若林想一郎": "賛成",
+        "関根修": "賛成",
+        "小泉初男": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4",
+      "voteNote": "個別の日付は原表に記載なし。"
+    },
+    {
+      "place": "横瀬町",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "number": "認定第5号",
+      "title": "令和７年度横瀬町下水道事業会計利益の処分及び決算の認定について",
+      "result": "認定",
+      "url": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/09/・令和8年9月定例会会期日程.pdf",
+      "sourceTitle": "議案番号を確認した公式会期日程",
+      "resultURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4",
+      "resultLocator": "よこぜ議会ナビ第152号４頁・審議結果表13行目",
+      "votes": {
+        "森沢望美": "賛成",
+        "関貴志": "賛成",
+        "向井芳文": "議長（表決不参加）",
+        "黒澤克久": "賛成",
+        "宮原みさ子": "賛成",
+        "新井鼓次郎": "賛成",
+        "内藤純夫": "賛成",
+        "若林想一郎": "賛成",
+        "関根修": "賛成",
+        "小泉初男": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4",
+      "voteNote": "個別の日付は原表に記載なし。"
+    },
+    {
+      "place": "横瀬町",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "number": "議案第42号",
+      "title": "令和８年度横瀬町一般会計補正予算（第３号）",
+      "result": "可決",
+      "url": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/09/9_議案第42号-令和8年度横瀬町一般会計補正予算第3号.pdf",
+      "sourceTitle": "９月10日提出の議案原文",
+      "resultURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4",
+      "resultLocator": "よこぜ議会ナビ第152号４頁・審議結果表14行目",
+      "votes": {
+        "森沢望美": "賛成",
+        "関貴志": "賛成",
+        "向井芳文": "議長（表決不参加）",
+        "黒澤克久": "賛成",
+        "宮原みさ子": "賛成",
+        "新井鼓次郎": "賛成",
+        "内藤純夫": "賛成",
+        "若林想一郎": "賛成",
+        "関根修": "賛成",
+        "小泉初男": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4",
+      "voteNote": "個別の日付は原表に記載なし。",
+      "proposer": "横瀬町長"
+    },
+    {
+      "place": "横瀬町",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "number": "議案第43号",
+      "title": "令和８年度横瀬町国民健康保険特別会計補正予算（第１号）",
+      "result": "可決",
+      "url": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/09/・令和8年9月定例会会期日程.pdf",
+      "sourceTitle": "議案番号を確認した公式会期日程",
+      "resultURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4",
+      "resultLocator": "よこぜ議会ナビ第152号４頁・審議結果表15行目",
+      "votes": {
+        "森沢望美": "賛成",
+        "関貴志": "賛成",
+        "向井芳文": "議長（表決不参加）",
+        "黒澤克久": "賛成",
+        "宮原みさ子": "賛成",
+        "新井鼓次郎": "賛成",
+        "内藤純夫": "賛成",
+        "若林想一郎": "賛成",
+        "関根修": "賛成",
+        "小泉初男": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4",
+      "voteNote": "個別の日付は原表に記載なし。"
+    },
+    {
+      "place": "横瀬町",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "number": "議案第44号",
+      "title": "令和８年度横瀬町介護保険特別会計補正予算（第２号）",
+      "result": "可決",
+      "url": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/09/・令和8年9月定例会会期日程.pdf",
+      "sourceTitle": "議案番号を確認した公式会期日程",
+      "resultURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4",
+      "resultLocator": "よこぜ議会ナビ第152号４頁・審議結果表16行目",
+      "votes": {
+        "森沢望美": "賛成",
+        "関貴志": "賛成",
+        "向井芳文": "議長（表決不参加）",
+        "黒澤克久": "賛成",
+        "宮原みさ子": "賛成",
+        "新井鼓次郎": "賛成",
+        "内藤純夫": "賛成",
+        "若林想一郎": "賛成",
+        "関根修": "賛成",
+        "小泉初男": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4",
+      "voteNote": "個別の日付は原表に記載なし。"
+    },
+    {
+      "place": "横瀬町",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "number": "議案第45号",
+      "title": "令和８年度横瀬町後期高齢者医療特別会計補正予算（第１号）",
+      "result": "可決",
+      "url": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/09/・令和8年9月定例会会期日程.pdf",
+      "sourceTitle": "議案番号を確認した公式会期日程",
+      "resultURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4",
+      "resultLocator": "よこぜ議会ナビ第152号４頁・審議結果表17行目",
+      "votes": {
+        "森沢望美": "賛成",
+        "関貴志": "賛成",
+        "向井芳文": "議長（表決不参加）",
+        "黒澤克久": "賛成",
+        "宮原みさ子": "賛成",
+        "新井鼓次郎": "賛成",
+        "内藤純夫": "賛成",
+        "若林想一郎": "賛成",
+        "関根修": "賛成",
+        "小泉初男": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4",
+      "voteNote": "個別の日付は原表に記載なし。"
+    },
+    {
+      "place": "横瀬町",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "number": "議案第46号",
+      "title": "令和８年度横瀬町下水道事業会計補正予算（第１号）",
+      "result": "可決",
+      "url": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/09/・令和8年9月定例会会期日程.pdf",
+      "sourceTitle": "議案番号を確認した公式会期日程",
+      "resultURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4",
+      "resultLocator": "よこぜ議会ナビ第152号４頁・審議結果表18行目",
+      "votes": {
+        "森沢望美": "賛成",
+        "関貴志": "賛成",
+        "向井芳文": "議長（表決不参加）",
+        "黒澤克久": "賛成",
+        "宮原みさ子": "賛成",
+        "新井鼓次郎": "賛成",
+        "内藤純夫": "賛成",
+        "若林想一郎": "賛成",
+        "関根修": "賛成",
+        "小泉初男": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4",
+      "voteNote": "個別の日付は原表に記載なし。"
+    },
+    {
+      "place": "横瀬町",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "number": "議案第47号",
+      "title": "横瀬町省エネルギー型暮らし体験住宅指定管理者の指定について",
+      "result": "可決",
+      "url": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/09/・令和8年9月定例会会期日程.pdf",
+      "sourceTitle": "議案番号を確認した公式会期日程",
+      "resultURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4",
+      "resultLocator": "よこぜ議会ナビ第152号４頁・審議結果表19行目",
+      "votes": {
+        "森沢望美": "賛成",
+        "関貴志": "賛成",
+        "向井芳文": "議長（表決不参加）",
+        "黒澤克久": "賛成",
+        "宮原みさ子": "賛成",
+        "新井鼓次郎": "反対",
+        "内藤純夫": "賛成",
+        "若林想一郎": "賛成",
+        "関根修": "反対",
+        "小泉初男": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4",
+      "voteNote": "個別の日付は原表に記載なし。"
+    },
+    {
+      "place": "横瀬町",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "number": "議案第48号",
+      "title": "横瀬町コミュニティ防災センター指定管理者の指定について",
+      "result": "可決",
+      "url": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/09/・令和8年9月定例会会期日程.pdf",
+      "sourceTitle": "議案番号を確認した公式会期日程",
+      "resultURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4",
+      "resultLocator": "よこぜ議会ナビ第152号４頁・審議結果表20行目",
+      "votes": {
+        "森沢望美": "賛成",
+        "関貴志": "賛成",
+        "向井芳文": "議長（表決不参加）",
+        "黒澤克久": "賛成",
+        "宮原みさ子": "賛成",
+        "新井鼓次郎": "賛成",
+        "内藤純夫": "賛成",
+        "若林想一郎": "賛成",
+        "関根修": "賛成",
+        "小泉初男": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4",
+      "voteNote": "個別の日付は原表に記載なし。"
+    },
+    {
+      "place": "横瀬町",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "number": "議案第49号",
+      "title": "横瀬町教育委員会委員の任命について（野田眞氏）",
+      "result": "同意",
+      "url": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/09/・令和8年9月定例会会期日程.pdf",
+      "sourceTitle": "議案番号を確認した公式会期日程",
+      "resultURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4",
+      "resultLocator": "よこぜ議会ナビ第152号４頁・審議結果表21行目",
+      "votes": {
+        "森沢望美": "賛成",
+        "関貴志": "賛成",
+        "向井芳文": "議長（表決不参加）",
+        "黒澤克久": "賛成",
+        "宮原みさ子": "賛成",
+        "新井鼓次郎": "賛成",
+        "内藤純夫": "賛成",
+        "若林想一郎": "賛成",
+        "関根修": "賛成",
+        "小泉初男": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4",
+      "voteNote": "個別の日付は原表に記載なし。"
+    },
+    {
+      "place": "横瀬町",
+      "season": "fall",
+      "session": "令和8年第4回定例会（9月）",
+      "number": "請願第1号",
+      "title": "ゲノム編集技術を応用した食品情報の取扱いに関する意見書の提出に関する請願",
+      "result": "委員会付託",
+      "url": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/09/・令和8年9月定例会会期日程.pdf",
+      "sourceTitle": "議案番号を確認した公式会期日程",
+      "resultURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4",
+      "resultLocator": "よこぜ議会ナビ第152号４頁・審議結果表22行目",
+      "votes": {
+        "森沢望美": "賛成（委員会付託）",
+        "関貴志": "賛成（委員会付託）",
+        "向井芳文": "議長（表決不参加）",
+        "黒澤克久": "賛成（委員会付託）",
+        "宮原みさ子": "賛成（委員会付託）",
+        "新井鼓次郎": "賛成（委員会付託）",
+        "内藤純夫": "賛成（委員会付託）",
+        "若林想一郎": "賛成（委員会付託）",
+        "関根修": "賛成（委員会付託）",
+        "小泉初男": "賛成（委員会付託）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf#page=4",
+      "voteNote": "個別の日付は原表に記載なし。原表は委員会付託への賛否を表示。請願の最終結果は確認中。"
     }
   ],
   "policy": [

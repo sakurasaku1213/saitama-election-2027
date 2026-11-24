@@ -26477,6 +26477,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "b62276f5589ef82cce8a",
+      "place": "新座市",
+      "season": "fall",
+      "date": "2026-09-10",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "野中弥生議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1874",
+      "speakers": [
+        "野中弥生"
+      ]
+    },
+    {
       "id": "ec30fc01f253478d5c2d",
       "place": "新座市",
       "season": "fall",
@@ -32296,12 +32310,36 @@ GIKAI.questionText = {
       "place": "皆野町",
       "season": "fall",
       "date": "2026-09",
-      "title": "議会だより 議会だより第５９号（令和8年11月1日発行）",
+      "title": "みなのまち議会だより第59号・９月定例会の問答と刊行資料",
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/92100d92c95bb691d0d849b4595977d4.pdf",
-      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "kind": "議会だよりの質問・答弁（紙面要約）",
       "scope": "summary",
-      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
-      "speakers": []
+      "note": "第59号の４～６頁の一般質問５人・16問答、２～３頁の決算・補正予算の無記名６問答と原紙面８頁を収録。会期は９月10～11日。個別発言日と正式会議録は確認中。",
+      "speakers": [
+        "林豊",
+        "大塚鉄也",
+        "新井健司",
+        "常山知子",
+        "内海勝男"
+      ]
+    },
+    {
+      "id": "b4a45a6c9cd1a8a38b1c",
+      "place": "皆野町",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "令和８年第３回定例会・一般質問通告一覧表",
+      "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/f3d1ba451d1da637b3d2b2bb29c668ce.pdf",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "speakers": [
+        "林豊",
+        "大塚鉄也",
+        "新井健司",
+        "常山知子",
+        "内海勝男"
+      ],
+      "note": "５人の質問事項と要旨、答弁予定者を収録した事前通告。実際の発言・答弁は紙面要旨と区別しています。"
     },
     {
       "id": "ef07169ed5fcc1ad65ba",
@@ -38041,7 +38079,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://niiza-city.stream.jfit.co.jp/?tpl=gikai_days_list&gikai_id=96",
-        "note": "公式録画一覧の一般質問25人のうち、4人の映像音声を機械文字起こしとして収録。正式会議録は確認中。議会だより第238号の質問・答弁要旨はPDF７頁を収録。"
+        "note": "新座の公式録画から機械文字起こし５人分を参考収録。議会だより第238号の質問・答弁要旨はPDF７頁を収録。原音照合と正式会議録は確認中。"
       }
     },
     {
@@ -38754,7 +38792,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+        "note": "第59号の４～６頁の一般質問５人・16問答、２～３頁の決算・補正予算の無記名６問答と原紙面８頁を収録。会期は９月10～11日。個別発言日と正式会議録は確認中。 一般質問通告４頁も収録。"
       }
     },
     {

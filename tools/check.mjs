@@ -125,8 +125,13 @@ for (const c of data.cases) {
     validDay(step.date);
     validLink(step.url);
     if (step.billNumber) {
+      const matchingSessions = new Set(data.coverage2026.sessions.filter((slot) =>
+        slot.place === place && !slot.planned && step.date.length === 7 &&
+        (slot.fromDate.startsWith(step.date) || slot.toDate.startsWith(step.date)),
+      ).map((slot) => slot.season));
       assert.equal(data.coverage2026.decisions.filter((bill) =>
-        bill.place === place && bill.date === step.date && bill.number === step.billNumber,
+        bill.place === place && bill.number === step.billNumber &&
+        (bill.date === step.date || (!bill.date && matchingSessions.has(bill.season))),
       ).length, 1, c.title);
     }
     assert.ok(
@@ -144,6 +149,10 @@ for (const c of data.cases) {
       const monthlySource = doc.date.length === 7 &&
         (doc.scope === "summary" || doc.kind === "公式会議録PDFのOCR転記");
       assert.ok(doc.date === step.date || (monthlySource && doc.date === step.date.slice(0, 7)), c.title);
+    }
+    if (step.blocks) {
+      assert.ok(doc && step.blocks.length && step.blocks.every((block, index) =>
+        Number.isSafeInteger(block) && block > (step.blocks[index - 1] || 0)), c.title);
     }
     const names = new Set();
     for (const action of step.memberActions || []) {
