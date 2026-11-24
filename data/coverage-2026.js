@@ -6547,27 +6547,27 @@ GIKAI.coverage2026 = {
       "materials": {
         "meeting": {
           "state": "verified",
-          "note": "会期の日付を確認。"
+          "note": "町公式の会期報告で９月11日開会・18日閉会を確認。会期予定表には24日までの当初予定がある。"
         },
         "activity": {
           "state": "partial",
           "note": "この時期の掲載項目 15件。通告・目次・本文の別は活動の出典に表示。"
         },
         "text": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "議会だより第163号の一般質問７人・50問答。回答は紙面要約に基づく。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "議会だより第163号の審議結果17件を紙面と照合。日付欄は９月会期。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "紙面の全員賛成15件と記名で賛否が示された２件を収録。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "トイレカーの災害時供給協定とコミュニティセンターの入札に至る質疑・公式資料を照合。"
         }
       },
       "sources": [
@@ -6578,6 +6578,10 @@ GIKAI.coverage2026 = {
         {
           "label": "会期資料　2026年9月定例会",
           "url": "https://www.town.namegawa.saitama.jp/material/files/group/12/R0809ippannshitsumon.pdf"
+        },
+        {
+          "label": "議会だより第163号の審議結果と一般質問",
+          "url": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori163.pdf"
         }
       ]
     },
@@ -7757,21 +7761,21 @@ GIKAI.coverage2026 = {
       "place": "長瀞町",
       "season": "fall",
       "label": "2026年秋の定例会",
-      "fromDate": "",
-      "toDate": "",
+      "fromDate": "2026-09-08",
+      "toDate": "2026-09-10",
       "planned": false,
       "materials": {
         "meeting": {
-          "state": "identified",
-          "note": "対象資料の案内を確認。項目の取込・照合範囲は未確定。"
+          "state": "verified",
+          "note": "議会だより第39号４頁に第５回定例会は９月８～10日と明記。"
         },
         "activity": {
           "state": "partial",
           "note": "この時期の掲載項目 7件。通告・目次・本文の別は活動の出典に表示。"
         },
         "text": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "議会だより第39号４～６頁の一般質問７人・15問答を話者別に照合。"
         },
         "decisions": {
           "state": "partial",
@@ -7782,8 +7786,8 @@ GIKAI.coverage2026 = {
           "note": "原表の15行の記名欄を照合し、議長の表決不参加と原表の除斥を保持。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "小中一貫校での意見公募、設計の優先交渉権者選定、新井利朗議員の質疑を収録。"
         }
       },
       "sources": [
@@ -75285,6 +75289,295 @@ GIKAI.coverage2026 = {
       "voteURL": "https://www.city.gyoda.lg.jp/material/files/group/50/2609_teisyutugianntosonokekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成17人、反対2人。"
+    },
+    {
+      "place": "滑川町",
+      "season": "fall",
+      "session": "第253回滑川町議会９月定例会",
+      "date": "2026-09",
+      "number": "議案第30号",
+      "title": "専決処分の承認（令和８年度滑川町一般会計補正予算（第２号））",
+      "result": "承認",
+      "url": "https://www.town.namegawa.saitama.jp/soshikikarasagasu/gikaijimukyoku/gikai/8/5409.html",
+      "resultURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori163.pdf#page=2",
+      "resultLocator": "なめがわ議会だより第163号・紙面２頁・議案第30号",
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori163.pdf#page=2",
+      "sourceType": "市町村議会公式広報",
+      "voteNote": "原表の全員賛成欄に掲載。"
+    },
+    {
+      "place": "滑川町",
+      "season": "fall",
+      "session": "第253回滑川町議会９月定例会",
+      "date": "2026-09",
+      "number": "議案第31号",
+      "title": "滑川町家庭的保育事業等の設備及び運営に関する基準を定める条例の全部改正",
+      "result": "可決",
+      "url": "https://www.town.namegawa.saitama.jp/soshikikarasagasu/gikaijimukyoku/gikai/8/5409.html",
+      "resultURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori163.pdf#page=2",
+      "resultLocator": "なめがわ議会だより第163号・紙面２頁・議案第31号",
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori163.pdf#page=2",
+      "sourceType": "市町村議会公式広報",
+      "voteNote": "原表の全員賛成欄に掲載。"
+    },
+    {
+      "place": "滑川町",
+      "season": "fall",
+      "session": "第253回滑川町議会９月定例会",
+      "date": "2026-09",
+      "number": "議案第32号",
+      "title": "滑川町こども医療費支給に関する条例等の一部改正",
+      "result": "可決",
+      "url": "https://www.town.namegawa.saitama.jp/soshikikarasagasu/gikaijimukyoku/gikai/8/5409.html",
+      "resultURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori163.pdf#page=2",
+      "resultLocator": "なめがわ議会だより第163号・紙面２頁・議案第32号",
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori163.pdf#page=2",
+      "sourceType": "市町村議会公式広報",
+      "voteNote": "原表の全員賛成欄に掲載。"
+    },
+    {
+      "place": "滑川町",
+      "season": "fall",
+      "session": "第253回滑川町議会９月定例会",
+      "date": "2026-09",
+      "number": "議案第33号",
+      "title": "滑川町乳児等通園支援事業の設備及び運営に関する基準を定める条例の一部改正",
+      "result": "可決",
+      "url": "https://www.town.namegawa.saitama.jp/soshikikarasagasu/gikaijimukyoku/gikai/8/5409.html",
+      "resultURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori163.pdf#page=2",
+      "resultLocator": "なめがわ議会だより第163号・紙面２頁・議案第33号",
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori163.pdf#page=2",
+      "sourceType": "市町村議会公式広報",
+      "voteNote": "原表の全員賛成欄に掲載。"
+    },
+    {
+      "place": "滑川町",
+      "season": "fall",
+      "session": "第253回滑川町議会９月定例会",
+      "date": "2026-09",
+      "number": "議案第34号",
+      "title": "滑川町国民健康保険条例の一部改正",
+      "result": "可決",
+      "url": "https://www.town.namegawa.saitama.jp/soshikikarasagasu/gikaijimukyoku/gikai/8/5409.html",
+      "resultURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori163.pdf#page=2",
+      "resultLocator": "なめがわ議会だより第163号・紙面２頁・議案第34号",
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori163.pdf#page=2",
+      "sourceType": "市町村議会公式広報",
+      "voteNote": "原表の全員賛成欄に掲載。"
+    },
+    {
+      "place": "滑川町",
+      "season": "fall",
+      "session": "第253回滑川町議会９月定例会",
+      "date": "2026-09",
+      "number": "議案第35号",
+      "title": "滑川町印鑑条例の一部改正",
+      "result": "可決",
+      "url": "https://www.town.namegawa.saitama.jp/soshikikarasagasu/gikaijimukyoku/gikai/8/5409.html",
+      "resultURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori163.pdf#page=2",
+      "resultLocator": "なめがわ議会だより第163号・紙面２頁・議案第35号",
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori163.pdf#page=2",
+      "sourceType": "市町村議会公式広報",
+      "voteNote": "原表の全員賛成欄に掲載。"
+    },
+    {
+      "place": "滑川町",
+      "season": "fall",
+      "session": "第253回滑川町議会９月定例会",
+      "date": "2026-09",
+      "number": "議案第36号",
+      "title": "滑川町認可地縁団体印鑑条例の一部改正",
+      "result": "可決",
+      "url": "https://www.town.namegawa.saitama.jp/soshikikarasagasu/gikaijimukyoku/gikai/8/5409.html",
+      "resultURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori163.pdf#page=2",
+      "resultLocator": "なめがわ議会だより第163号・紙面２頁・議案第36号",
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori163.pdf#page=2",
+      "sourceType": "市町村議会公式広報",
+      "voteNote": "原表の全員賛成欄に掲載。"
+    },
+    {
+      "place": "滑川町",
+      "season": "fall",
+      "session": "第253回滑川町議会９月定例会",
+      "date": "2026-09",
+      "number": "議案第37号",
+      "title": "令和８年度滑川町一般会計補正予算（第３号）",
+      "result": "可決",
+      "url": "https://www.town.namegawa.saitama.jp/soshikikarasagasu/gikaijimukyoku/gikai/8/5409.html",
+      "resultURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori163.pdf#page=2",
+      "resultLocator": "なめがわ議会だより第163号・紙面２頁・議案第37号",
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori163.pdf#page=2",
+      "sourceType": "市町村議会公式広報",
+      "voteNote": "原表の全員賛成欄に掲載。"
+    },
+    {
+      "place": "滑川町",
+      "season": "fall",
+      "session": "第253回滑川町議会９月定例会",
+      "date": "2026-09",
+      "number": "議案第38号",
+      "title": "令和８年度滑川町国民健康保険特別会計補正予算（第１号）",
+      "result": "可決",
+      "url": "https://www.town.namegawa.saitama.jp/soshikikarasagasu/gikaijimukyoku/gikai/8/5409.html",
+      "resultURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori163.pdf#page=2",
+      "resultLocator": "なめがわ議会だより第163号・紙面２頁・議案第38号",
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori163.pdf#page=2",
+      "sourceType": "市町村議会公式広報",
+      "voteNote": "原表の全員賛成欄に掲載。"
+    },
+    {
+      "place": "滑川町",
+      "season": "fall",
+      "session": "第253回滑川町議会９月定例会",
+      "date": "2026-09",
+      "number": "議案第39号",
+      "title": "令和８年度滑川町介護保険特別会計補正予算（第１号）",
+      "result": "可決",
+      "url": "https://www.town.namegawa.saitama.jp/soshikikarasagasu/gikaijimukyoku/gikai/8/5409.html",
+      "resultURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori163.pdf#page=2",
+      "resultLocator": "なめがわ議会だより第163号・紙面２頁・議案第39号",
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori163.pdf#page=2",
+      "sourceType": "市町村議会公式広報",
+      "voteNote": "原表の全員賛成欄に掲載。"
+    },
+    {
+      "place": "滑川町",
+      "season": "fall",
+      "session": "第253回滑川町議会９月定例会",
+      "date": "2026-09",
+      "number": "議案第40号",
+      "title": "令和８年度滑川町後期高齢者医療特別会計補正予算（第１号）",
+      "result": "可決",
+      "url": "https://www.town.namegawa.saitama.jp/soshikikarasagasu/gikaijimukyoku/gikai/8/5409.html",
+      "resultURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori163.pdf#page=2",
+      "resultLocator": "なめがわ議会だより第163号・紙面２頁・議案第40号",
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori163.pdf#page=2",
+      "sourceType": "市町村議会公式広報",
+      "voteNote": "原表の全員賛成欄に掲載。"
+    },
+    {
+      "place": "滑川町",
+      "season": "fall",
+      "session": "第253回滑川町議会９月定例会",
+      "date": "2026-09",
+      "number": "議案第41号",
+      "title": "工事請負契約の締結（水房下沼防災工事）",
+      "result": "可決",
+      "url": "https://www.town.namegawa.saitama.jp/soshikikarasagasu/gikaijimukyoku/gikai/8/5409.html",
+      "resultURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori163.pdf#page=2",
+      "resultLocator": "なめがわ議会だより第163号・紙面２頁・議案第41号",
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori163.pdf#page=2",
+      "sourceType": "市町村議会公式広報",
+      "voteNote": "原表の全員賛成欄に掲載。"
+    },
+    {
+      "place": "滑川町",
+      "season": "fall",
+      "session": "第253回滑川町議会９月定例会",
+      "date": "2026-09",
+      "number": "議案第42号",
+      "title": "町道路線の廃止",
+      "result": "可決",
+      "url": "https://www.town.namegawa.saitama.jp/soshikikarasagasu/gikaijimukyoku/gikai/8/5409.html",
+      "resultURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori163.pdf#page=2",
+      "resultLocator": "なめがわ議会だより第163号・紙面２頁・議案第42号",
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori163.pdf#page=2",
+      "sourceType": "市町村議会公式広報",
+      "voteNote": "原表の全員賛成欄に掲載。"
+    },
+    {
+      "place": "滑川町",
+      "season": "fall",
+      "session": "第253回滑川町議会９月定例会",
+      "date": "2026-09",
+      "number": "認定第2号",
+      "title": "令和７年度滑川町水道事業会計における決算の認定及び剰余金の処分",
+      "result": "認定",
+      "url": "https://www.town.namegawa.saitama.jp/soshikikarasagasu/gikaijimukyoku/gikai/8/5409.html",
+      "resultURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori163.pdf#page=2",
+      "resultLocator": "なめがわ議会だより第163号・紙面２頁・認定第2号",
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori163.pdf#page=2",
+      "sourceType": "市町村議会公式広報",
+      "voteNote": "原表の全員賛成欄に掲載。"
+    },
+    {
+      "place": "滑川町",
+      "season": "fall",
+      "session": "第253回滑川町議会９月定例会",
+      "date": "2026-09",
+      "number": "認定第3号",
+      "title": "令和７年度滑川町下水道事業会計における決算の認定及び剰余金の処分",
+      "result": "認定",
+      "url": "https://www.town.namegawa.saitama.jp/soshikikarasagasu/gikaijimukyoku/gikai/8/5409.html",
+      "resultURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori163.pdf#page=2",
+      "resultLocator": "なめがわ議会だより第163号・紙面２頁・認定第3号",
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori163.pdf#page=2",
+      "sourceType": "市町村議会公式広報",
+      "voteNote": "原表の全員賛成欄に掲載。"
+    },
+    {
+      "place": "滑川町",
+      "season": "fall",
+      "session": "第253回滑川町議会９月定例会",
+      "date": "2026-09",
+      "number": "認定第1号",
+      "title": "令和７年度滑川町一般会計及び特別会計決算の認定",
+      "result": "認定",
+      "url": "https://www.town.namegawa.saitama.jp/soshikikarasagasu/gikaijimukyoku/gikai/8/5409.html",
+      "resultURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori163.pdf#page=2",
+      "resultLocator": "なめがわ議会だより第163号・紙面２頁・認定第1号",
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori163.pdf#page=2",
+      "sourceType": "市町村議会公式広報",
+      "voteNote": "賛成10人、反対2人、欠席1人。議会だより２頁は賛成多数。",
+      "votes": {
+        "小澤実": "賛成",
+        "金山武志": "賛成",
+        "瀬上邦久": "賛成",
+        "阿部弘明": "反対",
+        "西宮俊明": "賛成",
+        "北堀一廣": "賛成",
+        "主山功": "反対",
+        "赤沼正副": "賛成",
+        "原徹": "欠席",
+        "谷嶋稔": "賛成",
+        "中西文寿": "賛成",
+        "吉野正浩": "賛成",
+        "井上章": "賛成",
+        "内田敏雄": "議長（採決に加わらず）"
+      },
+      "voteType": "記名"
+    },
+    {
+      "place": "滑川町",
+      "season": "fall",
+      "session": "第253回滑川町議会９月定例会",
+      "date": "2026-09",
+      "number": "請願第2号",
+      "title": "政府へ非核三原則堅持を求める意見書の提出を求める請願書",
+      "result": "反対多数",
+      "url": "https://www.town.namegawa.saitama.jp/soshikikarasagasu/gikaijimukyoku/gikai/8/5409.html",
+      "resultURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori163.pdf#page=2",
+      "resultLocator": "なめがわ議会だより第163号・紙面２頁・請願第2号",
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori163.pdf#page=2",
+      "sourceType": "市町村議会公式広報",
+      "voteNote": "賛成3人、反対9人、欠席1人。同じ件名について、賛否表（紙面２頁）は「議案第28号」、討論欄（紙面８頁）は「請願第２号」と表記。番号は討論欄に従った。",
+      "votes": {
+        "小澤実": "反対",
+        "金山武志": "反対",
+        "瀬上邦久": "反対",
+        "阿部弘明": "賛成",
+        "西宮俊明": "反対",
+        "北堀一廣": "反対",
+        "主山功": "賛成",
+        "赤沼正副": "反対",
+        "原徹": "欠席",
+        "谷嶋稔": "反対",
+        "中西文寿": "賛成",
+        "吉野正浩": "反対",
+        "井上章": "反対",
+        "内田敏雄": "議長（採決に加わらず）"
+      },
+      "voteType": "記名"
     }
   ],
   "policy": [

@@ -1669,6 +1669,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "f176ba5ae00169c5aeaa",
+      "place": "さいたま市",
+      "season": "fall",
+      "date": "2026-09-08",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "吉田一郎議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://saitama-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=2468",
+      "speakers": [
+        "吉田一郎"
+      ]
+    },
+    {
       "id": "686efe10579e80529c2f",
       "place": "さいたま市",
       "season": "fall",
@@ -30837,12 +30851,20 @@ GIKAI.questionText = {
       "place": "滑川町",
       "season": "fall",
       "date": "2026-09",
-      "title": "滑川町議会だより163号・9月定例会",
+      "title": "なめがわ議会だより第163号・９月定例会の一般質問と刊行資料",
       "url": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori163.pdf",
-      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "kind": "議会だよりの質問・答弁（紙面要約）",
       "scope": "summary",
-      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
-      "speakers": []
+      "note": "一般質問７人・50問答と議員の要望６件は紙面11～17頁を原紙面で照合して要約しました。原紙面全18頁のOCR転記も併録。日付欄は９月会期で、発言者ごとの発言日と正式会議録は確認中です。",
+      "speakers": [
+        "赤沼正副",
+        "谷嶋稔",
+        "中西文寿",
+        "小澤実",
+        "西宮俊明",
+        "原徹",
+        "阿部弘明"
+      ]
     },
     {
       "id": "620feef35c49b1715fde",
@@ -35729,6 +35751,20 @@ GIKAI.questionText = {
       "note": "議会だよりに掲載の４常任委員会・４分科会の16議題25問答を収録。紙面で質問者・答弁者の個人名は記載されていません。"
     },
     {
+      "id": "5fc8c019b2d36b7ef9db",
+      "place": "越谷市",
+      "season": "fall",
+      "date": "2026-09-07",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "大野恭子議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://koshigaya.gijiroku.com/g07_Video_View.asp?SrchID=2463",
+      "speakers": [
+        "大野恭子"
+      ]
+    },
+    {
       "id": "f0ca3598087e29afcf15",
       "place": "長瀞町",
       "season": "spring",
@@ -35768,12 +35804,20 @@ GIKAI.questionText = {
       "place": "長瀞町",
       "season": "fall",
       "date": "2026-09",
-      "title": "長瀞町議会だより第39号 4～6頁",
+      "title": "長瀞町議会だより第39号・９月定例会の一般質問と刊行資料",
       "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf",
-      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "kind": "議会だよりの質問・答弁（紙面要約）",
       "scope": "summary",
-      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
-      "speakers": []
+      "note": "紙面４～６頁に掲載された７人の一般質問と15問答を確認して要約し、原紙面８頁のOCR転記も併録。日付は９月会期。発言者ごとの発言日と正式会議録は確認中。",
+      "speakers": [
+        "村田徹也",
+        "近藤一美",
+        "村田武彦",
+        "大島瑠美子",
+        "新井利朗",
+        "石森理嗣",
+        "中川博介"
+      ]
     },
     {
       "id": "bc7ac9b34e4eebb2bc46",
@@ -37321,7 +37365,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://saitama-city.stream.jfit.co.jp/?tpl=gikai_days_list&gikai_id=203",
-        "note": "公式録画一覧の代表・一般質問21人のうち、9人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
+        "note": "公式録画一覧の代表・一般質問21人のうち、10人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
       }
     },
     {
@@ -37802,7 +37846,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://www.city.koshigaya.saitama.jp/gikai/dayori/2026/234-6-7.html",
-        "note": "議会だよりの一般質問22人27問答、常任委員会と予算決算分科会の25問答を収録。一般質問４日・22人の公式録画と照合。正式会議録は確認中。"
+        "note": "議会だよりの一般質問22人27問答、常任委員会と予算決算分科会の25問答を収録。一般質問４日・22人の公式録画と照合。正式会議録は確認中。 録画の機械文字起こし1/22件も収録。"
       }
     },
     {
@@ -38493,7 +38537,8 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+        "note": "議会だよりの一般質問７人・50問答と審議結果の紙面を収録。９月会期は11日開会、18日閉会。発言者ごとの発言日と正式会議録は確認中。",
+        "indexURL": "https://www.town.namegawa.saitama.jp/soshikikarasagasu/gikaijimukyoku/gikai/3/762.html"
       }
     },
     {
@@ -38728,7 +38773,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+        "note": "議会だより第39号４～６頁の一般質問７人・15問答と原紙面８頁を収録。第５回定例会は９月８～10日。正式会議録は確認中。"
       }
     },
     {

@@ -2930,3 +2930,257 @@ GIKAI.cases.push(
   "note": "市民との対話の開催を確認しました。寄せられた個別の意見が施策や予算に反映されたかは確認中です。"
 }
 );
+
+GIKAI.cases.push(
+{
+  "place": "滑川町",
+  "title": "トイレカー導入を継続して質し、町と事業者が災害時の供給協定を締結",
+  "topic": "防災・避難所",
+  "actors": [
+    "西宮俊明",
+    "滑川町",
+    "株式会社滑川環境保全"
+  ],
+  "steps": [
+    {
+      "date": "2026-03-05",
+      "stage": "災害時の移動式トイレ導入策を質す",
+      "actor": "西宮俊明",
+      "detail": "避難所のトイレを課題に挙げ、トイレトレーラーや自走式車両の導入について再度尋ねた。町は、直接購入や事業者との連携などの方式を調査研究すると答えた。",
+      "url": "https://www.town.namegawa.saitama.jp/material/files/group/12/R0803Teireikai.pdf#page=93",
+      "sourceTitle": "滑川町議会 ３月５日本会議録・PDF93～99頁",
+      "archiveId": "0470c167eb139bac075d",
+      "memberActions": [
+        {
+          "name": "西宮俊明",
+          "blocks": [
+            93,
+            94,
+            95,
+            98,
+            99
+          ],
+          "detail": "避難所のトイレ対策を求め、移動式トイレの導入の進捗と具体的な確保策を質した。"
+        }
+      ]
+    },
+    {
+      "date": "2026-09",
+      "stage": "事業者の購入後、供給協定と運営方法を質す",
+      "actor": "西宮俊明",
+      "detail": "株式会社滑川環境保全が購入した車両について、協定の状況、管理・運営、被災地派遣、平時活用を尋ねた。町は協定を調整中とし、締結式後に町民へ周知する方針を答えた。",
+      "url": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori163.pdf#page=15",
+      "sourceTitle": "なめがわ議会だより第163号・紙面15頁",
+      "archiveId": "993858a92f8fd7831d90",
+      "memberActions": [
+        {
+          "name": "西宮俊明",
+          "blocks": [
+            5
+          ],
+          "detail": "３月の質問に続き、民間事業者が購入した車両の協定、管理・費用、災害時と平時の使い方を質した。"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "stage": "災害時等のトイレカー供給協定を締結",
+      "actor": "滑川町、株式会社滑川環境保全",
+      "detail": "町は同社と「災害時等におけるトイレカーの供給に関する協定」の締結式を行ったと公表した。",
+      "url": "https://www.town.namegawa.saitama.jp/soshikikarasagasu/somuseisakuka/chocho/chochokatudoukiroku/R8/5188.html",
+      "sourceTitle": "滑川町 11月２日の協定締結式の報告"
+    }
+  ],
+  "note": "９月の発言日欄は会期を示します。協定の個別条項や実際の派遣・使用について確認を続けます。"
+},
+{
+  "place": "滑川町",
+  "title": "コミュニティセンターの建替えで費用と施設利用を質し、町が入札を公告",
+  "topic": "公共施設・工事",
+  "actors": [
+    "阿部弘明",
+    "谷嶋稔",
+    "井上章",
+    "滑川町",
+    "滑川町議会"
+  ],
+  "steps": [
+    {
+      "date": "2026-03-03",
+      "stage": "建替えの財政負担を質し、計画の中止を求める",
+      "actor": "阿部弘明",
+      "detail": "予算案に示された起債、公共施設整備基金、翌年度の債務負担が将来の改修・起債に及ぼす影響を質し、建設計画の中止を求めた。",
+      "url": "https://www.town.namegawa.saitama.jp/material/files/group/12/R0803Teireikai.pdf#page=41",
+      "sourceTitle": "滑川町議会 ３月３日本会議録・PDF41～45頁の総括質疑",
+      "archiveId": "0470c167eb139bac075d",
+      "memberActions": [
+        {
+          "name": "阿部弘明",
+          "blocks": [
+            41,
+            42,
+            43,
+            44,
+            45
+          ],
+          "detail": "事業費の負担の内訳と将来の財政への影響を質し、建設計画を中止するよう求めた。"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-10",
+      "stage": "町が建替えの実施設計の完了を公表",
+      "actor": "滑川町",
+      "detail": "老朽化した施設の建替えについて実施設計が完了し、概要版を公表した。令和８年度中の工事着手を予定すると案内した。",
+      "url": "https://www.town.namegawa.saitama.jp/soshikikarasagasu/somuseisakuka/kominkankomyunitelisenta/5193.html",
+      "sourceTitle": "滑川町 コミュニティセンター施設整備実施設計の公表"
+    },
+    {
+      "date": "2026-06-02",
+      "stage": "文化芸術の利用を広げる運用を質す",
+      "actor": "谷嶋稔",
+      "detail": "町は従来の住民主体の利用を引き継ぎつつ文化芸術・健康促進等の利用拡大を考え、使用料や許可条件などを検討すると答えた。",
+      "url": "https://www.town.namegawa.saitama.jp/material/files/group/12/R0806Teireikai.pdf#page=23",
+      "sourceTitle": "滑川町議会 ６月２日本会議録・PDF23～24頁",
+      "archiveId": "1d6cbd6776ef161a51d9",
+      "memberActions": [
+        {
+          "name": "谷嶋稔",
+          "blocks": [
+            23,
+            24
+          ],
+          "detail": "新施設の整備を機に、文化芸術振興に向けて現行の利用規約を見直せるか尋ねた。"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-02",
+      "stage": "旧施設の跡地と役場周辺の活用を質す",
+      "actor": "井上章",
+      "detail": "旧施設跡地と周辺の土地を活用した公園整備等を質した。町は造成に係る費用に触れ、現時点で隣接地を購入する予定はないと答えた。新施設の完成後に、町全体の防災や児童福祉等を踏まえて公園の必要性を調査すると説明した。",
+      "url": "https://www.town.namegawa.saitama.jp/material/files/group/12/R0806Teireikai.pdf#page=31",
+      "sourceTitle": "滑川町議会 ６月２日本会議録・PDF31～36頁",
+      "archiveId": "1d6cbd6776ef161a51d9",
+      "memberActions": [
+        {
+          "name": "井上章",
+          "blocks": [
+            31,
+            32,
+            33,
+            34,
+            36
+          ],
+          "detail": "旧施設の跡地と隣接地の取得・活用、役場周辺の公園整備を質問・再質問した。"
+        }
+      ]
+    },
+    {
+      "date": "2026-09",
+      "stage": "総括質疑で工事費と町民への説明を確認",
+      "actor": "滑川町議会",
+      "detail": "町は建設工事と工事監理の事業費について、令和８年度予算と令和９年度の債務負担行為を合わせて15億1,954万円と説明した。費用や対応策を住民にどう説明するかも問われた。",
+      "url": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori163.pdf#page=3",
+      "sourceTitle": "なめがわ議会だより第163号・紙面３頁の総括質疑"
+    },
+    {
+      "date": "2026-11-02",
+      "stage": "交流館建設工事の一般競争入札を公告",
+      "actor": "滑川町",
+      "detail": "町は「（仮称）まち・ひと・未来交流館（コミュニティセンター）建設工事」の入札について、11月30日を入札予定日として公表した。",
+      "url": "https://www.town.namegawa.saitama.jp/nyusatsu_sangyo/nyusatsu_keiyaku/5468.html",
+      "sourceTitle": "滑川町 11月30日予定の一般競争入札案内"
+    }
+  ],
+  "note": "９月の総括質疑の紙面に質問者名は掲載されていません。入札後の落札、契約、着工は確認中です。"
+},
+{
+  "place": "滑川町",
+  "title": "デマンド交通の町外通院先の拡大を求め、町は現行方式を変えた拡大は実施できないと答弁",
+  "topic": "地域交通・通院",
+  "actors": [
+    "阿部弘明",
+    "滑川町"
+  ],
+  "steps": [
+    {
+      "date": "2023-01-18",
+      "stage": "町内全域と町境近くの医療機関３か所を案内",
+      "actor": "滑川町",
+      "detail": "町の利用案内は、運行を町内全域とし、市町界に接する東松山市の武蔵嵐山病院、埼玉成惠会病院、深谷耳鼻咽喉科クリニックも利用先として示している。",
+      "url": "https://www.town.namegawa.saitama.jp/soshikikarasagasu/hukushika/anzen_anshin/1/3153.html",
+      "sourceTitle": "滑川町 デマンド交通ターナちゃんの運行範囲"
+    },
+    {
+      "date": "2026-09",
+      "stage": "他町の例を挙げて町外への通院に対応するよう求める",
+      "actor": "阿部弘明",
+      "detail": "議員は、町外への通院に使えないとの利用者の要望を紹介し、鳩山町やときがわ町等の例を挙げて運行範囲の改善を求めた。町は、現在の仕組みを変えてまで町外への運行を求める要望は実施できないと答えた。",
+      "url": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori163.pdf#page=17",
+      "sourceTitle": "なめがわ議会だより第163号・紙面17頁",
+      "archiveId": "993858a92f8fd7831d90",
+      "memberActions": [
+        {
+          "name": "阿部弘明",
+          "blocks": [
+            7
+          ],
+          "detail": "町外への通院に使えないとの要望と近隣自治体の例を示し、デマンド交通の運行範囲の拡大を求めた。"
+        }
+      ]
+    }
+  ],
+  "note": "町内全域と町境付近の３医療機関は、既存の公式利用案内に記載されています。９月に質されたのは町外への通院の選択肢を広げることです。発言の日付欄は会期を示します。2023年１月18日は利用案内の更新日です。"
+}
+);
+
+GIKAI.cases.push(
+{
+  "place": "長瀞町",
+  "title": "小中一貫校の設計候補が決まり、複合施設の建設方針を質す",
+  "topic": "学校再編・公共施設",
+  "actors": [
+    "新井利朗",
+    "長瀞町教育委員会",
+    "長瀞町長"
+  ],
+  "steps": [
+    {
+      "date": "2026-03-19",
+      "stage": "基本構想・基本計画案への意見公募結果を公表",
+      "actor": "長瀞町教育委員会",
+      "detail": "３月２～13日に意見を募り、３人から19項目の意見が寄せられたことと、町の考え方を公表した。",
+      "url": "https://www.town.nagatoro.saitama.jp/news/72059/",
+      "sourceTitle": "長瀞町 小中一貫教育基本構想・基本計画案の意見公募結果"
+    },
+    {
+      "date": "2026-06-04",
+      "stage": "校舎設計等の二次審査で優先交渉権者を選定",
+      "actor": "長瀞町教育委員会",
+      "detail": "小中一貫校の基本・実施設計、測量、地質調査を対象とした公募で、二次審査の参加は５者。町は東日本総合計画株式会社を優先交渉権者として公表した。",
+      "url": "https://www.town.nagatoro.saitama.jp/news/73804/",
+      "sourceTitle": "長瀞町 小中一貫校建設工事設計等業務の公募型プロポーザル結果"
+    },
+    {
+      "date": "2026-09",
+      "stage": "新校の整備方針と複合施設の構想を質す",
+      "actor": "新井利朗",
+      "detail": "校舎の老朽化や、過疎地域指定による資金活用の時期を踏まえ整備方針を尋ねた。町長は学校と他の公共施設を統合し、令和12年度末までに複合施設を建設できるよう努めると答えた。",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=6",
+      "sourceTitle": "長瀞町議会だより第39号・紙面６頁の一般質問要旨",
+      "archiveId": "f90b2c1a871b04a81b44",
+      "memberActions": [
+        {
+          "name": "新井利朗",
+          "blocks": [
+            5
+          ],
+          "detail": "校舎の老朽化や過疎債の活用期間を挙げ、小中一貫教育の校舎整備方針を質した。"
+        }
+      ]
+    }
+  ],
+  "note": "６月の公表は設計業務の優先交渉権者の選定、９月の答弁は令和12年度末を目指す意向です。設計業務の契約、建設工事の着工と完成は確認中です。"
+}
+);
