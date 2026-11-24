@@ -179,3 +179,83 @@ GIKAI.cases.push(
     note: "町議会の意見書の議決と県議会での質疑は、同じ課題に対するそれぞれの取組です。両者の関係と、この後の制度改定・支援拡充は確認中です。",
   },
 );
+
+const konosuBudgetDebate = "https://ssp.kaigiroku.net/tenant/kounosu/SpMinuteView.html?tenant_id=85&council_id=433&schedule_id=3";
+GIKAI.cases.push(
+  {
+    place: "鴻巣市",
+    title: "省エネ家電の買換え補助が予算上限に達し、補正予算で受付を再開",
+    topic: "家計支援・環境",
+    actors: ["竹田悦子", "潮田幸子", "並木正年", "鴻巣市議会", "鴻巣市"],
+    steps: [
+      {
+        date: "2026-05-01", stage: "対象を広げて申請受付を開始", actor: "鴻巣市",
+        detail: "電気冷蔵庫に加え、エアコンとLED照明の買換えも対象にして受付を開始した。環境経済部長が９月の議案質疑で経過を説明した。",
+        url: konosuBudgetDebate, sourceTitle: "鴻巣市議会 令和8年9月定例会 9月3日・議案第59号の質疑",
+      },
+      {
+        date: "2026-06-26", stage: "予算上限に達し、受付を終了", actor: "鴻巣市",
+        detail: "市は６月26日受付分で予算上限に達し、受付を終了したと公表した。",
+        url: "https://www.city.kounosu.saitama.jp/page/39479.html", sourceTitle: "鴻巣市環境課 省エネ家電製品買換え促進事業補助金",
+      },
+      {
+        date: "2026-08-31", stage: "買換え補助の追加を補正予算案に計上", actor: "並木正年 鴻巣市長",
+        detail: "物価高の影響を踏まえた対策として、一般会計補正予算（第４号）に事業費を追加すると説明した。",
+        url: "https://ssp.kaigiroku.net/tenant/kounosu/SpMinuteView.html?tenant_id=85&council_id=433&schedule_id=2",
+        sourceTitle: "鴻巣市議会 令和8年9月定例会 8月31日の本会議録・提案説明",
+      },
+      {
+        date: "2026-09-03", stage: "追加予算に至る経過、見込みと周知方法を質問", actor: "竹田悦子、潮田幸子",
+        detail: "竹田議員は、買換え補助を個別に申し入れたと述べ、交付金の活用をどう検討したか尋ねた。潮田議員は、これまでの申請件数と額、追加分の見込み、受付再開後の周知方法を尋ねた。",
+        url: konosuBudgetDebate, sourceTitle: "鴻巣市議会 令和8年9月定例会 9月3日・議案第59号の質疑",
+      },
+      {
+        date: "2026-09-03", stage: "補助金を含む補正予算を可決", actor: "鴻巣市議会",
+        detail: "省エネ家電補助に1,950万円を追加計上した一般会計補正予算（第４号）を、起立全員で原案可決した。",
+        url: konosuBudgetDebate, sourceTitle: "鴻巣市議会 令和8年9月定例会 9月3日の本会議録・採決", billNumber: "議案第59号",
+      },
+      {
+        date: "2026-10-01", stage: "申請受付を再開", actor: "鴻巣市環境課",
+        detail: "追加予算の決定を受け、環境課は10月１日を再開日とする対象品目・申請条件・受付方法を公表した。",
+        url: "https://www.city.kounosu.saitama.jp/page/39479.html", sourceTitle: "鴻巣市環境課 省エネ家電製品買換え促進事業補助金",
+      },
+    ],
+    note: "議員の発言、議会の予算議決、市による申請受付のそれぞれを確認。個別の申入れは議員が本会議で述べた範囲です。",
+  },
+  {
+    place: "鴻巣市",
+    title: "水道基本料金の免除を延長する一般質問、予算議決と利用者向け案内",
+    topic: "水道・物価高対策",
+    actors: ["竹田悦子", "並木正年", "鴻巣市議会", "鴻巣市"],
+    steps: [
+      {
+        date: "2026-06-11", stage: "一般質問で免除期間の延長を求める", actor: "竹田悦子",
+        detail: "物価高が家計や事業者に与える影響を挙げ、市独自の対策として水道基本料金の免除期間を延長するよう求めた。",
+        url: "https://ssp.kaigiroku.net/tenant/kounosu/SpMinuteView.html?tenant_id=85&council_id=430&schedule_id=7",
+        sourceTitle: "鴻巣市議会 令和8年6月定例会 6月11日の本会議録",
+      },
+      {
+        date: "2026-08-31", stage: "免除延長を補正予算案に計上", actor: "並木正年 鴻巣市長",
+        detail: "現行の４か月分に加え２か月分延長するため、一般会計と水道事業会計の補正予算案に関係経費を計上すると説明した。",
+        url: "https://ssp.kaigiroku.net/tenant/kounosu/SpMinuteView.html?tenant_id=85&council_id=433&schedule_id=2",
+        sourceTitle: "鴻巣市議会 令和8年9月定例会 8月31日の本会議録・提案説明",
+      },
+      {
+        date: "2026-09-03", stage: "６月の質問を踏まえ補正予算を質疑", actor: "竹田悦子",
+        detail: "６月に免除の延長を求めたことを述べ、交付金額の根拠と使い道を決めた経過を尋ねた。翌年１～３月分の延長についても再質問し、市長政策室長は新たな国の交付金が示された場合に検討すると答えた。",
+        url: konosuBudgetDebate, sourceTitle: "鴻巣市議会 令和8年9月定例会 9月3日・議案第59号の質疑",
+      },
+      {
+        date: "2026-09-03", stage: "水道事業会計補正予算を可決", actor: "鴻巣市議会",
+        detail: "免除延長に関係する一般会計補正予算（第４号、議案第59号）と水道事業会計補正予算（第１号、同第60号）を、いずれも起立全員で原案可決した。",
+        url: konosuBudgetDebate, sourceTitle: "鴻巣市議会 令和8年9月定例会 9月3日の本会議録・採決", billNumber: "議案第60号",
+      },
+      {
+        date: "2026-09-03", stage: "10月・11月検針分の免除延長を案内", actor: "鴻巣市",
+        detail: "市は、公共施設を除く契約者の基本料金免除を２か月分延長すると公表し、検針月ごとの対象期間を案内した。",
+        url: "https://www.city.kounosu.saitama.jp/site/suidou/44349.html", sourceTitle: "鴻巣市経営業務課 水道基本料金の免除を2か月分延長",
+      },
+    ],
+    note: "６月の提案、９月の議案質疑、市議会の可決、市による対象期間の案内を資料で確認。",
+  },
+);

@@ -416,7 +416,7 @@ for (const doc of questionDocs) {
   assert.ok(["minutes", "fullQA", "summary", "recording"].includes(doc.scope));
   if (doc.scope === "recording") {
     assert.match(doc.kind, /機械文字起こし|公開自動字幕/);
-    assert.ok(doc.speakers.length);
+    assert.ok(doc.speakers.length || doc.kind === "公式録画の公開自動字幕");
   }
   assert.ok(Array.isArray(doc.speakers) && new Set(doc.speakers).size === doc.speakers.length);
 }

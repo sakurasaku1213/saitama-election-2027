@@ -1499,7 +1499,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "notFound",
-          "note": "公式録画一覧の36項目は作成中の表示。会議録本文と再生可能な録画を確認中。"
+          "note": "公式録画一覧の36項目と公開用の動画索引を確認。質問・答弁の本文は確認中。"
         },
         "decisions": {
           "state": "verified",
@@ -2380,14 +2380,14 @@ GIKAI.coverage2026 = {
     {
       "place": "鴻巣市",
       "season": "fall",
-      "label": "2026年秋の定例会",
-      "fromDate": "",
-      "toDate": "",
+      "label": "令和8年9月定例会",
+      "fromDate": "2026-08-31",
+      "toDate": "2026-09-25",
       "planned": false,
       "materials": {
         "meeting": {
-          "state": "identified",
-          "note": "対象資料の案内を確認。項目の取込・照合範囲は未確定。"
+          "state": "verified",
+          "note": "公式の会期案内と本会議録で8月31日から9月25日を照合。"
         },
         "activity": {
           "state": "partial",
@@ -2398,16 +2398,16 @@ GIKAI.coverage2026 = {
           "note": "対象時期の会議録または索引の掲載先を確認。本文の全件照合は未了。"
         },
         "decisions": {
-          "state": "partial",
-          "note": "議決結果 12件を収録。対象資料・頁は各議案に表示。"
+          "state": "verified",
+          "note": "公式議決結果の34件を件名・議決日・結果で照合。"
         },
         "votes": {
           "state": "pending",
           "note": "本文・収録範囲の照合が残っています。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "省エネ家電補助の受付再開と水道基本料金免除の延長を質疑・議決・市の案内で照合。"
         }
       },
       "sources": [
@@ -2426,6 +2426,10 @@ GIKAI.coverage2026 = {
         {
           "label": "議案・議決資料　議決結果一覧 (PDF:122KB)",
           "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf"
+        },
+        {
+          "label": "９月３日の本会議録",
+          "url": "https://ssp.kaigiroku.net/tenant/kounosu/SpMinuteView.html?tenant_id=85&council_id=433&schedule_id=3"
         }
       ]
     },
@@ -5271,7 +5275,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "notFound",
-          "note": "公式録画一覧の15項目は作成中の表示。会議録本文と再生可能な録画を確認中。"
+          "note": "公式録画一覧の15項目と公開用の動画索引を確認。質問・答弁の本文は確認中。"
         },
         "decisions": {
           "state": "verified",
@@ -7830,8 +7834,8 @@ GIKAI.coverage2026 = {
           "note": "公式会議録からの本文取得経路を確認できず、質問通告を掲載。"
         },
         "decisions": {
-          "state": "partial",
-          "note": "議決結果 16件を収録。対象資料・頁は各議案に表示。"
+          "state": "verified",
+          "note": "村長提出の議案第31～46号の議決日・件名・結果を公式一覧で照合。"
         },
         "votes": {
           "state": "pending",
@@ -8124,8 +8128,8 @@ GIKAI.coverage2026 = {
       },
       "sources": [
         {
-          "label": "対象会期の開催予定",
-          "url": "https://www.town.kamikawa.saitama.jp/subete/7198.html"
+          "label": "公式会議録の年別一覧",
+          "url": "https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteBrowse.html?tenant_id=73&view_years=2026"
         },
         {
           "label": "会期資料　2026年9月定例会・事前公表の一般質問全9人",
@@ -8239,7 +8243,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "notFound",
-          "note": "公式録画一覧の15項目は作成中の表示。会議録本文と再生可能な録画を確認中。"
+          "note": "公式録画一覧の15項目と公開用の動画索引を確認。質問・答弁の本文は確認中。"
         },
         "decisions": {
           "state": "pending",
@@ -10912,150 +10916,6 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27116.pdf#page=1",
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27116.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
-    },
-    {
-      "place": "鴻巣市",
-      "season": "fall",
-      "session": "令和8年9月定例会",
-      "date": "2026-09-25",
-      "title": "令和8年度鴻巣市水道事業会計補正予算(第2号)",
-      "number": "議案第72号",
-      "result": "原案可決",
-      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
-      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
-    },
-    {
-      "place": "鴻巣市",
-      "season": "fall",
-      "session": "令和8年9月定例会",
-      "date": "2026-09-25",
-      "title": "令和8年度鴻巣市一般会計補正予算(第5号)",
-      "number": "議案第69号",
-      "result": "原案可決",
-      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
-      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
-    },
-    {
-      "place": "鴻巣市",
-      "season": "fall",
-      "session": "令和8年9月定例会",
-      "date": "2026-09-25",
-      "title": "鴻巣市認可地縁団体印鑑条例の一部を改正する条例",
-      "number": "議案第67号",
-      "result": "原案可決",
-      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
-      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
-    },
-    {
-      "place": "鴻巣市",
-      "season": "fall",
-      "session": "令和8年9月定例会",
-      "date": "2026-09-25",
-      "title": "鴻巣市下水道条例の一部を改正する条例",
-      "number": "議案第66号",
-      "result": "原案可決",
-      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
-      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
-    },
-    {
-      "place": "鴻巣市",
-      "season": "fall",
-      "session": "令和8年9月定例会",
-      "date": "2026-09-25",
-      "title": "市道の路線の認定について",
-      "number": "議案第65号",
-      "result": "原案可決",
-      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
-      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
-    },
-    {
-      "place": "鴻巣市",
-      "season": "fall",
-      "session": "令和8年9月定例会",
-      "date": "2026-09-25",
-      "title": "鴻巣市支所設置条例の一部を改正する条例",
-      "number": "議案第61号",
-      "result": "原案可決",
-      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
-      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
-    },
-    {
-      "place": "鴻巣市",
-      "season": "fall",
-      "session": "令和8年9月定例会",
-      "date": "2026-09-03",
-      "title": "令和8年度鴻巣市水道事業会計補正予算(第1号)",
-      "number": "議案第60号",
-      "result": "原案可決",
-      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
-      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
-    },
-    {
-      "place": "鴻巣市",
-      "season": "fall",
-      "session": "令和8年9月定例会",
-      "date": "2026-09-03",
-      "title": "令和8年度鴻巣市一般会計補正予算(第4号)",
-      "number": "議案第59号",
-      "result": "原案可決",
-      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
-      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
-    },
-    {
-      "place": "鴻巣市",
-      "season": "fall",
-      "session": "令和8年9月定例会",
-      "date": "2026-09-03",
-      "title": "財産の取得について",
-      "number": "議案第58号",
-      "result": "原案可決",
-      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
-      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
-    },
-    {
-      "place": "鴻巣市",
-      "season": "fall",
-      "session": "令和8年9月定例会",
-      "date": "2026-09-03",
-      "title": "財産の取得について",
-      "number": "議案第57号",
-      "result": "原案可決",
-      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
-      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
-    },
-    {
-      "place": "鴻巣市",
-      "season": "fall",
-      "session": "令和8年9月定例会",
-      "date": "2026-09-03",
-      "title": "財産の取得について",
-      "number": "議案第56号",
-      "result": "原案可決",
-      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
-      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
-    },
-    {
-      "place": "鴻巣市",
-      "season": "fall",
-      "session": "令和8年9月定例会",
-      "date": "2026-09-03",
-      "title": "鴻巣市教育委員会委員の任命について",
-      "number": "議案第55号",
-      "result": "同意",
-      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
-      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
       "sourceType": "公式議決結果の該当頁"
     },
     {
@@ -17096,6 +16956,479 @@ GIKAI.coverage2026 = {
         "宮代翔太": "賛成",
         "池田裕美子": "賛成"
       }
+    },
+    {
+      "place": "鴻巣市",
+      "season": "fall",
+      "session": "令和8年9月定例会",
+      "date": "2026-09-03",
+      "number": "議案第55号",
+      "title": "鴻巣市教育委員会委員の任命について",
+      "result": "同意",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
+      "sourceType": "公式議決結果の該当頁",
+      "resultLocator": "議決結果表1頁・議決番号59",
+      "proposer": "鴻巣市長"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "fall",
+      "session": "令和8年9月定例会",
+      "date": "2026-09-03",
+      "number": "議案第56号",
+      "title": "財産の取得について",
+      "result": "原案可決",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
+      "sourceType": "公式議決結果の該当頁",
+      "resultLocator": "議決結果表1頁・議決番号60",
+      "proposer": "鴻巣市長"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "fall",
+      "session": "令和8年9月定例会",
+      "date": "2026-09-03",
+      "number": "議案第57号",
+      "title": "財産の取得について",
+      "result": "原案可決",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
+      "sourceType": "公式議決結果の該当頁",
+      "resultLocator": "議決結果表1頁・議決番号61",
+      "proposer": "鴻巣市長"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "fall",
+      "session": "令和8年9月定例会",
+      "date": "2026-09-03",
+      "number": "議案第58号",
+      "title": "財産の取得について",
+      "result": "原案可決",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
+      "sourceType": "公式議決結果の該当頁",
+      "resultLocator": "議決結果表1頁・議決番号62",
+      "proposer": "鴻巣市長"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "fall",
+      "session": "令和8年9月定例会",
+      "date": "2026-09-03",
+      "number": "議案第59号",
+      "title": "令和8年度鴻巣市一般会計補正予算（第4号）",
+      "result": "原案可決",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
+      "sourceType": "公式議決結果の該当頁",
+      "resultLocator": "議決結果表1頁・議決番号63",
+      "proposer": "鴻巣市長",
+      "voteNote": "本会議録の採決は起立全員。"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "fall",
+      "session": "令和8年9月定例会",
+      "date": "2026-09-03",
+      "number": "議案第60号",
+      "title": "令和8年度鴻巣市水道事業会計補正予算（第1号）",
+      "result": "原案可決",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
+      "sourceType": "公式議決結果の該当頁",
+      "resultLocator": "議決結果表1頁・議決番号64",
+      "proposer": "鴻巣市長",
+      "voteNote": "本会議録の採決は起立全員。"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "fall",
+      "session": "令和8年9月定例会",
+      "date": "2026-09-25",
+      "number": "議案第61号",
+      "title": "鴻巣市支所設置条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
+      "sourceType": "公式議決結果の該当頁",
+      "resultLocator": "議決結果表1頁・議決番号65",
+      "proposer": "鴻巣市長"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "fall",
+      "session": "令和8年9月定例会",
+      "date": "2026-09-25",
+      "number": "議案第62号",
+      "title": "鴻巣市家庭的保育事業等の設備及び運営に関する基準を定める条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
+      "sourceType": "公式議決結果の該当頁",
+      "resultLocator": "議決結果表1頁・議決番号66",
+      "proposer": "鴻巣市長"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "fall",
+      "session": "令和8年9月定例会",
+      "date": "2026-09-25",
+      "number": "議案第63号",
+      "title": "鴻巣市乳児等通園支援事業の設備及び運営に関する基準を定める条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
+      "sourceType": "公式議決結果の該当頁",
+      "resultLocator": "議決結果表1頁・議決番号67",
+      "proposer": "鴻巣市長"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "fall",
+      "session": "令和8年9月定例会",
+      "date": "2026-09-25",
+      "number": "議案第64号",
+      "title": "鴻巣市個人番号の利用及び特定個人情報の提供に関する条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
+      "sourceType": "公式議決結果の該当頁",
+      "resultLocator": "議決結果表1頁・議決番号68",
+      "proposer": "鴻巣市長"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "fall",
+      "session": "令和8年9月定例会",
+      "date": "2026-09-25",
+      "number": "議案第65号",
+      "title": "市道の路線の認定について",
+      "result": "原案可決",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
+      "sourceType": "公式議決結果の該当頁",
+      "resultLocator": "議決結果表1頁・議決番号69",
+      "proposer": "鴻巣市長"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "fall",
+      "session": "令和8年9月定例会",
+      "date": "2026-09-25",
+      "number": "議案第66号",
+      "title": "鴻巣市下水道条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
+      "sourceType": "公式議決結果の該当頁",
+      "resultLocator": "議決結果表1頁・議決番号70",
+      "proposer": "鴻巣市長"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "fall",
+      "session": "令和8年9月定例会",
+      "date": "2026-09-25",
+      "number": "議案第67号",
+      "title": "鴻巣市認可地縁団体印鑑条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
+      "sourceType": "公式議決結果の該当頁",
+      "resultLocator": "議決結果表1頁・議決番号71",
+      "proposer": "鴻巣市長"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "fall",
+      "session": "令和8年9月定例会",
+      "date": "2026-09-25",
+      "number": "議案第68号",
+      "title": "鴻巣市廃棄物の処理及び清掃に関する条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
+      "sourceType": "公式議決結果の該当頁",
+      "resultLocator": "議決結果表1頁・議決番号72",
+      "proposer": "鴻巣市長"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "fall",
+      "session": "令和8年9月定例会",
+      "date": "2026-09-25",
+      "number": "議案第69号",
+      "title": "令和8年度鴻巣市一般会計補正予算（第5号）",
+      "result": "原案可決",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
+      "sourceType": "公式議決結果の該当頁",
+      "resultLocator": "議決結果表1頁・議決番号73",
+      "proposer": "鴻巣市長"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "fall",
+      "session": "令和8年9月定例会",
+      "date": "2026-09-25",
+      "number": "議案第70号",
+      "title": "令和8年度鴻巣市国民健康保険事業特別会計補正予算（第1号）",
+      "result": "原案可決",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
+      "sourceType": "公式議決結果の該当頁",
+      "resultLocator": "議決結果表1頁・議決番号74",
+      "proposer": "鴻巣市長"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "fall",
+      "session": "令和8年9月定例会",
+      "date": "2026-09-25",
+      "number": "議案第71号",
+      "title": "令和8年度鴻巣市介護保険特別会計補正予算（第2号）",
+      "result": "原案可決",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
+      "sourceType": "公式議決結果の該当頁",
+      "resultLocator": "議決結果表1頁・議決番号75",
+      "proposer": "鴻巣市長"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "fall",
+      "session": "令和8年9月定例会",
+      "date": "2026-09-25",
+      "number": "議案第72号",
+      "title": "令和8年度鴻巣市水道事業会計補正予算（第2号）",
+      "result": "原案可決",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
+      "sourceType": "公式議決結果の該当頁",
+      "resultLocator": "議決結果表1頁・議決番号76",
+      "proposer": "鴻巣市長"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "fall",
+      "session": "令和8年9月定例会",
+      "date": "2026-09-25",
+      "number": "議案第73号",
+      "title": "令和8年度鴻巣市公共下水道事業会計補正予算（第1号）",
+      "result": "原案可決",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
+      "sourceType": "公式議決結果の該当頁",
+      "resultLocator": "議決結果表1頁・議決番号77",
+      "proposer": "鴻巣市長"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "fall",
+      "session": "令和8年9月定例会",
+      "date": "2026-09-25",
+      "number": "議案第74号",
+      "title": "令和8年度鴻巣市農業集落排水事業会計補正予算（第1号）",
+      "result": "原案可決",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
+      "sourceType": "公式議決結果の該当頁",
+      "resultLocator": "議決結果表1頁・議決番号78",
+      "proposer": "鴻巣市長"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "fall",
+      "session": "令和8年9月定例会",
+      "date": "2026-09-25",
+      "number": "議案第75号",
+      "title": "令和7年度鴻巣市一般会計決算認定について",
+      "result": "認定",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
+      "sourceType": "公式議決結果の該当頁",
+      "resultLocator": "議決結果表1頁・議決番号79",
+      "proposer": "鴻巣市長"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "fall",
+      "session": "令和8年9月定例会",
+      "date": "2026-09-25",
+      "number": "議案第76号",
+      "title": "令和7年度鴻巣市国民健康保険事業特別会計決算認定について",
+      "result": "認定",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
+      "sourceType": "公式議決結果の該当頁",
+      "resultLocator": "議決結果表1頁・議決番号80",
+      "proposer": "鴻巣市長"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "fall",
+      "session": "令和8年9月定例会",
+      "date": "2026-09-25",
+      "number": "議案第77号",
+      "title": "令和7年度鴻巣市介護保険特別会計決算認定について",
+      "result": "認定",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=2",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=2",
+      "sourceType": "公式議決結果の該当頁",
+      "resultLocator": "議決結果表2頁・議決番号81",
+      "proposer": "鴻巣市長"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "fall",
+      "session": "令和8年9月定例会",
+      "date": "2026-09-25",
+      "number": "議案第78号",
+      "title": "令和7年度鴻巣都市計画事業北新宿第二土地区画整理事業特別会計決算認定について",
+      "result": "認定",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=2",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=2",
+      "sourceType": "公式議決結果の該当頁",
+      "resultLocator": "議決結果表2頁・議決番号82",
+      "proposer": "鴻巣市長"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "fall",
+      "session": "令和8年9月定例会",
+      "date": "2026-09-25",
+      "number": "議案第79号",
+      "title": "令和7年度鴻巣都市計画事業広田中央特定土地区画整理事業特別会計決算認定について",
+      "result": "認定",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=2",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=2",
+      "sourceType": "公式議決結果の該当頁",
+      "resultLocator": "議決結果表2頁・議決番号83",
+      "proposer": "鴻巣市長"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "fall",
+      "session": "令和8年9月定例会",
+      "date": "2026-09-25",
+      "number": "議案第80号",
+      "title": "令和7年度鴻巣市後期高齢者医療特別会計決算認定について",
+      "result": "認定",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=2",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=2",
+      "sourceType": "公式議決結果の該当頁",
+      "resultLocator": "議決結果表2頁・議決番号84",
+      "proposer": "鴻巣市長"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "fall",
+      "session": "令和8年9月定例会",
+      "date": "2026-09-25",
+      "number": "議案第81号",
+      "title": "令和7年度鴻巣市水道事業会計利益の処分及び決算認定について",
+      "result": "原案可決及び認定",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=2",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=2",
+      "sourceType": "公式議決結果の該当頁",
+      "resultLocator": "議決結果表2頁・議決番号85",
+      "proposer": "鴻巣市長"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "fall",
+      "session": "令和8年9月定例会",
+      "date": "2026-09-25",
+      "number": "議案第82号",
+      "title": "令和7年度鴻巣市公共下水道事業会計利益の処分及び決算認定について",
+      "result": "原案可決及び認定",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=2",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=2",
+      "sourceType": "公式議決結果の該当頁",
+      "resultLocator": "議決結果表2頁・議決番号86",
+      "proposer": "鴻巣市長"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "fall",
+      "session": "令和8年9月定例会",
+      "date": "2026-09-25",
+      "number": "議案第83号",
+      "title": "令和7年度鴻巣市農業集落排水事業会計利益の処分及び決算認定について",
+      "result": "原案可決及び認定",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=2",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=2",
+      "sourceType": "公式議決結果の該当頁",
+      "resultLocator": "議決結果表2頁・議決番号87",
+      "proposer": "鴻巣市長"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "fall",
+      "session": "令和8年9月定例会",
+      "date": "2026-09-25",
+      "number": "議請第2号",
+      "title": "「石油等由来製品の安定供給を阻害している要因の究明と解消を求める意見書」の提出を求める請願書",
+      "result": "採択",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=2",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=2",
+      "sourceType": "公式議決結果の該当頁",
+      "resultLocator": "議決結果表2頁・議決番号88"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "fall",
+      "session": "令和8年9月定例会",
+      "date": "2026-09-25",
+      "number": "議請第3号",
+      "title": "「中小企業・小規模事業者に対する事業継続支援を求める意見書」の提出を求める請願書",
+      "result": "採択",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=2",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=2",
+      "sourceType": "公式議決結果の該当頁",
+      "resultLocator": "議決結果表2頁・議決番号89"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "fall",
+      "session": "令和8年9月定例会",
+      "date": "2026-09-25",
+      "number": "議請第4号",
+      "title": "鴻巣市立大芦小学校の存続と教育環境の充実に関する請願書",
+      "result": "不採択",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=2",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=2",
+      "sourceType": "公式議決結果の該当頁",
+      "resultLocator": "議決結果表2頁・議決番号90"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "fall",
+      "session": "令和8年9月定例会",
+      "date": "2026-09-25",
+      "number": "議提第3号",
+      "title": "石油等由来製品の安定供給を阻害している要因の究明と解消を求める意見書",
+      "result": "原案可決",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=2",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=2",
+      "sourceType": "公式議決結果の該当頁",
+      "resultLocator": "議決結果表2頁・議決番号91"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "fall",
+      "session": "令和8年9月定例会",
+      "date": "2026-09-25",
+      "number": "議提第4号",
+      "title": "中小企業・小規模事業者に対する事業継続支援を求める意見書",
+      "result": "原案可決",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=2",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=2",
+      "sourceType": "公式議決結果の該当頁",
+      "resultLocator": "議決結果表2頁・議決番号92"
     }
   ],
   "policy": [
