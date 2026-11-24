@@ -3270,6 +3270,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "23042e8eb18c7904c181",
+      "place": "上里町",
+      "season": "fall",
+      "date": "2026-09-04",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "清水祐子議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/speech.html?council_id=47&schedule_id=1&playlist_id=3&speaker_id=23&target_year=2026",
+      "speakers": [
+        "清水祐子"
+      ]
+    },
+    {
       "id": "da2f6596b60bdc124830",
       "place": "上里町",
       "season": "fall",
@@ -4009,6 +4023,63 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "48c144faa1dc82154ae9",
+      "place": "入間市",
+      "season": "spring",
+      "date": "2026-02-26",
+      "url": "https://www3.city.iruma.saitama.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=1&SORT=0&KTYP=0,1,2,3&KGTP=3&FYY=2026&TYY=2026&TITL=%91%8D%96%B1&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82Q%8C%8E%91%8D%96%B1%8F%ED%94C%88%CF%88%F5%89%EF%81%7C02%8C%8E26%93%FA-01%8D%86&HUID=241577&KGNO=516&FINO=1921&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "title": "令和 ８年 ２月総務常任委員会－02月26日-01号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の委員会会議録の年度別目次と照合し、開会から閉会までの本文を収録。",
+      "speakers": [
+        "双木小百合",
+        "大野勉",
+        "小島清人",
+        "永澤美恵子",
+        "田山雅子",
+        "益田英主",
+        "野口哲次"
+      ]
+    },
+    {
+      "id": "dcbabfcde832bcdbc954",
+      "place": "入間市",
+      "season": "spring",
+      "date": "2026-02-27",
+      "url": "https://www3.city.iruma.saitama.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=1&SORT=0&KTYP=0,1,2,3&KGTP=3&FYY=2026&TYY=2026&TITL=%93s%8Es%8Co%8D%CF&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82Q%8C%8E%93s%8Es%8Co%8D%CF%8F%ED%94C%88%CF%88%F5%89%EF%81%7C02%8C%8E27%93%FA-01%8D%86&HUID=242008&KGNO=517&FINO=1923&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "title": "令和 ８年 ２月都市経済常任委員会－02月27日-01号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の委員会会議録の年度別目次と照合し、開会から閉会までの本文を収録。",
+      "speakers": [
+        "佐藤匡",
+        "内村忠久",
+        "末次正",
+        "町田健治",
+        "細田智也"
+      ]
+    },
+    {
+      "id": "09b56db143516a825e51",
+      "place": "入間市",
+      "season": "spring",
+      "date": "2026-03-02",
+      "url": "https://www3.city.iruma.saitama.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=1&SORT=0&KTYP=0,1,2,3&KGTP=3&FYY=2026&TYY=2026&TITL=%95%9F%8E%83%8B%B3%88%E7&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82R%8C%8E%95%9F%8E%83%8B%B3%88%E7%8F%ED%94C%88%CF%88%F5%89%EF%81%7C03%8C%8E02%93%FA-01%8D%86&HUID=242346&KGNO=518&FINO=1925&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "title": "令和 ８年 ３月福祉教育常任委員会－03月02日-01号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の委員会会議録の年度別目次と照合し、開会から閉会までの本文を収録。",
+      "speakers": [
+        "古仲リカ",
+        "吉田賢一",
+        "向口文恵",
+        "安道佳子",
+        "山川さおり",
+        "栗山英美"
+      ]
+    },
+    {
       "id": "cd84c21afc77d9a4c244",
       "place": "入間市",
       "season": "spring",
@@ -4134,6 +4205,57 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "a1278d286a2157bd2983",
+      "place": "入間市",
+      "season": "summer",
+      "date": "2026-06-09",
+      "url": "https://www3.city.iruma.saitama.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=1&SORT=0&KTYP=0,1,2,3&KGTP=3&FYY=2026&TYY=2026&TITL=%91%8D%96%B1&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82U%8C%8E%91%8D%96%B1%8F%ED%94C%88%CF%88%F5%89%EF%81%7C06%8C%8E09%93%FA-01%8D%86&HUID=243997&KGNO=520&FINO=1934&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "title": "令和 ８年 ６月総務常任委員会－06月09日-01号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の委員会会議録の年度別目次と照合し、開会から閉会までの本文を収録。",
+      "speakers": [
+        "大野勉",
+        "永澤美恵子",
+        "田山雅子",
+        "野口哲次"
+      ]
+    },
+    {
+      "id": "89a5b40e332ae0d9530b",
+      "place": "入間市",
+      "season": "summer",
+      "date": "2026-06-10",
+      "url": "https://www3.city.iruma.saitama.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=1&SORT=0&KTYP=0,1,2,3&KGTP=3&FYY=2026&TYY=2026&TITL=%93s%8Es%8Co%8D%CF&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82U%8C%8E%93s%8Es%8Co%8D%CF%8F%ED%94C%88%CF%88%F5%89%EF%81%7C06%8C%8E10%93%FA-01%8D%86&HUID=244071&KGNO=521&FINO=1936&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "title": "令和 ８年 ６月都市経済常任委員会－06月10日-01号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の委員会会議録の年度別目次と照合し、開会から閉会までの本文を収録。",
+      "speakers": [
+        "佐藤匡",
+        "内村忠久",
+        "末次正"
+      ]
+    },
+    {
+      "id": "ca1d919b5e34d92f75e4",
+      "place": "入間市",
+      "season": "summer",
+      "date": "2026-06-11",
+      "url": "https://www3.city.iruma.saitama.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=1&SORT=0&KTYP=0,1,2,3&KGTP=3&FYY=2026&TYY=2026&TITL=%95%9F%8E%83%8B%B3%88%E7&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82U%8C%8E%95%9F%8E%83%8B%B3%88%E7%8F%ED%94C%88%CF%88%F5%89%EF%81%7C06%8C%8E11%93%FA-01%8D%86&HUID=244139&KGNO=522&FINO=1938&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "title": "令和 ８年 ６月福祉教育常任委員会－06月11日-01号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の委員会会議録の年度別目次と照合し、開会から閉会までの本文を収録。",
+      "speakers": [
+        "古仲リカ",
+        "吉田賢一",
+        "安道佳子",
+        "山川さおり",
+        "栗山英美"
+      ]
+    },
+    {
       "id": "fcfb2c6b1301d0c420f1",
       "place": "入間市",
       "season": "summer",
@@ -4192,6 +4314,27 @@ GIKAI.questionText = {
         "横田淳一",
         "永澤美恵子",
         "野口哲次"
+      ]
+    },
+    {
+      "id": "9fa6a1f27d6d8b4deadd",
+      "place": "入間市",
+      "season": "summer",
+      "date": "2026-06-18",
+      "url": "https://www3.city.iruma.saitama.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=1&SORT=0&KTYP=0,1,2,3&KGTP=3&FYY=2026&TYY=2026&TITL=%8A%EE%92n%91%CE%8D%F4&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82U%8C%8E%8A%EE%92n%91%CE%8D%F4%93%C1%95%CA%88%CF%88%F5%89%EF%81%7C06%8C%8E18%93%FA-01%8D%86&HUID=244943&KGNO=523&FINO=1943&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "title": "令和 ８年 ６月基地対策特別委員会－06月18日-01号",
+      "kind": "公式会議録（特別委員会）",
+      "scope": "minutes",
+      "note": "公式の委員会会議録の年度別目次と照合し、開会から閉会までの本文を収録。",
+      "speakers": [
+        "佐藤匡",
+        "双木小百合",
+        "吉田賢一",
+        "向口文恵",
+        "大野勉",
+        "山川さおり",
+        "末次正",
+        "長谷川渉"
       ]
     },
     {
@@ -4281,6 +4424,62 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "4050416203fe55e5233e",
+      "place": "入間市",
+      "season": "fall",
+      "date": "2026-09-09",
+      "url": "https://www3.city.iruma.saitama.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=1&SORT=0&KTYP=0,1,2,3&KGTP=3&FYY=2026&TYY=2026&TITL=%91%8D%96%B1&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82X%8C%8E%91%8D%96%B1%8F%ED%94C%88%CF%88%F5%89%EF%81%7C09%8C%8E09%93%FA-01%8D%86&HUID=245445&KGNO=525&FINO=1950&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "title": "令和 ８年 ９月総務常任委員会－09月09日-01号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の委員会会議録の年度別目次と照合し、開会から閉会までの本文を収録。",
+      "speakers": [
+        "丹下敦子",
+        "双木小百合",
+        "大野勉",
+        "小島清人",
+        "永澤美恵子",
+        "田山雅子",
+        "野口哲次"
+      ]
+    },
+    {
+      "id": "f9de407e091ae11df288",
+      "place": "入間市",
+      "season": "fall",
+      "date": "2026-09-10",
+      "url": "https://www3.city.iruma.saitama.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=1&SORT=0&KTYP=0,1,2,3&KGTP=3&FYY=2026&TYY=2026&TITL=%93s%8Es%8Co%8D%CF&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82X%8C%8E%93s%8Es%8Co%8D%CF%8F%ED%94C%88%CF%88%F5%89%EF%81%7C09%8C%8E10%93%FA-01%8D%86&HUID=245632&KGNO=526&FINO=1952&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "title": "令和 ８年 ９月都市経済常任委員会－09月10日-01号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の委員会会議録の年度別目次と照合し、開会から閉会までの本文を収録。",
+      "speakers": [
+        "佐藤匡",
+        "内村忠久",
+        "末次正",
+        "町田健治",
+        "細田智也"
+      ]
+    },
+    {
+      "id": "d48bdc1632fee1e849f7",
+      "place": "入間市",
+      "season": "fall",
+      "date": "2026-09-11",
+      "url": "https://www3.city.iruma.saitama.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=1&SORT=0&KTYP=0,1,2,3&KGTP=3&FYY=2026&TYY=2026&TITL=%95%9F%8E%83%8B%B3%88%E7&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82X%8C%8E%95%9F%8E%83%8B%B3%88%E7%8F%ED%94C%88%CF%88%F5%89%EF%81%7C09%8C%8E11%93%FA-01%8D%86&HUID=245795&KGNO=527&FINO=1954&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "title": "令和 ８年 ９月福祉教育常任委員会－09月11日-01号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の委員会会議録の年度別目次と照合し、開会から閉会までの本文を収録。",
+      "speakers": [
+        "古仲リカ",
+        "吉田賢一",
+        "安道佳子",
+        "山川さおり",
+        "栗山英美"
+      ]
+    },
+    {
       "id": "bd8f3cddef7aa65c64e0",
       "place": "入間市",
       "season": "fall",
@@ -4335,6 +4534,23 @@ GIKAI.questionText = {
         "大野勉",
         "宮岡治郎",
         "横田淳一"
+      ]
+    },
+    {
+      "id": "363525187b644ab28590",
+      "place": "入間市",
+      "season": "fall",
+      "date": "2026-09-18",
+      "url": "https://www3.city.iruma.saitama.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=1&SORT=0&KTYP=0,1,2,3&KGTP=3&FYY=2026&TYY=2026&TITL=%8A%EE%92n%91%CE%8D%F4&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82X%8C%8E%8A%EE%92n%91%CE%8D%F4%93%C1%95%CA%88%CF%88%F5%89%EF%81%7C09%8C%8E18%93%FA-01%8D%86&HUID=246456&KGNO=528&FINO=1959&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "title": "令和 ８年 ９月基地対策特別委員会－09月18日-01号",
+      "kind": "公式会議録（特別委員会）",
+      "scope": "minutes",
+      "note": "公式の委員会会議録の年度別目次と照合し、開会から閉会までの本文を収録。",
+      "speakers": [
+        "佐藤匡",
+        "双木小百合",
+        "大野勉",
+        "末次正"
       ]
     },
     {
@@ -23993,6 +24209,187 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "a2b04e53dab5093123e7",
+      "place": "朝霞市",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "朝霞市 令和 ８年 ３月 建設常任委員会 03月04日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1117&schedule_id=1",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "ごん純一",
+        "利根川仁志",
+        "田辺淳",
+        "石原茂",
+        "飯倉一樹",
+        "駒牧容子"
+      ]
+    },
+    {
+      "id": "57dd3764414d70fef688",
+      "place": "朝霞市",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "朝霞市 令和 ８年 ３月 総務常任委員会 03月04日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1120&schedule_id=1",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "渡部竜二",
+        "遠藤光博",
+        "陶山憲雅",
+        "高堀亮太郎"
+      ]
+    },
+    {
+      "id": "7ff5ff99aefe2a2d4235",
+      "place": "朝霞市",
+      "season": "spring",
+      "date": "2026-03-05",
+      "title": "朝霞市 令和 ８年 ３月 建設常任委員会 03月05日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1117&schedule_id=2",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "ごん純一",
+        "利根川仁志",
+        "田辺淳",
+        "石原茂",
+        "飯倉一樹",
+        "駒牧容子"
+      ]
+    },
+    {
+      "id": "c16b144e1d1e4a1381e8",
+      "place": "朝霞市",
+      "season": "spring",
+      "date": "2026-03-06",
+      "title": "朝霞市 令和 ８年 ３月 教育環境常任委員会 03月06日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1118&schedule_id=1",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "宮林智美",
+        "獅子倉晴樹",
+        "福川鷹子",
+        "西明",
+        "黒川滋"
+      ]
+    },
+    {
+      "id": "8910c8ac3ff90925fb0e",
+      "place": "朝霞市",
+      "season": "spring",
+      "date": "2026-03-06",
+      "title": "朝霞市 令和 ８年 ３月 民生常任委員会 03月06日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1119&schedule_id=1",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "増田ともみ",
+        "外山麻貴",
+        "岡崎和広",
+        "本田麻希子",
+        "田原亮",
+        "石川啓子"
+      ]
+    },
+    {
+      "id": "8535614198eb3e2a23a5",
+      "place": "朝霞市",
+      "season": "spring",
+      "date": "2026-03-09",
+      "title": "朝霞市 令和 ８年 ３月 教育環境常任委員会 03月09日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1118&schedule_id=2",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "宮林智美",
+        "獅子倉晴樹",
+        "福川鷹子",
+        "西明",
+        "黒川滋"
+      ]
+    },
+    {
+      "id": "956bdecc0209c6e413b4",
+      "place": "朝霞市",
+      "season": "spring",
+      "date": "2026-03-09",
+      "title": "朝霞市 令和 ８年 ３月 民生常任委員会 03月09日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1119&schedule_id=2",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "増田ともみ",
+        "外山麻貴",
+        "岡崎和広",
+        "本田麻希子",
+        "田原亮",
+        "石川啓子"
+      ]
+    },
+    {
+      "id": "d3758de9fec42686811f",
+      "place": "朝霞市",
+      "season": "spring",
+      "date": "2026-03-10",
+      "title": "朝霞市 令和 ８年 ３月 建設常任委員会 03月10日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1117&schedule_id=3",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "ごん純一",
+        "利根川仁志",
+        "田辺淳",
+        "石原茂",
+        "飯倉一樹"
+      ]
+    },
+    {
+      "id": "7358bd56c1c7fa5fa402",
+      "place": "朝霞市",
+      "season": "spring",
+      "date": "2026-03-10",
+      "title": "朝霞市 令和 ８年 ３月 教育環境常任委員会 03月10日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1118&schedule_id=3",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "獅子倉晴樹",
+        "西明",
+        "黒川滋"
+      ]
+    },
+    {
+      "id": "9a2dcf42d2a0060fdbb3",
+      "place": "朝霞市",
+      "season": "spring",
+      "date": "2026-03-10",
+      "title": "朝霞市 令和 ８年 ３月 民生常任委員会 03月10日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1119&schedule_id=3",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "増田ともみ",
+        "外山麻貴",
+        "本田麻希子",
+        "田原亮",
+        "石川啓子"
+      ]
+    },
+    {
       "id": "72da4beb2ae8c4d68d92",
       "place": "朝霞市",
       "season": "spring",
@@ -24114,6 +24511,56 @@ GIKAI.questionText = {
         "野本一幸",
         "駒牧容子",
         "黒川滋"
+      ]
+    },
+    {
+      "id": "23cc2f2f7c49e67c6f32",
+      "place": "朝霞市",
+      "season": "summer",
+      "date": "2026-06-15",
+      "title": "朝霞市 令和 ８年 ６月 総務常任委員会 06月15日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1140&schedule_id=1",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "遠藤光博",
+        "陶山憲雅",
+        "高堀亮太郎"
+      ]
+    },
+    {
+      "id": "e2bdd9317e0b560e258a",
+      "place": "朝霞市",
+      "season": "summer",
+      "date": "2026-06-17",
+      "title": "朝霞市 令和 ８年 ６月 教育環境常任委員会 06月17日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1138&schedule_id=1",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "宮林智美",
+        "獅子倉晴樹",
+        "福川鷹子",
+        "西明",
+        "黒川滋"
+      ]
+    },
+    {
+      "id": "d8d27e9f78f021cd2949",
+      "place": "朝霞市",
+      "season": "summer",
+      "date": "2026-06-17",
+      "title": "朝霞市 令和 ８年 ６月 民生常任委員会 06月17日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1139&schedule_id=1",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "増田ともみ",
+        "本田麻希子",
+        "石川啓子"
       ]
     },
     {
@@ -29213,6 +29660,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "ae9808c344fd74bf8c7e",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-24",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "榎本和孝議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。 自動検査で確認候補になった時間帯も含まれます。",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Video_View.asp?SrchID=2395",
+      "speakers": [
+        "榎本和孝"
+      ]
+    },
+    {
       "id": "2ef432287089d0dfc6bc",
       "place": "蕨市",
       "season": "fall",
@@ -32055,7 +32516,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://warabi.gijiroku.com/gikai/g07_Video_Search.asp",
-        "note": "公式録画一覧の一般質問15人のうち、12人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
+        "note": "公式録画一覧の一般質問15人のうち、13人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
       }
     },
     {
@@ -32090,7 +32551,7 @@ GIKAI.questionText = {
       "material": {
         "state": "verified",
         "indexURL": "https://www3.city.iruma.saitama.jp/voices/g08v_viewh.asp?Sflg=11&FYY=2026&TYY=2026",
-        "note": "公式年別一覧にある本会議録7資料を日付別に照合。"
+        "note": "公式年別一覧にある本会議録7資料を日付別に照合。公式一覧の常任委員会3資料も収録。"
       }
     },
     {
@@ -32099,7 +32560,7 @@ GIKAI.questionText = {
       "material": {
         "state": "verified",
         "indexURL": "https://www3.city.iruma.saitama.jp/voices/g08v_viewh.asp?Sflg=11&FYY=2026&TYY=2026",
-        "note": "公式年別一覧にある本会議録6資料を日付別に照合。"
+        "note": "公式年別一覧にある本会議録6資料を日付別に照合。公式一覧の常任・特別委員会4資料も収録。"
       }
     },
     {
@@ -32108,7 +32569,7 @@ GIKAI.questionText = {
       "material": {
         "state": "verified",
         "indexURL": "https://www3.city.iruma.saitama.jp/voices/g08v_viewh.asp?Sflg=11&FYY=2026&TYY=2026",
-        "note": "公式年別一覧にある本会議録7資料を日付別に照合。"
+        "note": "公式年別一覧にある本会議録7資料を日付別に照合。公式一覧の常任・特別委員会4資料も収録。"
       }
     },
     {
@@ -32116,7 +32577,7 @@ GIKAI.questionText = {
       "season": "spring",
       "material": {
         "state": "verified",
-        "note": "公式目次と照合した本会議の日別会議録7資料を収録。",
+        "note": "公式目次と照合した本会議の日別会議録7資料を収録。公式一覧の常任委員会10資料も収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/asaka/SpMinuteBrowse.html?tenant_id=217&view_years=2026"
       }
     },
@@ -32125,7 +32586,7 @@ GIKAI.questionText = {
       "season": "summer",
       "material": {
         "state": "verified",
-        "note": "公式目次と照合した本会議の日別会議録6資料を収録。",
+        "note": "公式目次と照合した本会議の日別会議録6資料を収録。公式一覧の常任委員会3資料も収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/asaka/SpMinuteBrowse.html?tenant_id=217&view_years=2026"
       }
     },
@@ -33079,7 +33540,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/council.html?year=2026&council_id=47",
-        "note": "公式録画一覧の一般質問11人のうち、1人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
+        "note": "公式録画一覧の一般質問11人のうち、2人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
       }
     },
     {

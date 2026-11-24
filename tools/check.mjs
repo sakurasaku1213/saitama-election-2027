@@ -357,6 +357,14 @@ for (const bill of coverage.decisions) {
   validLink(bill.resultURL);
   validLink(bill.url);
   if (bill.committeeURL) validLink(bill.committeeURL);
+  if (bill.proposalRole) assert.ok(bill.proposalRole === "発議者" && bill.names?.length, key);
+  if (bill.proposalSupporters) {
+    assert.ok(bill.names?.length && bill.proposalSupporters.length, key);
+    assert.equal(new Set(bill.proposalSupporters).size, bill.proposalSupporters.length, key);
+    for (const supporter of bill.proposalSupporters) {
+      assert.ok(!bill.names.includes(supporter) && people.has(bill.place + "|" + supporter.replace(/\s/g, "")), key);
+    }
+  }
   if (bill.votes) {
     assert.ok(bill.voteType && Object.keys(bill.votes).length);
     validLink(bill.voteURL);

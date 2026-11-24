@@ -976,3 +976,96 @@ GIKAI.cases.push(
     note: "請負代金の変更は交通広場の議案です。９月30日は市が公表した交流広場の完成日で、交通広場の完成日は確認中です。",
   },
 );
+
+GIKAI.cases.push(
+  {
+    place: "朝霞市",
+    title: "北朝霞駅西口の改修をめぐる予算修正案と工事契約",
+    topic: "駅前広場・交通",
+    actors: ["黒川滋", "本田麻希子", "飯倉一樹", "田辺淳", "利根川仁志", "石原茂", "朝霞市議会", "朝霞市"],
+    steps: [
+      {
+        date: "2026-03-04", stage: "改修工事中の交通と駅周辺計画への影響を質す", actor: "飯倉一樹",
+        detail: "建設常任委員会で、工事中の交通、送迎や小型バスへの影響、駅舎改修との関係を尋ねた。関係者の意見を聞きながら進めるよう求めた。",
+        url: "https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1117&schedule_id=1",
+        sourceTitle: "朝霞市議会 ３月４日建設常任委員会・発言順695・707・723",
+      },
+      {
+        date: "2026-03-23", stage: "工事着手の見送りと予算減額を発議", actor: "黒川滋、本田麻希子",
+        detail: "駅周辺の交通戦略との整合を検討するため、令和８年度の着手を見送り、当初予算を１億7,994万8,000円減額し、事業の継続費と地方債を削る修正動議を提出した。",
+        url: "https://www.city.asaka.lg.jp/uploaded/attachment/108670.pdf#page=2",
+        sourceTitle: "朝霞市議会 議案第３号への修正動議・１頁の発議者欄と２頁の修正案", billNumber: "議案第3号に対する修正動議",
+      },
+      {
+        date: "2026-03-23", stage: "修正案を否決し、当初予算の原案を可決", actor: "朝霞市議会",
+        detail: "利根川仁志・石原茂議員が修正案に反対、本田麻希子議員が賛成の討論を行った。修正案は賛成２、反対20で否決。原案は賛成18、反対４で可決した。",
+        url: "https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1112&schedule_id=8",
+        sourceTitle: "朝霞市議会 ３月23日本会議録・討論と採決", billNumber: "議案第3号",
+      },
+      {
+        date: "2026-08-27", stage: "市長が工事請負契約案を提出", actor: "朝霞市長",
+        detail: "北朝霞駅西口ロータリー改修工事の請負契約金を税抜３億7,200万円とする議案第46号を提出した。",
+        url: "https://www.city.asaka.lg.jp/uploaded/attachment/112126.pdf#page=1",
+        sourceTitle: "朝霞市議会 議案第46号の原本",
+      },
+      {
+        date: "2026-09-28", stage: "工事の請負契約を討論し、契約議案を可決", actor: "田辺淳、石原茂、黒川滋、飯倉一樹、朝霞市議会",
+        detail: "黒川議員は駅全体の計画や送迎バスの課題を挙げて反対し、飯倉議員は関係者の理解を得る必要性を述べて賛成した。市議会は請負契約案（議案第46号）を賛成18、反対４で可決した。",
+        url: "https://ssp.kaigiroku.net/tenant/asaka/SpMinuteView.html?tenant_id=217&council_id=1142&schedule_id=8",
+        sourceTitle: "朝霞市議会 ９月28日本会議録・発言順89～101", billNumber: "議案第46号",
+      },
+      {
+        date: "2026-11-16", stage: "市が工事予定と説明会を公表", actor: "朝霞市",
+        detail: "市は、令和８年12月から令和９年12月までの工事予定と、12月11・12日の工事説明会を案内した。",
+        url: "https://www.city.asaka.lg.jp/soshiki/28/kitaasakaekinishiguchirotarigakawarimasu.html",
+        sourceTitle: "朝霞市 北朝霞駅西口ロータリーの工事案内",
+      },
+    ],
+    note: "委員会質疑、発議者、修正案と原案それぞれの表決、工事契約の議決、行政の公表を確認しました。工事の実際の着手と完成は確認中です。",
+  },
+  {
+    place: "入間市",
+    title: "新学校給食センターの運用を始め、既存棟の解体を審議",
+    topic: "学校給食・施設整備",
+    actors: ["吉田賢一", "古仲リカ", "安道佳子", "栗山英美", "長谷川渉", "永澤美恵子", "入間市議会", "入間市"],
+    steps: [
+      {
+        date: "2026-02-27", stage: "新たな学校給食センターが竣工", actor: "入間市",
+        detail: "市の施設案内に新久の新施設の竣工日が記載されている。",
+        url: "https://www.city.iruma.saitama.jp/soshiki/gakkokyushokuka/131/850.html",
+        sourceTitle: "入間市 学校給食センターの施設概要",
+      },
+      {
+        date: "2026-06-11", stage: "小中学校の給食の審議体制と運用を質す", actor: "吉田賢一、古仲リカ、安道佳子、栗山英美",
+        detail: "吉田議員は条例に小中学校の給食を加える理由を、古仲議員はアレルギー情報の共有を質した。安道議員は小学校の自校給食を審議してきた仕組みと統合理由を、栗山議員は委員構成の変更を確認した。",
+        url: "https://www3.city.iruma.saitama.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=1&SORT=0&KTYP=0,1,2,3&KGTP=3&FYY=2026&TYY=2026&TITL=%95%9F%8E%83%8B%B3%88%E7&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82U%8C%8E%95%9F%8E%83%8B%B3%88%E7%8F%ED%94C%88%CF%88%F5%89%EF%81%7C06%8C%8E11%93%FA-01%8D%86&HUID=244139&KGNO=522&FINO=1938&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+        sourceTitle: "入間市議会 ６月11日福祉教育常任委員会・発言順11～20",
+      },
+      {
+        date: "2026-06-24", stage: "施設の運営に関する改正条例案を可決", actor: "長谷川渉、入間市議会",
+        detail: "福祉教育常任委員長が、市立小中学校の給食を運営委員会で審議するために条例を改めることと、委員構成に関する質疑を報告した。本会議は議案第66号を原案可決した。",
+        url: "https://www3.city.iruma.saitama.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82U%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82Q%89%F1%81j%81%7C06%8C%8E24%93%FA-06%8D%86&HUID=245008&KGNO=519&FINO=1944&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+        sourceTitle: "入間市議会 ６月24日本会議録・福祉教育常任委員長報告", billNumber: "議案第66号",
+      },
+      {
+        date: "2026-09-02", stage: "新施設で給食の提供を開始", actor: "入間市",
+        detail: "市は新施設の給食開始日を９月２日と公表した。",
+        url: "https://www.city.iruma.saitama.jp/soshiki/gakkokyushokuka/131/850.html",
+        sourceTitle: "入間市 学校給食センターの給食開始日",
+      },
+      {
+        date: "2026-09-07", stage: "既存棟の解体方法と跡地利用を質す", actor: "永澤美恵子、入間市",
+        detail: "永澤議員は石綿対策と解体後の土地利用を質問した。市は事前分析70検体のうち25検体で石綿が確認されたことと、解体後は別工事で駐車場や緑地などを整備する方針を説明した。",
+        url: "https://www3.city.iruma.saitama.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%81@%82X%8C%8E%81@%92%E8%97%E1%89%EF%81i%91%E6%82R%89%F1%81j%81%7C09%8C%8E07%93%FA-02%8D%86&HUID=245198&KGNO=524&FINO=1947&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+        sourceTitle: "入間市議会 ９月７日本会議録・発言順13・17",
+      },
+      {
+        date: "2026-09-07", stage: "既存棟解体工事の契約案を可決", actor: "入間市議会",
+        detail: "市議会は学校給食センターの既存棟解体工事の請負契約案（議案第87号）を全員一致で原案可決した。",
+        url: "https://www3.city.iruma.saitama.jp/voices/g07_Giketsu_View.asp?SrchID=3320&Sflg=2&kword1=&kword2=",
+        sourceTitle: "入間市議会 議案第87号の公式議決結果", billNumber: "議案第87号",
+      },
+    ],
+    note: "新施設の給食開始と、既存棟を解体する議案の審議・可決を確認しました。解体と外構工事の完成は確認中です。",
+  },
+);

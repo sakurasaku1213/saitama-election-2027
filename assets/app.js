@@ -739,7 +739,9 @@
       : "";
     const note = b.voteNote ? `<p class="small">${esc(b.voteNote)}</p>` : "";
     const citation = esc(b.number || b.resultLocator || "");
-    return `<details class="entry"><summary><div><div class="meta">${tag(b.result)}<span>${esc(b.place)}議会</span>${dateTag(b.date)}<span>${citation}</span></div><p class="title">${esc(b.title)}</p></div></summary><div class="detail-body"><p>提出者　${named}</p>${scope}<ul class="ballots">${ballots.map(([name, position]) => `<li><span>${esc(name)}</span><b>${esc(position)}</b></li>`).join("")}</ul>${note}${!ballots.length && !note ? `<p class="small">個々の賛否はこの表に掲載していません。</p>` : ""}<div class="links">${sources}</div></div></details>`;
+    const supporters = b.proposalSupporters?.length
+      ? `<p class="small">議案書の賛成者　${b.proposalSupporters.map(esc).join("、")}</p>` : "";
+    return `<details class="entry"><summary><div><div class="meta">${tag(b.result)}<span>${esc(b.place)}議会</span>${dateTag(b.date)}<span>${citation}</span></div><p class="title">${esc(b.title)}</p></div></summary><div class="detail-body"><p>${esc(b.proposalRole || "提出者")}　${named}</p>${supporters}${scope}<ul class="ballots">${ballots.map(([name, position]) => `<li><span>${esc(name)}</span><b>${esc(position)}</b></li>`).join("")}</ul>${note}${!ballots.length && !note ? `<p class="small">個々の賛否はこの表に掲載していません。</p>` : ""}<div class="links">${sources}</div></div></details>`;
   }
   function voteResults() {
     const prefItems = voteRows.filter(
@@ -756,7 +758,7 @@
         filteredBody(b.place) &&
         matches("session", b.session) &&
         matches("season", b.season || eventSeason(b.date)) &&
-        includes([b.title, b.number, b.resultLocator, b.result, ...(b.names || [])]) &&
+        includes([b.title, b.number, b.resultLocator, b.result, ...(b.names || []), ...(b.proposalSupporters || [])]) &&
         (!state.split ||
           (Object.values(b.votes || {}).some((vote) => vote.includes("賛成")) &&
             Object.values(b.votes || {}).some((vote) => vote.includes("反対"))) ||
