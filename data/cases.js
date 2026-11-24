@@ -4134,3 +4134,204 @@ GIKAI.cases.push(...[
     "note": "本会議の賛否討論の趣旨、定期見直し周期の決定、改定後の実績は確認中です。"
   }
 ]);
+
+GIKAI.cases.push(...[
+  {
+    "place": "春日部市",
+    "title": "大沼陸上競技場の改修進捗を質し、リニューアル記念行事の開催を確認",
+    "topic": "スポーツ施設・改修",
+    "actors": [
+      "春日部市",
+      "伊藤一洋"
+    ],
+    "steps": [
+      {
+        "date": "2025-04",
+        "stage": "陸上競技場の本格改修に着手",
+        "actor": "春日部市",
+        "detail": "市の施設案内によると、老朽化に伴うグラウンド状態や安全面の課題に対応するため、本格改修に着手した。",
+        "url": "https://www.city.kasukabe.lg.jp/benrinavi/shisetsuannai/categorykarasagasu/6/38035.html",
+        "sourceTitle": "春日部市 競技場改修と利用案内"
+      },
+      {
+        "date": "2026-09-09",
+        "stage": "改修内容と工事進捗、オープン日程を質す",
+        "actor": "伊藤一洋",
+        "detail": "市はトラックを全天候型舗装にし、インフィールドを人工芝にすること、駐車場等の工事を進めていることを説明した。９月末までの工事完了、10月25日の記念式典と翌日からの無料体験を予定すると答えた。",
+        "url": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Koho/Kh95_85all.pdf#page=8",
+        "sourceTitle": "かすかべ議会だより第85号・８頁",
+        "archiveId": "8f08e15bc3cfe988449d",
+        "blocks": [
+          7
+        ],
+        "memberActions": [
+          {
+            "name": "伊藤一洋",
+            "blocks": [
+              7
+            ],
+            "detail": "競技場改修の内容、進捗、リニューアルオープンまでの日程を確認した。"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-25",
+        "stage": "改修を記念した式典と市民参加イベントを開催",
+        "actor": "春日部市",
+        "detail": "市の翌日発表によると、記念式典、テープカット、サッカー・陸上教室などを実施した。市の施設案内では一般利用は令和９年１月開始予定。",
+        "url": "https://www.city.kasukabe.lg.jp/material/files/group/2/20261026_oonuma.pdf",
+        "sourceTitle": "10月26日 市の開催報告"
+      }
+    ],
+    "note": "改修内容と記念行事の開催を確認しました。無料体験や一般利用の実績は確認中です。"
+  },
+  {
+    "place": "春日部市",
+    "title": "高齢者向け配食の停止と再開の経緯を確認し、再発防止を質す",
+    "topic": "高齢者福祉・配食",
+    "actors": [
+      "春日部市",
+      "古沢耕作"
+    ],
+    "steps": [
+      {
+        "date": "2026-06-22",
+        "stage": "事業所閉鎖の連絡を確認し、利用者に連絡",
+        "actor": "春日部市",
+        "detail": "９月の答弁によると、市は受託事業者が６月20日で事業所を閉鎖するとのメールを21日に受け、22日に確認して、約480人の利用者に連絡した。",
+        "url": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Koho/Kh95_85all.pdf#page=14",
+        "sourceTitle": "かすかべ議会だより第85号・14頁の市答弁"
+      },
+      {
+        "date": "2026-07-01",
+        "stage": "新たな事業者により配食サービスを再開",
+        "actor": "春日部市",
+        "detail": "市長は７月２日の会見で、７月１日から配食を再開したと説明した。",
+        "url": "https://www.city.kasukabe.lg.jp/shiseijoho/koho/kishakaiken/37516.html",
+        "sourceTitle": "春日部市７月定例記者会見"
+      },
+      {
+        "date": "2026-08-07",
+        "stage": "配食と安否確認の利用方法を案内",
+        "actor": "春日部市",
+        "detail": "市は１食400円の自己負担、週６食までの選択、手渡しによる安否確認、申請方法を案内した。日付は利用案内の更新日。",
+        "url": "https://www.city.kasukabe.lg.jp/soshikikarasagasu/koreishashienka/gyomuannai/1/3/4609.html",
+        "sourceTitle": "春日部市 配食サービス利用案内"
+      },
+      {
+        "date": "2026-09-16",
+        "stage": "突然の停止、委託先選定と再発防止を質す",
+        "actor": "古沢耕作",
+        "detail": "停止から再開までの経緯、委託先の選定と再発防止策を尋ねた。市は選定後の利用者の苦情に指導した経緯を説明し、複数業者との契約など他市の事例を参考にすると答えた。",
+        "url": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Koho/Kh95_85all.pdf#page=14",
+        "sourceTitle": "かすかべ議会だより第85号・14頁",
+        "archiveId": "8f08e15bc3cfe988449d",
+        "blocks": [
+          24
+        ],
+        "memberActions": [
+          {
+            "name": "古沢耕作",
+            "blocks": [
+              24
+            ],
+            "detail": "配食の停止・再開までの対応を尋ね、委託先選定と再発防止を質した。"
+          }
+        ]
+      }
+    ],
+    "note": "配食の再開と、市が検討するリスク分散策を収録しました。複数契約への変更の実施は確認中です。"
+  },
+  {
+    "place": "春日部市",
+    "title": "北春日部駅周辺の区画整理の推進を質し、助成条例改正を可決",
+    "topic": "まちづくり・区画整理",
+    "actors": [
+      "春日部市",
+      "春日部市議会",
+      "阿部雅一"
+    ],
+    "steps": [
+      {
+        "date": "2026-07-15",
+        "stage": "区画整理事業計画の第１回変更認可",
+        "actor": "認可主体未確認",
+        "detail": "市の地区概要に事業計画の第１回変更認可の日付が掲載されている。認可主体は当該資料では確認できない。",
+        "url": "https://www.city.kasukabe.lg.jp/jigyoshamuke/tochi/kukakuseirijigyo/2/34644.html",
+        "sourceTitle": "春日部市 北春日部駅周辺地区の概要"
+      },
+      {
+        "date": "2026-09-16",
+        "stage": "助成条例改正案を踏まえ、事業の進め方を質す",
+        "actor": "阿部雅一",
+        "detail": "物価高や事業者変更などを経て条例改正案が上程されたことを挙げ、事業の重要性と今後の進め方を尋ねた。市は組合と連携し支援すると答えた。",
+        "url": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Koho/Kh95_85all.pdf#page=14",
+        "sourceTitle": "かすかべ議会だより第85号・14頁",
+        "archiveId": "8f08e15bc3cfe988449d",
+        "blocks": [
+          26
+        ],
+        "memberActions": [
+          {
+            "name": "阿部雅一",
+            "blocks": [
+              26
+            ],
+            "detail": "助成条例改正案と事業経過を踏まえ、事業完成に向けた市の進め方を尋ねた。"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-18",
+        "stage": "助成対象と費用区分を改める条例改正案を可決",
+        "actor": "春日部市議会",
+        "detail": "議案第74号を原案可決。紙面では、助成対象の道路を歩行者専用道路から自転車歩行者専用道路へ改め、雨水流出抑制施設は用地費相当額・補償費を２分の１以内、築造費を10分の１以内と説明した。",
+        "url": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Koho/Kh95_85all.pdf#page=4",
+        "sourceTitle": "議会だより第85号・４頁、公式採決状況",
+        "billNumber": "議案第74号"
+      }
+    ],
+    "note": "事業計画変更の認可、議員の質問、助成条例改正の議決を確認しました。助成金の支給額や工事完了は確認中です。"
+  },
+  {
+    "place": "春日部市",
+    "title": "春日部駅の高架化と関連道路の進捗を質し、補正予算案の説明まで追う",
+    "topic": "鉄道高架化・都市道路",
+    "actors": [
+      "春日部市",
+      "大里昇"
+    ],
+    "steps": [
+      {
+        "date": "2026-09-11",
+        "stage": "高架事業と関連道路の用地取得状況を質す",
+        "actor": "大里昇",
+        "detail": "市は８月末時点の高架事業の用地買収率を95％、袋陣屋線を67％と答えた。駅東西連絡道路の未整備区間では１月に事業認可を取得し、取得に向けた不動産鑑定や物件調査の委託を進めているとした。",
+        "url": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Koho/Kh95_85all.pdf#page=11",
+        "sourceTitle": "かすかべ議会だより第85号・11頁",
+        "archiveId": "8f08e15bc3cfe988449d",
+        "blocks": [
+          16
+        ],
+        "memberActions": [
+          {
+            "name": "大里昇",
+            "blocks": [
+              16
+            ],
+            "detail": "高架事業と周辺道路の用地取得などの進捗、中心市街地への効果を尋ねた。"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-24",
+        "stage": "12月定例会に向け、関連道路の補正予算案を説明",
+        "actor": "春日部市",
+        "detail": "市は中央通り線整備事業の工事前倒しに伴う１億423万7千円の増額と、駅東西連絡道路の用地購入費・補償金が当初見込みを下回ったことによる３億62万１千円の減額を説明した。",
+        "url": "https://www.city.kasukabe.lg.jp/shiseijoho/koho/kishakaiken/39338.html",
+        "sourceTitle": "春日部市11月定例記者会見"
+      }
+    ],
+    "note": "予算額は市が説明した12月定例会に向けた案です。補正予算案の議決と道路・高架事業の完成は確認中です。"
+  }
+]);
