@@ -232,6 +232,7 @@ for (const row of coverage.sessions) {
 }
 assert.equal(coverageSlots.size, allBodies.size * seasons.size);
 const councilReviews = new Map();
+const archivedQuestionDocs = new Map(data.questionText.documents.map((doc) => [doc.id, doc]));
 let councilReviewAppearances = 0;
 let councilReviewIssues = 0;
 let councilReviewActions = 0;
@@ -246,9 +247,11 @@ for (const comparison of data.councilPolicyReviews) {
   assert.ok(allBodies.has(comparison.place) && !councilReviews.has(comparison.place), comparison.place);
   councilReviews.set(comparison.place, comparison);
   validDay(comparison.through);
+  const followThrough = comparison.followThrough || comparison.through;
+  validDay(followThrough);
   validDay(comparison.checked);
   validLink(comparison.indexURL);
-  assert.ok(comparison.note && comparison.through <= comparison.checked);
+  assert.ok(comparison.note && comparison.through <= followThrough && followThrough <= comparison.checked);
   const appearances = new Map();
   for (const item of comparison.appearances) {
     assert.ok(!appearances.has(item.id) && item.name, item.id);
@@ -271,7 +274,7 @@ for (const comparison of data.councilPolicyReviews) {
         item.place === comparison.place && item.title === issue.caseTitle);
       assert.ok(related?.actors.includes(issue.name), issue.id);
     }
-    assert.equal(issue.followUp === "confirmed", Boolean(issue.actions?.length), issue.id);
+    assert.equal(issue.followUp === "confirmed", Boolean(issue.actions?.some((event) => !event.repeatedRequest)), issue.id);
     const references = new Set();
     for (const item of issue.items) {
       const source = appearances.get(item.sourceId);
@@ -296,18 +299,30 @@ for (const comparison of data.councilPolicyReviews) {
         validLink(event.url);
         validBlocks(event);
         assert.ok(event.stage && event.actor && event.detail && event.sourceTitle, issue.id);
-        assert.ok(event.date >= lastDate && event.date <= comparison.through, issue.id);
+        assert.ok(event.date >= lastDate && event.date <= (event.archiveId ? followThrough : comparison.through), issue.id);
+        if (event.archiveId) {
+          const doc = archivedQuestionDocs.get(event.archiveId);
+          assert.ok(doc?.scope === "minutes" && doc.place === comparison.place, issue.id);
+          assert.equal(event.url, doc.url);
+          assert.equal(event.date, doc.date);
+        }
         lastDate = event.date;
       }
     }
     for (const event of issue.actions || []) {
-      const source = appearances.get(event.sourceId);
-      assert.ok(source && references.has(source.id), issue.id);
       assert.equal(event.actor, issue.name);
-      assert.equal(event.url, source.url);
-      assert.equal(event.date, source.date);
-      assert.ok(issue.items.some((item) => item.date < event.date && item.season !== source.season));
-      councilReviewActions++;
+      if (event.repeatedRequest !== undefined) assert.equal(event.repeatedRequest, true, issue.id);
+      if (event.archiveId) {
+        assert.ok(!event.sourceId && archivedQuestionDocs.get(event.archiveId).speakers.includes(issue.name), issue.id);
+        assert.ok(issue.items.some((item) => item.date < event.date), issue.id);
+      } else {
+        const source = appearances.get(event.sourceId);
+        assert.ok(source && references.has(source.id), issue.id);
+        assert.equal(event.url, source.url);
+        assert.equal(event.date, source.date);
+        assert.ok(issue.items.some((item) => item.date < event.date && item.season !== source.season));
+      }
+      if (!event.repeatedRequest) councilReviewActions++;
     }
   }
   assert.equal(reached.size, appearances.size, comparison.place + " missing listed questions");

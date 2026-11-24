@@ -3242,6 +3242,34 @@ GIKAI.questionText = {
       "speakers": []
     },
     {
+      "id": "54d7d8cd3d6ce95a523c",
+      "place": "上里町",
+      "season": "summer",
+      "date": "2026-06-04",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "沓澤幸子議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/speech.html?council_id=45&schedule_id=1&playlist_id=2&speaker_id=11&target_year=2026",
+      "speakers": [
+        "沓澤幸子"
+      ]
+    },
+    {
+      "id": "74c20bf9632438dea707",
+      "place": "上里町",
+      "season": "summer",
+      "date": "2026-06-04",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "赤沼泰成議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/speech.html?council_id=45&schedule_id=1&playlist_id=3&speaker_id=21&target_year=2026",
+      "speakers": [
+        "赤沼泰成"
+      ]
+    },
+    {
       "id": "da2f6596b60bdc124830",
       "place": "上里町",
       "season": "fall",
@@ -23473,6 +23501,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "cba60ecc04b4b3379ed9",
+      "place": "日高市",
+      "season": "fall",
+      "date": "2026-09-08",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "新井均議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/hidaka/WebView/rd/speech.html?council_id=54&schedule_id=3&playlist_id=4&speaker_id=28&target_year=2026",
+      "speakers": [
+        "新井均"
+      ]
+    },
+    {
       "id": "ad0725894610e3f592e2",
       "place": "日高市",
       "season": "fall",
@@ -29129,6 +29171,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "403f186beba0aad6cafb",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-18",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "本田てい子議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Video_View.asp?SrchID=2386",
+      "speakers": [
+        "本田てい子"
+      ]
+    },
+    {
       "id": "b68d800e542c56cefb42",
       "place": "蕨市",
       "season": "fall",
@@ -31999,7 +32055,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://warabi.gijiroku.com/gikai/g07_Video_Search.asp",
-        "note": "公式録画一覧の一般質問15人のうち、11人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
+        "note": "公式録画一覧の一般質問15人のうち、12人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
       }
     },
     {
@@ -32450,7 +32506,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/hidaka/WebView/rd/council.html?year=2026&council_id=54",
-        "note": "公式録画一覧の一般質問12人のうち、3人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
+        "note": "公式録画一覧の一般質問12人のうち、4人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
       }
     },
     {
@@ -33013,8 +33069,8 @@ GIKAI.questionText = {
       "season": "summer",
       "material": {
         "state": "partial",
-        "note": "議会だよりの質問・答弁要旨を収録。町議会の録画一覧で本会議４日、一般質問10人を確認。",
-        "indexURL": "https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/council.html?year=2026&council_id=45"
+        "indexURL": "https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/council.html?year=2026&council_id=45",
+        "note": "公式録画一覧の一般質問10人のうち、2人の映像音声を機械文字起こしとして収録。正式会議録は確認中。議会だよりの質問・答弁要旨も収録。"
       }
     },
     {

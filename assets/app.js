@@ -478,15 +478,18 @@
     incomplete: "追跡資料が不足",
     open: "追跡期間中",
   };
-  function archivedMinutes(place, day) {
+  function archivedMinutes(place, day, archiveId, blocks) {
     if (!place || !get("question-text-bodies")) return "";
-    const archive = D.questionText.documents.find((doc) => doc.place === place && doc.date === day && doc.scope !== "notice");
-    return archive ? "　" + jump("texts", { place, season: archive.season, q: day }, "収録本文") : "";
+    const archive = D.questionText.documents.find((doc) =>
+      archiveId ? doc.id === archiveId : doc.place === place && doc.date === day && doc.scope !== "notice");
+    return archive ? "　" + jump("texts", {
+      place, season: archive.season, ...(archiveId ? { doc: archive.id, blocks: blocks?.join(",") } : { q: day }),
+    }, "収録本文") : "";
   }
   function reviewEvent(event, place) {
-    return `<li>${dateTag(event.date)} ${tag(event.stage)}
+    return `<li>${dateTag(event.date)} ${tag(event.stage)}${event.repeatedRequest ? ` ${tag("同じ要望の再提示")}` : ""}
       <strong>${esc(event.actor)}</strong><p>${esc(event.detail)}</p>
-      <p class="small">${link(event.url, event.sourceTitle)}${event.locator ? `　${esc(event.locator)}` : ""}${archivedMinutes(place, event.date)}</p></li>`;
+      <p class="small">${link(event.url, event.sourceTitle)}${event.locator ? `　${esc(event.locator)}` : ""}${archivedMinutes(place, event.date, event.archiveId, event.blocks)}</p></li>`;
   }
   function policyIssue(issue, place) {
     const original = reviewQuestions.get(issue.items[0].url) || issue.items[0];
@@ -523,7 +526,7 @@
       samePerson(issue) && issue.items.some(inPeriod),
     );
     const periodLabel = full ? "春・初夏・秋の３会期" : seasons2026.find(([key]) => key === period)?.[1];
-    const heading = `<h4>政策実現力をみる</h4><p class="small">2026年${esc(periodLabel)}の一般質問。３会期内の経過は${dateTag(comparison.through)}まで。</p>`;
+    const heading = `<h4>政策実現力をみる</h4><p class="small">2026年${esc(periodLabel)}の一般質問。議会での後続行動は${dateTag(comparison.followThrough || comparison.through)}までの資料から収録。</p>`;
     if (!appearances.length) {
       return `<section class="policy-review">${heading}<p>この範囲の公式一般質問者一覧に、本人の掲載回はありません。</p>
         <p class="small">${link(comparison.indexURL, "公式一般質問者一覧")}</p></section>`;
@@ -966,17 +969,29 @@
   function questionTextResults() {
     const query = terms();
     const hits = D.questionText.documents.filter((d) =>
-      filteredBody(d.place) && matches("season", d.season) &&
+      matches("doc", d.id) && filteredBody(d.place) && matches("season", d.season) &&
       matches("documentType", d.kind) && includes([d.place, d.title, d.date, d.kind, ...d.speakers], query),
     );
     const selected = state.place ? coveragePanel(state.place, state.season) : "";
-    const open = hits.length === 1 && state.q === hits[0].date;
+    const open = hits.length === 1 && (state.doc === hits[0].id || state.q === hits[0].date);
     results(
       selected + (hits.length ? partial(hits, (entry) => questionTextCard(entry, open)) :
         noResult("該当する本文は現在の資料一覧にありません。議会を選ぶと公式資料と収録状況を確認できます。")),
       `該当する資料 ${count(hits.length)}件`,
     );
     if (open) renderQuestionBody(get("results").querySelector(".question-document"));
+  }
+  function questionBodyBlock([caption, message], locator) {
+    const block = document.createElement("section");
+    if (locator || caption) {
+      const label = document.createElement("h5");
+      label.textContent = locator || caption;
+      block.append(label);
+    }
+    const body = document.createElement("p");
+    body.textContent = message;
+    block.append(body);
+    return block;
   }
   function renderQuestionBody(card) {
     if (!card.open) return;
@@ -988,17 +1003,20 @@
     const heading = document.createElement("h4");
     heading.textContent = "資料本文";
     column.append(heading);
-    for (const [caption, message] of stored) {
-      const block = document.createElement("section");
-      if (caption) {
-        const label = document.createElement("h5");
-        label.textContent = caption;
-        block.append(label);
-      }
-      const body = document.createElement("p");
-      body.textContent = message;
-      block.append(body);
-      column.append(block);
+    const positions = state.doc === card.dataset.questionId
+      ? [...new Set((state.blocks || "").split(",").map(Number))].filter((n) =>
+        Number.isInteger(n) && n > 0 && n <= stored.length)
+      : [];
+    if (positions.length) {
+      const full = document.createElement("details");
+      const summary = document.createElement("summary");
+      summary.textContent = "会議録の全本文を読む";
+      full.append(summary);
+      for (const position of positions) column.append(questionBodyBlock(stored[position - 1], `会議録の発言順 ${position}`));
+      for (const block of stored) full.append(questionBodyBlock(block));
+      column.append(full);
+    } else {
+      for (const block of stored) column.append(questionBodyBlock(block));
     }
     target.append(column);
   }
@@ -1121,6 +1139,10 @@
     true,
   );
   function searchInput(field) {
+    if (page === "texts") {
+      delete state.doc;
+      delete state.blocks;
+    }
     setState("q", field.value);
     get("controls")
       .querySelectorAll("[data-topic]")
@@ -1146,6 +1168,10 @@
   get("controls").addEventListener("change", (e) => {
     const k = e.target.dataset.filter;
     if (!k || k === "q") return;
+    if (page === "texts") {
+      delete state.doc;
+      delete state.blocks;
+    }
     if (k === "place" && page === "votes") delete state.session;
     if (k === "place" && page === "people") {
       delete state.group;

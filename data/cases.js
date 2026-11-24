@@ -180,6 +180,102 @@ GIKAI.cases.push(
   },
 );
 
+GIKAI.cases.push(
+  {
+    place: "川越市",
+    title: "こどもの性暴力防止に向け、児童福祉施設の基準を改正",
+    topic: "子どもの安全・保育",
+    actors: ["伊藤正子", "加藤みなこ", "小林透", "川越市議会", "川越市"],
+    steps: [
+      {
+        date: "2026-06-12", stage: "市の制度準備と庁内連携を確認", actor: "伊藤正子",
+        detail: "一般質問で、法律の施行に向けた対象職員の確認と、教育・保育等の担当部署が連携して準備する必要性を取り上げた。",
+        url: "https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r08-0612_004",
+        sourceTitle: "川越市議会 ６月12日一般質問",
+      },
+      {
+        date: "2026-09-18", stage: "保健福祉常任委員会で第75号議案を審査", actor: "伊藤正子、加藤みなこ、小林透",
+        detail: "伊藤議員は現職者への確認、職員の負担と準備日程を質した。加藤議員は民間事業者の認定費用への補助の検討を求め、小林議員は現場ごとに従事者の対象判定がばらつく可能性を確認した。",
+        url: "https://www.city.kawagoe.saitama.dbsr.jp/313030?Template=document&Id=4318#all",
+        sourceTitle: "川越市議会 保健福祉常任委員会・発言順197～214",
+      },
+      {
+        date: "2026-09-29", stage: "児童福祉施設等の基準を改正する条例案を可決", actor: "川越市議会",
+        detail: "児童福祉施設の設備・運営基準等を改正する議案第75号を原案可決した。市は公布条例一覧で条例第32号を公表している。",
+        url: "https://www.city.kawagoe.saitama.jp/shigikai/shingi/1007573.html",
+        sourceTitle: "川越市議会 ９月定例会の議決結果", billNumber: "議案第75号",
+      },
+      {
+        date: "2026-09-29", stage: "条例第32号を市の公布一覧に掲載", actor: "川越市",
+        detail: "市の公布ページに児童福祉施設の設備・運営基準等の改正条例を掲示した。",
+        url: "https://www.city.kawagoe.saitama.jp/shisei/jyorei/1020492/1020493/1020502/1022962.html",
+        sourceTitle: "川越市 条例第32号の掲載ページ",
+      },
+    ],
+    note: "議員の質疑、条例の可決と公表まで確認しました。対象従事者への確認が始まった時期や実施人数は確認中です。",
+  },
+  {
+    place: "川越市",
+    title: "川崎調整池の稼働と完成後の維持管理を確認",
+    topic: "内水対策・河川管理",
+    actors: ["今野英子", "川越市", "ふじみ野市"],
+    steps: [
+      {
+        date: "2026-06-15", stage: "台風時の調整池と排水ポンプ車の状況を確認", actor: "今野英子、川越市",
+        detail: "今野議員は、高階地区の台風対策として川崎調整池と排水ポンプ車がどう使われたかを質問した。市は調整池の稼働水位に達せず、ポンプ車は配備して待機したと説明した。",
+        url: "https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r08-0615_002",
+        sourceTitle: "川越市議会 ６月15日一般質問と答弁",
+      },
+      {
+        date: "2026-09-17", stage: "施設の完成を報告し、維持管理の協議を説明", actor: "川越市",
+        detail: "川崎調整池と雨水ポンプ場が３月に完成したことと、完成後の費用分担や維持管理についてふじみ野市と協議していることを委員会で報告した。",
+        url: "https://www.city.kawagoe.saitama.dbsr.jp/114095?Template=document&Id=4317#all",
+        sourceTitle: "川越市議会 産業建設常任委員会・発言順９",
+      },
+      {
+        date: "2026-09-17", stage: "委員会で住民への影響と費用分担を確認", actor: "今野英子",
+        detail: "川越江川を公共下水道に移行したことの住民への影響と維持管理費の見通しを質し、ふじみ野市との協議と維持管理の継続を求めた。",
+        url: "https://www.city.kawagoe.saitama.dbsr.jp/114095?Template=document&Id=4317#all",
+        sourceTitle: "川越市議会 産業建設常任委員会・発言順10～14",
+      },
+    ],
+    note: "施設の完成は一般質問より前です。委員会で示された維持管理の覚書の締結日と最終的な費用分担は確認中です。",
+  },
+  {
+    place: "川越市",
+    title: "事業者向けの物価高対策を質し、運送支援の受付へ",
+    topic: "物価高対策・事業者支援",
+    actors: ["川口知子", "川越市議会", "川越市"],
+    steps: [
+      {
+        date: "2026-06-15", stage: "物価高の影響と事業者支援を質問", actor: "川口知子",
+        detail: "資材価格の高騰や調達難を取り上げ、借換えや無担保融資の検討、国の交付金を活用した事業者支援を求めた。",
+        url: "https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r08-0615_004",
+        sourceTitle: "川越市議会 ６月15日一般質問",
+      },
+      {
+        date: "2026-09-04", stage: "補正予算質疑で運送事業者向け支援等を検証", actor: "川口知子、川越市",
+        detail: "川口議員は運送事業者向け支援金の効果や申請方法を質した。市は対象車両に応じて交付し、既存の支援や制度融資と重複して申請できると説明した。",
+        url: "https://www.city.kawagoe.saitama.dbsr.jp/407877?Template=document&Id=4309#all",
+        sourceTitle: "川越市議会 ９月４日議案質疑・発言順94・106・109・112",
+      },
+      {
+        date: "2026-09-29", stage: "支援を含む９月補正予算を可決", actor: "川越市議会",
+        detail: "運送事業者向けの事業継続支援を盛り込んだ一般会計補正予算案（議案第84号）を原案可決した。",
+        url: "https://www.city.kawagoe.saitama.jp/shigikai/shingi/1007573.html",
+        sourceTitle: "川越市議会 ９月定例会の議決結果", billNumber: "議案第84号",
+      },
+      {
+        date: "2026-11-02", stage: "運送事業者向け支援金の申請受付を開始", actor: "川越市",
+        detail: "対象車両１台につき、事業用貨物自動車は１万8,000円、事業用貨物軽自動車は6,000円とし、電子・郵送・窓口で申請を受け付けた。",
+        url: "https://www.city.kawagoe.saitama.jp/sangyo/sangyo/1012082/1014755/1023055.html",
+        sourceTitle: "川越市 運送事業者事業継続支援金の案内",
+      },
+    ],
+    note: "議員の質疑、市議会の予算可決、行政の申請受付を確認しました。交付件数や事業継続への効果は確認中です。",
+  },
+);
+
 const konosuBudgetDebate = "https://ssp.kaigiroku.net/tenant/kounosu/SpMinuteView.html?tenant_id=85&council_id=433&schedule_id=3";
 GIKAI.cases.push(
   {

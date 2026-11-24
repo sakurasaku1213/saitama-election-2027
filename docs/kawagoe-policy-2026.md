@@ -14,7 +14,7 @@
 ## 比較画面で読める記録
 
 - 93掲載回から307論点を収録しました。収録した論点には、日付、質問者、尋ねた内容、行政の答弁の段階、会議録URLと発言順を付けています。「会議録の発言順」は保存した当日の会議録で議事順序などの冒頭項目から数えた番号です。
-- 同じ論点で後日の検証、財源の具体化、聞き取りや現地確認の報告を確認したものは４論点です。日をまたいだ同じ一般質問と、その場の再質問はこの件数から除いています。
+- 本人の別日の後続行動を15論点・15記録で確認しました。一般質問どうしの照合に加え、議案質疑、常任委員会、決算討論を確認対象にしました。日をまたいだ同じ一般質問、その場の再質問、別日の同じ要望の再提示はこの件数から除いています。
 - 答弁には現況、検討、予定、実施を記録します。施設整備などの実施を市が報告した場合は行政の欄に表示します。本人が会議録で説明した聞き取りや現地確認は、本人による報告であることを明記します。
 
 ### 質問の内訳
@@ -32,7 +32,16 @@
 | ひきこもりの本人・家族の相談と居場所 | [3月9日](https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r08-0309_005) | [9月14日。支援団体等での聞き取りを報告し、保健所と地域の役割を確認](https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r08-0914_001) |
 | 山車修繕基金 | [3月5日](https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r08-0305_005) | [6月12日。３年間の決算不用額を確認し、基金への充当を提案](https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=document&QueryType=new&VoiceExpand1=r08-0612_006) |
 
-９月14日までの３会期の一般質問が比較の対象です。委員会・議案・事業文書、会期後の経過、会議録に現れない行動の確認は残っています。画面では追跡資料が不足している論点を表示します。
+上の４論点は一般質問どうしの照合で確認しました。今回、３会期中の常任委員会16会議と一般質問日以外の本会議12日分を検索し、別日の本人の発言を原文で照合した結果を15記録追加しました。このうち、委員会や決算討論で同じ要望を再提示した４記録は経過欄に掲載しました。１回の発言で異なる施策を取り上げた場合は、該当する論点ごとに記録しています。
+
+| 論点 | 追加した後続行動 |
+|---|---|
+| 山車修繕基金 | 小林薫議員が３月18日に文化財未指定の山車への支援を求めた。[文化教育常任委員会](https://www.city.kawagoe.saitama.dbsr.jp/244788?Template=document&Id=4282#all) |
+| かわまるの乗降場・予約・増車 | 小ノ澤哲也議員が３月17日に自治会長への周知を求め、９月17日に令和７年度の予約不成立件数を確認して増車の検討を求めた。[３月17日の産業建設常任委員会](https://www.city.kawagoe.saitama.dbsr.jp/114095?Template=document&Id=4281#all)・[９月17日の産業建設常任委員会](https://www.city.kawagoe.saitama.dbsr.jp/114095?Template=document&Id=4317#all) |
+| 校内学習室、川崎調整池 | 川口知子議員が保護者への周知と校内学習室の支援拡充を求めた。今野英子議員は川越江川の維持管理と両市の費用分担を質した。[９月16日の文化教育常任委員会](https://www.city.kawagoe.saitama.dbsr.jp/244788?Template=document&Id=4314#all)・[９月17日の産業建設常任委員会](https://www.city.kawagoe.saitama.dbsr.jp/114095?Template=document&Id=4317#all) |
+| 法定外税、こどもの性暴力防止、物価高への事業者支援 | 粂真美子議員が新税の検討範囲を質し、伊藤正子議員が制度導入の準備と事務負担を確認し、川口知子議員が運送事業者向けの支援と既存支援との併用を質した。[９月３日本会議](https://www.city.kawagoe.saitama.dbsr.jp/407877?Template=document&Id=4308#all)・[９月18日の保健福祉常任委員会](https://www.city.kawagoe.saitama.dbsr.jp/313030?Template=document&Id=4318#all)・[９月４日本会議](https://www.city.kawagoe.saitama.dbsr.jp/407877?Template=document&Id=4309#all) |
+
+比較の起点となる一般質問は９月14日まで、今回の議会での後続行動は９月29日までです。個別の政策事例には会期後の経過も掲載します。他の論点についても、委員会や事業資料を引き続き照合します。
 
 「取り組みの経過」には、先に資料がそろった中学校の部活動の地域展開を掲載しました。一般質問のほか、８月付の補正予算資料、９月の補正予算可決、10月１日時点の認定団体数を確認できます。[９月補正予算のポイント3頁](https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/021/702/point8-02.pdf#page=3)・[議決結果](https://www.city.kawagoe.saitama.jp/shigikai/shingi/1007573.html)・[地域クラブ活動の公表資料](https://www.city.kawagoe.saitama.jp/kurashi/bunka/1003407/1022958.html)
 
@@ -47,7 +56,11 @@
 - **法定外税の検討**。６月に観光財源として取り上げた粂真美子が、９月３日に委員会設置条例案の検討範囲を質した。９月29日に設置条例が可決され、公布・施行された。課税の開始日は確認中。[議決結果](https://www.city.kawagoe.saitama.jp/shigikai/shingi/1007573.html)・[公布条例](https://www.city.kawagoe.saitama.jp/shisei/jyorei/1020492/1020493/1020502/1022993.html)
 - **かわまるの予約難**。８月と10月に交通政策審議会が取り上げた。10月には高齢者の調査結果を福祉部局と共有したと事務局が説明した。追加車両の決定・運行開始は確認中。[８月の会議要旨](https://www.city.kawagoe.saitama.jp/shisei/seisaku/1008588/1008763/1008902/1008912/1022953.html)・[10月の会議要旨](https://www.city.kawagoe.saitama.jp/shisei/seisaku/1008588/1008763/1008902/1008912/1023214.html)
 
-比較欄の「後続行動を確認」の件数は、３会期の一般質問を相互に照合した４論点です。議案質疑で確認した本人の後続活動と、行政の実施や委員会の審議は、それぞれの事例で資料と発言者を確認できます。
+- **こどもの性暴力防止制度**。保健福祉常任委員会で対象者の確認と運用準備を審査し、本会議が児童福祉施設等の基準を改める条例案を可決した。[９月定例会の議決結果](https://www.city.kawagoe.saitama.jp/shigikai/shingi/1007573.html)・[条例第32号](https://www.city.kawagoe.saitama.jp/shisei/jyorei/1020492/1020493/1020502/1022962.html)
+- **川崎調整池と川越江川**。完成後の調整池の稼働状況を６月に質問し、９月には維持管理と両市の費用分担の協議を委員会で確認した。覚書の締結日は確認中。[９月17日の産業建設常任委員会](https://www.city.kawagoe.saitama.dbsr.jp/114095?Template=document&Id=4317#all)
+- **運送事業者の物価高対策**。事業者支援に関する一般質問、補正予算の質疑と可決、11月２日の申請受付までを収録した。交付件数と事業継続への効果は確認中。[９月補正予算](https://www.city.kawagoe.saitama.jp/shisei/zaisei/1010980/1010990/1019982/1021702.html)・[運送事業者事業継続支援金](https://www.city.kawagoe.saitama.jp/sangyo/sangyo/1012082/1014755/1023055.html)
+
+比較欄では、議員本人の発言と行政の対応にそれぞれ出典を付けています。本文付きHTMLの「収録本文」から委員会等の該当発言を先に表示し、同じ画面で当日の全本文も開けます。
 
 ## 議決と会派等の表決
 

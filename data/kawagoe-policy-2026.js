@@ -4,7 +4,7 @@ GIKAI.councilPolicyReviews = [
     "checked": "2026-11-24",
     "through": "2026-09-14",
     "indexURL": "https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=search-question",
-    "note": "公式一覧の春32回、初夏30回、秋31回を照合。発言が翌日に続く場合も掲載回は公式一覧どおりに数えます。後続行動は３会期の一般質問で確認できたものです。委員会等の裏付けが残る論点は追跡資料不足と表示します。",
+    "note": "公式一覧の春32回、初夏30回、秋31回を照合。発言が翌日に続く場合も掲載回は公式一覧どおりに数えます。後続行動は一般質問・議案質疑・委員会・討論の会議録で確認した範囲を表示します。",
     "appearances": [
       {
         "id": "r08-0305_001",
@@ -1260,6 +1260,20 @@ GIKAI.councilPolicyReviews = [
         ],
         "actions": [
           {
+            "date": "2026-03-18",
+            "actor": "小林薫",
+            "stage": "委員会で修繕基金を求める",
+            "detail": "文化財の指定を受けていない山車にも支援が届くよう、山車の修繕基金の設置を改めて求めた。",
+            "url": "https://www.city.kawagoe.saitama.dbsr.jp/244788?Template=document&Id=4282#all",
+            "sourceTitle": "川越市議会 文化教育常任委員会会議録",
+            "locator": "会議録の発言順 209",
+            "archiveId": "b83a80b11f4f0562c7ee",
+            "blocks": [
+              209
+            ],
+            "repeatedRequest": true
+          },
+          {
             "date": "2026-06-12",
             "actor": "小林薫",
             "stage": "後日の財源確認",
@@ -1275,7 +1289,7 @@ GIKAI.councilPolicyReviews = [
           }
         ],
         "followUp": "confirmed",
-        "followUpNote": "会議録に記された本人の行動です。行政の対応は別欄に表示します。"
+        "followUpNote": "本人による別日の発言を会議録で確認。"
       },
       {
         "id": "kwg-2026-015",
@@ -2390,10 +2404,39 @@ GIKAI.councilPolicyReviews = [
             ],
             "stage": "決定・公表済み",
             "detail": "平日昼間6便未満のシャトル停留所300m圏を対象化。2月25日市サイト掲載"
+          },
+          {
+            "date": "2026-03-17",
+            "actor": "交通政策課長",
+            "stage": "周知方法を調整中",
+            "detail": "名細で自治会長等への周知を行ったと説明し、同様の方法を他の地域に用いることを案の一つに挙げた。",
+            "url": "https://www.city.kawagoe.saitama.dbsr.jp/114095?Template=document&Id=4281#all",
+            "sourceTitle": "川越市議会 産業建設常任委員会会議録",
+            "locator": "会議録の発言順 270",
+            "archiveId": "991b15989c54daaecbcd",
+            "blocks": [
+              270
+            ]
           }
         ],
-        "followUp": "incomplete",
-        "followUpNote": "３会期の一般質問を対象。委員会・文書・事業資料などの横断照合は未了。"
+        "followUp": "confirmed",
+        "followUpNote": "本人による別日の発言を会議録で確認。",
+        "actions": [
+          {
+            "date": "2026-03-17",
+            "actor": "小ノ澤哲也",
+            "stage": "委員会で周知方法を具体化",
+            "detail": "一般質問で受けた周知方針の答弁を挙げ、新たに乗降場を設けられる地域の自治会長に情報が届く説明の場を求めた。",
+            "url": "https://www.city.kawagoe.saitama.dbsr.jp/114095?Template=document&Id=4281#all",
+            "sourceTitle": "川越市議会 産業建設常任委員会会議録",
+            "locator": "会議録の発言順 269・271",
+            "archiveId": "991b15989c54daaecbcd",
+            "blocks": [
+              269,
+              271
+            ]
+          }
+        ]
       },
       {
         "id": "kwg-2026-042",
@@ -2429,10 +2472,38 @@ GIKAI.councilPolicyReviews = [
             ],
             "stage": "既存の説明・見送り",
             "detail": "令和6年度不成立12712件。乗継は他の利用機会・交通への影響で当面見送り"
+          },
+          {
+            "date": "2026-09-17",
+            "actor": "都市計画部副部長兼交通政策課長",
+            "stage": "実績の報告",
+            "detail": "令和７年度に予約の確定に至らなかった件数は１万2,915件と答弁した。",
+            "url": "https://www.city.kawagoe.saitama.dbsr.jp/114095?Template=document&Id=4317#all",
+            "sourceTitle": "川越市議会 産業建設常任委員会会議録",
+            "locator": "会議録の発言順 353",
+            "archiveId": "8d3ee449ff454a2f35f5",
+            "blocks": [
+              353
+            ]
           }
         ],
-        "followUp": "incomplete",
-        "followUpNote": "３会期の一般質問を対象。委員会・文書・事業資料などの横断照合は未了。"
+        "followUp": "confirmed",
+        "followUpNote": "本人による別日の発言を会議録で確認。",
+        "actions": [
+          {
+            "date": "2026-09-17",
+            "actor": "小ノ澤哲也",
+            "stage": "委員会で予約不成立件数を追跡",
+            "detail": "３月の答弁で示された過年度の予約不成立件数と比較するため、令和７年度の件数を尋ねた。",
+            "url": "https://www.city.kawagoe.saitama.dbsr.jp/114095?Template=document&Id=4317#all",
+            "sourceTitle": "川越市議会 産業建設常任委員会会議録",
+            "locator": "会議録の発言順 352",
+            "archiveId": "8d3ee449ff454a2f35f5",
+            "blocks": [
+              352
+            ]
+          }
+        ]
       },
       {
         "id": "kwg-2026-043",
@@ -2470,11 +2541,39 @@ GIKAI.councilPolicyReviews = [
             ],
             "stage": "試算・審議中",
             "detail": "補助試算は全時間帯約4838万円、平日午前約3468万円。審議会に諮問"
+          },
+          {
+            "date": "2026-09-17",
+            "actor": "都市計画部副部長兼交通政策課長",
+            "stage": "乗り合いの実績を説明",
+            "detail": "令和７年度は３地区計１万79回の運行のうち、乗り合いが3,101回あったと説明。同じ目的地かどうかのデータは持っていないと答えた。",
+            "url": "https://www.city.kawagoe.saitama.dbsr.jp/114095?Template=document&Id=4317#all",
+            "sourceTitle": "川越市議会 産業建設常任委員会会議録",
+            "locator": "会議録の発言順 355",
+            "archiveId": "8d3ee449ff454a2f35f5",
+            "blocks": [
+              355
+            ]
           }
         ],
-        "followUp": "incomplete",
-        "followUpNote": "３会期の一般質問を対象。委員会・文書・事業資料などの横断照合は未了。",
-        "caseTitle": "かわまるの予約難をめぐる増車検討と進捗"
+        "followUp": "confirmed",
+        "followUpNote": "本人による別日の発言を会議録で確認。",
+        "caseTitle": "かわまるの予約難をめぐる増車検討と進捗",
+        "actions": [
+          {
+            "date": "2026-09-17",
+            "actor": "小ノ澤哲也",
+            "stage": "委員会で増車と乗り合いの条件を検証",
+            "detail": "同日の決算審査で示された予約不成立１万2,915件を踏まえて増車を求め、異なる乗降場から同じ目的地への乗り合いがどの程度あるかを尋ねた。",
+            "url": "https://www.city.kawagoe.saitama.dbsr.jp/114095?Template=document&Id=4317#all",
+            "sourceTitle": "川越市議会 産業建設常任委員会会議録",
+            "locator": "会議録の発言順 354",
+            "archiveId": "8d3ee449ff454a2f35f5",
+            "blocks": [
+              354
+            ]
+          }
+        ]
       },
       {
         "id": "kwg-2026-044",
@@ -2717,10 +2816,42 @@ GIKAI.councilPolicyReviews = [
             ],
             "stage": "既存の説明・予定",
             "detail": "駅前通りのケヤキ管理方針あり。無電柱化推進計画を次年度公表へ"
+          },
+          {
+            "date": "2026-03-17",
+            "actor": "都市計画部副部長兼都市計画課長",
+            "stage": "予備設計・協議",
+            "detail": "地中の電線共同溝を想定し、予備設計の予算を計上したと説明。現状の道路幅での整備や周辺の景観について、地元などと協議しながら進める方針を示した。",
+            "url": "https://www.city.kawagoe.saitama.dbsr.jp/114095?Template=document&Id=4281#all",
+            "sourceTitle": "川越市議会 産業建設常任委員会会議録",
+            "locator": "会議録の発言順 167・169・171",
+            "archiveId": "991b15989c54daaecbcd",
+            "blocks": [
+              167,
+              169,
+              171
+            ]
           }
         ],
-        "followUp": "incomplete",
-        "followUpNote": "３会期の一般質問を対象。委員会・文書・事業資料などの横断照合は未了。"
+        "followUp": "confirmed",
+        "followUpNote": "本人による別日の発言を会議録で確認。",
+        "actions": [
+          {
+            "date": "2026-03-17",
+            "actor": "小林範子",
+            "stage": "委員会で無電柱化の事業計画を確認",
+            "detail": "中央通り線の仲町から連雀町の区間について、無電柱化の方式、工程、昭和の街の地区計画との整合を確認した。",
+            "url": "https://www.city.kawagoe.saitama.dbsr.jp/114095?Template=document&Id=4281#all",
+            "sourceTitle": "川越市議会 産業建設常任委員会会議録",
+            "locator": "会議録の発言順 166・168・170",
+            "archiveId": "991b15989c54daaecbcd",
+            "blocks": [
+              166,
+              168,
+              170
+            ]
+          }
+        ]
       },
       {
         "id": "kwg-2026-050",
@@ -3306,10 +3437,41 @@ GIKAI.councilPolicyReviews = [
             ],
             "stage": "配置方針",
             "detail": "専門相談未接続は小131・中217人、校内学習室支援員の全校配置を段階的に目指す"
+          },
+          {
+            "date": "2026-09-16",
+            "actor": "学校教育部参事兼教育センター所長",
+            "stage": "案内を作成・支援拡充の方針",
+            "detail": "保護者向けの相談機関案内を作成中と説明し、校内学習室への支援を拡充する方針を示した。",
+            "url": "https://www.city.kawagoe.saitama.dbsr.jp/244788?Template=document&Id=4314#all",
+            "sourceTitle": "川越市議会 文化教育常任委員会会議録",
+            "locator": "会議録の発言順 153・155",
+            "archiveId": "a163a1ae8092681a88c0",
+            "blocks": [
+              153,
+              155
+            ]
           }
         ],
-        "followUp": "incomplete",
-        "followUpNote": "３会期の一般質問を対象。委員会・文書・事業資料などの横断照合は未了。"
+        "followUp": "confirmed",
+        "followUpNote": "本人による別日の発言を会議録で確認。",
+        "actions": [
+          {
+            "date": "2026-09-16",
+            "actor": "川口知子",
+            "stage": "決算審査で校内学習室の拡充を求める",
+            "detail": "保護者から支援情報を求める声を聞いたと説明し、分かりやすい周知と校内学習室での支援の充実を求めた。",
+            "url": "https://www.city.kawagoe.saitama.dbsr.jp/244788?Template=document&Id=4314#all",
+            "sourceTitle": "川越市議会 文化教育常任委員会会議録",
+            "locator": "会議録の発言順 152・154・156",
+            "archiveId": "a163a1ae8092681a88c0",
+            "blocks": [
+              152,
+              154,
+              156
+            ]
+          }
+        ]
       },
       {
         "id": "kwg-2026-064",
@@ -6632,11 +6794,39 @@ GIKAI.councilPolicyReviews = [
             ],
             "stage": "開催予定・制度調査",
             "detail": "花火は11月21日予定。団体の事業重複を認識。新税は令和6年度から調査"
+          },
+          {
+            "date": "2026-09-03",
+            "actor": "土屋正裕財政部長",
+            "stage": "条例案の説明",
+            "detail": "委員会は導入の可否から審議し、観光関連の税目を含め、課税対象や使途などの制度設計を検討すると答弁した。",
+            "url": "https://www.city.kawagoe.saitama.dbsr.jp/407877?Template=document&Id=4308#all",
+            "sourceTitle": "川越市議会 本会議会議録",
+            "locator": "会議録の発言順 85",
+            "archiveId": "89acb7f24ab60e0968fb",
+            "blocks": [
+              85
+            ]
           }
         ],
-        "followUp": "incomplete",
-        "followUpNote": "３会期の一般質問を対象。委員会・文書・事業資料などの横断照合は未了。",
-        "caseTitle": "観光財源の質問から法定外税の検討委員会条例まで"
+        "followUp": "confirmed",
+        "followUpNote": "本人による別日の発言を会議録で確認。",
+        "caseTitle": "観光財源の質問から法定外税の検討委員会条例まで",
+        "actions": [
+          {
+            "date": "2026-09-03",
+            "actor": "粂真美子",
+            "stage": "条例案質疑で新税の検討範囲を確認",
+            "detail": "法定外税導入検討委員会条例案について、導入の可否自体を諮るのか、観光税に対象を限るのかなどを質した。",
+            "url": "https://www.city.kawagoe.saitama.dbsr.jp/407877?Template=document&Id=4308#all",
+            "sourceTitle": "川越市議会 本会議会議録",
+            "locator": "会議録の発言順 82",
+            "archiveId": "89acb7f24ab60e0968fb",
+            "blocks": [
+              82
+            ]
+          }
+        ]
       },
       {
         "id": "kwg-2026-138",
@@ -7383,10 +7573,41 @@ GIKAI.councilPolicyReviews = [
             ],
             "stage": "準備・方針説明",
             "detail": "対象職員を整理しシステム登録。自殺予防の教職員研修等に取り組む。"
+          },
+          {
+            "date": "2026-09-18",
+            "actor": "こども未来部副部長兼こども政策課長",
+            "stage": "条例と事務体制を準備",
+            "detail": "市所管の児童福祉施設等の対象範囲、犯罪事実の確認や情報管理、事業者への周知を整理する方針を説明した。",
+            "url": "https://www.city.kawagoe.saitama.dbsr.jp/313030?Template=document&Id=4318#all",
+            "sourceTitle": "川越市議会 保健福祉常任委員会会議録",
+            "locator": "会議録の発言順 211・213",
+            "archiveId": "163307c00e289706f24a",
+            "blocks": [
+              211,
+              213
+            ]
           }
         ],
-        "followUp": "incomplete",
-        "followUpNote": "３会期の一般質問を対象。委員会・文書・事業資料などの横断照合は未了。"
+        "followUp": "confirmed",
+        "followUpNote": "本人による別日の発言を会議録で確認。",
+        "actions": [
+          {
+            "date": "2026-09-18",
+            "actor": "伊藤正子",
+            "stage": "委員会で性暴力防止制度の準備を確認",
+            "detail": "市の所管する施設への制度適用に向け、条例による準備を求め、職員の事務負担と今後の予定を尋ねた。",
+            "url": "https://www.city.kawagoe.saitama.dbsr.jp/313030?Template=document&Id=4318#all",
+            "sourceTitle": "川越市議会 保健福祉常任委員会会議録",
+            "locator": "会議録の発言順 210・212",
+            "archiveId": "163307c00e289706f24a",
+            "blocks": [
+              210,
+              212
+            ]
+          }
+        ],
+        "caseTitle": "こどもの性暴力防止に向け、児童福祉施設の基準を改正"
       },
       {
         "id": "kwg-2026-156",
@@ -7815,10 +8036,43 @@ GIKAI.councilPolicyReviews = [
             ],
             "stage": "対応実績説明",
             "detail": "調整池は稼働水位に届かず、ポンプ車も配備待機で稼働なし。"
+          },
+          {
+            "date": "2026-09-17",
+            "actor": "河川課長",
+            "stage": "維持管理の分担を協議中",
+            "detail": "調整池と雨水ポンプ場の完成を報告。今後の維持管理に関して、ふじみ野市との覚書や費用分担の見直しを検討していると説明した。",
+            "url": "https://www.city.kawagoe.saitama.dbsr.jp/114095?Template=document&Id=4317#all",
+            "sourceTitle": "川越市議会 産業建設常任委員会会議録",
+            "locator": "会議録の発言順 9・11・13",
+            "archiveId": "8d3ee449ff454a2f35f5",
+            "blocks": [
+              9,
+              11,
+              13
+            ]
           }
         ],
-        "followUp": "incomplete",
-        "followUpNote": "３会期の一般質問を対象。委員会・文書・事業資料などの横断照合は未了。"
+        "followUp": "confirmed",
+        "followUpNote": "本人による別日の発言を会議録で確認。",
+        "actions": [
+          {
+            "date": "2026-09-17",
+            "actor": "今野英子",
+            "stage": "委員会で完成後の維持管理を確認",
+            "detail": "川越江川の管理方法の変更が住民に与える影響と両市の費用負担を確認し、ふじみ野市との協議と継続した維持管理を求めた。",
+            "url": "https://www.city.kawagoe.saitama.dbsr.jp/114095?Template=document&Id=4317#all",
+            "sourceTitle": "川越市議会 産業建設常任委員会会議録",
+            "locator": "会議録の発言順 10・12・14",
+            "archiveId": "8d3ee449ff454a2f35f5",
+            "blocks": [
+              10,
+              12,
+              14
+            ]
+          }
+        ],
+        "caseTitle": "川崎調整池の稼働と完成後の維持管理を確認"
       },
       {
         "id": "kwg-2026-166",
@@ -7984,10 +8238,40 @@ GIKAI.councilPolicyReviews = [
             ],
             "stage": "制度・周知方針",
             "detail": "対象は6703世帯。国と連携し広報紙・市ウェブサイト等で周知する。"
+          },
+          {
+            "date": "2026-09-18",
+            "actor": "生活福祉課長",
+            "stage": "事務の説明と再発防止の周知",
+            "detail": "申出書の受領から振込までの事務を説明。個別の連絡について、不適切な対応だったとして課内に再発防止を周知したと答えた。",
+            "url": "https://www.city.kawagoe.saitama.dbsr.jp/313030?Template=document&Id=4318#all",
+            "sourceTitle": "川越市議会 保健福祉常任委員会会議録",
+            "locator": "会議録の発言順 294・296",
+            "archiveId": "163307c00e289706f24a",
+            "blocks": [
+              294,
+              296
+            ]
           }
         ],
-        "followUp": "incomplete",
-        "followUpNote": "３会期の一般質問を対象。委員会・文書・事業資料などの横断照合は未了。"
+        "followUp": "confirmed",
+        "followUpNote": "本人による別日の発言を会議録で確認。",
+        "actions": [
+          {
+            "date": "2026-09-18",
+            "actor": "池浜あけみ",
+            "stage": "委員会で追加給付の実務を検証",
+            "detail": "追加給付の手続を確認し、審査請求後の連絡について住民から相談を受けたと述べ、市の把握状況を尋ねた。",
+            "url": "https://www.city.kawagoe.saitama.dbsr.jp/313030?Template=document&Id=4318#all",
+            "sourceTitle": "川越市議会 保健福祉常任委員会会議録",
+            "locator": "会議録の発言順 293・295",
+            "archiveId": "163307c00e289706f24a",
+            "blocks": [
+              293,
+              295
+            ]
+          }
+        ]
       },
       {
         "id": "kwg-2026-170",
@@ -8027,10 +8311,41 @@ GIKAI.councilPolicyReviews = [
             ],
             "stage": "補正予算編成方針",
             "detail": "関係機関と資金繰り策を検討し、国の補正予算を踏まえ市の補正を編成する方針。"
+          },
+          {
+            "date": "2026-09-04",
+            "actor": "飯野英一産業観光部長",
+            "stage": "事業継続支援の設計説明",
+            "detail": "保有車両に応じた支援金を用意し、既存の経営改善支援金や制度融資などとの重複申請は可能と説明した。",
+            "url": "https://www.city.kawagoe.saitama.dbsr.jp/407877?Template=document&Id=4309#all",
+            "sourceTitle": "川越市議会 本会議会議録",
+            "locator": "会議録の発言順 106・112",
+            "archiveId": "65d15b8bba764a166351",
+            "blocks": [
+              106,
+              112
+            ]
           }
         ],
-        "followUp": "incomplete",
-        "followUpNote": "３会期の一般質問を対象。委員会・文書・事業資料などの横断照合は未了。"
+        "followUp": "confirmed",
+        "followUpNote": "本人による別日の発言を会議録で確認。",
+        "actions": [
+          {
+            "date": "2026-09-04",
+            "actor": "川口知子",
+            "stage": "補正予算質疑で事業者支援の設計を検証",
+            "detail": "LPガス価格高騰対策の算定根拠や運送事業者向け支援金の効果を質問し、既存の中小事業者支援との併用を確認した。",
+            "url": "https://www.city.kawagoe.saitama.dbsr.jp/407877?Template=document&Id=4309#all",
+            "sourceTitle": "川越市議会 本会議会議録",
+            "locator": "会議録の発言順 94・109",
+            "archiveId": "65d15b8bba764a166351",
+            "blocks": [
+              94,
+              109
+            ]
+          }
+        ],
+        "caseTitle": "事業者向けの物価高対策を質し、運送支援の受付へ"
       },
       {
         "id": "kwg-2026-171",
@@ -12940,11 +13255,39 @@ GIKAI.councilPolicyReviews = [
             ],
             "stage": "実施・拡充予定",
             "detail": "直営8クラブ、運動系10追加を補正計上、休日はR10までに全中学校で展開目標"
+          },
+          {
+            "date": "2026-09-18",
+            "actor": "公園整備課長",
+            "stage": "使用料の免除条件を説明",
+            "detail": "学校や教育委員会が主体となる利用は免除されると答弁した。",
+            "url": "https://www.city.kawagoe.saitama.dbsr.jp/114095?Template=document&Id=4319#all",
+            "sourceTitle": "川越市議会 産業建設常任委員会会議録",
+            "locator": "会議録の発言順 63",
+            "archiveId": "13a08c5bc9de73decb1f",
+            "blocks": [
+              63
+            ]
           }
         ],
-        "followUp": "open",
-        "followUpNote": "後続会期の資料はこの比較の対象期間外。",
-        "caseTitle": "中学校の部活動を地域クラブへ広げるまで"
+        "followUp": "confirmed",
+        "followUpNote": "本人による別日の発言を会議録で確認。",
+        "caseTitle": "中学校の部活動を地域クラブへ広げるまで",
+        "actions": [
+          {
+            "date": "2026-09-18",
+            "actor": "今野英子",
+            "stage": "委員会で地域展開後の体育館料金を確認",
+            "detail": "部活動を地域に展開した場合、体育館を利用する活動に使用料の減免が適用されるかを尋ねた。",
+            "url": "https://www.city.kawagoe.saitama.dbsr.jp/114095?Template=document&Id=4319#all",
+            "sourceTitle": "川越市議会 産業建設常任委員会会議録",
+            "locator": "会議録の発言順 62",
+            "archiveId": "13a08c5bc9de73decb1f",
+            "blocks": [
+              62
+            ]
+          }
+        ]
       },
       {
         "id": "kwg-2026-290",
@@ -13025,9 +13368,25 @@ GIKAI.councilPolicyReviews = [
             "detail": "成立率R3 67.2%からR7 58.8%、午後も利用増。改善策を講じる方針"
           }
         ],
-        "followUp": "open",
-        "followUpNote": "後続会期の資料はこの比較の対象期間外。",
-        "caseTitle": "かわまるの予約難をめぐる増車検討と進捗"
+        "followUp": "incomplete",
+        "followUpNote": "同じ要望を別日の会議で述べた記録を掲載。追加の検証や提案は確認中。",
+        "caseTitle": "かわまるの予約難をめぐる増車検討と進捗",
+        "actions": [
+          {
+            "date": "2026-09-29",
+            "actor": "柿田有一",
+            "stage": "決算討論でかわまるの拡充を求める",
+            "detail": "決算認定案への会派の反対討論で、かわまるの予約が取りにくい状況を挙げ、公共交通の拡充を求めた。",
+            "url": "https://www.city.kawagoe.saitama.dbsr.jp/407877?Template=document&Id=4320#all",
+            "sourceTitle": "川越市議会 本会議会議録",
+            "locator": "会議録の発言順 65",
+            "archiveId": "b2976383d2d152d5e590",
+            "blocks": [
+              65
+            ],
+            "repeatedRequest": true
+          }
+        ]
       },
       {
         "id": "kwg-2026-292",
@@ -13152,8 +13511,24 @@ GIKAI.councilPolicyReviews = [
             "detail": "法・対象別の事務で事業は一体、ケースワーカー訪問、要対協で連携"
           }
         ],
-        "followUp": "open",
-        "followUpNote": "後続会期の資料はこの比較の対象期間外。"
+        "followUp": "incomplete",
+        "followUpNote": "同じ要望を別日の会議で述べた記録を掲載。追加の検証や提案は確認中。",
+        "actions": [
+          {
+            "date": "2026-09-29",
+            "actor": "柿田有一",
+            "stage": "決算討論で訪問を含む学習支援を求める",
+            "detail": "決算認定案への会派の反対討論で、委託による学習支援には家庭訪問が組み込まれていないと指摘し、訪問や福祉的な支援の改善を求めた。",
+            "url": "https://www.city.kawagoe.saitama.dbsr.jp/407877?Template=document&Id=4320#all",
+            "sourceTitle": "川越市議会 本会議会議録",
+            "locator": "会議録の発言順 65",
+            "archiveId": "b2976383d2d152d5e590",
+            "blocks": [
+              65
+            ],
+            "repeatedRequest": true
+          }
+        ]
       },
       {
         "id": "kwg-2026-295",
@@ -13193,8 +13568,24 @@ GIKAI.councilPolicyReviews = [
             "detail": "運転手不足あり、R7補助約1.40億円、審議会等を踏まえ改善へ"
           }
         ],
-        "followUp": "open",
-        "followUpNote": "後続会期の資料はこの比較の対象期間外。"
+        "followUp": "incomplete",
+        "followUpNote": "同じ要望を別日の会議で述べた記録を掲載。追加の検証や提案は確認中。",
+        "actions": [
+          {
+            "date": "2026-09-29",
+            "actor": "柿田有一",
+            "stage": "決算討論で川越シャトルの増便を求める",
+            "detail": "決算認定案への会派の反対討論で、減便後に不便を訴える声を挙げ、免許返納後も移動できるよう増便を求めた。",
+            "url": "https://www.city.kawagoe.saitama.dbsr.jp/407877?Template=document&Id=4320#all",
+            "sourceTitle": "川越市議会 本会議会議録",
+            "locator": "会議録の発言順 65",
+            "archiveId": "b2976383d2d152d5e590",
+            "blocks": [
+              65
+            ],
+            "repeatedRequest": true
+          }
+        ]
       },
       {
         "id": "kwg-2026-296",
@@ -13687,7 +14078,8 @@ GIKAI.councilPolicyReviews = [
         "followUpNote": "後続会期の資料はこの比較の対象期間外。"
       }
     ],
-    "classifiedQuestions": 315
+    "classifiedQuestions": 315,
+    "followThrough": "2026-09-29"
   }
 ];
 GIKAI.cases.push(...[
