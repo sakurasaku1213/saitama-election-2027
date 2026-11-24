@@ -1569,4 +1569,106 @@ GIKAI.cases.push(
     ],
     "note": "委託費の金額は第62号議案の予算明細書（物理14頁、印字13頁）と市の委員会説明で照合しました。委員の質問中の金額には原表との差があります。事業費の縮減額、工事契約と着工は事業計画・見込みの段階です。"
   },
+  {
+    "place": "上尾市",
+    "title": "放課後の居場所事業を審査し、２小学校で申込を開始",
+    "topic": "子育て・放課後の居場所",
+    "actors": [
+      "新藤孝子",
+      "上尾市議会",
+      "上尾市"
+    ],
+    "steps": [
+      {
+        "date": "2026-08-27",
+        "actor": "上尾市",
+        "stage": "放課後児童クラブと一体で運営する方針を説明",
+        "detail": "市は2027年度から児童居場所事業を実施し、放課後児童クラブと一体的に運営する方針を示した。準備に必要な債務負担行為を一般会計補正予算案に盛り込んだ。",
+        "url": "https://ssp.kaigiroku.net/tenant/ageo/SpMinuteView.html?tenant_id=39&council_id=441&schedule_id=2",
+        "sourceTitle": "上尾市議会 ８月27日本会議録・発言順20・33"
+      },
+      {
+        "date": "2026-09-01",
+        "actor": "新藤孝子、上尾市こども未来部",
+        "stage": "対象校の根拠、委託費と対象の広げ方を質す",
+        "detail": "新藤議員は２校を選んだ理由、３年間の委託費の算出根拠と国・県の補助、他校区への展開を質した。市は入所児童数の予測から保育スペースの確保が難しい東小・上平小を選び、利用実績等を踏まえて他校区への展開を検討すると答えた。",
+        "url": "https://ssp.kaigiroku.net/tenant/ageo/SpMinuteView.html?tenant_id=39&council_id=441&schedule_id=3",
+        "sourceTitle": "上尾市議会 ９月１日本会議録・発言順12・14"
+      },
+      {
+        "date": "2026-09-30",
+        "actor": "上尾市議会",
+        "stage": "準備経費を含む補正予算を可決",
+        "detail": "本会議は、放課後児童健全育成業務の債務負担行為を含む議案第54号を原案可決した。",
+        "url": "https://ssp.kaigiroku.net/tenant/ageo/SpMinuteView.html?tenant_id=39&council_id=441&schedule_id=10",
+        "sourceTitle": "上尾市議会 ９月30日本会議録・発言順42～44",
+        "billNumber": "議案第54号"
+      },
+      {
+        "date": "2026-11-02",
+        "actor": "上尾市、株式会社アンフィニ",
+        "stage": "モデル２校の運営事業者を示し、申込受付を開始",
+        "detail": "市は東小・上平小の運営を株式会社アンフィニに委託すると公表。2027年度の利用申込を11月２日から受け付けると案内した。学童保育の就労要件を満たす児童を優先し、空きがあれば要件を満たさない児童も利用できる。",
+        "url": "https://www.city.ageo.lg.jp/page/429183.html",
+        "sourceTitle": "上尾市 2027年度の２校の入所申込案内"
+      }
+    ],
+    "note": "確認した到達点は２校の運営事業者の決定と入所申込の受付です。事業は2027年度開始予定で、利用実績や他校区への展開は確認中です。"
+  },
+  {
+    "place": "久喜市",
+    "title": "清掃センター集約に伴う費用分担を質し、事務委託を可決",
+    "topic": "廃棄物・広域連携",
+    "actors": [
+      "瀬川泰祐",
+      "久喜市議会",
+      "久喜市",
+      "宮代町"
+    ],
+    "steps": [
+      {
+        "date": "2026-09-01",
+        "actor": "久喜市",
+        "stage": "衛生組合の解散と廃棄物処理事務の受託を提案",
+        "detail": "市は久喜宮代衛生組合を2027年３月31日で解散し、財産の承継を協議する案を説明した。宮代町で発生し新施設に搬入される一般廃棄物の処理と手数料徴収を久喜市が受託する案も提出した。",
+        "url": "https://ssp.kaigiroku.net/tenant/kuki/SpMinuteView.html?tenant_id=534&council_id=942&schedule_id=2",
+        "sourceTitle": "久喜市議会 ９月１日本会議録・発言順74"
+      },
+      {
+        "date": "2026-09-15",
+        "actor": "瀬川泰祐、久喜市環境経済部",
+        "stage": "建物解体の担当と将来の費用負担を質す",
+        "detail": "瀬川議員は旧清掃センターの建物を久喜市が承継・解体する理由、解体費用が増える場合のリスク、財政計画への位置づけを尋ねた。市は交付金活用などを踏まえた役割分担を説明し、負担割合などは解体工事前に両市町で決めると答えた。",
+        "url": "https://ssp.kaigiroku.net/tenant/kuki/SpMinuteView.html?tenant_id=534&council_id=942&schedule_id=7",
+        "sourceTitle": "久喜市議会 ９月15日本会議録・発言順646～652"
+      },
+      {
+        "date": "2026-10-05",
+        "actor": "久喜市議会",
+        "stage": "衛生組合の解散・財産処分案を可決",
+        "detail": "市議会は議案第51号を賛成全員で原案可決した。",
+        "url": "https://ssp.kaigiroku.net/tenant/kuki/SpMinuteView.html?tenant_id=534&council_id=942&schedule_id=8",
+        "sourceTitle": "久喜市議会 10月５日本会議録・発言順146・147",
+        "billNumber": "議案第51号"
+      },
+      {
+        "date": "2026-10-05",
+        "actor": "久喜市議会",
+        "stage": "宮代町からの処理事務の受託案を可決",
+        "detail": "市議会は議案第52号を賛成全員で原案可決した。",
+        "url": "https://ssp.kaigiroku.net/tenant/kuki/SpMinuteView.html?tenant_id=534&council_id=942&schedule_id=8",
+        "sourceTitle": "久喜市議会 10月５日本会議録・発言順147・148",
+        "billNumber": "議案第52号"
+      },
+      {
+        "date": "2026-11-17",
+        "actor": "久喜市",
+        "stage": "試運転に向けた分別区分の変更を案内",
+        "detail": "市は新クリーンセンターの試運転に合わせ、11月30日から市内の分別区分を統一すると案内した。新施設の本稼働は2027年４月予定。日付は案内ページの更新日。",
+        "url": "https://www.city.kuki.lg.jp/machizukuri/gomi/bunbetsu/bunbetu.html",
+        "sourceTitle": "久喜市 家庭ごみの分別区分統一の案内"
+      }
+    ],
+    "note": "議員が確認した解体時の不測の費用や負担割合は協議段階です。分別の変更と新施設の本稼働について、現時点では市の公表した日程を収録しています。"
+  },
 );

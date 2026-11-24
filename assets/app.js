@@ -270,6 +270,9 @@
     votes: "個別の表決",
     policy: "政策の経過",
   };
+  const textCoverageBySlot = new Map((D.questionText?.coverage || []).map(
+    (row) => [row.place + "|" + row.season, row.material],
+  ));
   const coverageByCouncil = new Map();
   for (const slot of D.coverage2026.sessions) {
     if (!coverageByCouncil.has(slot.place)) coverageByCouncil.set(slot.place, []);
@@ -292,7 +295,8 @@
   }
   function coverageMaterials(slot) {
     return `<dl class="coverage-materials">${Object.entries(coverageKinds).map(([key, label]) => {
-      const material = slot.materials[key];
+      const textCoverage = key === "text" ? textCoverageBySlot.get(slot.place + "|" + slot.season) : null;
+      const material = textCoverage || slot.materials[key];
       return `<div><dt>${esc(label)}</dt><dd>${esc(coverageLabels[material.state])}
       ${material.note ? `<span class="small">${esc(material.note)}</span>` : ""}
       ${material.indexURL ? `<span class="small">${link(material.indexURL, "確認した公式一覧")}</span>` : ""}</dd></div>`;
