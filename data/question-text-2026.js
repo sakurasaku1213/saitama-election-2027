@@ -1655,6 +1655,34 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "5980142acc79003c775a",
+      "place": "さいたま市",
+      "season": "fall",
+      "date": "2026-09-08",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "佐藤征治郎議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://saitama-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=2466",
+      "speakers": [
+        "佐藤征治郎"
+      ]
+    },
+    {
+      "id": "686efe10579e80529c2f",
+      "place": "さいたま市",
+      "season": "fall",
+      "date": "2026-09-08",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "秋山朋彦議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://saitama-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=2467",
+      "speakers": [
+        "秋山朋彦"
+      ]
+    },
+    {
       "id": "553cd84f748a6527712f",
       "place": "さいたま市",
       "season": "fall",
@@ -3735,6 +3763,20 @@ GIKAI.questionText = {
       "url": "https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/speech.html?council_id=47&schedule_id=2&playlist_id=1&speaker_id=22&target_year=2026",
       "speakers": [
         "上野文一"
+      ]
+    },
+    {
+      "id": "f883348d7d60c0b7b575",
+      "place": "上里町",
+      "season": "fall",
+      "date": "2026-09-07",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "新井實議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/speech.html?council_id=47&schedule_id=2&playlist_id=2&speaker_id=10&target_year=2026",
+      "speakers": [
+        "新井實"
       ]
     },
     {
@@ -21295,6 +21337,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "7f0f674be0911f612e92",
+      "place": "寄居町",
+      "season": "fall",
+      "date": "2026-09-15",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "稲山良文議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。 自動検査で確認候補になった時間帯も含まれます。",
+      "url": "https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/speech.html?council_id=39&schedule_id=2&playlist_id=4&speaker_id=11&target_year=2026",
+      "speakers": [
+        "稲山良文"
+      ]
+    },
+    {
       "id": "a0478bd049c0fa264cf5",
       "place": "富士見市",
       "season": "spring",
@@ -26738,6 +26794,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "6d4003b6fbd8a13fc77d",
+      "place": "日高市",
+      "season": "fall",
+      "date": "2026-09-10",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "近藤沙織議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/hidaka/WebView/rd/speech.html?council_id=54&schedule_id=5&playlist_id=1&speaker_id=26&target_year=2026",
+      "speakers": [
+        "近藤沙織"
+      ]
+    },
+    {
       "id": "be32e2e0190eb1966ead",
       "place": "春日部市",
       "season": "spring",
@@ -28888,12 +28958,27 @@ GIKAI.questionText = {
       "place": "東松山市",
       "season": "fall",
       "date": "2026-09",
-      "title": "東松山市議会だより11月1日号",
+      "title": "東松山市議会だより11月1日号・一般質問の紙面要旨（９～16頁）",
       "url": "https://www.city.higashimatsuyama.lg.jp/uploaded/attachment/21055.pdf",
-      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "kind": "議会だよりの質問・答弁（紙面要約）",
       "scope": "summary",
-      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
-      "speakers": []
+      "note": "９～15頁に掲載された一般質問14人・87問答を話者別に要約し、16頁の質問一覧も収録。日付は市の発言日程と公式録画で確認。",
+      "speakers": [
+        "横田正芳",
+        "高田正人",
+        "堀内真理子",
+        "井上聖子",
+        "佐藤恵一",
+        "島本晃",
+        "安藤和俊",
+        "米山真澄",
+        "浜田敦子",
+        "蓮見節",
+        "関口武雄",
+        "石川和良",
+        "大山義一",
+        "坂本俊夫"
+      ]
     },
     {
       "id": "2c76822b2861a24d05bd",
@@ -34341,6 +34426,18 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "bf5b6d2d5e09429393e6",
+      "place": "行田市",
+      "season": "spring",
+      "date": "2026-03",
+      "url": "https://www.city.gyoda.lg.jp/material/files/group/50/2603_R803iinnkaikaigiroku.pdf",
+      "title": "行田市議会 令和８年３月定例会の委員会会議録",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "speakers": [],
+      "note": "市議会の委員会会議録一覧で確認した公式PDFの全386頁をOCRで読み取った。物理頁番号を付けて本文を収録。"
+    },
+    {
       "id": "0f3d335b5d1b2c53ea38",
       "place": "行田市",
       "season": "spring",
@@ -34405,7 +34502,7 @@ GIKAI.questionText = {
       "kind": "公式会議録（常任委員会）",
       "scope": "minutes",
       "speakers": [],
-      "note": "市議会の委員会会議録一覧で確認した公式PDFの全75頁をOCRで読み取った。物理頁番号を付けて本文を収録。"
+      "note": "市議会の委員会会議録一覧で確認した公式PDFの全75頁をOCRで読み取った。物理頁番号を付けて本文を収録。 公開PDFでは建設環境常任委員会の表紙（物理27頁）の次が開会（物理28頁、印字25頁）です。目次記載の印字23～24頁（付託案件・出席者等）は公開PDFに見当たりません。"
     },
     {
       "id": "58b29ed88563941eb447",
@@ -37224,7 +37321,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://saitama-city.stream.jfit.co.jp/?tpl=gikai_days_list&gikai_id=203",
-        "note": "公式録画一覧の代表・一般質問21人のうち、7人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
+        "note": "公式録画一覧の代表・一般質問21人のうち、9人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
       }
     },
     {
@@ -37310,7 +37407,7 @@ GIKAI.questionText = {
       "season": "spring",
       "material": {
         "state": "verified",
-        "note": "公式目次と照合した本会議の日別会議録8資料を収録。",
+        "note": "公式目次と照合した本会議の日別会議録8資料を収録。 公開の委員会会議録PDFは386頁を収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/gyoda/SpMinuteBrowse.html?tenant_id=351&view_years=2026"
       }
     },
@@ -37319,7 +37416,7 @@ GIKAI.questionText = {
       "season": "summer",
       "material": {
         "state": "verified",
-        "note": "公式目次と照合した本会議の日別会議録7資料を収録。",
+        "note": "公式目次と照合した本会議の日別会議録7資料を収録。 公開の委員会会議録PDFは75頁を収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/gyoda/SpMinuteBrowse.html?tenant_id=351&view_years=2026"
       }
     },
@@ -37490,7 +37587,8 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+        "indexURL": "https://smart.discussvision.net/smart/tenant/higashimatsuyama/WebView/rd/council.html",
+        "note": "議会だよりの一般質問14人・87問答と公式録画４日14人を照合。正式会議録は確認中。"
       }
     },
     {
@@ -38184,7 +38282,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/hidaka/WebView/rd/council.html?year=2026&council_id=54",
-        "note": "公式録画一覧の一般質問12人のうち、8人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
+        "note": "公式録画一覧の一般質問12人のうち、9人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
       }
     },
     {
@@ -38759,7 +38857,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/council.html?year=2026&council_id=47",
-        "note": "公式録画一覧の一般質問11人のうち、5人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
+        "note": "公式録画一覧の一般質問11人のうち、6人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
       }
     },
     {
@@ -38786,7 +38884,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/council.html?year=2026&council_id=39",
-        "note": "公式録画一覧の一般質問12人のうち、3人の映像音声を機械文字起こしとして収録。正式会議録は確認中。議会だよりの質問・答弁要旨も収録。"
+        "note": "公式録画一覧の一般質問12人のうち、4人の映像音声を機械文字起こしとして収録。正式会議録は確認中。議会だよりの質問・答弁要旨も収録。"
       }
     },
     {

@@ -882,6 +882,10 @@ GIKAI.coverage2026 = {
         {
           "label": "議案・議決資料　令和8年3月定例会 提出議案とその結果 (PDFファイル: 181.0KB)",
           "url": "https://www.city.gyoda.lg.jp/material/files/group/50/2603_teisyutugianntokekka.pdf"
+        },
+        {
+          "label": "３月定例会委員会会議録",
+          "url": "https://www.city.gyoda.lg.jp/material/files/group/50/2603_R803iinnkaikaigiroku.pdf"
         }
       ]
     },
@@ -1726,12 +1730,12 @@ GIKAI.coverage2026 = {
           "note": "対象時期の会議録または索引の掲載先を確認。本文の全件照合は未了。"
         },
         "decisions": {
-          "state": "identified",
-          "note": "公式PDFをOCR済み。議案行と表決欄の照合・取込は未了。"
+          "state": "verified",
+          "note": "議案一覧の24件を公式HTMLと審議結果PDFで照合。審議結果PDFで議決日・議決番号を確認。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "公式表の賛否の概況（全員賛成、賛成多数等）を議決とともに収録。"
         },
         "policy": {
           "state": "pending",
@@ -1778,12 +1782,12 @@ GIKAI.coverage2026 = {
           "note": "対象時期の会議録または索引の掲載先を確認。本文の全件照合は未了。"
         },
         "decisions": {
-          "state": "identified",
-          "note": "公式PDFをOCR済み。議案行と表決欄の照合・取込は未了。"
+          "state": "verified",
+          "note": "議案一覧の24件を公式HTMLと審議結果PDFで照合。審議結果PDFで議決日・議決番号を確認。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "公式表の賛否の概況（全員賛成、賛成多数等）を議決とともに収録。"
         },
         "policy": {
           "state": "partial",
@@ -1817,33 +1821,33 @@ GIKAI.coverage2026 = {
       "place": "東松山市",
       "season": "fall",
       "label": "2026年秋の定例会",
-      "fromDate": "",
-      "toDate": "",
+      "fromDate": "2026-08-28",
+      "toDate": "2026-09-28",
       "planned": false,
       "materials": {
         "meeting": {
-          "state": "identified",
-          "note": "対象時期に関係する資料の掲載箇所を確認。会期の確定は未了。"
+          "state": "verified",
+          "note": "市議会の公式会期日程により８月28日～９月28日を確認。"
         },
         "activity": {
           "state": "partial",
           "note": "この時期の掲載項目 48件。通告・目次・本文の別は活動の出典に表示。"
         },
         "text": {
-          "state": "identified",
-          "note": "対象時期の会議録または索引の掲載先を確認。本文の全件照合は未了。"
+          "state": "partial",
+          "note": "議会だより14人・87問答を整理し、公式録画・一般質問の日程と対応させた。"
         },
         "decisions": {
-          "state": "identified",
-          "note": "公式PDFをOCR済み。議案行と表決欄の照合・取込は未了。"
+          "state": "verified",
+          "note": "議案一覧の22件を公式HTMLと審議結果PDFで照合。審議結果PDFで議決日・議決番号を確認。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "公式表の賛否の概況（全員賛成、賛成多数等）を議決とともに収録。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "中学校給食費、市民病院の資金、移動市長室の答弁と市の公式資料を収録。"
         }
       },
       "sources": [
@@ -1866,6 +1870,22 @@ GIKAI.coverage2026 = {
         {
           "label": "令和8年9月定例会審議結果一覧 [PDFファイル/72KB]",
           "url": "https://www.city.higashimatsuyama.lg.jp/uploaded/attachment/20917.pdf"
+        },
+        {
+          "label": "公式会期日程",
+          "url": "https://www.city.higashimatsuyama.lg.jp/site/shigikai/55058.html"
+        },
+        {
+          "label": "議会だより11月1日号",
+          "url": "https://www.city.higashimatsuyama.lg.jp/site/shigikai/58141.html"
+        },
+        {
+          "label": "公式の発言日程と通告書",
+          "url": "https://www.city.higashimatsuyama.lg.jp/site/shigikai/56997.html"
+        },
+        {
+          "label": "公式録画一覧",
+          "url": "https://smart.discussvision.net/smart/tenant/higashimatsuyama/WebView/rd/council.html"
         }
       ]
     },

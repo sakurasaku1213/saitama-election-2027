@@ -2757,3 +2757,176 @@ GIKAI.cases.push(
   "note": "条例の提案・議決、健康づくりの提案、産地イベントの公表をそれぞれの原典で確認しました。条例の効果や提案が事業に反映された範囲は確認中です。"
 }
 );
+
+GIKAI.cases.push(
+{
+  "place": "東松山市",
+  "title": "中学校給食費の無償化で、財源・時期と費用の見込みを質す",
+  "topic": "学校給食・家計支援",
+  "actors": [
+    "堀内真理子",
+    "関口武雄",
+    "大山義一",
+    "東松山市"
+  ],
+  "steps": [
+    {
+      "date": "2026-04-01",
+      "stage": "小学校の保護者負担を実質無償化、中学校は据置き",
+      "actor": "東松山市",
+      "detail": "令和８年度の給食費改定に当たり、小学校の対象児童は国の負担軽減措置により実質無償とし、中学校の対象生徒は改定による差額分を市が負担して保護者負担を据え置くと案内した。",
+      "url": "https://www.city.higashimatsuyama.lg.jp/soshiki/48/3508.html",
+      "sourceTitle": "東松山市 令和８年度の学校給食費の案内"
+    },
+    {
+      "date": "2026-09-11",
+      "stage": "事業総点検で確保する財源の使途を質す",
+      "actor": "堀内真理子",
+      "detail": "市は、総点検によって確保した財源を中学校給食費の無償化に優先的に活用したいと答えた。",
+      "url": "https://www.city.higashimatsuyama.lg.jp/uploaded/attachment/21055.pdf#page=10",
+      "sourceTitle": "東松山市議会だより11月1日号・紙面10頁",
+      "archiveId": "c9708b8541cf51f95fef",
+      "memberActions": [
+        {
+          "name": "堀内真理子",
+          "detail": "事業の総点検で捻出する財源を何に優先して使うのかを尋ねた。",
+          "blocks": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-16",
+      "stage": "中学校給食費の無償化の考えを質す",
+      "actor": "関口武雄",
+      "detail": "市は財源確保を踏まえて先駆けとなる独自の無償化を検討すると答えた。",
+      "url": "https://www.city.higashimatsuyama.lg.jp/uploaded/attachment/21055.pdf#page=14",
+      "sourceTitle": "東松山市議会だより11月1日号・紙面14頁",
+      "archiveId": "c9708b8541cf51f95fef",
+      "memberActions": [
+        {
+          "name": "関口武雄",
+          "detail": "中学校給食費の無償化について、市の考えを確認した。",
+          "blocks": [
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "stage": "中学校給食無償化を含む公約の所要額を質す",
+      "actor": "大山義一",
+      "detail": "市は公約全体の額を現時点で示すのは難しいとし、中学校給食の無償化に約１億5,000万円を見込むと説明した。給食について早急に調査する意向も示した。",
+      "url": "https://www.city.higashimatsuyama.lg.jp/uploaded/attachment/21055.pdf#page=15",
+      "sourceTitle": "東松山市議会だより11月1日号・紙面15頁",
+      "archiveId": "c9708b8541cf51f95fef",
+      "memberActions": [
+        {
+          "name": "大山義一",
+          "detail": "公約全体の財源をどの程度と見込むかを尋ね、給食無償化の費用の答弁を得た。",
+          "blocks": [
+            13
+          ]
+        }
+      ]
+    }
+  ],
+  "note": "９月の記録は費用の見通しと財源確保の検討段階です。中学校の実施時期や予算化について確認を続けます。"
+},
+{
+  "place": "東松山市",
+  "title": "市民病院の資金の見通しを質し、運営委員会の議題に",
+  "topic": "市民病院・会計",
+  "actors": [
+    "坂本俊夫",
+    "東松山市立市民病院",
+    "東松山市"
+  ],
+  "steps": [
+    {
+      "date": "2025-12",
+      "stage": "市民病院が経営強化プランを一部改訂",
+      "actor": "東松山市立市民病院",
+      "detail": "病院を取り巻く状況の変化と当初計画からの乖離を踏まえて、令和５～９年度の経営強化プランの一部を見直した。",
+      "url": "https://www.city.higashimatsuyama.lg.jp/soshiki/47/23603.html",
+      "sourceTitle": "東松山市立市民病院 経営強化プラン令和７年12月改訂の公表"
+    },
+    {
+      "date": "2026-09-17",
+      "stage": "10月末の資金残高の見通しと、確保策を質す",
+      "actor": "坂本俊夫",
+      "detail": "市は10月末の資金残高を３億2,000万円程度と見通し、８億円程度を確保することが望ましいと答えた。病院事業債の利用を検討するとも説明した。",
+      "url": "https://www.city.higashimatsuyama.lg.jp/uploaded/attachment/21055.pdf#page=15",
+      "sourceTitle": "東松山市議会だより11月1日号・紙面15頁",
+      "archiveId": "c9708b8541cf51f95fef",
+      "memberActions": [
+        {
+          "name": "坂本俊夫",
+          "detail": "当面の資金残高と必要額、確保手段を尋ねた。",
+          "blocks": [
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "stage": "運営委員会の開催案内に今後の収支と現預金の見通しを掲載",
+      "actor": "東松山市立市民病院",
+      "detail": "市は11月５日開催の運営委員会の案内で、令和７年度決算、今後の収支・現預金残高、経営強化プランの取組状況を議題に挙げた。",
+      "url": "https://www.city.higashimatsuyama.lg.jp/site/shingikaitou/58282.html",
+      "sourceTitle": "東松山市立市民病院 11月５日運営委員会の開催案内"
+    }
+  ],
+  "note": "９月答弁の金額は将来の見込みと望ましい確保額です。資金残高の実績や病院事業債の発行は確認中です。"
+},
+{
+  "place": "東松山市",
+  "title": "移動市長室で得た意見の活用を問い、市が２地区での開催を報告",
+  "topic": "市民参加・地域対話",
+  "actors": [
+    "高田正人",
+    "東松山市長",
+    "東松山市"
+  ],
+  "steps": [
+    {
+      "date": "2026-09",
+      "stage": "市長が７か所の市民活動センターで開催する意向を公表",
+      "actor": "東松山市長",
+      "detail": "新市長が就任の挨拶で、市民の声を直接聴くため、７つの市民活動センターで移動市長室を定期開催する方針を示した。",
+      "url": "https://www.city.higashimatsuyama.lg.jp/uploaded/attachment/20381.pdf#page=1",
+      "sourceTitle": "広報ひがしまつやま９月号・市長就任の挨拶"
+    },
+    {
+      "date": "2026-09-11",
+      "stage": "移動市長室で受けた意見をどう生かすか質す",
+      "actor": "高田正人",
+      "detail": "答弁は、大岡地区から始め、地域活動、公共交通や環境などの意見を受けたと説明し、市全域に広げることへの期待を示した。",
+      "url": "https://www.city.higashimatsuyama.lg.jp/uploaded/attachment/21055.pdf#page=9",
+      "sourceTitle": "東松山市議会だより11月1日号・紙面9頁",
+      "archiveId": "c9708b8541cf51f95fef",
+      "memberActions": [
+        {
+          "name": "高田正人",
+          "detail": "移動市長室で聴いた地域の意見の市政への生かし方を質した。",
+          "blocks": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10",
+      "stage": "大岡・平野地区で開催したことを市が報告",
+      "actor": "東松山市",
+      "detail": "市の広報は、大岡地区と平野地区で開催し、市長と市民の個別面談を地域で行ったと報じた。各地区で順次開催する旨も案内した。",
+      "url": "https://www.city.higashimatsuyama.lg.jp/uploaded/attachment/20785.pdf#page=1",
+      "sourceTitle": "広報ひがしまつやま10月号・移動市長室の開催状況"
+    }
+  ],
+  "note": "市民との対話の開催を確認しました。寄せられた個別の意見が施策や予算に反映されたかは確認中です。"
+}
+);
