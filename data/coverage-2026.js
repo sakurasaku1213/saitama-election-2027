@@ -141083,7 +141083,7 @@ GIKAI.coverage2026 = {
     },
     {
       "place": "埼玉県",
-      "session": "2026年秋の定例会",
+      "session": "r0809",
       "season": "fall",
       "number": "議請第1号",
       "title": "川越マスジドに関する請願書",
@@ -141100,7 +141100,7 @@ GIKAI.coverage2026 = {
     },
     {
       "place": "埼玉県",
-      "session": "2026年秋の定例会",
+      "session": "r0809",
       "season": "fall",
       "number": "議請第2号",
       "title": "女性の経済的自立を妨げる所得税法第56条の廃止を求める請願",
@@ -141117,7 +141117,7 @@ GIKAI.coverage2026 = {
     },
     {
       "place": "埼玉県",
-      "session": "2026年秋の定例会",
+      "session": "r0809",
       "season": "fall",
       "number": "議請第3号",
       "title": "小中学校の給食費の無償を求める請願",
@@ -141134,7 +141134,7 @@ GIKAI.coverage2026 = {
     },
     {
       "place": "埼玉県",
-      "session": "2026年秋の定例会",
+      "session": "r0809",
       "season": "fall",
       "number": "議請第4号",
       "title": "県教育委員会および県立学校における重大事態対応体制の検証と改善に関する請願",
