@@ -7099,3 +7099,565 @@ GIKAI.cases.push(...[
     "note": "実証運行の変更を実施済みとして確認。実証後の本格運行と検証結果は確認中。"
   }
 ]);
+
+GIKAI.cases.push(...[
+  {
+    "place": "毛呂山町",
+    "title": "令和７年度一般会計決算を不認定とし、内部統制の検証・報告を求める",
+    "topic": "決算審査・内部統制",
+    "actors": [
+      "堀江快治",
+      "長瀬衛",
+      "佐藤秀樹",
+      "下田泰章",
+      "毛呂山町議会",
+      "毛呂山町"
+    ],
+    "steps": [
+      {
+        "date": "2026-09-17",
+        "actor": "堀江快治、長瀬衛、佐藤秀樹",
+        "stage": "一般会計決算の反対理由を討論",
+        "detail": "堀江議員は施策配分と調査・報告、長瀬議員は学校統廃合の説明と責任、佐藤議員は監査意見書と関係団体の決算審査を取り上げた。",
+        "url": "https://www.town.moroyama.saitama.jp/material/files/group/2/gikaidayori134.pdf#page=2",
+        "sourceTitle": "もろやま議会だより第134号 PDF2頁",
+        "archiveId": "0879dd1c22982b07d3cf",
+        "blocks": [
+          38,
+          39,
+          40
+        ],
+        "billNumber": "議案第40号",
+        "memberActions": [
+          {
+            "name": "堀江快治",
+            "detail": "一般会計決算への反対討論を行った。内容は該当箇所に収録。",
+            "blocks": [
+              38
+            ]
+          },
+          {
+            "name": "長瀬衛",
+            "detail": "一般会計決算への反対討論を行った。内容は該当箇所に収録。",
+            "blocks": [
+              39
+            ]
+          },
+          {
+            "name": "佐藤秀樹",
+            "detail": "一般会計決算への反対討論を行った。内容は該当箇所に収録。",
+            "blocks": [
+              40
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-09-17",
+        "actor": "毛呂山町議会",
+        "stage": "一般会計決算を不認定",
+        "detail": "本会議で表決に参加した13人全員が反対。町の広報も、関連資料が提出されず、適正に審査することが困難と議会が判断した経過を掲載した。",
+        "url": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+        "sourceTitle": "毛呂山町議会の公式審議結果・議会だより第134号",
+        "billNumber": "議案第40号"
+      },
+      {
+        "date": "2026-09-17",
+        "actor": "下田泰章、毛呂山町議会",
+        "stage": "再発防止と措置の報告を求める決議案を可決",
+        "detail": "下田議員が提出した発議第３号で、内部統制、公金管理、職務分担、管理監督の検証と必要な措置、その内容の議会報告を求めた。表決参加者13人全員が賛成。",
+        "url": "https://www.town.moroyama.saitama.jp/material/files/group/2/gikaidayori134.pdf#page=2",
+        "sourceTitle": "もろやま議会だより第134号 PDF2頁",
+        "archiveId": "0879dd1c22982b07d3cf",
+        "blocks": [
+          41
+        ],
+        "billNumber": "発議第3号",
+        "memberActions": [
+          {
+            "name": "下田泰章",
+            "detail": "再発防止措置と議会への報告を求める決議案を提出した。",
+            "blocks": [
+              41
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-09-25",
+        "actor": "毛呂山町",
+        "stage": "職員の懲戒処分を公表",
+        "detail": "町が９月25日に処分を行ったことを公表。議会の決議が求めた各措置の実施状況と報告は、個別の公表資料で確認する。",
+        "url": "https://www.town.moroyama.saitama.jp/soshikikarasagasu/somuka/shokuin/9333.html",
+        "sourceTitle": "町 懲戒処分の公表"
+      }
+    ],
+    "note": "審議資料をめぐる議員ごとの指摘、不認定、再発防止決議と処分公表を記録。再発防止策の実施と効果は確認中。"
+  },
+  {
+    "place": "毛呂山町",
+    "title": "小中一貫校整備の基金積み増しと学校編成計画の財源・合意形成",
+    "topic": "学校再編・財政",
+    "actors": [
+      "長瀬衛",
+      "小野浩",
+      "堀江快治",
+      "岡野勉",
+      "毛呂山町議会",
+      "毛呂山町教育委員会"
+    ],
+    "steps": [
+      {
+        "date": "2024-03",
+        "actor": "毛呂山町教育委員会",
+        "stage": "小・中学校編成計画を策定",
+        "detail": "教育委員会が学校編成の実施時期と施設形態等を示す計画を策定した。",
+        "url": "https://www.town.moroyama.saitama.jp/soshikikarasagasu/kyoikusomuka/seisaku_keikaku/11195.html",
+        "sourceTitle": "町 令和６年３月の学校編成計画"
+      },
+      {
+        "date": "2026-09-02",
+        "actor": "長瀬衛",
+        "stage": "統廃合を進める根拠と住民合意を問う",
+        "detail": "長瀬議員は合意形成、財源、教育施策の優先順位を挙げ、統廃合を進める根拠を質した。町は一貫教育の充実と保護者アンケートを挙げた。",
+        "url": "https://www.town.moroyama.saitama.jp/material/files/group/2/gikaidayori134.pdf#page=6",
+        "sourceTitle": "もろやま議会だより第134号 PDF6頁",
+        "archiveId": "0879dd1c22982b07d3cf",
+        "blocks": [
+          3
+        ],
+        "memberActions": [
+          {
+            "name": "長瀬衛",
+            "detail": "長瀬議員は合意形成、財源、教育施策の優先順位を挙げ、統廃合を進める根拠を質した。町は一貫教育の充実と保護者アンケートを挙げた。",
+            "blocks": [
+              3
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-09-03",
+        "actor": "小野浩",
+        "stage": "財源と後年度負担を問う",
+        "detail": "小野議員は財源のゆとりを確認。町は予算編成は可能とし、後年度の公債費負担を慎重に判断すると答えた。",
+        "url": "https://www.town.moroyama.saitama.jp/material/files/group/2/gikaidayori134.pdf#page=9",
+        "sourceTitle": "もろやま議会だより第134号 PDF9頁",
+        "archiveId": "0879dd1c22982b07d3cf",
+        "blocks": [
+          8
+        ],
+        "memberActions": [
+          {
+            "name": "小野浩",
+            "detail": "小野議員は財源のゆとりを確認。町は予算編成は可能とし、後年度の公債費負担を慎重に判断すると答えた。",
+            "blocks": [
+              8
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-09-04",
+        "actor": "堀江快治",
+        "stage": "学力向上の根拠と学級数の前提を問う",
+        "detail": "堀江議員は施設一体型で学力が上がる根拠や児童数推計を質した。町は学力向上の根拠は示されていないとし、新校舎は２学級を確保する前提と答えた。",
+        "url": "https://www.town.moroyama.saitama.jp/material/files/group/2/gikaidayori134.pdf#page=10",
+        "sourceTitle": "もろやま議会だより第134号 PDF10頁",
+        "archiveId": "0879dd1c22982b07d3cf",
+        "blocks": [
+          10
+        ],
+        "memberActions": [
+          {
+            "name": "堀江快治",
+            "detail": "堀江議員は施設一体型で学力が上がる根拠や児童数推計を質した。町は学力向上の根拠は示されていないとし、新校舎は２学級を確保する前提と答えた。",
+            "blocks": [
+              10
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-09-04",
+        "actor": "岡野勉",
+        "stage": "費用見通しと住民への提示時期を問う",
+        "detail": "岡野議員は８月23日の説明会を踏まえ、費用増と財源の提示時期を確認。町は財政シミュレーションをいつ示せるか検討すると答えた。",
+        "url": "https://www.town.moroyama.saitama.jp/material/files/group/2/gikaidayori134.pdf#page=10",
+        "sourceTitle": "もろやま議会だより第134号 PDF10頁",
+        "archiveId": "0879dd1c22982b07d3cf",
+        "blocks": [
+          11
+        ],
+        "memberActions": [
+          {
+            "name": "岡野勉",
+            "detail": "岡野議員は８月23日の説明会を踏まえ、費用増と財源の提示時期を確認。町は財政シミュレーションをいつ示せるか検討すると答えた。",
+            "blocks": [
+              11
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-09-07",
+        "actor": "毛呂山町議会",
+        "stage": "施設整備基金を5,000万円積み増す補正予算を可決",
+        "detail": "補正後の基金は約２億6,000万円となり、毛呂山小学校の改修等に充てる予定と町が説明した。",
+        "url": "https://www.town.moroyama.saitama.jp/material/files/group/2/gikaidayori134.pdf#page=4",
+        "sourceTitle": "もろやま議会だより第134号 PDF4頁",
+        "archiveId": "0879dd1c22982b07d3cf",
+        "blocks": [
+          33
+        ],
+        "billNumber": "議案第36号"
+      },
+      {
+        "date": "2026-09-30",
+        "actor": "毛呂山町教育委員会",
+        "stage": "学校編成計画のQ&Aを更新",
+        "detail": "通学、学級や教員配置などの方向性を更新版で説明した。資料は検討段階の案として掲載。",
+        "url": "https://www.town.moroyama.saitama.jp/soshikikarasagasu/gakkokyoikuka/kyoikuiinkai/1374.html",
+        "sourceTitle": "町 小中一貫教育のQ&A"
+      }
+    ],
+    "note": "基金の積み増しは議決済み。校舎整備の完了と、各地区の最終的な運用は確認中。"
+  },
+  {
+    "place": "毛呂山町",
+    "title": "泉野小学校跡地と高齢者の交流機能の検討",
+    "topic": "公共施設・学校跡地",
+    "actors": [
+      "佐島啓晋",
+      "佐藤秀樹",
+      "毛呂山町"
+    ],
+    "steps": [
+      {
+        "date": "2026-07-14",
+        "actor": "毛呂山町",
+        "stage": "学校施設利活用検討委員会を開催",
+        "detail": "町は９月の答弁で、職員で構成する委員会を開き、具体化に向けた実務的な検討に移行したと説明した。",
+        "url": "https://www.town.moroyama.saitama.jp/material/files/group/2/gikaidayori134.pdf#page=8",
+        "sourceTitle": "もろやま議会だより第134号 紙面10頁"
+      },
+      {
+        "date": "2026-09-02",
+        "actor": "佐島啓晋",
+        "stage": "山根荘の跡地移転を提案",
+        "detail": "佐島議員は山根荘を泉野小跡地に移す要望を取り上げた。町は令和７年度の延べ利用１万928人と、多世代が使う交流センターなどの検討を説明した。",
+        "url": "https://www.town.moroyama.saitama.jp/material/files/group/2/gikaidayori134.pdf#page=6",
+        "sourceTitle": "もろやま議会だより第134号 PDF6頁",
+        "archiveId": "0879dd1c22982b07d3cf",
+        "blocks": [
+          2
+        ],
+        "memberActions": [
+          {
+            "name": "佐島啓晋",
+            "detail": "佐島議員は山根荘を泉野小跡地に移す要望を取り上げた。町は令和７年度の延べ利用１万928人と、多世代が使う交流センターなどの検討を説明した。",
+            "blocks": [
+              2
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-09-03",
+        "actor": "佐藤秀樹",
+        "stage": "６月以降の跡地利用の進捗を確認",
+        "detail": "佐藤議員が６月以降の進捗を質問し、町が７月14日の検討委員会開催と実務的な検討への移行を答えた。",
+        "url": "https://www.town.moroyama.saitama.jp/material/files/group/2/gikaidayori134.pdf#page=8",
+        "sourceTitle": "もろやま議会だより第134号 PDF8頁",
+        "archiveId": "0879dd1c22982b07d3cf",
+        "blocks": [
+          6
+        ],
+        "memberActions": [
+          {
+            "name": "佐藤秀樹",
+            "detail": "佐藤議員が６月以降の進捗を質問し、町が７月14日の検討委員会開催と実務的な検討への移行を答えた。",
+            "blocks": [
+              6
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "委員会開催と検討の進展を確認。山根荘の移転と施設用途の決定は確認中。"
+  },
+  {
+    "place": "毛呂山町",
+    "title": "第55号踏切の工事協定と歩道の仕様",
+    "topic": "交通安全・踏切",
+    "actors": [
+      "毛呂山町",
+      "毛呂山町議会",
+      "東武鉄道"
+    ],
+    "steps": [
+      {
+        "date": "2026-02-24",
+        "actor": "毛呂山町",
+        "stage": "踏切拡幅の当初予算案を説明",
+        "detail": "町の当初予算記者発表は、前年度の詳細設計をもとに東武鉄道が工事し、町が負担金を支出する事業を示した。",
+        "url": "https://www.town.moroyama.saitama.jp/soshikikarasagasu/kikakuzaiseika/zaiseikakari/gyozaisei/2/ippankaikeitousyohoudou/13404.html",
+        "sourceTitle": "令和８年度一般会計当初予算記者発表資料"
+      },
+      {
+        "date": "2026-09-07",
+        "actor": "毛呂山町議会",
+        "stage": "工事実施協定の締結を可決",
+        "detail": "議案第48号。紙面は協定金額２億2,187万円、工期は令和９年３月31日までと掲載。町は歩道と車道を分離し、歩道幅２メートルを確保すると答えた。",
+        "url": "https://www.town.moroyama.saitama.jp/material/files/group/2/gikaidayori134.pdf#page=4",
+        "sourceTitle": "もろやま議会だより第134号 PDF4頁",
+        "archiveId": "0879dd1c22982b07d3cf",
+        "blocks": [
+          36,
+          37
+        ],
+        "billNumber": "議案第48号"
+      }
+    ],
+    "note": "工事実施協定の議決を確認。拡幅後の供用開始は確認中。"
+  },
+  {
+    "place": "毛呂山町",
+    "title": "川角駅学園口駅前広場の契約審議で歩行者動線と確認申請を質す",
+    "topic": "駅前広場・道路",
+    "actors": [
+      "岡野勉",
+      "小峰明雄",
+      "毛呂山町",
+      "毛呂山町議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-02-08",
+        "actor": "毛呂山町",
+        "stage": "駅前広場工事の地区説明会を開催",
+        "detail": "町は下川原地区・学園台地区を対象に説明会を開催したと公表した。",
+        "url": "https://www.town.moroyama.saitama.jp/soshikikarasagasu/machizukuriseibika/kaihatsu_toshikeikaku/13380.html",
+        "sourceTitle": "町 川角駅学園口の地区説明会"
+      },
+      {
+        "date": "2026-06-04",
+        "actor": "岡野勉、小峰明雄",
+        "stage": "歩道配置、建築確認、雨水対策を質す",
+        "detail": "岡野議員は片側歩道と住民への説明を質し、町は交通量調査と警察協議を説明。小峰議員はシェルターの建築確認手続や雨水対策を質し、町は事前確認が足りなかったとして着手前に手続を進めると答えた。",
+        "url": "https://ssp.kaigiroku.net/tenant/moroyama/SpMinuteView.html?tenant_id=50&council_id=160&schedule_id=6",
+        "sourceTitle": "毛呂山町議会 2026-06-04 本会議録",
+        "archiveId": "e56069852ceefbd449af",
+        "blocks": [
+          124,
+          126,
+          128,
+          130,
+          132,
+          134,
+          137,
+          139,
+          141,
+          147
+        ],
+        "billNumber": "議案第34号",
+        "memberActions": [
+          {
+            "name": "岡野勉",
+            "detail": "片側歩道とした理由や住民への説明を質問した。",
+            "blocks": [
+              124,
+              128
+            ]
+          },
+          {
+            "name": "小峰明雄",
+            "detail": "シェルターの確認申請や工期、雨水対策を追って確認した。",
+            "blocks": [
+              132,
+              137,
+              141
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-06-04",
+        "actor": "毛呂山町議会",
+        "stage": "駅前広場等の工事請負契約案を可決",
+        "detail": "議案第34号は起立全員で原案可決。議会だより第133号で記名欄を確認した。",
+        "url": "https://ssp.kaigiroku.net/tenant/moroyama/SpMinuteView.html?tenant_id=50&council_id=160&schedule_id=6",
+        "sourceTitle": "毛呂山町議会 2026-06-04 本会議録",
+        "archiveId": "e56069852ceefbd449af",
+        "blocks": [
+          151
+        ],
+        "billNumber": "議案第34号"
+      }
+    ],
+    "note": "説明会、契約審議と可決を確認。手続の完了や供用開始は確認中。"
+  },
+  {
+    "place": "毛呂山町",
+    "title": "産後ケアの宿泊受入拡充と町内受入の課題",
+    "topic": "産後ケア・施設",
+    "actors": [
+      "千葉三津子",
+      "毛呂山町"
+    ],
+    "steps": [
+      {
+        "date": "2026-09",
+        "actor": "千葉三津子",
+        "stage": "宿泊受入の拡充状況と町内受入を質す",
+        "detail": "千葉議員が受入施設と町内の可能性を確認。答弁では令和６年度１か所から令和７年度は６か所となり、延べ宿泊や通所が増えた。町内での宿泊受入は現状難しいと説明。",
+        "url": "https://www.town.moroyama.saitama.jp/material/files/group/2/gikaidayori134.pdf#page=3",
+        "sourceTitle": "もろやま議会だより第134号 PDF3頁",
+        "archiveId": "0879dd1c22982b07d3cf",
+        "blocks": [
+          15,
+          16
+        ],
+        "memberActions": [
+          {
+            "name": "千葉三津子",
+            "detail": "千葉議員が受入施設と町内の可能性を確認。答弁では令和６年度１か所から令和７年度は６か所となり、延べ宿泊や通所が増えた。町内での宿泊受入は現状難しいと説明。",
+            "blocks": [
+              15,
+              16
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-11-25",
+        "actor": "毛呂山町",
+        "stage": "産後ケアの申込みと受入先の掲載を確認",
+        "detail": "町の利用案内で宿泊・通所等の利用方法と掲載５施設を確認。答弁の６施設との掲載範囲の違いは確認中。日付は掲載内容を確認した日。",
+        "url": "https://www.town.moroyama.saitama.jp/kosodatesite/nenrei_taisyousyabetudesagasu/0sai_shugakumae/kenkou_kenshin/12239.html",
+        "sourceTitle": "町 産後ケア事業"
+      }
+    ],
+    "note": "令和７年度の受入拡充は町の答弁による。町内の新たな宿泊施設と掲載施設数の差は確認中。"
+  },
+  {
+    "place": "毛呂山町",
+    "title": "議員政治倫理条例の改正案で対象を質し、付託後に撤回を許可",
+    "topic": "議員発議・政治倫理",
+    "actors": [
+      "長瀬衛",
+      "中村奨平",
+      "毛呂山町議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-19",
+        "actor": "長瀬衛、中村奨平",
+        "stage": "条例改正案の提出と対象範囲の質疑",
+        "detail": "長瀬議員が町との請負契約等の辞退に関する改正案を提案。中村議員が個人事業や法人役員の範囲を質した。",
+        "url": "https://ssp.kaigiroku.net/tenant/moroyama/SpMinuteView.html?tenant_id=50&council_id=159&schedule_id=7",
+        "sourceTitle": "毛呂山町議会 2026-03-19 本会議録",
+        "archiveId": "12696de24c1ab9f49aef",
+        "blocks": [
+          99,
+          100,
+          102,
+          106
+        ],
+        "billNumber": "発議第1号",
+        "memberActions": [
+          {
+            "name": "長瀬衛",
+            "detail": "議員政治倫理条例の改正案を提出し、提案理由を説明した。",
+            "blocks": [
+              100
+            ]
+          },
+          {
+            "name": "中村奨平",
+            "detail": "請負契約への規制が及ぶ個人事業と法人役員の範囲を質問した。",
+            "blocks": [
+              102
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-03-19",
+        "actor": "毛呂山町議会",
+        "stage": "議会運営委員会へ付託し閉会中の継続審査",
+        "detail": "付託を省略する動議は少数で否決。本案は議会運営委員会に付託され、閉会中の継続審査となった。",
+        "url": "https://ssp.kaigiroku.net/tenant/moroyama/SpMinuteView.html?tenant_id=50&council_id=159&schedule_id=7",
+        "sourceTitle": "毛呂山町議会 2026-03-19 本会議録",
+        "archiveId": "12696de24c1ab9f49aef",
+        "blocks": [
+          183,
+          196
+        ],
+        "billNumber": "発議第1号"
+      },
+      {
+        "date": "2026-09-07",
+        "actor": "毛呂山町議会",
+        "stage": "改正案の撤回を許可",
+        "detail": "９月７日の公式審議結果に同じ発議第１号の撤回許可が掲載された。",
+        "url": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+        "sourceTitle": "町 ９月定例会会議結果",
+        "billNumber": "発議第1号の撤回許可"
+      }
+    ],
+    "note": "提出、質疑、委員会への付託、撤回許可を確認。"
+  },
+  {
+    "place": "毛呂山町",
+    "title": "建設資材供給と中小事業者支援を求める意見書案を否決",
+    "topic": "建設・中小事業者支援",
+    "actors": [
+      "小野浩",
+      "岡野勉",
+      "毛呂山町議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-09-17",
+        "actor": "小野浩、岡野勉",
+        "stage": "意見書案の提出と賛成討論",
+        "detail": "小野議員が調査、供給不足解消、資金繰り・雇用維持支援を国に求める案を提出し、岡野議員が賛成討論した。",
+        "url": "https://www.town.moroyama.saitama.jp/material/files/group/2/gikaidayori134.pdf#page=4",
+        "sourceTitle": "もろやま議会だより第134号 PDF4頁",
+        "archiveId": "0879dd1c22982b07d3cf",
+        "blocks": [
+          43,
+          44
+        ],
+        "billNumber": "発議第2号",
+        "memberActions": [
+          {
+            "name": "小野浩",
+            "detail": "建設資材供給と中小事業者支援に関する意見書案を提出した。",
+            "blocks": [
+              43
+            ]
+          },
+          {
+            "name": "岡野勉",
+            "detail": "融資、助成、雇用維持の支援を理由に賛成討論した。",
+            "blocks": [
+              44
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-09-17",
+        "actor": "毛呂山町議会",
+        "stage": "賛成４、反対９で否決",
+        "detail": "発議第２号は本会議で否決された。町議会から意見書を提出する案の議決結果を記録した。",
+        "url": "https://www.town.moroyama.saitama.jp/material/files/group/2/gikaidayori134.pdf#page=12",
+        "sourceTitle": "もろやま議会だより ９月の記名表決",
+        "billNumber": "発議第2号"
+      }
+    ],
+    "note": "意見書を提出するための発議と否決を確認。"
+  }
+]);

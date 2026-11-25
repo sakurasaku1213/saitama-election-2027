@@ -7913,6 +7913,34 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "2694246d85af4974c03b",
+      "place": "吉見町",
+      "season": "fall",
+      "date": "2026-09-03",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "伊藤えりか議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。 自動検査で確認候補になった時間帯も含まれます。",
+      "url": "https://smart.discussvision.net/smart/tenant/yoshimi/WebView/rd/speech.html?council_id=21&schedule_id=2&playlist_id=6&speaker_id=16&target_year=2026",
+      "speakers": [
+        "伊藤えりか"
+      ]
+    },
+    {
+      "id": "10e6ab289a83f6fd9100",
+      "place": "吉見町",
+      "season": "fall",
+      "date": "2026-09-03",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "大野陽康議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/yoshimi/WebView/rd/speech.html?council_id=21&schedule_id=2&playlist_id=5&speaker_id=21&target_year=2026",
+      "speakers": [
+        "大野陽康"
+      ]
+    },
+    {
       "id": "0e609d5a1ca637746232",
       "place": "吉見町",
       "season": "fall",
@@ -7952,6 +7980,20 @@ GIKAI.questionText = {
       "url": "https://smart.discussvision.net/smart/tenant/yoshimi/WebView/rd/speech.html?council_id=21&schedule_id=2&playlist_id=1&speaker_id=15&target_year=2026",
       "speakers": [
         "福井学"
+      ]
+    },
+    {
+      "id": "5c4e367c19481cbcd623",
+      "place": "吉見町",
+      "season": "fall",
+      "date": "2026-09-03",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "福田妙子議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/yoshimi/WebView/rd/speech.html?council_id=21&schedule_id=2&playlist_id=4&speaker_id=17&target_year=2026",
+      "speakers": [
+        "福田妙子"
       ]
     },
     {
@@ -31249,13 +31291,25 @@ GIKAI.questionText = {
       "place": "毛呂山町",
       "season": "fall",
       "date": "2026-09",
-      "title": "毛呂山町議会だより134号・令和8年9月議会",
+      "title": "もろやま議会だより第134号・９月定例会の問答、決算審議と討論",
       "url": "https://www.town.moroyama.saitama.jp/material/files/group/2/gikaidayori134.pdf",
-      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "kind": "議会だよりの質問・答弁（紙面要約）",
       "scope": "summary",
-      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。 OCRの確認警告があるPDF 1、2、4、7、8、11、12頁を除外しています。",
+      "note": "議員編集の紙面を原画像と照合。一般質問13人63問答、決算委員会15問答、議案審議９問答、討論・提出の要旨７件。質問日は公式通告と紙面・録画目録で確認。登壇動画による詳細な逐語録は確認中。原紙面OCR５頁も併録。",
       "speakers": [
-        "荒木かおる"
+        "小峰明雄",
+        "佐島啓晋",
+        "長瀬衛",
+        "千葉三津子",
+        "荒木かおる",
+        "佐藤秀樹",
+        "中村奨平",
+        "小野浩",
+        "下田泰章",
+        "堀江快治",
+        "岡野勉",
+        "高橋達夫",
+        "澤田巌"
       ]
     },
     {
@@ -40013,7 +40067,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://www.town.moroyama.saitama.jp/soshikikarasagasu/gikaijimukyoku/moroyamamachigikai/gikaihousou/12433.html",
-        "note": "議会だより第134号の紙面要旨を収録。事前通告は13人39項目。町議会の公式チャンネルで一般質問13本を含む録画16本を確認。正式会議録と録画の字幕を確認中。"
+        "note": "第134号で一般質問13人63問答、決算委員会15問答、議案審議９問答、討論・提出７件。公式通告13人39項目と録画16本を照合。正式会議録と録画の字幕を確認中。"
       }
     },
     {
@@ -40174,7 +40228,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/yoshimi/WebView/rd/council.html?year=2026&council_id=21",
-        "note": "第14号の一般質問11人39問答、見出しのみ15項目、委員会質疑14組、議案審議・討論を原紙面と照合。９月３日６人・４日５人の公式録画目録に大項目32件。正式会議録は確認中。 公式録画・音声の機械文字起こしを3件収録。"
+        "note": "第14号の一般質問11人39問答、見出しのみ15項目、委員会質疑14組、議案審議・討論を原紙面と照合。９月３日６人・４日５人の公式録画目録に大項目32件。正式会議録は確認中。 公式録画・音声の機械文字起こしを3件収録。 公式録画・音声の機械文字起こしを6件収録。"
       }
     },
     {
