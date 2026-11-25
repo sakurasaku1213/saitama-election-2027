@@ -27294,6 +27294,30 @@ GIKAI.questionText = {
       "speakers": []
     },
     {
+      "id": "0bb0e1ada0dfbba62325",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-16",
+      "url": "https://www.pref.saitama.lg.jp/documents/290282/302_050_seigan.pdf",
+      "title": "令和8年9月定例会 請願の審査結果（県議会時報）",
+      "kind": "請願審査結果（公式PDF・照合要約）",
+      "scope": "supporting",
+      "note": "県議会時報第302号50頁の集計表と請願別表を原本で照合。表示日は本会議での採決日。",
+      "speakers": []
+    },
+    {
+      "id": "ef44cbd555c0f9d6c6f5",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-16",
+      "url": "https://www.pref.saitama.lg.jp/documents/290282/302_002-009_teireikainokeika.pdf",
+      "title": "令和8年9月定例会の経過（県議会時報の請願関係）",
+      "kind": "議事概要（公式PDF・照合要約）",
+      "scope": "supporting",
+      "note": "県議会時報第302号７～８頁の請願関係箇所を原本で照合。表示日は本会議での採決日。",
+      "speakers": []
+    },
+    {
       "id": "d0fe101a71f925f3650b",
       "place": "埼玉県",
       "season": "fall",

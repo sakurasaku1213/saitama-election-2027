@@ -62,6 +62,10 @@ GIKAI.coverage2026 = {
         {
           "label": "委員長報告17資料の公式目次",
           "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/5.html"
+        },
+        {
+          "label": "埼玉県議会時報（会期別の公式資料一覧）",
+          "url": "https://www.pref.saitama.lg.jp/e1601/gikaijihou/r0802.html"
         }
       ]
     },
@@ -118,6 +122,10 @@ GIKAI.coverage2026 = {
         {
           "label": "委員長報告16資料の公式目次",
           "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/5.html"
+        },
+        {
+          "label": "埼玉県議会時報（会期別の公式資料一覧）",
+          "url": "https://www.pref.saitama.lg.jp/e1601/gikaijihou/r0806.html"
         }
       ]
     },
@@ -170,6 +178,10 @@ GIKAI.coverage2026 = {
         {
           "label": "委員長報告18資料の公式目次",
           "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/5.html"
+        },
+        {
+          "label": "埼玉県議会時報（会期別の公式資料一覧）",
+          "url": "https://www.pref.saitama.lg.jp/e1601/gikaijihou/r0809.html"
         }
       ]
     },
@@ -141068,6 +141080,74 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.kamisato.saitama.jp/secure/15886/%E5%B1%B1%E4%B8%8B%E5%8D%9A%E4%B8%80%E7%94%BA%E9%95%B7%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E8%BE%9E%E8%81%B7%E5%8B%A7%E5%91%8A%E6%B1%BA%E8%AD%B0%20.pdf",
       "sourceTitle": "上里町議会・決議原文",
       "voteNote": "公表された町議会の決議文を収録。議決時の議員別賛否は確認中。"
+    },
+    {
+      "place": "埼玉県",
+      "session": "2026年秋の定例会",
+      "season": "fall",
+      "number": "議請第1号",
+      "title": "川越マスジドに関する請願書",
+      "result": "不採択",
+      "date": "2026-10-16",
+      "proposer": "個人",
+      "url": "https://www.pref.saitama.lg.jp/documents/290282/302_050_seigan.pdf#page=1",
+      "sourceTitle": "県議会時報の請願審査結果",
+      "resultURL": "https://www.pref.saitama.lg.jp/documents/288676/news2026101702.pdf#page=1",
+      "committeeURL": "https://www.pref.saitama.lg.jp/documents/290282/302_050_seigan.pdf#page=1",
+      "voteURL": "https://www.pref.saitama.lg.jp/documents/290282/302_002-009_teireikainokeika.pdf#page=7",
+      "voteNote": "県土都市整備委員会が第１～３項と第５～８項、警察危機管理防災委員会が第４項を分割して審査し、両方とも不採択。 本会議の採決は、県議会時報第302号８頁。",
+      "resultLocator": "県議会の議決結果 PDF１頁"
+    },
+    {
+      "place": "埼玉県",
+      "session": "2026年秋の定例会",
+      "season": "fall",
+      "number": "議請第2号",
+      "title": "女性の経済的自立を妨げる所得税法第56条の廃止を求める請願",
+      "result": "不採択",
+      "date": "2026-10-16",
+      "proposer": "埼玉県商工団体連合会婦人部協議会会長ほか4,576名",
+      "url": "https://www.pref.saitama.lg.jp/documents/290282/302_050_seigan.pdf#page=1",
+      "sourceTitle": "県議会時報の請願審査結果",
+      "resultURL": "https://www.pref.saitama.lg.jp/documents/288676/news2026101702.pdf#page=1",
+      "committeeURL": "https://www.pref.saitama.lg.jp/documents/290282/302_050_seigan.pdf#page=1",
+      "voteURL": "https://www.pref.saitama.lg.jp/documents/290282/302_002-009_teireikainokeika.pdf#page=7",
+      "voteNote": "産業労働企業委員会で不採択。 本会議の採決は、県議会時報第302号８頁。",
+      "resultLocator": "県議会の議決結果 PDF１頁"
+    },
+    {
+      "place": "埼玉県",
+      "session": "2026年秋の定例会",
+      "season": "fall",
+      "number": "議請第3号",
+      "title": "小中学校の給食費の無償を求める請願",
+      "result": "不採択",
+      "date": "2026-10-16",
+      "proposer": "安全な地元農産物の活用と学校給食の無償化をめざす埼玉連絡会",
+      "url": "https://www.pref.saitama.lg.jp/documents/290282/302_050_seigan.pdf#page=1",
+      "sourceTitle": "県議会時報の請願審査結果",
+      "resultURL": "https://www.pref.saitama.lg.jp/documents/288676/news2026101702.pdf#page=1",
+      "committeeURL": "https://www.pref.saitama.lg.jp/documents/290282/302_050_seigan.pdf#page=1",
+      "voteURL": "https://www.pref.saitama.lg.jp/documents/290282/302_002-009_teireikainokeika.pdf#page=7",
+      "voteNote": "文教委員会で不採択。 本会議の採決は、県議会時報第302号８頁。",
+      "resultLocator": "県議会の議決結果 PDF１頁"
+    },
+    {
+      "place": "埼玉県",
+      "session": "2026年秋の定例会",
+      "season": "fall",
+      "number": "議請第4号",
+      "title": "県教育委員会および県立学校における重大事態対応体制の検証と改善に関する請願",
+      "result": "採択",
+      "date": "2026-10-16",
+      "proposer": "個人",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/8.html",
+      "sourceTitle": "県議会の採択請願本文",
+      "resultURL": "https://www.pref.saitama.lg.jp/documents/288676/news2026101702.pdf#page=1",
+      "committeeURL": "https://www.pref.saitama.lg.jp/documents/290282/302_050_seigan.pdf#page=1",
+      "voteURL": "https://www.pref.saitama.lg.jp/documents/290282/302_002-009_teireikainokeika.pdf#page=7",
+      "voteNote": "文教委員会で採択。集計表の「執行部への送付（要）」欄に１件。 本会議の採決は、県議会時報第302号８頁。",
+      "resultLocator": "県議会の議決結果 PDF１頁"
     }
   ],
   "policy": [
