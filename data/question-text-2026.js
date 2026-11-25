@@ -27724,6 +27724,30 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "0dab702e7a91928c259d",
+      "place": "幸手市",
+      "season": "spring",
+      "date": "2026-02-18",
+      "title": "令和 ８年 第１回 定例会（３月） 02月18日－目次",
+      "kind": "公式会議録の付録（HTML）",
+      "scope": "summary",
+      "url": "https://ssp.kaigiroku.net/tenant/satte/SpMinuteView.html?tenant_id=182&council_id=117&schedule_id=1",
+      "note": "公式年別目録にある会議録の目次または付録資料。",
+      "speakers": []
+    },
+    {
+      "id": "313ebcc234180b1aa96a",
+      "place": "幸手市",
+      "season": "spring",
+      "date": "2026-02-18",
+      "title": "令和8年第1回定例会 一般質問通告",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "url": "https://www.city.satte.lg.jp/material/files/group/31/ippansitumon0803.pdf",
+      "note": "公式資料の全頁を収録。質問の実施と答弁は本会議録を参照。",
+      "speakers": []
+    },
+    {
       "id": "07ca6a65cd5c8c4e98a3",
       "place": "幸手市",
       "season": "spring",
@@ -27821,6 +27845,30 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "a7758af07c8dcd9dcfb4",
+      "place": "幸手市",
+      "season": "spring",
+      "date": "2026-03-17",
+      "title": "令和 ８年 第１回 定例会（３月） （資料）",
+      "kind": "公式会議録の付録（HTML）",
+      "scope": "summary",
+      "url": "https://ssp.kaigiroku.net/tenant/satte/SpMinuteView.html?tenant_id=182&council_id=117&schedule_id=8",
+      "note": "公式年別目録にある会議録の目次または付録資料。",
+      "speakers": []
+    },
+    {
+      "id": "13d1e0d95f0e514917d6",
+      "place": "幸手市",
+      "season": "spring",
+      "date": "2026-05",
+      "title": "市議会だより「さって」第118号",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "url": "https://www.city.satte.lg.jp/material/files/group/31/dayori118.pdf",
+      "note": "幸手市議会の公式紙面を物理PDF頁ごとに収録。議員別表決は原紙面を照合。",
+      "speakers": []
+    },
+    {
       "id": "1d307c08889d09953f18",
       "place": "幸手市",
       "season": "summer",
@@ -27834,6 +27882,30 @@ GIKAI.questionText = {
         "木村治夫",
         "青木章"
       ]
+    },
+    {
+      "id": "4d97e06865ae4821c67b",
+      "place": "幸手市",
+      "season": "summer",
+      "date": "2026-06-01",
+      "title": "令和 ８年 第２回 定例会（６月） 06月01日－目次",
+      "kind": "公式会議録の付録（HTML）",
+      "scope": "summary",
+      "url": "https://ssp.kaigiroku.net/tenant/satte/SpMinuteView.html?tenant_id=182&council_id=118&schedule_id=1",
+      "note": "公式年別目録にある会議録の目次または付録資料。",
+      "speakers": []
+    },
+    {
+      "id": "9a4dc57fc823f3700ecd",
+      "place": "幸手市",
+      "season": "summer",
+      "date": "2026-06-01",
+      "title": "令和8年第2回定例会 一般質問通告",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "url": "https://www.city.satte.lg.jp/material/files/group/31/ippansitumon0806.pdf",
+      "note": "公式資料の全頁を収録。質問の実施と答弁は本会議録を参照。",
+      "speakers": []
     },
     {
       "id": "1f50d6ddea252300d155",
@@ -27925,6 +27997,30 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "e9a0c9d32aee348ab007",
+      "place": "幸手市",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "令和 ８年 第２回 定例会（６月） （資料）",
+      "kind": "公式会議録の付録（HTML）",
+      "scope": "summary",
+      "url": "https://ssp.kaigiroku.net/tenant/satte/SpMinuteView.html?tenant_id=182&council_id=118&schedule_id=8",
+      "note": "公式年別目録にある会議録の目次または付録資料。",
+      "speakers": []
+    },
+    {
+      "id": "a6ba3d76abe88365ba11",
+      "place": "幸手市",
+      "season": "summer",
+      "date": "2026-08",
+      "title": "市議会だより「さって」第119号",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "url": "https://www.city.satte.lg.jp/material/files/group/31/gikai119.pdf",
+      "note": "幸手市議会の公式紙面を物理PDF頁ごとに収録。議員別表決は原紙面を照合。",
+      "speakers": []
+    },
+    {
       "id": "1f57f1be393f916e1f44",
       "place": "幸手市",
       "season": "fall",
@@ -27938,6 +28034,30 @@ GIKAI.questionText = {
         "木村治夫",
         "青木章"
       ]
+    },
+    {
+      "id": "cb3b41d275e853fef327",
+      "place": "幸手市",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "令和 ８年 第３回 定例会（９月） 09月01日－目次",
+      "kind": "公式会議録の付録（HTML）",
+      "scope": "summary",
+      "url": "https://ssp.kaigiroku.net/tenant/satte/SpMinuteView.html?tenant_id=182&council_id=119&schedule_id=1",
+      "note": "公式年別目録にある会議録の目次または付録資料。",
+      "speakers": []
+    },
+    {
+      "id": "91feeb8dc5abd8bed1d1",
+      "place": "幸手市",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "令和8年第3回定例会 一般質問通告",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "url": "https://www.city.satte.lg.jp/material/files/group/31/ippansitumon0809.pdf",
+      "note": "公式資料の全頁を収録。質問の実施と答弁は本会議録を参照。",
+      "speakers": []
     },
     {
       "id": "b97a9288ad9937128f22",
@@ -28034,6 +28154,30 @@ GIKAI.questionText = {
         "芦葉弘志",
         "青木章"
       ]
+    },
+    {
+      "id": "24f2aa6937ecd2518552",
+      "place": "幸手市",
+      "season": "fall",
+      "date": "2026-09-29",
+      "title": "令和 ８年 第３回 定例会（９月） （資料）",
+      "kind": "公式会議録の付録（HTML）",
+      "scope": "summary",
+      "url": "https://ssp.kaigiroku.net/tenant/satte/SpMinuteView.html?tenant_id=182&council_id=119&schedule_id=8",
+      "note": "公式年別目録にある会議録の目次または付録資料。",
+      "speakers": []
+    },
+    {
+      "id": "32291db1b149385fa454",
+      "place": "幸手市",
+      "season": "fall",
+      "date": "2026-11",
+      "title": "市議会だより「さって」第120号",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "url": "https://www.city.satte.lg.jp/material/files/group/31/SATT_GIKII120.pdf",
+      "note": "幸手市議会の公式紙面を物理PDF頁ごとに収録。議員別表決は原紙面を照合。",
+      "speakers": []
     },
     {
       "id": "8739c3e354abeb9e927b",
@@ -44412,7 +44556,7 @@ GIKAI.questionText = {
       "season": "spring",
       "material": {
         "state": "verified",
-        "note": "公式目次と照合した本会議の日別会議録6資料を収録。",
+        "note": "現行の公式本会議録６日分、目次・付録、一般質問通告と議会だより第118号を収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/satte/SpMinuteBrowse.html?tenant_id=182&view_years=2026"
       }
     },
@@ -44421,7 +44565,7 @@ GIKAI.questionText = {
       "season": "summer",
       "material": {
         "state": "verified",
-        "note": "公式目次と照合した本会議の日別会議録6資料を収録。",
+        "note": "現行の公式本会議録６日分、目次・付録、一般質問通告と議会だより第119号を収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/satte/SpMinuteBrowse.html?tenant_id=182&view_years=2026"
       }
     },
@@ -44430,7 +44574,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "verified",
-        "note": "公式目次と照合した本会議の日別会議録6資料を収録。",
+        "note": "現行の公式本会議録６日分、目次・付録、一般質問通告と議会だより第120号を収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/satte/SpMinuteBrowse.html?tenant_id=182&view_years=2026"
       }
     },

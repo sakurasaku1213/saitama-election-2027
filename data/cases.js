@@ -17871,3 +17871,513 @@ GIKAI.cases.push(...[
     "note": "改正と市の予定公表を確認。移行後の利用実績や相談体制は確認待ち。"
   }
 ]);
+
+GIKAI.cases.push(...[
+  {
+    "place": "幸手市",
+    "title": "幸手市の水道料金改定、給水条例の可決から10月の適用まで",
+    "topic": "水道・公共料金",
+    "actors": [
+      "坂本達夫",
+      "幸手市",
+      "幸手市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-17",
+        "stage": "給水条例の改正案を可決",
+        "actor": "坂本達夫、幸手市議会",
+        "detail": "建設経済常任委員会の審査を経て、給水条例を改正。表決原表では大平泰二議員は反対。",
+        "url": "https://ssp.kaigiroku.net/tenant/satte/SpMinuteView.html?tenant_id=182&council_id=117&schedule_id=7",
+        "sourceTitle": "幸手市議会・03月17日－06号",
+        "archiveId": "595970ae17660158c6fe",
+        "blocks": [
+          24,
+          34,
+          35
+        ],
+        "billNumber": "議案第8号",
+        "memberActions": [
+          {
+            "name": "坂本達夫",
+            "detail": "建設経済常任委員長として、料金改定を扱う給水条例の審査結果を報告した。",
+            "blocks": [
+              24
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-04-01",
+        "stage": "市が新料金と適用時期を案内",
+        "actor": "幸手市",
+        "detail": "市は老朽施設の更新費用などを挙げ、改定率34.3％と案内。個々の請求額は口径・使用量による。",
+        "url": "https://www.city.satte.lg.jp/material/files/group/1/202604-6-7.pdf",
+        "sourceTitle": "広報さって2026年４月号・紙面６頁"
+      },
+      {
+        "date": "2026-10-01",
+        "stage": "改定水道料金を適用",
+        "actor": "幸手市",
+        "detail": "市は10月１日から改定したことを水道事業の案内で公表した。",
+        "url": "https://www.city.satte.lg.jp/soshiki/suidoukanri/1_1/index.html",
+        "sourceTitle": "幸手市・水道事業"
+      }
+    ],
+    "note": "条例の可決と改定時期を確認。世帯別の請求額と更新事業の進捗は別途確認。"
+  },
+  {
+    "place": "幸手市",
+    "title": "空家等の適切な管理、新条例と除却支援、対策計画",
+    "topic": "住宅・空家",
+    "actors": [
+      "松田雅代",
+      "幸手市",
+      "幸手市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-17",
+        "stage": "空家等の管理に関する条例を可決",
+        "actor": "松田雅代、幸手市議会",
+        "detail": "文教厚生常任委員会の審査後、新たな空家管理条例を原案可決。",
+        "url": "https://ssp.kaigiroku.net/tenant/satte/SpMinuteView.html?tenant_id=182&council_id=117&schedule_id=7",
+        "sourceTitle": "幸手市議会・03月17日－06号",
+        "archiveId": "595970ae17660158c6fe",
+        "blocks": [
+          22,
+          31,
+          32
+        ],
+        "billNumber": "議案第5号",
+        "memberActions": [
+          {
+            "name": "松田雅代",
+            "detail": "文教厚生常任委員長として、空家管理条例の審査を報告した。",
+            "blocks": [
+              22
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-03-30",
+        "stage": "条例に対応する施行規則を公布",
+        "actor": "幸手市",
+        "detail": "例規集に条例第４号、施行規則第17号と空家等除却補助金の交付要綱が掲載された。",
+        "url": "https://www.city.satte.lg.jp/section/reikisyu/reiki_taikei/r_taikei_10_03_05.html",
+        "sourceTitle": "幸手市・空家対策の条例・規則・要綱"
+      },
+      {
+        "date": "2026-09-10",
+        "stage": "空家等対策計画を公表",
+        "actor": "幸手市",
+        "detail": "相談、啓発、所有者への情報提供、除却補助などの取組を市が案内。",
+        "url": "https://www.city.satte.lg.jp/soshiki/shiminkyoudou/2_3/15477.html",
+        "sourceTitle": "幸手市・空家等対策計画"
+      }
+    ],
+    "note": "条例・施行規則と計画を確認。除却補助の利用件数や管理状況の改善は確認待ち。"
+  },
+  {
+    "place": "幸手市",
+    "title": "小中学校給食費の無償化、公会計化と市の実施案内",
+    "topic": "教育・子育て",
+    "actors": [
+      "松田雅代",
+      "幸手市",
+      "幸手市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-17",
+        "stage": "学校給食費補助の審査報告と当初予算の可決",
+        "actor": "松田雅代、幸手市議会",
+        "detail": "当初予算の文教厚生関係で学校給食費補助の内容が審査され、当初予算を可決。",
+        "url": "https://ssp.kaigiroku.net/tenant/satte/SpMinuteView.html?tenant_id=182&council_id=117&schedule_id=7",
+        "sourceTitle": "幸手市議会・03月17日－06号",
+        "archiveId": "595970ae17660158c6fe",
+        "blocks": [
+          65,
+          79,
+          80
+        ],
+        "billNumber": "議案第15号",
+        "memberActions": [
+          {
+            "name": "松田雅代",
+            "detail": "文教厚生常任委員長として、学校給食費補助などの審査結果を報告した。",
+            "blocks": [
+              65
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-04-01",
+        "stage": "小学校・中学校の給食費無償化と公会計化を案内",
+        "actor": "幸手市",
+        "detail": "市は小学校を国の負担軽減策、中学校を市独自の施策として完全無償化することを公表した。",
+        "url": "https://www.city.satte.lg.jp/soshiki/soumu/2/15488.html",
+        "sourceTitle": "幸手市・学校給食費の案内"
+      }
+    ],
+    "note": "制度実施と市の案内を確認。年度内の支出実績は確認待ち。"
+  },
+  {
+    "place": "幸手市",
+    "title": "国民健康保険税の改定、納付金の審査から新年度の税率案内へ",
+    "topic": "国民健康保険・税",
+    "actors": [
+      "松田雅代",
+      "幸手市",
+      "幸手市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-17",
+        "stage": "国保税改正を可決",
+        "actor": "松田雅代、幸手市議会",
+        "detail": "委員会では子ども・子育て支援の納付金額が論点。本会議は賛成多数で可決、原表では大平泰二議員が反対。",
+        "url": "https://ssp.kaigiroku.net/tenant/satte/SpMinuteView.html?tenant_id=182&council_id=117&schedule_id=7",
+        "sourceTitle": "幸手市議会・03月17日－06号",
+        "archiveId": "595970ae17660158c6fe",
+        "blocks": [
+          22,
+          33,
+          34
+        ],
+        "billNumber": "議案第7号",
+        "memberActions": [
+          {
+            "name": "松田雅代",
+            "detail": "委員長として、子ども・子育て支援納付金の額に関する質疑と委員会結果を報告した。",
+            "blocks": [
+              22
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-04",
+        "stage": "2026年度の改定税率を適用",
+        "actor": "幸手市",
+        "detail": "市は医療給付分、後期高齢者支援金等分、介護納付金分、子ども・子育て支援納付金分の率と額を掲示。",
+        "url": "https://www.city.satte.lg.jp/soshiki/hokennenkin/4/2/1884/15337.html",
+        "sourceTitle": "幸手市・国民健康保険税の年度別案内"
+      }
+    ],
+    "note": "税率改正の議決と市の案内を確認。世帯の負担額は加入者の区分や所得によって異なる。"
+  },
+  {
+    "place": "幸手市",
+    "title": "議員の政務活動費、増額の提案と賛否の討論、改正条例",
+    "topic": "議会運営・政務活動費",
+    "actors": [
+      "木村治夫",
+      "小河原浩和",
+      "本田謡子",
+      "宮澤大地",
+      "大平泰二",
+      "幸手市",
+      "幸手市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-02-18",
+        "stage": "年額12万円から36万円への改正案を提出・説明",
+        "actor": "木村治夫、幸手市議会",
+        "detail": "木村議員が所定の賛成者を得て提出した案を説明。2026年度から適用する条文。",
+        "url": "https://ssp.kaigiroku.net/tenant/satte/SpMinuteView.html?tenant_id=182&council_id=117&schedule_id=2",
+        "sourceTitle": "幸手市議会・02月18日－01号",
+        "archiveId": "0ac3f066dad29bae96d6",
+        "blocks": [
+          73,
+          74
+        ],
+        "memberActions": [
+          {
+            "name": "木村治夫",
+            "detail": "活動の多様化と必要経費を挙げ、年額増額の条例案の提案理由を説明した。",
+            "blocks": [
+              74
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-03-17",
+        "stage": "議会で増額を可決",
+        "actor": "小河原浩和、本田謡子、宮澤大地、大平泰二、幸手市議会",
+        "detail": "金額の根拠や議会内の調整を審査し、本会議で賛成多数。原表では議長を除き賛成10・反対４。",
+        "url": "https://ssp.kaigiroku.net/tenant/satte/SpMinuteView.html?tenant_id=182&council_id=117&schedule_id=7",
+        "sourceTitle": "幸手市議会・03月17日－06号",
+        "archiveId": "595970ae17660158c6fe",
+        "blocks": [
+          109,
+          114,
+          116,
+          118,
+          133,
+          134
+        ],
+        "billNumber": "会議案第1号",
+        "memberActions": [
+          {
+            "name": "小河原浩和",
+            "detail": "総務常任委員長として金額の根拠や議会内の調整に関する審査を報告した。",
+            "blocks": [
+              109
+            ]
+          },
+          {
+            "name": "本田謡子",
+            "detail": "環境が整っていない点などを理由に反対討論した。",
+            "blocks": [
+              114
+            ]
+          },
+          {
+            "name": "宮澤大地",
+            "detail": "議員活動の必要経費として増額案に賛成討論した。",
+            "blocks": [
+              116
+            ]
+          },
+          {
+            "name": "大平泰二",
+            "detail": "増額幅と議員間での協議の進め方に言及し、反対討論した。",
+            "blocks": [
+              118
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-04-01",
+        "stage": "2026年度から改定額を適用",
+        "actor": "幸手市",
+        "detail": "例規集は交付額を年額36万円と掲載。使途の範囲を超える額や残余額の取扱いも条例で確認できる。",
+        "url": "https://www.city.satte.lg.jp/section/reikisyu/reiki_honbun/e341RG00000682.html",
+        "sourceTitle": "幸手市・政務活動費交付条例"
+      }
+    ],
+    "note": "提案説明、議決、改正条例を確認。増額後の個別支出や使途の公開は収支報告書の確認が必要。"
+  },
+  {
+    "place": "幸手市",
+    "title": "省エネ家電の買換え補助、予算質疑から申請受付まで",
+    "topic": "家計・エネルギー",
+    "actors": [
+      "本田謡子",
+      "木村治夫",
+      "幸手市",
+      "幸手市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-06-19",
+        "stage": "買換え補助を含む補正予算を可決",
+        "actor": "本田謡子、木村治夫、幸手市議会",
+        "detail": "国交付金等を財源に省エネ家電の買換え補助事業に2,013万5,000円を計上。本会議で可決。",
+        "url": "https://ssp.kaigiroku.net/tenant/satte/SpMinuteView.html?tenant_id=182&council_id=118&schedule_id=7",
+        "sourceTitle": "幸手市議会・06月19日－06号",
+        "archiveId": "cc24a3727e6449487d7c",
+        "blocks": [
+          52,
+          70,
+          71,
+          80,
+          81,
+          82
+        ],
+        "billNumber": "議案第40号",
+        "memberActions": [
+          {
+            "name": "本田謡子",
+            "detail": "補助の対象者の条件と応募が予定件数を超えた場合の取扱いを質した。",
+            "blocks": [
+              70
+            ]
+          },
+          {
+            "name": "木村治夫",
+            "detail": "物価高対策の財源と補助事業に言及して補正予算に賛成討論した。",
+            "blocks": [
+              80
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-08-01",
+        "stage": "買換えの対象期間と申請条件を公表",
+        "actor": "幸手市",
+        "detail": "市がエアコン・冷蔵庫の買換え、購入・設置時期などの条件を案内。",
+        "url": "https://www.city.satte.lg.jp/soshiki/kankyou/1/5/15761.html",
+        "sourceTitle": "幸手市・省エネ家電補助の案内"
+      },
+      {
+        "date": "2026-09-01",
+        "stage": "要綱が定める申請期間の初日",
+        "actor": "幸手市",
+        "detail": "補助金交付要綱の申請期間は2026年９月１日から2027年２月26日まで。",
+        "url": "https://www.city.satte.lg.jp/section/reikisyu/reiki_honbun/e341RG00001486.html",
+        "sourceTitle": "幸手市・買換促進事業補助金交付要綱"
+      }
+    ],
+    "note": "補正の可決と要綱・申請案内を確認。実際の採択件数と電力削減量は確認待ち。"
+  },
+  {
+    "place": "幸手市",
+    "title": "東小中学校開校に向けた増築、住民への説明から工事の記録へ",
+    "topic": "教育・学校再編",
+    "actors": [
+      "幸手市",
+      "幸手市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-15",
+        "stage": "市が開校準備の住民説明会を開催",
+        "actor": "幸手市",
+        "detail": "増築・既存校舎整備の基本計画や開校準備について報告した。",
+        "url": "https://www.city.satte.lg.jp/soshiki/soumu/2/1/saihen/15552.html",
+        "sourceTitle": "幸手市・開校準備の報告会"
+      },
+      {
+        "date": "2026-06-01",
+        "stage": "増築工事の契約案と工期を説明",
+        "actor": "幸手市",
+        "detail": "一般競争入札を経て仮契約し、建築工事の契約案を提出。教室、保健室、放課後児童クラブ室などを整備する計画。",
+        "url": "https://ssp.kaigiroku.net/tenant/satte/SpMinuteView.html?tenant_id=182&council_id=118&schedule_id=2",
+        "sourceTitle": "幸手市議会・06月01日－01号",
+        "archiveId": "1d307c08889d09953f18",
+        "blocks": [
+          56,
+          57
+        ]
+      },
+      {
+        "date": "2026-06-10",
+        "stage": "校舎増築工事の建築契約を可決",
+        "actor": "幸手市議会",
+        "detail": "議会は議案第36号を可決。提案説明での工期の終期は2027年２月26日。",
+        "url": "https://ssp.kaigiroku.net/tenant/satte/SpMinuteView.html?tenant_id=182&council_id=118&schedule_id=6",
+        "sourceTitle": "幸手市議会・06月10日－05号",
+        "archiveId": "99f51e187d171e4e3f54",
+        "blocks": [
+          24,
+          25,
+          26,
+          27
+        ],
+        "billNumber": "議案第36号"
+      },
+      {
+        "date": "2026-08-10",
+        "stage": "市が撮影した工事状況を確認",
+        "actor": "幸手市",
+        "detail": "市は増築棟の工事状況として、中庭の伐採・抜根の写真を日付付きで掲載した。",
+        "url": "https://www.city.satte.lg.jp/soshiki/soumu/2/1/saihen/zouchikukisonkousyaseibi.html",
+        "sourceTitle": "幸手市・校舎増築の進捗"
+      }
+    ],
+    "note": "建築契約の議決と現地工事の写真を確認。開校は2027年４月予定。"
+  },
+  {
+    "place": "幸手市",
+    "title": "議員と職員に関するハラスメント調査の決議案、提出・再質疑と否決",
+    "topic": "議会運営・審議",
+    "actors": [
+      "本田謡子",
+      "木村治夫",
+      "四本奈緒美",
+      "小河原浩和",
+      "宮澤大地",
+      "幸手市",
+      "幸手市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-09-29",
+        "stage": "調査実施の決議案を提出して質疑",
+        "actor": "本田謡子、木村治夫、四本奈緒美、小河原浩和、幸手市議会",
+        "detail": "議員・職員を対象とする調査の範囲、方法、市の既存の指針との関係を質疑した。",
+        "url": "https://ssp.kaigiroku.net/tenant/satte/SpMinuteView.html?tenant_id=182&council_id=119&schedule_id=7",
+        "sourceTitle": "幸手市議会・09月29日－06号",
+        "archiveId": "cd5c61f4a535f3390539",
+        "blocks": [
+          99,
+          100,
+          102,
+          106,
+          108,
+          113,
+          115,
+          125,
+          131
+        ],
+        "memberActions": [
+          {
+            "name": "本田謡子",
+            "detail": "調査実施を求める決議案を提出し、提案理由と調査対象について答えた。",
+            "blocks": [
+              100,
+              108,
+              115,
+              131
+            ]
+          },
+          {
+            "name": "木村治夫",
+            "detail": "提案を見た時期と調査に向けた議員間の確認などを質した。",
+            "blocks": [
+              102,
+              106
+            ]
+          },
+          {
+            "name": "四本奈緒美",
+            "detail": "市が策定した指針と決議による調査との関係を質した。",
+            "blocks": [
+              113
+            ]
+          },
+          {
+            "name": "小河原浩和",
+            "detail": "議員と職員のどの範囲の事案を調査するのかを質した。",
+            "blocks": [
+              125
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-09-29",
+        "stage": "本会議で決議案を否決",
+        "actor": "宮澤大地、幸手市議会",
+        "detail": "起立少数で否決。原表で賛成５・反対９・議長不参加１を確認。",
+        "url": "https://ssp.kaigiroku.net/tenant/satte/SpMinuteView.html?tenant_id=182&council_id=119&schedule_id=7",
+        "sourceTitle": "幸手市議会・09月29日－06号",
+        "archiveId": "cd5c61f4a535f3390539",
+        "blocks": [
+          158,
+          159,
+          160
+        ],
+        "billNumber": "決議案第1号",
+        "memberActions": [
+          {
+            "name": "宮澤大地",
+            "detail": "防止の必要性を述べた上で、決議案の理由の示し方などを指摘し反対討論した。",
+            "blocks": [
+              158
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "調査を提案した事実、審議と採決を確認。個別の行為の有無や処分を認定する資料は確認していない。"
+  }
+]);
