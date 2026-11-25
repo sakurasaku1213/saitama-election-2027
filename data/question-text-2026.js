@@ -1980,6 +1980,18 @@ GIKAI.questionText = {
       "speakers": []
     },
     {
+      "id": "3e72f73829709c738835",
+      "place": "ときがわ町",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "本会議　開会・会期の決定・諸報告（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/tokigawa/WebView/rd/speech.html?council_id=49&schedule_id=1&playlist_id=1&speaker_id=0&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 通しの本会議録画。",
+      "speakers": []
+    },
+    {
       "id": "0bf045c6ac6eaa5a5e52",
       "place": "ときがわ町",
       "season": "fall",
@@ -2022,6 +2034,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "681794ab05cf2d9b72b6",
+      "place": "ときがわ町",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "野原和夫議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/tokigawa/WebView/rd/speech.html?council_id=49&schedule_id=1&playlist_id=6&speaker_id=13&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 質問者名は公式録画の目録によります。",
+      "speakers": [
+        "野原和夫"
+      ]
+    },
+    {
       "id": "1993a1f1a50c503f9a57",
       "place": "ときがわ町",
       "season": "fall",
@@ -2036,6 +2062,34 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "c9b74074287bbd274722",
+      "place": "ときがわ町",
+      "season": "fall",
+      "date": "2026-09-02",
+      "title": "小室初江議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/tokigawa/WebView/rd/speech.html?council_id=49&schedule_id=2&playlist_id=3&speaker_id=20&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 質問者名は公式録画の目録によります。",
+      "speakers": [
+        "小室初江"
+      ]
+    },
+    {
+      "id": "cf7c5de1fb434b35a492",
+      "place": "ときがわ町",
+      "season": "fall",
+      "date": "2026-09-02",
+      "title": "小島利枝議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/tokigawa/WebView/rd/speech.html?council_id=49&schedule_id=2&playlist_id=1&speaker_id=7&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 質問者名は公式録画の目録によります。",
+      "speakers": [
+        "小島利枝"
+      ]
+    },
+    {
       "id": "bd9ffde9631e70b7d1e8",
       "place": "ときがわ町",
       "season": "fall",
@@ -2044,6 +2098,46 @@ GIKAI.questionText = {
       "kind": "公式録画の機械文字起こし",
       "scope": "recording",
       "url": "https://smart.discussvision.net/smart/tenant/tokigawa/WebView/rd/speech.html?council_id=49&schedule_id=2&playlist_id=5&speaker_id=0&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 通しの本会議録画。",
+      "speakers": []
+    },
+    {
+      "id": "cb09d63d63ce966f9a54",
+      "place": "ときがわ町",
+      "season": "fall",
+      "date": "2026-09-02",
+      "title": "畑豊議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/tokigawa/WebView/rd/speech.html?council_id=49&schedule_id=2&playlist_id=2&speaker_id=16&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 質問者名は公式録画の目録によります。 ９月３日の公式録画の機械文字起こしには、９月２日の一般質問での発言の一部を取り消す申出が許可された旨があります。取消箇所は正式会議録で確認待ち。",
+      "speakers": [
+        "畑豊"
+      ]
+    },
+    {
+      "id": "e13eb489de02a05c4fe8",
+      "place": "ときがわ町",
+      "season": "fall",
+      "date": "2026-09-02",
+      "title": "神山俊議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/tokigawa/WebView/rd/speech.html?council_id=49&schedule_id=2&playlist_id=4&speaker_id=6&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 質問者名は公式録画の目録によります。",
+      "speakers": [
+        "神山俊"
+      ]
+    },
+    {
+      "id": "dc44f3fc7fe28a257338",
+      "place": "ときがわ町",
+      "season": "fall",
+      "date": "2026-09-03",
+      "title": "本会議　議案と決算の説明（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/tokigawa/WebView/rd/speech.html?council_id=49&schedule_id=3&playlist_id=1&speaker_id=0&target_year=2026",
       "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 通しの本会議録画。",
       "speakers": []
     },
@@ -10357,6 +10451,20 @@ GIKAI.questionText = {
       "url": "https://yoshikawa.gijiroku.com/g07_Video_View.asp?SrchID=1257",
       "speakers": [
         "降旗聡"
+      ]
+    },
+    {
+      "id": "acf81561538ad0316cce",
+      "place": "吉川市",
+      "season": "fall",
+      "date": "2026-09-17",
+      "title": "岩崎小百合議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://yoshikawa.gijiroku.com/g07_Video_View.asp?SrchID=1264",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "岩崎小百合"
       ]
     },
     {
@@ -42088,6 +42196,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "128e2d6713ebe8916682",
+      "place": "羽生市",
+      "season": "fall",
+      "date": "2026-09-15",
+      "title": "小野田和男議員　議案質疑（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/hanyu/WebView/rd/speech.html?council_id=55&schedule_id=2&playlist_id=9&speaker_id=25&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。 録画の末尾を切り出して再処理しました。 末尾の再処理で、本文の末尾より後に追加する機械認識の文言は生じませんでした。",
+      "speakers": [
+        "小野田和男"
+      ]
+    },
+    {
       "id": "6c04bccd2fb0de7f32e7",
       "place": "羽生市",
       "season": "fall",
@@ -42172,6 +42294,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "599618e2e756e11ae19b",
+      "place": "羽生市",
+      "season": "fall",
+      "date": "2026-09-15",
+      "title": "西山丈由議員　議案質疑（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/hanyu/WebView/rd/speech.html?council_id=55&schedule_id=2&playlist_id=11&speaker_id=22&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。 録画の末尾を切り出して再処理しました。 末尾の再処理で、本文の末尾より後に追加する機械認識の文言は生じませんでした。",
+      "speakers": [
+        "西山丈由"
+      ]
+    },
+    {
       "id": "f064d3b95c5b8a781837",
       "place": "羽生市",
       "season": "fall",
@@ -42200,6 +42336,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "8f1e82938534e6a4b2ff",
+      "place": "羽生市",
+      "season": "fall",
+      "date": "2026-09-15",
+      "title": "駒宮圭吾議員　議案質疑（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/hanyu/WebView/rd/speech.html?council_id=55&schedule_id=2&playlist_id=12&speaker_id=30&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。 録画の末尾を切り出して再処理しました。",
+      "speakers": [
+        "駒宮圭吾"
+      ]
+    },
+    {
       "id": "a6d9446fa9adedb74f33",
       "place": "羽生市",
       "season": "fall",
@@ -42211,6 +42361,20 @@ GIKAI.questionText = {
       "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
       "speakers": [
         "小川明彦"
+      ]
+    },
+    {
+      "id": "912c6fd1bbc223087c5c",
+      "place": "羽生市",
+      "season": "fall",
+      "date": "2026-09-16",
+      "title": "小野田和男議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/hanyu/WebView/rd/speech.html?council_id=55&schedule_id=3&playlist_id=1&speaker_id=25&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。 録画の末尾を切り出して再処理しました。 末尾の再処理で、本文の末尾より後に追加する機械認識の文言は生じませんでした。",
+      "speakers": [
+        "小野田和男"
       ]
     },
     {
@@ -48265,7 +48429,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "第256号の一般質問12人・39問答、議案質疑10問答、その他の見出しと補足17件を収録。公式通告８頁、一般質問12本と議案質疑14本の公式録画を照合。正式会議録は確認中。 公式録画の機械文字起こし議案質疑11本・一般質問1本を収録。",
+        "note": "第256号の一般質問12人・39問答、議案質疑10問答、その他の見出しと補足17件を収録。公式通告８頁、一般質問12本と議案質疑14本の公式録画を照合。正式会議録は確認中。 公式録画の機械文字起こし議案質疑14本・一般質問2本を収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/hanyu/SpMinuteBrowse.html?tenant_id=159&view_years=2026"
       }
     },
@@ -48913,7 +49077,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "第211号の一般質問14人・17主題・26問答と、委員会・決算の17問答、討論14件などを原紙面と照合。一般質問通告23頁と議案質疑通告21頁、９月16～18日の公式録画14人。正式会議録は議会だより第211号によると12月上旬提供予定。 公式録画の機械文字起こし一般質問7本を収録。",
+        "note": "第211号の一般質問14人・17主題・26問答と、委員会・決算の17問答、討論14件などを原紙面と照合。一般質問通告23頁と議案質疑通告21頁、９月16～18日の公式録画14人。正式会議録は議会だより第211号によると12月上旬提供予定。 公式録画の機械文字起こし一般質問8本を収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/yoshikawa/SpMinuteBrowse.html?tenant_id=230&view_years=2026"
       }
     },
@@ -49263,7 +49427,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "議会だより第83号全冊と一般質問通告。紙面には９人の質問と答弁の要約を掲載。2026年11月26日確認時点で、公式会議録の年別目録に秋の掲載なし。 公式録画は一般質問９本と議事４本。機械文字起こしは一般質問4本・議事1本を収録。",
+        "note": "議会だより第83号全冊と一般質問通告。紙面には９人の質問と答弁の要約を掲載。2026年11月26日確認時点で、公式会議録の年別目録に秋の掲載なし。 公式録画は一般質問９本と議事４本。機械文字起こしは一般質問9本・議事3本を収録。",
         "indexURL": "https://www.town.tokigawa.lg.jp/info/3405"
       }
     },

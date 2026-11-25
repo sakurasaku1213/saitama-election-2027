@@ -2579,7 +2579,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "partial",
-          "note": "第256号の一般質問12人・39問答、議案質疑10問答、その他の見出しと補足17件を収録。公式通告８頁、一般質問12本と議案質疑14本の公式録画を照合。正式会議録は確認中。 公式録画の機械文字起こし議案質疑11本・一般質問1本を収録。"
+          "note": "第256号の一般質問12人・39問答、議案質疑10問答、その他の見出しと補足17件を収録。公式通告８頁、一般質問12本と議案質疑14本の公式録画を照合。正式会議録は確認中。 公式録画の機械文字起こし議案質疑14本・一般質問2本を収録。"
         },
         "decisions": {
           "state": "verified",
@@ -6835,7 +6835,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "partial",
-          "note": "第211号の一般質問14人・17主題・26問答と、委員会・決算の17問答、討論14件などを原紙面と照合。一般質問通告23頁と議案質疑通告21頁、９月16～18日の公式録画14人。正式会議録は議会だより第211号によると12月上旬提供予定。 公式録画の機械文字起こし一般質問7本を収録。"
+          "note": "第211号の一般質問14人・17主題・26問答と、委員会・決算の17問答、討論14件などを原紙面と照合。一般質問通告23頁と議案質疑通告21頁、９月16～18日の公式録画14人。正式会議録は議会だより第211号によると12月上旬提供予定。 公式録画の機械文字起こし一般質問8本を収録。"
         },
         "decisions": {
           "state": "verified",
@@ -8987,11 +8987,11 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "partial",
-          "note": "議会だより第83号全冊と一般質問通告。紙面には９人の質問と答弁の要約を掲載。2026年11月26日確認時点で、公式会議録の年別目録に秋の掲載なし。 公式録画は一般質問９本と議事４本。機械文字起こしは一般質問4本・議事1本を収録。"
+          "note": "議会だより第83号全冊と一般質問通告。紙面には９人の質問と答弁の要約を掲載。2026年11月26日確認時点で、公式会議録の年別目録に秋の掲載なし。 公式録画は一般質問９本と議事４本。機械文字起こしは一般質問9本・議事3本を収録。"
         },
         "decisions": {
           "state": "partial",
-          "note": "公式紙面の審議結果25件。庁舎統合検討特別委員会の設置と委員選任は９月２日の録画に対応。原表の案件別日付欄なし。"
+          "note": "公式紙面の審議結果25件。庁舎統合検討特別委員会の設置と委員選任は９月２日、報告第３・４号は９月３日の公式録画に対応。原表に案件別の日付欄なし。"
         },
         "votes": {
           "state": "verified",
@@ -9042,6 +9042,10 @@ GIKAI.coverage2026 = {
         {
           "label": "９月２日の本会議録画・庁舎統合検討特別委員会",
           "url": "https://smart.discussvision.net/smart/tenant/tokigawa/WebView/rd/speech.html?council_id=49&schedule_id=2&playlist_id=5&speaker_id=0&target_year=2026"
+        },
+        {
+          "label": "９月３日の公式録画・報告等",
+          "url": "https://smart.discussvision.net/smart/tenant/tokigawa/WebView/rd/speech.html?council_id=49&schedule_id=3&playlist_id=1&speaker_id=0&target_year=2026"
         }
       ]
     },
@@ -140185,28 +140189,28 @@ GIKAI.coverage2026 = {
       "season": "fall",
       "session": "令和8年第3回定例会",
       "number": "報告第3号",
-      "date": "",
+      "date": "2026-09-03",
       "title": "令和7年度決算に基づく健全化判断比率の報告",
       "result": "報告",
       "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "url": "https://smart.discussvision.net/smart/tenant/tokigawa/WebView/rd/speech.html?council_id=49&schedule_id=3&playlist_id=1&speaker_id=0&target_year=2026",
+      "sourceTitle": "ときがわ町議会・９月３日の公式録画",
       "proposer": "町長",
-      "voteNote": "原表の賛否欄が空欄の報告案件。 会期は９月１日～11日。原表に案件別の議決日欄がない。"
+      "voteNote": "公式録画の９月３日の日付・掲載内容と紙面の報告結果を照合。原表の賛否欄は空欄。"
     },
     {
       "place": "ときがわ町",
       "season": "fall",
       "session": "令和8年第3回定例会",
       "number": "報告第4号",
-      "date": "",
+      "date": "2026-09-03",
       "title": "令和7年度決算に基づく資金不足比率の報告",
       "result": "報告",
       "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "url": "https://smart.discussvision.net/smart/tenant/tokigawa/WebView/rd/speech.html?council_id=49&schedule_id=3&playlist_id=1&speaker_id=0&target_year=2026",
+      "sourceTitle": "ときがわ町議会・９月３日の公式録画",
       "proposer": "町長",
-      "voteNote": "原表の賛否欄が空欄の報告案件。 会期は９月１日～11日。原表に案件別の議決日欄がない。"
+      "voteNote": "公式録画の９月３日の日付・掲載内容と紙面の報告結果を照合。原表の賛否欄は空欄。"
     },
     {
       "place": "ときがわ町",
