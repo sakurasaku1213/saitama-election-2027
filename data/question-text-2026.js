@@ -8210,6 +8210,60 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "94c030c37a3497e686a7",
+      "place": "加須市",
+      "season": "fall",
+      "date": "2026-08-28",
+      "title": "加須市  令和　８年　第３回　定例会（　９月）  08月28日－01号",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/kazo/SpMinuteView.html?tenant_id=219&council_id=354&schedule_id=2",
+      "note": "公式の年度別目次と日付を照合。本文の区間は原典の区切りに対応。",
+      "speakers": []
+    },
+    {
+      "id": "ea13288de0e5107c5ccc",
+      "place": "加須市",
+      "season": "fall",
+      "date": "2026-08-28",
+      "title": "加須市  令和　８年　第３回　定例会（　９月）  08月28日－目次",
+      "kind": "公式会議録の付録（HTML）",
+      "scope": "summary",
+      "url": "https://ssp.kaigiroku.net/tenant/kazo/SpMinuteView.html?tenant_id=219&council_id=354&schedule_id=1",
+      "note": "公式会議録目録掲載の目次。表示日は対象会議の初日。",
+      "speakers": []
+    },
+    {
+      "id": "f051436da65397780b69",
+      "place": "加須市",
+      "season": "fall",
+      "date": "2026-09-09",
+      "title": "加須市  令和　８年　第３回　定例会（　９月）  09月09日－02号",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/kazo/SpMinuteView.html?tenant_id=219&council_id=354&schedule_id=3",
+      "note": "公式の年度別目次と日付を照合。本文の区間は原典の区切りに対応。",
+      "speakers": []
+    },
+    {
+      "id": "9a4ee63eb0d8d60ccb53",
+      "place": "加須市",
+      "season": "fall",
+      "date": "2026-09-10",
+      "title": "加須市  令和　８年　第３回　定例会（　９月）  09月10日－03号",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/kazo/SpMinuteView.html?tenant_id=219&council_id=354&schedule_id=4",
+      "note": "公式の年度別目次と日付を照合。本文の区間は原典の区切りに対応。",
+      "speakers": [
+        "池田年美",
+        "大内清心",
+        "森本寿子",
+        "竹内政雄",
+        "野中芳子"
+      ]
+    },
+    {
       "id": "6057c98b2d1895da7855",
       "place": "加須市",
       "season": "fall",
@@ -8294,6 +8348,24 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "9592599d0911670ea30a",
+      "place": "加須市",
+      "season": "fall",
+      "date": "2026-09-11",
+      "title": "加須市  令和　８年　第３回　定例会（　９月）  09月11日－04号",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/kazo/SpMinuteView.html?tenant_id=219&council_id=354&schedule_id=5",
+      "note": "公式の年度別目次と日付を照合。本文の区間は原典の区切りに対応。",
+      "speakers": [
+        "山本仁美",
+        "赤坂和洋",
+        "原田悟",
+        "中條恵子",
+        "新井好一"
+      ]
+    },
+    {
       "id": "b1fb903e540d08e7ac11",
       "place": "加須市",
       "season": "fall",
@@ -8334,6 +8406,54 @@ GIKAI.questionText = {
       "speakers": [
         "赤坂和洋"
       ]
+    },
+    {
+      "id": "f88ece559cafbc2535a3",
+      "place": "加須市",
+      "season": "fall",
+      "date": "2026-09-14",
+      "title": "加須市  令和　８年　第３回　定例会（　９月）  09月14日－05号",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/kazo/SpMinuteView.html?tenant_id=219&council_id=354&schedule_id=6",
+      "note": "公式の年度別目次と日付を照合。本文の区間は原典の区切りに対応。",
+      "speakers": [
+        "高橋一夫",
+        "宮崎智司",
+        "栗原智之",
+        "山下雄希",
+        "内田昇"
+      ]
+    },
+    {
+      "id": "bb7548cd90c2684580ae",
+      "place": "加須市",
+      "season": "fall",
+      "date": "2026-09-15",
+      "title": "加須市  令和　８年　第３回　定例会（　９月）  09月15日－06号",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/kazo/SpMinuteView.html?tenant_id=219&council_id=354&schedule_id=7",
+      "note": "公式の年度別目次と日付を照合。本文の区間は原典の区切りに対応。",
+      "speakers": [
+        "池田裕美子",
+        "及川和子",
+        "松本幸子",
+        "宮代翔太",
+        "佐伯由恵"
+      ]
+    },
+    {
+      "id": "688440882443f27de722",
+      "place": "加須市",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "加須市  令和　８年　第３回　定例会（　９月）  10月07日－07号",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/kazo/SpMinuteView.html?tenant_id=219&council_id=354&schedule_id=8",
+      "note": "公式の年度別目次と日付を照合。本文の区間は原典の区切りに対応。",
+      "speakers": []
     },
     {
       "id": "6ef752864e55a5e303e9",
@@ -35717,6 +35837,107 @@ GIKAI.questionText = {
       "note": "事前通告の原PDF１頁のOCR。掲載は９月２・３・４・７日の13人・39項目。原紙面の「髙橋達夫」は資料リンクで確認でき、検索用氏名は議員名簿収録の「高橋達夫」。"
     },
     {
+      "id": "b2238e3af1f0e03d4ead",
+      "place": "毛呂山町",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "毛呂山町  令和　８年　　第３回（９月）　定例会  09月01日－01号",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/moroyama/SpMinuteView.html?tenant_id=50&council_id=161&schedule_id=2",
+      "note": "公式の年度別目次と日付を照合。本文の区間は原典の区切りに対応。",
+      "speakers": []
+    },
+    {
+      "id": "2c0230523c2de09d1051",
+      "place": "毛呂山町",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "毛呂山町  令和　８年　　第３回（９月）　定例会  09月01日－目次",
+      "kind": "公式会議録の付録（HTML）",
+      "scope": "summary",
+      "url": "https://ssp.kaigiroku.net/tenant/moroyama/SpMinuteView.html?tenant_id=50&council_id=161&schedule_id=1",
+      "note": "公式会議録目録掲載の目次。表示日は対象会議の初日。",
+      "speakers": []
+    },
+    {
+      "id": "dd41c1ac0e28dc1b5d39",
+      "place": "毛呂山町",
+      "season": "fall",
+      "date": "2026-09-02",
+      "title": "毛呂山町  令和　８年　　第３回（９月）　定例会  09月02日－02号",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/moroyama/SpMinuteView.html?tenant_id=50&council_id=161&schedule_id=3",
+      "note": "公式の年度別目次と日付を照合。本文の区間は原典の区切りに対応。",
+      "speakers": [
+        "小峰明雄",
+        "佐島啓晋",
+        "長瀬衛",
+        "千葉三津子"
+      ]
+    },
+    {
+      "id": "921f0681b166f109e9cb",
+      "place": "毛呂山町",
+      "season": "fall",
+      "date": "2026-09-03",
+      "title": "毛呂山町  令和　８年　　第３回（９月）　定例会  09月03日－03号",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/moroyama/SpMinuteView.html?tenant_id=50&council_id=161&schedule_id=4",
+      "note": "公式の年度別目次と日付を照合。本文の区間は原典の区切りに対応。",
+      "speakers": [
+        "荒木かおる",
+        "佐藤秀樹",
+        "中村奨平",
+        "小野浩"
+      ]
+    },
+    {
+      "id": "978ac249befb27941f44",
+      "place": "毛呂山町",
+      "season": "fall",
+      "date": "2026-09-04",
+      "title": "毛呂山町  令和　８年　　第３回（９月）　定例会  09月04日－04号",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/moroyama/SpMinuteView.html?tenant_id=50&council_id=161&schedule_id=5",
+      "note": "公式の年度別目次と日付を照合。本文の区間は原典の区切りに対応。",
+      "speakers": [
+        "下田泰章",
+        "堀江快治",
+        "岡野勉",
+        "髙橋達夫"
+      ]
+    },
+    {
+      "id": "9182c8c58cf2fcc3368e",
+      "place": "毛呂山町",
+      "season": "fall",
+      "date": "2026-09-07",
+      "title": "毛呂山町  令和　８年　　第３回（９月）　定例会  09月07日－05号",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/moroyama/SpMinuteView.html?tenant_id=50&council_id=161&schedule_id=6",
+      "note": "公式の年度別目次と日付を照合。本文の区間は原典の区切りに対応。",
+      "speakers": [
+        "澤田巌"
+      ]
+    },
+    {
+      "id": "3777b56599208295d925",
+      "place": "毛呂山町",
+      "season": "fall",
+      "date": "2026-09-17",
+      "title": "毛呂山町  令和　８年　　第３回（９月）　定例会  09月17日－06号",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/moroyama/SpMinuteView.html?tenant_id=50&council_id=161&schedule_id=7",
+      "note": "公式の年度別目次と日付を照合。本文の区間は原典の区切りに対応。",
+      "speakers": []
+    },
+    {
       "id": "ddaa831f07ead47c1628",
       "place": "深谷市",
       "season": "spring",
@@ -44488,6 +44709,30 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "4fd469995eb946507884",
+      "place": "鶴ヶ島市",
+      "season": "fall",
+      "date": "2026-08-28",
+      "title": "鶴ヶ島市  令和　８年　　９月定例会（第３回）  08月28日－01号",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/tsurugashima/SpMinuteView.html?tenant_id=42&council_id=370&schedule_id=2",
+      "note": "公式の年度別目次と日付を照合。本文の区間は原典の区切りに対応。",
+      "speakers": []
+    },
+    {
+      "id": "68666853fa078260b487",
+      "place": "鶴ヶ島市",
+      "season": "fall",
+      "date": "2026-08-28",
+      "title": "鶴ヶ島市  令和　８年　　９月定例会（第３回）  08月28日－目次",
+      "kind": "公式会議録の付録（HTML）",
+      "scope": "summary",
+      "url": "https://ssp.kaigiroku.net/tenant/tsurugashima/SpMinuteView.html?tenant_id=42&council_id=370&schedule_id=1",
+      "note": "公式会議録目録掲載の目次。表示日は対象会議の初日。",
+      "speakers": []
+    },
+    {
       "id": "aa14a0eedae2f8bd5963",
       "place": "鶴ヶ島市",
       "season": "fall",
@@ -44751,6 +44996,179 @@ GIKAI.questionText = {
       "speakers": [
         "髙篠雅洋"
       ]
+    },
+    {
+      "id": "6867cf93ea588c099cd5",
+      "place": "鶴ヶ島市",
+      "season": "fall",
+      "date": "2026-09-02",
+      "title": "鶴ヶ島市  令和　８年　　９月定例会（第３回）  09月02日－02号",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/tsurugashima/SpMinuteView.html?tenant_id=42&council_id=370&schedule_id=3",
+      "note": "公式の年度別目次と日付を照合。本文の区間は原典の区切りに対応。",
+      "speakers": []
+    },
+    {
+      "id": "6c42fb50e7debeafcc0a",
+      "place": "鶴ヶ島市",
+      "season": "fall",
+      "date": "2026-09-04",
+      "title": "鶴ヶ島市  令和　８年　　９月定例会（第３回）総務産業建設常任委員会  09月04日－01号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/tsurugashima/SpMinuteView.html?tenant_id=42&council_id=373&schedule_id=2",
+      "note": "公式の年度別目次と日付を照合。本文の区間は原典の区切りに対応。",
+      "speakers": []
+    },
+    {
+      "id": "7d68190e701f43a9a559",
+      "place": "鶴ヶ島市",
+      "season": "fall",
+      "date": "2026-09-04",
+      "title": "鶴ヶ島市  令和　８年　　９月定例会（第３回）総務産業建設常任委員会  09月04日－目次",
+      "kind": "公式会議録の付録（HTML）",
+      "scope": "summary",
+      "url": "https://ssp.kaigiroku.net/tenant/tsurugashima/SpMinuteView.html?tenant_id=42&council_id=373&schedule_id=1",
+      "note": "公式会議録目録掲載の目次。表示日は対象会議の初日。",
+      "speakers": []
+    },
+    {
+      "id": "f82e4c0092afbb37c51c",
+      "place": "鶴ヶ島市",
+      "season": "fall",
+      "date": "2026-09-07",
+      "title": "鶴ヶ島市  令和　８年　　９月定例会（第３回）文教厚生常任委員会  09月07日－01号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/tsurugashima/SpMinuteView.html?tenant_id=42&council_id=372&schedule_id=2",
+      "note": "公式の年度別目次と日付を照合。本文の区間は原典の区切りに対応。",
+      "speakers": []
+    },
+    {
+      "id": "b44e412032df0e0e2b24",
+      "place": "鶴ヶ島市",
+      "season": "fall",
+      "date": "2026-09-07",
+      "title": "鶴ヶ島市  令和　８年　　９月定例会（第３回）文教厚生常任委員会  09月07日－目次",
+      "kind": "公式会議録の付録（HTML）",
+      "scope": "summary",
+      "url": "https://ssp.kaigiroku.net/tenant/tsurugashima/SpMinuteView.html?tenant_id=42&council_id=372&schedule_id=1",
+      "note": "公式会議録目録掲載の目次。表示日は対象会議の初日。",
+      "speakers": []
+    },
+    {
+      "id": "71672a00eb41e2489813",
+      "place": "鶴ヶ島市",
+      "season": "fall",
+      "date": "2026-09-08",
+      "title": "鶴ヶ島市  令和　８年　　９月定例会（第３回）予算決算常任委員会  09月08日－01号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/tsurugashima/SpMinuteView.html?tenant_id=42&council_id=371&schedule_id=2",
+      "note": "公式の年度別目次と日付を照合。本文の区間は原典の区切りに対応。",
+      "speakers": []
+    },
+    {
+      "id": "62fc264066bf04bc68fe",
+      "place": "鶴ヶ島市",
+      "season": "fall",
+      "date": "2026-09-08",
+      "title": "鶴ヶ島市  令和　８年　　９月定例会（第３回）予算決算常任委員会  09月08日－目次",
+      "kind": "公式会議録の付録（HTML）",
+      "scope": "summary",
+      "url": "https://ssp.kaigiroku.net/tenant/tsurugashima/SpMinuteView.html?tenant_id=42&council_id=371&schedule_id=1",
+      "note": "公式会議録目録掲載の目次。表示日は対象会議の初日。",
+      "speakers": []
+    },
+    {
+      "id": "90df95c3198b14d08adc",
+      "place": "鶴ヶ島市",
+      "season": "fall",
+      "date": "2026-09-09",
+      "title": "鶴ヶ島市  令和　８年　　９月定例会（第３回）予算決算常任委員会  09月09日－02号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/tsurugashima/SpMinuteView.html?tenant_id=42&council_id=371&schedule_id=3",
+      "note": "公式の年度別目次と日付を照合。本文の区間は原典の区切りに対応。",
+      "speakers": []
+    },
+    {
+      "id": "bb68de3c1df6c9809061",
+      "place": "鶴ヶ島市",
+      "season": "fall",
+      "date": "2026-09-10",
+      "title": "鶴ヶ島市  令和　８年　　９月定例会（第３回）予算決算常任委員会  09月10日－03号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/tsurugashima/SpMinuteView.html?tenant_id=42&council_id=371&schedule_id=4",
+      "note": "公式の年度別目次と日付を照合。本文の区間は原典の区切りに対応。",
+      "speakers": []
+    },
+    {
+      "id": "d089cd0ec749017d14c7",
+      "place": "鶴ヶ島市",
+      "season": "fall",
+      "date": "2026-09-16",
+      "title": "鶴ヶ島市  令和　８年　　９月定例会（第３回）  09月16日－03号",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/tsurugashima/SpMinuteView.html?tenant_id=42&council_id=370&schedule_id=4",
+      "note": "公式の年度別目次と日付を照合。本文の区間は原典の区切りに対応。",
+      "speakers": [
+        "小川茂",
+        "村上信吉",
+        "太田忠芳",
+        "小林ひとみ",
+        "髙篠雅洋"
+      ]
+    },
+    {
+      "id": "ff7e001ac347e9f36fa9",
+      "place": "鶴ヶ島市",
+      "season": "fall",
+      "date": "2026-09-17",
+      "title": "鶴ヶ島市  令和　８年　　９月定例会（第３回）  09月17日－04号",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/tsurugashima/SpMinuteView.html?tenant_id=42&council_id=370&schedule_id=5",
+      "note": "公式の年度別目次と日付を照合。本文の区間は原典の区切りに対応。",
+      "speakers": [
+        "山中基充",
+        "大野洋子",
+        "長谷川清",
+        "瀧嶋正紀",
+        "大曽根英明"
+      ]
+    },
+    {
+      "id": "486536f7f7fd5951255e",
+      "place": "鶴ヶ島市",
+      "season": "fall",
+      "date": "2026-09-18",
+      "title": "鶴ヶ島市  令和　８年　　９月定例会（第３回）  09月18日－05号",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/tsurugashima/SpMinuteView.html?tenant_id=42&council_id=370&schedule_id=6",
+      "note": "公式の年度別目次と日付を照合。本文の区間は原典の区切りに対応。",
+      "speakers": [
+        "出雲敏太郎",
+        "福島恵美",
+        "小島幸広",
+        "今野雄一"
+      ]
+    },
+    {
+      "id": "d3286ac70c7c7326489b",
+      "place": "鶴ヶ島市",
+      "season": "fall",
+      "date": "2026-09-29",
+      "title": "鶴ヶ島市  令和　８年　　９月定例会（第３回）  09月29日－06号",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/tsurugashima/SpMinuteView.html?tenant_id=42&council_id=370&schedule_id=7",
+      "note": "公式の年度別目次と日付を照合。本文の区間は原典の区切りに対応。",
+      "speakers": []
     }
   ],
   "coverage": [
@@ -45016,9 +45434,9 @@ GIKAI.questionText = {
       "place": "加須市",
       "season": "fall",
       "material": {
-        "state": "partial",
-        "indexURL": "https://smart.discussvision.net/smart/tenant/kazo/WebView/rd/council.html?year=2026&council_id=39",
-        "note": "公式録画一覧の一般質問20人のうち、9人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
+        "state": "verified",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/kazo/SpMinuteBrowse.html?tenant_id=219&view_years=2026",
+        "note": "公式目次と本会議録7日を照合し、一般質問20人の質問と答弁を収録。"
       }
     },
     {
@@ -45745,9 +46163,9 @@ GIKAI.questionText = {
       "place": "鶴ヶ島市",
       "season": "fall",
       "material": {
-        "state": "partial",
-        "indexURL": "https://smart.discussvision.net/smart/tenant/tsurugashima/WebView/rd/council.html?year=2026&council_id=89",
-        "note": "第219号の一般質問14人14問答、決算審査８組、請願の委員会質疑３組、紙面コメント15人を照合。９月16日５人、17日５人、18日４人の公式録画、通告PDF15資料と29大項目。正式会議録は確認中。"
+        "state": "verified",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/tsurugashima/SpMinuteBrowse.html?tenant_id=42&view_years=2026",
+        "note": "公式目次と本会議録6日を照合し、一般質問14人の質問と答弁を収録。 予算決算常任委員会３日、文教厚生・総務産業建設常任委員会各１日も収録。"
       }
     },
     {
@@ -45933,9 +46351,9 @@ GIKAI.questionText = {
       "place": "毛呂山町",
       "season": "fall",
       "material": {
-        "state": "partial",
-        "indexURL": "https://www.town.moroyama.saitama.jp/soshikikarasagasu/gikaijimukyoku/moroyamamachigikai/gikaihousou/12433.html",
-        "note": "第134号で一般質問13人63問答、決算委員会15問答、議案審議９問答、討論・提出７件。公式通告13人39項目と録画16本を照合。正式会議録と録画の字幕を確認中。"
+        "state": "verified",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/moroyama/SpMinuteBrowse.html?tenant_id=50&view_years=2026",
+        "note": "公式目次と本会議録6日を照合し、一般質問13人の質問と答弁を収録。"
       }
     },
     {

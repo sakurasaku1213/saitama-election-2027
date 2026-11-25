@@ -38,6 +38,15 @@
   const tag = (text) => `<span class="type">${esc(text)}</span>`;
   const dateTag = (s) =>
     s ? `<time datetime="${esc(s)}">${esc(date(s))}</time>` : "";
+  const coverageChecked = D.coverage2026?.checked;
+  if (coverageChecked) {
+    for (const item of document.querySelectorAll("[data-coverage-check]")) {
+      const time = item.querySelector("time");
+      time.dateTime = coverageChecked;
+      time.textContent = date(coverageChecked);
+      item.hidden = false;
+    }
+  }
   const routeLink = (page, params = {}) =>
     "#" +
     page +

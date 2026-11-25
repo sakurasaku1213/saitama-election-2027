@@ -5140,20 +5140,27 @@ GIKAI.cases.push(...[
         "date": "2026-09-16",
         "actor": "村上信吉",
         "stage": "試行導入と市内NPOとの連携の可能性を質す",
-        "detail": "市の教育相談体制を踏まえ、学校作業療法士の試行導入と市内NPOとの連携を尋ねた。市は相談976件の内訳について答え、NPOの取組等を参考に連携を研究するとした。",
-        "url": "https://www.city.tsurugashima.lg.jp/data/doc/1793248747_doc_318_0.pdf#page=6",
-        "sourceTitle": "つるがしま市議会だより第219号・紙面9頁（PDF6頁）",
-        "archiveId": "aa14a0eedae2f8bd5963",
+        "detail": "市の教育相談体制を踏まえ、学校作業療法士の試行導入と市内NPOとの連携を尋ねた。市は相談976件の内訳を答え、当時は巡回等の実施を考えていないとした。先進事例の情報収集と研究を続けると答弁した。",
+        "url": "https://ssp.kaigiroku.net/tenant/tsurugashima/SpMinuteView.html?tenant_id=42&council_id=370&schedule_id=4",
+        "sourceTitle": "鶴ヶ島市議会・公式本会議録",
+        "archiveId": "d089cd0ec749017d14c7",
         "blocks": [
-          3
+          70,
+          74,
+          104,
+          106,
+          112,
+          114
         ],
         "memberActions": [
           {
             "name": "村上信吉",
             "blocks": [
-              3
+              70,
+              104,
+              112
             ],
-            "detail": "市の教育相談体制を踏まえ、学校作業療法士の試行導入と市内NPOとの連携を尋ねた。市は相談976件の内訳について答え、NPOの取組等を参考に連携を研究するとした。"
+            "detail": "学校作業療法士の試行導入を質し、市内NPO法人と連携して試行できないか再質問した。"
           }
         ]
       },
@@ -5162,17 +5169,25 @@ GIKAI.cases.push(...[
         "actor": "大野洋子",
         "stage": "特別支援教育に作業療法士の専門性を生かせるかを確認",
         "detail": "作業療法士の専門性を教育施策に取り入れる考えを尋ねた。市は特別支援学級、通級指導、専門家との連携など既存支援を説明し、先進自治体などを参考に研究するとした。",
-        "url": "https://www.city.tsurugashima.lg.jp/data/doc/1793248747_doc_318_0.pdf#page=6",
-        "sourceTitle": "つるがしま市議会だより第219号・紙面9頁（PDF6頁）",
-        "archiveId": "aa14a0eedae2f8bd5963",
+        "url": "https://ssp.kaigiroku.net/tenant/tsurugashima/SpMinuteView.html?tenant_id=42&council_id=370&schedule_id=5",
+        "sourceTitle": "鶴ヶ島市議会・公式本会議録",
+        "archiveId": "ff7e001ac347e9f36fa9",
         "blocks": [
-          4
+          54,
+          58,
+          60,
+          68,
+          70,
+          72
         ],
         "memberActions": [
           {
             "name": "大野洋子",
             "blocks": [
-              4
+              54,
+              60,
+              68,
+              72
             ],
             "detail": "作業療法士の専門性を教育施策に取り入れる考えを尋ねた。市は特別支援学級、通級指導、専門家との連携など既存支援を説明し、先進自治体などを参考に研究するとした。"
           }
@@ -5208,17 +5223,18 @@ GIKAI.cases.push(...[
         "actor": "小川茂",
         "stage": "公共交通不便地域の基準と残る地域を質す",
         "detail": "市内の公共交通不便地域をどう評価するか尋ねた。市は駅から800m、停留所から300mを基準とし、圏央鶴ヶ島IC南側で施設や産業立地による移動需要を踏まえ交通を充実させる必要があると答えた。",
-        "url": "https://www.city.tsurugashima.lg.jp/data/doc/1793248747_doc_318_0.pdf#page=8",
-        "sourceTitle": "つるがしま市議会だより第219号・紙面11頁（PDF8頁）",
-        "archiveId": "aa14a0eedae2f8bd5963",
+        "url": "https://ssp.kaigiroku.net/tenant/tsurugashima/SpMinuteView.html?tenant_id=42&council_id=370&schedule_id=4",
+        "sourceTitle": "鶴ヶ島市議会・公式本会議録",
+        "archiveId": "d089cd0ec749017d14c7",
         "blocks": [
-          9
+          6,
+          8
         ],
         "memberActions": [
           {
             "name": "小川茂",
             "blocks": [
-              9
+              6
             ],
             "detail": "市内の公共交通不便地域をどう評価するか尋ねた。市は駅から800m、停留所から300mを基準とし、圏央鶴ヶ島IC南側で施設や産業立地による移動需要を踏まえ交通を充実させる必要があると答えた。"
           }
@@ -5233,7 +5249,8 @@ GIKAI.cases.push(...[
     "topic": "請願・建設事業者支援",
     "actors": [
       "鶴ヶ島市議会総務産業建設常任委員会",
-      "鶴ヶ島市議会"
+      "鶴ヶ島市議会",
+      "今野雄一"
     ],
     "steps": [
       {
@@ -5254,18 +5271,41 @@ GIKAI.cases.push(...[
         "actor": "鶴ヶ島市議会",
         "stage": "国への意見書提出を求める請願を採択",
         "detail": "請願第３号は賛成16、反対・賛成せず０で採択。",
-        "url": "https://www.city.tsurugashima.lg.jp/data/doc/1790746535_doc_318_0.pdf#page=2",
-        "sourceTitle": "鶴ヶ島市議会 第３回定例会の公式審議結果",
-        "billNumber": "請願第3号"
+        "url": "https://ssp.kaigiroku.net/tenant/tsurugashima/SpMinuteView.html?tenant_id=42&council_id=370&schedule_id=7",
+        "sourceTitle": "鶴ヶ島市議会・公式本会議録",
+        "billNumber": "請願第3号",
+        "archiveId": "d3286ac70c7c7326489b",
+        "blocks": [
+          57,
+          60,
+          61
+        ]
       },
       {
         "date": "2026-09-29",
         "actor": "鶴ヶ島市議会",
         "stage": "同じ主題の国への意見書を原案可決",
-        "detail": "意見書案第２号は賛成16、反対・賛成せず０で原案可決。",
-        "url": "https://www.city.tsurugashima.lg.jp/data/doc/1790746535_doc_318_0.pdf#page=2",
-        "sourceTitle": "鶴ヶ島市議会 第３回定例会の公式審議結果",
-        "billNumber": "意見書案第2号"
+        "detail": "意見書案第２号は賛成16、反対・賛成せず０で原案可決。 今野雄一総務産業建設常任委員長が提出し、提案理由を説明した。",
+        "url": "https://ssp.kaigiroku.net/tenant/tsurugashima/SpMinuteView.html?tenant_id=42&council_id=370&schedule_id=7",
+        "sourceTitle": "鶴ヶ島市議会・公式本会議録",
+        "billNumber": "意見書案第2号",
+        "archiveId": "d3286ac70c7c7326489b",
+        "blocks": [
+          66,
+          72,
+          75,
+          78,
+          79
+        ],
+        "memberActions": [
+          {
+            "name": "今野雄一",
+            "detail": "総務産業建設常任委員長として意見書案を提出し、国に事業継続の支援を求める理由を説明した。",
+            "blocks": [
+              75
+            ]
+          }
+        ]
       }
     ],
     "note": "請願と意見書をそれぞれ議決したことを確認。提出先での受領や支援制度の創設は確認中です。"
@@ -5296,9 +5336,15 @@ GIKAI.cases.push(...[
         "actor": "鶴ヶ島市議会",
         "stage": "早期整備を求める請願を採択",
         "detail": "請願第４号は賛成16、反対・賛成せず０で採択。",
-        "url": "https://www.city.tsurugashima.lg.jp/data/doc/1790746535_doc_318_0.pdf#page=2",
-        "sourceTitle": "鶴ヶ島市議会 第３回定例会の公式審議結果",
-        "billNumber": "請願第4号"
+        "url": "https://ssp.kaigiroku.net/tenant/tsurugashima/SpMinuteView.html?tenant_id=42&council_id=370&schedule_id=7",
+        "sourceTitle": "鶴ヶ島市議会・公式本会議録",
+        "billNumber": "請願第4号",
+        "archiveId": "d3286ac70c7c7326489b",
+        "blocks": [
+          57,
+          62,
+          63
+        ]
       }
     ],
     "note": "市議会の採択を確認。県の事業進捗、完成時期や整備効果は引き続き確認する。"
@@ -7179,13 +7225,14 @@ GIKAI.cases.push(...[
         "actor": "堀江快治、長瀬衛、佐藤秀樹",
         "stage": "一般会計決算の反対理由を討論",
         "detail": "堀江議員は施策配分と調査・報告、長瀬議員は学校統廃合の説明と責任、佐藤議員は監査意見書と関係団体の決算審査を取り上げた。",
-        "url": "https://www.town.moroyama.saitama.jp/material/files/group/2/gikaidayori134.pdf#page=2",
-        "sourceTitle": "もろやま議会だより第134号 PDF2頁",
-        "archiveId": "0879dd1c22982b07d3cf",
+        "url": "https://ssp.kaigiroku.net/tenant/moroyama/SpMinuteView.html?tenant_id=50&council_id=161&schedule_id=7",
+        "sourceTitle": "毛呂山町議会・公式本会議録",
+        "archiveId": "3777b56599208295d925",
         "blocks": [
-          38,
-          39,
-          40
+          20,
+          21,
+          23,
+          25
         ],
         "billNumber": "議案第40号",
         "memberActions": [
@@ -7193,21 +7240,21 @@ GIKAI.cases.push(...[
             "name": "堀江快治",
             "detail": "一般会計決算への反対討論を行った。内容は該当箇所に収録。",
             "blocks": [
-              38
+              21
             ]
           },
           {
             "name": "長瀬衛",
             "detail": "一般会計決算への反対討論を行った。内容は該当箇所に収録。",
             "blocks": [
-              39
+              25
             ]
           },
           {
             "name": "佐藤秀樹",
             "detail": "一般会計決算への反対討論を行った。内容は該当箇所に収録。",
             "blocks": [
-              40
+              23
             ]
           }
         ]
@@ -7217,20 +7264,29 @@ GIKAI.cases.push(...[
         "actor": "毛呂山町議会",
         "stage": "一般会計決算を不認定",
         "detail": "本会議で表決に参加した13人全員が反対。町の広報も、関連資料が提出されず、適正に審査することが困難と議会が判断した経過を掲載した。",
-        "url": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
-        "sourceTitle": "毛呂山町議会の公式審議結果・議会だより第134号",
-        "billNumber": "議案第40号"
+        "url": "https://ssp.kaigiroku.net/tenant/moroyama/SpMinuteView.html?tenant_id=50&council_id=161&schedule_id=7",
+        "sourceTitle": "毛呂山町議会・公式本会議録",
+        "billNumber": "議案第40号",
+        "archiveId": "3777b56599208295d925",
+        "blocks": [
+          27,
+          28
+        ]
       },
       {
         "date": "2026-09-17",
         "actor": "下田泰章、毛呂山町議会",
         "stage": "再発防止と措置の報告を求める決議案を可決",
         "detail": "下田議員が提出した発議第３号で、内部統制、公金管理、職務分担、管理監督の検証と必要な措置、その内容の議会報告を求めた。表決参加者13人全員が賛成。",
-        "url": "https://www.town.moroyama.saitama.jp/material/files/group/2/gikaidayori134.pdf#page=2",
-        "sourceTitle": "もろやま議会だより第134号 PDF2頁",
-        "archiveId": "0879dd1c22982b07d3cf",
+        "url": "https://ssp.kaigiroku.net/tenant/moroyama/SpMinuteView.html?tenant_id=50&council_id=161&schedule_id=7",
+        "sourceTitle": "毛呂山町議会・公式本会議録",
+        "archiveId": "3777b56599208295d925",
         "blocks": [
-          41
+          51,
+          54,
+          55,
+          59,
+          60
         ],
         "billNumber": "発議第3号",
         "memberActions": [
@@ -7238,7 +7294,7 @@ GIKAI.cases.push(...[
             "name": "下田泰章",
             "detail": "再発防止措置と議会への報告を求める決議案を提出した。",
             "blocks": [
-              41
+              55
             ]
           }
         ]
@@ -7406,18 +7462,24 @@ GIKAI.cases.push(...[
         "actor": "佐島啓晋",
         "stage": "山根荘の跡地移転を提案",
         "detail": "佐島議員は山根荘を泉野小跡地に移す要望を取り上げた。町は令和７年度の延べ利用１万928人と、多世代が使う交流センターなどの検討を説明した。",
-        "url": "https://www.town.moroyama.saitama.jp/material/files/group/2/gikaidayori134.pdf#page=6",
-        "sourceTitle": "もろやま議会だより第134号 PDF6頁",
-        "archiveId": "0879dd1c22982b07d3cf",
+        "url": "https://ssp.kaigiroku.net/tenant/moroyama/SpMinuteView.html?tenant_id=50&council_id=161&schedule_id=3",
+        "sourceTitle": "毛呂山町議会・公式本会議録",
+        "archiveId": "dd41c1ac0e28dc1b5d39",
         "blocks": [
-          2
+          95,
+          97,
+          107,
+          109,
+          111
         ],
         "memberActions": [
           {
             "name": "佐島啓晋",
             "detail": "佐島議員は山根荘を泉野小跡地に移す要望を取り上げた。町は令和７年度の延べ利用１万928人と、多世代が使う交流センターなどの検討を説明した。",
             "blocks": [
-              2
+              95,
+              107,
+              111
             ]
           }
         ]
@@ -7660,10 +7722,15 @@ GIKAI.cases.push(...[
         "date": "2026-09-07",
         "actor": "毛呂山町議会",
         "stage": "改正案の撤回を許可",
-        "detail": "９月７日の公式審議結果に同じ発議第１号の撤回許可が掲載された。",
-        "url": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
-        "sourceTitle": "町 ９月定例会会議結果",
-        "billNumber": "発議第1号の撤回許可"
+        "detail": "提出者の長瀬衛議員が、慎重な議論を重ねる必要があるとして撤回を請求。本会議は異議なく許可した。",
+        "url": "https://ssp.kaigiroku.net/tenant/moroyama/SpMinuteView.html?tenant_id=50&council_id=161&schedule_id=6",
+        "sourceTitle": "毛呂山町議会・公式本会議録",
+        "billNumber": "発議第1号の撤回許可",
+        "archiveId": "9182c8c58cf2fcc3368e",
+        "blocks": [
+          272,
+          273
+        ]
       }
     ],
     "note": "提出、質疑、委員会への付託、撤回許可を確認。"
@@ -7683,12 +7750,14 @@ GIKAI.cases.push(...[
         "actor": "小野浩、岡野勉",
         "stage": "意見書案の提出と賛成討論",
         "detail": "小野議員が調査、供給不足解消、資金繰り・雇用維持支援を国に求める案を提出し、岡野議員が賛成討論した。",
-        "url": "https://www.town.moroyama.saitama.jp/material/files/group/2/gikaidayori134.pdf#page=4",
-        "sourceTitle": "もろやま議会だより第134号 PDF4頁",
-        "archiveId": "0879dd1c22982b07d3cf",
+        "url": "https://ssp.kaigiroku.net/tenant/moroyama/SpMinuteView.html?tenant_id=50&council_id=161&schedule_id=7",
+        "sourceTitle": "毛呂山町議会・公式本会議録",
+        "archiveId": "3777b56599208295d925",
         "blocks": [
-          43,
-          44
+          73,
+          74,
+          77,
+          78
         ],
         "billNumber": "発議第2号",
         "memberActions": [
@@ -7696,14 +7765,14 @@ GIKAI.cases.push(...[
             "name": "小野浩",
             "detail": "建設資材供給と中小事業者支援に関する意見書案を提出した。",
             "blocks": [
-              43
+              74
             ]
           },
           {
             "name": "岡野勉",
             "detail": "融資、助成、雇用維持の支援を理由に賛成討論した。",
             "blocks": [
-              44
+              78
             ]
           }
         ]
@@ -7713,9 +7782,14 @@ GIKAI.cases.push(...[
         "actor": "毛呂山町議会",
         "stage": "賛成４、反対９で否決",
         "detail": "発議第２号は本会議で否決された。町議会から意見書を提出する案の議決結果を記録した。",
-        "url": "https://www.town.moroyama.saitama.jp/material/files/group/2/gikaidayori134.pdf#page=12",
-        "sourceTitle": "もろやま議会だより ９月の記名表決",
-        "billNumber": "発議第2号"
+        "url": "https://ssp.kaigiroku.net/tenant/moroyama/SpMinuteView.html?tenant_id=50&council_id=161&schedule_id=7",
+        "sourceTitle": "毛呂山町議会・公式本会議録",
+        "billNumber": "発議第2号",
+        "archiveId": "3777b56599208295d925",
+        "blocks": [
+          80,
+          81
+        ]
       }
     ],
     "note": "意見書を提出するための発議と否決を確認。"
@@ -20701,5 +20775,204 @@ GIKAI.cases.push(...[
       }
     ],
     "note": "議会が公表した聴取経過と決議を確認。決議時の個人別賛否とその後の人事の推移は確認待ち。"
+  }
+]);
+
+GIKAI.cases.push(...[
+  {
+    "place": "加須市",
+    "title": "加須市の省エネエアコン買換え補助、制度設計の質疑から申請案内へ",
+    "topic": "物価・省エネ",
+    "actors": [
+      "大内清心",
+      "山本仁美",
+      "山下雄希",
+      "宮代翔太",
+      "宮崎智司",
+      "加須市",
+      "加須市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-09-09",
+        "stage": "補助対象と予算配分、使いやすさを質疑",
+        "actor": "加須市議会",
+        "detail": "市は330世帯の利用を見込み、対象経費の３分の１・上限８万円と説明。市長は購入時の立替え負担が利用者層に影響し得ることを認識しつつ、別の低所得世帯向け支援も含めて制度を設計したと答弁。",
+        "url": "https://ssp.kaigiroku.net/tenant/kazo/SpMinuteView.html?tenant_id=219&council_id=354&schedule_id=3",
+        "sourceTitle": "加須市議会・公式本会議録",
+        "archiveId": "f051436da65397780b69",
+        "blocks": [
+          53,
+          55,
+          61,
+          63,
+          199,
+          201,
+          324,
+          326,
+          537,
+          539,
+          541,
+          543
+        ],
+        "memberActions": [
+          {
+            "name": "大内清心",
+            "detail": "制度の導入経緯と、計画より多い申請があった場合の追加補正の考えを質した。",
+            "blocks": [
+              53,
+              61
+            ]
+          },
+          {
+            "name": "山本仁美",
+            "detail": "補助が低所得の世帯の支援になるかを質した。",
+            "blocks": [
+              199
+            ]
+          },
+          {
+            "name": "山下雄希",
+            "detail": "補助率・上限額の根拠と申請手続の簡素化を質した。",
+            "blocks": [
+              324
+            ]
+          },
+          {
+            "name": "宮代翔太",
+            "detail": "他の支援策との受益・公平性の違いを問い、購入資金を用意できない世帯が利用しにくい点を再質疑した。",
+            "blocks": [
+              537,
+              541
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-10-07",
+        "stage": "買換え補助を含む補正予算を可決",
+        "actor": "加須市議会",
+        "detail": "補正予算は起立総員で可決。宮代議員は補正予算全体に賛成しつつ、一部の事業への交付金配分と利用機会に問題を指摘した。",
+        "url": "https://ssp.kaigiroku.net/tenant/kazo/SpMinuteView.html?tenant_id=219&council_id=354&schedule_id=8",
+        "sourceTitle": "加須市議会・公式本会議録",
+        "archiveId": "688440882443f27de722",
+        "blocks": [
+          57,
+          61,
+          63,
+          74,
+          75
+        ],
+        "memberActions": [
+          {
+            "name": "宮代翔太",
+            "detail": "支援の届く世帯数・配分を比較して改善を求め、補正全体には賛成と述べた。",
+            "blocks": [
+              57
+            ]
+          },
+          {
+            "name": "大内清心",
+            "detail": "補助等の施策を評価し、補正予算に賛成討論した。",
+            "blocks": [
+              61
+            ]
+          },
+          {
+            "name": "宮崎智司",
+            "detail": "省エネエアコンの普及や他の措置の意義を挙げ、補正予算に賛成討論した。",
+            "blocks": [
+              63
+            ]
+          }
+        ],
+        "billNumber": "議案第79号"
+      },
+      {
+        "date": "2026-11-17",
+        "stage": "市が交付要件と申請日程を案内",
+        "actor": "加須市",
+        "detail": "市は対象機器・協力店舗での購入条件、税抜本体価格の３分の１・上限８万円、11月29日から12月11日の申請期間、予算額超過時の抽選を案内した。",
+        "url": "https://www.city.kazo.lg.jp/kurashi_bosai/kankyo/4/45298.html",
+        "sourceTitle": "加須市・省エネエアコン買換え促進補助金"
+      }
+    ],
+    "note": "予算措置、議員別の具体的な質疑・討論、申請案内を確認。実際の交付件数は確認待ち。"
+  },
+  {
+    "place": "加須市",
+    "title": "政務活動費で作成した広報紙の閲覧を求める請願、討論と不採択",
+    "topic": "議会活動・情報公開",
+    "actors": [
+      "山下雄希",
+      "宮代翔太",
+      "野中芳子",
+      "佐伯由恵",
+      "加須市",
+      "加須市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-09-09",
+        "stage": "広報紙の閲覧機会を求める請願を委員会へ付託",
+        "actor": "加須市議会",
+        "detail": "政務活動費で作成した広報紙等の閲覧機会を確保するよう求める請願第５号を、総務常任委員会へ付託した。",
+        "url": "https://ssp.kaigiroku.net/tenant/kazo/SpMinuteView.html?tenant_id=219&council_id=354&schedule_id=3",
+        "sourceTitle": "加須市議会・公式本会議録",
+        "archiveId": "f051436da65397780b69",
+        "blocks": [
+          16
+        ]
+      },
+      {
+        "date": "2026-10-07",
+        "stage": "委員長報告と議員の討論を経て請願を不採択",
+        "actor": "加須市議会",
+        "detail": "総務常任委員会の不採択の報告後、閲覧環境の必要性、既存の収支報告等で確認できる範囲などを議論。本会議で起立少数となり不採択。",
+        "url": "https://ssp.kaigiroku.net/tenant/kazo/SpMinuteView.html?tenant_id=219&council_id=354&schedule_id=8",
+        "sourceTitle": "加須市議会・公式本会議録",
+        "archiveId": "688440882443f27de722",
+        "blocks": [
+          21,
+          57,
+          59,
+          65,
+          77,
+          78
+        ],
+        "memberActions": [
+          {
+            "name": "山下雄希",
+            "detail": "総務常任委員長として、請願の審査経過と結果を報告した。",
+            "blocks": [
+              21
+            ]
+          },
+          {
+            "name": "宮代翔太",
+            "detail": "公費で作った広報紙を市民が容易に確認できる仕組みを求め、請願への賛成討論をした。",
+            "blocks": [
+              57
+            ]
+          },
+          {
+            "name": "野中芳子",
+            "detail": "透明性向上の理念に賛同し、既存の公開方法も踏まえて趣旨採択を主張した。",
+            "blocks": [
+              59
+            ]
+          },
+          {
+            "name": "佐伯由恵",
+            "detail": "政務活動費の公開の扱いなどに触れ、請願を不採択とする立場を述べた。",
+            "blocks": [
+              65
+            ]
+          }
+        ],
+        "billNumber": "請願第5号"
+      }
+    ],
+    "note": "委員会への付託、委員長報告、提案に対する異なる見解と本会議の結果を確認。"
   }
 ]);

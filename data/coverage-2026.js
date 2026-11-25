@@ -1648,22 +1648,22 @@ GIKAI.coverage2026 = {
     {
       "place": "加須市",
       "season": "fall",
-      "label": "令和8年第3回定例会",
+      "label": "令和8年第3回定例会（9月）",
       "fromDate": "2026-08-28",
       "toDate": "2026-10-07",
       "planned": false,
       "materials": {
         "meeting": {
           "state": "verified",
-          "note": "公式日程と開会・閉会の記載から8月28日～10月7日を照合。"
+          "note": "公式目次と本会議録の開会日・閉会日を確認。"
         },
         "activity": {
-          "state": "partial",
-          "note": "この時期の掲載項目 66件。通告・目次・本文の別は活動の出典に表示。"
+          "state": "verified",
+          "note": "本会議録の議長宣告と一般質問20人の氏名を照合。"
         },
         "text": {
-          "state": "notFound",
-          "note": "公式録画一覧の36項目と公開用の動画索引を確認。質問・答弁の本文は確認中。"
+          "state": "verified",
+          "note": "公式目次と本会議録7日を照合し、一般質問20人の質問と答弁を収録。"
         },
         "decisions": {
           "state": "verified",
@@ -1674,8 +1674,8 @@ GIKAI.coverage2026 = {
           "note": "公式の記名表16議案等×25欄と、個人欄がない全員賛成13議案を照合。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "省エネエアコン買換え補助と、政務活動費で作った広報紙の閲覧を求める請願を議会の本文から追跡。"
         }
       },
       "sources": [
@@ -1698,6 +1698,10 @@ GIKAI.coverage2026 = {
         {
           "label": "議員別審議結果",
           "url": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_3_teireikai_sinngikekkaitirann_0626_1700.pdf"
+        },
+        {
+          "label": "秋定例会の公式会議録目録",
+          "url": "https://ssp.kaigiroku.net/tenant/kazo/SpMinuteBrowse.html?tenant_id=219&view_years=2026"
         }
       ]
     },
@@ -6476,22 +6480,22 @@ GIKAI.coverage2026 = {
     {
       "place": "鶴ヶ島市",
       "season": "fall",
-      "label": "令和8年第3回定例会",
+      "label": "令和8年第3回（9月）定例会",
       "fromDate": "2026-08-28",
       "toDate": "2026-09-29",
       "planned": false,
       "materials": {
         "meeting": {
           "state": "verified",
-          "note": "公式の会期資料と実際の公式録画目録で開会・閉会を照合。"
+          "note": "公式目次と本会議録の開会日・閉会日を確認。"
         },
         "activity": {
-          "state": "partial",
-          "note": "この時期の掲載項目 29件。通告・目次・本文の別は活動の出典に表示。"
+          "state": "verified",
+          "note": "本会議録の議長宣告と一般質問14人の氏名を照合。"
         },
         "text": {
-          "state": "partial",
-          "note": "第219号の一般質問14人14問答、決算審査８組、請願の委員会質疑３組、紙面コメント15人を照合。９月16日５人、17日５人、18日４人の公式録画、通告PDF15資料と29大項目。正式会議録は確認中。"
+          "state": "verified",
+          "note": "公式目次と本会議録6日を照合し、一般質問14人の質問と答弁を収録。 予算決算常任委員会３日、文教厚生・総務産業建設常任委員会各１日も収録。"
         },
         "decisions": {
           "state": "verified",
@@ -6503,7 +6507,7 @@ GIKAI.coverage2026 = {
         },
         "policy": {
           "state": "partial",
-          "note": "学校作業療法士、地域公共交通、資材供給・企業支援の請願と意見書、道路請願、こども家庭センター、防犯助成の６事例を収録。"
+          "note": "学校作業療法士、地域公共交通、資材供給・企業支援の請願と意見書、道路請願、こども家庭センター、防犯助成の６事例を収録。 本会議録の質問・討論や採決に出典を追加。"
         }
       },
       "sources": [
@@ -6526,6 +6530,10 @@ GIKAI.coverage2026 = {
         {
           "label": "第219号の一般質問・審査・表決",
           "url": "https://www.city.tsurugashima.lg.jp/data/doc/1793248747_doc_318_0.pdf"
+        },
+        {
+          "label": "秋定例会の公式会議録目録",
+          "url": "https://ssp.kaigiroku.net/tenant/tsurugashima/SpMinuteBrowse.html?tenant_id=42&view_years=2026"
         }
       ]
     },
@@ -7608,22 +7616,22 @@ GIKAI.coverage2026 = {
     {
       "place": "毛呂山町",
       "season": "fall",
-      "label": "令和8年第3回（9月）議会定例会",
+      "label": "令和8年第3回（9月）定例会",
       "fromDate": "2026-09-01",
       "toDate": "2026-09-17",
       "planned": false,
       "materials": {
         "meeting": {
           "state": "verified",
-          "note": "開会・閉会の日を公式会期資料で照合。"
+          "note": "公式目次と本会議録の開会日・閉会日を確認。"
         },
         "activity": {
-          "state": "partial",
-          "note": "この時期の掲載項目 39件。通告・目次・本文の別は活動の出典に表示。"
+          "state": "verified",
+          "note": "本会議録の議長宣告と一般質問13人の氏名を照合。"
         },
         "text": {
-          "state": "partial",
-          "note": "第134号で一般質問13人63問答、決算委員会15問答、議案審議９問答、討論・提出７件。公式通告13人39項目と録画16本を照合。正式会議録と録画の字幕を確認中。"
+          "state": "verified",
+          "note": "公式目次と本会議録6日を照合し、一般質問13人の質問と答弁を収録。"
         },
         "decisions": {
           "state": "verified",
@@ -7635,7 +7643,7 @@ GIKAI.coverage2026 = {
         },
         "policy": {
           "state": "partial",
-          "note": "決算審査、再発防止、学校編成、踏切拡幅、産後ケア、議員発議などの経過を収録。"
+          "note": "決算審査、再発防止、学校編成、踏切拡幅、産後ケア、議員発議などの経過を収録。 本会議録の質問・討論や採決に出典を追加。"
         }
       },
       "sources": [
@@ -7670,6 +7678,10 @@ GIKAI.coverage2026 = {
         {
           "label": "第134号の審議結果・記名表決",
           "url": "https://www.town.moroyama.saitama.jp/material/files/group/2/gikaidayori134.pdf#page=12"
+        },
+        {
+          "label": "秋定例会の公式会議録目録",
+          "url": "https://ssp.kaigiroku.net/tenant/moroyama/SpMinuteBrowse.html?tenant_id=50&view_years=2026"
         }
       ]
     },
@@ -18315,7 +18327,12 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43734.html#6",
       "proposer": "加須市長",
       "voteNote": "議長・欠席議員を除く全員が賛成。記名表の上段に個人別の欄はありません。",
-      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_3_teireikai_sinngikekkaitirann_0626_1700.pdf"
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_3_teireikai_sinngikekkaitirann_0626_1700.pdf",
+      "archiveId": "688440882443f27de722",
+      "blocks": [
+        74,
+        75
+      ]
     },
     {
       "place": "加須市",
@@ -18975,7 +18992,12 @@ GIKAI.coverage2026 = {
         "宮代翔太": "賛成",
         "池田裕美子": "趣旨採択"
       },
-      "voteNote": "趣旨採択は願意の趣旨に賛成する表示です。この請願の本会議の結果は不採択です。"
+      "voteNote": "趣旨採択は願意の趣旨に賛成する表示です。この請願の本会議の結果は不採択です。",
+      "archiveId": "688440882443f27de722",
+      "blocks": [
+        77,
+        78
+      ]
     },
     {
       "place": "加須市",
@@ -86374,7 +86396,12 @@ GIKAI.coverage2026 = {
         "内野嘉広": "議長（表決不参加）",
         "長谷川清": "賛成"
       },
-      "voteNote": "公式審議結果は賛成16、反対・賛成せず0。"
+      "voteNote": "公式審議結果は賛成16、反対・賛成せず0。",
+      "archiveId": "d3286ac70c7c7326489b",
+      "blocks": [
+        60,
+        61
+      ]
     },
     {
       "place": "鶴ヶ島市",
@@ -86409,7 +86436,12 @@ GIKAI.coverage2026 = {
         "内野嘉広": "議長（表決不参加）",
         "長谷川清": "賛成"
       },
-      "voteNote": "公式審議結果は賛成16、反対・賛成せず0。"
+      "voteNote": "公式審議結果は賛成16、反対・賛成せず0。",
+      "archiveId": "d3286ac70c7c7326489b",
+      "blocks": [
+        62,
+        63
+      ]
     },
     {
       "place": "鶴ヶ島市",
@@ -86444,7 +86476,12 @@ GIKAI.coverage2026 = {
         "内野嘉広": "議長（表決不参加）",
         "長谷川清": "賛成"
       },
-      "voteNote": "公式審議結果は賛成16、反対・賛成せず0。"
+      "voteNote": "公式審議結果は賛成16、反対・賛成せず0。",
+      "archiveId": "d3286ac70c7c7326489b",
+      "blocks": [
+        78,
+        79
+      ]
     },
     {
       "place": "川島町",
@@ -91282,7 +91319,12 @@ GIKAI.coverage2026 = {
         "堀江快治": "反対",
         "平野隆": "議長（表決不参加）"
       },
-      "voteNote": "紙面の記名欄は賛成0、反対13。討論の表示は佐藤秀樹、長瀬衛、堀江快治。"
+      "voteNote": "紙面の記名欄は賛成0、反対13。討論の表示は佐藤秀樹、長瀬衛、堀江快治。",
+      "archiveId": "3777b56599208295d925",
+      "blocks": [
+        27,
+        28
+      ]
     },
     {
       "place": "毛呂山町",
@@ -91651,7 +91693,12 @@ GIKAI.coverage2026 = {
       "resultLocator": "公式審議結果表の20行目",
       "sourceTitle": "毛呂山町議会の公式審議結果",
       "number": "発議第1号の撤回許可",
-      "date": "2026-09-07"
+      "date": "2026-09-07",
+      "archiveId": "9182c8c58cf2fcc3368e",
+      "blocks": [
+        272,
+        273
+      ]
     },
     {
       "place": "毛呂山町",
@@ -91687,6 +91734,11 @@ GIKAI.coverage2026 = {
       "proposalRole": "発議者",
       "names": [
         "小野浩"
+      ],
+      "archiveId": "3777b56599208295d925",
+      "blocks": [
+        80,
+        81
       ]
     },
     {
@@ -91723,6 +91775,11 @@ GIKAI.coverage2026 = {
       "proposalRole": "発議者",
       "names": [
         "下田泰章"
+      ],
+      "archiveId": "3777b56599208295d925",
+      "blocks": [
+        59,
+        60
       ]
     },
     {
