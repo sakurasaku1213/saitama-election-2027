@@ -7964,3 +7964,436 @@ GIKAI.cases.push(...[
     "note": "市議会の請願の処理を記録。国への意見書の提出に至ったことは確認していない。"
   }
 ]);
+
+GIKAI.cases.push(...[
+  {
+    "place": "八潮市",
+    "title": "中央一丁目の道路陥没事故からの復旧、住民対応と事業者支援",
+    "topic": "道路・下水道・災害復旧",
+    "actors": [
+      "篠原亮太",
+      "池谷正",
+      "八潮市",
+      "埼玉県"
+    ],
+    "steps": [
+      {
+        "date": "2025-01-28",
+        "actor": "埼玉県",
+        "stage": "県道で道路陥没が発生",
+        "detail": "県道松戸草加線中央一丁目交差点。県は事故対応、復旧工事、補償等を公表している。",
+        "url": "https://www.pref.saitama.lg.jp/c1502/news/nakagawa0128.html",
+        "sourceTitle": "埼玉県 道路陥没事故への対応"
+      },
+      {
+        "date": "2026-03-17",
+        "actor": "篠原亮太",
+        "stage": "県・国への要望、住民対応、施設の復旧分担を質す",
+        "detail": "市は雨水管等の早期復旧や住民対応を県に要請し、県が市の被災施設も一体で復旧する覚書を結んだと答弁した。",
+        "url": "https://ssp.kaigiroku.net/tenant/yashio/SpMinuteView.html?tenant_id=233&council_id=137&schedule_id=5",
+        "sourceTitle": "第１回定例会３月17日会議録 P.241–242",
+        "archiveId": "c566133cacfdd7e3b073",
+        "blocks": [
+          289,
+          291,
+          293
+        ],
+        "memberActions": [
+          {
+            "name": "篠原亮太",
+            "blocks": [
+              289
+            ],
+            "detail": "県と国への要望、住民と関係機関の間の調整、市の施設の復旧分担を質した。"
+          }
+        ]
+      },
+      {
+        "date": "2026-03-18",
+        "actor": "池谷正",
+        "stage": "相談窓口の一本化と個別訪問を提案",
+        "detail": "工事や事故に伴う影響を住民から直接聞くため、市役所の相談窓口の一本化と個別訪問を重ねて求めた。",
+        "url": "https://ssp.kaigiroku.net/tenant/yashio/SpMinuteView.html?tenant_id=233&council_id=137&schedule_id=6",
+        "sourceTitle": "第１回定例会３月18日会議録 P.324–325",
+        "archiveId": "46a33faaecb3f4ec3718",
+        "blocks": [
+          316,
+          320
+        ],
+        "memberActions": [
+          {
+            "name": "池谷正",
+            "blocks": [
+              316,
+              320
+            ],
+            "detail": "分野を問わず相談できる市の窓口と、個別訪問による聞き取りを提案した。"
+          }
+        ]
+      },
+      {
+        "date": "2026-04-15",
+        "actor": "埼玉県",
+        "stage": "２車線で暫定供用を開始",
+        "detail": "午前10時から２車線で暫定供用。県の案内に交通規制図と通行に関する情報を掲載。",
+        "url": "https://www.pref.saitama.lg.jp/a1006/yashiokoutuukiseizu.html",
+        "sourceTitle": "埼玉県 道路陥没事故に関する交通規制"
+      },
+      {
+        "date": "2026-09-18",
+        "actor": "八潮市議会",
+        "stage": "決算討論で被災事業者の資金繰り支援に言及",
+        "detail": "一般会計決算への民政クラブの賛成討論は、陥没事故の影響を受けた事業者への利子補給拡充を実施事業として挙げた。",
+        "url": "https://www.city.yashio.lg.jp/gikai/gikaidayori/index.files/127yashioshig_p01-08.pdf#page=2",
+        "sourceTitle": "やしお市議会だより第127号 PDF２頁",
+        "archiveId": "5da081741da9cc3fc8c7",
+        "blocks": [
+          20
+        ],
+        "billNumber": "議案第66号"
+      },
+      {
+        "date": "2026-11-19",
+        "actor": "八潮市",
+        "stage": "災害復旧融資の利子補助と申請期間を案内",
+        "detail": "11月19日更新の市案内では、対象の小口・近代化融資は既存の制度融資の利子補給と併せて100％。対象の民間融資は、補助の算定に使う借入額・利率に上限がある。申請期間は令和９年１月４～25日。",
+        "url": "https://www.city.yashio.lg.jp/jigyosha/jigyosha/joseiseido/saigaihukkyurisihojo.html",
+        "sourceTitle": "八潮市 中小企業災害復旧利子補助金"
+      },
+      {
+        "date": "2026-11-25",
+        "actor": "埼玉県",
+        "stage": "仮排水管の撤去・雨水管の復旧工程を公表",
+        "detail": "11月25日号（19日発行）は、流入立坑の閉塞準備と本設雨水管の工場製作が進行中と説明。現地での設置作業は令和９年２月頃着手予定。補償申込みの受付も案内した。",
+        "url": "https://www.pref.saitama.lg.jp/documents/264005/r8kawaraban1125.pdf#page=2",
+        "sourceTitle": "埼玉県下水道局 11月25日号かわら版"
+      }
+    ],
+    "note": "発言、決算討論、県の工事を発信主体ごとに記録。道路の全面供用と雨水管の工事完了は確認中。"
+  },
+  {
+    "place": "八潮市",
+    "title": "北部拠点の開発と道の駅・関連道路の費用",
+    "topic": "都市計画・交通",
+    "actors": [
+      "池谷正",
+      "八潮市",
+      "パートナー企業"
+    ],
+    "steps": [
+      {
+        "date": "2026-08-28",
+        "actor": "八潮市",
+        "stage": "民間事業者の地区整備計画の報告を公表",
+        "detail": "パートナー企業から北部拠点まちづくり推進地区整備計画の報告を受け、市が定例会関係資料と併せて情報提供した。",
+        "url": "https://www.city.yashio.lg.jp/shisei/shichonoheya/kishakaiken/R8_3_kisyakaiken.html",
+        "sourceTitle": "八潮市 ８月28日情報提供"
+      },
+      {
+        "date": "2026-09-15",
+        "actor": "池谷正",
+        "stage": "市負担額と道の駅・商業施設の関係を質す",
+        "detail": "市はスマートIC関連の概算事業費約36億8千万円を説明。道の駅の費用は基本計画で算定し、商業施設と役割が重ならないよう事業者と調整したいと答えた。",
+        "url": "https://www.city.yashio.lg.jp/gikai/gikaidayori/index.files/127yashioshig_p01-08.pdf#page=4",
+        "sourceTitle": "やしお市議会だより第127号 PDF4頁",
+        "archiveId": "5da081741da9cc3fc8c7",
+        "blocks": [
+          3
+        ],
+        "memberActions": [
+          {
+            "name": "池谷正",
+            "blocks": [
+              3
+            ],
+            "detail": "市はスマートIC関連の概算事業費約36億8千万円を説明。道の駅の費用は基本計画で算定し、商業施設と役割が重ならないよう事業者と調整したいと答えた。"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-19",
+        "actor": "八潮市",
+        "stage": "計画改定に向けた協議会の設置を公表",
+        "detail": "市の10月19日更新ページは、８月の民間整備計画との整合を図る改定に向けて協議会を設置し、年度内の改定を目指すと説明。",
+        "url": "https://www.city.yashio.lg.jp/shisei/machizukuri/hokubukyoten/hokubutiku/hokubu_keikaku.html",
+        "sourceTitle": "八潮市 北部拠点のまちづくり計画"
+      }
+    ],
+    "note": "概算額、道の駅基本計画と既存のまちづくり計画の改定段階を記録。最終の事業費と着工・供用実績は確認中。"
+  },
+  {
+    "place": "八潮市",
+    "title": "短時間豪雨と道路冠水、浸水把握から想定区域図の作成へ",
+    "topic": "水害・内水対策",
+    "actors": [
+      "平山貴博",
+      "朝田和宏",
+      "八潮市"
+    ],
+    "steps": [
+      {
+        "date": "2024-11-14",
+        "actor": "国土交通省・八潮市",
+        "stage": "浸水センサー情報を試行公開",
+        "detail": "国の実証実験に参加し、八潮市内５箇所のセンサー情報を地図表示する取組を市が案内した。",
+        "url": "https://www.city.yashio.lg.jp/bohan_bosai/bosai/saigaihenosonae/huusuigaihenosonae/sinnsui.html",
+        "sourceTitle": "八潮市 浸水センサー実証実験"
+      },
+      {
+        "date": "2026-09-15",
+        "actor": "平山貴博",
+        "stage": "８月の冠水を踏まえ排水活動と治水対策を質す",
+        "detail": "市は８月13日の河川水位、浸水センサーの活用、排水施設の稼働と必要時の臨時ポンプ、国・県との治水事業を説明した。",
+        "url": "https://www.city.yashio.lg.jp/gikai/gikaidayori/index.files/127yashioshig_p01-08.pdf#page=4",
+        "sourceTitle": "やしお市議会だより第127号 PDF4頁",
+        "archiveId": "5da081741da9cc3fc8c7",
+        "blocks": [
+          4
+        ],
+        "memberActions": [
+          {
+            "name": "平山貴博",
+            "blocks": [
+              4
+            ],
+            "detail": "市は８月13日の河川水位、浸水センサーの活用、排水施設の稼働と必要時の臨時ポンプ、国・県との治水事業を説明した。"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-17",
+        "actor": "朝田和宏",
+        "stage": "内水ハザードマップの検証と更新時期を質す",
+        "detail": "市は冠水実績図に続き、想定最大規模の降雨に対応する内水浸水想定区域図を作成中で、令和９年度に公開予定と答えた。",
+        "url": "https://www.city.yashio.lg.jp/gikai/gikaidayori/index.files/127yashioshig_p01-08.pdf#page=6",
+        "sourceTitle": "やしお市議会だより第127号 PDF6頁",
+        "archiveId": "5da081741da9cc3fc8c7",
+        "blocks": [
+          13
+        ],
+        "memberActions": [
+          {
+            "name": "朝田和宏",
+            "blocks": [
+              13
+            ],
+            "detail": "市は冠水実績図に続き、想定最大規模の降雨に対応する内水浸水想定区域図を作成中で、令和９年度に公開予定と答えた。"
+          }
+        ]
+      }
+    ],
+    "note": "市の実証参加と、現在の冠水実績図から想定図へ進む準備を確認。想定図の公表実績は確認中。"
+  },
+  {
+    "place": "八潮市",
+    "title": "下水道使用料の見直し諮問と家庭用・業務用の扱い",
+    "topic": "下水道経営・使用料",
+    "actors": [
+      "小宮弘子",
+      "八潮市",
+      "八潮市下水道事業審議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-07-14",
+        "actor": "八潮市・下水道事業審議会",
+        "stage": "使用料の見直しを諮問",
+        "detail": "令和８年度第１回審議会で使用料の見直しを諮問し、審議を開始した。市の公表ページに諮問書と議事録を掲載。",
+        "url": "https://www.city.yashio.lg.jp/kurashi/jogesuido/gesuido/sinngikaikyougikai/R8_01kaisaikekka.html",
+        "sourceTitle": "下水道事業審議会 第１回開催結果"
+      },
+      {
+        "date": "2026-09-17",
+        "actor": "小宮弘子",
+        "stage": "改定の考え方と家庭用・業務用の料金区分を質す",
+        "detail": "市は改定時期・改定率等を諮ると説明し、料金区分は変更予定なしと答えた。他市の事例は調査する。",
+        "url": "https://www.city.yashio.lg.jp/gikai/gikaidayori/index.files/127yashioshig_p01-08.pdf#page=6",
+        "sourceTitle": "やしお市議会だより第127号 PDF6頁",
+        "archiveId": "5da081741da9cc3fc8c7",
+        "blocks": [
+          16
+        ],
+        "memberActions": [
+          {
+            "name": "小宮弘子",
+            "blocks": [
+              16
+            ],
+            "detail": "市は改定時期・改定率等を諮ると説明し、料金区分は変更予定なしと答えた。他市の事例は調査する。"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-30",
+        "actor": "八潮市下水道事業審議会",
+        "stage": "第２回で使用料の見直しを審議",
+        "detail": "市が見直しの継続審議を公表し、２種類の会議資料と議事録を掲載した。",
+        "url": "https://www.city.yashio.lg.jp/kurashi/jogesuido/gesuido/sinngikaikyougikai/R0802kaisaikekka.html",
+        "sourceTitle": "下水道事業審議会 第２回開催結果"
+      }
+    ],
+    "note": "諮問後の実審議を記録。改定内容の決定、条例改正、施行日は確認中。"
+  },
+  {
+    "place": "八潮市",
+    "title": "やしお生涯楽習館の大規模改修と子ども・若者の居場所",
+    "topic": "こどもの居場所・公共施設",
+    "actors": [
+      "前原鮎美",
+      "八潮市"
+    ],
+    "steps": [
+      {
+        "date": "2026-04",
+        "actor": "八潮市",
+        "stage": "施設改修に伴い休館",
+        "detail": "令和６～７年度の設計を経て、４月から休館。市の案内では休館は令和９年10月までの予定。",
+        "url": "https://www.city.yashio.lg.jp/kurashi/shisetsuguide/shisetsuannai/shogaigakushukan/gaku_daikibokaisyu2.html",
+        "sourceTitle": "市 やしお生涯楽習館大規模改修事業"
+      },
+      {
+        "date": "2026-09-16",
+        "actor": "前原鮎美",
+        "stage": "児童館の中高生・若者向けの使い方を質す",
+        "detail": "市は児童館に体験型企画や子どもからの提案機会を設ける考えを示し、多世代交流、職員配置などを検討すると答えた。",
+        "url": "https://www.city.yashio.lg.jp/gikai/gikaidayori/index.files/127yashioshig_p01-08.pdf#page=5",
+        "sourceTitle": "やしお市議会だより第127号 PDF5頁",
+        "archiveId": "5da081741da9cc3fc8c7",
+        "blocks": [
+          9
+        ],
+        "memberActions": [
+          {
+            "name": "前原鮎美",
+            "blocks": [
+              9
+            ],
+            "detail": "市は児童館に体験型企画や子どもからの提案機会を設ける考えを示し、多世代交流、職員配置などを検討すると答えた。"
+          }
+        ]
+      }
+    ],
+    "note": "休館と設計後の改修段階、児童館運営の答弁を記録。児童館の開設や利用開始は確認中。"
+  },
+  {
+    "place": "八潮市",
+    "title": "市役所の生成AI利用を８課で試行",
+    "topic": "行政DX・業務改善",
+    "actors": [
+      "金子壮一",
+      "八潮市"
+    ],
+    "steps": [
+      {
+        "date": "2026-07",
+        "actor": "八潮市",
+        "stage": "生成AIサービスを試行開始",
+        "detail": "９月の市答弁によると、計画・ガイドラインの改正案作成や情報検索・整理などを想定し、８課にアカウントを付与した。",
+        "url": "https://www.city.yashio.lg.jp/gikai/gikaidayori/index.files/127yashioshig_p01-08.pdf#page=4",
+        "sourceTitle": "やしお市議会だより第127号 PDF４頁"
+      },
+      {
+        "date": "2026-09-15",
+        "actor": "金子壮一",
+        "stage": "生成AIの利用実態と全庁への展開を質す",
+        "detail": "市は一部の課の試行を説明し、効果と課題を検証して全庁での活用を検討すると答えた。",
+        "url": "https://www.city.yashio.lg.jp/gikai/gikaidayori/index.files/127yashioshig_p01-08.pdf#page=4",
+        "sourceTitle": "やしお市議会だより第127号 PDF4頁",
+        "archiveId": "5da081741da9cc3fc8c7",
+        "blocks": [
+          5
+        ],
+        "memberActions": [
+          {
+            "name": "金子壮一",
+            "blocks": [
+              5
+            ],
+            "detail": "市は一部の課の試行を説明し、効果と課題を検証して全庁での活用を検討すると答えた。"
+          }
+        ]
+      }
+    ],
+    "note": "７月の試行開始は９月の答弁で確認。時間削減の実測や全庁導入の決定は確認中。"
+  },
+  {
+    "place": "八潮市",
+    "title": "水道管路の更新・耐震化と経営戦略の年次確認",
+    "topic": "水道・耐震化",
+    "actors": [
+      "内田亜希子",
+      "八潮市",
+      "八潮市水道運営委員会"
+    ],
+    "steps": [
+      {
+        "date": "2025-03",
+        "actor": "八潮市",
+        "stage": "水道事業ビジョンと経営戦略を統合して策定",
+        "detail": "市は投資・財政計画を見直し、安全・強靭・持続を基本とするビジョン・経営戦略を策定した。",
+        "url": "https://www.city.yashio.lg.jp/kurashi/jogesuido/suido/gaiyo/wagamachi.html",
+        "sourceTitle": "八潮市 わがまちの水道"
+      },
+      {
+        "date": "2026-07-13",
+        "actor": "八潮市水道運営委員会",
+        "stage": "予算・事業と年次計画の取組を確認",
+        "detail": "事務局が令和８年度の予算・事業と、ビジョン・経営戦略の年次計画の取組を説明した。",
+        "url": "https://www.city.yashio.lg.jp/shisei/shiminsankaku/shingikai/fuzokukikan/kekka_r8_1/R8suidouuneiiinkai1.html",
+        "sourceTitle": "水道運営委員会 第１回会議結果"
+      },
+      {
+        "date": "2026-09-16",
+        "actor": "内田亜希子",
+        "stage": "持続・強靭・安全の具体策を質す",
+        "detail": "市は施設と管路の更新の優先付け、災害時の応急給水、関係機関との連携、水質管理と情報提供を説明した。",
+        "url": "https://www.city.yashio.lg.jp/gikai/gikaidayori/index.files/127yashioshig_p01-08.pdf#page=5",
+        "sourceTitle": "やしお市議会だより第127号 PDF5頁",
+        "archiveId": "5da081741da9cc3fc8c7",
+        "blocks": [
+          10
+        ],
+        "memberActions": [
+          {
+            "name": "内田亜希子",
+            "blocks": [
+              10
+            ],
+            "detail": "市は施設と管路の更新の優先付け、災害時の応急給水、関係機関との連携、水質管理と情報提供を説明した。"
+          }
+        ]
+      }
+    ],
+    "note": "戦略の策定と年次報告、答弁での方針を確認。個々の管路の更新完了や耐震化率は工事・決算の資料で確認する。"
+  },
+  {
+    "place": "八潮市",
+    "title": "医療・介護現場の夜勤規制と増員を求める請願を審査",
+    "topic": "請願・医療介護",
+    "actors": [
+      "請願者",
+      "八潮市議会・福祉環境常任委員会",
+      "八潮市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-06-01",
+        "actor": "請願者",
+        "stage": "国への意見書を求める請願を上程",
+        "detail": "医療・介護での夜勤規制と大幅増員を求める意見書の提出を求めた。福祉環境常任委員会に付託。",
+        "url": "https://www.city.yashio.lg.jp/gikai/jokyo/gian-seigan/index.files/R8-2kai-giketsukekka.pdf#page=3",
+        "sourceTitle": "八潮市 第２回定例会公式議決結果 PDF３頁"
+      },
+      {
+        "date": "2026-06-18",
+        "actor": "八潮市議会",
+        "stage": "請願を不採択",
+        "detail": "本会議で不採択。会派別表決は民政クラブ・公明党が反対、他５会派が賛成と掲載。",
+        "url": "https://www.city.yashio.lg.jp/gikai/jokyo/gian-seigan/index.files/R8-2kai-giketsukekka.pdf#page=3",
+        "sourceTitle": "八潮市 第２回定例会公式議決結果 PDF３頁",
+        "billNumber": "請願第1号"
+      }
+    ],
+    "note": "請願の上程から不採択までを記録。会派別原表は議案と賛否から確認できる。"
+  }
+]);

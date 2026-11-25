@@ -6411,12 +6411,60 @@ GIKAI.questionText = {
       "place": "八潮市",
       "season": "fall",
       "date": "2026-09",
-      "title": "令和8年第3回定例会報告号（令和8年11月発行） 令和8年第3回定例会報告号（令和8年11月発行）（PDF：2,307KB）",
+      "title": "やしお市議会だより第127号・９月の一般質問、決算討論と委員会報告",
       "url": "https://www.city.yashio.lg.jp/gikai/gikaidayori/index.files/127yashioshig_p01-08.pdf",
-      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "kind": "議会だよりの質問・答弁（紙面要約）",
       "scope": "summary",
-      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。 OCRの確認警告があるPDF 1、2、3、6、7頁を除外しています。",
-      "speakers": []
+      "note": "全17人の17主題の質問・答弁をPDF４～６頁の原紙面で確認。決算討論、意見書、委員会報告などの補足12件を収録。発言日は公式通告・録画一覧と照合。事前通告は44項目。正式会議録は確認中。既収録のPDF４頁OCRも併録。",
+      "speakers": [
+        "小倉聖彦",
+        "中江友哉",
+        "池谷正",
+        "平山貴博",
+        "金子壮一",
+        "佐藤寛美",
+        "大島愛音",
+        "土屋茂樹",
+        "前原鮎美",
+        "内田亜希子",
+        "篠原亮太",
+        "二木和枝",
+        "朝田和宏",
+        "大泉芳行",
+        "吉野雄喜",
+        "小宮弘子",
+        "岡部一正"
+      ]
+    },
+    {
+      "place": "八潮市",
+      "season": "fall",
+      "date": "2026-09",
+      "id": "ff99aa6e7aeee740da7a",
+      "url": "https://www.city.yashio.lg.jp/gikai/jokyo/shitsumon.files/reiwa8nenndai3kaiteireikai.pdf",
+      "title": "９月定例会の一般質問通告・発言日一覧（17人・44項目）",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "speakers": [
+        "小倉聖彦",
+        "中江友哉",
+        "池谷正",
+        "平山貴博",
+        "金子壮一",
+        "佐藤寛美",
+        "大島愛音",
+        "土屋茂樹",
+        "前原鮎美",
+        "内田亜希子",
+        "篠原亮太",
+        "二木和枝",
+        "朝田和宏",
+        "大泉芳行",
+        "吉野雄喜",
+        "小宮弘子",
+        "岡部一正"
+      ],
+      "note": "発言日一覧と質問項目一覧を全２頁収録。予定された質問事項の資料。質問・答弁は議会だよりと公式録画を参照。"
     },
     {
       "id": "d9cce7192f74b659d00d",
@@ -23915,6 +23963,34 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "43d89d51e4df39e8d873",
+      "place": "川島町",
+      "season": "fall",
+      "date": "2026-09-15",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "加藤進議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/kawajima/WebView/rd/speech.html?council_id=45&schedule_id=5&playlist_id=1&speaker_id=19&target_year=2026",
+      "speakers": [
+        "加藤進"
+      ]
+    },
+    {
+      "id": "acaf2478807532aa627d",
+      "place": "川島町",
+      "season": "fall",
+      "date": "2026-09-15",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "渋谷幸司議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/kawajima/WebView/rd/speech.html?council_id=45&schedule_id=5&playlist_id=2&speaker_id=15&target_year=2026",
+      "speakers": [
+        "渋谷幸司"
+      ]
+    },
+    {
       "id": "10bfb798c3f12bdd5323",
       "place": "川越市",
       "season": "spring",
@@ -39777,7 +39853,8 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+        "note": "第127号PDF４～６頁の17人・17主題の質問と答弁、決算討論・委員会報告などを原紙面と照合。公式通告全２頁は17人・44項目。９月15日６人・16日６人・17日５人を公式録画・通告と照合。正式会議録は11月25日の年別目次で未掲載。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/yashio/SpMinuteBrowse.html?tenant_id=233&view_years=2026"
       }
     },
     {
@@ -40260,7 +40337,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/kawajima/WebView/rd/council.html?year=2026&council_id=45",
-        "note": "第155号の一般質問７人・冒頭７組と本文26組、委員会質疑15組、決算６事業。公式通告13項目を９月14日４人、15日３人の公式録画目録と照合。正式会議録は確認中。 公式録画の機械文字起こしを2件収録。 公式録画・音声の機械文字起こしを3件収録。 公式録画・音声の機械文字起こしを4件収録。"
+        "note": "第155号の一般質問７人・冒頭７組と本文26組、委員会質疑15組、決算６事業。公式通告13項目を９月14日４人、15日３人の公式録画目録と照合。正式会議録は確認中。 公式録画の機械文字起こしを2件収録。 公式録画・音声の機械文字起こしを3件収録。 公式録画・音声の機械文字起こしを4件収録。 公式録画・音声の機械文字起こしを6件収録。"
       }
     },
     {
