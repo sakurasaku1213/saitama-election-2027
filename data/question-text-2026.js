@@ -28146,6 +28146,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "d443c057464fe1f7c551",
+      "place": "寄居町",
+      "season": "fall",
+      "date": "2026-09-17",
+      "title": "久保鷹矢議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/speech.html?council_id=39&schedule_id=4&playlist_id=1&speaker_id=25&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。 自動検査の確認候補時間帯を含みます。",
+      "speakers": [
+        "久保鷹矢"
+      ]
+    },
+    {
       "id": "442f05fb669b54d4063a",
       "place": "寄居町",
       "season": "fall",
@@ -50177,6 +50191,18 @@ GIKAI.questionText = {
       "note": "町公式の事前通告。通告の９人を９月２・３日の実際の音声目録と照合。質問事項と細目を含む全10頁のOCR。"
     },
     {
+      "id": "f76d3630b3fdaa08edc1",
+      "place": "鳩山町",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "本会議　開会と議案説明（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/hatoyama/WebView/rd/speech.html?council_id=63&schedule_id=1&playlist_id=1&speaker_id=15&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 本会議全体の録画。発言者と発言区間は原映像でご確認ください。",
+      "speakers": []
+    },
+    {
       "id": "2ba2bd728281db922b20",
       "place": "鳩山町",
       "season": "fall",
@@ -53128,7 +53154,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/hatoyama/WebView/rd/council.html?year=2026&council_id=63",
-        "note": "第174号の一般質問９人34問答、決算審議10問答、所管事務調査３問答、討論と視察等。公式通告９人10頁、公式音声は９月２日４人、３日５人。正式会議録は確認中。 公式録画の機械文字起こし一般質問9本・議事2本を収録。"
+        "note": "第174号の一般質問９人34問答、決算審議10問答、所管事務調査３問答、討論と視察等。公式通告９人10頁、公式音声は９月２日４人、３日５人。正式会議録は確認中。 公式録画の機械文字起こし一般質問9本・議事3本を収録。"
       }
     },
     {
@@ -53390,7 +53416,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/council.html?year=2026&council_id=39",
-        "note": "公式録画一覧で一般質問12人を確認。議会だよりの質問・答弁要旨も収録。正式会議録は確認中。 公式録画の機械文字起こし一般質問11本を収録。"
+        "note": "公式録画一覧で一般質問12人を確認。議会だよりの質問・答弁要旨も収録。正式会議録は確認中。 公式録画の機械文字起こし一般質問12本を収録。"
       }
     },
     {
