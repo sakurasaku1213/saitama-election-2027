@@ -6834,3 +6834,268 @@ GIKAI.cases.push(...[
     "note": "請願の紹介と採択、意見書の提出者と本会議の議決を確認。国の制度や対応の変更は確認中。"
   }
 ]);
+
+GIKAI.cases.push(...[
+  {
+    "place": "三芳町",
+    "title": "道の駅の債務負担行為を削る修正動議と秋の計画見直し",
+    "topic": "道の駅・予算・地域活性化",
+    "actors": [
+      "本名洋",
+      "内藤美佐子",
+      "三芳町議会",
+      "三芳町"
+    ],
+    "steps": [
+      {
+        "date": "2026-06-12",
+        "actor": "本名洋",
+        "stage": "道の駅整備の債務負担行為を削る修正動議を提出",
+        "detail": "本名議員ほか２名が提出。事業の採算、工事費、交通への影響等を理由に、道の駅事業の債務負担行為を削るよう求めた。",
+        "url": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=682&schedule_id=7",
+        "sourceTitle": "三芳町議会 2026-06-12 本会議録",
+        "archiveId": "cab203d55de2cc2d45f9",
+        "blocks": [
+          482,
+          483
+        ],
+        "billNumber": "議案第32号に対する修正動議",
+        "memberActions": [
+          {
+            "name": "本名洋",
+            "detail": "道の駅事業の債務負担行為を削除する修正動議を提出し、趣旨を説明した。",
+            "blocks": [
+              483
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-06-12",
+        "actor": "三芳町議会",
+        "stage": "修正動議を可決し、修正部分を除く予算を可決",
+        "detail": "修正動議は賛成多数（議会だよりでは８対６）。その後、修正部分を除いた議案第32号は起立総員で可決した。",
+        "url": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=682&schedule_id=7",
+        "sourceTitle": "三芳町議会 2026-06-12 本会議録",
+        "archiveId": "cab203d55de2cc2d45f9",
+        "blocks": [
+          558,
+          560
+        ],
+        "billNumber": "議案第32号"
+      },
+      {
+        "date": "2026-08-28",
+        "actor": "内藤美佐子",
+        "stage": "６月の議決を踏まえて町の地域活性化方針を確認",
+        "detail": "町は事業を持続できる形に見直す機会と受け止め、防災拠点としての道の駅の機能を精査し、住民と意見交換を重ねると答えた。",
+        "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_202.pdf#page=2",
+        "sourceTitle": "三芳町議会だより第202号 紙面２頁",
+        "memberActions": [
+          {
+            "name": "内藤美佐子",
+            "detail": "６月の議決後も防災拠点が必要か、地域活性化の方向を住民にどう示すか質問した。"
+          }
+        ]
+      }
+    ],
+    "note": "道の駅の債務負担行為の削除と、補正予算の修正可決を確認。秋の答弁は事業の再検討の段階。"
+  },
+  {
+    "place": "三芳町",
+    "title": "上富小学校の統合案の再上程と賛否同数での議長裁決",
+    "topic": "学校再編・地域説明",
+    "actors": [
+      "牛丸藍子",
+      "三芳町議会",
+      "三芳町教育委員会"
+    ],
+    "steps": [
+      {
+        "date": "2026-02-27",
+        "actor": "三芳町教育委員会",
+        "stage": "統合案について意見交換・説明を開催",
+        "detail": "議会だよりは、2025年12月の条例改正案否決後、１月19日から２月27日に９回の意見交換・地域説明会を開き、計延べ173人が参加したと掲載した。",
+        "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf",
+        "sourceTitle": "三芳町議会だより第200号 学校再編の経過"
+      },
+      {
+        "date": "2026-03-23",
+        "actor": "牛丸藍子",
+        "stage": "再上程に必要な住民理解の根拠を確認",
+        "detail": "牛丸議員は保護者以外の地元住民の支持を客観的に判断した基準を確認。教育委員会は地域の賛否両論を聞き、説明を重ねたと答えた。",
+        "url": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=675&schedule_id=8",
+        "sourceTitle": "三芳町議会 2026-03-23 本会議録",
+        "archiveId": "1cb3c88908c86913fc8a",
+        "blocks": [
+          599,
+          601
+        ],
+        "billNumber": "議案第28号",
+        "memberActions": [
+          {
+            "name": "牛丸藍子",
+            "detail": "町が保護者以外の地元住民の一定の支持を得たと判断した基準を尋ねた。",
+            "blocks": [
+              599
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-03-23",
+        "actor": "三芳町議会",
+        "stage": "学校設置条例の改正を議長裁決で可決",
+        "detail": "上富小学校を三芳小学校に統合する条例案の採決は賛否各７人。議長が可決と裁決した。",
+        "url": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=675&schedule_id=8",
+        "sourceTitle": "三芳町議会 2026-03-23 本会議録",
+        "archiveId": "1cb3c88908c86913fc8a",
+        "blocks": [
+          885
+        ],
+        "billNumber": "議案第28号"
+      },
+      {
+        "date": "2026-11-25",
+        "actor": "三芳町教育委員会",
+        "stage": "令和10年度の再編準備を確認",
+        "detail": "教育委員会の公表ページでは、三芳小・上富小の令和10年度の再編に向けて準備を進めている。日付は掲載内容の確認日。",
+        "url": "https://www.town.saitama-miyoshi.lg.jp/study/gakkou/2022-tekiseikibohaichikento.html",
+        "sourceTitle": "町 学校再編の取組"
+      }
+    ],
+    "note": "条例改正の手続と町の準備を確認。再編後の学校運営や児童の通学実績は確認中。"
+  },
+  {
+    "place": "三芳町",
+    "title": "ルミナみよしの開館に伴う駐車場の確保と臨時駐車場の供用",
+    "topic": "公共施設・駐車場",
+    "actors": [
+      "桃園典子",
+      "三芳町",
+      "三芳町議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-08-31",
+        "actor": "桃園典子",
+        "stage": "供用後の駐車場の確保を求める",
+        "detail": "桃園議員が民間事業者との連携による駐車場確保を質問。町長は調査しながら検討すると答えた。町の録画一覧・日程の登壇日による。",
+        "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_202.pdf#page=3",
+        "sourceTitle": "三芳町議会だより第202号 紙面４頁",
+        "memberActions": [
+          {
+            "name": "桃園典子",
+            "detail": "供用開始後の環境整備として民間と連携した駐車場確保を提案した。"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-01",
+        "actor": "三芳町",
+        "stage": "施設供用開始と開館記念式典",
+        "detail": "町はルミナみよしの供用開始と開館記念式典を報告した。",
+        "url": "https://www.town.saitama-miyoshi.lg.jp/town/chouchou/nikki/chouchounikki2026-9.html",
+        "sourceTitle": "町長フォトニュース９月"
+      },
+      {
+        "date": "2026-09-18",
+        "actor": "三芳町議会",
+        "stage": "臨時駐車場の整備費を含む補正予算を可決",
+        "detail": "議案第48号に用地借上料や整備・撤去工事費を含む627万円を計上。紙面では47台を想定と説明した。",
+        "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_202.pdf#page=9",
+        "sourceTitle": "三芳町議会だより第202号 紙面17頁",
+        "billNumber": "議案第48号"
+      },
+      {
+        "date": "2026-11-02",
+        "actor": "三芳町",
+        "stage": "臨時駐車場の整備と供用開始を公表",
+        "detail": "町の施設案内と11月２日の掲載は、来館者向け臨時駐車場の整備・供用開始を案内した。",
+        "url": "https://www.town.saitama-miyoshi.lg.jp/study/shakai/luminamiyoshi.html",
+        "sourceTitle": "町 ルミナみよし施設案内"
+      }
+    ],
+    "note": "質問で示された駐車需要、補正予算、臨時駐車場の供用日を確認。"
+  },
+  {
+    "place": "三芳町",
+    "title": "都市計画事業基金の設置と都市計画税の３年間の非課税",
+    "topic": "都市計画税・基金",
+    "actors": [
+      "三芳町議会",
+      "三芳町"
+    ],
+    "steps": [
+      {
+        "date": "2026-09-18",
+        "actor": "三芳町議会",
+        "stage": "都市計画事業基金条例と税条例の改正を可決",
+        "detail": "第36号で基金を設置する条例、第37号で令和９～11年度の都市計画税を課さない改正条例を可決した。",
+        "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_202.pdf#page=11",
+        "sourceTitle": "三芳町議会だより第202号 記名表決",
+        "billNumber": "議案第37号"
+      },
+      {
+        "date": "2026-11-25",
+        "actor": "三芳町",
+        "stage": "翌年度から３年間の取扱いを案内",
+        "detail": "町は都市計画税の特例措置として令和９～11年度の課税を行わない旨を案内。日付は公表ページの確認日。",
+        "url": "https://www.town.saitama-miyoshi.lg.jp/life/zei/toshikeikakuzeitokurei.html",
+        "sourceTitle": "町 都市計画税の特例措置"
+      }
+    ],
+    "note": "議決と税の取扱いの案内を確認。対象年度の実際の賦課は今後。"
+  },
+  {
+    "place": "三芳町",
+    "title": "MIYOバスの試行運行を検証し停留所とダイヤを変更",
+    "topic": "地域公共交通・実証運行",
+    "actors": [
+      "三芳町",
+      "三芳町地域公共交通協議会",
+      "久保健二"
+    ],
+    "steps": [
+      {
+        "date": "2025-10-01",
+        "actor": "三芳町",
+        "stage": "循環ワゴンの実証運行を開始",
+        "detail": "交通空白地域の解消と既存バス路線の補完を目的に、３コースで実証運行を開始した。",
+        "url": "https://www.town.saitama-miyoshi.lg.jp/town/chouchou/nikki/nikki2025-10.html",
+        "sourceTitle": "町長フォトニュース令和７年10月"
+      },
+      {
+        "date": "2026-07-21",
+        "actor": "三芳町地域公共交通協議会",
+        "stage": "車両入替とダイヤ改正案を協議",
+        "detail": "協議会の掲載資料で新車両への入替、変更点、ダイヤ改正案と運送許可申請書を確認した。",
+        "url": "https://www.town.saitama-miyoshi.lg.jp/town/keikaku/R8chiikikokyokotukyogikaiotukyogikai.html",
+        "sourceTitle": "町 令和８年度三芳町地域公共交通協議会"
+      },
+      {
+        "date": "2026-08-31",
+        "actor": "久保健二",
+        "stage": "試行結果、今後の車両確保と運行を一般質問で取り上げる",
+        "detail": "町の公式録画目録は久保議員の一般質問に試行運行の検証結果、今後の車両確保と運行を掲げる。動画タイトルの日付との差は字幕資料にも注記した。",
+        "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/rokuga_R8-4.html",
+        "sourceTitle": "町 ８月31日の一般質問の公式録画目録",
+        "memberActions": [
+          {
+            "name": "久保健二",
+            "detail": "試行運行の検証結果、今後の車両確保と運行について一般質問に登壇した。"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-01",
+        "actor": "三芳町",
+        "stage": "停留所とダイヤの一部変更を実施",
+        "detail": "町は10月１日から停留所とダイヤ等を変更したと公表。実証運行期間は令和９年９月30日までを掲載。",
+        "url": "https://www.town.saitama-miyoshi.lg.jp/town/keikaku/junkanwagon.html",
+        "sourceTitle": "町 MIYOバスの運行案内"
+      }
+    ],
+    "note": "実証運行の変更を実施済みとして確認。実証後の本格運行と検証結果は確認中。"
+  }
+]);
