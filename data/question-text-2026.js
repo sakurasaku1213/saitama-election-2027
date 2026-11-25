@@ -3095,12 +3095,56 @@ GIKAI.questionText = {
       "place": "三郷市",
       "season": "fall",
       "date": "2026-09",
-      "title": "議会だより 議会だより 令和8年11月15日号 (PDFファイル: 3.5MB)",
+      "title": "みさと市議会だより第207号・９月の一般質問と決算審議",
       "url": "https://www.city.misato.lg.jp/material/files/group/57/gikaidayori207.pdf",
-      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "kind": "議会だよりの質問・答弁（紙面要約）",
       "scope": "summary",
-      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
-      "speakers": []
+      "note": "議員編集の一般質問15人15主題、議案・決算の14問答、補足13件を原紙面と照合。登壇日は公式録画一覧。原紙面OCR全16頁を併録。正式会議録は確認中。",
+      "speakers": [
+        "沖原優子",
+        "西尾秀貴",
+        "西村寿美枝",
+        "柳瀬勝彦",
+        "鈴木優作",
+        "紺野伊久子",
+        "工藤智加子",
+        "深川智加",
+        "鳴海和美",
+        "宇治由紀子",
+        "桑原洋昭",
+        "高橋誠一",
+        "日高千穂",
+        "柴田吾一",
+        "寺沢美紗"
+      ]
+    },
+    {
+      "place": "三郷市",
+      "season": "fall",
+      "date": "2026-09",
+      "id": "a0d31f24fa43d7f866dc",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R89ippansitumon.pdf",
+      "title": "９月定例会の一般質問通告一覧（15人・19頁）",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "speakers": [
+        "沖原優子",
+        "西尾秀貴",
+        "西村寿美枝",
+        "柳瀬勝彦",
+        "鈴木優作",
+        "紺野伊久子",
+        "工藤智加子",
+        "深川智加",
+        "鳴海和美",
+        "宇治由紀子",
+        "桑原洋昭",
+        "高橋誠一",
+        "日高千穂",
+        "柴田吾一",
+        "寺沢美紗"
+      ],
+      "note": "掲載された事前通告を全19頁収録。一般質問者15人を公式録画目録と照合。質問者の髙の字はOCRを保持し、検索用氏名は議員名簿の高の字。"
     },
     {
       "id": "1a662ec728c0488515ed",
@@ -23829,6 +23873,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "8f6c727175420c0b8af7",
+      "place": "川島町",
+      "season": "fall",
+      "date": "2026-09-14",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "小高春雄議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/kawajima/WebView/rd/speech.html?council_id=45&schedule_id=4&playlist_id=4&speaker_id=13&target_year=2026",
+      "speakers": [
+        "小高春雄"
+      ]
+    },
+    {
       "id": "58a5b6ed56b21d0682a6",
       "place": "川島町",
       "season": "fall",
@@ -39772,7 +39830,8 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+        "note": "第207号で議員15人・15主題の質問と答弁、議案・決算の14問答、補足13件を原紙面と照合。公式通告19頁、公式録画で9/14の２人、15・16日の各６人、17日の１人を照合。速報版は市が11月下旬予定と案内しており、正式会議録は確認中。",
+        "indexURL": "https://smart.discussvision.net/smart/tenant/misato/WebView/rd/council.html?year=2026&council_id=16"
       }
     },
     {
@@ -40201,7 +40260,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/kawajima/WebView/rd/council.html?year=2026&council_id=45",
-        "note": "第155号の一般質問７人・冒頭７組と本文26組、委員会質疑15組、決算６事業。公式通告13項目を９月14日４人、15日３人の公式録画目録と照合。正式会議録は確認中。 公式録画の機械文字起こしを2件収録。 公式録画・音声の機械文字起こしを3件収録。"
+        "note": "第155号の一般質問７人・冒頭７組と本文26組、委員会質疑15組、決算６事業。公式通告13項目を９月14日４人、15日３人の公式録画目録と照合。正式会議録は確認中。 公式録画の機械文字起こしを2件収録。 公式録画・音声の機械文字起こしを3件収録。 公式録画・音声の機械文字起こしを4件収録。"
       }
     },
     {

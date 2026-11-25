@@ -7661,3 +7661,306 @@ GIKAI.cases.push(...[
     "note": "意見書を提出するための発議と否決を確認。"
   }
 ]);
+
+GIKAI.cases.push(...[
+  {
+    "place": "三郷市",
+    "title": "みんなの防災プラザみさとの設置条例、変更契約と建物の完成",
+    "topic": "防災拠点・施設整備",
+    "actors": [
+      "三郷市",
+      "三郷市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-11",
+        "actor": "三郷市議会",
+        "stage": "設置・管理条例を可決",
+        "detail": "議案第６号で施設の設置及び管理条例の制定を可決した。",
+        "url": "https://www.city.misato.lg.jp/soshiki/gikaijimukyoku/giji/1/1157.html",
+        "sourceTitle": "市 ３月定例会議決結果",
+        "billNumber": "議案第6号"
+      },
+      {
+        "date": "2026-09-14",
+        "actor": "三郷市議会",
+        "stage": "給排水・ガス設備の工事変更契約を可決",
+        "detail": "議案第61号。議会だよりでは429万円増額して４億5,300万6,400円となる。ガス貯蔵容量は500kgから1,000kgに変更。災害利用日数や配送効率が理由として説明された。",
+        "url": "https://www.city.misato.lg.jp/material/files/group/57/gikaidayori207.pdf#page=2",
+        "sourceTitle": "みさと市議会だより第207号 PDF2頁",
+        "archiveId": "19afcb7c46c70e67c660",
+        "blocks": [
+          16,
+          17,
+          30
+        ],
+        "billNumber": "議案第61号"
+      },
+      {
+        "date": "2026-11",
+        "actor": "三郷市",
+        "stage": "防災プラザの完成を広報",
+        "detail": "11月号広報で建物の完成を公表した。議会だより第207号は開館を令和９年２月予定としている。",
+        "url": "https://www.city.misato.lg.jp/material/files/group/1/2026111202.pdf#page=2",
+        "sourceTitle": "広報みさと11月号"
+      }
+    ],
+    "note": "条例、設備変更の議決と建物の完成を確認。開館実績は今後の公表資料で確認する。"
+  },
+  {
+    "place": "三郷市",
+    "title": "証明交付３連絡所の閉所方針と窓口代替の検討",
+    "topic": "窓口サービス・デジタル手続",
+    "actors": [
+      "深川智加",
+      "三郷市"
+    ],
+    "steps": [
+      {
+        "date": "2024-05",
+        "actor": "三郷市",
+        "stage": "彦成連絡所の職員配置を終了",
+        "detail": "市の窓口案内は、５月末に職員配置を終了し、６月以降はマルチコピー機の証明発行と遠隔相談に移ったと記載。",
+        "url": "https://www.city.misato.lg.jp/kurashi_tetsuzuki/todokede_shomei/madoguchinogoannai/7141.html",
+        "sourceTitle": "市 出張所・連絡所の案内"
+      },
+      {
+        "date": "2026-09-15",
+        "actor": "深川智加",
+        "stage": "閉所方針の撤回と窓口機能の充実を求める",
+        "detail": "証明交付を利用する住民への影響を挙げて存続を求めた。市はコンビニ交付57.5％、連絡所6.7％と説明し、マルチコピー機での代替と課題整理を進めると答えた。",
+        "url": "https://www.city.misato.lg.jp/material/files/group/57/gikaidayori207.pdf#page=8",
+        "sourceTitle": "みさと市議会だより第207号 PDF8頁",
+        "archiveId": "19afcb7c46c70e67c660",
+        "blocks": [
+          5
+        ],
+        "memberActions": [
+          {
+            "name": "深川智加",
+            "blocks": [
+              5
+            ],
+            "detail": "証明交付を利用する住民への影響を挙げて存続を求めた。市はコンビニ交付57.5％、連絡所6.7％と説明し、マルチコピー機での代替と課題整理を進めると答えた。"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-25",
+        "actor": "三郷市",
+        "stage": "公式案内で３連絡所の閉所予定日を確認",
+        "detail": "市の案内は鷹野を令和８年12月25日、早稲田と戸ヶ崎を令和９年３月30日としている。９月の議会だより要旨はそれぞれ12月末・３月末。日付は確認日。",
+        "url": "https://www.city.misato.lg.jp/kurashi_tetsuzuki/todokede_shomei/madoguchinogoannai/7141.html",
+        "sourceTitle": "市 出張所・連絡所の案内"
+      }
+    ],
+    "note": "既に実施された彦成の配置変更と、他の３連絡所の閉所予定を記録。予定日の閉所は確認中。"
+  },
+  {
+    "place": "三郷市",
+    "title": "プレーパーク認定制度の創設、議会での確認と認定団体の公表",
+    "topic": "こどもの居場所・遊び",
+    "actors": [
+      "沖原優子",
+      "三郷市"
+    ],
+    "steps": [
+      {
+        "date": "2026-08-10",
+        "actor": "三郷市",
+        "stage": "プレーパークの認定制度を案内",
+        "detail": "遊びや体験の場を開く団体を市が認定・支援する制度と要件を掲載した。日付は市案内の更新日。",
+        "url": "https://www.city.misato.lg.jp/soshiki/kodomomirai/kodomoseisakushi/ibasyo/13122.html",
+        "sourceTitle": "市 プレーパーク認定制度"
+      },
+      {
+        "date": "2026-09-14",
+        "actor": "沖原優子",
+        "stage": "居場所と体験機会の課題、次年度以降の取組を質す",
+        "detail": "市は夏休みの学校図書館開放と安全管理の課題を説明し、８月のプレーパーク制度新設と周知・機運醸成を答えた。",
+        "url": "https://www.city.misato.lg.jp/material/files/group/57/gikaidayori207.pdf#page=10",
+        "sourceTitle": "みさと市議会だより第207号 PDF10頁",
+        "archiveId": "19afcb7c46c70e67c660",
+        "blocks": [
+          9
+        ],
+        "memberActions": [
+          {
+            "name": "沖原優子",
+            "blocks": [
+              9
+            ],
+            "detail": "市は夏休みの学校図書館開放と安全管理の課題を説明し、８月のプレーパーク制度新設と周知・機運醸成を答えた。"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-14",
+        "actor": "三郷市",
+        "stage": "プレーパークみさとを認定",
+        "detail": "10月20日更新の認定団体一覧は、プレーパークみさとの認定日を10月14日と記載。",
+        "url": "https://www.city.misato.lg.jp/soshiki/kodomomirai/kodomoseisakushi/ibasyo/13756.html",
+        "sourceTitle": "市 プレーパーク認定団体一覧"
+      }
+    ],
+    "note": "制度の公表と個別団体の認定を確認。開設日・利用実績は個別の公表資料で確認する。"
+  },
+  {
+    "place": "三郷市",
+    "title": "学校給食費の負担軽減と地元食材・有機農産物の活用",
+    "topic": "給食・地産地消",
+    "actors": [
+      "柳瀬勝彦",
+      "三郷市"
+    ],
+    "steps": [
+      {
+        "date": "2026-04-01",
+        "actor": "三郷市",
+        "stage": "小学校の給食費を保護者から徴収しない取扱いを案内",
+        "detail": "令和８年度の市資料は、負担軽減交付金を小学校の食材費に充てると説明。中学校は食材高騰分を市が負担し、保護者の費用を据え置くとした。",
+        "url": "https://www.city.misato.lg.jp/material/files/group/52/202604281456.pdf",
+        "sourceTitle": "市 令和８年度保護者負担分の学校給食費"
+      },
+      {
+        "date": "2026-09-15",
+        "actor": "柳瀬勝彦",
+        "stage": "給食の質を確かめ地産地消のモデルを提案",
+        "detail": "柳瀬議員は給食の質を高めるモデルを提案。市は５月の18日中11日で地元の野菜を使い、有機農産物調達には量・費用の課題があると答えた。",
+        "url": "https://www.city.misato.lg.jp/material/files/group/57/gikaidayori207.pdf#page=9",
+        "sourceTitle": "みさと市議会だより第207号 PDF9頁",
+        "archiveId": "19afcb7c46c70e67c660",
+        "blocks": [
+          8
+        ],
+        "memberActions": [
+          {
+            "name": "柳瀬勝彦",
+            "blocks": [
+              8
+            ],
+            "detail": "柳瀬議員は給食の質を高めるモデルを提案。市は５月の18日中11日で地元の野菜を使い、有機農産物調達には量・費用の課題があると答えた。"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-09",
+        "actor": "三郷市",
+        "stage": "学校給食用生鮮食品の産地情報を掲載",
+        "detail": "市は令和８年度の食品の産地情報を掲載。日付は市ページの更新日。",
+        "url": "https://www.city.misato.lg.jp/soshiki/gakkokyoiku/gakumu/2/1181.html",
+        "sourceTitle": "市 給食用生鮮食品等の産地情報"
+      }
+    ],
+    "note": "小学校と中学校の保護者負担、地元食材の利用実績、有機食材の調達検討を記録。モデル事業の実施は確認中。"
+  },
+  {
+    "place": "三郷市",
+    "title": "学校司書の直接雇用モデルを検証し、学校図書館の全校配置を質す",
+    "topic": "学校図書館・司書の配置",
+    "actors": [
+      "柴田吾一",
+      "三郷市",
+      "福祉教育常任委員会"
+    ],
+    "steps": [
+      {
+        "date": "2026-09",
+        "actor": "福祉教育常任委員会、三郷市",
+        "stage": "決算審査で直接雇用モデルを検証",
+        "detail": "市は指揮命令の明確化や貸出の増加報告を挙げた。必要人数の確保と、人件費が上がった場合の委託との費用対効果の検証も課題とした。",
+        "url": "https://www.city.misato.lg.jp/material/files/group/57/gikaidayori207.pdf#page=5",
+        "sourceTitle": "みさと市議会だより第207号 PDF5頁",
+        "archiveId": "19afcb7c46c70e67c660",
+        "blocks": [
+          25
+        ]
+      },
+      {
+        "date": "2026-09-16",
+        "actor": "柴田吾一",
+        "stage": "全校配置と休業中の開館、研修の拠点化を求める",
+        "detail": "柴田議員が直接雇用による全校配置等を提案。市は人員確保と費用も踏まえて配置方法を研究し、研修を維持して専門性共有も調べると答えた。",
+        "url": "https://www.city.misato.lg.jp/material/files/group/57/gikaidayori207.pdf#page=9",
+        "sourceTitle": "みさと市議会だより第207号 PDF9頁",
+        "archiveId": "19afcb7c46c70e67c660",
+        "blocks": [
+          7
+        ],
+        "memberActions": [
+          {
+            "name": "柴田吾一",
+            "blocks": [
+              7
+            ],
+            "detail": "柴田議員が直接雇用による全校配置等を提案。市は人員確保と費用も踏まえて配置方法を研究し、研修を維持して専門性共有も調べると答えた。"
+          }
+        ]
+      }
+    ],
+    "note": "直接雇用モデルの取組と、その後の全校配置の提案・答弁を確認。全校での採用と長期休業中の開館実績は確認中。"
+  },
+  {
+    "place": "三郷市",
+    "title": "在宅重度心身障害者手当の改正案の意見募集と可決",
+    "topic": "障害福祉・手当",
+    "actors": [
+      "三郷市",
+      "三郷市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-05-26",
+        "actor": "三郷市",
+        "stage": "手当支給条例の改正案を公表し意見を募集",
+        "detail": "５月26日に案を公表し、６月25日まで市民意見を募集した。市は募集結果も掲載した。",
+        "url": "https://www.city.misato.lg.jp/shiseijoho/koho_kocho/publiccomment/3/r8pablic/12866.html",
+        "sourceTitle": "市 条例改正案パブリックコメント"
+      },
+      {
+        "date": "2026-09-14",
+        "actor": "三郷市議会",
+        "stage": "手当支給条例の改正を可決",
+        "detail": "議案第65号を原案可決。紙面の記名表決は賛成19、反対３、欠席１、議長不参加。",
+        "url": "https://www.city.misato.lg.jp/material/files/group/57/gikaidayori207.pdf#page=14",
+        "sourceTitle": "みさと市議会だより第207号 審議結果と賛否",
+        "billNumber": "議案第65号"
+      }
+    ],
+    "note": "意見募集と議決を確認。改正後の支給実績は確認中。"
+  },
+  {
+    "place": "三郷市",
+    "title": "建設資材の供給不安対策を求める請願を審査し不採択",
+    "topic": "請願・建設事業者支援",
+    "actors": [
+      "請願者",
+      "三郷市議会・建設経済常任委員会",
+      "三郷市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-08-31",
+        "actor": "請願者",
+        "stage": "市議会から国への意見書提出を求める請願を提出",
+        "detail": "市議会だよりは建設資材の供給不安解消と中小建設事業者の支援を求める請願を掲載。提出日は公式議決結果表の提出欄による。",
+        "url": "https://www.city.misato.lg.jp/material/files/group/57/gikaidayori207.pdf#page=13",
+        "sourceTitle": "みさと市議会だより第207号 PDF13頁",
+        "archiveId": "19afcb7c46c70e67c660",
+        "blocks": [
+          38
+        ]
+      },
+      {
+        "date": "2026-09-14",
+        "actor": "三郷市議会",
+        "stage": "請願を不採択",
+        "detail": "建設経済常任委員会への付託後、本会議で不採択。記名表決は採択に賛成３、反対19、欠席１、議長不参加。",
+        "url": "https://www.city.misato.lg.jp/material/files/group/57/gikaidayori207.pdf#page=14",
+        "sourceTitle": "みさと市議会だより第207号 記名表決",
+        "billNumber": "請願第1号"
+      }
+    ],
+    "note": "市議会の請願の処理を記録。国への意見書の提出に至ったことは確認していない。"
+  }
+]);
