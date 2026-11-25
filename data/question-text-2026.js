@@ -3520,6 +3520,462 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "0fb39f22d7636f84d3ac",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・一般質問順序表（1頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-00-09_ippanzyunzyo_R8-2.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "ca7c7415270745377bdc",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・三芳町下水道条例の一部を改正する条例（4頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-13-00_gian13_gesuido_zyourei.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "2e5752a9b658b78ad297",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・三芳町乳児等通園支援事業の設備及び運営に関する基準を定める条例の一部を改正する条例（6頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-15-00_gian15_nyuuzituuen_zyourei.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "04e162c8cc2d75d958b0",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・三芳町介護保険条例の一部を改正する条例（12頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-14-00_gian14_kaigohoken_zyourei.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "3962689a6a95646d6195",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・三芳町公平委員会委員の選任同意について（1頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-21_doui01_kouheiiin.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。 OCRの照合候補頁を表示。金額、表の配置や読み順は原PDFを確認してください。",
+      "speakers": []
+    },
+    {
+      "id": "42ae75375e29c60552d1",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・三芳町公民館の設置及び管理に関する条例の一部を改正する条例（4頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-16-00_gian16_kouminkan_zyourei.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "c6e60b8219b4c67b5025",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・三芳町国民健康保険税条例の一部を改正する条例（18頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/06-02-01_gian27_kokuhozyourei.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "7e186e16de3fb802967c",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・三芳町教育委員会教育長の任命同意について（1頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/06-04_doui03_kyouikutyou.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。 OCRの照合候補頁を表示。金額、表の配置や読み順は原PDFを確認してください。",
+      "speakers": []
+    },
+    {
+      "id": "abf91b42b99719c3e947",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・三芳町未来創造拠点施設の設置及び管理に関する条例（12頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-08-00_gian08_miraisouzou_zyourei.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "93b3a4c1c2375ff6caf9",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・三芳町水道事業及び下水道事業の設置等に関する条例の一部を改正する条例（3頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-11-00_gian11_suidou_gesuidousecchi_zyourei.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "24811b3491fd80a2103f",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・三芳町水道事業給水条例の一部を改正する条例（5頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-12-00_gian12_kyuusui_zyourei.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "b50a04536794501c6af3",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・三芳町立学校設置条例の一部を改正する条例（4頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/06-03-01_gian28_gakkouzourei.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "b74b94433cf136d08d0c",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・三芳町職員の給与に関する条例の一部を改正する条例（3頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-17_gian17_syokuinkyuyo_zyourei.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "69b82d44ccd04800af20",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・三芳町職員の自己啓発等休業に関する条例（6頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-09-00_gian09_syokuinkeihatu_zyourei.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "f5f4ba303a745b0aad05",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・三芳町職員の配偶者同行休業に関する条例（6頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-10-00-02_gian10_syokuinhaiguusya_zyourei.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "2af9741a3d758c6cee2f",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・三芳町議会委員会条例の一部を改正する条例（3頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-00-08_hatsugi01_iinkaizyourei_R8-2.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "6d0c0c743d26d9198abf",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・三芳町農業委員会委員の任命同意について（1頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-22_doui02_nougyouiinn.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。 OCRの照合候補頁を表示。金額、表の配置や読み順は原PDFを確認してください。",
+      "speakers": []
+    },
+    {
+      "id": "d8b3e888ae96565caf67",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・三芳町道路線の認定について（3頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-20_gian20_douronintei.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "f44339c193d045332e50",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・上下水道事業に対する国の財政支援等の強化を求める意見書について（2頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/07-11_ikensyo01_R8-2.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "c5a6847a1e77eb122aa1",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・予算書（16頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-01-01_houkoku02_yosansyo_R8hosei09.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。 原本で空白だった2頁も頁番号を保持。",
+      "speakers": []
+    },
+    {
+      "id": "bfb4c623326c14fba5f0",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・令和7年度三芳町一般会計補正予算（第10号）（40頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-02-00_gian2_R7hoseiyosan.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。 原本で空白だった3頁も頁番号を保持。",
+      "speakers": []
+    },
+    {
+      "id": "9142cfb9e94cb983aff9",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・令和7年度三芳町下水道事業会計補正予算（第4号）（9頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-06-00-02_gian06_gesuido_R8hosei04.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "ae54c573c7387705df0f",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・令和7年度三芳町介護保険特別会計補正予算（第2号）（10頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-04-00_gian04_kaigo_R8hosei02.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。 原本で空白だった2頁も頁番号を保持。",
+      "speakers": []
+    },
+    {
+      "id": "316e2b5fbc732b77b21f",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・令和7年度三芳町国民健康保険特別会計補正予算（第2号）（10頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-03-00_gian03_kokuho_R8hosei02.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。 原本で空白だった2頁も頁番号を保持。",
+      "speakers": []
+    },
+    {
+      "id": "f18458363b692ac3b597",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・令和7年度三芳町後期高齢者医療特別会計補正予算（第1号）（10頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-05-00_gian05_koukikourei_R8hosei01.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。 原本で空白だった2頁も頁番号を保持。",
+      "speakers": []
+    },
+    {
+      "id": "36a3d75dc653cf9e7f50",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・令和7年度三芳町水道事業会計補正予算（第3号）（9頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-07-00-02_gian07_suido_R8hosei03.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "62948b760c201a37f75f",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・令和8年度三芳町一般会計予算（145頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-23-00_gian21_R8yosan.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。 原本で空白だった2頁も頁番号を保持。",
+      "speakers": []
+    },
+    {
+      "id": "6010428d9c1d5858ef91",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・令和8年度三芳町下水道事業会計予算（31頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-27-00_gian25_R8gesuidouyosan.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "8c1e4e4fbc40de0a1a50",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・令和8年度三芳町介護保険特別会計予算（25頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-25-00_gian23_R8kaigoyosan.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。 原画像で本文が確認できない頁は、頁番号と原画像で確認した状態を表示。",
+      "speakers": []
+    },
+    {
+      "id": "cfccdd3327be2d458b55",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・令和8年度三芳町国民健康保険特別会計予算（25頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-24-00_gian22_R8kokuhoyosan.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。 原本で空白だった3頁も頁番号を保持。",
+      "speakers": []
+    },
+    {
+      "id": "2fb7abe6594caf6d9646",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・令和8年度三芳町後期高齢者医療特別会計予算（14頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-26-00_gian24_R8koukikoureiyosan.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。 原本で空白だった2頁も頁番号を保持。",
+      "speakers": []
+    },
+    {
+      "id": "395bbc1da5ec0990b124",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・令和8年度三芳町水道事業会計予算（31頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-28-00_gian26_R8suidouyosan.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "19f387e65547f20977a4",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・入間東部地区事務組合議会議員の選出について（依頼）（1頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/06-05_zimukumiai_senkyo.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "a9414c3a7ee74393e29a",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・地方消費税交付金（社会保障財源化分）が充てられる社会保障施策に要する経費（1頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-23-05_gian21_koufukinzyutou.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "4ac899f50eba4bc05a6c",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・基金の積立状況（1頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-23-04_gian21_kikin.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "39d503d13aac845f2418",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・基金積み立て状況（1頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-01-03_houkoku02_kikin.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "d089705f9016e1d76011",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・基金積み立て状況（1頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-02-02_gian02_kikin.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "3d40e3cd21b63afa59e5",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・埼玉県立高等学校における男女別学校のあり方の検討に関し、当事者の意見を尊重した方針決定を求める意見書について（2頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/07-14_ikensyo04_R8-2.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
       "id": "ef086b362b01e46d685f",
       "place": "三芳町",
       "season": "spring",
@@ -3600,6 +4056,282 @@ GIKAI.questionText = {
       "kind": "会議・政策の関連資料（公式PDF・OCR）",
       "scope": "supporting",
       "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/07-10_iinkaishinsahoukoku_chinzyo01_8-2.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "881b171213546bbd108d",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・安心して医療を受けられる制度の確保を求める意見書について（2頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/07-13_ikensyo03_R8-2.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "14bd99d9a7ac245a3469",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・専決処分事項の報告について（令和7年度三芳町一般会計補正予算（第9号））（2頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-01-00_houkoku02.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "4139d1cbf1454df24998",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・当初予算に関する指標見込（4頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-23-03_gian21_sihyou.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "f262f6ffed32f630f80b",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・政党機関紙の庁舎内勧誘行為の実態調査を求める陳情書（2頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-00-14_chinzyo01_seitoukikanshi.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "081b607d90934cc75170",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・教育方針（14頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/R8_kyouikuhoushin.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "cfd1c357c67fd291795f",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・旧姓の通称使用の法制化ではなく選択的夫婦別姓制度の導入を求める意見書について（3頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/07-12_ikensyo02_R8-2.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "e8371d04e4a30915a037",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・発議第2号 米国、イスラエル、イランは攻撃、報復を即時停止することを求める決議について（2頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/07-02_hatsugi02_R8-2.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "32337cbeff3e5c8e4b56",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・職員の勤務時間､休日及び休暇に関する条例の一部を改正する条例（5頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-19-00_gian19_kyoikunkunmuzikan_zyourei.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "695c5205bb5af62ae1c2",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・職員の育児休業等に関する条例の一部を改正する条例（3頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-18_gian18_ikuzikyugyou_zyourei.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "07251aa76d0fabd824fd",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・議事日程第1号（2月25日）（2頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-00-02_gizinittei_01_R8.2.25.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "7f69d1990220dac6a38e",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・議事日程第2号（2月26日）（1頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/02-00_gizinittei_02_R8.2.26.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "8c6703acb035cd9a4c93",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・議事日程第3号（2月27日）（1頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/03-00_gizinittei_03_R8.2.27.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "6bb0834127c08d75c087",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・議事日程第4号（3月2日）（1頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/04-00_gizinittei_04_R8.3.2.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "f69aad5eb39ade1af622",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・議事日程第5号（3月3日）（1頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/05-01_gizinittei_05_R8.3.3.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "41b9a1c3a1c5d1df944c",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・議事日程第6号（3月12日）（1頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/06-01_gizinittei_06_R8.3.12.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "2e33c329887810571aec",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・議事日程第7号（3月23日）（2頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/07-01_gizinittei_07_R8.3.23.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "8a12f0e432f0ff4c7e43",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・議会広報広聴常任委員会所管事務調査報告書（8頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-00-07_kouhou_syokanhoukoku_R8-2.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "a134ac989b7efbcf8c5d",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・議員派遣について（1頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/07-19_giinhaken_R8-2.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "df9202c81be491ea492c",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・議員派遣報告（1頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-00-15_giinhakenhoukoku_R8-2.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "312b3a3971cc726c48e3",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・閉会中の継続調査及び審査申出書 厚生文教常任委員会（1頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/07-16_heikaichushinsa_kousei_R8-2.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "8374824da420e2250b1b",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・閉会中の継続調査及び審査申出書 総務常任委員会（1頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/07-15_heikaichushinsa_soumu_R8-2.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "0a8f8a04edaf2d32aa48",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・閉会中の継続調査及び審査申出書 議会広報広聴常任委員会（1頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/07-17_heikaichushinsa_kouhou_R8-2.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "4fce50e71bb9de219aab",
+      "place": "三芳町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三芳町 3月定例会・閉会中の継続調査及び審査申出書 議会運営委員会（1頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/07-18_heikaichushinsa_giun_R8-2.pdf",
       "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
       "speakers": []
     },
@@ -3745,6 +4477,18 @@ GIKAI.questionText = {
       "speakers": []
     },
     {
+      "id": "b3941a91e7453ac151f7",
+      "place": "三芳町",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "三芳町 6月定例会・予算書（21頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-02-02_houkoku04_yosansyo_R8-3.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。 原本で空白だった4頁も頁番号を保持。",
+      "speakers": []
+    },
+    {
       "id": "b20c130821e0da14baa7",
       "place": "三芳町",
       "season": "summer",
@@ -3877,6 +4621,18 @@ GIKAI.questionText = {
       "speakers": []
     },
     {
+      "id": "b9de9f3a13b1f2238fd0",
+      "place": "三芳町",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "三芳町 6月定例会・専決処分の承認を求めることについて（三芳町税条例の一部を改正する条例）（42頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-05-01_syonin02_R8-3.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
       "id": "a063f200f9d8cac90a67",
       "place": "三芳町",
       "season": "summer",
@@ -3886,6 +4642,18 @@ GIKAI.questionText = {
       "scope": "supporting",
       "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-06_syonin03_R8-3.pdf",
       "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "432da1bec6e49e009062",
+      "place": "三芳町",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "三芳町 6月定例会・決算書（21頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-01-02_houkoku03_kessansyo_R8-3.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。 原本で空白だった2頁も頁番号を保持。 原画像で本文が確認できない頁は、頁番号と原画像で確認した状態を表示。",
       "speakers": []
     },
     {
@@ -4539,6 +5307,18 @@ GIKAI.questionText = {
       "speakers": []
     },
     {
+      "id": "3c52cc1ba5929cee054c",
+      "place": "三芳町",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "三芳町 9月定例会・令和7年度主要な施策の成果の説明書（93頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-24_R7syuyounashisakunoseika_R8-4.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。 原本で空白だった2頁も頁番号を保持。",
+      "speakers": []
+    },
+    {
       "id": "472108da2c2860f420ba",
       "place": "三芳町",
       "season": "fall",
@@ -4752,6 +5532,18 @@ GIKAI.questionText = {
       "scope": "supporting",
       "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-08-01_gian39_syokuinkinmuzikanzyourei_R8-4.pdf",
       "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "speakers": []
+    },
+    {
+      "id": "b7fd3126cbcd0908da76",
+      "place": "三芳町",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "三芳町 9月定例会・認定第1号～認定第4号 令和7年度歳入歳出決算書（129頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-22-02_nintei01-04_kessansyo_R8-4.pdf",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。 OCRの照合候補頁を表示。金額、表の配置や読み順は原PDFを確認してください。",
       "speakers": []
     },
     {
@@ -5818,6 +6610,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "90a99e6d4491d090396f",
+      "place": "三郷市",
+      "season": "fall",
+      "date": "2026-09-16",
+      "title": "柴田吾一議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/misato/WebView/rd/speech.html?council_id=16&schedule_id=6&playlist_id=6&speaker_id=34&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "柴田吾一"
+      ]
+    },
+    {
       "id": "553e5ff7b8876ff7d0c2",
       "place": "三郷市",
       "season": "fall",
@@ -5857,6 +6663,20 @@ GIKAI.questionText = {
       "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
       "speakers": [
         "鳴海和美"
+      ]
+    },
+    {
+      "id": "1160c46dc92375b354fa",
+      "place": "三郷市",
+      "season": "fall",
+      "date": "2026-09-17",
+      "title": "寺沢美紗議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/misato/WebView/rd/speech.html?council_id=16&schedule_id=7&playlist_id=1&speaker_id=3&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "寺沢美紗"
       ]
     },
     {
@@ -36263,6 +37083,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "7977fb453941d2afdd21",
+      "place": "日高市",
+      "season": "fall",
+      "date": "2026-09-10",
+      "title": "金子博議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/hidaka/WebView/rd/speech.html?council_id=54&schedule_id=5&playlist_id=4&speaker_id=22&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "金子博"
+      ]
+    },
+    {
       "id": "be32e2e0190eb1966ead",
       "place": "春日部市",
       "season": "spring",
@@ -48539,6 +49373,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "0f554740133965b42380",
+      "place": "鳩山町",
+      "season": "fall",
+      "date": "2026-09-03",
+      "title": "清水秀幸議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/hatoyama/WebView/rd/speech.html?council_id=63&schedule_id=3&playlist_id=5&speaker_id=17&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。 自動検査の確認候補時間帯を含みます。",
+      "speakers": [
+        "清水秀幸"
+      ]
+    },
+    {
       "id": "1b2d69097f4e8db81923",
       "place": "鳩山町",
       "season": "fall",
@@ -50868,7 +51716,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "第207号で議員15人・15主題の質問と答弁、議案・決算の14問答、補足13件を原紙面と照合。公式通告19頁、公式録画で9/14の２人、15・16日の各６人、17日の１人を照合。速報版は市が11月下旬予定と案内しており、正式会議録は確認中。 公式録画の機械文字起こし一般質問13本を収録。",
+        "note": "第207号で議員15人・15主題の質問と答弁、議案・決算の14問答、補足13件を原紙面と照合。公式通告19頁、公式録画で9/14の２人、15・16日の各６人、17日の１人を照合。速報版は市が11月下旬予定と案内しており、正式会議録は確認中。 公式録画の機械文字起こし一般質問15本を収録。",
         "indexURL": "https://smart.discussvision.net/smart/tenant/misato/WebView/rd/council.html?year=2026&council_id=16"
       }
     },
@@ -51004,7 +51852,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/hidaka/WebView/rd/council.html?year=2026&council_id=54",
-        "note": "公式録画一覧で一般質問12人を確認。正式会議録は確認中。 公式録画の機械文字起こし一般質問11本を収録。"
+        "note": "公式録画一覧で一般質問12人を確認。正式会議録は確認中。 公式録画の機械文字起こし一般質問12本を収録。"
       }
     },
     {
@@ -51354,7 +52202,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/hatoyama/WebView/rd/council.html?year=2026&council_id=63",
-        "note": "第174号の一般質問９人34問答、決算審議10問答、所管事務調査３問答、討論と視察等。公式通告９人10頁、公式音声は９月２日４人、３日５人。正式会議録は確認中。 公式録画の機械文字起こし一般質問8本を収録。"
+        "note": "第174号の一般質問９人34問答、決算審議10問答、所管事務調査３問答、討論と視察等。公式通告９人10頁、公式音声は９月２日４人、３日５人。正式会議録は確認中。 公式録画の機械文字起こし一般質問9本を収録。"
       }
     },
     {

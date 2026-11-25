@@ -5827,7 +5827,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "partial",
-          "note": "第207号で議員15人・15主題の質問と答弁、議案・決算の14問答、補足13件を原紙面と照合。公式通告19頁、公式録画で9/14の２人、15・16日の各６人、17日の１人を照合。速報版は市が11月下旬予定と案内しており、正式会議録は確認中。 公式録画の機械文字起こし一般質問13本を収録。"
+          "note": "第207号で議員15人・15主題の質問と答弁、議案・決算の14問答、補足13件を原紙面と照合。公式通告19頁、公式録画で9/14の２人、15・16日の各６人、17日の１人を照合。速報版は市が11月下旬予定と案内しており、正式会議録は確認中。 公式録画の機械文字起こし一般質問15本を収録。"
         },
         "decisions": {
           "state": "verified",
@@ -6695,7 +6695,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "partial",
-          "note": "公式録画一覧で一般質問12人を確認。正式会議録は確認中。 公式録画の機械文字起こし一般質問11本を収録。"
+          "note": "公式録画一覧で一般質問12人を確認。正式会議録は確認中。 公式録画の機械文字起こし一般質問12本を収録。"
         },
         "decisions": {
           "state": "verified",
@@ -8843,7 +8843,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "partial",
-          "note": "第174号の一般質問９人34問答、決算審議10問答、所管事務調査３問答、討論と視察等。公式通告９人10頁、公式音声は９月２日４人、３日５人。正式会議録は確認中。 公式録画の機械文字起こし一般質問8本を収録。"
+          "note": "第174号の一般質問９人34問答、決算審議10問答、所管事務調査３問答、討論と視察等。公式通告９人10頁、公式音声は９月２日４人、３日５人。正式会議録は確認中。 公式録画の機械文字起こし一般質問9本を収録。"
         },
         "decisions": {
           "state": "verified",
@@ -88904,10 +88904,10 @@ GIKAI.coverage2026 = {
       "title": "令和8年度三芳町一般会計予算",
       "result": "原案可決",
       "session": "令和8年第2回三芳町議会定例会",
-      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-23-00_gian21_R8yosan.pdf#page=1",
       "resultURL": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=675&schedule_id=8",
       "resultLocator": "議会だより第200号 PDF11頁",
-      "sourceTitle": "三芳町議会だよりの審議結果",
+      "sourceTitle": "三芳町・提出資料の原文",
       "date": "2026-03-23",
       "voteType": "記名",
       "votes": {
@@ -88928,7 +88928,8 @@ GIKAI.coverage2026 = {
         "菊地浩二": "賛成"
       },
       "voteURL": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
-      "voteNote": "紙面の表決は賛成8、反対6。"
+      "voteNote": "紙面の表決は賛成8、反対6。",
+      "sourceType": "公式提出議案等の該当頁"
     },
     {
       "place": "三芳町",
@@ -88937,10 +88938,10 @@ GIKAI.coverage2026 = {
       "title": "令和8年度三芳町国民健康保険特別会計予算",
       "result": "原案可決",
       "session": "令和8年第2回三芳町議会定例会",
-      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-24-00_gian22_R8kokuhoyosan.pdf#page=1",
       "resultURL": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=675&schedule_id=8",
       "resultLocator": "議会だより第200号 PDF11頁",
-      "sourceTitle": "三芳町議会だよりの審議結果",
+      "sourceTitle": "三芳町・提出資料の原文",
       "date": "2026-03-23",
       "voteType": "記名",
       "votes": {
@@ -88961,7 +88962,8 @@ GIKAI.coverage2026 = {
         "菊地浩二": "賛成"
       },
       "voteURL": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
-      "voteNote": "紙面の表決は賛成9、反対5。"
+      "voteNote": "紙面の表決は賛成9、反対5。",
+      "sourceType": "公式提出議案等の該当頁"
     },
     {
       "place": "三芳町",
@@ -88970,10 +88972,10 @@ GIKAI.coverage2026 = {
       "title": "令和8年度三芳町介護保険特別会計予算",
       "result": "原案可決",
       "session": "令和8年第2回三芳町議会定例会",
-      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-25-00_gian23_R8kaigoyosan.pdf#page=1",
       "resultURL": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=675&schedule_id=8",
       "resultLocator": "議会だより第200号 PDF11頁",
-      "sourceTitle": "三芳町議会だよりの審議結果",
+      "sourceTitle": "三芳町・提出資料の原文",
       "date": "2026-03-23",
       "voteType": "記名",
       "votes": {
@@ -88994,7 +88996,8 @@ GIKAI.coverage2026 = {
         "菊地浩二": "賛成"
       },
       "voteURL": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
-      "voteNote": "紙面の表決は賛成14、反対0。"
+      "voteNote": "紙面の表決は賛成14、反対0。",
+      "sourceType": "公式提出議案等の該当頁"
     },
     {
       "place": "三芳町",
@@ -89003,10 +89006,10 @@ GIKAI.coverage2026 = {
       "title": "令和8年度三芳町後期高齢者医療特別会計予算",
       "result": "原案可決",
       "session": "令和8年第2回三芳町議会定例会",
-      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-26-00_gian24_R8koukikoureiyosan.pdf#page=1",
       "resultURL": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=675&schedule_id=8",
       "resultLocator": "議会だより第200号 PDF11頁",
-      "sourceTitle": "三芳町議会だよりの審議結果",
+      "sourceTitle": "三芳町・提出資料の原文",
       "date": "2026-03-23",
       "voteType": "記名",
       "votes": {
@@ -89027,7 +89030,8 @@ GIKAI.coverage2026 = {
         "菊地浩二": "賛成"
       },
       "voteURL": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
-      "voteNote": "紙面の表決は賛成9、反対5。"
+      "voteNote": "紙面の表決は賛成9、反対5。",
+      "sourceType": "公式提出議案等の該当頁"
     },
     {
       "place": "三芳町",
@@ -89102,10 +89106,10 @@ GIKAI.coverage2026 = {
       "title": "令和7年度三芳町一般会計補正予算(第10号)",
       "result": "原案可決",
       "session": "令和8年第2回三芳町議会定例会",
-      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-02-00_gian2_R7hoseiyosan.pdf#page=1",
       "resultURL": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=675&schedule_id=2",
       "resultLocator": "議会だより第200号 PDF11頁",
-      "sourceTitle": "三芳町議会だよりの審議結果",
+      "sourceTitle": "三芳町・提出資料の原文",
       "date": "2026-02-25",
       "voteType": "記名",
       "votes": {
@@ -89126,7 +89130,8 @@ GIKAI.coverage2026 = {
         "菊地浩二": "賛成"
       },
       "voteURL": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
-      "voteNote": "紙面の表決は賛成14、反対0。"
+      "voteNote": "紙面の表決は賛成14、反対0。",
+      "sourceType": "公式提出議案等の該当頁"
     },
     {
       "place": "三芳町",
@@ -89135,10 +89140,10 @@ GIKAI.coverage2026 = {
       "title": "令和7年度三芳町国民健康保険特別会計補正予算(第2号)",
       "result": "原案可決",
       "session": "令和8年第2回三芳町議会定例会",
-      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-03-00_gian03_kokuho_R8hosei02.pdf#page=1",
       "resultURL": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=675&schedule_id=2",
       "resultLocator": "議会だより第200号 PDF11頁",
-      "sourceTitle": "三芳町議会だよりの審議結果",
+      "sourceTitle": "三芳町・提出資料の原文",
       "date": "2026-02-25",
       "voteType": "記名",
       "votes": {
@@ -89159,7 +89164,8 @@ GIKAI.coverage2026 = {
         "菊地浩二": "賛成"
       },
       "voteURL": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
-      "voteNote": "紙面の表決は賛成11、反対3。"
+      "voteNote": "紙面の表決は賛成11、反対3。",
+      "sourceType": "公式提出議案等の該当頁"
     },
     {
       "place": "三芳町",
@@ -89168,10 +89174,10 @@ GIKAI.coverage2026 = {
       "title": "令和7年度三芳町介護保険特別会計補正予算(第2号)",
       "result": "原案可決",
       "session": "令和8年第2回三芳町議会定例会",
-      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-04-00_gian04_kaigo_R8hosei02.pdf#page=1",
       "resultURL": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=675&schedule_id=2",
       "resultLocator": "議会だより第200号 PDF11頁",
-      "sourceTitle": "三芳町議会だよりの審議結果",
+      "sourceTitle": "三芳町・提出資料の原文",
       "date": "2026-02-25",
       "voteType": "記名",
       "votes": {
@@ -89192,7 +89198,8 @@ GIKAI.coverage2026 = {
         "菊地浩二": "賛成"
       },
       "voteURL": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
-      "voteNote": "紙面の表決は賛成14、反対0。"
+      "voteNote": "紙面の表決は賛成14、反対0。",
+      "sourceType": "公式提出議案等の該当頁"
     },
     {
       "place": "三芳町",
@@ -89201,10 +89208,10 @@ GIKAI.coverage2026 = {
       "title": "令和7年度三芳町後期高齢者医療特別会計補正予算(第1号)",
       "result": "原案可決",
       "session": "令和8年第2回三芳町議会定例会",
-      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-05-00_gian05_koukikourei_R8hosei01.pdf#page=1",
       "resultURL": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=675&schedule_id=2",
       "resultLocator": "議会だより第200号 PDF11頁",
-      "sourceTitle": "三芳町議会だよりの審議結果",
+      "sourceTitle": "三芳町・提出資料の原文",
       "date": "2026-02-25",
       "voteType": "記名",
       "votes": {
@@ -89231,7 +89238,8 @@ GIKAI.coverage2026 = {
         "増田磨美",
         "本名洋"
       ],
-      "voteConflictURL": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=675&schedule_id=2"
+      "voteConflictURL": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=675&schedule_id=2",
+      "sourceType": "公式提出議案等の該当頁"
     },
     {
       "place": "三芳町",
@@ -89240,10 +89248,10 @@ GIKAI.coverage2026 = {
       "title": "令和7年度三芳町下水道事業会計補正予算(第4号)",
       "result": "原案可決",
       "session": "令和8年第2回三芳町議会定例会",
-      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-06-00-02_gian06_gesuido_R8hosei04.pdf#page=1",
       "resultURL": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=675&schedule_id=2",
       "resultLocator": "議会だより第200号 PDF11頁",
-      "sourceTitle": "三芳町議会だよりの審議結果",
+      "sourceTitle": "三芳町・提出資料の原文",
       "date": "2026-02-25",
       "voteType": "記名",
       "votes": {
@@ -89264,7 +89272,8 @@ GIKAI.coverage2026 = {
         "菊地浩二": "賛成"
       },
       "voteURL": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
-      "voteNote": "紙面の表決は賛成14、反対0。"
+      "voteNote": "紙面の表決は賛成14、反対0。",
+      "sourceType": "公式提出議案等の該当頁"
     },
     {
       "place": "三芳町",
@@ -89273,10 +89282,10 @@ GIKAI.coverage2026 = {
       "title": "令和7年度三芳町水道事業会計補正予算(第3号)",
       "result": "原案可決",
       "session": "令和8年第2回三芳町議会定例会",
-      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-07-00-02_gian07_suido_R8hosei03.pdf#page=1",
       "resultURL": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=675&schedule_id=2",
       "resultLocator": "議会だより第200号 PDF11頁",
-      "sourceTitle": "三芳町議会だよりの審議結果",
+      "sourceTitle": "三芳町・提出資料の原文",
       "date": "2026-02-25",
       "voteType": "記名",
       "votes": {
@@ -89297,7 +89306,8 @@ GIKAI.coverage2026 = {
         "菊地浩二": "賛成"
       },
       "voteURL": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
-      "voteNote": "紙面の表決は賛成14、反対0。"
+      "voteNote": "紙面の表決は賛成14、反対0。",
+      "sourceType": "公式提出議案等の該当頁"
     },
     {
       "place": "三芳町",
@@ -89306,10 +89316,10 @@ GIKAI.coverage2026 = {
       "title": "三芳町未来創造拠点施設の設置及び管理に関する条例",
       "result": "原案可決",
       "session": "令和8年第2回三芳町議会定例会",
-      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-08-00_gian08_miraisouzou_zyourei.pdf#page=1",
       "resultURL": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=675&schedule_id=8",
       "resultLocator": "議会だより第200号 PDF11頁",
-      "sourceTitle": "三芳町議会だよりの審議結果",
+      "sourceTitle": "三芳町・提出資料の原文",
       "date": "2026-03-23",
       "voteType": "記名",
       "votes": {
@@ -89330,7 +89340,8 @@ GIKAI.coverage2026 = {
         "菊地浩二": "賛成"
       },
       "voteURL": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
-      "voteNote": "紙面の表決は賛成9、反対5。"
+      "voteNote": "紙面の表決は賛成9、反対5。",
+      "sourceType": "公式提出議案等の該当頁"
     },
     {
       "place": "三芳町",
@@ -89339,10 +89350,10 @@ GIKAI.coverage2026 = {
       "title": "三芳町職員の自己啓発等休業に関する条例",
       "result": "原案可決",
       "session": "令和8年第2回三芳町議会定例会",
-      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-09-00_gian09_syokuinkeihatu_zyourei.pdf#page=1",
       "resultURL": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=675&schedule_id=8",
       "resultLocator": "議会だより第200号 PDF11頁",
-      "sourceTitle": "三芳町議会だよりの審議結果",
+      "sourceTitle": "三芳町・提出資料の原文",
       "date": "2026-03-23",
       "voteType": "記名",
       "votes": {
@@ -89363,7 +89374,8 @@ GIKAI.coverage2026 = {
         "菊地浩二": "賛成"
       },
       "voteURL": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
-      "voteNote": "紙面の表決は賛成14、反対0。"
+      "voteNote": "紙面の表決は賛成14、反対0。",
+      "sourceType": "公式提出議案等の該当頁"
     },
     {
       "place": "三芳町",
@@ -89372,10 +89384,10 @@ GIKAI.coverage2026 = {
       "title": "三芳町職員の配偶者同行休業に関する条例",
       "result": "原案可決",
       "session": "令和8年第2回三芳町議会定例会",
-      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-10-00-02_gian10_syokuinhaiguusya_zyourei.pdf#page=1",
       "resultURL": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=675&schedule_id=8",
       "resultLocator": "議会だより第200号 PDF11頁",
-      "sourceTitle": "三芳町議会だよりの審議結果",
+      "sourceTitle": "三芳町・提出資料の原文",
       "date": "2026-03-23",
       "voteType": "記名",
       "votes": {
@@ -89396,7 +89408,8 @@ GIKAI.coverage2026 = {
         "菊地浩二": "賛成"
       },
       "voteURL": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
-      "voteNote": "紙面の表決は賛成14、反対0。"
+      "voteNote": "紙面の表決は賛成14、反対0。",
+      "sourceType": "公式提出議案等の該当頁"
     },
     {
       "place": "三芳町",
@@ -89405,10 +89418,10 @@ GIKAI.coverage2026 = {
       "title": "三芳町水道事業及び下水道事業の設置等に関する条例の一部を改正する条例",
       "result": "原案可決",
       "session": "令和8年第2回三芳町議会定例会",
-      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-11-00_gian11_suidou_gesuidousecchi_zyourei.pdf#page=1",
       "resultURL": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=675&schedule_id=8",
       "resultLocator": "議会だより第200号 PDF11頁",
-      "sourceTitle": "三芳町議会だよりの審議結果",
+      "sourceTitle": "三芳町・提出資料の原文",
       "date": "2026-03-23",
       "voteType": "記名",
       "votes": {
@@ -89429,7 +89442,8 @@ GIKAI.coverage2026 = {
         "菊地浩二": "賛成"
       },
       "voteURL": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
-      "voteNote": "紙面の表決は賛成14、反対0。"
+      "voteNote": "紙面の表決は賛成14、反対0。",
+      "sourceType": "公式提出議案等の該当頁"
     },
     {
       "place": "三芳町",
@@ -89438,10 +89452,10 @@ GIKAI.coverage2026 = {
       "title": "三芳町水道事業給水条例の一部を改正する条例",
       "result": "原案可決",
       "session": "令和8年第2回三芳町議会定例会",
-      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-12-00_gian12_kyuusui_zyourei.pdf#page=1",
       "resultURL": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=675&schedule_id=8",
       "resultLocator": "議会だより第200号 PDF11頁",
-      "sourceTitle": "三芳町議会だよりの審議結果",
+      "sourceTitle": "三芳町・提出資料の原文",
       "date": "2026-03-23",
       "voteType": "記名",
       "votes": {
@@ -89462,7 +89476,8 @@ GIKAI.coverage2026 = {
         "菊地浩二": "賛成"
       },
       "voteURL": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
-      "voteNote": "紙面の表決は賛成10、反対4。"
+      "voteNote": "紙面の表決は賛成10、反対4。",
+      "sourceType": "公式提出議案等の該当頁"
     },
     {
       "place": "三芳町",
@@ -89471,10 +89486,10 @@ GIKAI.coverage2026 = {
       "title": "三芳町下水道条例の一部を改正する条例",
       "result": "原案可決",
       "session": "令和8年第2回三芳町議会定例会",
-      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-13-00_gian13_gesuido_zyourei.pdf#page=1",
       "resultURL": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=675&schedule_id=8",
       "resultLocator": "議会だより第200号 PDF11頁",
-      "sourceTitle": "三芳町議会だよりの審議結果",
+      "sourceTitle": "三芳町・提出資料の原文",
       "date": "2026-03-23",
       "voteType": "記名",
       "votes": {
@@ -89495,7 +89510,8 @@ GIKAI.coverage2026 = {
         "菊地浩二": "賛成"
       },
       "voteURL": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
-      "voteNote": "紙面の表決は賛成10、反対4。"
+      "voteNote": "紙面の表決は賛成10、反対4。",
+      "sourceType": "公式提出議案等の該当頁"
     },
     {
       "place": "三芳町",
@@ -89504,10 +89520,10 @@ GIKAI.coverage2026 = {
       "title": "三芳町介護保険条例の一部を改正する条例",
       "result": "原案可決",
       "session": "令和8年第2回三芳町議会定例会",
-      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-14-00_gian14_kaigohoken_zyourei.pdf#page=1",
       "resultURL": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=675&schedule_id=8",
       "resultLocator": "議会だより第200号 PDF11頁",
-      "sourceTitle": "三芳町議会だよりの審議結果",
+      "sourceTitle": "三芳町・提出資料の原文",
       "date": "2026-03-23",
       "voteType": "記名",
       "votes": {
@@ -89528,7 +89544,8 @@ GIKAI.coverage2026 = {
         "菊地浩二": "賛成"
       },
       "voteURL": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
-      "voteNote": "紙面の表決は賛成14、反対0。"
+      "voteNote": "紙面の表決は賛成14、反対0。",
+      "sourceType": "公式提出議案等の該当頁"
     },
     {
       "place": "三芳町",
@@ -89537,10 +89554,10 @@ GIKAI.coverage2026 = {
       "title": "三芳町乳児等通園支援事業の設備及び運営に関する基準を定める条例の一部を改正する条例",
       "result": "原案可決",
       "session": "令和8年第2回三芳町議会定例会",
-      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-15-00_gian15_nyuuzituuen_zyourei.pdf#page=1",
       "resultURL": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=675&schedule_id=8",
       "resultLocator": "議会だより第200号 PDF11頁",
-      "sourceTitle": "三芳町議会だよりの審議結果",
+      "sourceTitle": "三芳町・提出資料の原文",
       "date": "2026-03-23",
       "voteType": "記名",
       "votes": {
@@ -89561,7 +89578,8 @@ GIKAI.coverage2026 = {
         "菊地浩二": "賛成"
       },
       "voteURL": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
-      "voteNote": "紙面の表決は賛成14、反対0。"
+      "voteNote": "紙面の表決は賛成14、反対0。",
+      "sourceType": "公式提出議案等の該当頁"
     },
     {
       "place": "三芳町",
@@ -89570,10 +89588,10 @@ GIKAI.coverage2026 = {
       "title": "三芳町公民館の設置及び管理に関する条例の一部を改正する条例",
       "result": "原案可決",
       "session": "令和8年第2回三芳町議会定例会",
-      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-16-00_gian16_kouminkan_zyourei.pdf#page=1",
       "resultURL": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=675&schedule_id=8",
       "resultLocator": "議会だより第200号 PDF11頁",
-      "sourceTitle": "三芳町議会だよりの審議結果",
+      "sourceTitle": "三芳町・提出資料の原文",
       "date": "2026-03-23",
       "voteType": "記名",
       "votes": {
@@ -89594,7 +89612,8 @@ GIKAI.coverage2026 = {
         "菊地浩二": "賛成"
       },
       "voteURL": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
-      "voteNote": "紙面の表決は賛成14、反対0。"
+      "voteNote": "紙面の表決は賛成14、反対0。",
+      "sourceType": "公式提出議案等の該当頁"
     },
     {
       "place": "三芳町",
@@ -89603,10 +89622,10 @@ GIKAI.coverage2026 = {
       "title": "三芳町職員の給与に関する条例の一部を改正する条例",
       "result": "原案可決",
       "session": "令和8年第2回三芳町議会定例会",
-      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-17_gian17_syokuinkyuyo_zyourei.pdf#page=1",
       "resultURL": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=675&schedule_id=8",
       "resultLocator": "議会だより第200号 PDF11頁",
-      "sourceTitle": "三芳町議会だよりの審議結果",
+      "sourceTitle": "三芳町・提出資料の原文",
       "date": "2026-03-23",
       "voteType": "記名",
       "votes": {
@@ -89627,7 +89646,8 @@ GIKAI.coverage2026 = {
         "菊地浩二": "賛成"
       },
       "voteURL": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
-      "voteNote": "紙面の表決は賛成14、反対0。"
+      "voteNote": "紙面の表決は賛成14、反対0。",
+      "sourceType": "公式提出議案等の該当頁"
     },
     {
       "place": "三芳町",
@@ -89636,10 +89656,10 @@ GIKAI.coverage2026 = {
       "title": "職員の育児休業等に関する条例の一部を改正する条例",
       "result": "原案可決",
       "session": "令和8年第2回三芳町議会定例会",
-      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-18_gian18_ikuzikyugyou_zyourei.pdf#page=1",
       "resultURL": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=675&schedule_id=8",
       "resultLocator": "議会だより第200号 PDF11頁",
-      "sourceTitle": "三芳町議会だよりの審議結果",
+      "sourceTitle": "三芳町・提出資料の原文",
       "date": "2026-03-23",
       "voteType": "記名",
       "votes": {
@@ -89660,7 +89680,8 @@ GIKAI.coverage2026 = {
         "菊地浩二": "賛成"
       },
       "voteURL": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
-      "voteNote": "紙面の表決は賛成14、反対0。"
+      "voteNote": "紙面の表決は賛成14、反対0。",
+      "sourceType": "公式提出議案等の該当頁"
     },
     {
       "place": "三芳町",
@@ -89669,10 +89690,10 @@ GIKAI.coverage2026 = {
       "title": "職員の勤務時間、休日及び休暇に関する条例の一部を改正する条例",
       "result": "原案可決",
       "session": "令和8年第2回三芳町議会定例会",
-      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-19-00_gian19_kyoikunkunmuzikan_zyourei.pdf#page=1",
       "resultURL": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=675&schedule_id=8",
       "resultLocator": "議会だより第200号 PDF11頁",
-      "sourceTitle": "三芳町議会だよりの審議結果",
+      "sourceTitle": "三芳町・提出資料の原文",
       "date": "2026-03-23",
       "voteType": "記名",
       "votes": {
@@ -89693,7 +89714,8 @@ GIKAI.coverage2026 = {
         "菊地浩二": "賛成"
       },
       "voteURL": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
-      "voteNote": "紙面の表決は賛成14、反対0。紙面の結果欄は「原案同意」。正式会議録の議長宣告に従い「原案可決」を表示。"
+      "voteNote": "紙面の表決は賛成14、反対0。紙面の結果欄は「原案同意」。正式会議録の議長宣告に従い「原案可決」を表示。",
+      "sourceType": "公式提出議案等の該当頁"
     },
     {
       "place": "三芳町",
@@ -89702,10 +89724,10 @@ GIKAI.coverage2026 = {
       "title": "三芳町道路線の認定について",
       "result": "原案可決",
       "session": "令和8年第2回三芳町議会定例会",
-      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-20_gian20_douronintei.pdf#page=1",
       "resultURL": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=675&schedule_id=8",
       "resultLocator": "議会だより第200号 PDF11頁",
-      "sourceTitle": "三芳町議会だよりの審議結果",
+      "sourceTitle": "三芳町・提出資料の原文",
       "date": "2026-03-23",
       "voteType": "記名",
       "votes": {
@@ -89726,7 +89748,8 @@ GIKAI.coverage2026 = {
         "菊地浩二": "賛成"
       },
       "voteURL": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
-      "voteNote": "紙面の表決は賛成14、反対0。紙面の結果欄は「原案同意」。正式会議録の議長宣告に従い「原案可決」を表示。"
+      "voteNote": "紙面の表決は賛成14、反対0。紙面の結果欄は「原案同意」。正式会議録の議長宣告に従い「原案可決」を表示。",
+      "sourceType": "公式提出議案等の該当頁"
     },
     {
       "place": "三芳町",
@@ -89735,10 +89758,10 @@ GIKAI.coverage2026 = {
       "title": "三芳町国民健康保険税条例の一部を改正する条例",
       "result": "原案可決",
       "session": "令和8年第2回三芳町議会定例会",
-      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/06-02-01_gian27_kokuhozyourei.pdf#page=1",
       "resultURL": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=675&schedule_id=8",
       "resultLocator": "議会だより第200号 PDF11頁",
-      "sourceTitle": "三芳町議会だよりの審議結果",
+      "sourceTitle": "三芳町・提出資料の原文",
       "date": "2026-03-23",
       "voteType": "記名",
       "votes": {
@@ -89759,7 +89782,8 @@ GIKAI.coverage2026 = {
         "菊地浩二": "賛成"
       },
       "voteURL": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
-      "voteNote": "紙面の表決は賛成8、反対6。"
+      "voteNote": "紙面の表決は賛成8、反対6。",
+      "sourceType": "公式提出議案等の該当頁"
     },
     {
       "place": "三芳町",
@@ -89768,10 +89792,10 @@ GIKAI.coverage2026 = {
       "title": "三芳町立学校設置条例の一部を改正する条例",
       "result": "可決（議長裁決）",
       "session": "令和8年第2回三芳町議会定例会",
-      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/06-03-01_gian28_gakkouzourei.pdf#page=1",
       "resultURL": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=675&schedule_id=8",
       "resultLocator": "議会だより第200号 PDF11頁",
-      "sourceTitle": "三芳町議会だよりの審議結果",
+      "sourceTitle": "三芳町・提出資料の原文",
       "date": "2026-03-23",
       "voteType": "記名",
       "votes": {
@@ -89792,7 +89816,8 @@ GIKAI.coverage2026 = {
         "菊地浩二": "反対"
       },
       "voteURL": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
-      "voteNote": "紙面の表決は賛成7、反対7。"
+      "voteNote": "紙面の表決は賛成7、反対7。",
+      "sourceType": "公式提出議案等の該当頁"
     },
     {
       "place": "三芳町",
@@ -89801,11 +89826,12 @@ GIKAI.coverage2026 = {
       "title": "専決処分事項の報告について(令和7年度三芳町一般会計補正予算(第9号))",
       "result": "報告のみ",
       "session": "令和8年第2回三芳町議会定例会",
-      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-01-00_houkoku02.pdf#page=1",
       "resultURL": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=675&schedule_id=2",
       "resultLocator": "議会だより第200号 PDF11頁",
-      "sourceTitle": "三芳町議会だよりの審議結果",
-      "date": "2026-02-25"
+      "sourceTitle": "三芳町・提出資料の原文",
+      "date": "2026-02-25",
+      "sourceType": "公式提出議案等の該当頁"
     },
     {
       "place": "三芳町",
@@ -89814,10 +89840,10 @@ GIKAI.coverage2026 = {
       "title": "三芳町公平委員会委員の選任同意について",
       "result": "原案同意",
       "session": "令和8年第2回三芳町議会定例会",
-      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-21_doui01_kouheiiin.pdf#page=1",
       "resultURL": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=675&schedule_id=8",
       "resultLocator": "議会だより第200号 PDF11頁",
-      "sourceTitle": "三芳町議会だよりの審議結果",
+      "sourceTitle": "三芳町・提出資料の原文",
       "date": "2026-03-23",
       "voteType": "記名",
       "votes": {
@@ -89838,7 +89864,8 @@ GIKAI.coverage2026 = {
         "菊地浩二": "賛成"
       },
       "voteURL": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
-      "voteNote": "紙面の表決は賛成14、反対0。紙面の結果欄は「原案可決」。正式会議録の議長宣告に従い「原案同意」を表示。"
+      "voteNote": "紙面の表決は賛成14、反対0。紙面の結果欄は「原案可決」。正式会議録の議長宣告に従い「原案同意」を表示。",
+      "sourceType": "公式提出議案等の該当頁"
     },
     {
       "place": "三芳町",
@@ -89847,10 +89874,10 @@ GIKAI.coverage2026 = {
       "title": "三芳町農業委員会委員の任命同意について",
       "result": "原案同意",
       "session": "令和8年第2回三芳町議会定例会",
-      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-22_doui02_nougyouiinn.pdf#page=1",
       "resultURL": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=675&schedule_id=8",
       "resultLocator": "議会だより第200号 PDF11頁",
-      "sourceTitle": "三芳町議会だよりの審議結果",
+      "sourceTitle": "三芳町・提出資料の原文",
       "date": "2026-03-23",
       "voteType": "記名",
       "votes": {
@@ -89871,7 +89898,8 @@ GIKAI.coverage2026 = {
         "菊地浩二": "賛成"
       },
       "voteURL": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
-      "voteNote": "紙面の表決は賛成14、反対0。紙面の結果欄は「原案可決」。正式会議録の議長宣告に従い「原案同意」を表示。"
+      "voteNote": "紙面の表決は賛成14、反対0。紙面の結果欄は「原案可決」。正式会議録の議長宣告に従い「原案同意」を表示。",
+      "sourceType": "公式提出議案等の該当頁"
     },
     {
       "place": "三芳町",
@@ -89880,10 +89908,10 @@ GIKAI.coverage2026 = {
       "title": "三芳町教育委員会教育長の任命同意について",
       "result": "原案同意",
       "session": "令和8年第2回三芳町議会定例会",
-      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/06-04_doui03_kyouikutyou.pdf#page=1",
       "resultURL": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=675&schedule_id=8",
       "resultLocator": "議会だより第200号 PDF11頁",
-      "sourceTitle": "三芳町議会だよりの審議結果",
+      "sourceTitle": "三芳町・提出資料の原文",
       "date": "2026-03-23",
       "voteType": "記名",
       "votes": {
@@ -89904,7 +89932,8 @@ GIKAI.coverage2026 = {
         "菊地浩二": "賛成"
       },
       "voteURL": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
-      "voteNote": "紙面の表決は賛成14、反対0。紙面の結果欄は「原案可決」。正式会議録の議長宣告に従い「原案同意」を表示。"
+      "voteNote": "紙面の表決は賛成14、反対0。紙面の結果欄は「原案可決」。正式会議録の議長宣告に従い「原案同意」を表示。",
+      "sourceType": "公式提出議案等の該当頁"
     },
     {
       "place": "三芳町",
@@ -90012,10 +90041,10 @@ GIKAI.coverage2026 = {
       "title": "上水道事業に対する国の財政支援等の強化を求める意見書について",
       "result": "原案可決",
       "session": "令和8年第2回三芳町議会定例会",
-      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/07-11_ikensyo01_R8-2.pdf#page=1",
       "resultURL": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=675&schedule_id=8",
       "resultLocator": "議会だより第200号 PDF11頁",
-      "sourceTitle": "三芳町議会だよりの審議結果",
+      "sourceTitle": "三芳町・提出資料の原文",
       "date": "2026-03-23",
       "voteType": "記名",
       "votes": {
@@ -90036,7 +90065,8 @@ GIKAI.coverage2026 = {
         "菊地浩二": "賛成"
       },
       "voteURL": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
-      "voteNote": "紙面の表決は賛成10、反対4。"
+      "voteNote": "紙面の表決は賛成10、反対4。",
+      "sourceType": "公式提出議案等の該当頁"
     },
     {
       "place": "三芳町",
@@ -90045,10 +90075,10 @@ GIKAI.coverage2026 = {
       "title": "旧姓の通称使用の法制化ではなく選択的夫婦別姓制度の導入を求める意見書について",
       "result": "原案可決",
       "session": "令和8年第2回三芳町議会定例会",
-      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/07-12_ikensyo02_R8-2.pdf#page=1",
       "resultURL": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=675&schedule_id=8",
       "resultLocator": "議会だより第200号 PDF11頁",
-      "sourceTitle": "三芳町議会だよりの審議結果",
+      "sourceTitle": "三芳町・提出資料の原文",
       "date": "2026-03-23",
       "voteType": "記名",
       "votes": {
@@ -90069,7 +90099,8 @@ GIKAI.coverage2026 = {
         "菊地浩二": "賛成"
       },
       "voteURL": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
-      "voteNote": "紙面の表決は賛成9、反対5。"
+      "voteNote": "紙面の表決は賛成9、反対5。",
+      "sourceType": "公式提出議案等の該当頁"
     },
     {
       "place": "三芳町",
@@ -90078,10 +90109,10 @@ GIKAI.coverage2026 = {
       "title": "安心して医療を受けられる制度の確保を求める意見書について",
       "result": "可決（議長裁決）",
       "session": "令和8年第2回三芳町議会定例会",
-      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/07-13_ikensyo03_R8-2.pdf#page=1",
       "resultURL": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=675&schedule_id=8",
       "resultLocator": "議会だより第200号 PDF11頁",
-      "sourceTitle": "三芳町議会だよりの審議結果",
+      "sourceTitle": "三芳町・提出資料の原文",
       "date": "2026-03-23",
       "voteType": "記名",
       "votes": {
@@ -90102,7 +90133,8 @@ GIKAI.coverage2026 = {
         "菊地浩二": "賛成"
       },
       "voteURL": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
-      "voteNote": "紙面の表決は賛成7、反対7。"
+      "voteNote": "紙面の表決は賛成7、反対7。",
+      "sourceType": "公式提出議案等の該当頁"
     },
     {
       "place": "三芳町",
@@ -90111,10 +90143,10 @@ GIKAI.coverage2026 = {
       "title": "埼玉県立高等学校における男女別学校のあり方の検討に関し、当事者の意見を尊重した方針決定を求める意見書について",
       "result": "否決",
       "session": "令和8年第2回三芳町議会定例会",
-      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/07-14_ikensyo04_R8-2.pdf#page=1",
       "resultURL": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=675&schedule_id=8",
       "resultLocator": "議会だより第200号 PDF11頁",
-      "sourceTitle": "三芳町議会だよりの審議結果",
+      "sourceTitle": "三芳町・提出資料の原文",
       "date": "2026-03-23",
       "voteType": "記名",
       "votes": {
@@ -90135,7 +90167,8 @@ GIKAI.coverage2026 = {
         "菊地浩二": "反対"
       },
       "voteURL": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_200.pdf#page=11",
-      "voteNote": "紙面の表決は賛成5、反対9。"
+      "voteNote": "紙面の表決は賛成5、反対9。",
+      "sourceType": "公式提出議案等の該当頁"
     },
     {
       "place": "三芳町",
@@ -90144,10 +90177,10 @@ GIKAI.coverage2026 = {
       "title": "専決処分の承認を求めることについて(三芳町税条例の一部を改正する条例)",
       "result": "原案承認",
       "session": "令和8年第3回三芳町議会定例会",
-      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_201.pdf#page=8",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-05-01_syonin02_R8-3.pdf#page=1",
       "resultURL": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=682&schedule_id=2",
       "resultLocator": "議会だより第201号 PDF8頁",
-      "sourceTitle": "三芳町議会だよりの審議結果",
+      "sourceTitle": "三芳町・提出資料の原文",
       "date": "2026-06-01",
       "voteType": "記名",
       "votes": {
@@ -90168,7 +90201,8 @@ GIKAI.coverage2026 = {
         "菊地浩二": "賛成"
       },
       "voteURL": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_201.pdf#page=8",
-      "voteNote": "紙面の表決は賛成14、反対0。"
+      "voteNote": "紙面の表決は賛成14、反対0。",
+      "sourceType": "公式提出議案等の該当頁"
     },
     {
       "place": "三芳町",
