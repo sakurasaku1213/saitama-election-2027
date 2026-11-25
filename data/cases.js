@@ -13955,3 +13955,996 @@ GIKAI.cases.push(...[
     "note": "請願の紹介、討論と不採択を確認。"
   }
 ]);
+
+GIKAI.cases.push(...[
+  {
+    "place": "富士見市",
+    "title": "西出張所とサンライトホールの再開要望、委員長裁決から執行機関への送付まで",
+    "topic": "市民窓口・公共施設",
+    "actors": [
+      "村元寛",
+      "今成優太",
+      "伊勢田幸正",
+      "川畑勝弘",
+      "深瀬優子",
+      "篠原通裕",
+      "富士見市",
+      "富士見市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-10",
+        "stage": "耐震強度を理由に西出張所の閉鎖を告知",
+        "actor": "富士見市",
+        "detail": "市は2021年４月１日から一時閉鎖中と掲載し、コンビニ交付や市役所・ふじみ野出張所などの利用を案内。サンライトホールは同じ建物にある。",
+        "url": "https://www.city.fujimi.saitama.jp/madoguchi_shisetsu/01shisetsu/desaki/2010-0511-0952-142/2010-0511-1426-142.html",
+        "sourceTitle": "富士見市・西出張所の一時閉鎖"
+      },
+      {
+        "date": "2026-06-09",
+        "stage": "２陳情の取下げ願受理を総務常任委員会で報告",
+        "actor": "村元寛、総務常任委員会",
+        "detail": "陳情第９・10号の取下げ願が出されたことを委員長が報告し、この日の委員会では２件の審査を行わなかった。",
+        "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=697&schedule_id=5",
+        "sourceTitle": "富士見市議会・総務常任委員会 06月09日－04号 P.1・P.4",
+        "archiveId": "be4d43c33e6c3a605627",
+        "blocks": [
+          1,
+          7
+        ],
+        "memberActions": [
+          {
+            "name": "村元寛",
+            "detail": "取下げは本会議で採決する事項と委員会で説明した。",
+            "blocks": [
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-06-12",
+        "stage": "６月の２件は取下げの手続を承認",
+        "actor": "今成優太、富士見市議会",
+        "detail": "今成議会運営委員長が６月９日付の取下げ願の経過を報告。本会議は６月12日、陳情第９・10号の取下げをそれぞれ起立多数で承認した。",
+        "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=706&schedule_id=4",
+        "sourceTitle": "富士見市議会・06月12日－03号 P.110・P.111・P.112",
+        "archiveId": "b67abf4b6a7ce842ee5c",
+        "blocks": [
+          426,
+          432,
+          433,
+          435,
+          436
+        ],
+        "memberActions": [
+          {
+            "name": "今成優太",
+            "detail": "取下げ願と議会運営委員会での扱いを本会議で報告した。",
+            "blocks": [
+              426
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-09-08",
+        "stage": "再度出された２陳情を審査、各件を委員長裁決で採択",
+        "actor": "伊勢田幸正、川畑勝弘、深瀬優子、村元寛、富士見市",
+        "detail": "９月の陳情第11・12号を別々に審査。市は管理組合等との耐震改修に向けた協議が進んでいないと答えた。両件とも挙手同数のため、村元委員長の裁決で委員会は採択。",
+        "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=697&schedule_id=6",
+        "sourceTitle": "富士見市議会・総務常任委員会 09月08日－05号 P.3・P.5・P.6・P.7・P.8・P.11",
+        "archiveId": "482c396ef83bd401abba",
+        "blocks": [
+          10,
+          12,
+          28,
+          38,
+          47,
+          50,
+          52,
+          83
+        ],
+        "memberActions": [
+          {
+            "name": "伊勢田幸正",
+            "detail": "管理組合との耐震化協議の進捗を確認した。",
+            "blocks": [
+              10
+            ]
+          },
+          {
+            "name": "川畑勝弘",
+            "detail": "協議の経緯と、再開できない場合の代替施設の検討を質した。",
+            "blocks": [
+              28,
+              38
+            ]
+          },
+          {
+            "name": "深瀬優子",
+            "detail": "2022年の陳情採択から４年間に市が何をしたか尋ねた。",
+            "blocks": [
+              50
+            ]
+          },
+          {
+            "name": "村元寛",
+            "detail": "総務常任委員長として、可否同数となった陳情第11・12号をそれぞれ採択と裁決した。",
+            "blocks": [
+              47,
+              83
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-10-01",
+        "stage": "本会議でサンライトホールの陳情を採択、報告を請求",
+        "actor": "村元寛、川畑勝弘、富士見市議会",
+        "detail": "委員長が審査結果を報告。川畑議員が採択を求めて討論し、本会議は起立多数で採択。執行機関に送付し処理経過と結果を報告するよう求めることも決定した。",
+        "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=712&schedule_id=9",
+        "sourceTitle": "富士見市議会・10月01日－08号 P.436・P.437・P.438",
+        "archiveId": "4dcbca63d26a63f41418",
+        "blocks": [
+          144,
+          150,
+          153,
+          154
+        ],
+        "billNumber": "陳情第11号",
+        "memberActions": [
+          {
+            "name": "村元寛",
+            "detail": "委員長として２件の審査結果を本会議で報告した。",
+            "blocks": [
+              144
+            ]
+          },
+          {
+            "name": "川畑勝弘",
+            "detail": "安全確保に向けた協議と、再開までの代替施設を求めて賛成討論した。",
+            "blocks": [
+              150
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-10-01",
+        "stage": "本会議で西出張所の陳情を採択、報告を請求",
+        "actor": "伊勢田幸正、篠原通裕、川畑勝弘、富士見市議会",
+        "detail": "窓口の代替手段や対面相談の必要性を討論。本会議は起立多数で採択し、執行機関への送付と経過・結果の報告請求を決定。",
+        "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=712&schedule_id=9",
+        "sourceTitle": "富士見市議会・10月01日－08号 P.438・P.439・P.440",
+        "archiveId": "4dcbca63d26a63f41418",
+        "blocks": [
+          156,
+          159,
+          161,
+          164,
+          165
+        ],
+        "billNumber": "陳情第12号",
+        "memberActions": [
+          {
+            "name": "伊勢田幸正",
+            "detail": "代替手段が広がったことなどを挙げ、不採択の立場で討論した。",
+            "blocks": [
+              156
+            ]
+          },
+          {
+            "name": "篠原通裕",
+            "detail": "対面相談を必要とする住民にも配慮を求め、採択の立場で討論した。",
+            "blocks": [
+              159
+            ]
+          },
+          {
+            "name": "川畑勝弘",
+            "detail": "取次窓口の相談機能を挙げ、早期の再開を求めた。",
+            "blocks": [
+              161
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-11-25",
+        "stage": "市の出張所一覧では西出張所は一時閉鎖中と確認",
+        "actor": "富士見市",
+        "detail": "市の現行案内で一時閉鎖中の表示を確認した。",
+        "url": "https://www.city.fujimi.saitama.jp/madoguchi_shisetsu/01shisetsu/desaki/2010-0511-0952-142/index.html",
+        "sourceTitle": "富士見市・現行の出張所一覧"
+      }
+    ],
+    "note": "６月の２件は取下げの承認、９～10月の２件は内容の審査と採択。耐震工事・再開の日程と報告請求への回答は確認中。"
+  },
+  {
+    "place": "富士見市",
+    "title": "放課後児童クラブの管理者変更、処遇の審査と９月の支援員不足",
+    "topic": "子ども・指定管理",
+    "actors": [
+      "加賀奈々恵",
+      "須崎悦子",
+      "富士見市",
+      "富士見市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-02",
+        "stage": "支援員の継続雇用と処遇を委員会で審査",
+        "actor": "加賀奈々恵、須崎悦子、文教福祉常任委員会",
+        "detail": "加賀委員が陳情の前提となる継続雇用と処遇改善の説明を確認。須崎委員が支援員の雇用継続を求めて討論。",
+        "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=694&schedule_id=2",
+        "sourceTitle": "富士見市議会・文教福祉常任委員会 03月02日－01号 P.19・P.26・P.27",
+        "archiveId": "66d6ffffe4d976138fb2",
+        "blocks": [
+          163,
+          237,
+          246
+        ],
+        "memberActions": [
+          {
+            "name": "加賀奈々恵",
+            "detail": "指定管理者変更に伴う継続雇用と処遇の説明について質疑した。",
+            "blocks": [
+              163
+            ]
+          },
+          {
+            "name": "須崎悦子",
+            "detail": "支援員継続雇用の陳情に賛成する立場で討論した。",
+            "blocks": [
+              246
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-03-18",
+        "stage": "処遇・サービス等に関する陳情第２～５号が不採択",
+        "actor": "富士見市議会",
+        "detail": "議員賛否一覧で４件の不採択を確認。処遇の継承、サービス水準、管理者候補者の資格、継続雇用の履行がそれぞれの審査対象。",
+        "url": "https://www.city.fujimi.saitama.jp/shigikai/shingi/sannpiichiran/sanpiichiran2026.files/sanpi202603.pdf",
+        "sourceTitle": "富士見市議会・春の審議結果３頁"
+      },
+      {
+        "date": "2026-06-29",
+        "stage": "新指定管理者への移行と暫定的な職員配置を市が公表",
+        "actor": "富士見市",
+        "detail": "４月からシダックス大新東ヒューマンサービス株式会社に管理者が交代。市は常勤支援員の不足を公表し、配置の暫定措置と不足の早期解消の要請を説明した。",
+        "url": "https://www.city.fujimi.saitama.jp/shisei/04gyouseizaisei/kanrisha/hoiku0220260217.html",
+        "sourceTitle": "富士見市・指定管理者変更に伴う利用者説明会と４月以降の体制"
+      },
+      {
+        "date": "2026-09-16",
+        "stage": "新体制の夏の保育と、基準に満たないクラブ数を再確認",
+        "actor": "須崎悦子、富士見市",
+        "detail": "須崎議員が仕様書と条例の各基準を質した。市の答弁では仕様書基準を満たさないクラブは10施設、不足した支援員は13人。条例基準を満たさないクラブはないと答えた。",
+        "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=712&schedule_id=4",
+        "sourceTitle": "富士見市議会・09月16日－03号 P.168・P.170",
+        "archiveId": "b4856989658dde352719",
+        "blocks": [
+          176,
+          178
+        ],
+        "memberActions": [
+          {
+            "name": "須崎悦子",
+            "detail": "夏季の運営、仕様書と条例の基準、不足クラブ・職員数を具体的に尋ねた。",
+            "blocks": [
+              176
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-10-26",
+        "stage": "市が採用・資格取得等による確保の計画を公表",
+        "actor": "富士見市",
+        "detail": "市は住民への回答で、指定管理者に継続した採用、補助員から常勤支援員への登用、県研修の活用を求めていると説明した。",
+        "url": "https://www.city.fujimi.saitama.jp/05mayor/12letter/2010-0525-0922-141/reiwa8/hisyo01202606.html",
+        "sourceTitle": "富士見市・令和８年度の市民意見への回答"
+      }
+    ],
+    "note": "新管理者での運営、暫定の配置と市の対策を確認。仕様書基準を全クラブで充足した時期は確認中。"
+  },
+  {
+    "place": "富士見市",
+    "title": "小学校の給食費無償化と中学校への拡大を求める議員提出意見書",
+    "topic": "教育・給食費",
+    "actors": [
+      "須崎悦子",
+      "根岸操",
+      "伊勢田幸正",
+      "富士見市",
+      "富士見市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-18",
+        "stage": "小学校等無償化を含む当初予算を議決",
+        "actor": "須崎悦子、伊勢田幸正、根岸操、富士見市議会",
+        "detail": "当初予算審議で小学校と特別支援学校小学部の負担軽減を議論。根岸議員は対象外の中学校への対応を要望。予算第24号は可決。",
+        "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=695&schedule_id=11",
+        "sourceTitle": "富士見市議会・03月18日－10号 P.567・P.573・P.575・P.577",
+        "archiveId": "500066f07dd9a0a690c9",
+        "blocks": [
+          177,
+          186,
+          190,
+          194
+        ],
+        "billNumber": "議案第24号",
+        "memberActions": [
+          {
+            "name": "根岸操",
+            "detail": "当初予算の討論で中学校など対象外への対応を求めた。",
+            "blocks": [
+              190
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-04-20",
+        "stage": "市が小学校等の保護者負担０円を案内",
+        "actor": "富士見市",
+        "detail": "2026年度、小学校と特別支援学校小学部を無償化。中学校は月額6,100円のうち値上げ相当の1,000円を支援し、保護者負担5,100円を維持。",
+        "url": "https://www.city.fujimi.saitama.jp/kosodate_kyoiku/kyouiku/kyushoku/R8_kyushokuhi.html",
+        "sourceTitle": "富士見市・令和８年度の学校給食費"
+      },
+      {
+        "date": "2026-09-16",
+        "stage": "中学校の負担軽減と市独自無償化の考えを質す",
+        "actor": "須崎悦子、富士見市",
+        "detail": "教育部長は市独自の中学校無償化の考えはなく、国の施策として全国一律の実施を要望すると答えた。",
+        "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=712&schedule_id=4",
+        "sourceTitle": "富士見市議会・09月16日－03号 P.168・P.174",
+        "archiveId": "b4856989658dde352719",
+        "blocks": [
+          176,
+          190
+        ],
+        "memberActions": [
+          {
+            "name": "須崎悦子",
+            "detail": "中学校給食費の負担軽減、無償化について市の対応を質した。",
+            "blocks": [
+              176
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-09-28",
+        "stage": "議員が中学校給食費の意見書案を提出",
+        "actor": "須崎悦子、根岸操",
+        "detail": "中学校給食費の無償化を国の制度として早期に実施するよう求める意見書案を提出した。",
+        "url": "https://www.city.fujimi.saitama.jp/shigikai/shingi/ichiran/gikai2026gian.files/2026gi18.pdf#page=1",
+        "sourceTitle": "議員提出議案原文１頁",
+        "memberActions": [
+          {
+            "name": "須崎悦子",
+            "detail": "中学校給食費の無償化を国の制度として早期に実施するよう求める意見書案を提出した。"
+          },
+          {
+            "name": "根岸操",
+            "detail": "原文の提出時の賛成者欄に記載。"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-01",
+        "stage": "中学校給食費の負担軽減を国に求める意見書を可決",
+        "actor": "須崎悦子、伊勢田幸正、富士見市議会",
+        "detail": "発議者が説明し、伊勢田議員が賛成討論。本会議で議第18号を起立全員で可決した。",
+        "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=712&schedule_id=9",
+        "sourceTitle": "富士見市議会・10月01日－08号 P.450・P.451",
+        "archiveId": "4dcbca63d26a63f41418",
+        "blocks": [
+          216,
+          221,
+          224
+        ],
+        "billNumber": "議第18号",
+        "memberActions": [
+          {
+            "name": "須崎悦子",
+            "detail": "提出した案文を本会議で説明した。",
+            "blocks": [
+              216
+            ]
+          },
+          {
+            "name": "伊勢田幸正",
+            "detail": "中学校への拡大の趣旨を踏まえて賛成討論した。",
+            "blocks": [
+              221
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "小学校等の無償化と中学校の値上げ相当分支援は市の実施案内。中学校の全面無償化は国への意見書の可決まで確認。"
+  },
+  {
+    "place": "富士見市",
+    "title": "弁当を持参する児童への給食代替費補助を補正予算で可決",
+    "topic": "教育・給食代替費",
+    "actors": [
+      "加賀奈々恵",
+      "勝山祥",
+      "山下淑子",
+      "富士見市",
+      "富士見市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-09-01",
+        "stage": "給食を食べられない児童への給食費相当額の補助を計上",
+        "actor": "富士見市",
+        "detail": "市が一般会計補正予算第２号に給食費相当額の補助を計上すると説明した。",
+        "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=712&schedule_id=2",
+        "sourceTitle": "富士見市議会・09月01日－01号 P.10",
+        "archiveId": "28730e6abde58c3dfbef",
+        "blocks": [
+          37
+        ]
+      },
+      {
+        "date": "2026-09-10",
+        "stage": "分科会で想定人数・対象条件・来年度の考えを確認",
+        "actor": "加賀奈々恵、勝山祥、山下淑子、富士見市",
+        "detail": "市はアレルギー・疾病・宗教上の理由により全部または一部が食べられず弁当を持参する児童のうち学校が７人を確認したと答えた。計上額は29万8,000円。担当課は次年度の継続意向を示した。",
+        "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=693&schedule_id=5",
+        "sourceTitle": "富士見市議会・文教福祉分科会 09月10日－04号 P.141・P.143・P.146",
+        "archiveId": "890aa64bc2eb496aa449",
+        "blocks": [
+          16,
+          18,
+          36,
+          38,
+          72,
+          74
+        ],
+        "memberActions": [
+          {
+            "name": "加賀奈々恵",
+            "detail": "補助対象とされた７人の把握方法を質した。",
+            "blocks": [
+              16
+            ]
+          },
+          {
+            "name": "勝山祥",
+            "detail": "対象条件を決める際に他の類型も検討したかを質した。",
+            "blocks": [
+              36
+            ]
+          },
+          {
+            "name": "山下淑子",
+            "detail": "補助金の翌年度の継続について質した。",
+            "blocks": [
+              72
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-10-01",
+        "stage": "本会議で給食代替費を含む補正予算を可決",
+        "actor": "加賀奈々恵、富士見市議会",
+        "detail": "加賀議員が補助対象の支援として評価し、予算案に賛成。第71号を起立全員で可決。",
+        "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=712&schedule_id=9",
+        "sourceTitle": "富士見市議会・10月01日－08号 P.411・P.414",
+        "archiveId": "4dcbca63d26a63f41418",
+        "blocks": [
+          45,
+          56
+        ],
+        "billNumber": "議案第71号",
+        "memberActions": [
+          {
+            "name": "加賀奈々恵",
+            "detail": "分科会で確認した補助の狙いを示し、補正予算に賛成討論した。",
+            "blocks": [
+              45
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "対象者の試算と補正予算の可決まで確認。申請・支給実績と翌年度予算は確認中。"
+  },
+  {
+    "place": "富士見市",
+    "title": "新庁舎の事業費と水路移設、上限額・財政への影響を継続確認",
+    "topic": "庁舎・公共工事",
+    "actors": [
+      "川畑勝弘",
+      "富士見市",
+      "富士見市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-18",
+        "stage": "水路移設契約を可決",
+        "actor": "川畑勝弘、富士見市議会",
+        "detail": "川畑議員は地盤や安全性、事業費などを挙げて反対討論。水路移設の工事請負契約第32号は起立多数で可決した。",
+        "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=695&schedule_id=11",
+        "sourceTitle": "富士見市議会・03月18日－10号 P.548・P.549",
+        "archiveId": "500066f07dd9a0a690c9",
+        "blocks": [
+          71,
+          74,
+          75
+        ],
+        "billNumber": "議案第32号",
+        "memberActions": [
+          {
+            "name": "川畑勝弘",
+            "detail": "新庁舎整備に伴う水路移設について安全性や事業費を取り上げ反対討論した。",
+            "blocks": [
+              71
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-04-02",
+        "stage": "水路移設の工事範囲と期間を市が公表",
+        "actor": "富士見市",
+        "detail": "敷地を文化の杜公園側に拡張して仮庁舎を不要とするための工事。期間は2026年４月から2027年９月までの予定。",
+        "url": "https://www.city.fujimi.saitama.jp/shisei/03sisaku/sintyosya/seibi01/suiroisetu.html",
+        "sourceTitle": "富士見市・新庁舎整備に伴う水路移設工事"
+      },
+      {
+        "date": "2026-05-18",
+        "stage": "基本設計時点の事業費と上振れ試算を公表",
+        "actor": "富士見市",
+        "detail": "基本設計時点の概算事業費は約158億円、建設コスト等により183億円程度になる可能性を想定。実際の契約額や事業費の上限額は別途確認が必要。",
+        "url": "https://www.city.fujimi.saitama.jp/shisei/03sisaku/sintyosya/seibi02/kihonsekkei.html",
+        "sourceTitle": "富士見市・新庁舎建設基本設計"
+      },
+      {
+        "date": "2026-06-15",
+        "stage": "市が上限額設定の難しさを答弁",
+        "actor": "川畑勝弘、富士見市",
+        "detail": "川畑議員が事業費上限の設定、資材価格高騰時の対応、見直しの条件を質問。市は市の財政や他事業への影響を踏まえる必要があり、上限の設定は難しいと答えた。",
+        "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=706&schedule_id=5",
+        "sourceTitle": "富士見市議会・06月15日－04号 P.156・P.159",
+        "archiveId": "59b3480d976714ddfaaf",
+        "blocks": [
+          395,
+          397
+        ],
+        "memberActions": [
+          {
+            "name": "川畑勝弘",
+            "detail": "整備費の上限額と見直しの基準、資材高騰が続いた場合の対応を質した。",
+            "blocks": [
+              395
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-09-16",
+        "stage": "事業費・長期債務・他事業への影響を再質問",
+        "actor": "川畑勝弘、富士見市",
+        "detail": "市は基本計画時約126億円、基本設計時約158億円、上振れ試算は183億円程度と説明。川畑議員が市債の長期償還と他事業の影響を追加で確認した。",
+        "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=712&schedule_id=4",
+        "sourceTitle": "富士見市議会・09月16日－03号 P.182・P.184・P.190・P.191",
+        "archiveId": "b4856989658dde352719",
+        "blocks": [
+          296,
+          298,
+          318,
+          320,
+          324
+        ],
+        "memberActions": [
+          {
+            "name": "川畑勝弘",
+            "detail": "６月の質疑を踏まえ、事業見直しの判断、市債の将来負担と公共施設再編への影響を質した。",
+            "blocks": [
+              296,
+              318
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "水路移設契約と設計・試算を確認。庁舎本体の確定契約額、完成・供用は確認中。"
+  },
+  {
+    "place": "富士見市",
+    "title": "災害時の議会機能と傍聴環境整備を議会基本条例に追加",
+    "topic": "議会改革・災害対応",
+    "actors": [
+      "今成優太",
+      "深瀬優子",
+      "斉藤隆浩",
+      "加賀奈々恵",
+      "川畑勝弘",
+      "根岸操",
+      "伊勢田幸正",
+      "堀航大",
+      "富士見市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-02-17",
+        "stage": "議会運営委員長が議会基本条例検証の経過を報告",
+        "actor": "今成優太、富士見市議会",
+        "detail": "今成議員が議会基本条例検証委員会からの答申と、議会運営委員会での検討経過を報告した。",
+        "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=695&schedule_id=2",
+        "sourceTitle": "富士見市議会・02月17日－01号 P.5",
+        "archiveId": "a0478bd049c0fa264cf5",
+        "blocks": [
+          7
+        ],
+        "memberActions": [
+          {
+            "name": "今成優太",
+            "detail": "議会運営委員長として検証後の改正準備の経過を報告した。",
+            "blocks": [
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-03-13",
+        "stage": "議員が議会基本条例の改正案を提出",
+        "actor": "深瀬優子、斉藤隆浩、加賀奈々恵、川畑勝弘、根岸操、伊勢田幸正、堀航大",
+        "detail": "災害時の議会の対応等を定める議会基本条例の改正案を提出した。",
+        "url": "https://www.city.fujimi.saitama.jp/shigikai/shingi/ichiran/gikai2026gian.files/2026gi1.pdf#page=1",
+        "sourceTitle": "議員提出議案原文１頁",
+        "memberActions": [
+          {
+            "name": "深瀬優子",
+            "detail": "災害時の議会の対応等を定める議会基本条例の改正案を提出した。"
+          },
+          {
+            "name": "斉藤隆浩",
+            "detail": "原文の提出時の賛成者欄に記載。"
+          },
+          {
+            "name": "加賀奈々恵",
+            "detail": "原文の提出時の賛成者欄に記載。"
+          },
+          {
+            "name": "川畑勝弘",
+            "detail": "原文の提出時の賛成者欄に記載。"
+          },
+          {
+            "name": "根岸操",
+            "detail": "原文の提出時の賛成者欄に記載。"
+          },
+          {
+            "name": "伊勢田幸正",
+            "detail": "原文の提出時の賛成者欄に記載。"
+          },
+          {
+            "name": "堀航大",
+            "detail": "原文の提出時の賛成者欄に記載。"
+          }
+        ]
+      },
+      {
+        "date": "2026-03-18",
+        "stage": "改正案の内容を説明、本会議で可決",
+        "actor": "深瀬優子、富士見市議会",
+        "detail": "深瀬議員が災害時の議会機能の維持や議会の傍聴環境整備などの改正点を説明。本会議は議第１号を起立全員で可決。",
+        "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=695&schedule_id=11",
+        "sourceTitle": "富士見市議会・03月18日－10号 P.603・P.604",
+        "archiveId": "500066f07dd9a0a690c9",
+        "blocks": [
+          349,
+          350,
+          356
+        ],
+        "billNumber": "議第1号",
+        "memberActions": [
+          {
+            "name": "深瀬優子",
+            "detail": "提出者として条例の改正点と理由を説明した。",
+            "blocks": [
+              350
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-04-01",
+        "stage": "改正議会基本条例を施行",
+        "actor": "富士見市議会",
+        "detail": "災害対応を第３条の２に追加し、第６条に市民が適切に傍聴できる環境整備の努力を明記。",
+        "url": "https://www1.g-reiki.net/fujimi/reiki_honbun/e336RG00001158.html",
+        "sourceTitle": "富士見市例規集・2026年４月１日施行の議会基本条例"
+      }
+    ],
+    "note": "改正案の提出、可決、施行を確認。個別の傍聴環境整備や訓練の実施実績は別途確認。"
+  },
+  {
+    "place": "富士見市",
+    "title": "水谷東２丁目の市掲示板再設置を求める陳情が採択",
+    "topic": "住民への情報提供",
+    "actors": [
+      "篠原通裕",
+      "斉藤隆浩",
+      "木村邦憲",
+      "熊谷麗",
+      "富士見市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-09-01",
+        "stage": "市掲示板の再設置を求める陳情を付託",
+        "actor": "富士見市議会",
+        "detail": "陳情第13号を建設環境常任委員会に付託した。",
+        "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=712&schedule_id=2",
+        "sourceTitle": "富士見市議会・09月01日－01号 P.7",
+        "archiveId": "28730e6abde58c3dfbef",
+        "blocks": [
+          19
+        ]
+      },
+      {
+        "date": "2026-10-01",
+        "stage": "設置場所・管理の課題を議論して採択",
+        "actor": "篠原通裕、斉藤隆浩、木村邦憲、熊谷麗、富士見市議会",
+        "detail": "本会議では設置場所となる用地の有無、情報提供の役割、地域との調整を討論。起立多数で採択し、執行機関へ送付して処理経過と結果の報告を請求することを決定。",
+        "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=712&schedule_id=9",
+        "sourceTitle": "富士見市議会・10月01日－08号 P.440・P.441・P.442・P.443",
+        "archiveId": "4dcbca63d26a63f41418",
+        "blocks": [
+          166,
+          169,
+          172,
+          174,
+          177,
+          178
+        ],
+        "billNumber": "陳情第13号",
+        "memberActions": [
+          {
+            "name": "篠原通裕",
+            "detail": "建設環境常任委員長として審査結果を報告した。",
+            "blocks": [
+              166
+            ]
+          },
+          {
+            "name": "斉藤隆浩",
+            "detail": "設置場所となる公共施設などの課題を示し、不採択の立場で討論した。",
+            "blocks": [
+              169
+            ]
+          },
+          {
+            "name": "木村邦憲",
+            "detail": "住民への情報発信の観点から採択の立場で討論した。",
+            "blocks": [
+              172
+            ]
+          },
+          {
+            "name": "熊谷麗",
+            "detail": "地域と場所や管理方法を話し合う必要があると述べ、採択の立場で討論した。",
+            "blocks": [
+              174
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "議会の採択と報告請求の決定を確認。再設置の場所、時期、完了は確認中。"
+  },
+  {
+    "place": "富士見市",
+    "title": "通年利用の公設プールに関する陳情の審議",
+    "topic": "公共施設・水泳",
+    "actors": [
+      "篠原通裕",
+      "木村邦憲",
+      "熊谷麗",
+      "富士見市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-09-01",
+        "stage": "通年利用できる公設プールを求める陳情を付託",
+        "actor": "富士見市議会",
+        "detail": "陳情第14号を建設環境常任委員会に付託した。",
+        "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=712&schedule_id=2",
+        "sourceTitle": "富士見市議会・09月01日－01号 P.7",
+        "archiveId": "28730e6abde58c3dfbef",
+        "blocks": [
+          19
+        ]
+      },
+      {
+        "date": "2026-10-01",
+        "stage": "利用機会と他の手段を討論、公設プールの陳情は不採択",
+        "actor": "篠原通裕、木村邦憲、熊谷麗、富士見市議会",
+        "detail": "ガーデンビーチ閉園後の利用機会、学校プール開放の対象・時期、通年施設の費用を議論。採択への起立は少数で陳情は不採択となった。",
+        "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=712&schedule_id=9",
+        "sourceTitle": "富士見市議会・10月01日－08号 P.440・P.443・P.444・P.445",
+        "archiveId": "4dcbca63d26a63f41418",
+        "blocks": [
+          166,
+          180,
+          183,
+          185,
+          186
+        ],
+        "billNumber": "陳情第14号",
+        "memberActions": [
+          {
+            "name": "篠原通裕",
+            "detail": "建設環境常任委員長として審査結果を本会議に報告した。",
+            "blocks": [
+              166
+            ]
+          },
+          {
+            "name": "木村邦憲",
+            "detail": "学校プール開放では幅広い世代の通年利用が難しいとして採択を求めた。",
+            "blocks": [
+              180
+            ]
+          },
+          {
+            "name": "熊谷麗",
+            "detail": "学校プール開放の利用対象拡大や整備費等を挙げ、不採択の立場で討論した。",
+            "blocks": [
+              183
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "この陳情の審議と採決結果を確認。新たな公設プールを整備する決定は確認中。"
+  },
+  {
+    "place": "富士見市",
+    "title": "高額療養費の見直しを求める意見書と賛成者の原典表記",
+    "topic": "医療費・議員提出",
+    "actors": [
+      "根岸操",
+      "川畑勝弘",
+      "深瀬優子",
+      "富士見市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-06-19",
+        "stage": "議員が高額療養費制度の見直しを求める意見書案を提出",
+        "actor": "根岸操、川畑勝弘",
+        "detail": "高額療養費制度の見直しを求める意見書案を提出した。",
+        "url": "https://www.city.fujimi.saitama.jp/shigikai/shingi/ichiran/gikai2026gian.files/2026gi12.pdf#page=1",
+        "sourceTitle": "議員提出議案原文１頁",
+        "memberActions": [
+          {
+            "name": "根岸操",
+            "detail": "高額療養費制度の見直しを求める意見書案を提出した。"
+          },
+          {
+            "name": "川畑勝弘",
+            "detail": "原文の提出時の賛成者欄に記載。"
+          }
+        ]
+      },
+      {
+        "date": "2026-06-24",
+        "stage": "本会議で提案理由を説明、起立少数で否決",
+        "actor": "根岸操、富士見市議会",
+        "detail": "根岸議員が患者負担の見直し等を求める案を説明。議第12号は起立少数で否決された。",
+        "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=706&schedule_id=9",
+        "sourceTitle": "富士見市議会・06月24日－08号 P.369・P.371",
+        "archiveId": "dcb40c67b7b4699ad0e9",
+        "blocks": [
+          214,
+          224
+        ],
+        "billNumber": "議第12号",
+        "memberActions": [
+          {
+            "name": "根岸操",
+            "detail": "本会議で案文を説明し、川畑・深瀬両議員の署名を紹介した。",
+            "blocks": [
+              214
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "提出原文の賛成者欄には川畑勝弘議員を掲載。発議者は６月24日の本会議で川畑・深瀬両議員の署名を説明。"
+  },
+  {
+    "place": "富士見市",
+    "title": "議長裁決で否決された衆議院比例代表の定数に関する意見書",
+    "topic": "議員提出・表決",
+    "actors": [
+      "川畑勝弘",
+      "根岸操",
+      "熊谷麗",
+      "勝山祥",
+      "富士見市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-09-28",
+        "stage": "議員が衆議院比例代表の定数に関する意見書案を提出",
+        "actor": "川畑勝弘、根岸操",
+        "detail": "衆議院比例代表選出議員の定数を削減しないよう求める意見書案を提出した。",
+        "url": "https://www.city.fujimi.saitama.jp/shigikai/shingi/ichiran/gikai2026gian.files/2026gi16.pdf#page=1",
+        "sourceTitle": "議員提出議案原文１頁",
+        "memberActions": [
+          {
+            "name": "川畑勝弘",
+            "detail": "衆議院比例代表選出議員の定数を削減しないよう求める意見書案を提出した。"
+          },
+          {
+            "name": "根岸操",
+            "detail": "原文の提出時の賛成者欄に記載。"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-01",
+        "stage": "賛否10対10から議長裁決で否決",
+        "actor": "川畑勝弘、熊谷麗、根岸操、勝山祥、富士見市議会",
+        "detail": "賛否同数となり勝山祥議長が否決と裁決した。議員別賛否原表の議長欄の×は、この裁決に対応。",
+        "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=712&schedule_id=9",
+        "sourceTitle": "富士見市議会・10月01日－08号 P.445・P.446・P.447・P.448",
+        "archiveId": "4dcbca63d26a63f41418",
+        "blocks": [
+          192,
+          196,
+          199,
+          201,
+          202
+        ],
+        "billNumber": "議第16号",
+        "memberActions": [
+          {
+            "name": "川畑勝弘",
+            "detail": "発議者として意見書案の趣旨を説明した。",
+            "blocks": [
+              192
+            ]
+          },
+          {
+            "name": "熊谷麗",
+            "detail": "代表性や制度全体の議論の必要性を挙げて反対討論した。",
+            "blocks": [
+              196
+            ]
+          },
+          {
+            "name": "根岸操",
+            "detail": "比例代表の定数維持を求め賛成討論した。",
+            "blocks": [
+              199
+            ]
+          },
+          {
+            "name": "勝山祥",
+            "detail": "可否同数のため、議長として否決と裁決した。",
+            "blocks": [
+              202
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "議員の表決と議長の裁決を別の表示で記録。今回の採決結果は市議会の意見書案に関するもの。"
+  }
+]);

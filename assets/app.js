@@ -769,10 +769,12 @@
       : "";
     const resultTitle = b.resultLocator || (separateVote ? "議決結果の原表" : "審議結果・表決の原表");
     const voteTitle = byGroup ? "会派等の表決の原表" : ballots.length ? "記名表決の原表" : "表決の注記の原表";
+    const record = b.archiveId && D.questionText.documents.find((doc) => doc.id === b.archiveId);
     const sources = `${proposalSource} ${link(b.resultURL, resultTitle)}
       ${separateVote ? link(b.voteURL, voteTitle) : ""}
       ${b.committeeURL ? link(b.committeeURL, "委員会審査の公式一覧") : ""}
-      ${b.voteConflictURL ? link(b.voteConflictURL, "採決を宣告した議長を確認できる会議録") : ""}`;
+      ${b.voteConflictURL ? link(b.voteConflictURL, "採決を宣告した議長を確認できる会議録") : ""}
+      ${record ? link(record.url, "当日の本会議録") + archivedMinutes(b.place, b.date, record.id, b.blocks) : ""}`;
     const scope = byGroup
       ? '<p class="small">表決の単位　会派等。人数の内訳は原表の注記によります。</p>'
       : "";
@@ -781,7 +783,7 @@
       ${link(b.followUp.url, b.followUp.locator || "後日の公式議決結果")}</p>` : "";
     const citation = esc(b.number || b.resultLocator || "");
     const supporters = b.proposalSupporters?.length
-      ? `<p class="small">議案書の賛成者　${b.proposalSupporters.map(esc).join("、")}</p>` : "";
+      ? `<p class="small">${esc(b.proposalSupporterLabel || "議案書の賛成者")}　${b.proposalSupporters.map(esc).join("、")}</p>` : "";
     const conflicts = b.voteConflicts || [];
     return `<details class="entry"><summary><div><div class="meta">${tag(b.result)}<span>${esc(b.place)}議会</span>${dateTag(b.date)}<span>${citation}</span>${conflicts.length ? tag("表決原表に注記") : ""}</div><p class="title">${esc(b.title)}</p></div></summary><div class="detail-body"><p>${esc(b.proposalRole || "提出者")}　${named}</p>${supporters}${scope}${conflicts.length ? note : ""}<ul class="ballots">${ballots.map(([name, position]) => `<li><span>${esc(name)}</span><b>${conflicts.includes(name) ? "原表では　" : ""}${esc(position)}</b></li>`).join("")}</ul>${conflicts.length ? "" : note}${followUp}${!ballots.length && !note ? `<p class="small">個々の賛否はこの表に掲載していません。</p>` : ""}<div class="links">${sources}</div></div></details>`;
   }

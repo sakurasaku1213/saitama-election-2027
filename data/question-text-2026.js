@@ -22379,6 +22379,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "7b4e01d8f247b28cc5d4",
+      "place": "富士見市",
+      "season": "spring",
+      "date": "2026-02-10",
+      "title": "議会運営委員会 02月10日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=698&schedule_id=2",
+      "kind": "公式会議録（議会運営委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。定例会の会期外に開かれた委員会資料。",
+      "speakers": [
+        "今成優太"
+      ]
+    },
+    {
       "id": "a0478bd049c0fa264cf5",
       "place": "富士見市",
       "season": "spring",
@@ -22388,7 +22402,56 @@ GIKAI.questionText = {
       "kind": "公式会議録（HTML）",
       "scope": "minutes",
       "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
-      "speakers": []
+      "speakers": [
+        "今成優太",
+        "勝山祥"
+      ]
+    },
+    {
+      "id": "c7d7a5be05f4b650e5df",
+      "place": "富士見市",
+      "season": "spring",
+      "date": "2026-02-17",
+      "title": "令和8年第1回（3月）定例会 市政一般質問通告要旨",
+      "url": "https://www.city.fujimi.saitama.jp/shigikai/shingi/sitsumon/gikai2026ippan.files/ippansitumon202603.pdf",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "note": "事前通告PDFの全頁。一般質問19人の掲載順・日付を本会議録で照合。会議録の実施も19人。質問と答弁は本会議録に収録。",
+      "speakers": [
+        "今成優太",
+        "伊勢田幸正",
+        "加賀奈々恵",
+        "堀航大",
+        "宮尾玲",
+        "小泉陽",
+        "山下淑子",
+        "川畑勝弘",
+        "斉藤隆浩",
+        "木村邦憲",
+        "村元寛",
+        "松本剛",
+        "根岸操",
+        "深瀬優子",
+        "熊谷麗",
+        "田中栄志",
+        "篠原通裕",
+        "篠田剛",
+        "須崎悦子"
+      ]
+    },
+    {
+      "id": "e71f3992cf5cd0395f19",
+      "place": "富士見市",
+      "season": "spring",
+      "date": "2026-02-17",
+      "title": "議会運営委員会 02月17日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=698&schedule_id=3",
+      "kind": "公式会議録（議会運営委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "今成優太"
+      ]
     },
     {
       "id": "a03b747ca86e69777cfe",
@@ -22400,7 +22463,21 @@ GIKAI.questionText = {
       "kind": "公式会議録（HTML）",
       "scope": "minutes",
       "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
-      "speakers": []
+      "speakers": [
+        "加賀奈々恵",
+        "勝山祥",
+        "宮尾玲",
+        "山下淑子",
+        "川畑勝弘",
+        "斉藤隆浩",
+        "木村邦憲",
+        "村元寛",
+        "根岸操",
+        "田中栄志",
+        "篠原通裕",
+        "篠田剛",
+        "須崎悦子"
+      ]
     },
     {
       "id": "3db6972e5b4a2be3cdc9",
@@ -22412,7 +22489,22 @@ GIKAI.questionText = {
       "kind": "公式会議録（HTML）",
       "scope": "minutes",
       "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
-      "speakers": []
+      "speakers": [
+        "今成優太",
+        "佐野正幸",
+        "加賀奈々恵",
+        "勝山祥",
+        "小泉陽",
+        "山下淑子",
+        "斉藤隆浩",
+        "村元寛",
+        "松本剛",
+        "深瀬優子",
+        "熊谷麗",
+        "田中栄志",
+        "篠原通裕",
+        "篠田剛"
+      ]
     },
     {
       "id": "610d09e933ea10e1badf",
@@ -22425,8 +22517,253 @@ GIKAI.questionText = {
       "scope": "minutes",
       "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
       "speakers": [
+        "伊勢田幸正",
+        "勝山祥",
         "堀航大",
-        "根岸操"
+        "宮尾玲",
+        "小泉陽",
+        "川畑勝弘",
+        "木村邦憲",
+        "村元寛",
+        "根岸操",
+        "篠原通裕",
+        "須崎悦子"
+      ]
+    },
+    {
+      "id": "0b5f470743e95cb81fa5",
+      "place": "富士見市",
+      "season": "spring",
+      "date": "2026-02-24",
+      "title": "予算決算常任委員会 02月24日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=690&schedule_id=2",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "田中栄志"
+      ]
+    },
+    {
+      "id": "e3ab3c538b4c4d75abe5",
+      "place": "富士見市",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "総務分科会 02月26日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=696&schedule_id=2",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "今成優太",
+        "伊勢田幸正",
+        "川畑勝弘",
+        "斉藤隆浩",
+        "村元寛",
+        "松本剛",
+        "深瀬優子"
+      ]
+    },
+    {
+      "id": "da7e49514441218cd081",
+      "place": "富士見市",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "総務常任委員会 02月26日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=697&schedule_id=2",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "今成優太",
+        "伊勢田幸正",
+        "川畑勝弘",
+        "村元寛",
+        "松本剛",
+        "深瀬優子"
+      ]
+    },
+    {
+      "id": "0cf7c7dc3fc567db087b",
+      "place": "富士見市",
+      "season": "spring",
+      "date": "2026-02-26",
+      "title": "総務常任委員会 審査報告書",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=702&schedule_id=1",
+      "kind": "委員長報告（公式資料）",
+      "scope": "summary",
+      "note": "公式の委員会審査報告書。日付は報告書に記載された委員会審査日。",
+      "speakers": []
+    },
+    {
+      "id": "025c4320a6aca78eff5d",
+      "place": "富士見市",
+      "season": "spring",
+      "date": "2026-02-27",
+      "title": "総務分科会 02月27日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=696&schedule_id=3",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "今成優太",
+        "伊勢田幸正",
+        "川畑勝弘",
+        "斉藤隆浩",
+        "村元寛",
+        "松本剛",
+        "深瀬優子"
+      ]
+    },
+    {
+      "id": "d59ef71281445479ed58",
+      "place": "富士見市",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "文教福祉分科会 03月02日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=693&schedule_id=2",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "加賀奈々恵",
+        "勝山祥",
+        "宮尾玲",
+        "小泉陽",
+        "山下淑子",
+        "田中栄志",
+        "須崎悦子"
+      ]
+    },
+    {
+      "id": "66d6ffffe4d976138fb2",
+      "place": "富士見市",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "文教福祉常任委員会 03月02日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=694&schedule_id=2",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "加賀奈々恵",
+        "宮尾玲",
+        "小泉陽",
+        "田中栄志",
+        "須崎悦子"
+      ]
+    },
+    {
+      "id": "0ce7f6ae501d1c93fa5f",
+      "place": "富士見市",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "文教福祉常任委員会 審査報告書",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=702&schedule_id=2",
+      "kind": "委員長報告（公式資料）",
+      "scope": "summary",
+      "note": "公式の委員会審査報告書。日付は報告書に記載された委員会審査日。",
+      "speakers": []
+    },
+    {
+      "id": "b77fac9074edc90b0736",
+      "place": "富士見市",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "文教福祉常任委員会 審査報告書",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=702&schedule_id=5",
+      "kind": "委員長報告（公式資料）",
+      "scope": "summary",
+      "note": "公式の委員会審査報告書。日付は報告書に記載された委員会審査日。",
+      "speakers": []
+    },
+    {
+      "id": "6bb49b0212c1c91be1e2",
+      "place": "富士見市",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "文教福祉分科会 03月03日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=693&schedule_id=3",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "加賀奈々恵",
+        "勝山祥",
+        "宮尾玲",
+        "小泉陽",
+        "山下淑子",
+        "田中栄志",
+        "須崎悦子"
+      ]
+    },
+    {
+      "id": "02fde1ba49086fc4ae22",
+      "place": "富士見市",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "建設環境分科会 03月04日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=691&schedule_id=2",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "佐野正幸",
+        "堀航大",
+        "木村邦憲",
+        "根岸操",
+        "熊谷麗",
+        "篠原通裕",
+        "篠田剛"
+      ]
+    },
+    {
+      "id": "f1220ec7ec9e98a0012d",
+      "place": "富士見市",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "建設環境常任委員会 03月04日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=692&schedule_id=2",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "佐野正幸",
+        "木村邦憲",
+        "根岸操",
+        "篠原通裕"
+      ]
+    },
+    {
+      "id": "3b37e1b5b8109a6f3376",
+      "place": "富士見市",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "建設環境常任委員会 審査報告書",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=702&schedule_id=3",
+      "kind": "委員長報告（公式資料）",
+      "scope": "summary",
+      "note": "公式の委員会審査報告書。日付は報告書に記載された委員会審査日。",
+      "speakers": []
+    },
+    {
+      "id": "83f606d333f5ea625981",
+      "place": "富士見市",
+      "season": "spring",
+      "date": "2026-03-05",
+      "title": "建設環境分科会 03月05日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=691&schedule_id=3",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "佐野正幸",
+        "堀航大",
+        "木村邦憲",
+        "根岸操",
+        "熊谷麗",
+        "篠原通裕",
+        "篠田剛"
       ]
     },
     {
@@ -22441,6 +22778,7 @@ GIKAI.questionText = {
       "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
       "speakers": [
         "伊勢田幸正",
+        "勝山祥",
         "斉藤隆浩",
         "深瀬優子",
         "田中栄志"
@@ -22457,11 +22795,26 @@ GIKAI.questionText = {
       "scope": "minutes",
       "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
       "speakers": [
+        "勝山祥",
         "堀航大",
         "山下淑子",
         "根岸操",
         "田中栄志",
         "篠原通裕"
+      ]
+    },
+    {
+      "id": "35679b933c59cce91e90",
+      "place": "富士見市",
+      "season": "spring",
+      "date": "2026-03-09",
+      "title": "議会運営委員会 03月09日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=698&schedule_id=4",
+      "kind": "公式会議録（議会運営委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "今成優太"
       ]
     },
     {
@@ -22475,6 +22828,8 @@ GIKAI.questionText = {
       "scope": "minutes",
       "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
       "speakers": [
+        "今成優太",
+        "勝山祥",
         "宮尾玲",
         "川畑勝弘",
         "根岸操",
@@ -22492,6 +22847,7 @@ GIKAI.questionText = {
       "scope": "minutes",
       "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
       "speakers": [
+        "佐野正幸",
         "小泉陽",
         "川畑勝弘",
         "木村邦憲",
@@ -22512,9 +22868,95 @@ GIKAI.questionText = {
       "speakers": [
         "今成優太",
         "加賀奈々恵",
+        "勝山祥",
         "小泉陽",
         "村元寛",
         "熊谷麗"
+      ]
+    },
+    {
+      "id": "cd4f515c83828c107d91",
+      "place": "富士見市",
+      "season": "spring",
+      "date": "2026-03-12",
+      "title": "文教福祉常任委員会 03月12日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=694&schedule_id=3",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "宮尾玲"
+      ]
+    },
+    {
+      "id": "3f650da108f52f23f9b2",
+      "place": "富士見市",
+      "season": "spring",
+      "date": "2026-03-12",
+      "title": "総務常任委員会 03月12日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=697&schedule_id=3",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "村元寛"
+      ]
+    },
+    {
+      "id": "994181a3b5fc252197c7",
+      "place": "富士見市",
+      "season": "spring",
+      "date": "2026-03-13",
+      "title": "予算決算常任委員会 03月13日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=690&schedule_id=3",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "田中栄志"
+      ]
+    },
+    {
+      "id": "72eebc7d816065ac6e70",
+      "place": "富士見市",
+      "season": "spring",
+      "date": "2026-03-13",
+      "title": "予算決算常任委員会 審査報告書",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=702&schedule_id=4",
+      "kind": "委員長報告（公式資料）",
+      "scope": "summary",
+      "note": "公式の委員会審査報告書。日付は報告書に記載された委員会審査日。",
+      "speakers": []
+    },
+    {
+      "id": "7f2ff4ac812cdcceac40",
+      "place": "富士見市",
+      "season": "spring",
+      "date": "2026-03-13",
+      "title": "庁舎整備に関する特別委員会 03月13日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=704&schedule_id=2",
+      "kind": "公式会議録（特別委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "伊勢田幸正",
+        "斉藤隆浩",
+        "村元寛",
+        "篠田剛"
+      ]
+    },
+    {
+      "id": "363846667f75fc76748d",
+      "place": "富士見市",
+      "season": "spring",
+      "date": "2026-03-13",
+      "title": "議会運営委員会 03月13日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=698&schedule_id=5",
+      "kind": "公式会議録（議会運営委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "今成優太"
       ]
     },
     {
@@ -22528,7 +22970,124 @@ GIKAI.questionText = {
       "scope": "minutes",
       "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
       "speakers": [
+        "今成優太",
+        "伊勢田幸正",
+        "加賀奈々恵",
+        "勝山祥",
+        "堀航大",
+        "宮尾玲",
+        "山下淑子",
+        "川畑勝弘",
+        "斉藤隆浩",
+        "木村邦憲",
+        "村元寛",
+        "根岸操",
+        "深瀬優子",
+        "熊谷麗",
+        "田中栄志",
+        "篠原通裕",
+        "篠田剛",
+        "須崎悦子"
+      ]
+    },
+    {
+      "id": "decbd67ff53727fe471a",
+      "place": "富士見市",
+      "season": "spring",
+      "date": "2026-03-18",
+      "title": "議会運営委員会 03月18日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=698&schedule_id=6",
+      "kind": "公式会議録（議会運営委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "今成優太"
+      ]
+    },
+    {
+      "id": "85a8c47727202c992cd3",
+      "place": "富士見市",
+      "season": "spring",
+      "date": "2026-04-09",
+      "title": "建設環境常任委員会 04月09日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=692&schedule_id=3",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。定例会の会期外に開かれた委員会資料。",
+      "speakers": [
+        "篠原通裕"
+      ]
+    },
+    {
+      "id": "e8a81f28f51a842d250e",
+      "place": "富士見市",
+      "season": "spring",
+      "date": "2026-04-24",
+      "title": "文教福祉常任委員会 04月24日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=694&schedule_id=4",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。定例会の会期外に開かれた委員会資料。",
+      "speakers": [
         "宮尾玲"
+      ]
+    },
+    {
+      "id": "105c03abcd898242d8f8",
+      "place": "富士見市",
+      "season": "spring",
+      "date": "2026-04-27",
+      "title": "総務常任委員会 04月27日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=697&schedule_id=4",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。定例会の会期外に開かれた委員会資料。",
+      "speakers": [
+        "村元寛"
+      ]
+    },
+    {
+      "id": "7227057a3760dca70cdd",
+      "place": "富士見市",
+      "season": "spring",
+      "date": "2026-05-20",
+      "title": "富士見市議会だより第207号",
+      "url": "https://www.city.fujimi.saitama.jp/shigikai/koukai/backnumber/gikaidayori2026.files/gikai207syuusei.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "公式の議会だより全物理PDF5頁。複数の紙面を１PDF頁に配置した箇所があります。正確な紙面の表記と段組は原PDFに掲載。",
+      "speakers": []
+    },
+    {
+      "id": "4aa35943579d080ed071",
+      "place": "富士見市",
+      "season": "summer",
+      "date": "2026-05-27",
+      "title": "庁舎整備に関する特別委員会議会運営分科会 05月27日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=705&schedule_id=2",
+      "kind": "公式会議録（特別委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。定例会の会期外に開かれた委員会資料。",
+      "speakers": [
+        "今成優太",
+        "宮尾玲",
+        "斉藤隆浩",
+        "村元寛",
+        "深瀬優子"
+      ]
+    },
+    {
+      "id": "1ddd1df12481ef540a03",
+      "place": "富士見市",
+      "season": "summer",
+      "date": "2026-05-27",
+      "title": "議会運営委員会 05月27日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=698&schedule_id=7",
+      "kind": "公式会議録（議会運営委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。定例会の会期外に開かれた委員会資料。",
+      "speakers": [
+        "今成優太"
       ]
     },
     {
@@ -22541,7 +23100,70 @@ GIKAI.questionText = {
       "kind": "公式会議録（HTML）",
       "scope": "minutes",
       "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
-      "speakers": []
+      "speakers": [
+        "今成優太",
+        "勝山祥"
+      ]
+    },
+    {
+      "id": "ae09a825cbe7e83c726b",
+      "place": "富士見市",
+      "season": "summer",
+      "date": "2026-06-02",
+      "title": "令和8年第2回（6月）定例会 市政一般質問通告要旨",
+      "url": "https://www.city.fujimi.saitama.jp/shigikai/shingi/sitsumon/gikai2026ippan.files/ippansitumon20260604.pdf",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "note": "事前通告PDFの全頁。一般質問19人の掲載順・日付を本会議録で照合。会議録の実施も19人。質問と答弁は本会議録に収録。",
+      "speakers": [
+        "今成優太",
+        "伊勢田幸正",
+        "加賀奈々恵",
+        "堀航大",
+        "宮尾玲",
+        "小泉陽",
+        "山下淑子",
+        "川畑勝弘",
+        "斉藤隆浩",
+        "木村邦憲",
+        "村元寛",
+        "松本剛",
+        "根岸操",
+        "深瀬優子",
+        "熊谷麗",
+        "田中栄志",
+        "篠原通裕",
+        "篠田剛",
+        "須崎悦子"
+      ]
+    },
+    {
+      "id": "1f3ba4b9c432243b404e",
+      "place": "富士見市",
+      "season": "summer",
+      "date": "2026-06-02",
+      "title": "庁舎整備に関する特別委員会議会運営分科会 06月02日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=705&schedule_id=3",
+      "kind": "公式会議録（特別委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "今成優太"
+      ]
+    },
+    {
+      "id": "97606a74c9c0221b3711",
+      "place": "富士見市",
+      "season": "summer",
+      "date": "2026-06-02",
+      "title": "議会運営委員会 06月02日－07号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=698&schedule_id=8",
+      "kind": "公式会議録（議会運営委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "今成優太"
+      ]
     },
     {
       "id": "6b807aad0483c712bf46",
@@ -22553,6 +23175,166 @@ GIKAI.questionText = {
       "kind": "公式会議録（HTML）",
       "scope": "minutes",
       "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "伊勢田幸正",
+        "勝山祥",
+        "宮尾玲",
+        "川畑勝弘",
+        "木村邦憲",
+        "村元寛",
+        "田中栄志",
+        "須崎悦子"
+      ]
+    },
+    {
+      "id": "0a30f93d6dc4ab7570b8",
+      "place": "富士見市",
+      "season": "summer",
+      "date": "2026-06-05",
+      "title": "予算決算常任委員会 06月05日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=690&schedule_id=4",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "田中栄志"
+      ]
+    },
+    {
+      "id": "162c956644b0e1d1498f",
+      "place": "富士見市",
+      "season": "summer",
+      "date": "2026-06-09",
+      "title": "総務分科会 06月09日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=696&schedule_id=4",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "今成優太",
+        "伊勢田幸正",
+        "川畑勝弘",
+        "村元寛",
+        "松本剛"
+      ]
+    },
+    {
+      "id": "be4d43c33e6c3a605627",
+      "place": "富士見市",
+      "season": "summer",
+      "date": "2026-06-09",
+      "title": "総務常任委員会 06月09日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=697&schedule_id=5",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "川畑勝弘",
+        "村元寛",
+        "深瀬優子"
+      ]
+    },
+    {
+      "id": "03fc3b87c9ad14da5588",
+      "place": "富士見市",
+      "season": "summer",
+      "date": "2026-06-09",
+      "title": "総務常任委員会 審査報告書",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=710&schedule_id=1",
+      "kind": "委員長報告（公式資料）",
+      "scope": "summary",
+      "note": "公式の委員会審査報告書。日付は報告書に記載された委員会審査日。",
+      "speakers": []
+    },
+    {
+      "id": "c5386ca1951d2eea4cfd",
+      "place": "富士見市",
+      "season": "summer",
+      "date": "2026-06-10",
+      "title": "文教福祉分科会 06月10日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=693&schedule_id=4",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "加賀奈々恵",
+        "勝山祥",
+        "宮尾玲",
+        "小泉陽",
+        "山下淑子",
+        "須崎悦子"
+      ]
+    },
+    {
+      "id": "47b581c7d688d0bbbf2a",
+      "place": "富士見市",
+      "season": "summer",
+      "date": "2026-06-10",
+      "title": "文教福祉常任委員会 06月10日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=694&schedule_id=5",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "宮尾玲",
+        "須崎悦子"
+      ]
+    },
+    {
+      "id": "5592ce452d1133f84e8e",
+      "place": "富士見市",
+      "season": "summer",
+      "date": "2026-06-10",
+      "title": "文教福祉常任委員会 審査報告書",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=710&schedule_id=2",
+      "kind": "委員長報告（公式資料）",
+      "scope": "summary",
+      "note": "公式の委員会審査報告書。日付は報告書に記載された委員会審査日。",
+      "speakers": []
+    },
+    {
+      "id": "7476299a5bf57e2beee3",
+      "place": "富士見市",
+      "season": "summer",
+      "date": "2026-06-11",
+      "title": "建設環境分科会 06月11日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=691&schedule_id=4",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "木村邦憲",
+        "篠原通裕"
+      ]
+    },
+    {
+      "id": "f659d137749d9ad4aaba",
+      "place": "富士見市",
+      "season": "summer",
+      "date": "2026-06-11",
+      "title": "建設環境常任委員会 06月11日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=692&schedule_id=4",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "佐野正幸",
+        "堀航大",
+        "木村邦憲",
+        "根岸操",
+        "篠原通裕"
+      ]
+    },
+    {
+      "id": "d48fdeb056a4c0feeb55",
+      "place": "富士見市",
+      "season": "summer",
+      "date": "2026-06-11",
+      "title": "建設環境常任委員会 審査報告書",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=710&schedule_id=3",
+      "kind": "委員長報告（公式資料）",
+      "scope": "summary",
+      "note": "公式の委員会審査報告書。日付は報告書に記載された委員会審査日。",
       "speakers": []
     },
     {
@@ -22566,10 +23348,29 @@ GIKAI.questionText = {
       "scope": "minutes",
       "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
       "speakers": [
+        "今成優太",
         "伊勢田幸正",
+        "勝山祥",
         "斉藤隆浩",
         "松本剛",
         "田中栄志"
+      ]
+    },
+    {
+      "id": "331501072f93eab2ebe7",
+      "place": "富士見市",
+      "season": "summer",
+      "date": "2026-06-12",
+      "title": "議会運営委員会 06月12日－08号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=698&schedule_id=9",
+      "kind": "公式会議録（議会運営委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "今成優太",
+        "斉藤隆浩",
+        "木村邦憲",
+        "深瀬優子"
       ]
     },
     {
@@ -22583,11 +23384,27 @@ GIKAI.questionText = {
       "scope": "minutes",
       "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
       "speakers": [
+        "佐野正幸",
+        "勝山祥",
         "小泉陽",
         "山下淑子",
         "川畑勝弘",
         "松本剛",
         "深瀬優子"
+      ]
+    },
+    {
+      "id": "9bc09fb99486adee58e6",
+      "place": "富士見市",
+      "season": "summer",
+      "date": "2026-06-15",
+      "title": "議会運営委員会 06月15日－09号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=698&schedule_id=10",
+      "kind": "公式会議録（議会運営委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "今成優太"
       ]
     },
     {
@@ -22601,6 +23418,8 @@ GIKAI.questionText = {
       "scope": "minutes",
       "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
       "speakers": [
+        "今成優太",
+        "佐野正幸",
         "宮尾玲",
         "川畑勝弘",
         "木村邦憲",
@@ -22620,6 +23439,7 @@ GIKAI.questionText = {
       "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
       "speakers": [
         "加賀奈々恵",
+        "勝山祥",
         "堀航大",
         "根岸操",
         "篠原通裕",
@@ -22639,8 +23459,49 @@ GIKAI.questionText = {
       "speakers": [
         "今成優太",
         "加賀奈々恵",
+        "勝山祥",
         "村元寛",
         "熊谷麗"
+      ]
+    },
+    {
+      "id": "2bc2c77de9b9b2cd2fd6",
+      "place": "富士見市",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "予算決算常任委員会 06月19日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=690&schedule_id=5",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "田中栄志"
+      ]
+    },
+    {
+      "id": "9b66ff04f5a8a7680889",
+      "place": "富士見市",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "予算決算常任委員会 審査報告書",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=710&schedule_id=4",
+      "kind": "委員長報告（公式資料）",
+      "scope": "summary",
+      "note": "公式の委員会審査報告書。日付は報告書に記載された委員会審査日。",
+      "speakers": []
+    },
+    {
+      "id": "27d35e820fad793c4b42",
+      "place": "富士見市",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "庁舎整備に関する特別委員会 06月19日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=704&schedule_id=3",
+      "kind": "公式会議録（特別委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "斉藤隆浩"
       ]
     },
     {
@@ -22653,7 +23514,91 @@ GIKAI.questionText = {
       "kind": "公式会議録（HTML）",
       "scope": "minutes",
       "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "今成優太",
+        "伊勢田幸正",
+        "加賀奈々恵",
+        "勝山祥",
+        "宮尾玲",
+        "山下淑子",
+        "川畑勝弘",
+        "木村邦憲",
+        "村元寛",
+        "根岸操",
+        "深瀬優子",
+        "熊谷麗",
+        "田中栄志",
+        "篠原通裕",
+        "須崎悦子"
+      ]
+    },
+    {
+      "id": "a2981c0104acd59b2a76",
+      "place": "富士見市",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "議会運営委員会 06月24日－10号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=698&schedule_id=11",
+      "kind": "公式会議録（議会運営委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "今成優太"
+      ]
+    },
+    {
+      "id": "347147cfa29371d5f404",
+      "place": "富士見市",
+      "season": "summer",
+      "date": "2026-08-20",
+      "title": "富士見市議会だより第208号",
+      "url": "https://www.city.fujimi.saitama.jp/shigikai/koukai/backnumber/gikaidayori2026.files/gikai208.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "公式の議会だより全物理PDF3頁。複数の紙面を１PDF頁に配置した箇所があります。正確な紙面の表記と段組は原PDFに掲載。",
       "speakers": []
+    },
+    {
+      "id": "d1499d6de9ef897efb28",
+      "place": "富士見市",
+      "season": "fall",
+      "date": "2026-08-20",
+      "title": "建設環境常任委員会 08月20日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=692&schedule_id=5",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。定例会の会期外に開かれた委員会資料。",
+      "speakers": [
+        "篠原通裕"
+      ]
+    },
+    {
+      "id": "cc67f8ce67bd45183cd0",
+      "place": "富士見市",
+      "season": "fall",
+      "date": "2026-08-20",
+      "title": "文教福祉常任委員会 08月20日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=694&schedule_id=6",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。定例会の会期外に開かれた委員会資料。",
+      "speakers": [
+        "宮尾玲"
+      ]
+    },
+    {
+      "id": "3123fbeb11239376fbfc",
+      "place": "富士見市",
+      "season": "fall",
+      "date": "2026-08-26",
+      "title": "議会運営委員会 08月26日－11号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=698&schedule_id=12",
+      "kind": "公式会議録（議会運営委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。定例会の会期外に開かれた委員会資料。",
+      "speakers": [
+        "今成優太"
+      ]
     },
     {
       "id": "28730e6abde58c3dfbef",
@@ -22665,7 +23610,56 @@ GIKAI.questionText = {
       "kind": "公式会議録（HTML）",
       "scope": "minutes",
       "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
-      "speakers": []
+      "speakers": [
+        "今成優太",
+        "勝山祥"
+      ]
+    },
+    {
+      "id": "713f0c4ac40b470d4139",
+      "place": "富士見市",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "令和8年第3回（9月）定例会 市政一般質問通告要旨",
+      "url": "https://www.city.fujimi.saitama.jp/shigikai/shingi/sitsumon/gikai2026ippan.files/ippansitumon20260904.pdf",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "note": "事前通告PDFの全頁。一般質問19人の掲載順・日付を本会議録で照合。篠田剛議員は９月18日に取り下げ、会議録の実施は18人（255頁）。質問と答弁は本会議録に収録。",
+      "speakers": [
+        "今成優太",
+        "伊勢田幸正",
+        "加賀奈々恵",
+        "堀航大",
+        "宮尾玲",
+        "小泉陽",
+        "山下淑子",
+        "川畑勝弘",
+        "斉藤隆浩",
+        "木村邦憲",
+        "村元寛",
+        "松本剛",
+        "根岸操",
+        "深瀬優子",
+        "熊谷麗",
+        "田中栄志",
+        "篠原通裕",
+        "篠田剛",
+        "須崎悦子"
+      ]
+    },
+    {
+      "id": "f7cd62f6a7469279fd74",
+      "place": "富士見市",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "議会運営委員会 09月01日－12号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=698&schedule_id=13",
+      "kind": "公式会議録（議会運営委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "今成優太"
+      ]
     },
     {
       "id": "fc43c8ec6c59855448b6",
@@ -22677,7 +23671,241 @@ GIKAI.questionText = {
       "kind": "公式会議録（HTML）",
       "scope": "minutes",
       "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "今成優太",
+        "伊勢田幸正",
+        "加賀奈々恵",
+        "勝山祥",
+        "宮尾玲",
+        "川畑勝弘",
+        "斉藤隆浩",
+        "木村邦憲",
+        "村元寛",
+        "熊谷麗",
+        "田中栄志",
+        "篠原通裕",
+        "篠田剛",
+        "須崎悦子"
+      ]
+    },
+    {
+      "id": "42d754da10e96d7f3c8a",
+      "place": "富士見市",
+      "season": "fall",
+      "date": "2026-09-04",
+      "title": "予算決算常任委員会 09月04日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=690&schedule_id=6",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "田中栄志"
+      ]
+    },
+    {
+      "id": "32d95794767f0de6e650",
+      "place": "富士見市",
+      "season": "fall",
+      "date": "2026-09-08",
+      "title": "総務分科会 09月08日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=696&schedule_id=5",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "今成優太",
+        "伊勢田幸正",
+        "川畑勝弘",
+        "斉藤隆浩",
+        "村元寛",
+        "松本剛",
+        "深瀬優子"
+      ]
+    },
+    {
+      "id": "482c396ef83bd401abba",
+      "place": "富士見市",
+      "season": "fall",
+      "date": "2026-09-08",
+      "title": "総務常任委員会 09月08日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=697&schedule_id=6",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "今成優太",
+        "伊勢田幸正",
+        "川畑勝弘",
+        "村元寛",
+        "松本剛",
+        "深瀬優子"
+      ]
+    },
+    {
+      "id": "0ac65d1de46b4321fc56",
+      "place": "富士見市",
+      "season": "fall",
+      "date": "2026-09-08",
+      "title": "総務常任委員会 審査報告書",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=716&schedule_id=4",
+      "kind": "委員長報告（公式資料）",
+      "scope": "summary",
+      "note": "公式の委員会審査報告書。日付は報告書に記載された委員会審査日。",
       "speakers": []
+    },
+    {
+      "id": "1ae771b84293e95110e6",
+      "place": "富士見市",
+      "season": "fall",
+      "date": "2026-09-08",
+      "title": "総務常任委員会 審査報告書",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=716&schedule_id=1",
+      "kind": "委員長報告（公式資料）",
+      "scope": "summary",
+      "note": "公式の委員会審査報告書。日付は報告書に記載された委員会審査日。",
+      "speakers": []
+    },
+    {
+      "id": "2845095901ed6d7ab4ea",
+      "place": "富士見市",
+      "season": "fall",
+      "date": "2026-09-09",
+      "title": "総務分科会 09月09日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=696&schedule_id=6",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "今成優太",
+        "伊勢田幸正",
+        "川畑勝弘",
+        "斉藤隆浩",
+        "村元寛",
+        "松本剛",
+        "深瀬優子"
+      ]
+    },
+    {
+      "id": "890aa64bc2eb496aa449",
+      "place": "富士見市",
+      "season": "fall",
+      "date": "2026-09-10",
+      "title": "文教福祉分科会 09月10日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=693&schedule_id=5",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "加賀奈々恵",
+        "勝山祥",
+        "宮尾玲",
+        "小泉陽",
+        "山下淑子",
+        "田中栄志",
+        "須崎悦子"
+      ]
+    },
+    {
+      "id": "2a893497b21e1cbc5b25",
+      "place": "富士見市",
+      "season": "fall",
+      "date": "2026-09-11",
+      "title": "文教福祉分科会 09月11日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=693&schedule_id=6",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "加賀奈々恵",
+        "勝山祥",
+        "宮尾玲",
+        "小泉陽",
+        "山下淑子",
+        "田中栄志",
+        "須崎悦子"
+      ]
+    },
+    {
+      "id": "ad743abbb0830e7f7150",
+      "place": "富士見市",
+      "season": "fall",
+      "date": "2026-09-14",
+      "title": "建設環境分科会 09月14日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=691&schedule_id=5",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "佐野正幸",
+        "堀航大",
+        "木村邦憲",
+        "根岸操",
+        "熊谷麗",
+        "篠原通裕",
+        "篠田剛"
+      ]
+    },
+    {
+      "id": "9e8c9f9ec73917724c94",
+      "place": "富士見市",
+      "season": "fall",
+      "date": "2026-09-14",
+      "title": "建設環境常任委員会 09月14日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=692&schedule_id=6",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "佐野正幸",
+        "堀航大",
+        "木村邦憲",
+        "根岸操",
+        "篠原通裕"
+      ]
+    },
+    {
+      "id": "049dd85ac532c90ba483",
+      "place": "富士見市",
+      "season": "fall",
+      "date": "2026-09-14",
+      "title": "建設環境常任委員会 審査報告書",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=716&schedule_id=2",
+      "kind": "委員長報告（公式資料）",
+      "scope": "summary",
+      "note": "公式の委員会審査報告書。日付は報告書に記載された委員会審査日。",
+      "speakers": []
+    },
+    {
+      "id": "5038c1762ce8c6403846",
+      "place": "富士見市",
+      "season": "fall",
+      "date": "2026-09-14",
+      "title": "建設環境常任委員会 審査報告書",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=716&schedule_id=5",
+      "kind": "委員長報告（公式資料）",
+      "scope": "summary",
+      "note": "公式の委員会審査報告書。日付は報告書に記載された委員会審査日。",
+      "speakers": []
+    },
+    {
+      "id": "5ac8688c85141add0c43",
+      "place": "富士見市",
+      "season": "fall",
+      "date": "2026-09-15",
+      "title": "建設環境分科会 09月15日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=691&schedule_id=6",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "佐野正幸",
+        "堀航大",
+        "木村邦憲",
+        "根岸操",
+        "熊谷麗",
+        "篠原通裕",
+        "篠田剛"
+      ]
     },
     {
       "id": "b4856989658dde352719",
@@ -22691,6 +23919,7 @@ GIKAI.questionText = {
       "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
       "speakers": [
         "伊勢田幸正",
+        "勝山祥",
         "川畑勝弘",
         "斉藤隆浩",
         "須崎悦子"
@@ -22707,11 +23936,26 @@ GIKAI.questionText = {
       "scope": "minutes",
       "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
       "speakers": [
+        "勝山祥",
         "宮尾玲",
         "川畑勝弘",
         "木村邦憲",
         "深瀬優子",
         "篠原通裕"
+      ]
+    },
+    {
+      "id": "f8ba4f034ff44aeccf6d",
+      "place": "富士見市",
+      "season": "fall",
+      "date": "2026-09-17",
+      "title": "議会運営委員会 09月17日－13号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=698&schedule_id=14",
+      "kind": "公式会議録（議会運営委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "今成優太"
       ]
     },
     {
@@ -22725,6 +23969,8 @@ GIKAI.questionText = {
       "scope": "minutes",
       "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
       "speakers": [
+        "今成優太",
+        "勝山祥",
         "山下淑子",
         "根岸操",
         "深瀬優子",
@@ -22743,6 +23989,7 @@ GIKAI.questionText = {
       "scope": "minutes",
       "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
       "speakers": [
+        "佐野正幸",
         "加賀奈々恵",
         "堀航大",
         "小泉陽",
@@ -22763,8 +24010,65 @@ GIKAI.questionText = {
       "speakers": [
         "今成優太",
         "加賀奈々恵",
+        "勝山祥",
         "村元寛",
         "熊谷麗"
+      ]
+    },
+    {
+      "id": "0ad4640d508379baf07a",
+      "place": "富士見市",
+      "season": "fall",
+      "date": "2026-09-28",
+      "title": "予算決算常任委員会 09月28日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=690&schedule_id=7",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "田中栄志"
+      ]
+    },
+    {
+      "id": "b72319cd52d582b0d27e",
+      "place": "富士見市",
+      "season": "fall",
+      "date": "2026-09-28",
+      "title": "予算決算常任委員会 審査報告書",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=716&schedule_id=3",
+      "kind": "委員長報告（公式資料）",
+      "scope": "summary",
+      "note": "公式の委員会審査報告書。日付は報告書に記載された委員会審査日。",
+      "speakers": []
+    },
+    {
+      "id": "d690f7aaeee13a760bf4",
+      "place": "富士見市",
+      "season": "fall",
+      "date": "2026-09-28",
+      "title": "庁舎整備に関する特別委員会 09月28日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=704&schedule_id=4",
+      "kind": "公式会議録（特別委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "川畑勝弘",
+        "斉藤隆浩",
+        "篠田剛"
+      ]
+    },
+    {
+      "id": "07f60d153956d7a3d089",
+      "place": "富士見市",
+      "season": "fall",
+      "date": "2026-09-28",
+      "title": "議会運営委員会 09月28日－14号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=698&schedule_id=15",
+      "kind": "公式会議録（議会運営委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "今成優太"
       ]
     },
     {
@@ -22777,6 +24081,51 @@ GIKAI.questionText = {
       "kind": "公式会議録（HTML）",
       "scope": "minutes",
       "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "今成優太",
+        "伊勢田幸正",
+        "加賀奈々恵",
+        "勝山祥",
+        "堀航大",
+        "宮尾玲",
+        "小泉陽",
+        "山下淑子",
+        "川畑勝弘",
+        "斉藤隆浩",
+        "木村邦憲",
+        "村元寛",
+        "根岸操",
+        "熊谷麗",
+        "田中栄志",
+        "篠原通裕",
+        "篠田剛",
+        "須崎悦子"
+      ]
+    },
+    {
+      "id": "7aa2017f9c0d70167772",
+      "place": "富士見市",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "議会運営委員会 10月01日－15号",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimi/SpMinuteView.html?tenant_id=47&council_id=698&schedule_id=16",
+      "kind": "公式会議録（議会運営委員会）",
+      "scope": "minutes",
+      "note": "公式の日別会議録。",
+      "speakers": [
+        "今成優太"
+      ]
+    },
+    {
+      "id": "09283603fac5ab1cb956",
+      "place": "富士見市",
+      "season": "fall",
+      "date": "2026-11-20",
+      "title": "富士見市議会だより第209号",
+      "url": "https://www.city.fujimi.saitama.jp/shigikai/koukai/backnumber/gikaidayori2026.files/gikai209.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "公式の議会だより全物理PDF4頁。複数の紙面を１PDF頁に配置した箇所があります。全４頁を画像からOCR。人名・金額・段組に要照合の箇所があります（原PDF1～4頁）。正確な紙面の表記と段組は原PDFに掲載。",
       "speakers": []
     },
     {

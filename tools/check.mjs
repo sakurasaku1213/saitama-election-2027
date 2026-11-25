@@ -408,6 +408,15 @@ for (const bill of coverage.decisions) {
   if (bill.date) validDay(bill.date);
   validLink(bill.resultURL);
   validLink(bill.url);
+  if (bill.archiveId) {
+    const doc = archivedQuestionDocs.get(bill.archiveId);
+    assert.ok(doc?.place === bill.place && doc.scope === "minutes" && doc.date === bill.date, key);
+    assert.ok(bill.blocks?.length && bill.blocks.every((block, index) =>
+      Number.isSafeInteger(block) && block > (bill.blocks[index - 1] || 0)), key);
+  }
+  if (bill.proposalSupporterLabel) {
+    assert.ok(bill.proposalSupporters?.length && bill.archiveId, key);
+  }
   if (bill.followUp) {
     const { date, result, session, url } = bill.followUp;
     validDay(date);
