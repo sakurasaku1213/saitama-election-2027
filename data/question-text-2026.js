@@ -28463,6 +28463,30 @@ GIKAI.questionText = {
       "speakers": []
     },
     {
+      "id": "e34038fbd1fa2391d6e0",
+      "place": "川口市",
+      "season": "spring",
+      "date": "2026-02-24",
+      "title": "令和8年３月定例会 一般議案(議案第11号～議案第17号)",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "summary",
+      "url": "https://www.city.kawaguchi.lg.jp/material/files/group/10/0803ippanngian_R7.pdf",
+      "note": "市・市議会の公式PDFをOCRで転記。表示日は対象定例会の初日。 原本の空白頁 25、32、41、46を確認し、元のPDF頁番号の位置に表示。",
+      "speakers": []
+    },
+    {
+      "id": "9567065d2c6e65d4c5b4",
+      "place": "川口市",
+      "season": "spring",
+      "date": "2026-02-24",
+      "title": "令和8年３月定例会 一般議案(議案第32号～議案第67号)",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "summary",
+      "url": "https://www.city.kawaguchi.lg.jp/material/files/group/10/0803ippanngian_R8.pdf",
+      "note": "市・市議会の公式PDFをOCRで転記。表示日は対象定例会の初日。",
+      "speakers": []
+    },
+    {
       "id": "0480974fd765757ff070",
       "place": "川口市",
       "season": "spring",
@@ -28484,6 +28508,30 @@ GIKAI.questionText = {
       "scope": "summary",
       "url": "https://www.city.kawaguchi.lg.jp/material/files/group/10/0803sinkyuu_R7.pdf",
       "note": "市・市議会の公式PDFをOCRで転記。表示日は対象定例会の初日。",
+      "speakers": []
+    },
+    {
+      "id": "afee779ba3e11a43072e",
+      "place": "川口市",
+      "season": "spring",
+      "date": "2026-02-24",
+      "title": "令和8年３月定例会 条例議案参考資料(議案第32号～議案第48号)",
+      "kind": "議案審査の参考資料（公式PDF・OCR）",
+      "scope": "summary",
+      "url": "https://www.city.kawaguchi.lg.jp/material/files/group/10/0803sinkyuu_R8.pdf",
+      "note": "市・市議会の公式PDFをOCRで転記。表示日は対象定例会の初日。",
+      "speakers": []
+    },
+    {
+      "id": "29627c1027f8fa0ae7cd",
+      "place": "川口市",
+      "season": "spring",
+      "date": "2026-02-24",
+      "title": "令和8年３月定例会 補正予算議案",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "summary",
+      "url": "https://www.city.kawaguchi.lg.jp/material/files/group/9/202603yosangian.pdf",
+      "note": "市・市議会の公式PDFをOCRで転記。表示日は対象定例会の初日。 原画像との照合候補頁 3。 原本の空白頁 2、4、15、134、136、140、150、154、162、166、176、192、196、204、208、216、220、228、234、250、252、255を確認し、元のPDF頁番号の位置に表示。",
       "speakers": []
     },
     {
@@ -28674,6 +28722,18 @@ GIKAI.questionText = {
       "scope": "summary",
       "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=69",
       "note": "公式会議録の年別目録に載る提出原文。表示日は原文の提出日。",
+      "speakers": []
+    },
+    {
+      "id": "56acf7f5b94ee711829e",
+      "place": "川口市",
+      "season": "spring",
+      "date": "2026-03-12",
+      "title": "令和8年３月定例会 一般議案(議案第68号・議案第69号)",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "summary",
+      "url": "https://www.city.kawaguchi.lg.jp/material/files/group/10/0803_R8ippanngian_tuika.pdf",
+      "note": "市・市議会の公式PDFをOCRで転記。表示日は対応する追加議案の提出日。",
       "speakers": []
     },
     {
@@ -29691,6 +29751,54 @@ GIKAI.questionText = {
       "speakers": []
     },
     {
+      "id": "76b4fb69923d8ff4f6a8",
+      "place": "川口市",
+      "season": "summer",
+      "date": "2026-06-05",
+      "title": "令和8年６月定例会 一般議案",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "summary",
+      "url": "https://www.city.kawaguchi.lg.jp/material/files/group/10/0806ippangian.pdf",
+      "note": "市・市議会の公式PDFをOCRで転記。表示日は対象定例会の初日。",
+      "speakers": []
+    },
+    {
+      "id": "fbded295efc4a47121eb",
+      "place": "川口市",
+      "season": "summer",
+      "date": "2026-06-05",
+      "title": "令和8年６月定例会 予算議案",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "summary",
+      "url": "https://www.city.kawaguchi.lg.jp/material/files/group/9/202606yosangian.pdf",
+      "note": "市・市議会の公式PDFをOCRで転記。表示日は対象定例会の初日。 原本の空白頁 2、4、22、26、34、38を確認し、元のPDF頁番号の位置に表示。",
+      "speakers": []
+    },
+    {
+      "id": "5beb5353f9c3f67186ad",
+      "place": "川口市",
+      "season": "summer",
+      "date": "2026-06-05",
+      "title": "令和8年６月定例会 報告事項",
+      "kind": "議案審査の参考資料（公式PDF・OCR）",
+      "scope": "summary",
+      "url": "https://www.city.kawaguchi.lg.jp/material/files/group/10/0806houkoku.pdf",
+      "note": "市・市議会の公式PDFをOCRで転記。表示日は対象定例会の初日。 原本の空白頁 10、16、20、24、30、34を確認し、元のPDF頁番号の位置に表示。",
+      "speakers": []
+    },
+    {
+      "id": "5c6d3d31240bd8b3956b",
+      "place": "川口市",
+      "season": "summer",
+      "date": "2026-06-05",
+      "title": "令和8年６月定例会 条例議案参考資料",
+      "kind": "議案審査の参考資料（公式PDF・OCR）",
+      "scope": "summary",
+      "url": "https://www.city.kawaguchi.lg.jp/material/files/group/10/0806sinkyu.pdf",
+      "note": "市・市議会の公式PDFをOCRで転記。表示日は対象定例会の初日。",
+      "speakers": []
+    },
+    {
       "id": "20f494d8cf91e699972e",
       "place": "川口市",
       "season": "summer",
@@ -29975,6 +30083,18 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "2da76cb8e9101e96835b",
+      "place": "川口市",
+      "season": "summer",
+      "date": "2026-06-30",
+      "title": "令和8年６月定例会 予算議案（追加議案：６月３０日提出）",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "summary",
+      "url": "https://www.city.kawaguchi.lg.jp/material/files/group/9/202606tuikayosangian.pdf",
+      "note": "市・市議会の公式PDFをOCRで転記。表示日は対応する追加議案の提出日。 原本の空白頁 2、4、8を確認し、元のPDF頁番号の位置に表示。",
+      "speakers": []
+    },
+    {
       "id": "75bd09f9093f78228222",
       "place": "川口市",
       "season": "fall",
@@ -29993,6 +30113,42 @@ GIKAI.questionText = {
         "若谷正巳",
         "関裕通"
       ]
+    },
+    {
+      "id": "583b6084fb99be1f2f0c",
+      "place": "川口市",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "令和8年９月定例会 一般議案",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "summary",
+      "url": "https://www.city.kawaguchi.lg.jp/material/files/group/10/0809ippangian0916.pdf",
+      "note": "市・市議会の公式PDFをOCRで転記。表示日は対象定例会の初日。",
+      "speakers": []
+    },
+    {
+      "id": "e9db440c76ade9af26e2",
+      "place": "川口市",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "令和8年９月定例会 予算議案",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "summary",
+      "url": "https://www.city.kawaguchi.lg.jp/material/files/group/9/202609yosangian.pdf",
+      "note": "市・市議会の公式PDFをOCRで転記。表示日は対象定例会の初日。 原本の空白頁 2、4、24、28、36、40を確認し、元のPDF頁番号の位置に表示。",
+      "speakers": []
+    },
+    {
+      "id": "a204d5057f2860496a6e",
+      "place": "川口市",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "令和8年９月定例会 報告事項",
+      "kind": "議案審査の参考資料（公式PDF・OCR）",
+      "scope": "summary",
+      "url": "https://www.city.kawaguchi.lg.jp/material/files/group/10/0809houkoku.pdf",
+      "note": "市・市議会の公式PDFをOCRで転記。表示日は対象定例会の初日。 原画像との照合候補頁 6。 原本の空白頁 4、8、12を確認し、元のPDF頁番号の位置に表示。 PDF６頁の表の「年割額」「地方債」「教育費」「社会教育費」「計」を原画像で照合し、OCRの５字を補正。",
+      "speakers": []
     },
     {
       "id": "f6fa7eebb44ffaeaeaf3",
@@ -30102,6 +30258,18 @@ GIKAI.questionText = {
         "碇康雄",
         "荻野梓"
       ]
+    },
+    {
+      "id": "f939cc347b4ab0715e41",
+      "place": "川口市",
+      "season": "fall",
+      "date": "2026-09-16",
+      "title": "令和8年９月定例会 予算議案（追加議案：9月16日提出）",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "summary",
+      "url": "https://www.city.kawaguchi.lg.jp/material/files/group/9/202609tuikayosangian.pdf",
+      "note": "市・市議会の公式PDFをOCRで転記。表示日は対応する追加議案の提出日。 原本の空白頁 2、4、8を確認し、元のPDF頁番号の位置に表示。",
+      "speakers": []
     },
     {
       "id": "a95e3dcbf6847044f1e4",
