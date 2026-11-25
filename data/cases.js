@@ -21929,3 +21929,127 @@ GIKAI.cases.push({
   ],
   "note": "議員の質疑は和光市の全員協議会記録、他の３市の段階は市の議会だよりと事業資料で確認した。各市議会の規約変更議決、事業者選定、建設着工は確認中。"
 });
+
+GIKAI.cases.push({
+  "place": "三芳町",
+  "title": "藤久保地域拠点施設の整備、工事の確認から金利上昇による契約変更まで",
+  "topic": "公共施設整備・PFI契約",
+  "actors": [
+    "増田磨美",
+    "三芳町",
+    "三芳町長",
+    "三芳町議会"
+  ],
+  "steps": [
+    {
+      "date": "2023-06-20",
+      "stage": "町議会の議決を経て事業契約が成立",
+      "actor": "三芳町、三芳町議会",
+      "detail": "町は５月12日に仮契約を締結し、６月20日の議決を経て本契約が成立したと公表。",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/town/keikaku/2018-0226-0932-13.html",
+      "sourceTitle": "三芳町 藤久保地域拠点整備等事業"
+    },
+    {
+      "date": "2026-03-02",
+      "stage": "工事の進捗と学校生活への影響を質問",
+      "actor": "増田磨美、三芳町",
+      "detail": "増田議員は工事の進み具合を聞き、第２期工事中に藤久保小の児童が代替地へ移動する経路・安全と授業時間への影響を確認した。町は構造・鉄骨工事の進捗と移動経路の検討状況を答えた。",
+      "url": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=675&schedule_id=5",
+      "archiveId": "fc86d7b26a46e08991b4",
+      "blocks": [
+        575,
+        577,
+        579,
+        581,
+        583,
+        585
+      ],
+      "sourceTitle": "三芳町議会 ３月２日本会議録・一般質問261～262頁",
+      "memberActions": [
+        {
+          "name": "増田磨美",
+          "blocks": [
+            575,
+            579,
+            583
+          ],
+          "detail": "工事の進捗を確認し、解体工事中に児童が使う移動経路の安全と授業時間の確保を質問した。"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-01",
+      "stage": "割賦手数料増に備える補正予算案を説明",
+      "actor": "三芳町",
+      "detail": "町は一般会計補正予算案で、金利上昇等による割賦手数料増に備えて藤久保拠点事業の債務負担行為２億3,256万9,000円を設定する案を示した。",
+      "url": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=682&schedule_id=2",
+      "archiveId": "ebc50138299a26deed57",
+      "blocks": [
+        93
+      ],
+      "sourceTitle": "三芳町議会 ６月１日本会議録・議案第32号説明"
+    },
+    {
+      "date": "2026-06-05",
+      "stage": "金利の確定日と変更契約までの手続を質問",
+      "actor": "増田磨美、三芳町",
+      "detail": "増田議員は引渡し日、金利確定日と増額の見通しを確認した。町は第１期引渡予定日を６月30日、２営業日前の26日を金利確定日とし、割賦手数料算定後に協議して変更する予定と答えた。６月段階の債務負担額は上限で、確定額ではなかった。",
+      "url": "https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteView.html?tenant_id=38&council_id=682&schedule_id=5",
+      "archiveId": "5c15bea69bd180852058",
+      "blocks": [
+        450,
+        452,
+        454,
+        456,
+        458,
+        460,
+        462,
+        464
+      ],
+      "sourceTitle": "三芳町議会 ６月５日本会議録・一般質問218頁",
+      "memberActions": [
+        {
+          "name": "増田磨美",
+          "blocks": [
+            450,
+            454,
+            458,
+            462
+          ],
+          "detail": "予定引渡日、金利の確定日、金利確定後に増額が変わり得るかを質問した。"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-27",
+      "stage": "金利上昇を反映した変更契約議案を提出",
+      "actor": "三芳町長",
+      "detail": "割賦手数料等に対応する契約額を116億939万3,827円から117億2,534万830円に変える案。議案の増額は税込１億1,594万7,003円。",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-10_gian41_fuzikubokyotenkeiyakuhenkou_R8-4_e.pdf#page=1",
+      "archiveId": "088aee982fa78a6b3106",
+      "blocks": [
+        1,
+        3
+      ],
+      "sourceTitle": "三芳町 議案第41号の原案・変更事業概要 PDF１・３頁"
+    },
+    {
+      "date": "2026-09-01",
+      "stage": "複合公共施設ルミナみよしの供用を開始",
+      "actor": "三芳町",
+      "detail": "町が供用開始と開館記念式典を公表した。",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/town/chouchou/nikki/chouchounikki2026-9.html",
+      "sourceTitle": "三芳町 町長フォトニュース９月"
+    },
+    {
+      "date": "2026-09-18",
+      "stage": "事業変更契約案を原案可決",
+      "actor": "三芳町議会",
+      "detail": "藤久保地域拠点施設整備等事業の契約額の変更を可決した。６月に示された債務負担行為の上限と、今回の契約増額はそれぞれの原典の段階を示す。",
+      "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_202.pdf#page=11",
+      "sourceTitle": "三芳町議会だより 第202号・議決結果",
+      "billNumber": "議案第41号"
+    }
+  ],
+  "note": "町が示した工事の進み具合、議員による安全と割賦手数料の確認、施設供用と契約変更の議決を、日付ごとの資料で追える。"
+});
