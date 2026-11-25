@@ -307,7 +307,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "partial",
-          "note": "公式録画一覧の代表・一般質問21人のうち、2人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
+          "note": "公式録画一覧で代表・一般質問21人を確認。正式会議録は確認中。 公式録画の機械文字起こし代表質問7本・一般質問5本を収録。"
         },
         "decisions": {
           "state": "verified",
@@ -3559,7 +3559,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "partial",
-          "note": "議会だより第234号の一般質問22人27問答と、４常任委員会・４分科会の25問答を収録。"
+          "note": "議会だよりの一般質問22人27問答、常任委員会と予算決算分科会の25問答を収録。一般質問４日・22人の公式録画と照合。正式会議録は確認中。 公式録画の機械文字起こし一般質問3本を収録。"
         },
         "decisions": {
           "state": "verified",
@@ -3919,7 +3919,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "note": "議会だより第236号の一般質問22人・37主題と４常任委員会13組を収録。原音照合と正式会議録は確認中。 公式録画の機械文字起こし一般質問4本を収録。"
         },
         "decisions": {
           "state": "verified",
@@ -6171,7 +6171,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "partial",
-          "note": "第182号の一般質問10人・53問答、総括質疑12組、常任委員会等19組を原紙面と照合。公式録画は９月15日４人、16日３人、17日３人と13大項目。うち新井議員の市民相談体制は録画目録で見出しを確認。 正式会議録は確認中。"
+          "note": "第182号の一般質問10人・53問答、総括質疑12組、常任委員会等19組を原紙面と照合。公式録画は９月15日４人、16日３人、17日３人と13大項目。うち新井議員の市民相談体制は録画目録で見出しを確認。 正式会議録は確認中。 公式録画の機械文字起こし一般質問1本を収録。"
         },
         "decisions": {
           "state": "verified",
@@ -8987,11 +8987,11 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "partial",
-          "note": "議会だより第83号全冊と一般質問通告。紙面には９人の質問と答弁の要約を掲載。2026年11月26日確認時点で、公式会議録の年別目録に秋の掲載なし。 公式録画は一般質問９本と議事４本。機械文字起こしは一般質問9本・議事3本を収録。"
+          "note": "議会だより第83号全冊と一般質問通告。紙面には９人の質問と答弁の要約を掲載。2026年11月26日確認時点で、公式会議録の年別目録に秋の掲載なし。 公式録画は一般質問９本と議事４本。機械文字起こしは一般質問9本・議事4本を収録。"
         },
         "decisions": {
-          "state": "partial",
-          "note": "公式紙面の審議結果25件。庁舎統合検討特別委員会の設置と委員選任は９月２日、報告第３・４号は９月３日の公式録画に対応。原表に案件別の日付欄なし。"
+          "state": "verified",
+          "note": "公式紙面の審議結果25件と公式録画の会議日を照合。委員会設置・選任９月２日、２報告９月３日、閉会日の21件は９月11日。"
         },
         "votes": {
           "state": "verified",
@@ -9046,6 +9046,10 @@ GIKAI.coverage2026 = {
         {
           "label": "９月３日の公式録画・報告等",
           "url": "https://smart.discussvision.net/smart/tenant/tokigawa/WebView/rd/speech.html?council_id=49&schedule_id=3&playlist_id=1&speaker_id=0&target_year=2026"
+        },
+        {
+          "label": "９月11日の公式録画・採決と閉会",
+          "url": "https://smart.discussvision.net/smart/tenant/tokigawa/WebView/rd/speech.html?council_id=49&schedule_id=7&playlist_id=1&speaker_id=0&target_year=2026"
         }
       ]
     },
@@ -140217,12 +140221,12 @@ GIKAI.coverage2026 = {
       "season": "fall",
       "session": "令和8年第3回定例会",
       "number": "認定第1号",
-      "date": "",
+      "date": "2026-09-11",
       "title": "令和7年度一般会計歳入歳出決算認定",
       "result": "認定",
       "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "url": "https://smart.discussvision.net/smart/tenant/tokigawa/WebView/rd/speech.html?council_id=49&schedule_id=7&playlist_id=1&speaker_id=0&target_year=2026",
+      "sourceTitle": "ときがわ町議会・９月11日の公式録画",
       "proposer": "町長",
       "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
       "voteType": "記名",
@@ -140239,19 +140243,19 @@ GIKAI.coverage2026 = {
         "野原和夫": "賛成",
         "小宮正": "議長（表決不参加）"
       },
-      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+      "voteNote": "９月11日の公式録画（採決結果の機械転記 00:07:02前後）と紙面を照合。賛否は紙面の記名表記。"
     },
     {
       "place": "ときがわ町",
       "season": "fall",
       "session": "令和8年第3回定例会",
       "number": "認定第2号",
-      "date": "",
+      "date": "2026-09-11",
       "title": "令和7年度国民健康保険特別会計歳入歳出決算認定",
       "result": "認定",
       "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "url": "https://smart.discussvision.net/smart/tenant/tokigawa/WebView/rd/speech.html?council_id=49&schedule_id=7&playlist_id=1&speaker_id=0&target_year=2026",
+      "sourceTitle": "ときがわ町議会・９月11日の公式録画",
       "proposer": "町長",
       "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
       "voteType": "記名",
@@ -140268,19 +140272,19 @@ GIKAI.coverage2026 = {
         "野原和夫": "賛成",
         "小宮正": "議長（表決不参加）"
       },
-      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+      "voteNote": "９月11日の公式録画（採決結果の機械転記 00:08:24前後）と紙面を照合。賛否は紙面の記名表記。"
     },
     {
       "place": "ときがわ町",
       "season": "fall",
       "session": "令和8年第3回定例会",
       "number": "認定第3号",
-      "date": "",
+      "date": "2026-09-11",
       "title": "令和7年度後期高齢者医療特別会計歳入歳出決算認定",
       "result": "認定",
       "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "url": "https://smart.discussvision.net/smart/tenant/tokigawa/WebView/rd/speech.html?council_id=49&schedule_id=7&playlist_id=1&speaker_id=0&target_year=2026",
+      "sourceTitle": "ときがわ町議会・９月11日の公式録画",
       "proposer": "町長",
       "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
       "voteType": "記名",
@@ -140297,19 +140301,19 @@ GIKAI.coverage2026 = {
         "野原和夫": "賛成",
         "小宮正": "議長（表決不参加）"
       },
-      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+      "voteNote": "９月11日の公式録画（採決結果の機械転記 00:09:45前後）と紙面を照合。賛否は紙面の記名表記。"
     },
     {
       "place": "ときがわ町",
       "season": "fall",
       "session": "令和8年第3回定例会",
       "number": "認定第4号",
-      "date": "",
+      "date": "2026-09-11",
       "title": "令和7年度介護保険特別会計歳入歳出決算認定",
       "result": "認定",
       "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "url": "https://smart.discussvision.net/smart/tenant/tokigawa/WebView/rd/speech.html?council_id=49&schedule_id=7&playlist_id=1&speaker_id=0&target_year=2026",
+      "sourceTitle": "ときがわ町議会・９月11日の公式録画",
       "proposer": "町長",
       "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
       "voteType": "記名",
@@ -140326,19 +140330,19 @@ GIKAI.coverage2026 = {
         "野原和夫": "賛成",
         "小宮正": "議長（表決不参加）"
       },
-      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+      "voteNote": "９月11日の公式録画（採決結果の機械転記 00:10:59前後）と紙面を照合。賛否は紙面の記名表記。"
     },
     {
       "place": "ときがわ町",
       "season": "fall",
       "session": "令和8年第3回定例会",
       "number": "認定第5号",
-      "date": "",
+      "date": "2026-09-11",
       "title": "令和7年度関口茂八翁奨学事業特別会計歳入歳出決算認定",
       "result": "認定",
       "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "url": "https://smart.discussvision.net/smart/tenant/tokigawa/WebView/rd/speech.html?council_id=49&schedule_id=7&playlist_id=1&speaker_id=0&target_year=2026",
+      "sourceTitle": "ときがわ町議会・９月11日の公式録画",
       "proposer": "町長",
       "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
       "voteType": "記名",
@@ -140355,19 +140359,19 @@ GIKAI.coverage2026 = {
         "野原和夫": "賛成",
         "小宮正": "議長（表決不参加）"
       },
-      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+      "voteNote": "９月11日の公式録画（採決結果の機械転記 00:12:17前後）と紙面を照合。賛否は紙面の記名表記。"
     },
     {
       "place": "ときがわ町",
       "season": "fall",
       "session": "令和8年第3回定例会",
       "number": "議案第38号",
-      "date": "",
+      "date": "2026-09-11",
       "title": "令和7年度水道事業会計決算認定及び剰余金処分",
       "result": "可決",
       "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "url": "https://smart.discussvision.net/smart/tenant/tokigawa/WebView/rd/speech.html?council_id=49&schedule_id=7&playlist_id=1&speaker_id=0&target_year=2026",
+      "sourceTitle": "ときがわ町議会・９月11日の公式録画",
       "proposer": "町長",
       "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
       "voteType": "記名",
@@ -140384,19 +140388,19 @@ GIKAI.coverage2026 = {
         "野原和夫": "賛成",
         "小宮正": "議長（表決不参加）"
       },
-      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+      "voteNote": "９月11日の公式録画（採決結果の機械転記 00:13:42前後）と紙面を照合。賛否は紙面の記名表記。 決算認定と剰余金処分の案件で、公式紙面の結果欄は「可決」。"
     },
     {
       "place": "ときがわ町",
       "season": "fall",
       "session": "令和8年第3回定例会",
       "number": "議案第39号",
-      "date": "",
+      "date": "2026-09-11",
       "title": "令和7年度浄化槽事業会計決算認定及び剰余金処分",
       "result": "可決",
       "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "url": "https://smart.discussvision.net/smart/tenant/tokigawa/WebView/rd/speech.html?council_id=49&schedule_id=7&playlist_id=1&speaker_id=0&target_year=2026",
+      "sourceTitle": "ときがわ町議会・９月11日の公式録画",
       "proposer": "町長",
       "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
       "voteType": "記名",
@@ -140413,19 +140417,19 @@ GIKAI.coverage2026 = {
         "野原和夫": "賛成",
         "小宮正": "議長（表決不参加）"
       },
-      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+      "voteNote": "９月11日の公式録画（採決結果の機械転記 00:15:03前後）と紙面を照合。賛否は紙面の記名表記。 決算認定と剰余金処分の案件で、公式紙面の結果欄は「可決」。"
     },
     {
       "place": "ときがわ町",
       "season": "fall",
       "session": "令和8年第3回定例会",
       "number": "議案第40号",
-      "date": "",
+      "date": "2026-09-11",
       "title": "行政手続条例の一部改正",
       "result": "可決",
       "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "url": "https://smart.discussvision.net/smart/tenant/tokigawa/WebView/rd/speech.html?council_id=49&schedule_id=7&playlist_id=1&speaker_id=0&target_year=2026",
+      "sourceTitle": "ときがわ町議会・９月11日の公式録画",
       "proposer": "町長",
       "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
       "voteType": "記名",
@@ -140442,19 +140446,19 @@ GIKAI.coverage2026 = {
         "野原和夫": "賛成",
         "小宮正": "議長（表決不参加）"
       },
-      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+      "voteNote": "９月11日の公式録画（採決結果の機械転記 00:20:38前後）と紙面を照合。賛否は紙面の記名表記。 機械転記の議案番号の揺れは、件名と審議の順序を用いて照合。"
     },
     {
       "place": "ときがわ町",
       "season": "fall",
       "session": "令和8年第3回定例会",
       "number": "議案第41号",
-      "date": "",
+      "date": "2026-09-11",
       "title": "町営バス条例の一部改正",
       "result": "可決",
       "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "url": "https://smart.discussvision.net/smart/tenant/tokigawa/WebView/rd/speech.html?council_id=49&schedule_id=7&playlist_id=1&speaker_id=0&target_year=2026",
+      "sourceTitle": "ときがわ町議会・９月11日の公式録画",
       "proposer": "町長",
       "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
       "voteType": "記名",
@@ -140471,19 +140475,19 @@ GIKAI.coverage2026 = {
         "野原和夫": "賛成",
         "小宮正": "議長（表決不参加）"
       },
-      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+      "voteNote": "９月11日の公式録画（採決結果の機械転記 00:28:57前後）と紙面を照合。賛否は紙面の記名表記。"
     },
     {
       "place": "ときがわ町",
       "season": "fall",
       "session": "令和8年第3回定例会",
       "number": "議案第42号",
-      "date": "",
+      "date": "2026-09-11",
       "title": "技能労務職員の給与の種類及び基準に関する条例の廃止",
       "result": "可決",
       "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "url": "https://smart.discussvision.net/smart/tenant/tokigawa/WebView/rd/speech.html?council_id=49&schedule_id=7&playlist_id=1&speaker_id=0&target_year=2026",
+      "sourceTitle": "ときがわ町議会・９月11日の公式録画",
       "proposer": "町長",
       "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
       "voteType": "記名",
@@ -140500,19 +140504,19 @@ GIKAI.coverage2026 = {
         "野原和夫": "賛成",
         "小宮正": "議長（表決不参加）"
       },
-      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+      "voteNote": "９月11日の公式録画（採決結果の機械転記 00:35:18前後）と紙面を照合。賛否は紙面の記名表記。"
     },
     {
       "place": "ときがわ町",
       "season": "fall",
       "session": "令和8年第3回定例会",
       "number": "議案第43号",
-      "date": "",
+      "date": "2026-09-11",
       "title": "玉川トレーニングセンター条例の廃止",
       "result": "可決",
       "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "url": "https://smart.discussvision.net/smart/tenant/tokigawa/WebView/rd/speech.html?council_id=49&schedule_id=7&playlist_id=1&speaker_id=0&target_year=2026",
+      "sourceTitle": "ときがわ町議会・９月11日の公式録画",
       "proposer": "町長",
       "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
       "voteType": "記名",
@@ -140529,19 +140533,19 @@ GIKAI.coverage2026 = {
         "野原和夫": "賛成",
         "小宮正": "議長（表決不参加）"
       },
-      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+      "voteNote": "９月11日の公式録画（採決結果の機械転記 00:49:30前後）と紙面を照合。賛否は紙面の記名表記。"
     },
     {
       "place": "ときがわ町",
       "season": "fall",
       "session": "令和8年第3回定例会",
       "number": "議案第44号",
-      "date": "",
+      "date": "2026-09-11",
       "title": "損害賠償の額を定めること",
       "result": "可決",
       "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "url": "https://smart.discussvision.net/smart/tenant/tokigawa/WebView/rd/speech.html?council_id=49&schedule_id=7&playlist_id=1&speaker_id=0&target_year=2026",
+      "sourceTitle": "ときがわ町議会・９月11日の公式録画",
       "proposer": "町長",
       "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
       "voteType": "記名",
@@ -140558,19 +140562,19 @@ GIKAI.coverage2026 = {
         "野原和夫": "賛成",
         "小宮正": "議長（表決不参加）"
       },
-      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+      "voteNote": "９月11日の公式録画（採決結果の機械転記 00:56:25前後）と紙面を照合。賛否は紙面の記名表記。"
     },
     {
       "place": "ときがわ町",
       "season": "fall",
       "session": "令和8年第3回定例会",
       "number": "議案第45号",
-      "date": "",
+      "date": "2026-09-11",
       "title": "町道路線の廃止",
       "result": "可決",
       "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "url": "https://smart.discussvision.net/smart/tenant/tokigawa/WebView/rd/speech.html?council_id=49&schedule_id=7&playlist_id=1&speaker_id=0&target_year=2026",
+      "sourceTitle": "ときがわ町議会・９月11日の公式録画",
       "proposer": "町長",
       "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
       "voteType": "記名",
@@ -140587,19 +140591,19 @@ GIKAI.coverage2026 = {
         "野原和夫": "賛成",
         "小宮正": "議長（表決不参加）"
       },
-      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+      "voteNote": "９月11日の公式録画（採決結果の機械転記 01:01:27前後）と紙面を照合。賛否は紙面の記名表記。"
     },
     {
       "place": "ときがわ町",
       "season": "fall",
       "session": "令和8年第3回定例会",
       "number": "議案第46号",
-      "date": "",
+      "date": "2026-09-11",
       "title": "町道路線の変更",
       "result": "可決",
       "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "url": "https://smart.discussvision.net/smart/tenant/tokigawa/WebView/rd/speech.html?council_id=49&schedule_id=7&playlist_id=1&speaker_id=0&target_year=2026",
+      "sourceTitle": "ときがわ町議会・９月11日の公式録画",
       "proposer": "町長",
       "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
       "voteType": "記名",
@@ -140616,19 +140620,19 @@ GIKAI.coverage2026 = {
         "野原和夫": "賛成",
         "小宮正": "議長（表決不参加）"
       },
-      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+      "voteNote": "９月11日の公式録画（採決結果の機械転記 01:05:58前後）と紙面を照合。賛否は紙面の記名表記。"
     },
     {
       "place": "ときがわ町",
       "season": "fall",
       "session": "令和8年第3回定例会",
       "number": "議案第47号",
-      "date": "",
+      "date": "2026-09-11",
       "title": "令和8年度一般会計補正予算(第2号)",
       "result": "可決",
       "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "url": "https://smart.discussvision.net/smart/tenant/tokigawa/WebView/rd/speech.html?council_id=49&schedule_id=7&playlist_id=1&speaker_id=0&target_year=2026",
+      "sourceTitle": "ときがわ町議会・９月11日の公式録画",
       "proposer": "町長",
       "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
       "voteType": "記名",
@@ -140645,19 +140649,19 @@ GIKAI.coverage2026 = {
         "野原和夫": "賛成",
         "小宮正": "議長（表決不参加）"
       },
-      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+      "voteNote": "９月11日の公式録画（採決結果の機械転記 01:46:08前後）と紙面を照合。賛否は紙面の記名表記。"
     },
     {
       "place": "ときがわ町",
       "season": "fall",
       "session": "令和8年第3回定例会",
       "number": "議案第48号",
-      "date": "",
+      "date": "2026-09-11",
       "title": "令和8年度国民健康保険特別会計補正予算(第1号)",
       "result": "可決",
       "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "url": "https://smart.discussvision.net/smart/tenant/tokigawa/WebView/rd/speech.html?council_id=49&schedule_id=7&playlist_id=1&speaker_id=0&target_year=2026",
+      "sourceTitle": "ときがわ町議会・９月11日の公式録画",
       "proposer": "町長",
       "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
       "voteType": "記名",
@@ -140674,19 +140678,19 @@ GIKAI.coverage2026 = {
         "野原和夫": "賛成",
         "小宮正": "議長（表決不参加）"
       },
-      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+      "voteNote": "９月11日の公式録画（採決結果の機械転記 01:51:44前後）と紙面を照合。賛否は紙面の記名表記。"
     },
     {
       "place": "ときがわ町",
       "season": "fall",
       "session": "令和8年第3回定例会",
       "number": "議案第49号",
-      "date": "",
+      "date": "2026-09-11",
       "title": "令和8年度後期高齢者医療特別会計補正予算(第1号)",
       "result": "可決",
       "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "url": "https://smart.discussvision.net/smart/tenant/tokigawa/WebView/rd/speech.html?council_id=49&schedule_id=7&playlist_id=1&speaker_id=0&target_year=2026",
+      "sourceTitle": "ときがわ町議会・９月11日の公式録画",
       "proposer": "町長",
       "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
       "voteType": "記名",
@@ -140703,19 +140707,19 @@ GIKAI.coverage2026 = {
         "野原和夫": "賛成",
         "小宮正": "議長（表決不参加）"
       },
-      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+      "voteNote": "９月11日の公式録画（採決結果の機械転記 01:55:14前後）と紙面を照合。賛否は紙面の記名表記。"
     },
     {
       "place": "ときがわ町",
       "season": "fall",
       "session": "令和8年第3回定例会",
       "number": "議案第50号",
-      "date": "",
+      "date": "2026-09-11",
       "title": "令和8年度介護保険特別会計補正予算(第1号)",
       "result": "可決",
       "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "url": "https://smart.discussvision.net/smart/tenant/tokigawa/WebView/rd/speech.html?council_id=49&schedule_id=7&playlist_id=1&speaker_id=0&target_year=2026",
+      "sourceTitle": "ときがわ町議会・９月11日の公式録画",
       "proposer": "町長",
       "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
       "voteType": "記名",
@@ -140732,19 +140736,19 @@ GIKAI.coverage2026 = {
         "野原和夫": "賛成",
         "小宮正": "議長（表決不参加）"
       },
-      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+      "voteNote": "９月11日の公式録画（採決結果の機械転記 02:03:15前後）と紙面を照合。賛否は紙面の記名表記。 機械転記の議案番号の揺れは、件名と審議の順序を用いて照合。"
     },
     {
       "place": "ときがわ町",
       "season": "fall",
       "session": "令和8年第3回定例会",
       "number": "議案第51号",
-      "date": "",
+      "date": "2026-09-11",
       "title": "令和8年度関口茂八翁奨学事業特別会計補正予算(第1号)",
       "result": "可決",
       "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "url": "https://smart.discussvision.net/smart/tenant/tokigawa/WebView/rd/speech.html?council_id=49&schedule_id=7&playlist_id=1&speaker_id=0&target_year=2026",
+      "sourceTitle": "ときがわ町議会・９月11日の公式録画",
       "proposer": "町長",
       "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
       "voteType": "記名",
@@ -140761,19 +140765,19 @@ GIKAI.coverage2026 = {
         "野原和夫": "賛成",
         "小宮正": "議長（表決不参加）"
       },
-      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+      "voteNote": "９月11日の公式録画（採決結果の機械転記 02:07:28前後）と紙面を照合。賛否は紙面の記名表記。"
     },
     {
       "place": "ときがわ町",
       "season": "fall",
       "session": "令和8年第3回定例会",
       "number": "議案第52号",
-      "date": "",
+      "date": "2026-09-11",
       "title": "令和8年度水道事業会計補正予算(第1号)",
       "result": "可決",
       "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "url": "https://smart.discussvision.net/smart/tenant/tokigawa/WebView/rd/speech.html?council_id=49&schedule_id=7&playlist_id=1&speaker_id=0&target_year=2026",
+      "sourceTitle": "ときがわ町議会・９月11日の公式録画",
       "proposer": "町長",
       "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
       "voteType": "記名",
@@ -140790,19 +140794,19 @@ GIKAI.coverage2026 = {
         "野原和夫": "賛成",
         "小宮正": "議長（表決不参加）"
       },
-      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+      "voteNote": "９月11日の公式録画（採決結果の機械転記 02:16:42前後）と紙面を照合。賛否は紙面の記名表記。"
     },
     {
       "place": "ときがわ町",
       "season": "fall",
       "session": "令和8年第3回定例会",
       "number": "議案第53号",
-      "date": "",
+      "date": "2026-09-11",
       "title": "令和8年度浄化槽事業会計補正予算(第1号)",
       "result": "可決",
       "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "url": "https://smart.discussvision.net/smart/tenant/tokigawa/WebView/rd/speech.html?council_id=49&schedule_id=7&playlist_id=1&speaker_id=0&target_year=2026",
+      "sourceTitle": "ときがわ町議会・９月11日の公式録画",
       "proposer": "町長",
       "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
       "voteType": "記名",
@@ -140819,7 +140823,7 @@ GIKAI.coverage2026 = {
         "野原和夫": "賛成",
         "小宮正": "議長（表決不参加）"
       },
-      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+      "voteNote": "９月11日の公式録画（採決結果の機械転記 02:21:18前後）と紙面を照合。賛否は紙面の記名表記。"
     },
     {
       "place": "上里町",

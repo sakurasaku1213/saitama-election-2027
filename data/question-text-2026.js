@@ -1697,6 +1697,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "e78c46d176dc2b0b5107",
+      "place": "さいたま市",
+      "season": "fall",
+      "date": "2026-09-08",
+      "title": "堤日出喜議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://saitama-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=2470",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "堤日出喜"
+      ]
+    },
+    {
       "id": "686efe10579e80529c2f",
       "place": "さいたま市",
       "season": "fall",
@@ -2138,6 +2152,18 @@ GIKAI.questionText = {
       "kind": "公式録画の機械文字起こし",
       "scope": "recording",
       "url": "https://smart.discussvision.net/smart/tenant/tokigawa/WebView/rd/speech.html?council_id=49&schedule_id=3&playlist_id=1&speaker_id=0&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 通しの本会議録画。",
+      "speakers": []
+    },
+    {
+      "id": "17cf7dd77503b247e2cf",
+      "place": "ときがわ町",
+      "season": "fall",
+      "date": "2026-09-11",
+      "title": "本会議　委員会審査報告、採決・閉会（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/tokigawa/WebView/rd/speech.html?council_id=49&schedule_id=7&playlist_id=1&speaker_id=0&target_year=2026",
       "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 通しの本会議録画。",
       "speakers": []
     },
@@ -12361,6 +12387,20 @@ GIKAI.questionText = {
         "新井文雄",
         "吉川厚季",
         "大山嘉代子"
+      ]
+    },
+    {
+      "id": "c672d84884ef0eb42e89",
+      "place": "坂戸市",
+      "season": "fall",
+      "date": "2026-09-15",
+      "title": "中島浩喜議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/sakado/WebView/rd/speech.html?council_id=69&schedule_id=3&playlist_id=1&speaker_id=33&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "中島浩喜"
       ]
     },
     {
@@ -32945,6 +32985,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "c544978a5bd2162d2dce",
+      "place": "戸田市",
+      "season": "fall",
+      "date": "2026-09-09",
+      "title": "細田昌孝議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/GD022/GD022_006?id=0000055804",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。 一覧表示2461秒。配信中の完結した低・高２画質のプレイリストはともに2447.469秒。公開配信範囲を保存した。",
+      "speakers": [
+        "細田昌孝"
+      ]
+    },
+    {
       "id": "ab9387289ec18d0d6298",
       "place": "所沢市",
       "season": "spring",
@@ -45995,6 +46049,20 @@ GIKAI.questionText = {
       "note": "議会だよりに掲載の４常任委員会・４分科会の16議題25問答を収録。紙面で質問者・答弁者の個人名は記載されていません。"
     },
     {
+      "id": "a2437e7591f44be67575",
+      "place": "越谷市",
+      "season": "fall",
+      "date": "2026-09-07",
+      "title": "大田ちひろ議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://koshigaya.gijiroku.com/g07_Video_View.asp?SrchID=2465",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "大田ちひろ"
+      ]
+    },
+    {
       "id": "5fc8c019b2d36b7ef9db",
       "place": "越谷市",
       "season": "fall",
@@ -48250,7 +48318,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://saitama-city.stream.jfit.co.jp/?tpl=gikai_days_list&gikai_id=203",
-        "note": "公式録画一覧の代表・一般質問21人のうち、11人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
+        "note": "公式録画一覧で代表・一般質問21人を確認。正式会議録は確認中。 公式録画の機械文字起こし代表質問7本・一般質問5本を収録。"
       }
     },
     {
@@ -48733,7 +48801,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://www.city.koshigaya.saitama.jp/gikai/dayori/2026/234-6-7.html",
-        "note": "議会だよりの一般質問22人27問答、常任委員会と予算決算分科会の25問答を収録。一般質問４日・22人の公式録画と照合。正式会議録は確認中。 録画の機械文字起こし2/22件も収録。"
+        "note": "議会だよりの一般質問22人27問答、常任委員会と予算決算分科会の25問答を収録。一般質問４日・22人の公式録画と照合。正式会議録は確認中。 公式録画の機械文字起こし一般質問3本を収録。"
       }
     },
     {
@@ -48786,7 +48854,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "議会だより第236号の一般質問22人・37主題と４常任委員会13組を収録。公式録画の機械文字起こし１件も参考収録。原音照合と正式会議録は確認中。 公式録画の機械文字起こしを3件収録。",
+        "note": "議会だより第236号の一般質問22人・37主題と４常任委員会13組を収録。原音照合と正式会議録は確認中。 公式録画の機械文字起こし一般質問4本を収録。",
         "indexURL": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/GD032/GD032_002?id=0000055902&menu=000047"
       }
     },
@@ -49138,7 +49206,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/sakado/WebView/rd/council.html?year=2026&council_id=69",
-        "note": "第182号の一般質問10人・53問答、総括質疑12組、常任委員会等19組を原紙面と照合。公式録画は９月15日４人、16日３人、17日３人と13大項目。うち新井議員の市民相談体制は録画目録で見出しを確認。 正式会議録は確認中。"
+        "note": "第182号の一般質問10人・53問答、総括質疑12組、常任委員会等19組を原紙面と照合。公式録画は９月15日４人、16日３人、17日３人と13大項目。うち新井議員の市民相談体制は録画目録で見出しを確認。 正式会議録は確認中。 公式録画の機械文字起こし一般質問1本を収録。"
       }
     },
     {
@@ -49595,7 +49663,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "議会だより第83号全冊と一般質問通告。紙面には９人の質問と答弁の要約を掲載。2026年11月26日確認時点で、公式会議録の年別目録に秋の掲載なし。 公式録画は一般質問９本と議事４本。機械文字起こしは一般質問9本・議事3本を収録。",
+        "note": "議会だより第83号全冊と一般質問通告。紙面には９人の質問と答弁の要約を掲載。2026年11月26日確認時点で、公式会議録の年別目録に秋の掲載なし。 公式録画は一般質問９本と議事４本。機械文字起こしは一般質問9本・議事4本を収録。",
         "indexURL": "https://www.town.tokigawa.lg.jp/info/3405"
       }
     },
