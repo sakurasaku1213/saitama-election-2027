@@ -13974,7 +13974,7 @@ GIKAI.cases.push(...[
     "steps": [
       {
         "date": "2026-03-10",
-        "stage": "耐震強度を理由に西出張所の閉鎖を告知",
+        "stage": "2021年からの一時閉鎖を市の更新案内で確認",
         "actor": "富士見市",
         "detail": "市は2021年４月１日から一時閉鎖中と掲載し、コンビニ交付や市役所・ふじみ野出張所などの利用を案内。サンライトホールは同じ建物にある。",
         "url": "https://www.city.fujimi.saitama.jp/madoguchi_shisetsu/01shisetsu/desaki/2010-0511-0952-142/2010-0511-1426-142.html",
