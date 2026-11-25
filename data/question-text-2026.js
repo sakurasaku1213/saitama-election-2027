@@ -1725,6 +1725,18 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "c017611d0d63dda13422",
+      "place": "ときがわ町",
+      "season": "spring",
+      "date": "2026-02-27",
+      "title": "令和8年3月定例会のお知らせ・一般質問通告",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/orikomi_chirashi/r83oshirase.pdf",
+      "note": "町議会発行の会期案内・一般質問通告。表示日は発行日。通告には予定の質問と議案件名を掲載。",
+      "speakers": []
+    },
+    {
       "id": "3e75538fc23964a61c0a",
       "place": "ときがわ町",
       "season": "spring",
@@ -1747,6 +1759,18 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "96e09e5da402cb1eb7d2",
+      "place": "ときがわ町",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "令和8年予算審査特別委員会 目次",
+      "kind": "公式会議録の付録（HTML）",
+      "scope": "summary",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/htm/gijiroku/r08/03042000.htm",
+      "note": "公式会議録の掲載目次。表示日は対象会期・委員会の初日。",
+      "speakers": []
+    },
+    {
       "id": "f347e834c4295c95d9a9",
       "place": "ときがわ町",
       "season": "spring",
@@ -1757,6 +1781,18 @@ GIKAI.questionText = {
       "scope": "minutes",
       "speakers": [],
       "note": "町の会議録一覧で委員会・会議日を照合して、日別本文を収録しました。"
+    },
+    {
+      "id": "7ce931fe6e7369975000",
+      "place": "ときがわ町",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "令和8年第1回定例会 本会議目次",
+      "kind": "公式会議録の付録（HTML）",
+      "scope": "summary",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/htm/gijiroku/r08/03040000.htm",
+      "note": "公式会議録の掲載目次。表示日は対象会期・委員会の初日。",
+      "speakers": []
     },
     {
       "id": "8631a947869ae1ba5421",
@@ -1814,6 +1850,30 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "2165612d0fc46d0b6fcb",
+      "place": "ときがわ町",
+      "season": "spring",
+      "date": "2026-04-24",
+      "title": "ときがわ町議会だより第81号",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf",
+      "note": "町議会発行の全冊をOCR収録。表示日は紙面の発行日。審議結果と一般質問・答弁の要約を掲載。 前会期の臨時会記事も紙面に含まれます。",
+      "speakers": []
+    },
+    {
+      "id": "f9285809275b87c9d3f0",
+      "place": "ときがわ町",
+      "season": "summer",
+      "date": "2026-05-29",
+      "title": "令和8年6月定例会のお知らせ・一般質問通告",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/orikomi_chirashi/r86oshirase.pdf",
+      "note": "町議会発行の会期案内・一般質問通告。表示日は発行日。通告には予定の質問と議案件名を掲載。",
+      "speakers": []
+    },
+    {
       "id": "60972d731433b7c9b6b3",
       "place": "ときがわ町",
       "season": "summer",
@@ -1832,6 +1892,18 @@ GIKAI.questionText = {
         "野原和夫",
         "髙橋浩美"
       ]
+    },
+    {
+      "id": "f3536542f7c09f133c8b",
+      "place": "ときがわ町",
+      "season": "summer",
+      "date": "2026-06-02",
+      "title": "令和8年第2回定例会 本会議目次",
+      "kind": "公式会議録の付録（HTML）",
+      "scope": "summary",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/htm/gijiroku/r08/06020000.htm",
+      "note": "公式会議録の掲載目次。表示日は対象会期・委員会の初日。",
+      "speakers": []
     },
     {
       "id": "5e5051c87cfac01493f9",
@@ -1872,6 +1944,30 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "05e3cdccad064d7384ed",
+      "place": "ときがわ町",
+      "season": "summer",
+      "date": "2026-07-24",
+      "title": "ときがわ町議会だより第82号",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori82/tokigawagikai82.pdf",
+      "note": "町議会発行の全冊をOCR収録。表示日は紙面の発行日。審議結果と一般質問・答弁の要約を掲載。",
+      "speakers": []
+    },
+    {
+      "id": "0d3f5fe033a44a36d997",
+      "place": "ときがわ町",
+      "season": "fall",
+      "date": "2026-08-28",
+      "title": "令和8年9月定例会のお知らせ・一般質問通告",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/orikomi_chirashi/r89oshirase.pdf",
+      "note": "町議会発行の会期案内・一般質問通告。表示日は発行日。通告には予定の質問と議案件名を掲載。",
+      "speakers": []
+    },
+    {
       "id": "849cc89af95a5271f120",
       "place": "ときがわ町",
       "season": "fall",
@@ -1882,6 +1978,28 @@ GIKAI.questionText = {
       "scope": "summary",
       "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
       "speakers": []
+    },
+    {
+      "id": "64d5e081145639185c89",
+      "place": "ときがわ町",
+      "season": "fall",
+      "date": "2026-10-23",
+      "title": "ときがわ町議会だより第83号",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf",
+      "note": "町議会発行の全冊をOCR収録。表示日は紙面の発行日。審議結果と一般質問・答弁の要約を掲載。 秋の一般質問９人分。 原画像との照合候補頁 1。",
+      "speakers": [
+        "田中紀吉",
+        "神山由絵",
+        "笠井洋昭",
+        "髙橋浩美",
+        "野原和夫",
+        "小島利枝",
+        "畑豊",
+        "小室初江",
+        "神山俊"
+      ]
     },
     {
       "id": "387e47a7d49474097422",
@@ -45852,7 +45970,7 @@ GIKAI.questionText = {
       "season": "spring",
       "material": {
         "state": "verified",
-        "note": "公式一覧と本会議録2資料を照合。予算特別委員会の公開会議録4資料も収録。",
+        "note": "公式本会議録２日、予算審査特別委員会４日と目次２点。一般質問通告と議会だより第81号全冊。",
         "indexURL": "https://www.town.tokigawa.lg.jp/div/203010/htm/gijiroku/index.html"
       }
     },
@@ -45861,7 +45979,7 @@ GIKAI.questionText = {
       "season": "summer",
       "material": {
         "state": "verified",
-        "note": "公式一覧と本会議録3資料を照合。",
+        "note": "公式本会議録３日と目次１点。一般質問通告と議会だより第82号全冊。",
         "indexURL": "https://www.town.tokigawa.lg.jp/div/203010/htm/gijiroku/index.html"
       }
     },
@@ -45870,7 +45988,8 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+        "note": "議会だより第83号全冊と一般質問通告。紙面には９人の質問と答弁の要約を掲載。2026年11月26日確認時点で、公式会議録の年別目録に秋の掲載なし。",
+        "indexURL": "https://www.town.tokigawa.lg.jp/info/3405"
       }
     },
     {

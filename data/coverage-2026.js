@@ -8816,114 +8816,154 @@ GIKAI.coverage2026 = {
     {
       "place": "ときがわ町",
       "season": "spring",
-      "label": "2026年春の定例会",
+      "label": "令和8年第1回定例会",
       "fromDate": "2026-03-04",
       "toDate": "2026-03-13",
       "planned": false,
       "materials": {
         "meeting": {
           "state": "verified",
-          "note": "会期の日付を確認。"
+          "note": "町議会発行の会期案内と、本会議録の開会・閉会日を照合。"
         },
         "activity": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "公式の会期案内・質問通告を収録。実際の質疑と答弁は本会議録を収録。"
         },
         "text": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "公式本会議録２日、予算審査特別委員会４日と目次２点。一般質問通告と議会だより第81号全冊。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "公式紙面の審議結果19件。公式会議録の採決宣告・報告と照合。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "議会だより第81号の議員別表決19行、各11欄を収録。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "出産祝い金、国保税、温泉スタンドなど。"
         }
       },
       "sources": [
         {
-          "label": "対象会期の公式案内",
+          "label": "公式会議録の年別目録",
           "url": "https://www.town.tokigawa.lg.jp/div/203010/htm/gijiroku/index.html"
+        },
+        {
+          "label": "議会だよりの2026年目録",
+          "url": "https://www.town.tokigawa.lg.jp/info/3405"
+        },
+        {
+          "label": "会期案内の公式目録",
+          "url": "https://www.town.tokigawa.lg.jp/info/711"
+        },
+        {
+          "label": "会期案内・質問通告",
+          "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/orikomi_chirashi/r83oshirase.pdf"
+        },
+        {
+          "label": "議会だより第81号全冊",
+          "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf"
+        },
+        {
+          "label": "議会だより第81号の審議結果・表決",
+          "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13"
         }
       ]
     },
     {
       "place": "ときがわ町",
       "season": "summer",
-      "label": "2026年初夏の定例会",
+      "label": "令和8年第2回定例会",
       "fromDate": "2026-06-02",
       "toDate": "2026-06-05",
       "planned": false,
       "materials": {
         "meeting": {
           "state": "verified",
-          "note": "会期の日付を確認。"
+          "note": "町議会発行の会期案内と、本会議録の開会・閉会日を照合。"
         },
         "activity": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "公式の会期案内・質問通告を収録。実際の質疑と答弁は本会議録を収録。"
         },
         "text": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "公式本会議録３日と目次１点。一般質問通告と議会だより第82号全冊。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "公式紙面の審議結果11件。公式会議録の採決宣告・報告と照合。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "議会だより第82号の議員別表決9行、各11欄を収録。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "国保税、そば道場の廃止、集会所２件の契約、四季彩館の指定管理。"
         }
       },
       "sources": [
         {
-          "label": "対象会期の公式案内",
+          "label": "公式会議録の年別目録",
           "url": "https://www.town.tokigawa.lg.jp/div/203010/htm/gijiroku/index.html"
+        },
+        {
+          "label": "議会だよりの2026年目録",
+          "url": "https://www.town.tokigawa.lg.jp/info/3405"
+        },
+        {
+          "label": "会期案内の公式目録",
+          "url": "https://www.town.tokigawa.lg.jp/info/711"
+        },
+        {
+          "label": "会期案内・質問通告",
+          "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/orikomi_chirashi/r86oshirase.pdf"
+        },
+        {
+          "label": "議会だより第82号全冊",
+          "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori82/tokigawagikai82.pdf"
+        },
+        {
+          "label": "議会だより第82号の審議結果・表決",
+          "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori82/tokigawagikai82.pdf#page=4"
         }
       ]
     },
     {
       "place": "ときがわ町",
       "season": "fall",
-      "label": "2026年秋の定例会",
-      "fromDate": "",
-      "toDate": "",
+      "label": "令和8年第3回定例会",
+      "fromDate": "2026-09-01",
+      "toDate": "2026-09-11",
       "planned": false,
       "materials": {
         "meeting": {
-          "state": "identified",
-          "note": "対象時期に関係する資料の掲載箇所を確認。会期の確定は未了。"
+          "state": "verified",
+          "note": "町議会発行の会期案内と、議会だより第83号の会期報告を照合。"
         },
         "activity": {
           "state": "partial",
-          "note": "この時期の掲載項目 9件。通告・目次・本文の別は活動の出典に表示。"
+          "note": "公式の会期案内・質問通告を収録。質問と答弁は議会だより掲載の要約。"
         },
         "text": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "議会だより第83号全冊と一般質問通告。紙面には９人の質問と答弁の要約を掲載。2026年11月26日確認時点で、公式会議録の年別目録に秋の掲載なし。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "公式紙面の審議結果25件。原表に案件別の日付欄なし。"
         },
         "votes": {
-          "state": "identified",
-          "note": "対象資料の案内を確認。項目の取込・照合範囲は未確定。"
+          "state": "verified",
+          "note": "議会だより第83号の議員別表決23行、各11欄を収録。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "町営バス条例改正と庁舎統合検討特別委員会。"
         }
       },
       "sources": [
@@ -8934,6 +8974,30 @@ GIKAI.coverage2026 = {
         {
           "label": "会期資料　2026年9月定例会・一般質問の全9人",
           "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83-w-6.pdf"
+        },
+        {
+          "label": "公式会議録の年別目録",
+          "url": "https://www.town.tokigawa.lg.jp/div/203010/htm/gijiroku/index.html"
+        },
+        {
+          "label": "議会だよりの2026年目録",
+          "url": "https://www.town.tokigawa.lg.jp/info/3405"
+        },
+        {
+          "label": "会期案内の公式目録",
+          "url": "https://www.town.tokigawa.lg.jp/info/711"
+        },
+        {
+          "label": "会期案内・質問通告",
+          "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/orikomi_chirashi/r89oshirase.pdf"
+        },
+        {
+          "label": "議会だより第83号全冊",
+          "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf"
+        },
+        {
+          "label": "議会だより第83号の審議結果・表決",
+          "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9"
         }
       ]
     },
@@ -138657,6 +138721,1663 @@ GIKAI.coverage2026 = {
         151,
         152
       ]
+    },
+    {
+      "place": "ときがわ町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第11号",
+      "date": "2026-03-04",
+      "title": "事務手数料条例の一部改正",
+      "result": "可決",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "賛成",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "blocks": [
+        32,
+        33
+      ],
+      "archiveId": "3e75538fc23964a61c0a"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第12号",
+      "date": "2026-03-04",
+      "title": "国民健康保険税条例の一部改正",
+      "result": "可決",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "賛成",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "反対",
+        "小宮正": "議長（表決不参加）"
+      },
+      "blocks": [
+        98,
+        99
+      ],
+      "archiveId": "3e75538fc23964a61c0a"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第13号",
+      "date": "2026-03-04",
+      "title": "出産祝い金の支給に関する条例の一部改正",
+      "result": "可決",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "賛成",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "voteNote": "原表に野原和夫議員の討論を示す「討」あり。",
+      "blocks": [
+        135,
+        136
+      ],
+      "archiveId": "3e75538fc23964a61c0a"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第14号",
+      "date": "2026-03-04",
+      "title": "重度心身障害者医療費支給に関する条例の一部改正",
+      "result": "可決",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "賛成",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "blocks": [
+        148,
+        149
+      ],
+      "archiveId": "3e75538fc23964a61c0a"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第15号",
+      "date": "2026-03-04",
+      "title": "温泉スタンド条例の廃止",
+      "result": "可決",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "賛成",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "blocks": [
+        191,
+        192
+      ],
+      "archiveId": "3e75538fc23964a61c0a"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "同意第3号",
+      "date": "2026-03-04",
+      "title": "副町長の選任",
+      "result": "同意",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "賛成",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "blocks": [
+        197,
+        198
+      ],
+      "archiveId": "3e75538fc23964a61c0a"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第16号",
+      "date": "2026-03-04",
+      "title": "令和7年度一般会計補正予算(第6号)",
+      "result": "可決",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "賛成",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "blocks": [
+        218,
+        219
+      ],
+      "archiveId": "3e75538fc23964a61c0a"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第17号",
+      "date": "2026-03-04",
+      "title": "令和7年度国民健康保険特別会計補正予算(第3号)",
+      "result": "可決",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "賛成",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "blocks": [
+        225,
+        226
+      ],
+      "archiveId": "3e75538fc23964a61c0a"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第18号",
+      "date": "2026-03-04",
+      "title": "令和7年度後期高齢者医療特別会計補正予算(第2号)",
+      "result": "可決",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "賛成",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "blocks": [
+        248,
+        249
+      ],
+      "archiveId": "3e75538fc23964a61c0a"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第19号",
+      "date": "2026-03-04",
+      "title": "令和7年度介護保険特別会計補正予算(第4号)",
+      "result": "可決",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "賛成",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "blocks": [
+        265,
+        266
+      ],
+      "archiveId": "3e75538fc23964a61c0a"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第20号",
+      "date": "2026-03-04",
+      "title": "令和7年度水道事業会計補正予算(第3号)",
+      "result": "可決",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "賛成",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "blocks": [
+        300,
+        301
+      ],
+      "archiveId": "3e75538fc23964a61c0a"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第21号",
+      "date": "2026-03-04",
+      "title": "令和7年度浄化槽事業会計補正予算(第3号)",
+      "result": "可決",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "賛成",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "blocks": [
+        307,
+        308
+      ],
+      "archiveId": "3e75538fc23964a61c0a"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第22号",
+      "date": "2026-03-13",
+      "title": "令和8年度一般会計予算",
+      "result": "可決",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "欠席",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "blocks": [
+        9,
+        10
+      ],
+      "archiveId": "aadb46e04a38bc587c95"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第23号",
+      "date": "2026-03-13",
+      "title": "令和8年度国民健康保険特別会計予算",
+      "result": "可決",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "欠席",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "反対",
+        "小宮正": "議長（表決不参加）"
+      },
+      "blocks": [
+        12,
+        13
+      ],
+      "archiveId": "aadb46e04a38bc587c95"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第24号",
+      "date": "2026-03-13",
+      "title": "令和8年度後期高齢者医療特別会計予算",
+      "result": "可決",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "欠席",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "blocks": [
+        15,
+        16
+      ],
+      "archiveId": "aadb46e04a38bc587c95"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第25号",
+      "date": "2026-03-13",
+      "title": "令和8年度介護保険特別会計予算",
+      "result": "可決",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "欠席",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "blocks": [
+        18,
+        19
+      ],
+      "archiveId": "aadb46e04a38bc587c95"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第26号",
+      "date": "2026-03-13",
+      "title": "令和8年度関口茂八翁奨学事業特別会計予算",
+      "result": "可決",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "欠席",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "blocks": [
+        21,
+        22
+      ],
+      "archiveId": "aadb46e04a38bc587c95"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第27号",
+      "date": "2026-03-13",
+      "title": "令和8年度水道事業会計予算",
+      "result": "可決",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "欠席",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "blocks": [
+        24,
+        25
+      ],
+      "archiveId": "aadb46e04a38bc587c95"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第28号",
+      "date": "2026-03-13",
+      "title": "令和8年度浄化槽事業会計予算",
+      "result": "可決",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf#page=13",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "欠席",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "blocks": [
+        27,
+        28
+      ],
+      "archiveId": "aadb46e04a38bc587c95"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "報告第1号",
+      "date": "2026-06-05",
+      "title": "令和7年度一般会計繰越明許費繰越計算書の報告",
+      "result": "報告",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori82/tokigawagikai82.pdf#page=4",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori82/tokigawagikai82.pdf#page=4",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteNote": "原表の賛否欄が空欄の報告案件。",
+      "blocks": [
+        4
+      ],
+      "archiveId": "5c818c65ae1cc1d46d36"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "報告第2号",
+      "date": "2026-06-05",
+      "title": "令和7年度水道事業会計予算繰越計算書の報告",
+      "result": "報告",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori82/tokigawagikai82.pdf#page=4",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori82/tokigawagikai82.pdf#page=4",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteNote": "原表の賛否欄が空欄の報告案件。",
+      "blocks": [
+        10
+      ],
+      "archiveId": "5c818c65ae1cc1d46d36"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議案第29号",
+      "date": "2026-06-05",
+      "title": "専決処分の承認を求めること(税条例の一部改正)",
+      "result": "可決",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori82/tokigawagikai82.pdf#page=4",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori82/tokigawagikai82.pdf#page=4",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori82/tokigawagikai82.pdf#page=4",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "賛成",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "blocks": [
+        41,
+        42
+      ],
+      "archiveId": "5c818c65ae1cc1d46d36"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議案第30号",
+      "date": "2026-06-05",
+      "title": "専決処分の承認を求めること(国民健康保険税条例の一部改正)",
+      "result": "可決",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori82/tokigawagikai82.pdf#page=4",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori82/tokigawagikai82.pdf#page=4",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori82/tokigawagikai82.pdf#page=4",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "賛成",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "blocks": [
+        60,
+        61
+      ],
+      "archiveId": "5c818c65ae1cc1d46d36",
+      "voteNote": "専決処分の承認を求めた案件。紙面・会議録の採決宣告の表記は「可決」。"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議案第31号",
+      "date": "2026-06-05",
+      "title": "いこいの里大附条例の廃止",
+      "result": "可決",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori82/tokigawagikai82.pdf#page=4",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori82/tokigawagikai82.pdf#page=4",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori82/tokigawagikai82.pdf#page=4",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "賛成",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "blocks": [
+        69,
+        70
+      ],
+      "archiveId": "5c818c65ae1cc1d46d36"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議案第32号",
+      "date": "2026-06-05",
+      "title": "別所区集会所新築工事請負契約の締結",
+      "result": "可決",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori82/tokigawagikai82.pdf#page=4",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori82/tokigawagikai82.pdf#page=4",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori82/tokigawagikai82.pdf#page=4",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "賛成",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "blocks": [
+        96,
+        97
+      ],
+      "archiveId": "5c818c65ae1cc1d46d36"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議案第33号",
+      "date": "2026-06-05",
+      "title": "瀬戸区集会所新築工事請負契約の締結",
+      "result": "可決",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori82/tokigawagikai82.pdf#page=4",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori82/tokigawagikai82.pdf#page=4",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori82/tokigawagikai82.pdf#page=4",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "賛成",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "blocks": [
+        100,
+        101
+      ],
+      "archiveId": "5c818c65ae1cc1d46d36"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議案第34号",
+      "date": "2026-06-05",
+      "title": "都幾川四季彩館の指定管理者の指定",
+      "result": "可決",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori82/tokigawagikai82.pdf#page=4",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori82/tokigawagikai82.pdf#page=4",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori82/tokigawagikai82.pdf#page=4",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "賛成",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "blocks": [
+        137,
+        138
+      ],
+      "archiveId": "5c818c65ae1cc1d46d36"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議案第35号",
+      "date": "2026-06-05",
+      "title": "令和8年度一般会計補正予算(第1号)",
+      "result": "可決",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori82/tokigawagikai82.pdf#page=4",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori82/tokigawagikai82.pdf#page=4",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori82/tokigawagikai82.pdf#page=4",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "賛成",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "blocks": [
+        173,
+        174
+      ],
+      "archiveId": "5c818c65ae1cc1d46d36"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議案第36号",
+      "date": "2026-06-05",
+      "title": "印鑑条例及び事務手数料条例の特例に関する条例の一部改正",
+      "result": "可決",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori82/tokigawagikai82.pdf#page=4",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori82/tokigawagikai82.pdf#page=4",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori82/tokigawagikai82.pdf#page=4",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "賛成",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "blocks": [
+        186,
+        187
+      ],
+      "archiveId": "5c818c65ae1cc1d46d36"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議案第37号",
+      "date": "2026-06-05",
+      "title": "財産の取得",
+      "result": "可決",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori82/tokigawagikai82.pdf#page=4",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori82/tokigawagikai82.pdf#page=4",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori82/tokigawagikai82.pdf#page=4",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "賛成",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "blocks": [
+        223,
+        224
+      ],
+      "archiveId": "5c818c65ae1cc1d46d36"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議員提出議案第1号",
+      "date": "",
+      "title": "庁舎統合検討特別委員会の設置",
+      "result": "可決",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "議員提出",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "賛成",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "選任第3号",
+      "date": "",
+      "title": "特別委員会委員の選任",
+      "result": "選任",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "本会議で選任",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "賛成",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "報告第3号",
+      "date": "",
+      "title": "令和7年度決算に基づく健全化判断比率の報告",
+      "result": "報告",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteNote": "原表の賛否欄が空欄の報告案件。 会期は９月１日～11日。原表に案件別の議決日欄がない。"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "報告第4号",
+      "date": "",
+      "title": "令和7年度決算に基づく資金不足比率の報告",
+      "result": "報告",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteNote": "原表の賛否欄が空欄の報告案件。 会期は９月１日～11日。原表に案件別の議決日欄がない。"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "認定第1号",
+      "date": "",
+      "title": "令和7年度一般会計歳入歳出決算認定",
+      "result": "認定",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "賛成",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "認定第2号",
+      "date": "",
+      "title": "令和7年度国民健康保険特別会計歳入歳出決算認定",
+      "result": "認定",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "賛成",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "認定第3号",
+      "date": "",
+      "title": "令和7年度後期高齢者医療特別会計歳入歳出決算認定",
+      "result": "認定",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "賛成",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "認定第4号",
+      "date": "",
+      "title": "令和7年度介護保険特別会計歳入歳出決算認定",
+      "result": "認定",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "賛成",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "認定第5号",
+      "date": "",
+      "title": "令和7年度関口茂八翁奨学事業特別会計歳入歳出決算認定",
+      "result": "認定",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "賛成",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第38号",
+      "date": "",
+      "title": "令和7年度水道事業会計決算認定及び剰余金処分",
+      "result": "可決",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "賛成",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第39号",
+      "date": "",
+      "title": "令和7年度浄化槽事業会計決算認定及び剰余金処分",
+      "result": "可決",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "賛成",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第40号",
+      "date": "",
+      "title": "行政手続条例の一部改正",
+      "result": "可決",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "賛成",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第41号",
+      "date": "",
+      "title": "町営バス条例の一部改正",
+      "result": "可決",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "賛成",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第42号",
+      "date": "",
+      "title": "技能労務職員の給与の種類及び基準に関する条例の廃止",
+      "result": "可決",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "賛成",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第43号",
+      "date": "",
+      "title": "玉川トレーニングセンター条例の廃止",
+      "result": "可決",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "賛成",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第44号",
+      "date": "",
+      "title": "損害賠償の額を定めること",
+      "result": "可決",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "賛成",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第45号",
+      "date": "",
+      "title": "町道路線の廃止",
+      "result": "可決",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "賛成",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第46号",
+      "date": "",
+      "title": "町道路線の変更",
+      "result": "可決",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "賛成",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第47号",
+      "date": "",
+      "title": "令和8年度一般会計補正予算(第2号)",
+      "result": "可決",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "賛成",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第48号",
+      "date": "",
+      "title": "令和8年度国民健康保険特別会計補正予算(第1号)",
+      "result": "可決",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "賛成",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第49号",
+      "date": "",
+      "title": "令和8年度後期高齢者医療特別会計補正予算(第1号)",
+      "result": "可決",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "賛成",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第50号",
+      "date": "",
+      "title": "令和8年度介護保険特別会計補正予算(第1号)",
+      "result": "可決",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "賛成",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第51号",
+      "date": "",
+      "title": "令和8年度関口茂八翁奨学事業特別会計補正予算(第1号)",
+      "result": "可決",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "賛成",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第52号",
+      "date": "",
+      "title": "令和8年度水道事業会計補正予算(第1号)",
+      "result": "可決",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "賛成",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+    },
+    {
+      "place": "ときがわ町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第53号",
+      "date": "",
+      "title": "令和8年度浄化槽事業会計補正予算(第1号)",
+      "result": "可決",
+      "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "proposer": "町長",
+      "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
+      "voteType": "記名",
+      "votes": {
+        "神山由絵": "賛成",
+        "小野田直幸": "賛成",
+        "小室初江": "賛成",
+        "笠井洋昭": "賛成",
+        "髙橋浩美": "賛成",
+        "畑豊": "賛成",
+        "神山俊": "賛成",
+        "小島利枝": "賛成",
+        "田中紀吉": "賛成",
+        "野原和夫": "賛成",
+        "小宮正": "議長（表決不参加）"
+      },
+      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
     }
   ],
   "policy": [
