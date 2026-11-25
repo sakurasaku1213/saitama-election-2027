@@ -3864,6 +3864,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "41a6c2bced9168b85ee1",
+      "place": "上里町",
+      "season": "fall",
+      "date": "2026-09-07",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "金子義則議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/speech.html?council_id=47&schedule_id=2&playlist_id=3&speaker_id=20&target_year=2026",
+      "speakers": [
+        "金子義則"
+      ]
+    },
+    {
       "id": "8ae755034939917ef86b",
       "place": "久喜市",
       "season": "spring",
@@ -6552,6 +6566,20 @@ GIKAI.questionText = {
       "url": "https://smart.discussvision.net/smart/tenant/kazo/WebView/rd/speech.html?council_id=39&schedule_id=3&playlist_id=5&speaker_id=22&target_year=2026",
       "speakers": [
         "野中芳子"
+      ]
+    },
+    {
+      "id": "eda1da66b8d8961250b3",
+      "place": "加須市",
+      "season": "fall",
+      "date": "2026-09-11",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "中條恵子議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/kazo/WebView/rd/speech.html?council_id=39&schedule_id=4&playlist_id=4&speaker_id=20&target_year=2026",
+      "speakers": [
+        "中條恵子"
       ]
     },
     {
@@ -23314,12 +23342,40 @@ GIKAI.questionText = {
       "place": "川島町",
       "season": "fall",
       "date": "2026-09",
-      "title": "川島町議会 155号(2026年11月)",
+      "title": "かわじま議会だより第155号・一般質問、委員会質疑と決算特集",
       "url": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori155.pdf",
-      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "kind": "議会だよりの質問・答弁（紙面要約）",
       "scope": "summary",
-      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
-      "speakers": []
+      "note": "一般質問７人の冒頭問答７組と本文問答26組、委員会質疑15組と決算の６事業を照合。一般質問の日と氏名は公式録画目録。編集された紙面の要旨と、元の全16PDF頁のOCRを併録。",
+      "speakers": [
+        "坂本順子",
+        "山﨑宣佳",
+        "菊地敏昭",
+        "小高春雄",
+        "加藤進",
+        "渋谷幸司",
+        "松原謙司"
+      ]
+    },
+    {
+      "place": "川島町",
+      "season": "fall",
+      "date": "2026-09",
+      "id": "6d586a2384ebaec83dc2",
+      "url": "https://www.town.kawajima.saitama.jp/secure/4022/ippannsitumonR8.9.pdf",
+      "title": "第５回定例会・一般質問事項７人13項目",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "speakers": [
+        "坂本順子",
+        "山﨑宣佳",
+        "菊地敏昭",
+        "小高春雄",
+        "加藤進",
+        "渋谷幸司",
+        "松原謙司"
+      ],
+      "note": "公表された事前通告。氏名・13項目を公式録画の目録と照合し、実際の登壇日は目録から補った。小高議員の項目は通告PDFが「県境整備」、録画目録と議会だよりが「環境整備」と表記。PDFのOCRには原表記を併録。"
     },
     {
       "id": "10bfb798c3f12bdd5323",
@@ -27648,6 +27704,20 @@ GIKAI.questionText = {
         "鈴木一利"
       ],
       "note": "第85号は議長と監査委員の一般質問を行わない取扱いを記載。通告の28人・５日について録画目録と一致。"
+    },
+    {
+      "id": "8f2981c1477c6fbbb643",
+      "place": "春日部市",
+      "season": "fall",
+      "date": "2026-09-08",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "宗像英男議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://kasukabe-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=2379",
+      "speakers": [
+        "宗像英男"
+      ]
     },
     {
       "id": "ed53a3e9c9e3837be24e",
@@ -32298,6 +32368,20 @@ GIKAI.questionText = {
       "url": "https://sayama.gijiroku.com/g07_Video_View.asp?SrchID=1554",
       "speakers": [
         "船川秀子"
+      ]
+    },
+    {
+      "id": "2d3b05923b72b890c542",
+      "place": "狭山市",
+      "season": "fall",
+      "date": "2026-09-16",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "衣川千代子議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://sayama.gijiroku.com/g07_Video_View.asp?SrchID=1556",
+      "speakers": [
+        "衣川千代子"
       ]
     },
     {
@@ -38522,7 +38606,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/kazo/WebView/rd/council.html?year=2026&council_id=39",
-        "note": "公式録画一覧の一般質問20人のうち、8人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
+        "note": "公式録画一覧の一般質問20人のうち、9人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
       }
     },
     {
@@ -38603,7 +38687,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://kasukabe-city.stream.jfit.co.jp/?gikai_id=163&tpl=gikai_days_list",
-        "note": "第85号の一般質問28人の主要問答とその他29見出し、紙面３・４頁の会派等の討論５欄を原紙面と照合。一般質問は９月８・９・11・15・16日。氏名と発言日は公式録画目録と照合した。 正式会議録は確認中。 公式録画の機械文字起こしを1件収録。"
+        "note": "第85号の一般質問28人の主要問答とその他29見出し、紙面３・４頁の会派等の討論５欄を原紙面と照合。一般質問は９月８・９・11・15・16日。氏名と発言日は公式録画目録と照合した。 正式会議録は確認中。 公式録画の機械文字起こしを1件収録。 公式録画の機械文字起こしを2件収録。"
       }
     },
     {
@@ -38630,7 +38714,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://sayama.gijiroku.com/g07_Video_Search.asp",
-        "note": "16人の一般質問44問答とその他９見出し、議案質疑13組、決算討論２人、公式通告30大項目。公式録画のうち機械文字起こし4/16件。委員長報告４資料と教育委員会会議録の関連部分も収録。正式本会議録は確認中。"
+        "note": "16人の一般質問44問答とその他９見出し、議案質疑13組、決算討論２人、公式通告30大項目。公式録画のうち機械文字起こし5/16件。委員長報告４資料と教育委員会会議録の関連部分も収録。正式本会議録は確認中。"
       }
     },
     {
@@ -39565,7 +39649,8 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+        "indexURL": "https://smart.discussvision.net/smart/tenant/kawajima/WebView/rd/council.html?year=2026&council_id=45",
+        "note": "第155号の一般質問７人・冒頭７組と本文26組、委員会質疑15組、決算６事業。公式通告13項目を９月14日４人、15日３人の公式録画目録と照合。正式会議録は確認中。"
       }
     },
     {
@@ -39850,7 +39935,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/council.html?year=2026&council_id=47",
-        "note": "公式録画一覧の一般質問11人のうち、6人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
+        "note": "公式録画一覧の一般質問11人のうち、7人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
       }
     },
     {

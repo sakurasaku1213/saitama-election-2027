@@ -5308,3 +5308,382 @@ GIKAI.cases.push(...[
     "note": "令和８年度の案内と、令和７年度の助成実績を掲載。犯罪の抑止効果は答弁で確認できません。"
   }
 ]);
+
+GIKAI.cases.push(...[
+  {
+    "place": "川島町",
+    "title": "国保税条例の討論から県内準統一の税額確認まで",
+    "topic": "国民健康保険・税負担",
+    "actors": [
+      "渋谷幸司",
+      "川島町",
+      "川島町議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-18",
+        "actor": "渋谷幸司",
+        "stage": "国保税条例案への反対理由を討論",
+        "detail": "子ども・子育て支援金分の追加と県内準統一による加入者の負担への懸念を述べ、子育て支援の財源は国費で賄うべきだと主張した。",
+        "url": "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteView.html?tenant_id=175&council_id=120&schedule_id=7",
+        "sourceTitle": "川島町議会本会議録・2026-03-18",
+        "archiveId": "c4cc4a06a4649a795bf9",
+        "blocks": [
+          28
+        ],
+        "memberActions": [
+          {
+            "name": "渋谷幸司",
+            "blocks": [
+              28
+            ],
+            "detail": "子ども・子育て支援金分の追加と県内準統一による加入者の負担への懸念を述べ、子育て支援の財源は国費で賄うべきだと主張した。"
+          }
+        ],
+        "billNumber": "議案第7号"
+      },
+      {
+        "date": "2026-03-18",
+        "actor": "川島町議会",
+        "stage": "本会議で挙手による賛成多数を宣告",
+        "detail": "議案第７号は本会議録で賛成多数。議会だよりの記名表は渋谷議員が反対。公式審議結果一覧の集計欄には全員賛成とある。",
+        "url": "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteView.html?tenant_id=175&council_id=120&schedule_id=7",
+        "sourceTitle": "川島町議会 ３月18日本会議録（270頁）",
+        "archiveId": "c4cc4a06a4649a795bf9",
+        "blocks": [
+          31,
+          32
+        ],
+        "billNumber": "議案第7号"
+      },
+      {
+        "date": "2026-06-03",
+        "actor": "渋谷幸司",
+        "stage": "専決処分の審議で支援金の使途と負担を確認",
+        "detail": "支援金の使途、国保の目的との関係、税負担を質した。町は準統一で川島町の国保の負担も増額となるとの見通しを説明した。",
+        "url": "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteView.html?tenant_id=175&council_id=121&schedule_id=2",
+        "sourceTitle": "川島町議会本会議録・2026-06-03",
+        "archiveId": "3dfcf320a56303f5fdf5",
+        "blocks": [
+          57,
+          61,
+          65
+        ],
+        "memberActions": [
+          {
+            "name": "渋谷幸司",
+            "blocks": [
+              57,
+              61,
+              65
+            ],
+            "detail": "支援金の使途、国保の目的との関係、税負担を質した。町は準統一で川島町の国保の負担も増額となるとの見通しを説明した。"
+          }
+        ],
+        "billNumber": "議案第21号"
+      },
+      {
+        "date": "2026-09-15",
+        "actor": "渋谷幸司",
+        "stage": "準統一後の具体的な税額と基金の使途を確認",
+        "detail": "令和９年度の具体的な国保税額、通院環境、財政調整基金の使途を尋ねた。町は県から税率等が示されれば知らせ、基金は加入者の健康増進などに使うと答えた。",
+        "url": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori155.pdf#page=12",
+        "sourceTitle": "かわじま議会だより第155号・紙面12頁",
+        "archiveId": "df1a9a7031ee13f1f1df",
+        "blocks": [
+          6
+        ],
+        "memberActions": [
+          {
+            "name": "渋谷幸司",
+            "blocks": [
+              6
+            ],
+            "detail": "令和９年度の具体的な国保税額、通院環境、財政調整基金の使途を尋ねた。町は県から税率等が示されれば知らせ、基金は加入者の健康増進などに使うと答えた。"
+          }
+        ]
+      }
+    ],
+    "note": "条例案の議決と、令和９年度の準統一による具体税額の確定を区別して追える。"
+  },
+  {
+    "place": "川島町",
+    "title": "水道水の測定結果を踏まえ、民間井戸の追加調査を質す",
+    "topic": "水質・PFOSとPFOA",
+    "actors": [
+      "川島町",
+      "山﨑宣佳"
+    ],
+    "steps": [
+      {
+        "date": "2026-07-13",
+        "actor": "川島町",
+        "stage": "水道の３地点で採水",
+        "detail": "町の検査結果表では、４月17日と７月13日に採水した３地点とも、各回のPFOSとPFOAの合計が５ng/L未満。日付は採水日。",
+        "url": "https://www.town.kawajima.saitama.jp/secure/1639/PFOS%2CPFOA.pdf",
+        "sourceTitle": "町 令和８年度の有機フッ素化合物の水質検査結果"
+      },
+      {
+        "date": "2026-09-14",
+        "actor": "山﨑宣佳",
+        "stage": "地下水の調査地点の追加を質す",
+        "detail": "町の水道水検査と県の地下水調査の範囲を確認し、町内の井戸約10か所の調査を求めた。町は県の調査を踏まえて測定方法・場所・実施を検討すると答えた。",
+        "url": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori155.pdf#page=10",
+        "sourceTitle": "かわじま議会だより第155号・紙面10頁",
+        "archiveId": "df1a9a7031ee13f1f1df",
+        "blocks": [
+          2
+        ],
+        "memberActions": [
+          {
+            "name": "山﨑宣佳",
+            "blocks": [
+              2
+            ],
+            "detail": "町の水道水検査と県の地下水調査の範囲を確認し、町内の井戸約10か所の調査を求めた。町は県の調査を踏まえて測定方法・場所・実施を検討すると答えた。"
+          }
+        ]
+      }
+    ],
+    "note": "測定値は町の水道検査の採水地点の値。民間井戸の新たな調査の実施と結果は確認中。"
+  },
+  {
+    "place": "川島町",
+    "title": "害虫駆除の奨励金と被害木伐採助成の進捗を追う",
+    "topic": "樹木被害・防除",
+    "actors": [
+      "川島町",
+      "山﨑宣佳"
+    ],
+    "steps": [
+      {
+        "date": "2026-07-16",
+        "actor": "川島町",
+        "stage": "駆除奨励金の受付終了を告知",
+        "detail": "７月10日の補正予算成立後、13日から受付を続けていた駆除奨励金について、16日に受付を終了したと町が案内した。",
+        "url": "https://www.town.kawajima.saitama.jp/9314.htm",
+        "sourceTitle": "町 クビアカツヤカミキリ駆除奨励金の案内"
+      },
+      {
+        "date": "2026-09-14",
+        "actor": "山﨑宣佳",
+        "stage": "奨励金の継続、伐採等の補助と広域連携を質す",
+        "detail": "町は来年度は奨励金の対象者を町内に限定するなどを検討し、民有地の被害木伐採費の補助を補正予算に計上、薬剤費の補助も準備していると答えた。広域での防除は県と県内自治体に働き掛けるとした。",
+        "url": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori155.pdf#page=10",
+        "sourceTitle": "かわじま議会だより第155号・紙面10頁",
+        "archiveId": "df1a9a7031ee13f1f1df",
+        "blocks": [
+          2
+        ],
+        "memberActions": [
+          {
+            "name": "山﨑宣佳",
+            "blocks": [
+              2
+            ],
+            "detail": "町は来年度は奨励金の対象者を町内に限定するなどを検討し、民有地の被害木伐採費の補助を補正予算に計上、薬剤費の補助も準備していると答えた。広域での防除は県と県内自治体に働き掛けるとした。"
+          }
+        ]
+      },
+      {
+        "date": "2026-11",
+        "actor": "川島町",
+        "stage": "民有地等の被害木伐採等の助成を案内",
+        "detail": "広報11月号で町内で管理される木の伐採等への補助を案内した。駆除した成虫に対する奨励金と、被害木の伐採費助成にはそれぞれの要件がある。",
+        "url": "https://www.town.kawajima.saitama.jp/secure/1029/kawajima11_mihiraki_2.pdf",
+        "sourceTitle": "広報かわじま 11月号の伐採費用の案内"
+      }
+    ],
+    "note": "翌年度の奨励金の対象者限定は９月時点で検討。伐採費助成の案内を確認した。"
+  },
+  {
+    "place": "川島町",
+    "title": "川島町・桶川市の共同ごみ処理施設で用地取得を質し、都市計画案を縦覧",
+    "topic": "ごみ処理・広域連携",
+    "actors": [
+      "川島町",
+      "桶川市",
+      "川島桶川資源循環組合",
+      "加藤進"
+    ],
+    "steps": [
+      {
+        "date": "2025-04-01",
+        "actor": "川島町、桶川市",
+        "stage": "広域処理のための一部事務組合を設立",
+        "detail": "共同の施設整備を担う川島桶川資源循環組合を設立した。",
+        "url": "https://www.town.kawajima.saitama.jp/6629.htm",
+        "sourceTitle": "町 新ごみ処理施設の整備について"
+      },
+      {
+        "date": "2026-09-15",
+        "actor": "加藤進",
+        "stage": "用地取得の時期、ごみ袋と運営の見通しを質す",
+        "detail": "町は都市計画決定手続の終了後に地権者と交渉し、翌年度の契約を目指すと説明。有料ごみ袋は検討に含むと答えた。",
+        "url": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori155.pdf#page=11",
+        "sourceTitle": "かわじま議会だより第155号・紙面11頁",
+        "archiveId": "df1a9a7031ee13f1f1df",
+        "blocks": [
+          5
+        ],
+        "memberActions": [
+          {
+            "name": "加藤進",
+            "blocks": [
+              5
+            ],
+            "detail": "町は都市計画決定手続の終了後に地権者と交渉し、翌年度の契約を目指すと説明。有料ごみ袋は検討に含むと答えた。"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-15",
+        "actor": "川島町",
+        "stage": "ごみ処理場の都市計画変更案の縦覧を終了",
+        "detail": "10月１日から15日まで両市町の窓口や町ウェブサイトで縦覧した。町の公式ページは意見書の提出がなかったと掲載している。",
+        "url": "https://www.town.kawajima.saitama.jp/10027.htm",
+        "sourceTitle": "町 都市計画変更案の縦覧とその結果"
+      }
+    ],
+    "note": "都市計画案の縦覧と、決定の告示、用地の契約、供用開始はそれぞれの記録で確認する。",
+    "relatedPlaces": [
+      "桶川市"
+    ]
+  },
+  {
+    "place": "川島町",
+    "title": "住宅の防犯機器補助の交付実績と、通学路・街灯へのカメラ設置の検討",
+    "topic": "防犯・施設管理",
+    "actors": [
+      "川島町",
+      "松原謙司"
+    ],
+    "steps": [
+      {
+        "date": "2026-04-01",
+        "actor": "川島町",
+        "stage": "住宅向けの防犯機器補助を継続",
+        "detail": "指定する住宅の防犯機器の購入・設置費用の補助を令和８年度も継続すると案内した。日付は掲載された対象期間の開始日。",
+        "url": "https://www.town.kawajima.saitama.jp/8645.htm",
+        "sourceTitle": "町 住宅等防犯対策補助金の継続案内"
+      },
+      {
+        "date": "2026-09-15",
+        "actor": "松原謙司",
+        "stage": "町の設置実績を確かめ、街灯への設置を求める",
+        "detail": "公共施設等のカメラ数を尋ね、交差点や通学路の街灯にも設置するよう求めた。町は計59台と答え、道路や公園での設置は前向きに考えるとした。",
+        "url": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori155.pdf#page=12",
+        "sourceTitle": "かわじま議会だより第155号・紙面12頁",
+        "archiveId": "df1a9a7031ee13f1f1df",
+        "blocks": [
+          7
+        ],
+        "memberActions": [
+          {
+            "name": "松原謙司",
+            "blocks": [
+              7
+            ],
+            "detail": "公共施設等のカメラ数を尋ね、交差点や通学路の街灯にも設置するよう求めた。町は計59台と答え、道路や公園での設置は前向きに考えるとした。"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-16",
+        "actor": "川島町議会",
+        "stage": "一般会計決算を認定し、住宅向けの交付実績を掲載",
+        "detail": "第37号議案で一般会計決算を認定。議会だよりは関連事業として延べ112件、交付額68万5,000円と掲載した。",
+        "url": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori155.pdf#page=3",
+        "sourceTitle": "かわじま議会だより第155号・紙面3頁",
+        "archiveId": "df1a9a7031ee13f1f1df",
+        "blocks": [
+          27
+        ],
+        "billNumber": "議案第37号"
+      }
+    ],
+    "note": "住宅向けの補助、公共施設の設置済み台数、街灯の設置検討はそれぞれ範囲が異なる。"
+  },
+  {
+    "place": "川島町",
+    "title": "公立保育園統合の改修契約議案を可決し、工事中の募集先を案内",
+    "topic": "保育施設・再編",
+    "actors": [
+      "川島町",
+      "川島町議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-07-10",
+        "actor": "川島町議会",
+        "stage": "改修の工事請負契約議案を可決",
+        "detail": "７月臨時会で、けやき保育園改修工事の契約議案第28号を可決した。",
+        "url": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori155.pdf#page=5",
+        "sourceTitle": "かわじま議会だより第155号・紙面５頁"
+      },
+      {
+        "date": "2026-09-16",
+        "actor": "川島町議会",
+        "stage": "決算を認定し、前年度の実施設計を掲載",
+        "detail": "第37号議案で令和７年度一般会計決算を認定。議会だよりは、けやき保育園の改修の実施設計を行ったと掲載した。",
+        "url": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori155.pdf#page=2",
+        "sourceTitle": "かわじま議会だより第155号・紙面2頁",
+        "archiveId": "df1a9a7031ee13f1f1df",
+        "blocks": [
+          25
+        ],
+        "billNumber": "議案第37号"
+      },
+      {
+        "date": "2026-10-01",
+        "actor": "川島町",
+        "stage": "改修工事中の入園募集先を案内",
+        "detail": "けやき保育園は改修中で、翌年４月の公立園の募集先はさくら保育園のみと案内。改修後に移行するとした。日付は案内の更新日。",
+        "url": "https://www.town.kawajima.saitama.jp/5700.htm",
+        "sourceTitle": "町 令和９年度４月の保育施設入園案内"
+      }
+    ],
+    "note": "工事契約の議決と工事中の案内を確認。改修完了や統合後の保育開始は確認中。"
+  },
+  {
+    "place": "川島町",
+    "title": "川島IC南側の土地区画整理と周辺道路・観光の課題を確認",
+    "topic": "地区開発・交通と観光",
+    "actors": [
+      "川島町",
+      "小高春雄"
+    ],
+    "steps": [
+      {
+        "date": "2026-05",
+        "actor": "川島町",
+        "stage": "南側の都市計画変更・事業認可の経過",
+        "detail": "町のまちづくりの経緯は、５月に都市計画の変更と土地区画整理事業の認可、６月に組合設立と掲載している。",
+        "url": "https://www.town.kawajima.saitama.jp/3371.htm",
+        "sourceTitle": "町 川島インターチェンジ南側地区の事業経過"
+      },
+      {
+        "date": "2026-09-14",
+        "actor": "小高春雄",
+        "stage": "周辺交通と観光の施策を質す",
+        "detail": "開発に伴う橋梁周辺の渋滞対策や、商業施設の進出を見込んだ観光客の回遊について質した。町は警察・県などと交通対策を検討し、町内周遊の施策を進めたいと答えた。",
+        "url": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori155.pdf#page=11",
+        "sourceTitle": "かわじま議会だより第155号・紙面11頁",
+        "archiveId": "df1a9a7031ee13f1f1df",
+        "blocks": [
+          4
+        ],
+        "memberActions": [
+          {
+            "name": "小高春雄",
+            "blocks": [
+              4
+            ],
+            "detail": "開発に伴う橋梁周辺の渋滞対策や、商業施設の進出を見込んだ観光客の回遊について質した。町は警察・県などと交通対策を検討し、町内周遊の施策を進めたいと答えた。"
+          }
+        ]
+      }
+    ],
+    "note": "地区の事業認可と、交通・観光の施策の実施はそれぞれの段階を示す。"
+  }
+]);

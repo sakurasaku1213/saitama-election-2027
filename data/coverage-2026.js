@@ -6996,34 +6996,34 @@ GIKAI.coverage2026 = {
     {
       "place": "川島町",
       "season": "spring",
-      "label": "2026年春の定例会",
+      "label": "令和8年3月定例会",
       "fromDate": "2026-03-04",
-      "toDate": "",
+      "toDate": "2026-03-18",
       "planned": false,
       "materials": {
         "meeting": {
-          "state": "partial",
-          "note": "開会日を確認。閉会日は未照合。"
+          "state": "verified",
+          "note": "公式録画目録で対象の本会議の開会・閉会日を照合。"
         },
         "activity": {
           "state": "partial",
           "note": "この時期の掲載項目 14件。通告・目次・本文の別は活動の出典に表示。"
         },
         "text": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "公式索引と本会議録6資料を照合。"
         },
         "decisions": {
           "state": "verified",
-          "note": "公式の審議結果表に掲載された19行を、件名・結果・掲載箇所で照合。"
+          "note": "審議19件。3月4日2件、3月18日17件。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "議会だより第153号7頁に掲載された19件・13人欄を照合。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "国保税条例案の討論と議決、初夏・秋までの質疑を収録。"
         }
       },
       "sources": [
@@ -7038,36 +7038,44 @@ GIKAI.coverage2026 = {
         {
           "label": "議決結果の原典",
           "url": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf"
+        },
+        {
+          "label": "公式録画目録",
+          "url": "https://smart.discussvision.net/smart/tenant/kawajima/WebView/rd/council.html?year=2026&council_id=42"
+        },
+        {
+          "label": "第153号・記名表決",
+          "url": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori153.pdf#page=7"
         }
       ]
     },
     {
       "place": "川島町",
       "season": "summer",
-      "label": "2026年初夏の定例会",
+      "label": "令和8年6月定例会",
       "fromDate": "2026-06-03",
-      "toDate": "",
+      "toDate": "2026-06-10",
       "planned": false,
       "materials": {
         "meeting": {
-          "state": "partial",
-          "note": "開会日を確認。閉会日は未照合。"
+          "state": "verified",
+          "note": "公式録画目録で対象の本会議の開会・閉会日を照合。"
         },
         "activity": {
           "state": "partial",
           "note": "この時期の掲載項目 15件。通告・目次・本文の別は活動の出典に表示。"
         },
         "text": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "公式索引と本会議録4資料を照合。"
         },
         "decisions": {
           "state": "verified",
-          "note": "公式の審議結果表に掲載された7行を、件名・結果・掲載箇所で照合。"
+          "note": "審議7件。6月3日2件、6月10日5件。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "議会だより第154号4頁に掲載された7件・13人欄を照合。"
         },
         "policy": {
           "state": "partial",
@@ -7090,50 +7098,74 @@ GIKAI.coverage2026 = {
         {
           "label": "宿泊施設立地促進条例案の採決",
           "url": "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteView.html?tenant_id=175&council_id=121&schedule_id=5"
+        },
+        {
+          "label": "公式録画目録",
+          "url": "https://smart.discussvision.net/smart/tenant/kawajima/WebView/rd/council.html?year=2026&council_id=43"
+        },
+        {
+          "label": "第154号・記名表決",
+          "url": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori154.pdf#page=4"
         }
       ]
     },
     {
       "place": "川島町",
       "season": "fall",
-      "label": "2026年秋の定例会",
-      "fromDate": "",
-      "toDate": "",
+      "label": "令和8年9月定例会",
+      "fromDate": "2026-09-02",
+      "toDate": "2026-09-16",
       "planned": false,
       "materials": {
         "meeting": {
-          "state": "identified",
-          "note": "対象時期に関係する資料の掲載箇所を確認。会期の確定は未了。"
+          "state": "verified",
+          "note": "公式録画目録で対象の本会議の開会・閉会日を照合。"
         },
         "activity": {
           "state": "partial",
           "note": "この時期の掲載項目 13件。通告・目次・本文の別は活動の出典に表示。"
         },
         "text": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "第155号の一般質問７人・冒頭７組と本文26組、委員会質疑15組、決算６事業。公式通告13項目を９月14日４人、15日３人の公式録画目録と照合。正式会議録は確認中。"
         },
         "decisions": {
           "state": "verified",
-          "note": "公式の審議結果表に掲載された14行を、件名・結果・掲載箇所で照合。"
+          "note": "審議15件。9月16日15件。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "議会だより第155号8頁に掲載された15件・13人欄を照合。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "国保税、水道と井戸の検査、樹木防除、新ごみ処理施設、防犯、保育園、IC周辺開発の７事例を収録。"
         }
       },
       "sources": [
         {
-          "label": "会期資料　2026年9月定例会",
+          "label": "公式一般質問通告",
           "url": "https://www.town.kawajima.saitama.jp/secure/4022/ippannsitumonR8.9.pdf"
         },
         {
           "label": "議決結果の原典",
           "url": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf"
+        },
+        {
+          "label": "公式録画目録",
+          "url": "https://smart.discussvision.net/smart/tenant/kawajima/WebView/rd/council.html?year=2026&council_id=45"
+        },
+        {
+          "label": "第155号・記名表決",
+          "url": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori155.pdf#page=8"
+        },
+        {
+          "label": "第155号・質問と答弁、委員会質疑",
+          "url": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori155.pdf"
+        },
+        {
+          "label": "公式会期日程",
+          "url": "https://www.town.kawajima.saitama.jp/secure/8654/kaikiyoteihyouR8.9.pdf"
         }
       ]
     },
@@ -18266,9 +18298,29 @@ GIKAI.coverage2026 = {
       "title": "専決処分の承認を求めることについて（令和７年度川島町一般会計補正予算（第１０号））",
       "result": "原案承認",
       "url": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
-      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteView.html?tenant_id=175&council_id=120&schedule_id=2",
       "number": "議案第3号",
-      "voteNote": "公式表の集計は「全員賛成」。"
+      "voteNote": "第153号紙面7頁の記名表決は賛成12、反対0。",
+      "date": "2026-03-04",
+      "voteType": "記名",
+      "votes": {
+        "井上智恵": "賛成",
+        "山﨑宣佳": "賛成",
+        "坂本順子": "賛成",
+        "松原謙司": "賛成",
+        "加藤進": "賛成",
+        "渋谷幸司": "賛成",
+        "矢内秀憲": "賛成",
+        "柴田一典": "賛成",
+        "爲水順二": "賛成",
+        "森田敏男": "賛成",
+        "菊地敏昭": "賛成",
+        "小高春雄": "賛成",
+        "小峯松治": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori153.pdf#page=7",
+      "resultLocator": "3月4日の本会議録",
+      "sourceTitle": "川島町議会の議案審議結果一覧"
     },
     {
       "place": "川島町",
@@ -18277,9 +18329,29 @@ GIKAI.coverage2026 = {
       "title": "第６次川島町総合振興計画基本構想を定めることについて",
       "result": "原案可決",
       "url": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
-      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteView.html?tenant_id=175&council_id=120&schedule_id=2",
       "number": "議案第4号",
-      "voteNote": "公式表の集計は「全員賛成」。"
+      "voteNote": "第153号紙面7頁の記名表決は賛成12、反対0。",
+      "date": "2026-03-04",
+      "voteType": "記名",
+      "votes": {
+        "井上智恵": "賛成",
+        "山﨑宣佳": "賛成",
+        "坂本順子": "賛成",
+        "松原謙司": "賛成",
+        "加藤進": "賛成",
+        "渋谷幸司": "賛成",
+        "矢内秀憲": "賛成",
+        "柴田一典": "賛成",
+        "爲水順二": "賛成",
+        "森田敏男": "賛成",
+        "菊地敏昭": "賛成",
+        "小高春雄": "賛成",
+        "小峯松治": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori153.pdf#page=7",
+      "resultLocator": "3月4日の本会議録",
+      "sourceTitle": "川島町議会の議案審議結果一覧"
     },
     {
       "place": "川島町",
@@ -18288,9 +18360,29 @@ GIKAI.coverage2026 = {
       "title": "川島町課設置条例の一部を改正する条例を定めることについて",
       "result": "原案可決",
       "url": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
-      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteView.html?tenant_id=175&council_id=120&schedule_id=7",
       "number": "議案第5号",
-      "voteNote": "公式表の集計は「全員賛成」。"
+      "voteNote": "第153号紙面7頁の記名表決は賛成12、反対0。",
+      "date": "2026-03-18",
+      "voteType": "記名",
+      "votes": {
+        "井上智恵": "賛成",
+        "山﨑宣佳": "賛成",
+        "坂本順子": "賛成",
+        "松原謙司": "賛成",
+        "加藤進": "賛成",
+        "渋谷幸司": "賛成",
+        "矢内秀憲": "賛成",
+        "柴田一典": "賛成",
+        "爲水順二": "賛成",
+        "森田敏男": "賛成",
+        "菊地敏昭": "賛成",
+        "小高春雄": "賛成",
+        "小峯松治": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori153.pdf#page=7",
+      "resultLocator": "3月18日の本会議録",
+      "sourceTitle": "川島町議会の議案審議結果一覧"
     },
     {
       "place": "川島町",
@@ -18299,9 +18391,29 @@ GIKAI.coverage2026 = {
       "title": "川島町一般職員の給与に関する条例の一部を改正する条例を定めることについて",
       "result": "原案可決",
       "url": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
-      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteView.html?tenant_id=175&council_id=120&schedule_id=7",
       "number": "議案第6号",
-      "voteNote": "公式表の集計は「全員賛成」。"
+      "voteNote": "第153号紙面7頁の記名表決は賛成12、反対0。",
+      "date": "2026-03-18",
+      "voteType": "記名",
+      "votes": {
+        "井上智恵": "賛成",
+        "山﨑宣佳": "賛成",
+        "坂本順子": "賛成",
+        "松原謙司": "賛成",
+        "加藤進": "賛成",
+        "渋谷幸司": "賛成",
+        "矢内秀憲": "賛成",
+        "柴田一典": "賛成",
+        "爲水順二": "賛成",
+        "森田敏男": "賛成",
+        "菊地敏昭": "賛成",
+        "小高春雄": "賛成",
+        "小峯松治": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori153.pdf#page=7",
+      "resultLocator": "3月18日の本会議録",
+      "sourceTitle": "川島町議会の議案審議結果一覧"
     },
     {
       "place": "川島町",
@@ -18310,9 +18422,29 @@ GIKAI.coverage2026 = {
       "title": "川島町国民健康保険税条例の一部を改正する条例を定めることについて",
       "result": "原案可決",
       "url": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
-      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteView.html?tenant_id=175&council_id=120&schedule_id=7",
       "number": "議案第7号",
-      "voteNote": "公式表の集計は「全員賛成」。"
+      "voteNote": "第153号紙面7頁の記名表決は賛成11、反対1。本会議録は「賛成多数」。公式結果一覧は「全員賛成」と記載。",
+      "date": "2026-03-18",
+      "voteType": "記名",
+      "votes": {
+        "井上智恵": "賛成",
+        "山﨑宣佳": "賛成",
+        "坂本順子": "賛成",
+        "松原謙司": "賛成",
+        "加藤進": "賛成",
+        "渋谷幸司": "反対",
+        "矢内秀憲": "賛成",
+        "柴田一典": "賛成",
+        "爲水順二": "賛成",
+        "森田敏男": "賛成",
+        "菊地敏昭": "賛成",
+        "小高春雄": "賛成",
+        "小峯松治": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori153.pdf#page=7",
+      "resultLocator": "３月18日の本会議録・賛成多数の宣告（270頁）",
+      "sourceTitle": "川島町議会の議案審議結果一覧"
     },
     {
       "place": "川島町",
@@ -18321,9 +18453,29 @@ GIKAI.coverage2026 = {
       "title": "川島町青少年問題協議会条例を廃止する条例を定めることについて",
       "result": "原案可決",
       "url": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
-      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteView.html?tenant_id=175&council_id=120&schedule_id=7",
       "number": "議案第8号",
-      "voteNote": "公式表の集計は「全員賛成」。"
+      "voteNote": "第153号紙面7頁の記名表決は賛成12、反対0。",
+      "date": "2026-03-18",
+      "voteType": "記名",
+      "votes": {
+        "井上智恵": "賛成",
+        "山﨑宣佳": "賛成",
+        "坂本順子": "賛成",
+        "松原謙司": "賛成",
+        "加藤進": "賛成",
+        "渋谷幸司": "賛成",
+        "矢内秀憲": "賛成",
+        "柴田一典": "賛成",
+        "爲水順二": "賛成",
+        "森田敏男": "賛成",
+        "菊地敏昭": "賛成",
+        "小高春雄": "賛成",
+        "小峯松治": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori153.pdf#page=7",
+      "resultLocator": "3月18日の本会議録",
+      "sourceTitle": "川島町議会の議案審議結果一覧"
     },
     {
       "place": "川島町",
@@ -18332,9 +18484,29 @@ GIKAI.coverage2026 = {
       "title": "令和７年度川島町一般会計補正予算（第１１号）",
       "result": "原案可決",
       "url": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
-      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteView.html?tenant_id=175&council_id=120&schedule_id=7",
       "number": "議案第9号",
-      "voteNote": "公式表の集計は「全員賛成」。"
+      "voteNote": "第153号紙面7頁の記名表決は賛成12、反対0。",
+      "date": "2026-03-18",
+      "voteType": "記名",
+      "votes": {
+        "井上智恵": "賛成",
+        "山﨑宣佳": "賛成",
+        "坂本順子": "賛成",
+        "松原謙司": "賛成",
+        "加藤進": "賛成",
+        "渋谷幸司": "賛成",
+        "矢内秀憲": "賛成",
+        "柴田一典": "賛成",
+        "爲水順二": "賛成",
+        "森田敏男": "賛成",
+        "菊地敏昭": "賛成",
+        "小高春雄": "賛成",
+        "小峯松治": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori153.pdf#page=7",
+      "resultLocator": "3月18日の本会議録",
+      "sourceTitle": "川島町議会の議案審議結果一覧"
     },
     {
       "place": "川島町",
@@ -18343,9 +18515,29 @@ GIKAI.coverage2026 = {
       "title": "令和７年度川島町国民健康保険特別会計補正予算（第２号）",
       "result": "原案可決",
       "url": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
-      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteView.html?tenant_id=175&council_id=120&schedule_id=7",
       "number": "議案第10号",
-      "voteNote": "公式表の集計は「全員賛成」。"
+      "voteNote": "第153号紙面7頁の記名表決は賛成12、反対0。",
+      "date": "2026-03-18",
+      "voteType": "記名",
+      "votes": {
+        "井上智恵": "賛成",
+        "山﨑宣佳": "賛成",
+        "坂本順子": "賛成",
+        "松原謙司": "賛成",
+        "加藤進": "賛成",
+        "渋谷幸司": "賛成",
+        "矢内秀憲": "賛成",
+        "柴田一典": "賛成",
+        "爲水順二": "賛成",
+        "森田敏男": "賛成",
+        "菊地敏昭": "賛成",
+        "小高春雄": "賛成",
+        "小峯松治": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori153.pdf#page=7",
+      "resultLocator": "3月18日の本会議録",
+      "sourceTitle": "川島町議会の議案審議結果一覧"
     },
     {
       "place": "川島町",
@@ -18354,9 +18546,29 @@ GIKAI.coverage2026 = {
       "title": "令和７年度川島町介護保険特別会計補正予算（第２号）",
       "result": "原案可決",
       "url": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
-      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteView.html?tenant_id=175&council_id=120&schedule_id=7",
       "number": "議案第11号",
-      "voteNote": "公式表の集計は「全員賛成」。"
+      "voteNote": "第153号紙面7頁の記名表決は賛成12、反対0。",
+      "date": "2026-03-18",
+      "voteType": "記名",
+      "votes": {
+        "井上智恵": "賛成",
+        "山﨑宣佳": "賛成",
+        "坂本順子": "賛成",
+        "松原謙司": "賛成",
+        "加藤進": "賛成",
+        "渋谷幸司": "賛成",
+        "矢内秀憲": "賛成",
+        "柴田一典": "賛成",
+        "爲水順二": "賛成",
+        "森田敏男": "賛成",
+        "菊地敏昭": "賛成",
+        "小高春雄": "賛成",
+        "小峯松治": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori153.pdf#page=7",
+      "resultLocator": "3月18日の本会議録",
+      "sourceTitle": "川島町議会の議案審議結果一覧"
     },
     {
       "place": "川島町",
@@ -18365,9 +18577,29 @@ GIKAI.coverage2026 = {
       "title": "令和７年度川島町後期高齢者医療特別会計補正予算（第２号）",
       "result": "原案可決",
       "url": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
-      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteView.html?tenant_id=175&council_id=120&schedule_id=7",
       "number": "議案第12号",
-      "voteNote": "公式表の集計は「全員賛成」。"
+      "voteNote": "第153号紙面7頁の記名表決は賛成12、反対0。",
+      "date": "2026-03-18",
+      "voteType": "記名",
+      "votes": {
+        "井上智恵": "賛成",
+        "山﨑宣佳": "賛成",
+        "坂本順子": "賛成",
+        "松原謙司": "賛成",
+        "加藤進": "賛成",
+        "渋谷幸司": "賛成",
+        "矢内秀憲": "賛成",
+        "柴田一典": "賛成",
+        "爲水順二": "賛成",
+        "森田敏男": "賛成",
+        "菊地敏昭": "賛成",
+        "小高春雄": "賛成",
+        "小峯松治": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori153.pdf#page=7",
+      "resultLocator": "3月18日の本会議録",
+      "sourceTitle": "川島町議会の議案審議結果一覧"
     },
     {
       "place": "川島町",
@@ -18376,9 +18608,29 @@ GIKAI.coverage2026 = {
       "title": "令和７年度川島町水道事業会計補正予算（第５号）",
       "result": "原案可決",
       "url": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
-      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteView.html?tenant_id=175&council_id=120&schedule_id=7",
       "number": "議案第13号",
-      "voteNote": "公式表の集計は「全員賛成」。"
+      "voteNote": "第153号紙面7頁の記名表決は賛成12、反対0。",
+      "date": "2026-03-18",
+      "voteType": "記名",
+      "votes": {
+        "井上智恵": "賛成",
+        "山﨑宣佳": "賛成",
+        "坂本順子": "賛成",
+        "松原謙司": "賛成",
+        "加藤進": "賛成",
+        "渋谷幸司": "賛成",
+        "矢内秀憲": "賛成",
+        "柴田一典": "賛成",
+        "爲水順二": "賛成",
+        "森田敏男": "賛成",
+        "菊地敏昭": "賛成",
+        "小高春雄": "賛成",
+        "小峯松治": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori153.pdf#page=7",
+      "resultLocator": "3月18日の本会議録",
+      "sourceTitle": "川島町議会の議案審議結果一覧"
     },
     {
       "place": "川島町",
@@ -18387,9 +18639,29 @@ GIKAI.coverage2026 = {
       "title": "令和８年度川島町一般会計予算",
       "result": "原案可決",
       "url": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
-      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=1",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteView.html?tenant_id=175&council_id=120&schedule_id=7",
       "number": "議案第14号",
-      "voteNote": "公式表の集計は「賛成多数」。"
+      "voteNote": "第153号紙面7頁の記名表決は賛成10、反対2。",
+      "date": "2026-03-18",
+      "voteType": "記名",
+      "votes": {
+        "井上智恵": "賛成",
+        "山﨑宣佳": "反対",
+        "坂本順子": "賛成",
+        "松原謙司": "賛成",
+        "加藤進": "賛成",
+        "渋谷幸司": "反対",
+        "矢内秀憲": "賛成",
+        "柴田一典": "賛成",
+        "爲水順二": "賛成",
+        "森田敏男": "賛成",
+        "菊地敏昭": "賛成",
+        "小高春雄": "賛成",
+        "小峯松治": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori153.pdf#page=7",
+      "resultLocator": "3月18日の本会議録",
+      "sourceTitle": "川島町議会の議案審議結果一覧"
     },
     {
       "place": "川島町",
@@ -18398,9 +18670,29 @@ GIKAI.coverage2026 = {
       "title": "令和８年度川島町国民健康保険特別会計予算",
       "result": "原案可決",
       "url": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=2",
-      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=2",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteView.html?tenant_id=175&council_id=120&schedule_id=7",
       "number": "議案第15号",
-      "voteNote": "公式表の集計は「賛成多数」。"
+      "voteNote": "第153号紙面7頁の記名表決は賛成11、反対1。",
+      "date": "2026-03-18",
+      "voteType": "記名",
+      "votes": {
+        "井上智恵": "賛成",
+        "山﨑宣佳": "賛成",
+        "坂本順子": "賛成",
+        "松原謙司": "賛成",
+        "加藤進": "賛成",
+        "渋谷幸司": "反対",
+        "矢内秀憲": "賛成",
+        "柴田一典": "賛成",
+        "爲水順二": "賛成",
+        "森田敏男": "賛成",
+        "菊地敏昭": "賛成",
+        "小高春雄": "賛成",
+        "小峯松治": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori153.pdf#page=7",
+      "resultLocator": "3月18日の本会議録",
+      "sourceTitle": "川島町議会の議案審議結果一覧"
     },
     {
       "place": "川島町",
@@ -18409,9 +18701,29 @@ GIKAI.coverage2026 = {
       "title": "令和８年度川島町介護保険特別会計予算",
       "result": "原案可決",
       "url": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=2",
-      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=2",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteView.html?tenant_id=175&council_id=120&schedule_id=7",
       "number": "議案第16号",
-      "voteNote": "公式表の集計は「全員賛成」。"
+      "voteNote": "第153号紙面7頁の記名表決は賛成12、反対0。",
+      "date": "2026-03-18",
+      "voteType": "記名",
+      "votes": {
+        "井上智恵": "賛成",
+        "山﨑宣佳": "賛成",
+        "坂本順子": "賛成",
+        "松原謙司": "賛成",
+        "加藤進": "賛成",
+        "渋谷幸司": "賛成",
+        "矢内秀憲": "賛成",
+        "柴田一典": "賛成",
+        "爲水順二": "賛成",
+        "森田敏男": "賛成",
+        "菊地敏昭": "賛成",
+        "小高春雄": "賛成",
+        "小峯松治": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori153.pdf#page=7",
+      "resultLocator": "3月18日の本会議録",
+      "sourceTitle": "川島町議会の議案審議結果一覧"
     },
     {
       "place": "川島町",
@@ -18420,9 +18732,29 @@ GIKAI.coverage2026 = {
       "title": "令和８年度川島町後期高齢者医療特別会計予算",
       "result": "原案可決",
       "url": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=2",
-      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=2",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteView.html?tenant_id=175&council_id=120&schedule_id=7",
       "number": "議案第17号",
-      "voteNote": "公式表の集計は「賛成多数」。"
+      "voteNote": "第153号紙面7頁の記名表決は賛成11、反対1。",
+      "date": "2026-03-18",
+      "voteType": "記名",
+      "votes": {
+        "井上智恵": "賛成",
+        "山﨑宣佳": "賛成",
+        "坂本順子": "賛成",
+        "松原謙司": "賛成",
+        "加藤進": "賛成",
+        "渋谷幸司": "反対",
+        "矢内秀憲": "賛成",
+        "柴田一典": "賛成",
+        "爲水順二": "賛成",
+        "森田敏男": "賛成",
+        "菊地敏昭": "賛成",
+        "小高春雄": "賛成",
+        "小峯松治": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori153.pdf#page=7",
+      "resultLocator": "3月18日の本会議録",
+      "sourceTitle": "川島町議会の議案審議結果一覧"
     },
     {
       "place": "川島町",
@@ -18431,9 +18763,29 @@ GIKAI.coverage2026 = {
       "title": "令和８年度川島町水道事業会計予算",
       "result": "原案可決",
       "url": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=2",
-      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=2",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteView.html?tenant_id=175&council_id=120&schedule_id=7",
       "number": "議案第18号",
-      "voteNote": "公式表の集計は「全員賛成」。"
+      "voteNote": "第153号紙面7頁の記名表決は賛成12、反対0。",
+      "date": "2026-03-18",
+      "voteType": "記名",
+      "votes": {
+        "井上智恵": "賛成",
+        "山﨑宣佳": "賛成",
+        "坂本順子": "賛成",
+        "松原謙司": "賛成",
+        "加藤進": "賛成",
+        "渋谷幸司": "賛成",
+        "矢内秀憲": "賛成",
+        "柴田一典": "賛成",
+        "爲水順二": "賛成",
+        "森田敏男": "賛成",
+        "菊地敏昭": "賛成",
+        "小高春雄": "賛成",
+        "小峯松治": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori153.pdf#page=7",
+      "resultLocator": "3月18日の本会議録",
+      "sourceTitle": "川島町議会の議案審議結果一覧"
     },
     {
       "place": "川島町",
@@ -18442,9 +18794,29 @@ GIKAI.coverage2026 = {
       "title": "令和８年度川島町下水道事業会計予算",
       "result": "原案可決",
       "url": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=2",
-      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=2",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteView.html?tenant_id=175&council_id=120&schedule_id=7",
       "number": "議案第19号",
-      "voteNote": "公式表の集計は「全員賛成」。"
+      "voteNote": "第153号紙面7頁の記名表決は賛成12、反対0。",
+      "date": "2026-03-18",
+      "voteType": "記名",
+      "votes": {
+        "井上智恵": "賛成",
+        "山﨑宣佳": "賛成",
+        "坂本順子": "賛成",
+        "松原謙司": "賛成",
+        "加藤進": "賛成",
+        "渋谷幸司": "賛成",
+        "矢内秀憲": "賛成",
+        "柴田一典": "賛成",
+        "爲水順二": "賛成",
+        "森田敏男": "賛成",
+        "菊地敏昭": "賛成",
+        "小高春雄": "賛成",
+        "小峯松治": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori153.pdf#page=7",
+      "resultLocator": "3月18日の本会議録",
+      "sourceTitle": "川島町議会の議案審議結果一覧"
     },
     {
       "place": "川島町",
@@ -18453,9 +18825,29 @@ GIKAI.coverage2026 = {
       "title": "人権擁護委員の推薦について",
       "result": "原案同意",
       "url": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=2",
-      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=2",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteView.html?tenant_id=175&council_id=120&schedule_id=7",
       "number": "諮問第1号",
-      "voteNote": "公式表の集計は「全員賛成」。"
+      "voteNote": "第153号紙面7頁の記名表決は賛成12、反対0。",
+      "date": "2026-03-18",
+      "voteType": "記名",
+      "votes": {
+        "井上智恵": "賛成",
+        "山﨑宣佳": "賛成",
+        "坂本順子": "賛成",
+        "松原謙司": "賛成",
+        "加藤進": "賛成",
+        "渋谷幸司": "賛成",
+        "矢内秀憲": "賛成",
+        "柴田一典": "賛成",
+        "爲水順二": "賛成",
+        "森田敏男": "賛成",
+        "菊地敏昭": "賛成",
+        "小高春雄": "賛成",
+        "小峯松治": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori153.pdf#page=7",
+      "resultLocator": "3月18日の本会議録",
+      "sourceTitle": "川島町議会の議案審議結果一覧"
     },
     {
       "place": "川島町",
@@ -18464,9 +18856,29 @@ GIKAI.coverage2026 = {
       "title": "川島町議会委員会条例の一部を改正する条例を定めることについて",
       "result": "原案可決",
       "url": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=2",
-      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/R8.02sinngikekka.pdf#page=2",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteView.html?tenant_id=175&council_id=120&schedule_id=7",
       "number": "議提第1号",
-      "voteNote": "公式表の集計は「全員賛成」。"
+      "voteNote": "第153号紙面7頁の記名表決は賛成12、反対0。",
+      "date": "2026-03-18",
+      "voteType": "記名",
+      "votes": {
+        "井上智恵": "賛成",
+        "山﨑宣佳": "賛成",
+        "坂本順子": "賛成",
+        "松原謙司": "賛成",
+        "加藤進": "賛成",
+        "渋谷幸司": "賛成",
+        "矢内秀憲": "賛成",
+        "柴田一典": "賛成",
+        "爲水順二": "賛成",
+        "森田敏男": "賛成",
+        "菊地敏昭": "賛成",
+        "小高春雄": "賛成",
+        "小峯松治": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori153.pdf#page=7",
+      "resultLocator": "3月18日の本会議録",
+      "sourceTitle": "川島町議会の議案審議結果一覧"
     },
     {
       "place": "川島町",
@@ -18475,9 +18887,29 @@ GIKAI.coverage2026 = {
       "title": "専決処分の承認を求めることについて（川島町税条例の一部を改正する条例）",
       "result": "原案承認",
       "url": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR806.pdf#page=1",
-      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR806.pdf#page=1",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteView.html?tenant_id=175&council_id=121&schedule_id=2",
       "number": "議案第20号",
-      "voteNote": "公式表の集計は「全員賛成」。"
+      "voteNote": "第154号紙面4頁の記名表決は賛成12、反対0。",
+      "date": "2026-06-03",
+      "voteType": "記名",
+      "votes": {
+        "井上智恵": "賛成",
+        "山﨑宣佳": "賛成",
+        "坂本順子": "賛成",
+        "松原謙司": "賛成",
+        "加藤進": "賛成",
+        "渋谷幸司": "賛成",
+        "矢内秀憲": "賛成",
+        "柴田一典": "賛成",
+        "爲水順二": "賛成",
+        "森田敏男": "賛成",
+        "菊地敏昭": "賛成",
+        "小高春雄": "賛成",
+        "小峯松治": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori154.pdf#page=4",
+      "resultLocator": "6月3日の本会議録",
+      "sourceTitle": "川島町議会の議案審議結果一覧"
     },
     {
       "place": "川島町",
@@ -18486,9 +18918,29 @@ GIKAI.coverage2026 = {
       "title": "専決処分の承認を求めることについて（川島町国民健康保険税条例の一部を改正する条例）",
       "result": "原案承認",
       "url": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR806.pdf#page=1",
-      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR806.pdf#page=1",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteView.html?tenant_id=175&council_id=121&schedule_id=2",
       "number": "議案第21号",
-      "voteNote": "公式表の集計は「賛成多数」。"
+      "voteNote": "第154号紙面4頁の記名表決は賛成11、反対1。",
+      "date": "2026-06-03",
+      "voteType": "記名",
+      "votes": {
+        "井上智恵": "賛成",
+        "山﨑宣佳": "賛成",
+        "坂本順子": "賛成",
+        "松原謙司": "賛成",
+        "加藤進": "賛成",
+        "渋谷幸司": "反対",
+        "矢内秀憲": "賛成",
+        "柴田一典": "賛成",
+        "爲水順二": "賛成",
+        "森田敏男": "賛成",
+        "菊地敏昭": "賛成",
+        "小高春雄": "賛成",
+        "小峯松治": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori154.pdf#page=4",
+      "resultLocator": "6月3日の本会議録",
+      "sourceTitle": "川島町議会の議案審議結果一覧"
     },
     {
       "place": "川島町",
@@ -18497,10 +18949,29 @@ GIKAI.coverage2026 = {
       "title": "川島町宿泊施設立地促進条例を定めることについて",
       "result": "原案可決",
       "url": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR806.pdf#page=1",
-      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR806.pdf#page=1",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteView.html?tenant_id=175&council_id=121&schedule_id=5",
       "number": "議案第22号",
       "date": "2026-06-10",
-      "voteNote": "公式表の集計は「賛成多数」。"
+      "voteNote": "第154号紙面4頁の記名表決は賛成11、反対1。",
+      "voteType": "記名",
+      "votes": {
+        "井上智恵": "賛成",
+        "山﨑宣佳": "賛成",
+        "坂本順子": "賛成",
+        "松原謙司": "賛成",
+        "加藤進": "賛成",
+        "渋谷幸司": "反対",
+        "矢内秀憲": "賛成",
+        "柴田一典": "賛成",
+        "爲水順二": "賛成",
+        "森田敏男": "賛成",
+        "菊地敏昭": "賛成",
+        "小高春雄": "賛成",
+        "小峯松治": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori154.pdf#page=4",
+      "resultLocator": "6月10日の本会議録",
+      "sourceTitle": "川島町議会の議案審議結果一覧"
     },
     {
       "place": "川島町",
@@ -18509,9 +18980,29 @@ GIKAI.coverage2026 = {
       "title": "川島町印鑑条例の一部を改正する条例を定めることについて",
       "result": "原案可決",
       "url": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR806.pdf#page=1",
-      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR806.pdf#page=1",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteView.html?tenant_id=175&council_id=121&schedule_id=5",
       "number": "議案第23号",
-      "voteNote": "公式表の集計は「全員賛成」。"
+      "voteNote": "第154号紙面4頁の記名表決は賛成12、反対0。",
+      "date": "2026-06-10",
+      "voteType": "記名",
+      "votes": {
+        "井上智恵": "賛成",
+        "山﨑宣佳": "賛成",
+        "坂本順子": "賛成",
+        "松原謙司": "賛成",
+        "加藤進": "賛成",
+        "渋谷幸司": "賛成",
+        "矢内秀憲": "賛成",
+        "柴田一典": "賛成",
+        "爲水順二": "賛成",
+        "森田敏男": "賛成",
+        "菊地敏昭": "賛成",
+        "小高春雄": "賛成",
+        "小峯松治": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori154.pdf#page=4",
+      "resultLocator": "6月10日の本会議録",
+      "sourceTitle": "川島町議会の議案審議結果一覧"
     },
     {
       "place": "川島町",
@@ -18520,9 +19011,29 @@ GIKAI.coverage2026 = {
       "title": "令和８年度川島町一般会計補正予算（第１号）",
       "result": "原案可決",
       "url": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR806.pdf#page=1",
-      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR806.pdf#page=1",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteView.html?tenant_id=175&council_id=121&schedule_id=5",
       "number": "議案第24号",
-      "voteNote": "公式表の集計は「全員賛成」。"
+      "voteNote": "第154号紙面4頁の記名表決は賛成12、反対0。",
+      "date": "2026-06-10",
+      "voteType": "記名",
+      "votes": {
+        "井上智恵": "賛成",
+        "山﨑宣佳": "賛成",
+        "坂本順子": "賛成",
+        "松原謙司": "賛成",
+        "加藤進": "賛成",
+        "渋谷幸司": "賛成",
+        "矢内秀憲": "賛成",
+        "柴田一典": "賛成",
+        "爲水順二": "賛成",
+        "森田敏男": "賛成",
+        "菊地敏昭": "賛成",
+        "小高春雄": "賛成",
+        "小峯松治": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori154.pdf#page=4",
+      "resultLocator": "6月10日の本会議録",
+      "sourceTitle": "川島町議会の議案審議結果一覧"
     },
     {
       "place": "川島町",
@@ -18531,9 +19042,29 @@ GIKAI.coverage2026 = {
       "title": "令和８年度川島町後期高齢者医療特別会計補正予算（第１号）",
       "result": "原案可決",
       "url": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR806.pdf#page=1",
-      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR806.pdf#page=1",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteView.html?tenant_id=175&council_id=121&schedule_id=5",
       "number": "議案第25号",
-      "voteNote": "公式表の集計は「全員賛成」。"
+      "voteNote": "第154号紙面4頁の記名表決は賛成12、反対0。",
+      "date": "2026-06-10",
+      "voteType": "記名",
+      "votes": {
+        "井上智恵": "賛成",
+        "山﨑宣佳": "賛成",
+        "坂本順子": "賛成",
+        "松原謙司": "賛成",
+        "加藤進": "賛成",
+        "渋谷幸司": "賛成",
+        "矢内秀憲": "賛成",
+        "柴田一典": "賛成",
+        "爲水順二": "賛成",
+        "森田敏男": "賛成",
+        "菊地敏昭": "賛成",
+        "小高春雄": "賛成",
+        "小峯松治": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori154.pdf#page=4",
+      "resultLocator": "6月10日の本会議録",
+      "sourceTitle": "川島町議会の議案審議結果一覧"
     },
     {
       "place": "川島町",
@@ -18542,9 +19073,29 @@ GIKAI.coverage2026 = {
       "title": "工事請負契約の締結について（川島町民会館空調設備更新工事）",
       "result": "原案可決",
       "url": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR806.pdf#page=1",
-      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR806.pdf#page=1",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/kawajima/SpMinuteView.html?tenant_id=175&council_id=121&schedule_id=5",
       "number": "議案第26号",
-      "voteNote": "公式表の集計は「全員賛成」。"
+      "voteNote": "第154号紙面4頁の記名表決は賛成12、反対0。",
+      "date": "2026-06-10",
+      "voteType": "記名",
+      "votes": {
+        "井上智恵": "賛成",
+        "山﨑宣佳": "賛成",
+        "坂本順子": "賛成",
+        "松原謙司": "賛成",
+        "加藤進": "賛成",
+        "渋谷幸司": "賛成",
+        "矢内秀憲": "賛成",
+        "柴田一典": "賛成",
+        "爲水順二": "賛成",
+        "森田敏男": "賛成",
+        "菊地敏昭": "賛成",
+        "小高春雄": "賛成",
+        "小峯松治": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori154.pdf#page=4",
+      "resultLocator": "6月10日の本会議録",
+      "sourceTitle": "川島町議会の議案審議結果一覧"
     },
     {
       "place": "川島町",
@@ -18553,9 +19104,29 @@ GIKAI.coverage2026 = {
       "title": "川島町子育て支援医療費支給に関する条例等の一部を改正する条例を定めることについて",
       "result": "原案可決",
       "url": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
-      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
+      "resultURL": "https://smart.discussvision.net/smart/tenant/kawajima/WebView/rd/speech.html?council_id=45&schedule_id=6&playlist_id=1&speaker_id=0&target_year=2026",
       "number": "議案第30号",
-      "voteNote": "公式表の集計は「全員賛成」。"
+      "voteNote": "第155号紙面8頁の記名表決は賛成12、反対0。",
+      "date": "2026-09-16",
+      "voteType": "記名",
+      "votes": {
+        "井上智恵": "賛成",
+        "山﨑宣佳": "賛成",
+        "坂本順子": "賛成",
+        "松原謙司": "賛成",
+        "加藤進": "賛成",
+        "渋谷幸司": "賛成",
+        "矢内秀憲": "賛成",
+        "柴田一典": "賛成",
+        "爲水順二": "賛成",
+        "森田敏男": "賛成",
+        "菊地敏昭": "賛成",
+        "小高春雄": "賛成",
+        "小峯松治": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori155.pdf#page=8",
+      "resultLocator": "９月16日の公式録画・討論と採決",
+      "sourceTitle": "川島町議会の議案審議結果一覧"
     },
     {
       "place": "川島町",
@@ -18564,9 +19135,29 @@ GIKAI.coverage2026 = {
       "title": "川島町地区計画区域内における建築物の制限に関する条例の一部を改正する条例を定めることについて",
       "result": "原案可決",
       "url": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
-      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
+      "resultURL": "https://smart.discussvision.net/smart/tenant/kawajima/WebView/rd/speech.html?council_id=45&schedule_id=6&playlist_id=1&speaker_id=0&target_year=2026",
       "number": "議案第31号",
-      "voteNote": "公式表の集計は「全員賛成」。"
+      "voteNote": "第155号紙面8頁の記名表決は賛成12、反対0。",
+      "date": "2026-09-16",
+      "voteType": "記名",
+      "votes": {
+        "井上智恵": "賛成",
+        "山﨑宣佳": "賛成",
+        "坂本順子": "賛成",
+        "松原謙司": "賛成",
+        "加藤進": "賛成",
+        "渋谷幸司": "賛成",
+        "矢内秀憲": "賛成",
+        "柴田一典": "賛成",
+        "爲水順二": "賛成",
+        "森田敏男": "賛成",
+        "菊地敏昭": "賛成",
+        "小高春雄": "賛成",
+        "小峯松治": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori155.pdf#page=8",
+      "resultLocator": "９月16日の公式録画・討論と採決",
+      "sourceTitle": "川島町議会の議案審議結果一覧"
     },
     {
       "place": "川島町",
@@ -18575,9 +19166,29 @@ GIKAI.coverage2026 = {
       "title": "令和８年度川島町一般会計補正予算（第３号）",
       "result": "原案可決",
       "url": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
-      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
+      "resultURL": "https://smart.discussvision.net/smart/tenant/kawajima/WebView/rd/speech.html?council_id=45&schedule_id=6&playlist_id=1&speaker_id=0&target_year=2026",
       "number": "議案第32号",
-      "voteNote": "公式表の集計は「全員賛成」。"
+      "voteNote": "第155号紙面8頁の記名表決は賛成12、反対0。",
+      "date": "2026-09-16",
+      "voteType": "記名",
+      "votes": {
+        "井上智恵": "賛成",
+        "山﨑宣佳": "賛成",
+        "坂本順子": "賛成",
+        "松原謙司": "賛成",
+        "加藤進": "賛成",
+        "渋谷幸司": "賛成",
+        "矢内秀憲": "賛成",
+        "柴田一典": "賛成",
+        "爲水順二": "賛成",
+        "森田敏男": "賛成",
+        "菊地敏昭": "賛成",
+        "小高春雄": "賛成",
+        "小峯松治": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori155.pdf#page=8",
+      "resultLocator": "９月16日の公式録画・討論と採決",
+      "sourceTitle": "川島町議会の議案審議結果一覧"
     },
     {
       "place": "川島町",
@@ -18586,9 +19197,29 @@ GIKAI.coverage2026 = {
       "title": "令和８年度川島町国民健康保険特別会計補正予算（第１号）",
       "result": "原案可決",
       "url": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
-      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
+      "resultURL": "https://smart.discussvision.net/smart/tenant/kawajima/WebView/rd/speech.html?council_id=45&schedule_id=6&playlist_id=1&speaker_id=0&target_year=2026",
       "number": "議案第33号",
-      "voteNote": "公式表の集計は「全員賛成」。"
+      "voteNote": "第155号紙面8頁の記名表決は賛成12、反対0。",
+      "date": "2026-09-16",
+      "voteType": "記名",
+      "votes": {
+        "井上智恵": "賛成",
+        "山﨑宣佳": "賛成",
+        "坂本順子": "賛成",
+        "松原謙司": "賛成",
+        "加藤進": "賛成",
+        "渋谷幸司": "賛成",
+        "矢内秀憲": "賛成",
+        "柴田一典": "賛成",
+        "爲水順二": "賛成",
+        "森田敏男": "賛成",
+        "菊地敏昭": "賛成",
+        "小高春雄": "賛成",
+        "小峯松治": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori155.pdf#page=8",
+      "resultLocator": "９月16日の公式録画・討論と採決",
+      "sourceTitle": "川島町議会の議案審議結果一覧"
     },
     {
       "place": "川島町",
@@ -18597,9 +19228,29 @@ GIKAI.coverage2026 = {
       "title": "令和８年度川島町介護保険特別会計補正予算（第１号）",
       "result": "原案可決",
       "url": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
-      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
+      "resultURL": "https://smart.discussvision.net/smart/tenant/kawajima/WebView/rd/speech.html?council_id=45&schedule_id=6&playlist_id=1&speaker_id=0&target_year=2026",
       "number": "議案第34号",
-      "voteNote": "公式表の集計は「全員賛成」。"
+      "voteNote": "第155号紙面8頁の記名表決は賛成12、反対0。",
+      "date": "2026-09-16",
+      "voteType": "記名",
+      "votes": {
+        "井上智恵": "賛成",
+        "山﨑宣佳": "賛成",
+        "坂本順子": "賛成",
+        "松原謙司": "賛成",
+        "加藤進": "賛成",
+        "渋谷幸司": "賛成",
+        "矢内秀憲": "賛成",
+        "柴田一典": "賛成",
+        "爲水順二": "賛成",
+        "森田敏男": "賛成",
+        "菊地敏昭": "賛成",
+        "小高春雄": "賛成",
+        "小峯松治": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori155.pdf#page=8",
+      "resultLocator": "９月16日の公式録画・討論と採決",
+      "sourceTitle": "川島町議会の議案審議結果一覧"
     },
     {
       "place": "川島町",
@@ -18608,9 +19259,29 @@ GIKAI.coverage2026 = {
       "title": "令和８年度川島町水道事業会計補正予算（第１号）",
       "result": "原案可決",
       "url": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
-      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
+      "resultURL": "https://smart.discussvision.net/smart/tenant/kawajima/WebView/rd/speech.html?council_id=45&schedule_id=6&playlist_id=1&speaker_id=0&target_year=2026",
       "number": "議案第35号",
-      "voteNote": "公式表の集計は「全員賛成」。"
+      "voteNote": "第155号紙面8頁の記名表決は賛成12、反対0。",
+      "date": "2026-09-16",
+      "voteType": "記名",
+      "votes": {
+        "井上智恵": "賛成",
+        "山﨑宣佳": "賛成",
+        "坂本順子": "賛成",
+        "松原謙司": "賛成",
+        "加藤進": "賛成",
+        "渋谷幸司": "賛成",
+        "矢内秀憲": "賛成",
+        "柴田一典": "賛成",
+        "爲水順二": "賛成",
+        "森田敏男": "賛成",
+        "菊地敏昭": "賛成",
+        "小高春雄": "賛成",
+        "小峯松治": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori155.pdf#page=8",
+      "resultLocator": "９月16日の公式録画・討論と採決",
+      "sourceTitle": "川島町議会の議案審議結果一覧"
     },
     {
       "place": "川島町",
@@ -18619,9 +19290,29 @@ GIKAI.coverage2026 = {
       "title": "令和８年度川島町下水道事業会計補正予算（第１号）",
       "result": "原案可決",
       "url": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
-      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
+      "resultURL": "https://smart.discussvision.net/smart/tenant/kawajima/WebView/rd/speech.html?council_id=45&schedule_id=6&playlist_id=1&speaker_id=0&target_year=2026",
       "number": "議案第36号",
-      "voteNote": "公式表の集計は「全員賛成」。"
+      "voteNote": "第155号紙面8頁の記名表決は賛成12、反対0。",
+      "date": "2026-09-16",
+      "voteType": "記名",
+      "votes": {
+        "井上智恵": "賛成",
+        "山﨑宣佳": "賛成",
+        "坂本順子": "賛成",
+        "松原謙司": "賛成",
+        "加藤進": "賛成",
+        "渋谷幸司": "賛成",
+        "矢内秀憲": "賛成",
+        "柴田一典": "賛成",
+        "爲水順二": "賛成",
+        "森田敏男": "賛成",
+        "菊地敏昭": "賛成",
+        "小高春雄": "賛成",
+        "小峯松治": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori155.pdf#page=8",
+      "resultLocator": "９月16日の公式録画・討論と採決",
+      "sourceTitle": "川島町議会の議案審議結果一覧"
     },
     {
       "place": "川島町",
@@ -18630,9 +19321,29 @@ GIKAI.coverage2026 = {
       "title": "令和７年度川島町一般会計歳入歳出決算認定について",
       "result": "原案認定",
       "url": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
-      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
+      "resultURL": "https://smart.discussvision.net/smart/tenant/kawajima/WebView/rd/speech.html?council_id=45&schedule_id=6&playlist_id=1&speaker_id=0&target_year=2026",
       "number": "議案第37号",
-      "voteNote": "公式表の集計は「全員賛成」。"
+      "voteNote": "第155号紙面8頁の記名表決は賛成12、反対0。",
+      "date": "2026-09-16",
+      "voteType": "記名",
+      "votes": {
+        "井上智恵": "賛成",
+        "山﨑宣佳": "賛成",
+        "坂本順子": "賛成",
+        "松原謙司": "賛成",
+        "加藤進": "賛成",
+        "渋谷幸司": "賛成",
+        "矢内秀憲": "賛成",
+        "柴田一典": "賛成",
+        "爲水順二": "賛成",
+        "森田敏男": "賛成",
+        "菊地敏昭": "賛成",
+        "小高春雄": "賛成",
+        "小峯松治": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori155.pdf#page=8",
+      "resultLocator": "９月16日の公式録画・討論と採決",
+      "sourceTitle": "川島町議会の議案審議結果一覧"
     },
     {
       "place": "川島町",
@@ -18641,9 +19352,29 @@ GIKAI.coverage2026 = {
       "title": "令和７年度川島町国民健康保険特別会計歳入歳出決算認定について",
       "result": "原案認定",
       "url": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
-      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
+      "resultURL": "https://smart.discussvision.net/smart/tenant/kawajima/WebView/rd/speech.html?council_id=45&schedule_id=6&playlist_id=1&speaker_id=0&target_year=2026",
       "number": "議案第38号",
-      "voteNote": "公式表の集計は「賛成多数」。"
+      "voteNote": "第155号紙面8頁の記名表決は賛成11、反対1。",
+      "date": "2026-09-16",
+      "voteType": "記名",
+      "votes": {
+        "井上智恵": "賛成",
+        "山﨑宣佳": "賛成",
+        "坂本順子": "賛成",
+        "松原謙司": "賛成",
+        "加藤進": "賛成",
+        "渋谷幸司": "反対",
+        "矢内秀憲": "賛成",
+        "柴田一典": "賛成",
+        "爲水順二": "賛成",
+        "森田敏男": "賛成",
+        "菊地敏昭": "賛成",
+        "小高春雄": "賛成",
+        "小峯松治": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori155.pdf#page=8",
+      "resultLocator": "９月16日の公式録画・討論と採決",
+      "sourceTitle": "川島町議会の議案審議結果一覧"
     },
     {
       "place": "川島町",
@@ -18652,9 +19383,29 @@ GIKAI.coverage2026 = {
       "title": "令和７年度川島町介護保険特別会計歳入歳出決算認定について",
       "result": "原案認定",
       "url": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
-      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
+      "resultURL": "https://smart.discussvision.net/smart/tenant/kawajima/WebView/rd/speech.html?council_id=45&schedule_id=6&playlist_id=1&speaker_id=0&target_year=2026",
       "number": "議案第39号",
-      "voteNote": "公式表の集計は「全員賛成」。"
+      "voteNote": "第155号紙面8頁の記名表決は賛成12、反対0。",
+      "date": "2026-09-16",
+      "voteType": "記名",
+      "votes": {
+        "井上智恵": "賛成",
+        "山﨑宣佳": "賛成",
+        "坂本順子": "賛成",
+        "松原謙司": "賛成",
+        "加藤進": "賛成",
+        "渋谷幸司": "賛成",
+        "矢内秀憲": "賛成",
+        "柴田一典": "賛成",
+        "爲水順二": "賛成",
+        "森田敏男": "賛成",
+        "菊地敏昭": "賛成",
+        "小高春雄": "賛成",
+        "小峯松治": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori155.pdf#page=8",
+      "resultLocator": "９月16日の公式録画・討論と採決",
+      "sourceTitle": "川島町議会の議案審議結果一覧"
     },
     {
       "place": "川島町",
@@ -18663,9 +19414,29 @@ GIKAI.coverage2026 = {
       "title": "令和７年度川島町後期高齢者医療特別会計歳入歳出決算認定について",
       "result": "原案認定",
       "url": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
-      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
+      "resultURL": "https://smart.discussvision.net/smart/tenant/kawajima/WebView/rd/speech.html?council_id=45&schedule_id=6&playlist_id=1&speaker_id=0&target_year=2026",
       "number": "議案第40号",
-      "voteNote": "公式表の集計は「全員賛成」。"
+      "voteNote": "第155号紙面8頁の記名表決は賛成12、反対0。",
+      "date": "2026-09-16",
+      "voteType": "記名",
+      "votes": {
+        "井上智恵": "賛成",
+        "山﨑宣佳": "賛成",
+        "坂本順子": "賛成",
+        "松原謙司": "賛成",
+        "加藤進": "賛成",
+        "渋谷幸司": "賛成",
+        "矢内秀憲": "賛成",
+        "柴田一典": "賛成",
+        "爲水順二": "賛成",
+        "森田敏男": "賛成",
+        "菊地敏昭": "賛成",
+        "小高春雄": "賛成",
+        "小峯松治": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori155.pdf#page=8",
+      "resultLocator": "９月16日の公式録画・討論と採決",
+      "sourceTitle": "川島町議会の議案審議結果一覧"
     },
     {
       "place": "川島町",
@@ -18674,9 +19445,29 @@ GIKAI.coverage2026 = {
       "title": "令和７年度川島町水道事業会計決算認定について",
       "result": "原案認定",
       "url": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
-      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
+      "resultURL": "https://smart.discussvision.net/smart/tenant/kawajima/WebView/rd/speech.html?council_id=45&schedule_id=6&playlist_id=1&speaker_id=0&target_year=2026",
       "number": "議案第41号",
-      "voteNote": "公式表の集計は「全員賛成」。"
+      "voteNote": "第155号紙面8頁の記名表決は賛成12、反対0。",
+      "date": "2026-09-16",
+      "voteType": "記名",
+      "votes": {
+        "井上智恵": "賛成",
+        "山﨑宣佳": "賛成",
+        "坂本順子": "賛成",
+        "松原謙司": "賛成",
+        "加藤進": "賛成",
+        "渋谷幸司": "賛成",
+        "矢内秀憲": "賛成",
+        "柴田一典": "賛成",
+        "爲水順二": "賛成",
+        "森田敏男": "賛成",
+        "菊地敏昭": "賛成",
+        "小高春雄": "賛成",
+        "小峯松治": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori155.pdf#page=8",
+      "resultLocator": "９月16日の公式録画・討論と採決",
+      "sourceTitle": "川島町議会の議案審議結果一覧"
     },
     {
       "place": "川島町",
@@ -18685,9 +19476,29 @@ GIKAI.coverage2026 = {
       "title": "令和７年度川島町下水道事業会計決算認定について",
       "result": "原案認定",
       "url": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
-      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
+      "resultURL": "https://smart.discussvision.net/smart/tenant/kawajima/WebView/rd/speech.html?council_id=45&schedule_id=6&playlist_id=1&speaker_id=0&target_year=2026",
       "number": "議案第42号",
-      "voteNote": "公式表の集計は「全員賛成」。"
+      "voteNote": "第155号紙面8頁の記名表決は賛成12、反対0。",
+      "date": "2026-09-16",
+      "voteType": "記名",
+      "votes": {
+        "井上智恵": "賛成",
+        "山﨑宣佳": "賛成",
+        "坂本順子": "賛成",
+        "松原謙司": "賛成",
+        "加藤進": "賛成",
+        "渋谷幸司": "賛成",
+        "矢内秀憲": "賛成",
+        "柴田一典": "賛成",
+        "爲水順二": "賛成",
+        "森田敏男": "賛成",
+        "菊地敏昭": "賛成",
+        "小高春雄": "賛成",
+        "小峯松治": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori155.pdf#page=8",
+      "resultLocator": "９月16日の公式録画・討論と採決",
+      "sourceTitle": "川島町議会の議案審議結果一覧"
     },
     {
       "place": "川島町",
@@ -18696,9 +19507,29 @@ GIKAI.coverage2026 = {
       "title": "債権の放棄について",
       "result": "原案承認",
       "url": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
-      "resultURL": "https://www.town.kawajima.saitama.jp/secure/1956/sinngikekkaR809.pdf#page=1",
+      "resultURL": "https://smart.discussvision.net/smart/tenant/kawajima/WebView/rd/speech.html?council_id=45&schedule_id=6&playlist_id=1&speaker_id=0&target_year=2026",
       "number": "議案第43号",
-      "voteNote": "公式表の集計は「全員賛成」。"
+      "voteNote": "第155号紙面8頁の記名表決は賛成12、反対0。公式結果一覧の表記は「原案承認」、紙面の表記は「可決」。",
+      "date": "2026-09-16",
+      "voteType": "記名",
+      "votes": {
+        "井上智恵": "賛成",
+        "山﨑宣佳": "賛成",
+        "坂本順子": "賛成",
+        "松原謙司": "賛成",
+        "加藤進": "賛成",
+        "渋谷幸司": "賛成",
+        "矢内秀憲": "賛成",
+        "柴田一典": "賛成",
+        "爲水順二": "賛成",
+        "森田敏男": "賛成",
+        "菊地敏昭": "賛成",
+        "小高春雄": "賛成",
+        "小峯松治": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori155.pdf#page=8",
+      "resultLocator": "９月16日の公式録画・討論と採決",
+      "sourceTitle": "川島町議会の議案審議結果一覧"
     },
     {
       "place": "吉見町",
@@ -82966,6 +83797,37 @@ GIKAI.coverage2026 = {
         "長谷川清": "賛成"
       },
       "voteNote": "公式審議結果は賛成16、反対・賛成せず0。"
+    },
+    {
+      "place": "川島町",
+      "season": "fall",
+      "session": "令和8年第5回定例会（9月）",
+      "number": "諮問第2号",
+      "title": "人権擁護委員の推薦について",
+      "result": "原案同意",
+      "url": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori155.pdf#page=8",
+      "resultURL": "https://smart.discussvision.net/smart/tenant/kawajima/WebView/rd/speech.html?council_id=45&schedule_id=6&playlist_id=2&speaker_id=0&target_year=2026",
+      "date": "2026-09-16",
+      "voteType": "記名",
+      "votes": {
+        "井上智恵": "賛成",
+        "山﨑宣佳": "賛成",
+        "坂本順子": "賛成",
+        "松原謙司": "賛成",
+        "加藤進": "賛成",
+        "渋谷幸司": "賛成",
+        "矢内秀憲": "賛成",
+        "柴田一典": "賛成",
+        "爲水順二": "賛成",
+        "森田敏男": "賛成",
+        "菊地敏昭": "賛成",
+        "小高春雄": "賛成",
+        "小峯松治": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.kawajima.saitama.jp/secure/2573/gikaidayori155.pdf#page=8",
+      "voteNote": "第155号紙面8頁の記名表決は賛成12、反対0。",
+      "resultLocator": "９月16日の公式録画・追加諮問",
+      "sourceTitle": "川島町議会の議案審議結果一覧"
     }
   ],
   "policy": [
