@@ -23630,6 +23630,9 @@ GIKAI.questionText = {
       "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
       "speakers": [
         "権守幸男"
+      ],
+      "relatedDocumentIds": [
+        "6e818c0d486b18cc03ce"
       ]
     },
     {
@@ -23661,6 +23664,66 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "0b15f188db3d126fc9ad",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "権守幸男議員　小瀬スポーツ公園のレイアウト図　資料3",
+      "kind": "一般質問のパネル（公式PDF・照合要約）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/288150/gonmori_8-3.pdf",
+      "note": "県議会の公開一覧と質問番号を照合。原PDFの図・写真の説明を収録。",
+      "speakers": [],
+      "relatedDocumentIds": [
+        "ad70783e60eaff8eba04"
+      ]
+    },
+    {
+      "id": "01565055ce4d456b79bf",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "権守幸男議員　小瀬スポーツ公園の設備保護範囲図　資料4",
+      "kind": "一般質問のパネル（公式PDF・照合要約）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/288150/gonmori_8-4.pdf",
+      "note": "県議会の公開一覧と質問番号を照合。原PDFの図・写真の説明を収録。",
+      "speakers": [],
+      "relatedDocumentIds": [
+        "ad70783e60eaff8eba04"
+      ]
+    },
+    {
+      "id": "3d297e662abd42649745",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "権守幸男議員　山梨県営小瀬スポーツ公園の設備写真　資料2",
+      "kind": "一般質問のパネル（公式PDF・照合要約）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/288150/gonmori_8-2.pdf",
+      "note": "県議会の公開一覧と質問番号を照合。原PDFの図・写真の説明を収録。",
+      "speakers": [],
+      "relatedDocumentIds": [
+        "ad70783e60eaff8eba04"
+      ]
+    },
+    {
+      "id": "6e818c0d486b18cc03ce",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "権守幸男議員　東村山駅のレールウォーク写真",
+      "kind": "一般質問のパネル（公式PDF・照合要約）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/288150/gonmori_10l1l.pdf",
+      "note": "県議会の公開一覧と質問番号を照合。原PDFの図・写真の説明を収録。",
+      "speakers": [],
+      "relatedDocumentIds": [
+        "6ef7abfb7183f952c2bb"
+      ]
+    },
+    {
       "id": "ad70783e60eaff8eba04",
       "place": "埼玉県",
       "season": "fall",
@@ -23672,6 +23735,12 @@ GIKAI.questionText = {
       "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
       "speakers": [
         "権守幸男"
+      ],
+      "relatedDocumentIds": [
+        "4e0121255784ac4ebb40",
+        "3d297e662abd42649745",
+        "0b15f188db3d126fc9ad",
+        "01565055ce4d456b79bf"
       ]
     },
     {
@@ -23700,6 +23769,21 @@ GIKAI.questionText = {
       "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
       "speakers": [
         "権守幸男"
+      ]
+    },
+    {
+      "id": "4e0121255784ac4ebb40",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "権守幸男議員　落雷抑制型避雷設備の外観　資料1",
+      "kind": "一般質問のパネル（公式PDF・照合要約）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/288150/gonmori_8-1.pdf",
+      "note": "県議会の公開一覧と質問番号を照合。原PDFの図・写真の説明を収録。",
+      "speakers": [],
+      "relatedDocumentIds": [
+        "ad70783e60eaff8eba04"
       ]
     },
     {
@@ -26447,6 +26531,24 @@ GIKAI.questionText = {
       "note": "埼玉県議会が編集して公開した質問・答弁。確認日当時の正式会議録の掲載範囲とは区別しています。",
       "speakers": [
         "梅澤佳一"
+      ],
+      "relatedDocumentIds": [
+        "4ffd60a0e7e9d2fa38d9"
+      ]
+    },
+    {
+      "id": "4ffd60a0e7e9d2fa38d9",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-10-07",
+      "title": "梅澤佳一議員　長雨により被害を受けた稲の写真",
+      "kind": "一般質問のパネル（公式PDF・照合要約）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/288599/umezawa_4.pdf",
+      "note": "県議会の公開一覧と質問番号を照合。原PDFの図・写真の説明を収録。",
+      "speakers": [],
+      "relatedDocumentIds": [
+        "006bc299eaafe0f0dbd6"
       ]
     },
     {

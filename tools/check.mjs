@@ -544,6 +544,14 @@ for (const doc of questionDocs) {
     assert.ok(doc.speakers.length || doc.kind === "公式録画の公開自動字幕" || meetingRecording);
   }
   assert.ok(Array.isArray(doc.speakers) && new Set(doc.speakers).size === doc.speakers.length);
+  if (doc.relatedDocumentIds) {
+    assert.equal(new Set(doc.relatedDocumentIds).size, doc.relatedDocumentIds.length, doc.id);
+    for (const relatedId of doc.relatedDocumentIds) {
+      const related = archivedQuestionDocs.get(relatedId);
+      assert.ok(related?.place === doc.place && related.season === doc.season && relatedId !== doc.id, doc.id);
+      assert.ok(related.relatedDocumentIds?.includes(doc.id), doc.id);
+    }
+  }
 }
 assert.ok(questionDocs.length >= 808, "Prefecture Q&A texts should be preserved");
 for (const row of data.questionText.coverage) {

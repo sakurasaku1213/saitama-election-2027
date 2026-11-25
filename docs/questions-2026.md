@@ -4,7 +4,7 @@
 
 確認日 2026-11-26。県議会と全63市町村の192会期枠を対象に、64議会・188枠で会議録、紙面の問答、録画の機械文字起こし、または公開自動字幕を収録。本文・要旨等が未収録の4枠にも確認先を示す。
 
-収録資料 3,333件（事前通告99件を含む）。151枠では、原典の目次・索引等にある本会議の日別資料、一般質問日または掲載項目と収録範囲を照合した。
+収録資料 3,339件（事前通告99件を含む）。151枠では、原典の目次・索引等にある本会議の日別資料、一般質問日または掲載項目と収録範囲を照合した。
 
 | 資料の種類 | 件数 |
 | --- | ---: |
@@ -28,6 +28,7 @@
 | 議事概要（公式資料） | 6 |
 | 議事概要（公式PDF・照合要約） | 1 |
 | 請願審査結果（公式PDF・照合要約） | 1 |
+| 一般質問のパネル（公式PDF・照合要約） | 6 |
 | 一般質問通告（公式資料） | 85 |
 | 議案質疑通告（公式資料・OCR） | 5 |
 | 施政方針に対する発言通告（公式資料・OCR） | 1 |
@@ -169,6 +170,7 @@
 - 加須市・日高市・上里町の秋会期は、公式録画一覧の各36・15・15項目と、一般質問者の公開再生用データを照合した。機械文字起こしの収録は加須市6件、日高市9件、上里町6件。正式会議録は確認中。[加須市](https://smart.discussvision.net/smart/tenant/kazo/WebView/rd/council.html?year=2026&council_id=39)・[日高市](https://smart.discussvision.net/smart/tenant/hidaka/WebView/rd/council.html?year=2026&council_id=54)・[上里町](https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/council.html?year=2026&council_id=47)
 - 埼玉県議会は春17・初夏16・秋18の委員長報告51点を公式目次と照合し、知事提案説明要旨３点、意見書・決議の掲載本文（春16・初夏16・秋14件）、秋の採択請願本文１点を収録。八潮の道路陥没事故の政策経過に、県議の質問・答弁、特別委員会の継続審査、国への意見書３件の可決を追加した。 [春の会期概要](https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802.html) [初夏の会期概要](https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806.html) [秋の会期概要](https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809.html)
 - 11月25日公開の県議会時報第302号で、秋の請願４件の番号・付託先・10月16日の結果を確認。議請第１号は２委員会への分割付託を記録。県立学校の重大事態対応の改善を求めた議請第４号は文教委員会の審査から本会議での採択までを政策経過に追加。 [第302号公式目次](https://www.pref.saitama.lg.jp/e1601/gikaijihou/r0809.html)
+- 秋の一般質問で使われた公式パネル６点・７頁を原PDFで確認。権守幸男議員の落雷対策・春日部駅の連続立体交差、梅澤佳一議員の米価に関する質問・答弁から、該当する写真や図面を開ける。 [公式パネル一覧](https://www.pref.saitama.lg.jp/e1601/gikai-panel/r0809.html)
 - 埼玉県議会の秋会期は、公式配信の８日・23本から自動生成字幕23件を収録した。一般質問は15人分。開会、委員長報告、質疑、討論、採決、閉会を含む残り８本は日別録画の字幕を収録した。本文カードで字幕の時間範囲と元の録画を開ける。[埼玉県議会の録画と字幕の案内](https://www.pref.saitama.lg.jp/e1601/gikai-chuukei.html)
 - 県議会の春９日・初夏７日と鴻巣市の秋７日について、公式の本会議録を追加。春日部市、狭山市、草加市、蕨市、戸田市、入間市、新座市は、公式会議録一覧と日別本文を照合した。戸田市２月３日と新座市６月３日の本会議録も追加した。[県議会の会議録一覧](https://ssp.kaigiroku.net/tenant/prefsaitama/SpMinuteBrowse.html?tenant_id=350&view_years=2026)・[鴻巣市の会議録一覧](https://ssp.kaigiroku.net/tenant/kounosu/SpMinuteBrowse.html?tenant_id=85&view_years=2026)
 - 鴻巣市の９月定例会は、公式議決結果表の全34件を議決番号・件名・日付・結果で照合。一般会計補正予算と水道事業会計補正予算を、家電補助の受付再開と水道基本料金の免除延長の事例から開ける。水道の事例には、実施計画にある給水収益と他会計補助金の補正額も記載した。[議決結果](https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf)・[家電補助の受付案内](https://www.city.kounosu.saitama.jp/page/39479.html)・[水道基本料金免除の案内](https://www.city.kounosu.saitama.jp/site/suidou/44349.html)・[水道事業会計補正予算の実施計画](https://www.city.kounosu.saitama.jp/uploaded/attachment/28882.pdf#page=4)

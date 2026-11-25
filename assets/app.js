@@ -1026,7 +1026,12 @@
     const speakerLabel = entry.scope === "recording" ? "録画一覧の質問者" :
       entry.scope === "notice" ? "通告に掲載された質問者" :
       entry.scope === "supporting" ? "資料で発言を確認できる議員" : "本文に名前がある議員";
-    const source = `<div class="links">${link(entry.url, "公式資料の該当箇所")}</div>
+    const related = (entry.relatedDocumentIds || []).map((id) =>
+      D.questionText.documents.find((doc) => doc.id === id),
+    ).filter(Boolean).map((doc) => jump("texts", {
+      doc: doc.id, place: doc.place, season: doc.season,
+    }, doc.title));
+    const source = `<div class="links">${link(entry.url, "公式資料の該当箇所")} ${related.join(" ")}</div>
       ${entry.note ? `<p class="small">${esc(entry.note)}</p>` : ""}
       ${entry.speakers?.length ? `<p class="small">${speakerLabel}　${entry.speakers.map(esc).join("、")}</p>` : ""}`;
     const available = Boolean(get("question-text-bodies"));

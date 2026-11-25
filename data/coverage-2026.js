@@ -182,6 +182,10 @@ GIKAI.coverage2026 = {
         {
           "label": "埼玉県議会時報（会期別の公式資料一覧）",
           "url": "https://www.pref.saitama.lg.jp/e1601/gikaijihou/r0809.html"
+        },
+        {
+          "label": "一般質問の参考資料（公式パネル一覧）",
+          "url": "https://www.pref.saitama.lg.jp/e1601/gikai-panel/r0809.html"
         }
       ]
     },
