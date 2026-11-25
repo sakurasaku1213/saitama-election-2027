@@ -14948,3 +14948,704 @@ GIKAI.cases.push(...[
     "note": "議員の表決と議長の裁決を別の表示で記録。今回の採決結果は市議会の意見書案に関するもの。"
   }
 ]);
+
+GIKAI.cases.push(...[
+  {
+    "place": "和光市",
+    "title": "中学校給食費の負担軽減、国への意見書から市の追加補助と陳情まで",
+    "topic": "教育・子育て",
+    "actors": [
+      "待鳥美光",
+      "吉田武司",
+      "富澤啓二",
+      "菅原満",
+      "鎌田泰春",
+      "赤松祐造",
+      "内田あや",
+      "伊藤妙子",
+      "松永靖恵",
+      "小嶋智子",
+      "和光市",
+      "和光市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-09",
+        "stage": "給食費改定と補助、給食の質について一般質問",
+        "actor": "内田あや、和光市教育委員会",
+        "detail": "市は小学校5,650円・中学校7,000円への月額改定と、小学校5,200円・中学校550円の補助予定を答えた。",
+        "url": "https://ssp.kaigiroku.net/tenant/wako/SpMinuteView.html?tenant_id=382&council_id=503&schedule_id=5",
+        "sourceTitle": "和光市議会・和光市  令和　８年　　３月　定例会  03月09日－04号",
+        "archiveId": "c8d7a76ecdf30bd691e2",
+        "blocks": [
+          20,
+          22
+        ],
+        "memberActions": [
+          {
+            "name": "内田あや",
+            "detail": "保護者負担の軽減と給食の質・量を両立するための給食費・運営を質した。",
+            "blocks": [
+              20
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-06-12",
+        "stage": "市が当初の保護者負担額を案内",
+        "actor": "和光市",
+        "detail": "市の案内では月額小学校450円・中学校6,450円。",
+        "url": "https://www.city.wako.lg.jp/kosodate/1000009/1004676/1004714/1004729/1004747/1009778.html",
+        "sourceTitle": "和光市・給食回数及び給食費"
+      },
+      {
+        "date": "2026-06-26",
+        "stage": "意見書案を正式提出",
+        "actor": "待鳥美光、吉田武司、富澤啓二、菅原満、鎌田泰春、赤松祐造",
+        "detail": "中学校給食費の抜本的な負担軽減を加速するよう国に求める意見書案を提出した。",
+        "url": "https://www.city.wako.lg.jp/_res/projects/default_project/_page_/001/013/722/r80626ikensyo2.pdf#page=1",
+        "sourceTitle": "和光市議会・意見書提出原文１頁",
+        "memberActions": [
+          {
+            "name": "待鳥美光",
+            "detail": "中学校給食費の抜本的な負担軽減を加速するよう国に求める意見書案を提出した。"
+          },
+          {
+            "name": "吉田武司",
+            "detail": "意見書案の提出時の賛成者欄に記載。"
+          },
+          {
+            "name": "富澤啓二",
+            "detail": "意見書案の提出時の賛成者欄に記載。"
+          },
+          {
+            "name": "菅原満",
+            "detail": "意見書案の提出時の賛成者欄に記載。"
+          },
+          {
+            "name": "鎌田泰春",
+            "detail": "意見書案の提出時の賛成者欄に記載。"
+          },
+          {
+            "name": "赤松祐造",
+            "detail": "意見書案の提出時の賛成者欄に記載。"
+          }
+        ]
+      },
+      {
+        "date": "2026-06-26",
+        "stage": "国への意見書を可決",
+        "actor": "待鳥美光、和光市議会",
+        "detail": "待鳥議員が発議し、本会議で異議なく可決された。",
+        "url": "https://ssp.kaigiroku.net/tenant/wako/SpMinuteView.html?tenant_id=382&council_id=510&schedule_id=8",
+        "sourceTitle": "和光市議会・和光市  令和　８年　　６月　定例会  06月26日－07号",
+        "archiveId": "0153ed63770620128422",
+        "blocks": [
+          82,
+          91
+        ],
+        "billNumber": "意見書案第2号",
+        "memberActions": [
+          {
+            "name": "待鳥美光",
+            "detail": "提出した意見書案を本会議で朗読し、提案理由を説明した。",
+            "blocks": [
+              82
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-08-27",
+        "stage": "議長が関係大臣等への送付済みを報告",
+        "actor": "小嶋智子、和光市議会",
+        "detail": "内閣総理大臣、衆議院議長をはじめ関係大臣に送付済みと本会議で報告された。個別の発送日は会議録に記載がない。",
+        "url": "https://ssp.kaigiroku.net/tenant/wako/SpMinuteView.html?tenant_id=382&council_id=517&schedule_id=2",
+        "sourceTitle": "和光市議会・08月27日－01号",
+        "archiveId": "7ec00b93dd13790b7bbb",
+        "blocks": [
+          12
+        ],
+        "memberActions": [
+          {
+            "name": "小嶋智子",
+            "detail": "議長として２意見書の送付済みを報告した。",
+            "blocks": [
+              12
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-09-02",
+        "stage": "月2,000円の追加補助を議案質疑",
+        "actor": "吉田武司、和光市",
+        "detail": "市内中学生約1,950人に既存550円に加えて月2,000円を補助する案。2026年10月から2027年３月まで、中学３年生は徴収のある２月まで。月額7,000円から補助合計2,550円を差し引くと4,450円。",
+        "url": "https://ssp.kaigiroku.net/tenant/wako/SpMinuteView.html?tenant_id=382&council_id=517&schedule_id=3",
+        "sourceTitle": "和光市議会・和光市  令和　８年　　９月　定例会  09月02日－02号",
+        "archiveId": "e126eb2cbae498bd74d5",
+        "blocks": [
+          8,
+          12,
+          18
+        ],
+        "memberActions": [
+          {
+            "name": "吉田武司",
+            "detail": "補正予算の給食費補助の対象・内容と財源を質した。",
+            "blocks": [
+              8
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-09-24",
+        "stage": "９月補正予算を可決",
+        "actor": "伊藤妙子、和光市議会",
+        "detail": "伊藤議員は追加補助を評価し、小中の補助額の差にも言及して予算案に賛成。第65号を可決した。",
+        "url": "https://ssp.kaigiroku.net/tenant/wako/SpMinuteView.html?tenant_id=382&council_id=517&schedule_id=8",
+        "sourceTitle": "和光市議会・和光市  令和　８年　　９月　定例会  09月24日－07号",
+        "archiveId": "ece00aaa4b404a268fb9",
+        "blocks": [
+          74,
+          78
+        ],
+        "billNumber": "議案第65号",
+        "memberActions": [
+          {
+            "name": "伊藤妙子",
+            "detail": "補正予算に賛成し、給食費補助の公平性の課題を指摘した。",
+            "blocks": [
+              74
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-09-24",
+        "stage": "市の負担減額を求める別の陳情を採択",
+        "actor": "待鳥美光、松永靖恵、鎌田泰春、和光市議会",
+        "detail": "待鳥議員は国への要請を支持しつつ、市の財政全体とのバランスを理由にこの陳情には反対。松永、鎌田両議員は給食の質を保ち負担を軽減する立場から賛成。本会議は採択。",
+        "url": "https://ssp.kaigiroku.net/tenant/wako/SpMinuteView.html?tenant_id=382&council_id=517&schedule_id=8",
+        "sourceTitle": "和光市議会・和光市  令和　８年　　９月　定例会  09月24日－07号",
+        "archiveId": "ece00aaa4b404a268fb9",
+        "blocks": [
+          128,
+          130,
+          132,
+          136
+        ],
+        "billNumber": "陳情第4号",
+        "memberActions": [
+          {
+            "name": "待鳥美光",
+            "detail": "国への意見書と市の補助に触れ、別の陳情には反対討論した。",
+            "blocks": [
+              128
+            ]
+          },
+          {
+            "name": "松永靖恵",
+            "detail": "給食の質・量の維持と保護者負担軽減の両立を求め、賛成討論した。",
+            "blocks": [
+              130
+            ]
+          },
+          {
+            "name": "鎌田泰春",
+            "detail": "補正後も継続的な負担軽減が必要だとして賛成討論した。",
+            "blocks": [
+              132
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "９月補正の制度・可決を確認。個別の請求や翌年度の継続は確認待ち。"
+  },
+  {
+    "place": "和光市",
+    "title": "排泄予測支援機器の給付対象追加へ、趣旨採択と全面採択の討論",
+    "topic": "障害福祉・陳情",
+    "actors": [
+      "鎌田泰春",
+      "富澤啓二",
+      "齋藤幸子",
+      "松永靖恵",
+      "吉田活世",
+      "和光市",
+      "和光市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-08-27",
+        "stage": "給付品目への追加を求める陳情の提出を報告",
+        "actor": "和光市議会",
+        "detail": "日常生活用具の給付対象として排泄予測支援機器を追加することを求める陳情第５号。",
+        "url": "https://ssp.kaigiroku.net/tenant/wako/SpMinuteView.html?tenant_id=382&council_id=517&schedule_id=2",
+        "sourceTitle": "和光市議会・08月27日－01号",
+        "archiveId": "7ec00b93dd13790b7bbb",
+        "blocks": [
+          21
+        ]
+      },
+      {
+        "date": "2026-09-08",
+        "stage": "鎌田委員の動議を受けて委員会が趣旨採択",
+        "actor": "鎌田泰春、富澤啓二、文教厚生常任委員会",
+        "detail": "鎌田委員が特定の製品や企業への利益誘導を避ける観点から趣旨採択を動議。委員会は挙手多数で可決した。",
+        "url": "https://ssp.kaigiroku.net/tenant/wako/SpMinuteView.html?tenant_id=382&council_id=518&schedule_id=1",
+        "sourceTitle": "和光市議会・和光市 令和 ８年 ９月 文教厚生常任委員会 09月08日－01号",
+        "archiveId": "7664c278e32cf422d69f",
+        "blocks": [
+          511,
+          512
+        ],
+        "memberActions": [
+          {
+            "name": "鎌田泰春",
+            "detail": "陳情第５号を趣旨採択とする動議を提出した。",
+            "blocks": [
+              511
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-09-24",
+        "stage": "本会議も趣旨採択と決定",
+        "actor": "富澤啓二、齋藤幸子、松永靖恵、吉田活世、和光市議会",
+        "detail": "記名表決の対象は趣旨採択。賛成９、反対７。齋藤・松永・吉田活世の各議員は全面採択を求めて討論した。",
+        "url": "https://ssp.kaigiroku.net/tenant/wako/SpMinuteView.html?tenant_id=382&council_id=517&schedule_id=8",
+        "sourceTitle": "和光市議会・和光市  令和　８年　　９月　定例会  09月24日－07号",
+        "archiveId": "ece00aaa4b404a268fb9",
+        "blocks": [
+          13,
+          139,
+          141,
+          143,
+          146,
+          147
+        ],
+        "billNumber": "陳情第5号",
+        "memberActions": [
+          {
+            "name": "富澤啓二",
+            "detail": "文教厚生常任委員長として委員会での審査と趣旨採択を報告した。",
+            "blocks": [
+              13
+            ]
+          },
+          {
+            "name": "齋藤幸子",
+            "detail": "陳情の全面採択を求めて討論した。",
+            "blocks": [
+              139
+            ]
+          },
+          {
+            "name": "松永靖恵",
+            "detail": "趣旨採択への反対と全面採択への賛成を明示して討論した。",
+            "blocks": [
+              141
+            ]
+          },
+          {
+            "name": "吉田活世",
+            "detail": "全面採択に賛成するため趣旨採択には反対と明示した。",
+            "blocks": [
+              143
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "趣旨採択を確認。給付品目の追加・実際の給付は確認待ち。"
+  },
+  {
+    "place": "和光市",
+    "title": "教師用指導書の契約に関する監査勧告と履行を求める陳情",
+    "topic": "監査・契約",
+    "actors": [
+      "菅原満",
+      "渡邉竜幸",
+      "和光市",
+      "和光市議会"
+    ],
+    "steps": [
+      {
+        "date": "2025-03-21",
+        "stage": "監査委員が教師用指導書購入契約について勧告",
+        "actor": "和光市監査委員",
+        "detail": "監査委員告示第３号。監査委員は市長に契約を有効にするための適切な措置を５月22日までに講じるよう勧告した。",
+        "url": "https://www.city.wako.lg.jp/shisei/kansa/1007368/1011910.html",
+        "sourceTitle": "和光市・住民監査請求結果一覧"
+      },
+      {
+        "date": "2026-03-18",
+        "stage": "監査結果の忠実な履行を求める陳情を採択",
+        "actor": "菅原満、渡邉竜幸、和光市議会",
+        "detail": "渡邉議員は監査勧告に対する説明と是正を求め、菅原議員は議会での追認否決を踏まえ契約を有効にすることが難しいと述べた。陳情第１号を起立多数で採択。",
+        "url": "https://ssp.kaigiroku.net/tenant/wako/SpMinuteView.html?tenant_id=382&council_id=503&schedule_id=9",
+        "sourceTitle": "和光市議会・和光市  令和　８年　　３月　定例会  03月18日－08号",
+        "archiveId": "dac8b1ce283d06cf5af6",
+        "blocks": [
+          175,
+          177,
+          180,
+          181
+        ],
+        "billNumber": "陳情第1号",
+        "memberActions": [
+          {
+            "name": "菅原満",
+            "detail": "既往の追認審議と今後の対応の難しさに言及し、不採択の立場で討論した。",
+            "blocks": [
+              175
+            ]
+          },
+          {
+            "name": "渡邉竜幸",
+            "detail": "市の説明・是正を求め、採択に賛成する討論をした。",
+            "blocks": [
+              177
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "監査勧告と陳情採択を確認。契約に対する最終処理は確認待ち。"
+  },
+  {
+    "place": "和光市",
+    "title": "介護保険決算の不認定を受け、市が説明動画を公開",
+    "topic": "介護保険・決算監視",
+    "actors": [
+      "吉田活世",
+      "和光市",
+      "和光市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-02-09",
+        "stage": "市が不適正な事務処理による支払月のずれを解説",
+        "actor": "和光市",
+        "detail": "2025年12月の議会で2024年度の介護保険特別会計決算が不認定となったことを受け、支払月のずれを説明する動画と説明資料を公開した。",
+        "url": "https://www.city.wako.lg.jp/kenko/kaigo/1004048/1013177/1013178.html",
+        "sourceTitle": "和光市・介護保険特別会計の説明動画"
+      },
+      {
+        "date": "2026-02-20",
+        "stage": "不認定に係る措置を報告、意見受付方法を質疑",
+        "actor": "吉田活世、和光市",
+        "detail": "報告第２号の質疑で市が説明動画を選んだ理由と、専用フォームを通じて市民の質問に回答する手順を説明した。",
+        "url": "https://ssp.kaigiroku.net/tenant/wako/SpMinuteView.html?tenant_id=382&council_id=503&schedule_id=3",
+        "sourceTitle": "和光市議会・和光市  令和　８年　　３月　定例会  02月20日－02号",
+        "archiveId": "b3ef97c5008c5ac0a88c",
+        "blocks": [
+          36,
+          38,
+          40,
+          42
+        ],
+        "billNumber": "報告第2号",
+        "memberActions": [
+          {
+            "name": "吉田活世",
+            "detail": "動画を選んだ根拠と、市民の質問・意見の受付方法を質した。",
+            "blocks": [
+              36,
+              40
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "説明動画の公開と議会報告を確認。専用フォームの利用実績や再発防止措置は確認待ち。"
+  },
+  {
+    "place": "和光市",
+    "title": "物価高対策のデジタルクーポンと水道基本料金の免除",
+    "topic": "生活支援・補正予算",
+    "actors": [
+      "吉田武司",
+      "富澤啓二",
+      "和光市",
+      "和光市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-12",
+        "stage": "給付と水道料金対策の利用方法に配慮を要望",
+        "actor": "吉田武司",
+        "detail": "デジタルクーポンの提案を踏まえ、スマートフォンを持たない人や操作に不慣れな人への配慮を求めた。",
+        "url": "https://ssp.kaigiroku.net/tenant/wako/SpMinuteView.html?tenant_id=382&council_id=503&schedule_id=8",
+        "sourceTitle": "和光市議会・和光市  令和　８年　　３月　定例会  03月12日－07号",
+        "archiveId": "7e7a9c9ed1d78633c765",
+        "blocks": [
+          248
+        ],
+        "memberActions": [
+          {
+            "name": "吉田武司",
+            "detail": "デジタル機器を持たない、または操作に不慣れな市民への支援を求めた。",
+            "blocks": [
+              248
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-03-18",
+        "stage": "デジタルクーポン事業の補正予算を可決",
+        "actor": "富澤啓二、和光市議会",
+        "detail": "富澤議員は事業費の内訳や実施時期を審査で確認した上で賛成討論。デジタルクーポン等を含む第30号を可決。",
+        "url": "https://ssp.kaigiroku.net/tenant/wako/SpMinuteView.html?tenant_id=382&council_id=503&schedule_id=9",
+        "sourceTitle": "和光市議会・和光市  令和　８年　　３月　定例会  03月18日－08号",
+        "archiveId": "dac8b1ce283d06cf5af6",
+        "blocks": [
+          168,
+          172
+        ],
+        "billNumber": "議案第30号",
+        "memberActions": [
+          {
+            "name": "富澤啓二",
+            "detail": "委託費、受給対象と事業日程の確認について述べ、補正に賛成討論した。",
+            "blocks": [
+              168
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-06-04",
+        "stage": "市が水道の基本料金免除を案内",
+        "actor": "和光市",
+        "detail": "市は６月通常請求分から９月通常請求分までの４か月分の水道基本料金を免除すると案内した。",
+        "url": "https://www.city.wako.lg.jp/shisei/seisaku/1006568/1010934.html",
+        "sourceTitle": "和光市・重点支援地方交付金の実施事業"
+      },
+      {
+        "date": "2026-09-16",
+        "stage": "デジタルクーポン給付の対象・期限を案内",
+        "actor": "和光市",
+        "detail": "市は対象となる市民１人当たり3,000円相当を給付する事業を案内。利用期限は2026年10月31日。",
+        "url": "https://www.city.wako.lg.jp/jigyosha/koyo/1003450/1013336.html",
+        "sourceTitle": "和光市・デジタルクーポン給付事業"
+      }
+    ],
+    "note": "市の実施案内と期限を確認。利用率や免除総額の実績は確認待ち。"
+  },
+  {
+    "place": "和光市",
+    "title": "学校給食の委託契約、住民監査後の検証を追う",
+    "topic": "教育・契約監視",
+    "actors": [
+      "菅原満",
+      "鎌田泰春",
+      "和光市"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-10",
+        "stage": "学校給食の契約に関する住民監査請求を棄却",
+        "actor": "和光市監査委員",
+        "detail": "市の住民監査請求結果一覧で、学校給食に係る随意契約等について棄却を確認した。",
+        "url": "https://www.city.wako.lg.jp/shisei/kansa/1007368/1011910.html",
+        "sourceTitle": "和光市・住民監査請求結果一覧"
+      },
+      {
+        "date": "2026-06-17",
+        "stage": "学校給食協会の委託範囲と経費を一般質問",
+        "actor": "菅原満、和光市教育委員会",
+        "detail": "教育長は調理のほか栄養・衛生・給食費管理を含む運営業務を委託していると答えた。",
+        "url": "https://ssp.kaigiroku.net/tenant/wako/SpMinuteView.html?tenant_id=382&council_id=510&schedule_id=4",
+        "sourceTitle": "和光市議会・和光市  令和　８年　　６月　定例会  06月17日－03号",
+        "archiveId": "50bed3557d9e986b0452",
+        "blocks": [
+          369,
+          371,
+          373,
+          375
+        ],
+        "memberActions": [
+          {
+            "name": "菅原満",
+            "detail": "委託業務の内訳と給食協会の経費の扱いを質した。",
+            "blocks": [
+              369,
+              373
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-09-14",
+        "stage": "監査後の検証と事業者調査の可能性を再質問",
+        "actor": "鎌田泰春、和光市教育委員会",
+        "detail": "教育長は、監査で契約が違法・不当とはされず、運用形態の適時検証を求める附帯意見があったと説明。業務の把握と、市場調査の可能性を含む契約方法の検証を進めると答えた。",
+        "url": "https://ssp.kaigiroku.net/tenant/wako/SpMinuteView.html?tenant_id=382&council_id=517&schedule_id=6",
+        "sourceTitle": "和光市議会・和光市  令和　８年　　９月　定例会  09月14日－05号",
+        "archiveId": "8381ce3ed8f0ff2631a6",
+        "blocks": [
+          391,
+          393,
+          399,
+          401
+        ],
+        "memberActions": [
+          {
+            "name": "鎌田泰春",
+            "detail": "監査後に行われた検証・検討を確認し、市場調査を含めて契約方法を見直す考えを質した。",
+            "blocks": [
+              391,
+              399
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "監査結果と市の検証方針まで確認。契約方式の変更、具体的な実施時期は確認待ち。"
+  },
+  {
+    "place": "和光市",
+    "title": "避難行動要支援者名簿と個別避難計画を条例化",
+    "topic": "防災・避難支援",
+    "actors": [
+      "和光市",
+      "和光市議会"
+    ],
+    "steps": [
+      {
+        "date": "2024-04-05",
+        "stage": "市が既存の登録制度と個別計画の手続を案内",
+        "actor": "和光市",
+        "detail": "市は本人等の登録、避難経路・方法を含む個別計画、関係機関との連携を案内している。",
+        "url": "https://www.city.wako.lg.jp/kurashi/anshin/1002080/1002125/1002581.html",
+        "sourceTitle": "和光市・避難行動要支援者登録制度"
+      },
+      {
+        "date": "2026-02-24",
+        "stage": "条例案への意見募集を終え、市が案を案内",
+        "actor": "和光市",
+        "detail": "市の公表ページに条例案と施行規則案を掲載。名簿、個別避難計画と避難支援等を定める案。",
+        "url": "https://www.city.wako.lg.jp/kurashi/anshin/1002080/1002125/1013028.html",
+        "sourceTitle": "和光市・条例案パブリックコメント"
+      },
+      {
+        "date": "2026-03-18",
+        "stage": "個別避難計画の条例案を可決",
+        "actor": "和光市議会",
+        "detail": "本会議で議案第７号を異議なく原案可決。",
+        "url": "https://ssp.kaigiroku.net/tenant/wako/SpMinuteView.html?tenant_id=382&council_id=503&schedule_id=9",
+        "sourceTitle": "和光市議会・和光市  令和　８年　　３月　定例会  03月18日－08号",
+        "archiveId": "dac8b1ce283d06cf5af6",
+        "blocks": [
+          49,
+          51
+        ],
+        "billNumber": "議案第7号"
+      }
+    ],
+    "note": "条例の議決、制度の案内を確認。個別の計画作成・更新実績は確認待ち。"
+  },
+  {
+    "place": "和光市",
+    "title": "原油価格高騰対策を国に求める意見書の提出と送付",
+    "topic": "物価対策・議員提出",
+    "actors": [
+      "待鳥美光",
+      "吉田武司",
+      "富澤啓二",
+      "菅原満",
+      "鎌田泰春",
+      "赤松祐造",
+      "小嶋智子",
+      "和光市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-06-26",
+        "stage": "意見書案を正式提出",
+        "actor": "待鳥美光、吉田武司、富澤啓二、菅原満、鎌田泰春、赤松祐造",
+        "detail": "燃料価格高騰に対して、国に迅速な対策の強化を求める意見書案を提出した。",
+        "url": "https://www.city.wako.lg.jp/_res/projects/default_project/_page_/001/013/722/r80626ikensyo1.pdf#page=1",
+        "sourceTitle": "和光市議会・意見書提出原文１頁",
+        "memberActions": [
+          {
+            "name": "待鳥美光",
+            "detail": "燃料価格高騰に対して、国に迅速な対策の強化を求める意見書案を提出した。"
+          },
+          {
+            "name": "吉田武司",
+            "detail": "意見書案の提出時の賛成者欄に記載。"
+          },
+          {
+            "name": "富澤啓二",
+            "detail": "意見書案の提出時の賛成者欄に記載。"
+          },
+          {
+            "name": "菅原満",
+            "detail": "意見書案の提出時の賛成者欄に記載。"
+          },
+          {
+            "name": "鎌田泰春",
+            "detail": "意見書案の提出時の賛成者欄に記載。"
+          },
+          {
+            "name": "赤松祐造",
+            "detail": "意見書案の提出時の賛成者欄に記載。"
+          }
+        ]
+      },
+      {
+        "date": "2026-06-26",
+        "stage": "原油価格高騰対策の国への意見書案を可決",
+        "actor": "待鳥美光、和光市議会",
+        "detail": "市議会は意見書案第１号を異議なく原案可決した。",
+        "url": "https://ssp.kaigiroku.net/tenant/wako/SpMinuteView.html?tenant_id=382&council_id=510&schedule_id=8",
+        "sourceTitle": "和光市議会・和光市  令和　８年　　６月　定例会  06月26日－07号",
+        "archiveId": "0153ed63770620128422",
+        "blocks": [
+          70,
+          79
+        ],
+        "billNumber": "意見書案第1号",
+        "memberActions": [
+          {
+            "name": "待鳥美光",
+            "detail": "提案理由として、原油価格が生活や事業・公共交通へ及ぼす影響を示した。",
+            "blocks": [
+              70
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-08-27",
+        "stage": "議長が国への意見書送付済みを報告",
+        "actor": "小嶋智子、和光市議会",
+        "detail": "８月の本会議で、６月に可決した２意見書を関係大臣ほかに送付済みと報告。",
+        "url": "https://ssp.kaigiroku.net/tenant/wako/SpMinuteView.html?tenant_id=382&council_id=517&schedule_id=2",
+        "sourceTitle": "和光市議会・08月27日－01号",
+        "archiveId": "7ec00b93dd13790b7bbb",
+        "blocks": [
+          12
+        ],
+        "memberActions": [
+          {
+            "name": "小嶋智子",
+            "detail": "議長として国への意見書の送付済みを報告した。",
+            "blocks": [
+              12
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "市議会の可決と送付を確認。国の施策決定に対するこの意見書の効果は確認待ち。"
+  }
+]);

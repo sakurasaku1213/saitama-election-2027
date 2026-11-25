@@ -1,5 +1,5 @@
 GIKAI.questionText = {
-  "checked": "2026-11-25",
+  "checked": "2026-11-26",
   "documents": [
     {
       "id": "28900786dfbd54b89da9",
@@ -8376,6 +8376,42 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "0a745cf0b548fff14a46",
+      "place": "和光市",
+      "season": "spring",
+      "date": "2026-02-19",
+      "title": "一般質問発言通告書",
+      "url": "https://www.city.wako.lg.jp/_res/projects/default_project/_page_/001/013/156/r803ippan.pdf",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "note": "公式PDF全18頁のOCR。通告は事前資料。実際の発言と答弁は本会議録で確認できます。人名・数値・段組は原本を確認してください。OCR要照合の頁：5、7、9、12、13、17、18。",
+      "speakers": []
+    },
+    {
+      "id": "b65f1d850da82562eb30",
+      "place": "和光市",
+      "season": "spring",
+      "date": "2026-02-19",
+      "title": "施政方針に対する発言通告書",
+      "url": "https://www.city.wako.lg.jp/_res/projects/default_project/_page_/001/013/156/r80219sisei.pdf",
+      "kind": "施政方針に対する発言通告（公式資料・OCR）",
+      "scope": "notice",
+      "note": "公式PDF全22頁のOCR。通告は事前資料。実際の発言と答弁は本会議録で確認できます。人名・数値・段組は原本を確認してください。OCR要照合の頁：2、15、20。",
+      "speakers": []
+    },
+    {
+      "id": "7a6ce002727e19f2cf65",
+      "place": "和光市",
+      "season": "spring",
+      "date": "2026-02-19",
+      "title": "議案に対する発言通告書",
+      "url": "https://www.city.wako.lg.jp/_res/projects/default_project/_page_/001/013/156/r80227giantukoku.pdf",
+      "kind": "議案質疑通告（公式資料・OCR）",
+      "scope": "notice",
+      "note": "公式PDF全5頁のOCR。通告は事前資料。実際の発言と答弁は本会議録で確認できます。人名・数値・段組は原本を確認してください。OCR要照合の頁：2、3、5。",
+      "speakers": []
+    },
+    {
       "id": "b3ef97c5008c5ac0a88c",
       "place": "和光市",
       "season": "spring",
@@ -8384,7 +8420,14 @@ GIKAI.questionText = {
       "url": "https://ssp.kaigiroku.net/tenant/wako/SpMinuteView.html?tenant_id=382&council_id=503&schedule_id=3",
       "kind": "公式会議録（HTML）",
       "scope": "minutes",
-      "speakers": [],
+      "speakers": [
+        "伊藤妙子",
+        "吉田活世",
+        "小嶋智子",
+        "松永靖恵",
+        "渡邉竜幸",
+        "齋藤幸子"
+      ],
       "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
     },
     {
@@ -8438,7 +8481,13 @@ GIKAI.questionText = {
       "url": "https://ssp.kaigiroku.net/tenant/wako/SpMinuteView.html?tenant_id=382&council_id=503&schedule_id=4",
       "kind": "公式会議録（HTML）",
       "scope": "minutes",
-      "speakers": [],
+      "speakers": [
+        "吉田武司",
+        "富澤啓二",
+        "小嶋智子",
+        "松永靖恵",
+        "渡邉竜幸"
+      ],
       "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
     },
     {
@@ -8656,7 +8705,13 @@ GIKAI.questionText = {
       "url": "https://ssp.kaigiroku.net/tenant/wako/SpMinuteView.html?tenant_id=382&council_id=503&schedule_id=5",
       "kind": "公式会議録（HTML）",
       "scope": "minutes",
-      "speakers": [],
+      "speakers": [
+        "内田あや",
+        "富澤啓二",
+        "小嶋智子",
+        "赤松祐造",
+        "齋藤幸子"
+      ],
       "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
     },
     {
@@ -8668,7 +8723,13 @@ GIKAI.questionText = {
       "url": "https://ssp.kaigiroku.net/tenant/wako/SpMinuteView.html?tenant_id=382&council_id=503&schedule_id=6",
       "kind": "公式会議録（HTML）",
       "scope": "minutes",
-      "speakers": [],
+      "speakers": [
+        "伊藤妙子",
+        "内山恵子",
+        "小嶋智子",
+        "岩澤侑生",
+        "鎌田泰春"
+      ],
       "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
     },
     {
@@ -8680,7 +8741,14 @@ GIKAI.questionText = {
       "url": "https://ssp.kaigiroku.net/tenant/wako/SpMinuteView.html?tenant_id=382&council_id=503&schedule_id=7",
       "kind": "公式会議録（HTML）",
       "scope": "minutes",
-      "speakers": [],
+      "speakers": [
+        "伊藤妙子",
+        "小嶋智子",
+        "待鳥美光",
+        "渡邉竜幸",
+        "片山義久",
+        "菅原満"
+      ],
       "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
     },
     {
@@ -8692,7 +8760,13 @@ GIKAI.questionText = {
       "url": "https://ssp.kaigiroku.net/tenant/wako/SpMinuteView.html?tenant_id=382&council_id=503&schedule_id=8",
       "kind": "公式会議録（HTML）",
       "scope": "minutes",
-      "speakers": [],
+      "speakers": [
+        "吉田武司",
+        "吉田活世",
+        "小嶋智子",
+        "松永靖恵",
+        "萩原圭一"
+      ],
       "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
     },
     {
@@ -8719,8 +8793,34 @@ GIKAI.questionText = {
       "url": "https://ssp.kaigiroku.net/tenant/wako/SpMinuteView.html?tenant_id=382&council_id=503&schedule_id=9",
       "kind": "公式会議録（HTML）",
       "scope": "minutes",
-      "speakers": [],
+      "speakers": [
+        "伊藤妙子",
+        "内田あや",
+        "吉田武司",
+        "吉田活世",
+        "富澤啓二",
+        "小嶋智子",
+        "松永靖恵",
+        "渡邉竜幸",
+        "片山義久",
+        "菅原満",
+        "赤松祐造",
+        "鎌田泰春",
+        "齋藤幸子"
+      ],
       "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
+    },
+    {
+      "id": "c4aee8a7f5190165cbc5",
+      "place": "和光市",
+      "season": "spring",
+      "date": "2026-05-01",
+      "title": "わこう市議会だより第132号",
+      "url": "https://www.city.wako.lg.jp/_res/projects/default_project/_page_/001/013/556/2605dayori3.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "公式PDF全4頁のOCR。",
+      "speakers": []
     },
     {
       "id": "3dee005b192b99b7fe85",
@@ -8738,6 +8838,30 @@ GIKAI.questionText = {
         "萩原圭一",
         "赤松祐造"
       ]
+    },
+    {
+      "id": "536d84a283108b39511a",
+      "place": "和光市",
+      "season": "summer",
+      "date": "2026-06-04",
+      "title": "一般質問発言通告書",
+      "url": "https://www.city.wako.lg.jp/_res/projects/default_project/_page_/001/013/599/26.6ippannshitsumonn.pdf",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "note": "公式PDF全20頁のOCR。通告は事前資料。実際の発言と答弁は本会議録で確認できます。人名・数値・段組は原本を確認してください。OCR要照合の頁：2、13、16、18、19、20。",
+      "speakers": []
+    },
+    {
+      "id": "8d8db2af86761577dc55",
+      "place": "和光市",
+      "season": "summer",
+      "date": "2026-06-04",
+      "title": "議案に対する発言通告書",
+      "url": "https://www.city.wako.lg.jp/_res/projects/default_project/_page_/001/013/599/2026.6soukatsushitsugi.pdf",
+      "kind": "議案質疑通告（公式資料・OCR）",
+      "scope": "notice",
+      "note": "公式PDF全6頁のOCR。通告は事前資料。実際の発言と答弁は本会議録で確認できます。人名・数値・段組は原本を確認してください。OCR要照合の頁：2、3、4、5、6。",
+      "speakers": []
     },
     {
       "id": "faf8ef5b8f8c926f1480",
@@ -8762,7 +8886,14 @@ GIKAI.questionText = {
       "url": "https://ssp.kaigiroku.net/tenant/wako/SpMinuteView.html?tenant_id=382&council_id=510&schedule_id=3",
       "kind": "公式会議録（HTML）",
       "scope": "minutes",
-      "speakers": [],
+      "speakers": [
+        "伊藤妙子",
+        "富澤啓二",
+        "小嶋智子",
+        "松永靖恵",
+        "渡邉竜幸",
+        "齋藤幸子"
+      ],
       "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
     },
     {
@@ -8855,7 +8986,13 @@ GIKAI.questionText = {
       "url": "https://ssp.kaigiroku.net/tenant/wako/SpMinuteView.html?tenant_id=382&council_id=510&schedule_id=4",
       "kind": "公式会議録（HTML）",
       "scope": "minutes",
-      "speakers": [],
+      "speakers": [
+        "内山恵子",
+        "小嶋智子",
+        "待鳥美光",
+        "菅原満",
+        "齋藤幸子"
+      ],
       "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
     },
     {
@@ -8867,7 +9004,13 @@ GIKAI.questionText = {
       "url": "https://ssp.kaigiroku.net/tenant/wako/SpMinuteView.html?tenant_id=382&council_id=510&schedule_id=5",
       "kind": "公式会議録（HTML）",
       "scope": "minutes",
-      "speakers": [],
+      "speakers": [
+        "内田あや",
+        "富澤啓二",
+        "小嶋智子",
+        "片山義久",
+        "赤松祐造"
+      ],
       "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
     },
     {
@@ -8879,7 +9022,13 @@ GIKAI.questionText = {
       "url": "https://ssp.kaigiroku.net/tenant/wako/SpMinuteView.html?tenant_id=382&council_id=510&schedule_id=6",
       "kind": "公式会議録（HTML）",
       "scope": "minutes",
-      "speakers": [],
+      "speakers": [
+        "伊藤妙子",
+        "吉田武司",
+        "小嶋智子",
+        "岩澤侑生",
+        "渡邉竜幸"
+      ],
       "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
     },
     {
@@ -8891,7 +9040,13 @@ GIKAI.questionText = {
       "url": "https://ssp.kaigiroku.net/tenant/wako/SpMinuteView.html?tenant_id=382&council_id=510&schedule_id=7",
       "kind": "公式会議録（HTML）",
       "scope": "minutes",
-      "speakers": [],
+      "speakers": [
+        "吉田活世",
+        "小嶋智子",
+        "松永靖恵",
+        "萩原圭一",
+        "鎌田泰春"
+      ],
       "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
     },
     {
@@ -8917,8 +9072,29 @@ GIKAI.questionText = {
       "url": "https://ssp.kaigiroku.net/tenant/wako/SpMinuteView.html?tenant_id=382&council_id=510&schedule_id=8",
       "kind": "公式会議録（HTML）",
       "scope": "minutes",
-      "speakers": [],
+      "speakers": [
+        "伊藤妙子",
+        "吉田活世",
+        "富澤啓二",
+        "小嶋智子",
+        "待鳥美光",
+        "菅原満",
+        "鎌田泰春",
+        "齋藤幸子"
+      ],
       "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
+    },
+    {
+      "id": "e96e9df1d1a841997fed",
+      "place": "和光市",
+      "season": "summer",
+      "date": "2026-08-01",
+      "title": "わこう市議会だより第133号",
+      "url": "https://www.city.wako.lg.jp/_res/projects/default_project/_page_/001/013/556/2608gikaidayori.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "公式PDF全4頁のOCR。",
+      "speakers": []
     },
     {
       "id": "7ec00b93dd13790b7bbb",
@@ -8935,6 +9111,30 @@ GIKAI.questionText = {
         "渡邉竜幸",
         "鎌田泰春"
       ]
+    },
+    {
+      "id": "503bf01707231e9599d4",
+      "place": "和光市",
+      "season": "fall",
+      "date": "2026-08-27",
+      "title": "一般質問発言通告書",
+      "url": "https://www.city.wako.lg.jp/_res/projects/default_project/_page_/001/013/980/r80827ippantukoku.pdf",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "note": "公式PDF全19頁のOCR。通告は事前資料。実際の発言と答弁は本会議録で確認できます。人名・数値・段組は原本を確認してください。OCR要照合の頁：2、4、5、8、10、11、14、15、17、18、19。",
+      "speakers": []
+    },
+    {
+      "id": "e43acc99a35716cbb3bc",
+      "place": "和光市",
+      "season": "fall",
+      "date": "2026-08-27",
+      "title": "議案に対する発言通告書",
+      "url": "https://www.city.wako.lg.jp/_res/projects/default_project/_page_/001/013/980/r80902giantukoku.pdf",
+      "kind": "議案質疑通告（公式資料・OCR）",
+      "scope": "notice",
+      "note": "公式PDF全8頁のOCR。通告は事前資料。実際の発言と答弁は本会議録で確認できます。人名・数値・段組は原本を確認してください。OCR要照合の頁：2、3、4、5、6、7、8。",
+      "speakers": []
     },
     {
       "id": "5dc1ad99c7e698d5d9bd",
@@ -8971,7 +9171,15 @@ GIKAI.questionText = {
       "url": "https://ssp.kaigiroku.net/tenant/wako/SpMinuteView.html?tenant_id=382&council_id=517&schedule_id=3",
       "kind": "公式会議録（HTML）",
       "scope": "minutes",
-      "speakers": [],
+      "speakers": [
+        "伊藤妙子",
+        "吉田武司",
+        "富澤啓二",
+        "小嶋智子",
+        "松永靖恵",
+        "渡邉竜幸",
+        "齋藤幸子"
+      ],
       "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
     },
     {
@@ -9170,7 +9378,13 @@ GIKAI.questionText = {
       "url": "https://ssp.kaigiroku.net/tenant/wako/SpMinuteView.html?tenant_id=382&council_id=517&schedule_id=4",
       "kind": "公式会議録（HTML）",
       "scope": "minutes",
-      "speakers": [],
+      "speakers": [
+        "内山恵子",
+        "小嶋智子",
+        "待鳥美光",
+        "渡邉竜幸",
+        "齋藤幸子"
+      ],
       "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
     },
     {
@@ -9182,7 +9396,13 @@ GIKAI.questionText = {
       "url": "https://ssp.kaigiroku.net/tenant/wako/SpMinuteView.html?tenant_id=382&council_id=517&schedule_id=5",
       "kind": "公式会議録（HTML）",
       "scope": "minutes",
-      "speakers": [],
+      "speakers": [
+        "伊藤妙子",
+        "吉田武司",
+        "小嶋智子",
+        "菅原満",
+        "赤松祐造"
+      ],
       "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
     },
     {
@@ -9194,7 +9414,13 @@ GIKAI.questionText = {
       "url": "https://ssp.kaigiroku.net/tenant/wako/SpMinuteView.html?tenant_id=382&council_id=517&schedule_id=6",
       "kind": "公式会議録（HTML）",
       "scope": "minutes",
-      "speakers": [],
+      "speakers": [
+        "内田あや",
+        "吉田活世",
+        "富澤啓二",
+        "小嶋智子",
+        "鎌田泰春"
+      ],
       "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
     },
     {
@@ -9206,7 +9432,14 @@ GIKAI.questionText = {
       "url": "https://ssp.kaigiroku.net/tenant/wako/SpMinuteView.html?tenant_id=382&council_id=517&schedule_id=7",
       "kind": "公式会議録（HTML）",
       "scope": "minutes",
-      "speakers": [],
+      "speakers": [
+        "内山恵子",
+        "小嶋智子",
+        "岩澤侑生",
+        "松永靖恵",
+        "片山義久",
+        "萩原圭一"
+      ],
       "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
     },
     {
@@ -9232,8 +9465,33 @@ GIKAI.questionText = {
       "url": "https://ssp.kaigiroku.net/tenant/wako/SpMinuteView.html?tenant_id=382&council_id=517&schedule_id=8",
       "kind": "公式会議録（HTML）",
       "scope": "minutes",
-      "speakers": [],
+      "speakers": [
+        "伊藤妙子",
+        "吉田武司",
+        "吉田活世",
+        "富澤啓二",
+        "小嶋智子",
+        "待鳥美光",
+        "松永靖恵",
+        "渡邉竜幸",
+        "菅原満",
+        "赤松祐造",
+        "鎌田泰春",
+        "齋藤幸子"
+      ],
       "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
+    },
+    {
+      "id": "4864ba92f8ac4123b3de",
+      "place": "和光市",
+      "season": "fall",
+      "date": "2026-11-01",
+      "title": "わこう市議会だより第134号",
+      "url": "https://www.city.wako.lg.jp/_res/projects/default_project/_page_/001/013/556/r81101dayori.pdf",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "note": "公式PDF全4頁のOCR。",
+      "speakers": []
     },
     {
       "id": "63500584a2321a03d389",

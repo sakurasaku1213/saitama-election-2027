@@ -784,8 +784,18 @@
     const citation = esc(b.number || b.resultLocator || "");
     const supporters = b.proposalSupporters?.length
       ? `<p class="small">${esc(b.proposalSupporterLabel || "議案書の賛成者")}　${b.proposalSupporters.map(esc).join("、")}</p>` : "";
+    const committee = b.committee;
+    const committeeRecord = committee && D.questionText.documents.find((doc) => doc.id === committee.archiveId);
+    const committeeVotes = committee ? `<details class="case-actions committee-votes">
+      <summary>委員会の表決　${esc(committee.name)}　${tag(committee.result)}</summary>
+      <p class="small">${dateTag(committee.date)}${committee.note ? "　" + esc(committee.note) : ""}</p>
+      <ul class="ballots">${Object.entries(committee.votes).map(([name, position]) =>
+        `<li><span>${esc(name)}</span><b>${esc(position)}</b></li>`).join("")}</ul>
+      <div class="links">${link(committee.url, "委員会表決の原表")}
+        ${committeeRecord ? link(committeeRecord.url, "委員会会議録") +
+          archivedMinutes(b.place, committee.date, committeeRecord.id) : ""}</div></details>` : "";
     const conflicts = b.voteConflicts || [];
-    return `<details class="entry"><summary><div><div class="meta">${tag(b.result)}<span>${esc(b.place)}議会</span>${dateTag(b.date)}<span>${citation}</span>${conflicts.length ? tag("表決原表に注記") : ""}</div><p class="title">${esc(b.title)}</p></div></summary><div class="detail-body"><p>${esc(b.proposalRole || "提出者")}　${named}</p>${supporters}${scope}${conflicts.length ? note : ""}<ul class="ballots">${ballots.map(([name, position]) => `<li><span>${esc(name)}</span><b>${conflicts.includes(name) ? "原表では　" : ""}${esc(position)}</b></li>`).join("")}</ul>${conflicts.length ? "" : note}${followUp}${!ballots.length && !note ? `<p class="small">個々の賛否はこの表に掲載していません。</p>` : ""}<div class="links">${sources}</div></div></details>`;
+    return `<details class="entry"><summary><div><div class="meta">${tag(b.result)}<span>${esc(b.place)}議会</span>${dateTag(b.date)}<span>${citation}</span>${conflicts.length ? tag("表決原表に注記") : ""}</div><p class="title">${esc(b.title)}</p></div></summary><div class="detail-body"><p>${esc(b.proposalRole || "提出者")}　${named}</p>${supporters}${scope}${conflicts.length ? note : ""}<ul class="ballots">${ballots.map(([name, position]) => `<li><span>${esc(name)}</span><b>${conflicts.includes(name) ? "原表では　" : ""}${esc(position)}</b></li>`).join("")}</ul>${conflicts.length ? "" : note}${followUp}${!ballots.length && !note ? `<p class="small">個々の賛否はこの表に掲載していません。</p>` : ""}<div class="links">${sources}</div>${committeeVotes}</div></details>`;
   }
   function voteResults() {
     const prefItems = voteRows.filter(

@@ -417,6 +417,15 @@ for (const bill of coverage.decisions) {
   if (bill.proposalSupporterLabel) {
     assert.ok(bill.proposalSupporters?.length && bill.archiveId, key);
   }
+  if (bill.committee) {
+    const { name, date, result, url, archiveId, votes } = bill.committee;
+    const doc = archivedQuestionDocs.get(archiveId);
+    assert.ok(doc?.place === bill.place && doc.scope === "minutes" && doc.date === date, key);
+    assert.ok(name && doc.title.includes(name) && result && date <= bill.date, key);
+    validLink(url);
+    assert.ok(Object.keys(votes).length && Object.values(votes).every((vote) =>
+      ["賛成", "反対", "趣旨採択", "欠席", "棄権", "除斥", "委員長（表決不参加）"].includes(vote)), key);
+  }
   if (bill.followUp) {
     const { date, result, session, url } = bill.followUp;
     validDay(date);
@@ -517,7 +526,8 @@ for (const doc of questionDocs) {
   assert.ok(doc.title && doc.kind);
   assert.ok(["minutes", "fullQA", "summary", "recording", "notice"].includes(doc.scope));
   if (doc.scope === "notice") {
-    assert.ok(["一般質問通告（公式資料）", "議案質疑通告（公式資料・OCR）", "議案質疑・一般質問通告（公式資料）"].includes(doc.kind) && doc.note);
+    assert.ok(["一般質問通告（公式資料）", "議案質疑通告（公式資料・OCR）", "議案質疑・一般質問通告（公式資料）",
+      "施政方針に対する発言通告（公式資料・OCR）"].includes(doc.kind) && doc.note);
   }
   if (doc.scope === "recording") {
     assert.match(doc.kind, /機械文字起こし|公開自動字幕/);
