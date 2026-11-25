@@ -7876,6 +7876,28 @@ GIKAI.cases.push(...[
         "billNumber": "議案第6号"
       },
       {
+        "date": "2026-08-31",
+        "actor": "三郷市長",
+        "stage": "建築と給排水・ガス設備の変更契約案を提出",
+        "detail": "建築は15億1,456万6,900円から15億1,687万6,900円への231万円増、給排水・ガス設備は４億4,871万6,400円から４億5,300万6,400円への429万円増として提出した。",
+        "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giannsyo.pdf#page=3",
+        "sourceTitle": "９月議案書 PDF３・５頁・議案第60・61号",
+        "archiveId": "f294f3d037a3e7082530",
+        "blocks": [
+          3,
+          5
+        ]
+      },
+      {
+        "date": "2026-09-14",
+        "actor": "三郷市議会",
+        "stage": "建築の工事変更契約を可決",
+        "detail": "議案第60号を原案可決。建築工事の契約額の変更を承認した。",
+        "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giketukekka.pdf#page=1",
+        "sourceTitle": "９月定例会の議決結果・議案第60号",
+        "billNumber": "議案第60号"
+      },
+      {
         "date": "2026-09-14",
         "actor": "三郷市議会",
         "stage": "給排水・ガス設備の工事変更契約を可決",
@@ -7897,9 +7919,17 @@ GIKAI.cases.push(...[
         "detail": "11月号広報で建物の完成を公表した。議会だより第207号は開館を令和９年２月予定としている。",
         "url": "https://www.city.misato.lg.jp/material/files/group/1/2026111202.pdf#page=2",
         "sourceTitle": "広報みさと11月号"
+      },
+      {
+        "date": "2026-11-20",
+        "actor": "三郷市",
+        "stage": "開館準備として自動販売機事業者の公募を告知",
+        "detail": "2027年２月の開館予定を案内し、飲料水等の自動販売機を設置する事業者を募集すると告知した。応募受付予定は12月14～21日。開館日と事業者の決定は確認中。",
+        "url": "https://www.city.misato.lg.jp/soshiki/kikikannribosai/kikikanribosai/2/13828.html",
+        "sourceTitle": "三郷市 防災プラザの自動販売機設置事業者公募（11月20日更新）"
       }
     ],
-    "note": "条例、設備変更の議決と建物の完成を確認。開館実績は今後の公表資料で確認する。"
+    "note": "条例、建築・設備の契約変更の議決と建物の完成を確認。開館準備の公募までを記録した。"
   },
   {
     "place": "三郷市",
@@ -8112,6 +8142,19 @@ GIKAI.cases.push(...[
         "sourceTitle": "市 条例改正案パブリックコメント"
       },
       {
+        "date": "2026-08-31",
+        "actor": "三郷市長",
+        "stage": "手当の対象と経過措置を見直す条例案を提出",
+        "detail": "原案は、原則として65歳に達する日の前日までに所定の障害要件に該当した人を対象とし、一定の療育手帳の交付を受けていた人への特則を設けた。原案附則は2027年１月１日施行と経過措置を記載。",
+        "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giannsyo.pdf#page=29",
+        "sourceTitle": "９月議案書 PDF29～30頁・議案第65号の改正文と附則",
+        "archiveId": "f294f3d037a3e7082530",
+        "blocks": [
+          29,
+          30
+        ]
+      },
+      {
         "date": "2026-09-14",
         "actor": "三郷市議会",
         "stage": "手当支給条例の改正を可決",
@@ -8121,7 +8164,7 @@ GIKAI.cases.push(...[
         "billNumber": "議案第65号"
       }
     ],
-    "note": "意見募集と議決を確認。改正後の支給実績は確認中。"
+    "note": "意見募集、条例の提出原文と議決を確認。施行後の取扱いと支給実績は確認中。"
   },
   {
     "place": "三郷市",

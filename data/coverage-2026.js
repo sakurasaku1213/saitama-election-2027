@@ -2227,7 +2227,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "partial",
-          "note": "28人の紙面主要問答とその他29見出し、公式通告57項目と会派討論５欄。正式会議録は確認中。"
+          "note": "第85号の一般質問28人の主要問答とその他29見出し、紙面３・４頁の会派等の討論５欄を原紙面と照合。一般質問は９月８・９・11・15・16日。氏名と発言日は公式録画目録と照合した。 正式会議録は確認中。 公式録画の機械文字起こし一般質問3本を収録。"
         },
         "decisions": {
           "state": "verified",
@@ -2379,7 +2379,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "partial",
-          "note": "16人の一般質問44問答とその他９見出し、議案質疑13組、決算討論２人、公式通告30大項目。委員長報告４資料と教育委員会会議録の関連部分も収録。正式本会議録は確認中。 公式録画の機械文字起こし一般質問6本を収録。"
+          "note": "16人の一般質問44問答とその他９見出し、議案質疑13組、決算討論２人、公式通告30大項目。委員長報告４資料と教育委員会会議録の関連部分も収録。正式本会議録は確認中。 公式録画の機械文字起こし一般質問7本を収録。"
         },
         "decisions": {
           "state": "verified",
@@ -2579,7 +2579,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "partial",
-          "note": "第256号の一般質問12人・39問答、議案質疑10問答、その他の見出しと補足17件を収録。公式通告８頁、一般質問12本と議案質疑14本の公式録画を照合。正式会議録は確認中。 公式録画の機械文字起こし議案質疑14本・一般質問2本を収録。"
+          "note": "第256号の一般質問12人・39問答、議案質疑10問答、その他の見出しと補足17件を収録。公式通告８頁、一般質問12本と議案質疑14本の公式録画を照合。正式会議録は確認中。 公式録画の機械文字起こし一般質問3本・議案質疑14本を収録。"
         },
         "decisions": {
           "state": "verified",
@@ -5750,6 +5750,10 @@ GIKAI.coverage2026 = {
         {
           "label": "議会だよりの審議結果・賛否",
           "url": "https://www.city.misato.lg.jp/material/files/group/57/misatosigikaidayori205.pdf#page=7"
+        },
+        {
+          "label": "三郷市の提出議案・予算・決算等の一覧",
+          "url": "https://www.city.misato.lg.jp/soshiki/gikaijimukyoku/giji/1/7943.html"
         }
       ]
     },
@@ -5798,6 +5802,10 @@ GIKAI.coverage2026 = {
         {
           "label": "議会だよりの審議結果・賛否",
           "url": "https://www.city.misato.lg.jp/material/files/group/57/gikaidayori_206.pdf#page=3"
+        },
+        {
+          "label": "三郷市の提出議案・予算・決算等の一覧",
+          "url": "https://www.city.misato.lg.jp/soshiki/gikaijimukyoku/giji/1/7943.html"
         }
       ]
     },
@@ -5819,7 +5827,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "partial",
-          "note": "第207号で議員15人・15主題の質問と答弁、議案・決算の14問答、補足13件を原紙面と照合。公式通告19頁、公式録画で9/14の２人、15・16日の各６人、17日の１人を照合。速報版は市が11月下旬予定と案内しており、正式会議録は確認中。 公式録画の機械文字起こし一般質問12本を収録。"
+          "note": "第207号で議員15人・15主題の質問と答弁、議案・決算の14問答、補足13件を原紙面と照合。公式通告19頁、公式録画で9/14の２人、15・16日の各６人、17日の１人を照合。速報版は市が11月下旬予定と案内しており、正式会議録は確認中。 公式録画の機械文字起こし一般質問13本を収録。"
         },
         "decisions": {
           "state": "verified",
@@ -5858,6 +5866,10 @@ GIKAI.coverage2026 = {
         {
           "label": "議会だより第207号",
           "url": "https://www.city.misato.lg.jp/material/files/group/57/gikaidayori207.pdf"
+        },
+        {
+          "label": "三郷市の提出議案・予算・決算等の一覧",
+          "url": "https://www.city.misato.lg.jp/soshiki/gikaijimukyoku/giji/1/7943.html"
         }
       ]
     },
@@ -13201,12 +13213,13 @@ GIKAI.coverage2026 = {
       "date": "2026-03-11",
       "title": "令和8年度三郷市公共下水道事業特別会計予算",
       "result": "原案可決",
-      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=2",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giannsyo2.pdf#page=95",
       "resultURL": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=2",
       "resultLocator": "公式結果表 議決番号27",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式提出議案書の該当頁",
       "voteURL": "https://www.city.misato.lg.jp/material/files/group/57/misatosigikaidayori205.pdf#page=7",
-      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。"
+      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。",
+      "sourceTitle": "三郷市・提出議案の原文"
     },
     {
       "place": "三郷市",
@@ -13216,12 +13229,13 @@ GIKAI.coverage2026 = {
       "date": "2026-03-11",
       "title": "令和8年度三郷市上水道事業特別会計予算",
       "result": "原案可決",
-      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=2",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giannsyo2.pdf#page=93",
       "resultURL": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=2",
       "resultLocator": "公式結果表 議決番号26",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式提出議案書の該当頁",
       "voteURL": "https://www.city.misato.lg.jp/material/files/group/57/misatosigikaidayori205.pdf#page=7",
-      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。"
+      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。",
+      "sourceTitle": "三郷市・提出議案の原文"
     },
     {
       "place": "三郷市",
@@ -13231,10 +13245,10 @@ GIKAI.coverage2026 = {
       "date": "2026-03-11",
       "title": "令和8年度三郷市後期高齢者医療特別会計予算",
       "result": "原案可決",
-      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=2",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giannsyo2.pdf#page=91",
       "resultURL": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=2",
       "resultLocator": "公式結果表 議決番号25",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式提出議案書の該当頁",
       "votes": {
         "武居弘治": "議長（表決不参加）",
         "佐々木修": "賛成",
@@ -13262,7 +13276,8 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.city.misato.lg.jp/material/files/group/57/misatosigikaidayori205.pdf#page=7",
       "voteType": "記名",
-      "voteNote": "紙面の記名表決は賛成19、反対3。"
+      "voteNote": "紙面の記名表決は賛成19、反対3。",
+      "sourceTitle": "三郷市・提出議案の原文"
     },
     {
       "place": "三郷市",
@@ -13272,10 +13287,10 @@ GIKAI.coverage2026 = {
       "date": "2026-03-11",
       "title": "令和8年度三郷市介護保険特別会計予算",
       "result": "原案可決",
-      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=2",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giannsyo2.pdf#page=89",
       "resultURL": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=2",
       "resultLocator": "公式結果表 議決番号24",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式提出議案書の該当頁",
       "votes": {
         "武居弘治": "議長（表決不参加）",
         "佐々木修": "賛成",
@@ -13303,7 +13318,8 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.city.misato.lg.jp/material/files/group/57/misatosigikaidayori205.pdf#page=7",
       "voteType": "記名",
-      "voteNote": "紙面の記名表決は賛成19、反対3。"
+      "voteNote": "紙面の記名表決は賛成19、反対3。",
+      "sourceTitle": "三郷市・提出議案の原文"
     },
     {
       "place": "三郷市",
@@ -13313,10 +13329,10 @@ GIKAI.coverage2026 = {
       "date": "2026-03-11",
       "title": "令和8年度三郷市国民健康保険特別会計予算",
       "result": "原案可決",
-      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=2",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giannsyo2.pdf#page=87",
       "resultURL": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=2",
       "resultLocator": "公式結果表 議決番号23",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式提出議案書の該当頁",
       "votes": {
         "武居弘治": "議長（表決不参加）",
         "佐々木修": "賛成",
@@ -13344,7 +13360,8 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.city.misato.lg.jp/material/files/group/57/misatosigikaidayori205.pdf#page=7",
       "voteType": "記名",
-      "voteNote": "紙面の記名表決は賛成19、反対3。"
+      "voteNote": "紙面の記名表決は賛成19、反対3。",
+      "sourceTitle": "三郷市・提出議案の原文"
     },
     {
       "place": "三郷市",
@@ -13354,10 +13371,10 @@ GIKAI.coverage2026 = {
       "date": "2026-03-11",
       "title": "令和8年度三郷市一般会計予算",
       "result": "原案可決",
-      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=2",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giannsyo2.pdf#page=85",
       "resultURL": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=2",
       "resultLocator": "公式結果表 議決番号22",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式提出議案書の該当頁",
       "votes": {
         "武居弘治": "議長（表決不参加）",
         "佐々木修": "賛成",
@@ -13385,7 +13402,8 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.city.misato.lg.jp/material/files/group/57/misatosigikaidayori205.pdf#page=7",
       "voteType": "記名",
-      "voteNote": "紙面の記名表決は賛成19、反対3。"
+      "voteNote": "紙面の記名表決は賛成19、反対3。",
+      "sourceTitle": "三郷市・提出議案の原文"
     },
     {
       "place": "三郷市",
@@ -13395,12 +13413,13 @@ GIKAI.coverage2026 = {
       "date": "2026-03-11",
       "title": "三郷市児童クラブ設置及び管理条例の一部改正について",
       "result": "原案可決",
-      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=2",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giannsyo2.pdf#page=79",
       "resultURL": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=2",
       "resultLocator": "公式結果表 議決番号19",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式提出議案書の該当頁",
       "voteURL": "https://www.city.misato.lg.jp/material/files/group/57/misatosigikaidayori205.pdf#page=7",
-      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。"
+      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。",
+      "sourceTitle": "三郷市・提出議案の原文"
     },
     {
       "place": "三郷市",
@@ -13410,12 +13429,13 @@ GIKAI.coverage2026 = {
       "date": "2026-03-11",
       "title": "三郷市火災予防条例の一部改正について",
       "result": "原案可決",
-      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=2",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giannsyo2.pdf#page=75",
       "resultURL": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=2",
       "resultLocator": "公式結果表 議決番号18",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式提出議案書の該当頁",
       "voteURL": "https://www.city.misato.lg.jp/material/files/group/57/misatosigikaidayori205.pdf#page=7",
-      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。"
+      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。",
+      "sourceTitle": "三郷市・提出議案の原文"
     },
     {
       "place": "三郷市",
@@ -13425,12 +13445,13 @@ GIKAI.coverage2026 = {
       "date": "2026-03-11",
       "title": "三郷市水道事業給水条例の一部改正について",
       "result": "原案可決",
-      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=1",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giannsyo2.pdf#page=73",
       "resultURL": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=1",
       "resultLocator": "公式結果表 議決番号17",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式提出議案書の該当頁",
       "voteURL": "https://www.city.misato.lg.jp/material/files/group/57/misatosigikaidayori205.pdf#page=7",
-      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。"
+      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。",
+      "sourceTitle": "三郷市・提出議案の原文"
     },
     {
       "place": "三郷市",
@@ -13440,12 +13461,13 @@ GIKAI.coverage2026 = {
       "date": "2026-03-11",
       "title": "三郷市下水道条例の一部改正について",
       "result": "原案可決",
-      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=1",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giannsyo2.pdf#page=67",
       "resultURL": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=1",
       "resultLocator": "公式結果表 議決番号14",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式提出議案書の該当頁",
       "voteURL": "https://www.city.misato.lg.jp/material/files/group/57/misatosigikaidayori205.pdf#page=7",
-      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。"
+      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。",
+      "sourceTitle": "三郷市・提出議案の原文"
     },
     {
       "place": "三郷市",
@@ -13455,12 +13477,13 @@ GIKAI.coverage2026 = {
       "date": "2026-03-11",
       "title": "三郷市介護保険条例の一部改正について",
       "result": "原案可決",
-      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=1",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giannsyo2.pdf#page=49",
       "resultURL": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=1",
       "resultLocator": "公式結果表 議決番号10",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式提出議案書の該当頁",
       "voteURL": "https://www.city.misato.lg.jp/material/files/group/57/misatosigikaidayori205.pdf#page=7",
-      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。"
+      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。",
+      "sourceTitle": "三郷市・提出議案の原文"
     },
     {
       "place": "三郷市",
@@ -13470,10 +13493,10 @@ GIKAI.coverage2026 = {
       "date": "2026-03-11",
       "title": "三郷市国民健康保険税条例の一部改正について",
       "result": "原案可決",
-      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=1",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giannsyo2.pdf#page=37",
       "resultURL": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=1",
       "resultLocator": "公式結果表 議決番号9",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式提出議案書の該当頁",
       "votes": {
         "武居弘治": "議長（表決不参加）",
         "佐々木修": "賛成",
@@ -13501,7 +13524,8 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.city.misato.lg.jp/material/files/group/57/misatosigikaidayori205.pdf#page=7",
       "voteType": "記名",
-      "voteNote": "紙面の記名表決は賛成19、反対3。"
+      "voteNote": "紙面の記名表決は賛成19、反対3。",
+      "sourceTitle": "三郷市・提出議案の原文"
     },
     {
       "place": "三郷市",
@@ -13511,10 +13535,10 @@ GIKAI.coverage2026 = {
       "date": "2026-03-11",
       "title": "三郷市都市計画税条例の一部改正について",
       "result": "原案可決",
-      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=1",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giannsyo2.pdf#page=35",
       "resultURL": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=1",
       "resultLocator": "公式結果表 議決番号8",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式提出議案書の該当頁",
       "votes": {
         "武居弘治": "議長（表決不参加）",
         "佐々木修": "賛成",
@@ -13542,7 +13566,8 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.city.misato.lg.jp/material/files/group/57/misatosigikaidayori205.pdf#page=7",
       "voteType": "記名",
-      "voteNote": "紙面の記名表決は賛成19、反対3。"
+      "voteNote": "紙面の記名表決は賛成19、反対3。",
+      "sourceTitle": "三郷市・提出議案の原文"
     },
     {
       "place": "三郷市",
@@ -13552,12 +13577,13 @@ GIKAI.coverage2026 = {
       "date": "2026-03-11",
       "title": "みんなの防災プラザみさと設置及び管理条例の制定について",
       "result": "原案可決",
-      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=1",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giannsyo2.pdf#page=25",
       "resultURL": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=1",
       "resultLocator": "公式結果表 議決番号7",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式提出議案書の該当頁",
       "voteURL": "https://www.city.misato.lg.jp/material/files/group/57/misatosigikaidayori205.pdf#page=7",
-      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。"
+      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。",
+      "sourceTitle": "三郷市・提出議案の原文"
     },
     {
       "place": "三郷市",
@@ -13567,12 +13593,13 @@ GIKAI.coverage2026 = {
       "date": "2026-03-11",
       "title": "職員の給与に関する条例等の一部改正について",
       "result": "原案可決",
-      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=1",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giannsyo2.pdf#page=9",
       "resultURL": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=1",
       "resultLocator": "公式結果表 議決番号5",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式提出議案書の該当頁",
       "voteURL": "https://www.city.misato.lg.jp/material/files/group/57/misatosigikaidayori205.pdf#page=7",
-      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。"
+      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。",
+      "sourceTitle": "三郷市・提出議案の原文"
     },
     {
       "place": "三郷市",
@@ -13582,12 +13609,13 @@ GIKAI.coverage2026 = {
       "date": "2026-03-11",
       "title": "製造請負変更契約の締結について",
       "result": "原案可決",
-      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=1",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giannsyo2.pdf#page=7",
       "resultURL": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=1",
       "resultLocator": "公式結果表 議決番号4",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式提出議案書の該当頁",
       "voteURL": "https://www.city.misato.lg.jp/material/files/group/57/misatosigikaidayori205.pdf#page=7",
-      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。"
+      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。",
+      "sourceTitle": "三郷市・提出議案の原文"
     },
     {
       "place": "三郷市",
@@ -13612,12 +13640,13 @@ GIKAI.coverage2026 = {
       "date": "2026-03-02",
       "title": "専決処分の承認を求めることについて",
       "result": "原案承認",
-      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=1",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giannsyo2.pdf#page=5",
       "resultURL": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=1",
       "resultLocator": "公式結果表 議決番号2",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式提出議案書の該当頁",
       "voteURL": "https://www.city.misato.lg.jp/material/files/group/57/misatosigikaidayori205.pdf#page=7",
-      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。"
+      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。",
+      "sourceTitle": "三郷市・提出議案の原文"
     },
     {
       "place": "三郷市",
@@ -13627,12 +13656,13 @@ GIKAI.coverage2026 = {
       "date": "2026-03-02",
       "title": "専決処分の承認を求めることについて",
       "result": "原案承認",
-      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=1",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giannsyo2.pdf#page=3",
       "resultURL": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=1",
       "resultLocator": "公式結果表 議決番号1",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式提出議案書の該当頁",
       "voteURL": "https://www.city.misato.lg.jp/material/files/group/57/misatosigikaidayori205.pdf#page=7",
-      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。"
+      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。",
+      "sourceTitle": "三郷市・提出議案の原文"
     },
     {
       "place": "三郷市",
@@ -14137,12 +14167,13 @@ GIKAI.coverage2026 = {
       "date": "2026-09-04",
       "title": "固定資産評価審査委員会委員の選任について",
       "result": "原案同意",
-      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giketukekka.pdf#page=2",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giannsyo.pdf#page=53",
       "resultURL": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giketukekka.pdf#page=2",
       "resultLocator": "公式結果表 議決番号61",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式提出議案書の該当頁",
       "voteURL": "https://www.city.misato.lg.jp/material/files/group/57/gikaidayori207.pdf#page=14",
-      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。"
+      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。",
+      "sourceTitle": "三郷市・提出議案の原文"
     },
     {
       "place": "三郷市",
@@ -14152,12 +14183,13 @@ GIKAI.coverage2026 = {
       "date": "2026-09-04",
       "title": "教育委員会委員の任命について",
       "result": "原案同意",
-      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giketukekka.pdf#page=2",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giannsyo.pdf#page=51",
       "resultURL": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giketukekka.pdf#page=2",
       "resultLocator": "公式結果表 議決番号64",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式提出議案書の該当頁",
       "voteURL": "https://www.city.misato.lg.jp/material/files/group/57/gikaidayori207.pdf#page=14",
-      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。"
+      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。",
+      "sourceTitle": "三郷市・提出議案の原文"
     },
     {
       "place": "三郷市",
@@ -14167,12 +14199,13 @@ GIKAI.coverage2026 = {
       "date": "2026-09-14",
       "title": "令和7年度三郷市公共下水道事業特別会計決算認定について",
       "result": "認定",
-      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giketukekka.pdf#page=2",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giannsyo.pdf#page=49",
       "resultURL": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giketukekka.pdf#page=2",
       "resultLocator": "公式結果表 議決番号80",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式提出議案書の該当頁",
       "voteURL": "https://www.city.misato.lg.jp/material/files/group/57/gikaidayori207.pdf#page=14",
-      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。"
+      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。",
+      "sourceTitle": "三郷市・提出議案の原文"
     },
     {
       "place": "三郷市",
@@ -14182,10 +14215,10 @@ GIKAI.coverage2026 = {
       "date": "2026-09-14",
       "title": "令和7年度三郷市介護保険特別会計歳入歳出決算認定について",
       "result": "認定",
-      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giketukekka.pdf#page=2",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giannsyo.pdf#page=43",
       "resultURL": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giketukekka.pdf#page=2",
       "resultLocator": "公式結果表 議決番号77",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式提出議案書の該当頁",
       "votes": {
         "佐々木修": "議長（表決不参加）",
         "寺沢美紗": "賛成",
@@ -14214,7 +14247,8 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.city.misato.lg.jp/material/files/group/57/gikaidayori207.pdf#page=14",
       "voteType": "記名",
-      "voteNote": "紙面の記名表決は賛成19、反対3、欠席1。"
+      "voteNote": "紙面の記名表決は賛成19、反対3、欠席1。",
+      "sourceTitle": "三郷市・提出議案の原文"
     },
     {
       "place": "三郷市",
@@ -14224,10 +14258,10 @@ GIKAI.coverage2026 = {
       "date": "2026-09-14",
       "title": "令和7年度三郷市国民健康保険特別会計歳入歳出決算認定について",
       "result": "認定",
-      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giketukekka.pdf#page=2",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giannsyo.pdf#page=41",
       "resultURL": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giketukekka.pdf#page=2",
       "resultLocator": "公式結果表 議決番号76",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式提出議案書の該当頁",
       "votes": {
         "佐々木修": "議長（表決不参加）",
         "寺沢美紗": "賛成",
@@ -14256,7 +14290,8 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.city.misato.lg.jp/material/files/group/57/gikaidayori207.pdf#page=14",
       "voteType": "記名",
-      "voteNote": "紙面の記名表決は賛成19、反対3、欠席1。"
+      "voteNote": "紙面の記名表決は賛成19、反対3、欠席1。",
+      "sourceTitle": "三郷市・提出議案の原文"
     },
     {
       "place": "三郷市",
@@ -14266,10 +14301,10 @@ GIKAI.coverage2026 = {
       "date": "2026-09-14",
       "title": "令和7年度三郷市一般会計歳入歳出決算認定について",
       "result": "認定",
-      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giketukekka.pdf#page=1",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giannsyo.pdf#page=39",
       "resultURL": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giketukekka.pdf#page=1",
       "resultLocator": "公式結果表 議決番号75",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式提出議案書の該当頁",
       "votes": {
         "佐々木修": "議長（表決不参加）",
         "寺沢美紗": "賛成",
@@ -14298,7 +14333,8 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.city.misato.lg.jp/material/files/group/57/gikaidayori207.pdf#page=14",
       "voteType": "記名",
-      "voteNote": "紙面の記名表決は賛成19、反対3、欠席1。"
+      "voteNote": "紙面の記名表決は賛成19、反対3、欠席1。",
+      "sourceTitle": "三郷市・提出議案の原文"
     },
     {
       "place": "三郷市",
@@ -14308,10 +14344,10 @@ GIKAI.coverage2026 = {
       "date": "2026-09-14",
       "title": "三郷市在宅重度心身障害者手当支給条例の一部改正について",
       "result": "原案可決",
-      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giketukekka.pdf#page=1",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giannsyo.pdf#page=29",
       "resultURL": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giketukekka.pdf#page=1",
       "resultLocator": "公式結果表 議決番号70",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式提出議案書の該当頁",
       "votes": {
         "佐々木修": "議長（表決不参加）",
         "寺沢美紗": "賛成",
@@ -14340,7 +14376,8 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.city.misato.lg.jp/material/files/group/57/gikaidayori207.pdf#page=14",
       "voteType": "記名",
-      "voteNote": "紙面の記名表決は賛成19、反対3、欠席1。"
+      "voteNote": "紙面の記名表決は賛成19、反対3、欠席1。",
+      "sourceTitle": "三郷市・提出議案の原文"
     },
     {
       "place": "三郷市",
@@ -14350,12 +14387,13 @@ GIKAI.coverage2026 = {
       "date": "2026-09-14",
       "title": "三郷市振り込め詐欺等の被害防止に関する条例の一部改正について",
       "result": "原案可決",
-      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giketukekka.pdf#page=1",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giannsyo.pdf#page=27",
       "resultURL": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giketukekka.pdf#page=1",
       "resultLocator": "公式結果表 議決番号69",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式提出議案書の該当頁",
       "voteURL": "https://www.city.misato.lg.jp/material/files/group/57/gikaidayori207.pdf#page=14",
-      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。"
+      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。",
+      "sourceTitle": "三郷市・提出議案の原文"
     },
     {
       "place": "三郷市",
@@ -14365,12 +14403,13 @@ GIKAI.coverage2026 = {
       "date": "2026-09-14",
       "title": "職員の勤務時間、休日及び休暇に関する条例の一部改正について",
       "result": "原案可決",
-      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giketukekka.pdf#page=1",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giannsyo.pdf#page=25",
       "resultURL": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giketukekka.pdf#page=1",
       "resultLocator": "公式結果表 議決番号68",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式提出議案書の該当頁",
       "voteURL": "https://www.city.misato.lg.jp/material/files/group/57/gikaidayori207.pdf#page=14",
-      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。"
+      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。",
+      "sourceTitle": "三郷市・提出議案の原文"
     },
     {
       "place": "三郷市",
@@ -14380,12 +14419,13 @@ GIKAI.coverage2026 = {
       "date": "2026-09-14",
       "title": "職員等の旅費に関する条例等の一部改正について",
       "result": "原案可決",
-      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giketukekka.pdf#page=1",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giannsyo.pdf#page=7",
       "resultURL": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giketukekka.pdf#page=1",
       "resultLocator": "公式結果表 議決番号67",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式提出議案書の該当頁",
       "voteURL": "https://www.city.misato.lg.jp/material/files/group/57/gikaidayori207.pdf#page=14",
-      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。"
+      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。",
+      "sourceTitle": "三郷市・提出議案の原文"
     },
     {
       "place": "三郷市",
@@ -14395,12 +14435,13 @@ GIKAI.coverage2026 = {
       "date": "2026-09-14",
       "title": "工事請負変更契約の締結について",
       "result": "原案可決",
-      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giketukekka.pdf#page=1",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giannsyo.pdf#page=5",
       "resultURL": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giketukekka.pdf#page=1",
       "resultLocator": "公式結果表 議決番号66",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式提出議案書の該当頁",
       "voteURL": "https://www.city.misato.lg.jp/material/files/group/57/gikaidayori207.pdf#page=14",
-      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。"
+      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。",
+      "sourceTitle": "三郷市・提出議案の原文"
     },
     {
       "place": "三郷市",
@@ -14410,12 +14451,13 @@ GIKAI.coverage2026 = {
       "date": "2026-09-14",
       "title": "工事請負変更契約の締結について",
       "result": "原案可決",
-      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giketukekka.pdf#page=1",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giannsyo.pdf#page=3",
       "resultURL": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giketukekka.pdf#page=1",
       "resultLocator": "公式結果表 議決番号65",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式提出議案書の該当頁",
       "voteURL": "https://www.city.misato.lg.jp/material/files/group/57/gikaidayori207.pdf#page=14",
-      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。"
+      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。",
+      "sourceTitle": "三郷市・提出議案の原文"
     },
     {
       "place": "伊奈町",
@@ -93388,10 +93430,10 @@ GIKAI.coverage2026 = {
       "date": "2026-03-11",
       "title": "市長及び副市長の給与等に関する条例及び三郷市教育委員会教育長の給与等に関する条例の一部改正について",
       "result": "原案可決",
-      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=1",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giannsyo2.pdf#page=21",
       "resultURL": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=1",
       "resultLocator": "公式結果表 議決番号6",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式提出議案書の該当頁",
       "votes": {
         "武居弘治": "議長（表決不参加）",
         "佐々木修": "賛成",
@@ -93419,7 +93461,8 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.city.misato.lg.jp/material/files/group/57/misatosigikaidayori205.pdf#page=7",
       "voteType": "記名",
-      "voteNote": "紙面の記名表決は賛成19、反対3。"
+      "voteNote": "紙面の記名表決は賛成19、反対3。",
+      "sourceTitle": "三郷市・提出議案の原文"
     },
     {
       "place": "三郷市",
@@ -93429,12 +93472,13 @@ GIKAI.coverage2026 = {
       "date": "2026-03-11",
       "title": "三郷市重度心身障害者医療費支給に関する条例の一部改正について",
       "result": "原案可決",
-      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=1",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giannsyo2.pdf#page=55",
       "resultURL": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=1",
       "resultLocator": "公式結果表 議決番号11",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式提出議案書の該当頁",
       "voteURL": "https://www.city.misato.lg.jp/material/files/group/57/misatosigikaidayori205.pdf#page=7",
-      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。"
+      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。",
+      "sourceTitle": "三郷市・提出議案の原文"
     },
     {
       "place": "三郷市",
@@ -93444,12 +93488,13 @@ GIKAI.coverage2026 = {
       "date": "2026-03-11",
       "title": "三郷市地域型保育事業の設備及び運営の基準に関する条例の一部改正について",
       "result": "原案可決",
-      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=1",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giannsyo2.pdf#page=57",
       "resultURL": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=1",
       "resultLocator": "公式結果表 議決番号12",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式提出議案書の該当頁",
       "voteURL": "https://www.city.misato.lg.jp/material/files/group/57/misatosigikaidayori205.pdf#page=7",
-      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。"
+      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。",
+      "sourceTitle": "三郷市・提出議案の原文"
     },
     {
       "place": "三郷市",
@@ -93459,12 +93504,13 @@ GIKAI.coverage2026 = {
       "date": "2026-03-11",
       "title": "三郷市乳児等通園支援事業の設備及び運営の基準に関する条例の一部改正について",
       "result": "原案可決",
-      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=1",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giannsyo2.pdf#page=63",
       "resultURL": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=1",
       "resultLocator": "公式結果表 議決番号13",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式提出議案書の該当頁",
       "voteURL": "https://www.city.misato.lg.jp/material/files/group/57/misatosigikaidayori205.pdf#page=7",
-      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。"
+      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。",
+      "sourceTitle": "三郷市・提出議案の原文"
     },
     {
       "place": "三郷市",
@@ -93474,12 +93520,13 @@ GIKAI.coverage2026 = {
       "date": "2026-03-11",
       "title": "三郷市公共下水道事業の設置等に関する条例等の一部改正について",
       "result": "原案可決",
-      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=1",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giannsyo2.pdf#page=69",
       "resultURL": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=1",
       "resultLocator": "公式結果表 議決番号15",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式提出議案書の該当頁",
       "voteURL": "https://www.city.misato.lg.jp/material/files/group/57/misatosigikaidayori205.pdf#page=7",
-      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。"
+      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。",
+      "sourceTitle": "三郷市・提出議案の原文"
     },
     {
       "place": "三郷市",
@@ -93489,12 +93536,13 @@ GIKAI.coverage2026 = {
       "date": "2026-03-11",
       "title": "三郷市建築基準法の規定に基づく建築物の建築等に係る確認申請手数料等の徴収に関する条例の一部改正について",
       "result": "原案可決",
-      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=1",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giannsyo2.pdf#page=71",
       "resultURL": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=1",
       "resultLocator": "公式結果表 議決番号16",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式提出議案書の該当頁",
       "voteURL": "https://www.city.misato.lg.jp/material/files/group/57/misatosigikaidayori205.pdf#page=7",
-      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。"
+      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。",
+      "sourceTitle": "三郷市・提出議案の原文"
     },
     {
       "place": "三郷市",
@@ -93504,12 +93552,13 @@ GIKAI.coverage2026 = {
       "date": "2026-03-11",
       "title": "令和7年度三郷市一般会計補正予算(第6号)",
       "result": "原案可決",
-      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=2",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giannsyo2.pdf#page=81",
       "resultURL": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=2",
       "resultLocator": "公式結果表 議決番号20",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式提出議案書の該当頁",
       "voteURL": "https://www.city.misato.lg.jp/material/files/group/57/misatosigikaidayori205.pdf#page=7",
-      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。"
+      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。",
+      "sourceTitle": "三郷市・提出議案の原文"
     },
     {
       "place": "三郷市",
@@ -93519,12 +93568,13 @@ GIKAI.coverage2026 = {
       "date": "2026-03-11",
       "title": "令和7年度三郷市介護保険特別会計補正予算(第2号)",
       "result": "原案可決",
-      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=2",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giannsyo2.pdf#page=83",
       "resultURL": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giketukekkaitirann.pdf#page=2",
       "resultLocator": "公式結果表 議決番号21",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式提出議案書の該当頁",
       "voteURL": "https://www.city.misato.lg.jp/material/files/group/57/misatosigikaidayori205.pdf#page=7",
-      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。"
+      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。",
+      "sourceTitle": "三郷市・提出議案の原文"
     },
     {
       "place": "三郷市",
@@ -93549,12 +93599,13 @@ GIKAI.coverage2026 = {
       "date": "2026-09-14",
       "title": "令和8年度三郷市一般会計補正予算(第2号)",
       "result": "原案可決",
-      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giketukekka.pdf#page=1",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giannsyo.pdf#page=31",
       "resultURL": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giketukekka.pdf#page=1",
       "resultLocator": "公式結果表 議決番号71",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式提出議案書の該当頁",
       "voteURL": "https://www.city.misato.lg.jp/material/files/group/57/gikaidayori207.pdf#page=14",
-      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。"
+      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。",
+      "sourceTitle": "三郷市・提出議案の原文"
     },
     {
       "place": "三郷市",
@@ -93564,12 +93615,13 @@ GIKAI.coverage2026 = {
       "date": "2026-09-14",
       "title": "令和8年度三郷市国民健康保険特別会計補正予算(第1号)",
       "result": "原案可決",
-      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giketukekka.pdf#page=1",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giannsyo.pdf#page=33",
       "resultURL": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giketukekka.pdf#page=1",
       "resultLocator": "公式結果表 議決番号72",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式提出議案書の該当頁",
       "voteURL": "https://www.city.misato.lg.jp/material/files/group/57/gikaidayori207.pdf#page=14",
-      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。"
+      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。",
+      "sourceTitle": "三郷市・提出議案の原文"
     },
     {
       "place": "三郷市",
@@ -93579,12 +93631,13 @@ GIKAI.coverage2026 = {
       "date": "2026-09-14",
       "title": "令和8年度三郷市介護保険特別会計補正予算(第1号)",
       "result": "原案可決",
-      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giketukekka.pdf#page=1",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giannsyo.pdf#page=35",
       "resultURL": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giketukekka.pdf#page=1",
       "resultLocator": "公式結果表 議決番号73",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式提出議案書の該当頁",
       "voteURL": "https://www.city.misato.lg.jp/material/files/group/57/gikaidayori207.pdf#page=14",
-      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。"
+      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。",
+      "sourceTitle": "三郷市・提出議案の原文"
     },
     {
       "place": "三郷市",
@@ -93594,12 +93647,13 @@ GIKAI.coverage2026 = {
       "date": "2026-09-14",
       "title": "令和8年度三郷市後期高齢者医療特別会計補正予算(第1号)",
       "result": "原案可決",
-      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giketukekka.pdf#page=1",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giannsyo.pdf#page=37",
       "resultURL": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giketukekka.pdf#page=1",
       "resultLocator": "公式結果表 議決番号74",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式提出議案書の該当頁",
       "voteURL": "https://www.city.misato.lg.jp/material/files/group/57/gikaidayori207.pdf#page=14",
-      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。"
+      "voteNote": "議会だよりの「全議員（議長を除く）が賛成」の欄に掲載。",
+      "sourceTitle": "三郷市・提出議案の原文"
     },
     {
       "place": "三郷市",
@@ -93609,10 +93663,10 @@ GIKAI.coverage2026 = {
       "date": "2026-09-14",
       "title": "令和7年度三郷市後期高齢者医療特別会計歳入歳出決算認定について",
       "result": "認定",
-      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giketukekka.pdf#page=2",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giannsyo.pdf#page=45",
       "resultURL": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giketukekka.pdf#page=2",
       "resultLocator": "公式結果表 議決番号78",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式提出議案書の該当頁",
       "votes": {
         "佐々木修": "議長（表決不参加）",
         "寺沢美紗": "賛成",
@@ -93641,7 +93695,8 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.city.misato.lg.jp/material/files/group/57/gikaidayori207.pdf#page=14",
       "voteType": "記名",
-      "voteNote": "紙面の記名表決は賛成19、反対3、欠席1。"
+      "voteNote": "紙面の記名表決は賛成19、反対3、欠席1。",
+      "sourceTitle": "三郷市・提出議案の原文"
     },
     {
       "place": "三郷市",
@@ -93651,10 +93706,10 @@ GIKAI.coverage2026 = {
       "date": "2026-09-14",
       "title": "令和7年度三郷市上水道事業特別会計未処分利益剰余金の処分及び決算認定について",
       "result": "原案可決及び認定",
-      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giketukekka.pdf#page=2",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giannsyo.pdf#page=47",
       "resultURL": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giketukekka.pdf#page=2",
       "resultLocator": "公式結果表 議決番号79",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式提出議案書の該当頁",
       "votes": {
         "佐々木修": "議長（表決不参加）",
         "寺沢美紗": "賛成",
@@ -93683,7 +93738,8 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.city.misato.lg.jp/material/files/group/57/gikaidayori207.pdf#page=14",
       "voteType": "記名",
-      "voteNote": "紙面の記名表決は賛成19、反対3、欠席1。"
+      "voteNote": "紙面の記名表決は賛成19、反対3、欠席1。",
+      "sourceTitle": "三郷市・提出議案の原文"
     },
     {
       "place": "三郷市",

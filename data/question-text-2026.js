@@ -4073,6 +4073,42 @@ GIKAI.questionText = {
       "speakers": []
     },
     {
+      "id": "31ed2406b7f235ea010e",
+      "place": "三郷市",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三郷市 3月定例会・提出議案一覧（2頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_teisyutugiannitirann.pdf",
+      "note": "三郷市の公式提出議案一覧から取得。PDFの物理頁番号を使用しています。",
+      "speakers": []
+    },
+    {
+      "id": "0a3c60969ccc80fd5160",
+      "place": "三郷市",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三郷市 3月定例会・補正予算書（65頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_hoseiyosann.pdf",
+      "note": "三郷市の公式提出議案一覧から取得。PDFの物理頁番号を使用しています。 空白頁3頁を原PDFで確認し、ページ番号を保持。",
+      "speakers": []
+    },
+    {
+      "id": "eca9e5c35a42be3515b7",
+      "place": "三郷市",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三郷市 3月定例会・議案書（98頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_3_giannsyo2.pdf",
+      "note": "三郷市の公式提出議案一覧から取得。PDFの物理頁番号を使用しています。 空白頁13頁を原PDFで確認し、ページ番号を保持。",
+      "speakers": []
+    },
+    {
       "id": "c618cb4fcfdcb2c12cb0",
       "place": "三郷市",
       "season": "spring",
@@ -4189,6 +4225,42 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "3524fe9e8a0cc63ad5b3",
+      "place": "三郷市",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "三郷市 6月定例会・提出議案一覧（2頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_6_teisyutugiannitirann.pdf",
+      "note": "三郷市の公式提出議案一覧から取得。PDFの物理頁番号を使用しています。",
+      "speakers": []
+    },
+    {
+      "id": "f91e71d30ceb969312f9",
+      "place": "三郷市",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "三郷市 6月定例会・補正予算書（18頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_6_hoseiyosann.pdf",
+      "note": "三郷市の公式提出議案一覧から取得。PDFの物理頁番号を使用しています。 空白頁2頁を原PDFで確認し、ページ番号を保持。",
+      "speakers": []
+    },
+    {
+      "id": "ddf626bf29e0b2e3906c",
+      "place": "三郷市",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "三郷市 6月定例会・議案参考資料（46頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_6_giannsannkou_HPyou.pdf",
+      "note": "三郷市の公式提出議案一覧から取得。PDFの物理頁番号を使用しています。 自動検査の照合候補頁を明示しています。金額や表の対応は原PDFを確認してください。 空白頁2頁を原PDFで確認し、ページ番号を保持。",
+      "speakers": []
+    },
+    {
       "id": "2810b1ca7a07a72965de",
       "place": "三郷市",
       "season": "summer",
@@ -4302,6 +4374,18 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "f294f3d037a3e7082530",
+      "place": "三郷市",
+      "season": "fall",
+      "date": "2026-08-31",
+      "title": "三郷市 9月定例会・議案書（58頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giannsyo.pdf",
+      "note": "三郷市の公式提出議案一覧から取得。PDFの物理頁番号を使用しています。 空白頁16頁を原PDFで確認し、ページ番号を保持。",
+      "speakers": []
+    },
+    {
       "id": "19afcb7c46c70e67c660",
       "place": "三郷市",
       "season": "fall",
@@ -4328,6 +4412,90 @@ GIKAI.questionText = {
         "柴田吾一",
         "寺沢美紗"
       ]
+    },
+    {
+      "id": "a796fed7aa8aefb13d6c",
+      "place": "三郷市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "三郷市 9月定例会・国・県支出金一覧（14頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_kuniken_sishutu.pdf",
+      "note": "三郷市の公式提出議案一覧から取得。PDFの物理頁番号を使用しています。 自動検査の照合候補頁を明示しています。金額や表の対応は原PDFを確認してください。",
+      "speakers": []
+    },
+    {
+      "id": "106481d083d3b97a21a7",
+      "place": "三郷市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "三郷市 9月定例会・報告書別冊（107頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_houkokusyo_bessatu.pdf",
+      "note": "三郷市の公式提出議案一覧から取得。PDFの物理頁番号を使用しています。 空白頁2頁を原PDFで確認し、ページ番号を保持。",
+      "speakers": []
+    },
+    {
+      "id": "4275cf7fe72f8a7b7cc8",
+      "place": "三郷市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "三郷市 9月定例会・報告書（94頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_houkokusyo.pdf",
+      "note": "三郷市の公式提出議案一覧から取得。PDFの物理頁番号を使用しています。 自動検査の照合候補頁を明示しています。金額や表の対応は原PDFを確認してください。 空白頁31頁を原PDFで確認し、ページ番号を保持。",
+      "speakers": []
+    },
+    {
+      "id": "b856514eb13fc0a59955",
+      "place": "三郷市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "三郷市 9月定例会・提出議案一覧（3頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_gianitiran.pdf",
+      "note": "三郷市の公式提出議案一覧から取得。PDFの物理頁番号を使用しています。",
+      "speakers": []
+    },
+    {
+      "id": "ea84e9088e12d03999fc",
+      "place": "三郷市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "三郷市 9月定例会・補助団体決算一覧表（2頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_hojodantai.pdf",
+      "note": "三郷市の公式提出議案一覧から取得。PDFの物理頁番号を使用しています。",
+      "speakers": []
+    },
+    {
+      "id": "510b9e73b7fc42ed7127",
+      "place": "三郷市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "三郷市 9月定例会・補正予算書（91頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_hoseiyosan.pdf",
+      "note": "三郷市の公式提出議案一覧から取得。PDFの物理頁番号を使用しています。 空白頁9頁を原PDFで確認し、ページ番号を保持。",
+      "speakers": []
+    },
+    {
+      "id": "6047e069227c3206105f",
+      "place": "三郷市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "三郷市 9月定例会・議案参考資料（10頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giansannkou2.pdf",
+      "note": "三郷市の公式提出議案一覧から取得。PDFの物理頁番号を使用しています。 自動検査の照合候補頁を明示しています。金額や表の対応は原PDFを確認してください。 空白頁2頁を原PDFで確認し、ページ番号を保持。",
+      "speakers": []
     },
     {
       "place": "三郷市",
@@ -4481,6 +4649,20 @@ GIKAI.questionText = {
       "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
       "speakers": [
         "宇治由紀子"
+      ]
+    },
+    {
+      "id": "7735e5f62c0fa92e4765",
+      "place": "三郷市",
+      "season": "fall",
+      "date": "2026-09-16",
+      "title": "日高千穂議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/misato/WebView/rd/speech.html?council_id=16&schedule_id=6&playlist_id=5&speaker_id=27&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "日高千穂"
       ]
     },
     {
@@ -35375,6 +35557,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "2584ba3a4d9b92aa87ad",
+      "place": "春日部市",
+      "season": "fall",
+      "date": "2026-09-08",
+      "title": "山崎進議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://kasukabe-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=2380",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "山崎進"
+      ]
+    },
+    {
       "id": "ed53a3e9c9e3837be24e",
       "place": "春日部市",
       "season": "fall",
@@ -40789,6 +40985,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "2a757d43ef626e24a77b",
+      "place": "狭山市",
+      "season": "fall",
+      "date": "2026-09-15",
+      "title": "三浦和也議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://sayama.gijiroku.com/g07_Video_View.asp?SrchID=1549",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "三浦和也"
+      ]
+    },
+    {
       "id": "c70552b80dd32f4a29f3",
       "place": "狭山市",
       "season": "fall",
@@ -42868,6 +43078,20 @@ GIKAI.questionText = {
       "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。 録画の末尾を切り出して再処理しました。 末尾の再処理で、本文の末尾より後に追加する機械認識の文言は生じませんでした。",
       "speakers": [
         "小野田和男"
+      ]
+    },
+    {
+      "id": "db9e675b001d55abdb3e",
+      "place": "羽生市",
+      "season": "fall",
+      "date": "2026-09-16",
+      "title": "駒宮圭吾議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/hanyu/WebView/rd/speech.html?council_id=55&schedule_id=3&playlist_id=3&speaker_id=30&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "駒宮圭吾"
       ]
     },
     {
@@ -48911,7 +49135,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://kasukabe-city.stream.jfit.co.jp/?gikai_id=163&tpl=gikai_days_list",
-        "note": "第85号の一般質問28人の主要問答とその他29見出し、紙面３・４頁の会派等の討論５欄を原紙面と照合。一般質問は９月８・９・11・15・16日。氏名と発言日は公式録画目録と照合した。 正式会議録は確認中。 公式録画の機械文字起こしを1件収録。 公式録画の機械文字起こしを2件収録。"
+        "note": "第85号の一般質問28人の主要問答とその他29見出し、紙面３・４頁の会派等の討論５欄を原紙面と照合。一般質問は９月８・９・11・15・16日。氏名と発言日は公式録画目録と照合した。 正式会議録は確認中。 公式録画の機械文字起こし一般質問3本を収録。"
       }
     },
     {
@@ -48938,7 +49162,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://sayama.gijiroku.com/g07_Video_Search.asp",
-        "note": "16人の一般質問44問答とその他９見出し、議案質疑13組、決算討論２人、公式通告30大項目。委員長報告４資料と教育委員会会議録の関連部分も収録。正式本会議録は確認中。 公式録画の機械文字起こし一般質問6本を収録。"
+        "note": "16人の一般質問44問答とその他９見出し、議案質疑13組、決算討論２人、公式通告30大項目。委員長報告４資料と教育委員会会議録の関連部分も収録。正式本会議録は確認中。 公式録画の機械文字起こし一般質問7本を収録。"
       }
     },
     {
@@ -48964,7 +49188,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "第256号の一般質問12人・39問答、議案質疑10問答、その他の見出しと補足17件を収録。公式通告８頁、一般質問12本と議案質疑14本の公式録画を照合。正式会議録は確認中。 公式録画の機械文字起こし議案質疑14本・一般質問2本を収録。",
+        "note": "第256号の一般質問12人・39問答、議案質疑10問答、その他の見出しと補足17件を収録。公式通告８頁、一般質問12本と議案質疑14本の公式録画を照合。正式会議録は確認中。 公式録画の機械文字起こし一般質問3本・議案質疑14本を収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/hanyu/SpMinuteBrowse.html?tenant_id=159&view_years=2026"
       }
     },
@@ -49450,7 +49674,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "第207号で議員15人・15主題の質問と答弁、議案・決算の14問答、補足13件を原紙面と照合。公式通告19頁、公式録画で9/14の２人、15・16日の各６人、17日の１人を照合。速報版は市が11月下旬予定と案内しており、正式会議録は確認中。 公式録画の機械文字起こし一般質問12本を収録。",
+        "note": "第207号で議員15人・15主題の質問と答弁、議案・決算の14問答、補足13件を原紙面と照合。公式通告19頁、公式録画で9/14の２人、15・16日の各６人、17日の１人を照合。速報版は市が11月下旬予定と案内しており、正式会議録は確認中。 公式録画の機械文字起こし一般質問13本を収録。",
         "indexURL": "https://smart.discussvision.net/smart/tenant/misato/WebView/rd/council.html?year=2026&council_id=16"
       }
     },
