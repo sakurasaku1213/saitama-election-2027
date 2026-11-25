@@ -4,28 +4,29 @@
 
 確認日 2026-11-26。県議会と全63市町村の192会期枠を対象に、64議会・188枠で会議録、紙面の問答、録画の機械文字起こし、または公開自動字幕を収録。本文・要旨等が未収録の4枠にも確認先を示す。
 
-収録資料 2,601件（事前通告75件を含む）。147枠では、原典の目次・索引等にある本会議の日別資料、一般質問日または掲載項目と収録範囲を照合した。
+収録資料 2,676件（事前通告78件を含む）。147枠では、原典の目次・索引等にある本会議の日別資料、一般質問日または掲載項目と収録範囲を照合した。
 
 | 資料の種類 | 件数 |
 | --- | ---: |
 | 公式の質問・答弁全文（速報版） | 808 |
 | 公式会議録（HTML） | 870 |
-| 公式会議録（常任委員会） | 255 |
+| 公式会議録（常任委員会） | 276 |
 | 公式会議録（特別委員会） | 52 |
 | 公式会議録（予算委員会） | 20 |
-| 公式会議録（予算・決算委員会） | 106 |
+| 公式会議録（予算・決算委員会） | 136 |
 | 公式会議録（議会運営委員会） | 23 |
 | 委員長報告（公式資料） | 44 |
 | 陳情本文（公式資料） | 1 |
 | 本会議討論（公式資料・OCR） | 3 |
-| 公式会議録の付録（HTML） | 14 |
+| 公式会議録の付録（HTML） | 17 |
+| 議案・動議の提出原文（公式資料・OCR） | 15 |
 | 議案の提案理由（公式資料） | 3 |
 | 議事概要（公式資料） | 1 |
-| 一般質問通告（公式資料） | 63 |
+| 一般質問通告（公式資料） | 66 |
 | 議案質疑通告（公式資料・OCR） | 5 |
 | 施政方針に対する発言通告（公式資料・OCR） | 1 |
 | 議案質疑・一般質問通告（公式資料） | 6 |
-| 議会だよりの質問・答弁要旨（OCR） | 42 |
+| 議会だよりの質問・答弁要旨（OCR） | 45 |
 | 公式会議録PDFのOCR転記 | 17 |
 | 公開会議録（閲覧用） | 11 |
 | 議会だよりの質問・答弁要旨（HTML） | 2 |
@@ -35,7 +36,7 @@
 
 本会議録の日別資料には当日の議事も含まれる。県議会の速報版は質問・答弁の掲載項目ごと。議会だよりは質問者による編集要約等を含む。PDFのOCR転記と、紙面を照合して作った要約には原本の頁番号を付けた。
 
-政策事例は304件。複数議会に関係する事例は、該当する各議会の行にも数えた。上尾市の放課後の居場所事業と２校の入所申込、久喜市の清掃センター集約に伴う費用分担の質疑と事務委託の可決、狭山市の調節池工事の再発防止などを出典とともに追える。全体の政策経過の照合は進行中。
+政策事例は312件。複数議会に関係する事例は、該当する各議会の行にも数えた。上尾市の放課後の居場所事業と２校の入所申込、久喜市の清掃センター集約に伴う費用分担の質疑と事務委託の可決、狭山市の調節池工事の再発防止などを出典とともに追える。全体の政策経過の照合は進行中。
 
 ## 議会別の収録と確認先
 
@@ -80,7 +81,7 @@
 | 鶴ヶ島市 | [本会議録6資料](https://ssp.kaigiroku.net/tenant/tsurugashima/SpMinuteBrowse.html?tenant_id=42&view_years=2026)<br>公式掲載目次と照合<br>[委員会会議録6資料](https://ssp.kaigiroku.net/tenant/tsurugashima/SpMinuteBrowse.html?tenant_id=42&view_years=2026) | [本会議録6資料](https://ssp.kaigiroku.net/tenant/tsurugashima/SpMinuteBrowse.html?tenant_id=42&view_years=2026)<br>公式掲載目次と照合<br>[委員会会議録3資料](https://ssp.kaigiroku.net/tenant/tsurugashima/SpMinuteBrowse.html?tenant_id=42&view_years=2026) | [第219号の14人の問答・審査](https://www.city.tsurugashima.lg.jp/data/doc/1793248747_doc_318_0.pdf#page=5)<br>[公式録画３日・14人](https://smart.discussvision.net/smart/tenant/tsurugashima/WebView/rd/council.html?year=2026&council_id=89)・[質問通告15資料](https://www.city.tsurugashima.lg.jp/gikai/nittei-gian-shitsumon/ippan/page012039.html)・正式会議録を確認中 | 6 |
 | 日高市 | [本会議録6資料](https://ssp.kaigiroku.net/tenant/saihidaka/SpMinuteBrowse.html?tenant_id=44&view_years=2026)<br>公式掲載目次と照合 | [本会議録6資料](https://ssp.kaigiroku.net/tenant/saihidaka/SpMinuteBrowse.html?tenant_id=44&view_years=2026)<br>公式掲載目次と照合 | [公式録画一覧](https://smart.discussvision.net/smart/tenant/hidaka/WebView/rd/council.html?year=2026&council_id=54)<br>機械文字起こし10件・正式会議録を確認中 | — |
 | 吉川市 | [本会議録8資料](https://ssp.kaigiroku.net/tenant/yoshikawa/SpMinuteBrowse.html?tenant_id=230&view_years=2026)<br>公式掲載目次と照合<br>[委員会会議録6資料](https://ssp.kaigiroku.net/tenant/yoshikawa/SpMinuteBrowse.html?tenant_id=230&view_years=2026)<br>[一般質問通告16頁](https://www.city.yoshikawa.saitama.jp/index.cfm/34,60989,c,html/60989/20260224-164554.pdf) | [本会議録6資料](https://ssp.kaigiroku.net/tenant/yoshikawa/SpMinuteBrowse.html?tenant_id=230&view_years=2026)<br>公式掲載目次と照合<br>[委員会会議録3資料](https://ssp.kaigiroku.net/tenant/yoshikawa/SpMinuteBrowse.html?tenant_id=230&view_years=2026)<br>[一般質問通告21頁](https://www.city.yoshikawa.saitama.jp/index.cfm/34,60989,c,html/60989/20260604-131217.pdf) | [第211号の14人・17主題26問答](https://www.city.yoshikawa.saitama.jp/index.cfm/34,117448,c,html/117448/20261028-093511.pdf#page=9)<br>[一般質問通告23頁](https://www.city.yoshikawa.saitama.jp/index.cfm/34,60989,c,html/60989/20260904-142037.pdf)・[議案質疑通告21頁](https://www.city.yoshikawa.saitama.jp/index.cfm/34,110699,270,html)・[公式録画３日14人](https://yoshikawa.gijiroku.com/g07_Video_Search.asp?KAIGI=56&Sflg=100&NitteiID=410)・正式会議録は12月上旬提供予定<br>機械文字起こし1件 | 9 |
-| ふじみ野市 | [本会議録6資料](https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteBrowse.html?tenant_id=24&view_years=2026)<br>公式掲載目次と照合 | [本会議録6資料](https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteBrowse.html?tenant_id=24&view_years=2026)<br>公式掲載目次と照合 | [本会議録6資料](https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteBrowse.html?tenant_id=24&view_years=2026)<br>公式掲載目次と照合 | — |
+| ふじみ野市 | [本会議録6資料](https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteBrowse.html?tenant_id=24&view_years=2026)<br>公式掲載目次と照合<br>[委員会・分科会17資料](https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteBrowse.html?tenant_id=24&view_years=2026)<br>[公式表決と結果](https://www.city.fujimino.saitama.jp/material/files/group/35/r8_1teirei_sanpi.pdf)・[質問通告](https://www.city.fujimino.saitama.jp/material/files/group/35/R8_1_ippan.pdf) | [本会議録6資料](https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteBrowse.html?tenant_id=24&view_years=2026)<br>公式掲載目次と照合<br>[委員会・分科会14資料](https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteBrowse.html?tenant_id=24&view_years=2026)<br>[公式表決と結果](https://www.city.fujimino.saitama.jp/material/files/group/35/r8_2teirei_sanpi.pdf)・[質問通告](https://www.city.fujimino.saitama.jp/material/files/group/35/R8_2_ippan0526_3.pdf) | [本会議録6資料](https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteBrowse.html?tenant_id=24&view_years=2026)<br>公式掲載目次と照合<br>[委員会・分科会20資料](https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteBrowse.html?tenant_id=24&view_years=2026)<br>[公式表決と結果](https://www.city.fujimino.saitama.jp/material/files/group/35/r8_3teirei_sanpi.pdf)・[質問通告](https://www.city.fujimino.saitama.jp/material/files/group/35/R8_3_ippan0827.pdf) | 8 |
 | 白岡市 | [本会議録6資料](https://ssp.kaigiroku.net/tenant/shiraoka/SpMinuteBrowse.html?tenant_id=45&view_years=2026)<br>公式掲載目次と照合<br>[委員会会議録10資料](https://ssp.kaigiroku.net/tenant/shiraoka/SpMinuteBrowse.html?tenant_id=45&view_years=2026) | [本会議録6資料](https://ssp.kaigiroku.net/tenant/shiraoka/SpMinuteBrowse.html?tenant_id=45&view_years=2026)<br>公式掲載目次と照合 | [市議会公式録画の案内](https://www.city.shiraoka.lg.jp/soshiki/gikaijimukyoku/5/R8teireikai-joho/9165.html)<br>公開自動字幕6日分（一般質問３日）・議会だより要旨７資料・正式会議録を確認中 | 1 |
 | 伊奈町 | [本会議録6資料](https://ssp.kaigiroku.net/tenant/inamachi/SpMinuteBrowse.html?tenant_id=218&view_years=2026)<br>公式掲載目次と照合<br>[委員会会議録5資料](https://ssp.kaigiroku.net/tenant/inamachi/SpMinuteBrowse.html?tenant_id=218&view_years=2026) | [本会議録6資料](https://ssp.kaigiroku.net/tenant/inamachi/SpMinuteBrowse.html?tenant_id=218&view_years=2026)<br>公式掲載目次と照合<br>[委員会会議録4資料](https://ssp.kaigiroku.net/tenant/inamachi/SpMinuteBrowse.html?tenant_id=218&view_years=2026) | [本文・要旨 1件](https://inamachi.gsl-service.net/dayori/dayori213/dayori213.pdf)<br>一部収録<br>[委員会会議録3資料](https://ssp.kaigiroku.net/tenant/inamachi/SpMinuteBrowse.html?tenant_id=218&view_years=2026) | 1 |
 | 三芳町 | [本会議録7資料](https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteBrowse.html?tenant_id=38&view_years=2026)<br>公式掲載目次と照合 | [本会議録6資料](https://ssp.kaigiroku.net/tenant/miyoshi/SpMinuteBrowse.html?tenant_id=38&view_years=2026)<br>公式掲載目次と照合 | [本会議23本の公開自動字幕](https://www.town.saitama-miyoshi.lg.jp/gikai/rokuga_R8-4.html)・一般質問13人<br>[決算特別委員会３本の公開自動字幕](https://www.youtube.com/playlist?list=PLeAW575PGU74)<br>[事前通告19頁](https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-00-07_ippan_R8-4.pdf)・[紙面要旨](https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_202.pdf)・正式会議録を確認中 | 5 |
@@ -252,6 +253,8 @@
 
 - 和光市は公式本会議録22日分を再取得照合。結果92件（春35、初夏30、秋27）、本会議記名83件・1,328欄（議長の不参加83欄は別に表示）。委員会59件・688欄（委員長欄を含む）は本会議の表決と区分。６月４日の鎌田議員の欠席17欄を原表と会議録で照合。秋の陳情第５号は趣旨採択への賛否９対７であり、全面採択を求めて趣旨採択に反対した議員の討論も収録。[本会議・委員会会議録](https://ssp.kaigiroku.net/tenant/wako/SpMinuteBrowse.html?tenant_id=382&view_years=2026)・[秋の公式結果](https://www.city.wako.lg.jp/shisei/1006222/1006226/1006229/1013980.html)
 - 和光市の一般質問、議案質疑、施政方針の発言通告を計７資料、議会だより第132～134号を追加。初夏の一般質問通告は原本を画像化して全20頁をOCRし、要照合頁を表示。６月の議員提出意見書２件は８月の送付済み報告を確認。中学校の給食費補助、障害福祉の陳情、監査後の対応等８事例を掲載。[議会だより](https://www.city.wako.lg.jp/shisei/1006222/1006515/1006517/1013556.html)・[意見書原文](https://www.city.wako.lg.jp/shisei/1006222/1006226/1006243/1006345/1013722.html)
+- ふじみ野市は公式本会議18日を現行本文まで照合。会期中の委員会・分科会51件、会議録目次３点、一般質問通告３点、議案・動議等原文15点、議会だより第81～83号を追加。第81号紙面のOCRは原画像との照合候補頁を表示。[公式会議録目録](https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteBrowse.html?tenant_id=24&view_years=2026)
+- ふじみ野市の公式表決原表95件（春39、初夏25、秋31）・1,995欄を照合。議案、請願、動議の採決日と本会議の結果を収録。福岡中学校工事は附帯決議、42件の市調査、16件の公表、議会での減額条例と調査動議を追跡した。[公式の審議結果一覧](https://www.city.fujimino.saitama.jp/soshikiichiran/gikaijimukyoku/gijichosagakari/2488.html)
 - 深谷市は公式本会議録18日、委員会９日、計7,008ブロックを現行公式目録・本文と照合。会議録付録17点（うちHTML通告３）、PDF通告３・討論３と議会だより第82～84号を収録。秋の委員会の内容は本会議録の委員長報告で確認できる。[公式会議録目録](https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteBrowse.html?tenant_id=40&view_years=2026)
 - 深谷市は市の公式審査結果75件と別掲の本会議決定５件を収録。議員別表決原表73行1,679欄を照合。春の補正予算２組の合算行は共有の原表を表示し、初夏の請願と意見書は原表の棄権と本文の採決宣告を併記。こども誰でも通園、消防分署、煉瓦施設、学校の暑さ対策等８事例を追加。[会期資料](https://www.city.fukaya.saitama.jp/gikai/kaiginonittei_kekka/reiwa8nenn_1/reiwa5nen3gatuteireikaidai1kaiteireikai_2/index.html)
 - 蕨市は春７日・初夏６日の公式本会議録と会議録付録２点、発言通告３資料を照合。秋は一般質問15人と議事16本の機械文字起こし、陳情本文と公式結果を収録。正式会議録は確認中。[公式会議録目録](https://warabi.gijiroku.com/voices/g08v_view.asp?Sflg=11&FYY=2026&TYY=2026)・[秋の公式録画](https://warabi.gijiroku.com/g07_Video_Search.asp?Sflg=1&kaigi=148)

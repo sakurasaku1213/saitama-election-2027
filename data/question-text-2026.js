@@ -1898,6 +1898,42 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "d0441a32ca73bf9c9373",
+      "place": "ふじみ野市",
+      "season": "spring",
+      "date": "2026-02-20",
+      "title": "令和 ８年 ３月 定例会（第１回） 02月20日－目次",
+      "kind": "公式会議録の付録（HTML）",
+      "scope": "summary",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=299&schedule_id=1",
+      "note": "公式の日別会議録に付属する目次と議事項目。",
+      "speakers": []
+    },
+    {
+      "id": "5ba0588831f534e6313b",
+      "place": "ふじみ野市",
+      "season": "spring",
+      "date": "2026-02-20",
+      "title": "令和8年第1回定例会 一般質問通告者一覧",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "url": "https://www.city.fujimino.saitama.jp/material/files/group/35/R8_1_ippan.pdf",
+      "note": "市議会の公式通告資料。実際の質問と答弁は本会議録を参照。",
+      "speakers": []
+    },
+    {
+      "id": "94020cf8a4016db6c054",
+      "place": "ふじみ野市",
+      "season": "spring",
+      "date": "2026-02-20",
+      "title": "第23号議案 ふじみ野市立資料館条例等の一部を改正する条例",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "summary",
+      "url": "https://www.city.fujimino.saitama.jp/material/files/group/35/R8_g23.pdf",
+      "note": "市議会が公開した提出原文。日付は原文の提出日。市の審査結果と会議録の採決を参照。",
+      "speakers": []
+    },
+    {
       "id": "728d4600c4827e52783c",
       "place": "ふじみ野市",
       "season": "spring",
@@ -1919,6 +1955,212 @@ GIKAI.questionText = {
         "田中早苗",
         "近藤善則"
       ]
+    },
+    {
+      "id": "17b6908c769733b4e9f6",
+      "place": "ふじみ野市",
+      "season": "spring",
+      "date": "2026-02-25",
+      "title": "令和 ８年 予算・決算常任委員会 02月25日－01号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=300&schedule_id=1",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
+      "id": "124cacb017033fc55fba",
+      "place": "ふじみ野市",
+      "season": "spring",
+      "date": "2026-02-25",
+      "title": "令和 ８年 市民・都市分科会 02月25日－01号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=301&schedule_id=1",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
+      "id": "918eb72f1b21b6d72c4c",
+      "place": "ふじみ野市",
+      "season": "spring",
+      "date": "2026-02-25",
+      "title": "令和 ８年 市民・都市常任委員会 02月25日－03号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=302&schedule_id=3",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
+      "id": "8522f1ae4464e14b8c74",
+      "place": "ふじみ野市",
+      "season": "spring",
+      "date": "2026-02-25",
+      "title": "令和 ８年 生活・福祉分科会 02月25日－01号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=303&schedule_id=1",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
+      "id": "343b27a19340a91cc2dd",
+      "place": "ふじみ野市",
+      "season": "spring",
+      "date": "2026-02-25",
+      "title": "令和 ８年 生活・福祉常任委員会 02月25日－01号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=304&schedule_id=1",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
+      "id": "2d560e49522fd3477c67",
+      "place": "ふじみ野市",
+      "season": "spring",
+      "date": "2026-02-25",
+      "title": "令和 ８年 総務・教育分科会 02月25日－01号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=305&schedule_id=1",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
+      "id": "2bf12ecb08d140a05cfc",
+      "place": "ふじみ野市",
+      "season": "spring",
+      "date": "2026-02-25",
+      "title": "令和 ８年 総務・教育常任委員会 02月25日－02号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=306&schedule_id=2",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
+      "id": "3238401d5c6d0d4c6e6c",
+      "place": "ふじみ野市",
+      "season": "spring",
+      "date": "2026-02-25",
+      "title": "請願第1号 ココネに投票所の新設を求める請願",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "summary",
+      "url": "https://www.city.fujimino.saitama.jp/material/files/group/35/R8_sg1.pdf",
+      "note": "公開された請願の趣旨と理由がある原本２頁のOCR。日付は総務・教育常任委員会資料で付託を確認した日。提出書は原本リンクで確認できます。",
+      "speakers": []
+    },
+    {
+      "id": "122c1ac73c0bd58e0977",
+      "place": "ふじみ野市",
+      "season": "spring",
+      "date": "2026-02-27",
+      "title": "令和 ８年 総務・教育分科会 02月27日－02号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=305&schedule_id=2",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
+      "id": "2758424a028b21db3844",
+      "place": "ふじみ野市",
+      "season": "spring",
+      "date": "2026-02-27",
+      "title": "令和 ８年 総務・教育常任委員会 02月27日－03号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=306&schedule_id=3",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": [
+        "鈴木美恵"
+      ]
+    },
+    {
+      "id": "cff6fa890cf9a46ffb10",
+      "place": "ふじみ野市",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "令和 ８年 総務・教育分科会 03月02日－03号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=305&schedule_id=3",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
+      "id": "69a57efc6733ea9f75c7",
+      "place": "ふじみ野市",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "令和 ８年 市民・都市分科会 03月03日－02号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=301&schedule_id=2",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
+      "id": "a8676620cda342097e78",
+      "place": "ふじみ野市",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "令和 ８年 市民・都市常任委員会 03月03日－04号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=302&schedule_id=4",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
+      "id": "c5cd005f5235d5aa86fd",
+      "place": "ふじみ野市",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "令和 ８年 市民・都市分科会 03月04日－03号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=301&schedule_id=3",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
+      "id": "150630c8fe217f700c8c",
+      "place": "ふじみ野市",
+      "season": "spring",
+      "date": "2026-03-05",
+      "title": "令和 ８年 生活・福祉分科会 03月05日－02号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=303&schedule_id=2",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
+      "id": "0ef61e40a1c3ba7df7a0",
+      "place": "ふじみ野市",
+      "season": "spring",
+      "date": "2026-03-05",
+      "title": "令和 ８年 生活・福祉常任委員会 03月05日－02号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=304&schedule_id=2",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
+      "id": "d5a869bbb5ce7f5459d9",
+      "place": "ふじみ野市",
+      "season": "spring",
+      "date": "2026-03-06",
+      "title": "令和 ８年 生活・福祉分科会 03月06日－03号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=303&schedule_id=3",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
     },
     {
       "id": "4c42ea82adbe03c547e9",
@@ -1979,6 +2221,30 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "0dfa99ee0c8c0dda68a9",
+      "place": "ふじみ野市",
+      "season": "spring",
+      "date": "2026-03-12",
+      "title": "議第1号議案 地域計画の実現を求める意見書",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "summary",
+      "url": "https://www.city.fujimino.saitama.jp/material/files/group/35/r8g1.pdf",
+      "note": "市議会が公開した提出原文。日付は原文の提出日。市の審査結果と会議録の採決を参照。",
+      "speakers": []
+    },
+    {
+      "id": "bf38cccbfec7f83e155e",
+      "place": "ふじみ野市",
+      "season": "spring",
+      "date": "2026-03-16",
+      "title": "令和 ８年 予算・決算常任委員会 03月16日－02号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=300&schedule_id=2",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
       "id": "343bdb45513a688e6198",
       "place": "ふじみ野市",
       "season": "spring",
@@ -1997,6 +2263,7 @@ GIKAI.questionText = {
         "小林憲人",
         "山田敏夫",
         "川島秀男",
+        "川畑京子",
         "床井紀範",
         "板倉篤",
         "民部佳代",
@@ -2007,6 +2274,18 @@ GIKAI.questionText = {
         "鈴木宏樹",
         "鈴木美恵"
       ]
+    },
+    {
+      "id": "d26216f2ff9190ec20bb",
+      "place": "ふじみ野市",
+      "season": "spring",
+      "date": "2026-05-01",
+      "title": "ふじみ野市議会だより第81号",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "url": "https://www.city.fujimino.saitama.jp/material/files/group/35/81_all_yoko.pdf",
+      "note": "議会だより全頁のOCR。紙面の見開き番号に対応する物理頁を表示。 原画像との照合候補頁 1、2、3、4、5、6、7、9、10。固有名詞・数値・段組は原紙面を確認。",
+      "speakers": []
     },
     {
       "id": "2ade0908b9e7a9276c4f",
@@ -2029,6 +2308,66 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "ef6b906c2b9850eb84de",
+      "place": "ふじみ野市",
+      "season": "summer",
+      "date": "2026-06-01",
+      "title": "令和 ８年 ６月 定例会（第２回） 06月01日－目次",
+      "kind": "公式会議録の付録（HTML）",
+      "scope": "summary",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=308&schedule_id=1",
+      "note": "公式の日別会議録に付属する目次と議事項目。",
+      "speakers": []
+    },
+    {
+      "id": "9ea019b225e9588644a6",
+      "place": "ふじみ野市",
+      "season": "summer",
+      "date": "2026-06-01",
+      "title": "令和8年第2回定例会 一般質問通告者一覧",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "url": "https://www.city.fujimino.saitama.jp/material/files/group/35/R8_2_ippan0526_3.pdf",
+      "note": "市議会の公式通告資料。実際の質問と答弁は本会議録を参照。",
+      "speakers": []
+    },
+    {
+      "id": "bb3ceb0e396b05c4f73a",
+      "place": "ふじみ野市",
+      "season": "summer",
+      "date": "2026-06-01",
+      "title": "動議 福岡中学校A棟長寿命化予防改修工事にかかる調査特別委員会設置を求める動議",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "summary",
+      "url": "https://www.city.fujimino.saitama.jp/material/files/group/35/R8_2_dougi0601_2.pdf",
+      "note": "市議会が公開した提出原文。日付は原文の提出日。市の審査結果と会議録の採決を参照。",
+      "speakers": []
+    },
+    {
+      "id": "923dd7a095974c9b1b92",
+      "place": "ふじみ野市",
+      "season": "summer",
+      "date": "2026-06-01",
+      "title": "委第1号議案 市長の専決処分事項の指定についての一部を改正することについて",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "summary",
+      "url": "https://www.city.fujimino.saitama.jp/material/files/group/35/R8_ig1_2.pdf",
+      "note": "市議会が公開した提出原文。日付は原文の提出日。市の審査結果と会議録の採決を参照。",
+      "speakers": []
+    },
+    {
+      "id": "2be80d43c31559f5a360",
+      "place": "ふじみ野市",
+      "season": "summer",
+      "date": "2026-06-01",
+      "title": "第56号議案 ふじみ野市立福岡中学校校舎A棟長寿命化予防改修工事請負変更契約の締結について",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "summary",
+      "url": "https://www.city.fujimino.saitama.jp/material/files/group/35/R8_g56_2.pdf",
+      "note": "市議会が公開した提出原文。日付は原文の提出日。市の審査結果と会議録の採決を参照。",
+      "speakers": []
+    },
+    {
       "id": "3c5fa5e832da08de3797",
       "place": "ふじみ野市",
       "season": "summer",
@@ -2045,6 +2384,162 @@ GIKAI.questionText = {
         "民部佳代",
         "鈴木宏樹"
       ]
+    },
+    {
+      "id": "84dac6e485b737c70a1b",
+      "place": "ふじみ野市",
+      "season": "summer",
+      "date": "2026-06-03",
+      "title": "令和 ８年 予算・決算常任委員会 06月03日－03号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=300&schedule_id=3",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
+      "id": "ac79c088cee9639f3591",
+      "place": "ふじみ野市",
+      "season": "summer",
+      "date": "2026-06-03",
+      "title": "令和 ８年 市民・都市分科会 06月03日－04号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=301&schedule_id=4",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
+      "id": "d74f61308b320db304e8",
+      "place": "ふじみ野市",
+      "season": "summer",
+      "date": "2026-06-03",
+      "title": "令和 ８年 市民・都市常任委員会 06月03日－06号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=302&schedule_id=6",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
+      "id": "47b5b4aa1b0d8bf76e3d",
+      "place": "ふじみ野市",
+      "season": "summer",
+      "date": "2026-06-03",
+      "title": "令和 ８年 生活・福祉分科会 06月03日－04号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=303&schedule_id=4",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
+      "id": "5833256631d88c7843c3",
+      "place": "ふじみ野市",
+      "season": "summer",
+      "date": "2026-06-03",
+      "title": "令和 ８年 生活・福祉常任委員会 06月03日－03号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=304&schedule_id=3",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
+      "id": "a8d6b0a8af698b461d50",
+      "place": "ふじみ野市",
+      "season": "summer",
+      "date": "2026-06-03",
+      "title": "令和 ８年 総務・教育分科会 06月03日－04号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=305&schedule_id=4",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
+      "id": "fcd39275cdee819edec9",
+      "place": "ふじみ野市",
+      "season": "summer",
+      "date": "2026-06-03",
+      "title": "令和 ８年 総務・教育常任委員会 06月03日－05号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=306&schedule_id=5",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
+      "id": "44bffc84b013a119f4f8",
+      "place": "ふじみ野市",
+      "season": "summer",
+      "date": "2026-06-05",
+      "title": "令和 ８年 総務・教育分科会 06月05日－05号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=305&schedule_id=5",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
+      "id": "34c62bfded258428c366",
+      "place": "ふじみ野市",
+      "season": "summer",
+      "date": "2026-06-05",
+      "title": "令和 ８年 総務・教育常任委員会 06月05日－06号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=306&schedule_id=6",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
+      "id": "a223de431daf9f5f95ea",
+      "place": "ふじみ野市",
+      "season": "summer",
+      "date": "2026-06-08",
+      "title": "令和 ８年 市民・都市分科会 06月08日－05号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=301&schedule_id=5",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
+      "id": "e26a2db1b0146b9ac711",
+      "place": "ふじみ野市",
+      "season": "summer",
+      "date": "2026-06-08",
+      "title": "令和 ８年 市民・都市常任委員会 06月08日－07号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=302&schedule_id=7",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
+      "id": "3ad670d7a9862ec0fd6c",
+      "place": "ふじみ野市",
+      "season": "summer",
+      "date": "2026-06-09",
+      "title": "令和 ８年 生活・福祉分科会 06月09日－05号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=303&schedule_id=5",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
+      "id": "86ace142f6c2af0a0932",
+      "place": "ふじみ野市",
+      "season": "summer",
+      "date": "2026-06-09",
+      "title": "令和 ８年 生活・福祉常任委員会 06月09日－04号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=304&schedule_id=4",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
     },
     {
       "id": "acaeef988a8912901e0a",
@@ -2105,6 +2600,42 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "078130dfdb0ec500241a",
+      "place": "ふじみ野市",
+      "season": "summer",
+      "date": "2026-06-15",
+      "title": "議第3号議案 安全・安心な医療・介護の実現のための人材確保と処遇改善を求める意見書",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "summary",
+      "url": "https://www.city.fujimino.saitama.jp/material/files/group/35/R8_g3_1.pdf",
+      "note": "市議会が公開した提出原文。日付は原文の提出日。市の審査結果と会議録の採決を参照。",
+      "speakers": []
+    },
+    {
+      "id": "a54f696798bf581392dc",
+      "place": "ふじみ野市",
+      "season": "summer",
+      "date": "2026-06-15",
+      "title": "議第4号議案 地方公共団体の事務負担軽減に向けた公金受取口座の活用に関する意見書",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "summary",
+      "url": "https://www.city.fujimino.saitama.jp/material/files/group/35/R8_g4_1.pdf",
+      "note": "市議会が公開した提出原文。日付は原文の提出日。市の審査結果と会議録の採決を参照。",
+      "speakers": []
+    },
+    {
+      "id": "b2805ea8f0ed998698fd",
+      "place": "ふじみ野市",
+      "season": "summer",
+      "date": "2026-06-17",
+      "title": "令和 ８年 予算・決算常任委員会 06月17日－04号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=300&schedule_id=4",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
       "id": "a60653239579b6c88f14",
       "place": "ふじみ野市",
       "season": "summer",
@@ -2135,6 +2666,42 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "afa785cb9ce6747c4b1d",
+      "place": "ふじみ野市",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "動議 地方自治法違反の疑いのある工事等の調査に関する動議",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "summary",
+      "url": "https://www.city.fujimino.saitama.jp/material/files/group/35/R8_2_dougi0619_2.pdf",
+      "note": "市議会が公開した提出原文。日付は原文の提出日。市の審査結果と会議録の採決を参照。",
+      "speakers": []
+    },
+    {
+      "id": "ad5649b1f85ee0d81e66",
+      "place": "ふじみ野市",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "動議 第56号議案ふじみ野市立福岡中学校校舎A棟長寿命化予防改修工事請負変更契約の締結についてに対する附帯決議に関する動議",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "summary",
+      "url": "https://www.city.fujimino.saitama.jp/material/files/group/35/R8_2_dougi0619_1.pdf",
+      "note": "市議会が公開した提出原文。日付は原文の提出日。市の審査結果と会議録の採決を参照。",
+      "speakers": []
+    },
+    {
+      "id": "372199af8a778dd8304b",
+      "place": "ふじみ野市",
+      "season": "summer",
+      "date": "2026-08-01",
+      "title": "ふじみ野市議会だより第82号",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "url": "https://www.city.fujimino.saitama.jp/material/files/group/35/82_all.pdf",
+      "note": "議会だより全頁のOCR。紙面の見開き番号に対応する物理頁を表示。",
+      "speakers": []
+    },
+    {
       "id": "d3a5347c5b18d1bd121f",
       "place": "ふじみ野市",
       "season": "fall",
@@ -2153,6 +2720,90 @@ GIKAI.questionText = {
         "野口一也",
         "鈴木啓太郎"
       ]
+    },
+    {
+      "id": "480408571434ba70f733",
+      "place": "ふじみ野市",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "令和 ８年 市民・都市常任委員会 09月01日－08号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=302&schedule_id=8",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
+      "id": "5d92614c5b3b450813ee",
+      "place": "ふじみ野市",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "令和 ８年 総務・教育常任委員会 09月01日－08号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=306&schedule_id=8",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
+      "id": "bd0b250cc0f01bdcad48",
+      "place": "ふじみ野市",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "令和 ８年 ９月 定例会（第３回） 09月01日－目次",
+      "kind": "公式会議録の付録（HTML）",
+      "scope": "summary",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=309&schedule_id=1",
+      "note": "公式の日別会議録に付属する目次と議事項目。",
+      "speakers": []
+    },
+    {
+      "id": "13d44cee3e2ff47886d6",
+      "place": "ふじみ野市",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "令和8年第3回定例会 一般質問通告者一覧",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "url": "https://www.city.fujimino.saitama.jp/material/files/group/35/R8_3_ippan0827.pdf",
+      "note": "市議会の公式通告資料。実際の質問と答弁は本会議録を参照。",
+      "speakers": []
+    },
+    {
+      "id": "406f9981ad53d54aee0a",
+      "place": "ふじみ野市",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "動議 市長が全員協議会で述べた議決前に工事した例が数件あったという件について緊急質問を求める動議",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "summary",
+      "url": "https://www.city.fujimino.saitama.jp/material/files/group/35/R8_3_dougi0901.pdf",
+      "note": "市議会が公開した提出原文。日付は原文の提出日。市の審査結果と会議録の採決を参照。",
+      "speakers": []
+    },
+    {
+      "id": "8825cf4bad0dd81cf1a1",
+      "place": "ふじみ野市",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "第71号議案 ふじみ野市情報通信技術を活用した行政の推進に関する条例の一部を改正する条例",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "summary",
+      "url": "https://www.city.fujimino.saitama.jp/material/files/group/35/08g71.pdf",
+      "note": "市議会が公開した提出原文。日付は原文の提出日。市の審査結果と会議録の採決を参照。",
+      "speakers": []
+    },
+    {
+      "id": "fffea6b07242a1777cf3",
+      "place": "ふじみ野市",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "第73号議案 ふじみ野市立子育て支援センター条例の一部を改正する条例",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "summary",
+      "url": "https://www.city.fujimino.saitama.jp/material/files/group/35/08g73.pdf",
+      "note": "市議会が公開した提出原文。日付は原文の提出日。市の審査結果と会議録の採決を参照。",
+      "speakers": []
     },
     {
       "id": "7b03ace9737a7c0593b2",
@@ -2174,6 +2825,210 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "987b05fd06c4df50b224",
+      "place": "ふじみ野市",
+      "season": "fall",
+      "date": "2026-09-03",
+      "title": "令和 ８年 予算・決算常任委員会 09月03日－05号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=300&schedule_id=5",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
+      "id": "f5698b9752df659c1d62",
+      "place": "ふじみ野市",
+      "season": "fall",
+      "date": "2026-09-03",
+      "title": "令和 ８年 市民・都市分科会 09月03日－06号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=301&schedule_id=6",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
+      "id": "7f1afef4c393c4c74d95",
+      "place": "ふじみ野市",
+      "season": "fall",
+      "date": "2026-09-03",
+      "title": "令和 ８年 市民・都市常任委員会 09月03日－09号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=302&schedule_id=9",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
+      "id": "9f3a74950559131fd8e1",
+      "place": "ふじみ野市",
+      "season": "fall",
+      "date": "2026-09-03",
+      "title": "令和 ８年 生活・福祉分科会 09月03日－06号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=303&schedule_id=6",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
+      "id": "147cecc4c76b81346145",
+      "place": "ふじみ野市",
+      "season": "fall",
+      "date": "2026-09-03",
+      "title": "令和 ８年 生活・福祉常任委員会 09月03日－05号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=304&schedule_id=5",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
+      "id": "7a16f86d8d8cfd55d930",
+      "place": "ふじみ野市",
+      "season": "fall",
+      "date": "2026-09-03",
+      "title": "令和 ８年 総務・教育分科会 09月03日－06号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=305&schedule_id=6",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
+      "id": "84c122b2ea0aca4db720",
+      "place": "ふじみ野市",
+      "season": "fall",
+      "date": "2026-09-03",
+      "title": "令和 ８年 総務・教育常任委員会 09月03日－09号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=306&schedule_id=9",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
+      "id": "55b7e1b04685e5c951df",
+      "place": "ふじみ野市",
+      "season": "fall",
+      "date": "2026-09-07",
+      "title": "令和 ８年 総務・教育分科会 09月07日－07号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=305&schedule_id=7",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
+      "id": "e9137cade2c30b246749",
+      "place": "ふじみ野市",
+      "season": "fall",
+      "date": "2026-09-07",
+      "title": "令和 ８年 総務・教育常任委員会 09月07日－10号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=306&schedule_id=10",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
+      "id": "e0701a7ee52da85de390",
+      "place": "ふじみ野市",
+      "season": "fall",
+      "date": "2026-09-08",
+      "title": "令和 ８年 総務・教育分科会 09月08日－08号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=305&schedule_id=8",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
+      "id": "42c116cb4dd5daa128b7",
+      "place": "ふじみ野市",
+      "season": "fall",
+      "date": "2026-09-08",
+      "title": "令和 ８年 総務・教育常任委員会 09月08日－11号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=306&schedule_id=11",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
+      "id": "8aacf3ea78ac59ce7047",
+      "place": "ふじみ野市",
+      "season": "fall",
+      "date": "2026-09-09",
+      "title": "令和 ８年 市民・都市分科会 09月09日－07号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=301&schedule_id=7",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
+      "id": "ccd540591d36fcbaa596",
+      "place": "ふじみ野市",
+      "season": "fall",
+      "date": "2026-09-09",
+      "title": "令和 ８年 市民・都市常任委員会 09月09日－10号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=302&schedule_id=10",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
+      "id": "5638dbe30ae7dc6d7dac",
+      "place": "ふじみ野市",
+      "season": "fall",
+      "date": "2026-09-10",
+      "title": "令和 ８年 市民・都市分科会 09月10日－08号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=301&schedule_id=8",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
+      "id": "20ddb766151aca49e411",
+      "place": "ふじみ野市",
+      "season": "fall",
+      "date": "2026-09-11",
+      "title": "令和 ８年 生活・福祉分科会 09月11日－07号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=303&schedule_id=7",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
+      "id": "c728d938109a6754d310",
+      "place": "ふじみ野市",
+      "season": "fall",
+      "date": "2026-09-11",
+      "title": "令和 ８年 生活・福祉常任委員会 09月11日－06号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=304&schedule_id=6",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
+      "id": "89060cbb39848029d9c5",
+      "place": "ふじみ野市",
+      "season": "fall",
+      "date": "2026-09-14",
+      "title": "令和 ８年 生活・福祉分科会 09月14日－08号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=303&schedule_id=8",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
       "id": "4b8a77cffa79257c55bb",
       "place": "ふじみ野市",
       "season": "fall",
@@ -2191,6 +3046,18 @@ GIKAI.questionText = {
         "田中早苗",
         "野口一也"
       ]
+    },
+    {
+      "id": "d18ef9f9ff6c0d722595",
+      "place": "ふじみ野市",
+      "season": "fall",
+      "date": "2026-09-16",
+      "title": "第88号議案 市長の給料の減額に関する条例",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "summary",
+      "url": "https://www.city.fujimino.saitama.jp/material/files/group/35/08g88.pdf",
+      "note": "市議会が公開した提出原文。日付は原文の提出日。市の審査結果と会議録の採決を参照。",
+      "speakers": []
     },
     {
       "id": "1d4ea438cab287b51ef9",
@@ -2232,6 +3099,18 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "7407e190a27ccbbec55c",
+      "place": "ふじみ野市",
+      "season": "fall",
+      "date": "2026-09-25",
+      "title": "令和 ８年 予算・決算常任委員会 09月25日－06号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=300&schedule_id=6",
+      "note": "公式年別目録と会議本文を照合。会期内の委員会・分科会の会議録。",
+      "speakers": []
+    },
+    {
       "id": "1fb64b3fef7bc4193788",
       "place": "ふじみ野市",
       "season": "fall",
@@ -2250,14 +3129,40 @@ GIKAI.questionText = {
         "塚越洋一",
         "小林久美",
         "川島秀男",
+        "川畑京子",
         "床井紀範",
         "板倉篤",
         "民部佳代",
         "近藤善則",
+        "金濵高顕",
         "鈴木啓太郎",
         "鈴木宏樹",
         "鈴木美恵"
       ]
+    },
+    {
+      "id": "d43a1b12fce1064a1be8",
+      "place": "ふじみ野市",
+      "season": "fall",
+      "date": "2026-09-29",
+      "title": "動議 市ホームページに公表された変更契約に係る不適切な事務執行16件について調査特別委員会設置を求める動議",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "summary",
+      "url": "https://www.city.fujimino.saitama.jp/material/files/group/35/R8_3_dougi0929.pdf",
+      "note": "市議会が公開した提出原文。日付は原文の提出日。市の審査結果と会議録の採決を参照。",
+      "speakers": []
+    },
+    {
+      "id": "fae9d608c4feab299fde",
+      "place": "ふじみ野市",
+      "season": "fall",
+      "date": "2026-11-01",
+      "title": "ふじみ野市議会だより第83号",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "url": "https://www.city.fujimino.saitama.jp/material/files/group/35/83_all.pdf",
+      "note": "議会だより全頁のOCR。紙面の見開き番号に対応する物理頁を表示。",
+      "speakers": []
     },
     {
       "id": "b71aa4eca12036b71516",
@@ -43615,7 +44520,7 @@ GIKAI.questionText = {
       "season": "spring",
       "material": {
         "state": "verified",
-        "note": "公式目次と照合した本会議の日別会議録6資料を収録。",
+        "note": "公式本会議録６日分、委員会・分科会17日分、会議録目次、通告、議会だよりを収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteBrowse.html?tenant_id=24&view_years=2026"
       }
     },
@@ -43624,7 +44529,7 @@ GIKAI.questionText = {
       "season": "summer",
       "material": {
         "state": "verified",
-        "note": "公式目次と照合した本会議の日別会議録6資料を収録。",
+        "note": "公式本会議録６日分、委員会・分科会14日分、会議録目次、通告、議会だよりを収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteBrowse.html?tenant_id=24&view_years=2026"
       }
     },
@@ -43633,7 +44538,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "verified",
-        "note": "公式目次と照合した本会議の日別会議録6資料を収録。",
+        "note": "公式本会議録６日分、委員会・分科会20日分、会議録目次、通告、議会だよりを収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteBrowse.html?tenant_id=24&view_years=2026"
       }
     },

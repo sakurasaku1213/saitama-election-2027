@@ -16974,3 +16974,900 @@ GIKAI.cases.push(...[
     "note": "発議と可決を確認。個別の委員会で実際にシステムを用いた回は確認待ち。"
   }
 ]);
+
+GIKAI.cases.push(...[
+  {
+    "place": "ふじみ野市",
+    "title": "福岡中学校工事の変更契約、附帯決議から市の42件調査と再発防止方針へ",
+    "topic": "公共契約・議会による調査",
+    "actors": [
+      "高畑博",
+      "原田雄一",
+      "坪田敏孝",
+      "鈴木啓太郎",
+      "鈴木宏樹",
+      "民部佳代",
+      "山田敏夫",
+      "小林憲人",
+      "川島秀男",
+      "塚越洋一",
+      "小林久美",
+      "近藤善則",
+      "ふじみ野市",
+      "ふじみ野市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-06-01",
+        "stage": "工事の調査特別委員会を求める動議を提出",
+        "actor": "原田雄一、坪田敏孝、鈴木啓太郎",
+        "detail": "福岡中学校Ａ棟の改修工事について、議会の調査特別委員会設置を求めた。",
+        "url": "https://www.city.fujimino.saitama.jp/material/files/group/35/R8_2_dougi0601_2.pdf#page=1",
+        "sourceTitle": "ふじみ野市議会・提出原文",
+        "memberActions": [
+          {
+            "name": "原田雄一",
+            "detail": "福岡中学校Ａ棟の改修工事について、議会の調査特別委員会設置を求めた。"
+          },
+          {
+            "name": "坪田敏孝",
+            "detail": "正式提出時の賛成者。"
+          },
+          {
+            "name": "鈴木啓太郎",
+            "detail": "正式提出時の賛成者。"
+          }
+        ]
+      },
+      {
+        "date": "2026-06-01",
+        "stage": "最初の調査特別委員会設置動議を否決",
+        "actor": "鈴木宏樹、坪田敏孝、民部佳代、ふじみ野市議会",
+        "detail": "調査の必要性と、常任委員会で審査を行うか、専用の委員会を設けるかが論点となった。",
+        "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=308&schedule_id=2",
+        "sourceTitle": "ふじみ野市議会・06月01日－01号",
+        "archiveId": "2ade0908b9e7a9276c4f",
+        "blocks": [
+          84,
+          86,
+          89,
+          95,
+          96
+        ],
+        "memberActions": [
+          {
+            "name": "鈴木宏樹",
+            "detail": "総括質疑や常任委員会審査でまず説明を求める立場から反対討論した。",
+            "blocks": [
+              84
+            ]
+          },
+          {
+            "name": "坪田敏孝",
+            "detail": "工事の経緯や組織の問題に踏み込む特別委員会を求め賛成討論した。",
+            "blocks": [
+              86
+            ]
+          },
+          {
+            "name": "民部佳代",
+            "detail": "手続の問題を指摘し、調べる方法について意見を述べて動議に反対討論した。",
+            "blocks": [
+              89
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-06-19",
+        "stage": "変更契約の締結を可決",
+        "actor": "鈴木宏樹、ふじみ野市議会",
+        "detail": "工事の議決前着手が審議の対象となった。議長が有効投票の賛成13・反対７で可決を宣告。",
+        "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=308&schedule_id=7",
+        "sourceTitle": "ふじみ野市議会・06月19日－06号",
+        "archiveId": "a60653239579b6c88f14",
+        "blocks": [
+          131,
+          152
+        ],
+        "billNumber": "第56号議案",
+        "memberActions": [
+          {
+            "name": "鈴木宏樹",
+            "detail": "議決を経ず工事が進められた点を批判し、工事契約案そのものには賛成討論した。",
+            "blocks": [
+              131
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-06-19",
+        "stage": "附帯決議に関する動議を提出",
+        "actor": "山田敏夫、小林憲人、川島秀男",
+        "detail": "変更契約の議決前着手について、原因究明や再発防止策の策定・公表を求める附帯決議案を提出した。",
+        "url": "https://www.city.fujimino.saitama.jp/material/files/group/35/R8_2_dougi0619_1.pdf#page=1",
+        "sourceTitle": "ふじみ野市議会・提出原文",
+        "memberActions": [
+          {
+            "name": "山田敏夫",
+            "detail": "変更契約の議決前着手について、原因究明や再発防止策の策定・公表を求める附帯決議案を提出した。"
+          },
+          {
+            "name": "小林憲人",
+            "detail": "正式提出時の賛成者。"
+          },
+          {
+            "name": "川島秀男",
+            "detail": "正式提出時の賛成者。"
+          }
+        ]
+      },
+      {
+        "date": "2026-06-19",
+        "stage": "質疑と討論を経て附帯決議を可決",
+        "actor": "山田敏夫、鈴木啓太郎、塚越洋一、ふじみ野市議会",
+        "detail": "山田議員らの附帯決議を可決。表決原表では５議員が退席。",
+        "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=308&schedule_id=7",
+        "sourceTitle": "ふじみ野市議会・06月19日－06号",
+        "archiveId": "a60653239579b6c88f14",
+        "blocks": [
+          154,
+          162,
+          224,
+          226,
+          314,
+          316,
+          318,
+          319
+        ],
+        "memberActions": [
+          {
+            "name": "山田敏夫",
+            "detail": "動議を提出し、附帯決議案を朗読。再発防止策の公表を求めた理由も説明した。",
+            "blocks": [
+              154,
+              162,
+              226
+            ]
+          },
+          {
+            "name": "鈴木啓太郎",
+            "detail": "再発防止策の内容と、公表を求める文言の意味を質した。",
+            "blocks": [
+              224
+            ]
+          },
+          {
+            "name": "塚越洋一",
+            "detail": "附帯決議に意見を付して賛成討論した。",
+            "blocks": [
+              316
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-06-19",
+        "stage": "議決前工事等の調査に関する別の動議を提出",
+        "actor": "原田雄一、小林久美、近藤善則",
+        "detail": "議会の調査権を用いた経緯・再発防止等の調査を求めた。",
+        "url": "https://www.city.fujimino.saitama.jp/material/files/group/35/R8_2_dougi0619_2.pdf#page=1",
+        "sourceTitle": "ふじみ野市議会・提出原文",
+        "memberActions": [
+          {
+            "name": "原田雄一",
+            "detail": "議会の調査権を用いた経緯・再発防止等の調査を求めた。"
+          },
+          {
+            "name": "小林久美",
+            "detail": "正式提出時の賛成者。"
+          },
+          {
+            "name": "近藤善則",
+            "detail": "正式提出時の賛成者。"
+          }
+        ]
+      },
+      {
+        "date": "2026-06-19",
+        "stage": "６月の議決前工事等の調査動議を否決",
+        "actor": "原田雄一、ふじみ野市議会",
+        "detail": "起立少数で否決。",
+        "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=308&schedule_id=7",
+        "sourceTitle": "ふじみ野市議会・06月19日－06号",
+        "archiveId": "a60653239579b6c88f14",
+        "blocks": [
+          455,
+          504,
+          505
+        ],
+        "memberActions": [
+          {
+            "name": "原田雄一",
+            "detail": "調査の対象とする事項を列挙した動議を本会議で説明した。",
+            "blocks": [
+              455
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-09-01",
+        "stage": "過去の議決前工事をめぐり緊急質問を求める動議を提出",
+        "actor": "鈴木啓太郎、小林久美、近藤善則",
+        "detail": "全員協議会での市長発言に関連し、本会議で緊急質問することを求めた。",
+        "url": "https://www.city.fujimino.saitama.jp/material/files/group/35/R8_3_dougi0901.pdf#page=1",
+        "sourceTitle": "ふじみ野市議会・提出原文",
+        "memberActions": [
+          {
+            "name": "鈴木啓太郎",
+            "detail": "全員協議会での市長発言に関連し、本会議で緊急質問することを求めた。"
+          },
+          {
+            "name": "小林久美",
+            "detail": "正式提出時の賛成者。"
+          },
+          {
+            "name": "近藤善則",
+            "detail": "正式提出時の賛成者。"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-01",
+        "stage": "９月初日の緊急質問動議を否決",
+        "actor": "鈴木啓太郎、ふじみ野市議会",
+        "detail": "提出者の説明と質疑の後、起立少数で否決。",
+        "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=309&schedule_id=2",
+        "sourceTitle": "ふじみ野市議会・09月01日－01号",
+        "archiveId": "d3a5347c5b18d1bd121f",
+        "blocks": [
+          106,
+          113,
+          146,
+          147
+        ],
+        "memberActions": [
+          {
+            "name": "鈴木啓太郎",
+            "detail": "過去の議決前着手の事案について、その場で質問を許可するよう求めた。",
+            "blocks": [
+              113
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-09-16",
+        "stage": "市の調査で42件中16件の議決前着手を公表",
+        "actor": "ふじみ野市",
+        "detail": "市が附帯決議を受けて変更契約の議案となった工事42件を調べた。本件を含む16件を公表し、市独自の設計変更ガイドライン策定等を示した。",
+        "url": "https://www.city.fujimino.saitama.jp/soshikiichiran/keiyaku_homuka/keiyaku_kensagakari/17660.html",
+        "sourceTitle": "ふじみ野市・変更契約に係る調査結果"
+      },
+      {
+        "date": "2026-09-29",
+        "stage": "市長給料の減額条例を可決",
+        "actor": "高畑博、民部佳代、ふじみ野市議会",
+        "detail": "決議を受けた対応を審議。市長の給料を2026年10月の１か月、月額の30％減額する条例を可決。",
+        "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=309&schedule_id=7",
+        "sourceTitle": "ふじみ野市議会・09月29日－06号",
+        "archiveId": "1fb64b3fef7bc4193788",
+        "blocks": [
+          156,
+          158,
+          261,
+          262
+        ],
+        "billNumber": "第88号議案",
+        "memberActions": [
+          {
+            "name": "民部佳代",
+            "detail": "調査結果の公表を踏まえ、金銭的措置や今後の対応について市長提案を質した。",
+            "blocks": [
+              158
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-09-29",
+        "stage": "市が公表した16件の調査特別委員会を求める動議",
+        "actor": "原田雄一、坪田敏孝、鈴木啓太郎",
+        "detail": "公表された16件の事務を調査する特別委員会の設置を求めた。",
+        "url": "https://www.city.fujimino.saitama.jp/material/files/group/35/R8_3_dougi0929.pdf#page=1",
+        "sourceTitle": "ふじみ野市議会・提出原文",
+        "memberActions": [
+          {
+            "name": "原田雄一",
+            "detail": "公表された16件の事務を調査する特別委員会の設置を求めた。"
+          },
+          {
+            "name": "坪田敏孝",
+            "detail": "正式提出時の賛成者。"
+          },
+          {
+            "name": "鈴木啓太郎",
+            "detail": "正式提出時の賛成者。"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-29",
+        "stage": "16件を調べる調査特別委員会の動議を否決",
+        "actor": "原田雄一、民部佳代、ふじみ野市議会",
+        "detail": "起立少数で否決。",
+        "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=309&schedule_id=7",
+        "sourceTitle": "ふじみ野市議会・09月29日－06号",
+        "archiveId": "1fb64b3fef7bc4193788",
+        "blocks": [
+          270,
+          325,
+          327,
+          328
+        ],
+        "memberActions": [
+          {
+            "name": "原田雄一",
+            "detail": "市の公表後に、16件の調査特別委員会を求める提案の内容を説明した。",
+            "blocks": [
+              270
+            ]
+          },
+          {
+            "name": "民部佳代",
+            "detail": "議決前工事の重大性に触れ、調査特別委員会の設置には反対討論した。",
+            "blocks": [
+              325
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "附帯決議、行政による42件の調査・16件公表、減額条例の可決を確認。ガイドラインの策定・運用実績は確認待ち。"
+  },
+  {
+    "place": "ふじみ野市",
+    "title": "資料館を統合する市立博物館、条例議決から開館へ",
+    "topic": "文化・公共施設",
+    "actors": [
+      "民部佳代",
+      "床井紀範",
+      "ふじみ野市",
+      "ふじみ野市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-02-20",
+        "stage": "９月開館に向けた整備方針を表明",
+        "actor": "ふじみ野市",
+        "detail": "旧大井図書館と大井郷土資料館の建物を改修し、歴史・文化を学ぶ拠点とする方針。",
+        "url": "https://www.city.fujimino.saitama.jp/soshikiichiran/hishoshitsu/shiseihousin/16489.html",
+        "sourceTitle": "ふじみ野市・施政方針"
+      },
+      {
+        "date": "2026-03-18",
+        "stage": "市立博物館の条例改正を可決",
+        "actor": "民部佳代、床井紀範、ふじみ野市議会",
+        "detail": "市立資料館を統合する改正案を可決。採決の原表では金濵高顕議員が退席。",
+        "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=299&schedule_id=7",
+        "sourceTitle": "ふじみ野市議会・03月18日－06号",
+        "archiveId": "343bdb45513a688e6198",
+        "blocks": [
+          39,
+          117,
+          119,
+          120
+        ],
+        "billNumber": "第23号議案",
+        "memberActions": [
+          {
+            "name": "民部佳代",
+            "detail": "総務・教育常任委員長として審査結果を報告した。",
+            "blocks": [
+              39
+            ]
+          },
+          {
+            "name": "床井紀範",
+            "detail": "博物館が登録を受けるための規定などに触れ、意見を付して賛成討論した。",
+            "blocks": [
+              117
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-05-25",
+        "stage": "開館日と機能を市が公表",
+        "actor": "ふじみ野市",
+        "detail": "上福岡歴史民俗資料館と大井郷土資料館の統合、常設展示と体験、貸室等を発表。",
+        "url": "https://www.city.fujimino.saitama.jp/soshikiichiran/kohokochoka/kohokochokakari/kaiken/r8/16420.html",
+        "sourceTitle": "ふじみ野市・５月記者会見"
+      },
+      {
+        "date": "2026-09-01",
+        "stage": "市立博物館の開館",
+        "actor": "ふじみ野市",
+        "detail": "市の利用案内では常設展示の入館は無料。研修室・会議室等も設置された。",
+        "url": "https://www.city.fujimino.saitama.jp/soshikiichiran/museum/kanrigakari/17320.html",
+        "sourceTitle": "ふじみ野市立博物館・利用案内"
+      }
+    ],
+    "note": "条例改正と利用案内による開館を確認。利用者数や統合後の成果は確認待ち。"
+  },
+  {
+    "place": "ふじみ野市",
+    "title": "ココネへの投票所新設請願、賛否の討論と本会議不採択",
+    "topic": "選挙・請願",
+    "actors": [
+      "鈴木美恵",
+      "鈴木宏樹",
+      "鈴木啓太郎",
+      "床井紀範",
+      "ふじみ野市",
+      "ふじみ野市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-02-27",
+        "stage": "委員会が請願の代表者から意見を聞いて審査",
+        "actor": "請願者、鈴木美恵、総務・教育常任委員会",
+        "detail": "請願者の説明を聴取し、候補施設と投票環境を質疑。委員会で採択に賛成の起立は少数。",
+        "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=306&schedule_id=3",
+        "sourceTitle": "ふじみ野市議会・令和 ８年 総務・教育常任委員会 02月27日－03号",
+        "archiveId": "2758424a028b21db3844",
+        "blocks": [
+          7,
+          8,
+          38,
+          134,
+          136,
+          138,
+          140,
+          144,
+          145
+        ],
+        "memberActions": [
+          {
+            "name": "鈴木美恵",
+            "detail": "想定する候補施設が市サービスセンターホールかを参考人に確認した。",
+            "blocks": [
+              38
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-03-18",
+        "stage": "ココネへの投票所新設を求める請願を不採択",
+        "actor": "鈴木宏樹、鈴木啓太郎、鈴木美恵、床井紀範、ふじみ野市議会",
+        "detail": "ココネでの投票機会確保を求めた請願。候補地や投票のしやすさをめぐって賛否の討論。本会議は起立少数で不採択。板倉篤議員は退席した。",
+        "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=299&schedule_id=7",
+        "sourceTitle": "ふじみ野市議会・03月18日－06号",
+        "archiveId": "343bdb45513a688e6198",
+        "blocks": [
+          177,
+          179,
+          181,
+          183,
+          185,
+          187,
+          188
+        ],
+        "billNumber": "請願第1号",
+        "memberActions": [
+          {
+            "name": "鈴木宏樹",
+            "detail": "投票環境の課題に触れ、現時点での新設請願に反対討論した。",
+            "blocks": [
+              179
+            ]
+          },
+          {
+            "name": "鈴木啓太郎",
+            "detail": "投票機会の確保と利便性を挙げ、新設請願に賛成討論した。",
+            "blocks": [
+              181
+            ]
+          },
+          {
+            "name": "鈴木美恵",
+            "detail": "安心して投票できる環境の重要性に触れつつ、請願に反対討論した。",
+            "blocks": [
+              183
+            ]
+          },
+          {
+            "name": "床井紀範",
+            "detail": "選挙権の保障と投票環境の改善を挙げ、請願に賛成討論した。",
+            "blocks": [
+              185
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "賛否の発言と不採択を確認。その後の投票所の個別指定・変更は選挙ごとの案内で確認。"
+  },
+  {
+    "place": "ふじみ野市",
+    "title": "地域計画の実現を求める意見書、議員の正式提出から国への送付へ",
+    "topic": "農業・意見書",
+    "actors": [
+      "小林憲人",
+      "山田敏夫",
+      "原田雄一",
+      "川畑京子",
+      "塚越洋一",
+      "加藤恵一",
+      "ふじみ野市",
+      "ふじみ野市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-12",
+        "stage": "地域計画の推進を求める意見書案を提出",
+        "actor": "小林憲人、山田敏夫、原田雄一、川畑京子、塚越洋一",
+        "detail": "担い手の確保と農地利用に関する地域計画の実現に向け、国への意見書を提案した。",
+        "url": "https://www.city.fujimino.saitama.jp/material/files/group/35/r8g1.pdf#page=1",
+        "sourceTitle": "ふじみ野市議会・提出原文",
+        "memberActions": [
+          {
+            "name": "小林憲人",
+            "detail": "担い手の確保と農地利用に関する地域計画の実現に向け、国への意見書を提案した。"
+          },
+          {
+            "name": "山田敏夫",
+            "detail": "正式提出時の賛成者。"
+          },
+          {
+            "name": "原田雄一",
+            "detail": "正式提出時の賛成者。"
+          },
+          {
+            "name": "川畑京子",
+            "detail": "正式提出時の賛成者。"
+          },
+          {
+            "name": "塚越洋一",
+            "detail": "正式提出時の賛成者。"
+          }
+        ]
+      },
+      {
+        "date": "2026-03-18",
+        "stage": "本会議で意見書を可決",
+        "actor": "小林憲人、ふじみ野市議会",
+        "detail": "提出者が案文を説明し、起立総員で可決。",
+        "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=299&schedule_id=7",
+        "sourceTitle": "ふじみ野市議会・03月18日－06号",
+        "archiveId": "343bdb45513a688e6198",
+        "blocks": [
+          269,
+          271,
+          273,
+          275,
+          276
+        ],
+        "billNumber": "議第1号議案",
+        "memberActions": [
+          {
+            "name": "小林憲人",
+            "detail": "正式に提出した意見書案を本会議で読み上げ、提案理由を説明した。",
+            "blocks": [
+              271
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-06-01",
+        "stage": "議長が国への送付済みを報告",
+        "actor": "加藤恵一、ふじみ野市議会",
+        "detail": "３月に可決した地域計画の意見書を衆参両院議長、内閣総理大臣、関係大臣宛てに送付済みと報告した。",
+        "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=308&schedule_id=2",
+        "sourceTitle": "ふじみ野市議会・06月01日－01号",
+        "archiveId": "2ade0908b9e7a9276c4f",
+        "blocks": [
+          22
+        ],
+        "memberActions": [
+          {
+            "name": "加藤恵一",
+            "detail": "議長として、可決された意見書の送付済みを本会議で報告した。",
+            "blocks": [
+              22
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "議員の提出、議会の可決と送付済み報告を確認。国側の対応は確認待ち。"
+  },
+  {
+    "place": "ふじみ野市",
+    "title": "医療・介護の人材確保と処遇改善を求める意見書の提出・送付",
+    "topic": "医療・介護・意見書",
+    "actors": [
+      "山田敏夫",
+      "川畑京子",
+      "塚越洋一",
+      "加藤恵一",
+      "ふじみ野市",
+      "ふじみ野市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-06-15",
+        "stage": "人材確保と処遇改善の意見書案を提出",
+        "actor": "山田敏夫、川畑京子、塚越洋一",
+        "detail": "医療・介護の人材確保と処遇改善を国に求める意見書案を正式に提出。",
+        "url": "https://www.city.fujimino.saitama.jp/material/files/group/35/R8_g3_1.pdf#page=1",
+        "sourceTitle": "ふじみ野市議会・提出原文",
+        "memberActions": [
+          {
+            "name": "山田敏夫",
+            "detail": "医療・介護の人材確保と処遇改善を国に求める意見書案を正式に提出。"
+          },
+          {
+            "name": "川畑京子",
+            "detail": "正式提出時の賛成者。"
+          },
+          {
+            "name": "塚越洋一",
+            "detail": "正式提出時の賛成者。"
+          }
+        ]
+      },
+      {
+        "date": "2026-06-19",
+        "stage": "意見書を可決",
+        "actor": "ふじみ野市議会",
+        "detail": "本会議で起立多数により可決された。",
+        "url": "https://www.city.fujimino.saitama.jp/material/files/group/35/r8_2teirei_sanpi.pdf#page=2",
+        "sourceTitle": "ふじみ野市議会・公式表決原表",
+        "billNumber": "議第3号議案"
+      },
+      {
+        "date": "2026-09-01",
+        "stage": "議長が国への送付済みを報告",
+        "actor": "加藤恵一、ふじみ野市議会",
+        "detail": "６月に可決した医療・介護人材確保の意見書を衆参両院議長、内閣総理大臣、関係大臣宛てに送付済みと報告した。",
+        "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=309&schedule_id=2",
+        "sourceTitle": "ふじみ野市議会・09月01日－01号",
+        "archiveId": "d3a5347c5b18d1bd121f",
+        "blocks": [
+          32
+        ],
+        "memberActions": [
+          {
+            "name": "加藤恵一",
+            "detail": "議長として、可決された意見書の送付済みを本会議で報告した。",
+            "blocks": [
+              32
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "提出・可決・送付済み報告を確認。処遇改善の制度変更や効果は確認待ち。"
+  },
+  {
+    "place": "ふじみ野市",
+    "title": "公金受取口座の活用を求める意見書、議員提出から国への送付まで",
+    "topic": "行政・意見書",
+    "actors": [
+      "民部佳代",
+      "山田敏夫",
+      "川畑京子",
+      "塚越洋一",
+      "加藤恵一",
+      "ふじみ野市",
+      "ふじみ野市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-06-15",
+        "stage": "公金受取口座に関する意見書案を提出",
+        "actor": "民部佳代、山田敏夫、川畑京子、塚越洋一",
+        "detail": "地方公共団体の事務負担を軽減する観点から、口座の活用を国に求める意見書案を提出した。",
+        "url": "https://www.city.fujimino.saitama.jp/material/files/group/35/R8_g4_1.pdf#page=1",
+        "sourceTitle": "ふじみ野市議会・提出原文",
+        "memberActions": [
+          {
+            "name": "民部佳代",
+            "detail": "地方公共団体の事務負担を軽減する観点から、口座の活用を国に求める意見書案を提出した。"
+          },
+          {
+            "name": "山田敏夫",
+            "detail": "正式提出時の賛成者。"
+          },
+          {
+            "name": "川畑京子",
+            "detail": "正式提出時の賛成者。"
+          },
+          {
+            "name": "塚越洋一",
+            "detail": "正式提出時の賛成者。"
+          }
+        ]
+      },
+      {
+        "date": "2026-06-19",
+        "stage": "公金受取口座を活用する意見書を可決",
+        "actor": "ふじみ野市議会",
+        "detail": "議会は起立多数で意見書を可決した。",
+        "url": "https://www.city.fujimino.saitama.jp/material/files/group/35/r8_2teirei_sanpi.pdf#page=2",
+        "sourceTitle": "ふじみ野市議会・公式表決原表",
+        "billNumber": "議第4号議案"
+      },
+      {
+        "date": "2026-09-01",
+        "stage": "議長が国への送付済みを報告",
+        "actor": "加藤恵一、ふじみ野市議会",
+        "detail": "６月に可決した公金受取口座の意見書を衆参両院議長、内閣総理大臣、関係大臣宛てに送付済みと報告した。",
+        "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=309&schedule_id=2",
+        "sourceTitle": "ふじみ野市議会・09月01日－01号",
+        "archiveId": "d3a5347c5b18d1bd121f",
+        "blocks": [
+          32
+        ],
+        "memberActions": [
+          {
+            "name": "加藤恵一",
+            "detail": "議長として、可決された意見書の送付済みを本会議で報告した。",
+            "blocks": [
+              32
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "議員の提出と送付を確認。国の施策変更や市の事務負担の改善は確認待ち。"
+  },
+  {
+    "place": "ふじみ野市",
+    "title": "こども発達支援センターの名称・所管変更と利用案内",
+    "topic": "子育て・発達支援",
+    "actors": [
+      "川畑京子",
+      "小林久美",
+      "床井紀範",
+      "ふじみ野市",
+      "ふじみ野市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-18",
+        "stage": "発達支援センターの条例改正を可決",
+        "actor": "川畑京子、小林久美、床井紀範、ふじみ野市議会",
+        "detail": "子育て支援課からこども家庭センターへ所管を移し、名称をこども発達支援センターとする。議会は可決。",
+        "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=299&schedule_id=7",
+        "sourceTitle": "ふじみ野市議会・03月18日－06号",
+        "archiveId": "343bdb45513a688e6198",
+        "blocks": [
+          45,
+          95,
+          97,
+          99,
+          100
+        ],
+        "billNumber": "第18号議案",
+        "memberActions": [
+          {
+            "name": "川畑京子",
+            "detail": "生活・福祉常任委員長として、条例改正の審査結果を報告した。",
+            "blocks": [
+              45
+            ]
+          },
+          {
+            "name": "小林久美",
+            "detail": "相談や支援の体制をめぐって意見を付し、可決に賛成した。",
+            "blocks": [
+              95
+            ]
+          },
+          {
+            "name": "床井紀範",
+            "detail": "管轄変更と支援の運営について意見を付し賛成討論した。",
+            "blocks": [
+              97
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-04-01",
+        "stage": "改めた組織名を市が公表",
+        "actor": "ふじみ野市",
+        "detail": "市の４月１日更新の担当部署一覧にこども発達支援センターが掲載され、センターの案内で支援内容を確認できる。",
+        "url": "https://www.city.fujimino.saitama.jp/2002.html",
+        "sourceTitle": "ふじみ野市・担当課の案内"
+      },
+      {
+        "date": "2026-11",
+        "stage": "新名称のセンターの公式利用案内を確認",
+        "actor": "ふじみ野市",
+        "detail": "相談・訪問・通園の支援と、ふじみんたんぽぽ園等の運営を市は案内している。",
+        "url": "https://www.city.fujimino.saitama.jp/kurashinojoho/kosodate/kosodatesupport/11839.html",
+        "sourceTitle": "ふじみ野市・発達支援センターの利用案内"
+      }
+    ],
+    "note": "組織名の変更と利用案内を確認。相談の待機時間や支援量の変化は確認待ち。"
+  },
+  {
+    "place": "ふじみ野市",
+    "title": "子育て支援センターの２拠点集約、賛否の討論と閉室・移行の案内",
+    "topic": "子育て・公共施設",
+    "actors": [
+      "川畑京子",
+      "床井紀範",
+      "前田広子",
+      "金濵高顕",
+      "ふじみ野市",
+      "ふじみ野市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-09-29",
+        "stage": "霞ケ丘を条例から外す改正を可決",
+        "actor": "川畑京子、床井紀範、前田広子、金濵高顕、ふじみ野市議会",
+        "detail": "霞ケ丘の閉室を伴う、公立子育て支援センター２か所への集約。議会では利用者への影響、支援の充実方法などを議論。",
+        "url": "https://ssp.kaigiroku.net/tenant/fujimino/SpMinuteView.html?tenant_id=24&council_id=309&schedule_id=7",
+        "sourceTitle": "ふじみ野市議会・09月29日－06号",
+        "archiveId": "1fb64b3fef7bc4193788",
+        "blocks": [
+          44,
+          118,
+          120,
+          122,
+          124,
+          125
+        ],
+        "billNumber": "第73号議案",
+        "memberActions": [
+          {
+            "name": "川畑京子",
+            "detail": "生活・福祉常任委員長として、集約、人員配置、周知に関する委員会審査を報告した。",
+            "blocks": [
+              44
+            ]
+          },
+          {
+            "name": "床井紀範",
+            "detail": "霞ケ丘子育て支援センターの廃止を含む改正案に反対討論した。",
+            "blocks": [
+              118
+            ]
+          },
+          {
+            "name": "前田広子",
+            "detail": "より柔軟な支援機能の運用に言及して賛成討論した。",
+            "blocks": [
+              120
+            ]
+          },
+          {
+            "name": "金濵高顕",
+            "detail": "閉室と２拠点への集約に関する改正案に賛成討論した。",
+            "blocks": [
+              122
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-10-22",
+        "stage": "市が最終利用日と移行日を案内",
+        "actor": "ふじみ野市",
+        "detail": "霞ケ丘の最終自由利用日は2027年３月25日、４月１日以降は上野台・大井の２か所で支援する方針を案内。",
+        "url": "https://www.city.fujimino.saitama.jp/soshikiichiran/kosodateshienka/uenodaikosodateshiencenter/kosodateitirann/7000.html",
+        "sourceTitle": "ふじみ野市・子育て支援センターの案内"
+      }
+    ],
+    "note": "改正と市の予定公表を確認。移行後の利用実績や相談体制は確認待ち。"
+  }
+]);
