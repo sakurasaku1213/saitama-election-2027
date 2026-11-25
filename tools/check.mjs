@@ -153,7 +153,8 @@ for (const c of data.cases) {
     const doc = step.archiveId ? archivedQuestionDocs.get(step.archiveId) : null;
     if (step.archiveId) {
       const publishedCaption = doc?.scope === "recording" && doc.kind === "公式録画の公開自動字幕";
-      assert.ok(doc?.place === place && (["minutes", "summary"].includes(doc.scope) || publishedCaption), c.title);
+      const supportingMaterial = doc?.scope === "supporting";
+      assert.ok(doc?.place === place && (["minutes", "summary"].includes(doc.scope) || publishedCaption || supportingMaterial), c.title);
       assert.equal(doc.url.split("#")[0], step.url.split("#")[0], c.title);
       const monthlySource = doc.date.length === 7 &&
         (doc.scope === "summary" || doc.kind === "公式会議録PDFのOCR転記");
@@ -526,12 +527,13 @@ for (const doc of questionDocs) {
   assert.ok(!questionKeys.has(sourceKey), sourceKey);
   questionIds.add(doc.id);
   questionKeys.add(sourceKey);
-  if (doc.scope !== "notice") docCouncilSeasons.add(slot);
+  if (doc.scope !== "notice" && doc.scope !== "supporting") docCouncilSeasons.add(slot);
   validLink(doc.url);
   validDay(doc.date);
   assert.match(doc.date, /^2026-/);
   assert.ok(doc.title && doc.kind);
-  assert.ok(["minutes", "fullQA", "summary", "recording", "notice"].includes(doc.scope));
+  assert.ok(["minutes", "fullQA", "summary", "recording", "notice", "supporting"].includes(doc.scope));
+  if (doc.scope === "supporting") assert.ok(doc.note);
   if (doc.scope === "notice") {
     assert.ok(["一般質問通告（公式資料）", "議案質疑通告（公式資料・OCR）", "議案質疑・一般質問通告（公式資料）",
       "施政方針に対する発言通告（公式資料・OCR）"].includes(doc.kind) && doc.note);

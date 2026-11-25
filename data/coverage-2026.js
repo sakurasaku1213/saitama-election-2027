@@ -2379,7 +2379,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "partial",
-          "note": "16人の一般質問44問答とその他９見出し、議案質疑13組、決算討論２人、公式通告30大項目。公式録画のうち機械文字起こし3/16件。委員長報告４資料と教育委員会会議録の関連部分も収録。正式本会議録は確認中。"
+          "note": "16人の一般質問44問答とその他９見出し、議案質疑13組、決算討論２人、公式通告30大項目。委員長報告４資料と教育委員会会議録の関連部分も収録。正式本会議録は確認中。 公式録画の機械文字起こし一般質問6本を収録。"
         },
         "decisions": {
           "state": "verified",
@@ -4327,7 +4327,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "partial",
-          "note": "一般質問12人分の紙面要旨、公式通告、常任委員会会議録２資料。正式本会議録は確認中。"
+          "note": "第214号の紙面３～８頁（分割PDF２～７頁）の一般質問12人の掲載問答と、その他の見出し26件を照合。発言日は公式録画目録と照合した。 総務厚生常任委員会の公式会議録２資料を収録。正式な本会議録は確認中。 公式録画の機械文字起こし一般質問1本を収録。"
         },
         "decisions": {
           "state": "verified",
@@ -4703,7 +4703,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "note": "議会だより第238号の質問・答弁要旨はPDF７頁を収録。原音照合と正式会議録は確認中。 公式録画の機械文字起こし一般質問11本を収録。"
         },
         "decisions": {
           "state": "verified",
@@ -4879,7 +4879,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "partial",
-          "note": "第224号の一般質問13人・47問答と、決算審査・条例・補正予算等の補足40件を原紙面と照合。公式通告14人・29頁、一般質問13本と議案質疑１本の公式録画を照合。正式会議録は確認中。"
+          "note": "第224号の一般質問13人・47問答と、決算審査・条例・補正予算等の補足40件を原紙面と照合。公式通告14人・29頁、一般質問13本と議案質疑１本の公式録画を照合。正式会議録は確認中。 公式録画の機械文字起こし議案質疑1本を収録。"
         },
         "decisions": {
           "state": "verified",
@@ -5423,7 +5423,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "partial",
-          "note": "第127号PDF４～６頁の17人・17主題の質問と答弁、決算討論・委員会報告などを原紙面と照合。公式通告全２頁は17人・44項目。９月15日６人・16日６人・17日５人を公式録画・通告と照合。正式会議録は11月25日の年別目次で未掲載。 公式録画の機械文字起こし一般質問7本を収録。"
+          "note": "第127号PDF４～６頁の17人・17主題の質問と答弁、決算討論・委員会報告などを原紙面と照合。公式通告全２頁は17人・44項目。９月15日６人・16日６人・17日５人を公式録画・通告と照合。正式会議録は11月25日の年別目次で未掲載。 公式録画の機械文字起こし一般質問8本を収録。"
         },
         "decisions": {
           "state": "verified",
@@ -8807,7 +8807,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "partial",
-          "note": "第174号の一般質問９人34問答、決算審議10問答、所管事務調査３問答、討論と視察等。公式通告９人10頁、公式音声は９月２日４人、３日５人。正式会議録は確認中。 公式録画の機械文字起こし一般質問7本を収録。"
+          "note": "第174号の一般質問９人34問答、決算審議10問答、所管事務調査３問答、討論と視察等。公式通告９人10頁、公式音声は９月２日４人、３日５人。正式会議録は確認中。 公式録画の機械文字起こし一般質問8本を収録。"
         },
         "decisions": {
           "state": "verified",
@@ -9771,7 +9771,7 @@ GIKAI.coverage2026 = {
       "materials": {
         "meeting": {
           "state": "partial",
-          "note": "開会日を確認。閉会日は未照合。"
+          "note": "公式予定表の会期は９月１日～11日。９月８日と11日の議決を結果一覧で確認。実際の閉会日は会議録で確認待ち。"
         },
         "activity": {
           "state": "partial",
@@ -9779,7 +9779,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "notFound",
-          "note": "2026年の公式会議録の年別一覧で秋の定例会本文を確認できませんでした。公式の質問一覧と質問要旨は収録。"
+          "note": "公式会議録の年別一覧で秋の本会議録は確認できず、実際の質問・答弁は確認中。事前の質問一覧・要旨、会期予定表、村長提出議案の議決結果と村広報の決算報告を収録。"
         },
         "decisions": {
           "state": "verified",
@@ -9791,7 +9791,7 @@ GIKAI.coverage2026 = {
         },
         "policy": {
           "state": "partial",
-          "note": "新庁舎の運用に関する９月の質問通告と、庁舎本体の工事進捗を照合。"
+          "note": "９月の新庁舎の質問通告、10月の鉄骨工事完了、2027年９月の供用予定を示す村の案内を照合。"
         }
       },
       "sources": [
@@ -9806,6 +9806,22 @@ GIKAI.coverage2026 = {
         {
           "label": "議決事項一覧",
           "url": "https://www.vill.higashichichibu.saitama.jp/uploaded/attachment/6425.pdf"
+        },
+        {
+          "label": "９月定例会の会期予定表",
+          "url": "https://www.vill.higashichichibu.saitama.jp/uploaded/attachment/6383.pdf"
+        },
+        {
+          "label": "一般質問事項一覧（４人・７項目）",
+          "url": "https://www.vill.higashichichibu.saitama.jp/uploaded/attachment/6385.pdf"
+        },
+        {
+          "label": "広報11月号・決算報告12～13頁",
+          "url": "https://www.vill.higashichichibu.saitama.jp/uploaded/attachment/6496.pdf#page=12"
+        },
+        {
+          "label": "総合庁舎の供用予定・愛称募集",
+          "url": "https://www.vill.higashichichibu.saitama.jp/site/sintyousyakensetu/sintyousya-aisyou-bosyuu.html"
         }
       ]
     },
@@ -9943,7 +9959,7 @@ GIKAI.coverage2026 = {
         },
         "policy": {
           "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "note": "統合小学校の設計・通学計画の予算措置、委員会での平面図・配置図承認、10月の全棟鉄骨造への変更と給食納品スペース追加の承認、解体等着手の報告を照合。"
         }
       },
       "sources": [
@@ -9966,6 +9982,18 @@ GIKAI.coverage2026 = {
         {
           "label": "定例会の議決結果表",
           "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.9kekka.pdf"
+        },
+        {
+          "label": "第４回小学校建設検討委員会・構造変更案",
+          "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000000/253/R8.4_kensetsukentou_kaigi_.pdf"
+        },
+        {
+          "label": "町の統合整備事業者の公表",
+          "url": "https://www.town.saitama-misato.lg.jp/0000000253.html"
+        },
+        {
+          "label": "第４回小学校建設検討委員会・概要録",
+          "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000000/253/R8.4_gaiyouroku.pdf"
         }
       ]
     },

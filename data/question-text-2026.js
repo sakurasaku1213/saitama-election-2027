@@ -8092,6 +8092,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "4afe1be58b4b96c6b324",
+      "place": "八潮市",
+      "season": "fall",
+      "date": "2026-09-16",
+      "title": "土屋茂樹議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/yashio/WebView/rd/speech.html?council_id=15&schedule_id=4&playlist_id=2&speaker_id=26&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "土屋茂樹"
+      ]
+    },
+    {
       "id": "327f1bba99a72ae57ae4",
       "place": "八潮市",
       "season": "fall",
@@ -32553,6 +32567,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "53cfc058f1026b18cab7",
+      "place": "志木市",
+      "season": "fall",
+      "date": "2026-09-15",
+      "title": "天田いづみ議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/shiki/WebView/rd/speech.html?council_id=48&schedule_id=3&playlist_id=1&speaker_id=14&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "天田いづみ"
+      ]
+    },
+    {
       "id": "c20d96b5ef7dc5596927",
       "place": "戸田市",
       "season": "spring",
@@ -34399,6 +34427,20 @@ GIKAI.questionText = {
       "url": "https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1873",
       "speakers": [
         "鈴木秀一"
+      ]
+    },
+    {
+      "id": "c3a2f382c2ec998ae81c",
+      "place": "新座市",
+      "season": "fall",
+      "date": "2026-09-11",
+      "title": "伊藤信太郎議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1880",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "伊藤信太郎"
       ]
     },
     {
@@ -37367,6 +37409,59 @@ GIKAI.questionText = {
       "note": "公式の質問一覧と質問要旨をPDF全9頁収録。議会が公表した事前の通告で、実際の発言と答弁は確認中です。"
     },
     {
+      "id": "31b056c4c1002684efce",
+      "place": "東秩父村",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "９月定例会の一般質問事項一覧（４人・７項目・予定日程）",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "url": "https://www.vill.higashichichibu.saitama.jp/uploaded/attachment/6385.pdf",
+      "note": "９月１日の予定順は午前に吉野文泰・百瀬浩子、午後に梅澤邦夫・渡辺絹代。４人の詳しい質問要旨９頁も別途収録。実際の発言と答弁は確認中。",
+      "speakers": [
+        "吉野文泰",
+        "百瀬浩子",
+        "梅澤邦夫",
+        "渡辺絹代"
+      ]
+    },
+    {
+      "id": "b93f222f811d36cb7878",
+      "place": "東秩父村",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "９月定例会の会期予定表（９月１日～11日）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.vill.higashichichibu.saitama.jp/uploaded/attachment/6383.pdf",
+      "note": "開会前の予定表。一般質問の予定は９月１日、文教厚生・総務産業の両常任委員会は７日、会期予定の末日は11日。会議録の確認は継続中。",
+      "speakers": []
+    },
+    {
+      "id": "ee5b3700c2f77581a655",
+      "place": "東秩父村",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "９月定例会の村長提出議案・議決結果一覧（16件）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.vill.higashichichibu.saitama.jp/uploaded/attachment/6425.pdf",
+      "note": "９月１日開会。９月８日の原案認定６件、９月11日の原案可決10件。原表に議員別の票欄はありません。",
+      "speakers": []
+    },
+    {
+      "id": "c1ee246f73c526ad0858",
+      "place": "東秩父村",
+      "season": "fall",
+      "date": "2026-11-02",
+      "title": "広報 東ちちぶ 第633号・９月定例会で認定した令和７年度決算の報告（12～13頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.vill.higashichichibu.saitama.jp/uploaded/attachment/6496.pdf#page=12",
+      "note": "村の広報11月号の12～13頁。一般会計、特別会計と公営企業会計の決算、健全化判断比率等。日付は公式掲載日。",
+      "speakers": []
+    },
+    {
       "id": "8e38f6c1463cacf7f162",
       "place": "松伏町",
       "season": "spring",
@@ -38336,6 +38431,18 @@ GIKAI.questionText = {
         "須山陽一朗",
         "渡辺まや"
       ]
+    },
+    {
+      "id": "4403ac13a661094d5331",
+      "place": "桶川市",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "本会議　議案質疑（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/okegawa/WebView/rd/speech.html?council_id=76&schedule_id=2&playlist_id=1&speaker_id=0&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 通し録画のため発言者は元の映像でご確認ください。 自動検査の確認候補時間帯を含みます。",
+      "speakers": []
     },
     {
       "id": "4c2e96a18866ba5f16fd",
@@ -40628,6 +40735,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "967981442826a36ca959",
+      "place": "狭山市",
+      "season": "fall",
+      "date": "2026-09-16",
+      "title": "関根弘樹議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://sayama.gijiroku.com/g07_Video_View.asp?SrchID=1557",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "関根弘樹"
+      ]
+    },
+    {
       "id": "8a3a8f5c9ee7cf911e74",
       "place": "狭山市",
       "season": "fall",
@@ -42042,6 +42163,32 @@ GIKAI.questionText = {
         "田端恵美子"
       ],
       "note": "公式の質問予定項目の一覧をPDF全1頁収録。議会が公表した事前の通告で、実際の発言と答弁は確認中です。"
+    },
+    {
+      "id": "bfbfb20fd14f24db5530",
+      "place": "美里町",
+      "season": "fall",
+      "date": "2026-10-26",
+      "title": "第４回小学校建設検討委員会の会議資料（構造変更案・工程表・図面）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000000/253/R8.4_kensetsukentou_kaigi_.pdf",
+      "note": "町が公開した会議次第と資料１～４。OCRの工程表・図面の配置は原PDFを参照。委員会での質疑と承認は別収録の概要録で確認できます。",
+      "speakers": []
+    },
+    {
+      "id": "af19f26b9edcba2e429a",
+      "place": "美里町",
+      "season": "fall",
+      "date": "2026-10-26",
+      "title": "第４回小学校建設検討委員会の概要録（構造・給食納品・解体等）",
+      "kind": "建設検討委員会の概要録（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000000/253/R8.4_gaiyouroku.pdf",
+      "note": "町の建設検討委員会の概要録。委員長は１頁の出席欄に記載。個別の質疑は役割名で掲載されています。９月定例会の一般質問・答弁は別資料です。",
+      "speakers": [
+        "櫻沢保"
+      ]
     },
     {
       "id": "44ce5d0aaaadc130d5c1",
@@ -46808,6 +46955,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "6ff8b1b10cfbb982cb75",
+      "place": "鳩山町",
+      "season": "fall",
+      "date": "2026-09-03",
+      "title": "中山明美議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/hatoyama/WebView/rd/speech.html?council_id=63&schedule_id=3&playlist_id=4&speaker_id=10&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "中山明美"
+      ]
+    },
+    {
       "id": "4733d8e3ccfacc7d1812",
       "place": "鳩山町",
       "season": "fall",
@@ -48639,7 +48800,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://sayama.gijiroku.com/g07_Video_Search.asp",
-        "note": "16人の一般質問44問答とその他９見出し、議案質疑13組、決算討論２人、公式通告30大項目。公式録画のうち機械文字起こし5/16件。委員長報告４資料と教育委員会会議録の関連部分も収録。正式本会議録は確認中。"
+        "note": "16人の一般質問44問答とその他９見出し、議案質疑13組、決算討論２人、公式通告30大項目。委員長報告４資料と教育委員会会議録の関連部分も収録。正式本会議録は確認中。 公式録画の機械文字起こし一般質問6本を収録。"
       }
     },
     {
@@ -48936,7 +49097,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/shiki/WebView/rd/council.html?year=2026&council_id=48",
-        "note": "第214号の紙面３～８頁（分割PDF２～７頁）の一般質問12人の掲載問答と、その他の見出し26件を照合。発言日は公式録画目録と照合した。 総務厚生常任委員会の公式会議録２資料を収録。正式な本会議録は確認中。"
+        "note": "第214号の紙面３～８頁（分割PDF２～７頁）の一般質問12人の掲載問答と、その他の見出し26件を照合。発言日は公式録画目録と照合した。 総務厚生常任委員会の公式会議録２資料を収録。正式な本会議録は確認中。 公式録画の機械文字起こし一般質問1本を収録。"
       }
     },
     {
@@ -48990,7 +49151,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://niiza-city.stream.jfit.co.jp/?tpl=gikai_days_list&gikai_id=96",
-        "note": "新座の公式録画から機械文字起こし10人分を参考収録。議会だより第238号の質問・答弁要旨はPDF７頁を収録。原音照合と正式会議録は確認中。"
+        "note": "議会だより第238号の質問・答弁要旨はPDF７頁を収録。原音照合と正式会議録は確認中。 公式録画の機械文字起こし一般質問11本を収録。"
       }
     },
     {
@@ -49016,7 +49177,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "第224号の一般質問13人・47問答と、決算審査・条例・補正予算等の補足40件を原紙面と照合。公式通告14人・29頁、一般質問13本と議案質疑１本の公式録画を照合。正式会議録は確認中。",
+        "note": "第224号の一般質問13人・47問答と、決算審査・条例・補正予算等の補足40件を原紙面と照合。公式通告14人・29頁、一般質問13本と議案質疑１本の公式録画を照合。正式会議録は確認中。 公式録画の機械文字起こし議案質疑1本を収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/okegawa/SpMinuteBrowse.html?tenant_id=184&view_years=2026"
       }
     },
@@ -49097,7 +49258,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "第127号PDF４～６頁の17人・17主題の質問と答弁、決算討論・委員会報告などを原紙面と照合。公式通告全２頁は17人・44項目。９月15日６人・16日６人・17日５人を公式録画・通告と照合。正式会議録は11月25日の年別目次で未掲載。 公式録画の機械文字起こし一般質問7本を収録。",
+        "note": "第127号PDF４～６頁の17人・17主題の質問と答弁、決算討論・委員会報告などを原紙面と照合。公式通告全２頁は17人・44項目。９月15日６人・16日６人・17日５人を公式録画・通告と照合。正式会議録は11月25日の年別目次で未掲載。 公式録画の機械文字起こし一般質問8本を収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/yashio/SpMinuteBrowse.html?tenant_id=233&view_years=2026"
       }
     },
@@ -49637,7 +49798,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/hatoyama/WebView/rd/council.html?year=2026&council_id=63",
-        "note": "第174号の一般質問９人34問答、決算審議10問答、所管事務調査３問答、討論と視察等。公式通告９人10頁、公式音声は９月２日４人、３日５人。正式会議録は確認中。 公式録画の機械文字起こし一般質問7本を収録。"
+        "note": "第174号の一般質問９人34問答、決算審議10問答、所管事務調査３問答、討論と視察等。公式通告９人10頁、公式音声は９月２日４人、３日５人。正式会議録は確認中。 公式録画の機械文字起こし一般質問8本を収録。"
       }
     },
     {
@@ -49793,7 +49954,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "notFound",
-        "note": "2026年の公式会議録の年別一覧で秋の定例会本文を確認できませんでした。公式の質問一覧と質問要旨は収録。"
+        "note": "公式会議録の年別一覧で秋の本会議録は確認できず、実際の質問・答弁は確認中。事前の質問一覧・要旨、会期予定表、村長提出議案の議決結果と村広報の決算報告を収録。"
       }
     },
     {

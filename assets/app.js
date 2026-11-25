@@ -509,8 +509,10 @@
   function archivedMinutes(place, day, archiveId, blocks) {
     if (!place || !get("question-text-bodies")) return "";
     const archive = D.questionText.documents.find((doc) =>
-      archiveId ? doc.id === archiveId : doc.place === place && doc.date === day && doc.scope !== "notice");
+      archiveId ? doc.id === archiveId : doc.place === place && doc.date === day &&
+        doc.scope !== "notice" && doc.scope !== "supporting");
     const label = archive?.scope === "summary" ? "収録した紙面要旨" :
+      archive?.scope === "supporting" ? "収録した関連資料" :
       archive?.scope === "recording" && archive.kind === "公式録画の公開自動字幕" ? "収録した公開自動字幕" : "収録本文";
     return archive ? "　" + jump("texts", {
       place, season: archive.season, ...(archiveId ? { doc: archive.id, blocks: blocks?.join(",") } : { q: day }),
@@ -1022,7 +1024,8 @@
   function questionTextCard(entry, open = false) {
     const doc = `<div class="meta"><span>${esc(entry.place)}議会</span>${dateTag(entry.date)}${tag(entry.kind)}</div><h3>${esc(entry.title)}</h3>`;
     const speakerLabel = entry.scope === "recording" ? "録画一覧の質問者" :
-      entry.scope === "notice" ? "通告に掲載された質問者" : "本文に名前がある議員";
+      entry.scope === "notice" ? "通告に掲載された質問者" :
+      entry.scope === "supporting" ? "資料で発言を確認できる議員" : "本文に名前がある議員";
     const source = `<div class="links">${link(entry.url, "公式資料の該当箇所")}</div>
       ${entry.note ? `<p class="small">${esc(entry.note)}</p>` : ""}
       ${entry.speakers?.length ? `<p class="small">${speakerLabel}　${entry.speakers.map(esc).join("、")}</p>` : ""}`;
@@ -1077,9 +1080,11 @@
       const scope = D.questionText.documents.find((doc) => doc.id === card.dataset.questionId)?.scope;
       const paper = scope === "summary";
       const recording = scope === "recording";
+      const supporting = scope === "supporting";
       const full = document.createElement("details");
       const summary = document.createElement("summary");
-      summary.textContent = paper ? "紙面要旨の全体を読む" : recording ? "字幕・文字起こしの全体を読む" : "会議録の全本文を読む";
+      summary.textContent = paper ? "紙面要旨の全体を読む" : recording ? "字幕・文字起こしの全体を読む" :
+        supporting ? "関連資料の収録範囲を読む" : "会議録の全本文を読む";
       full.append(summary);
       for (const position of positions) {
         const block = stored[position - 1];

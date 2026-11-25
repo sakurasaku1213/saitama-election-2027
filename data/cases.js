@@ -710,6 +710,12 @@ GIKAI.cases.push(
         url: "https://www.vill.higashichichibu.saitama.jp/site/sintyousyakensetu/sintyousya-kouji-shintyoku.html",
         sourceTitle: "東秩父村 新庁舎建設工事の進捗状況・令和８年10月",
       },
+      {
+        date: "2026-10-05", stage: "総合庁舎の愛称募集を開始し、2027年９月の供用予定を示す", actor: "東秩父村",
+        detail: "村は役場、コミュニティセンター、図書館、商工会、社会福祉協議会などが入る複合施設の愛称を10月５日から11月13日まで募集した。案内では2027年９月に供用を開始すると記載。愛称の決定と実際の供用は未確認。",
+        url: "https://www.vill.higashichichibu.saitama.jp/site/sintyousyakensetu/sintyousya-aisyou-bosyuu.html",
+        sourceTitle: "東秩父村 総合庁舎の愛称募集",
+      },
     ],
     note: "発注方法と契約の質疑・議決、庁舎本体の工事進捗を確認しました。９月分は運用に関する事前の通告を収録し、実際の発言と答弁は確認中です。",
   },
@@ -1425,9 +1431,63 @@ GIKAI.cases.push(
         "detail": "町は前２回の意見や各学校への聞き取りを図面に反映し、おおむね基本設計を終えて実施設計へ進む予定と説明。委員会は平面図と配置図を承認した。バスについては台数、経路、直営・委託、予算を検討する方針を事務局が示した。",
         "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000000/253/R8.3_gaiyouroku.pdf#page=2",
         "sourceTitle": "第３回建設検討委員会概要録２～４頁"
+      },
+      {
+        "date": "2026-10-26",
+        "actor": "美里町",
+        "stage": "北棟・南棟を鉄骨造に変える案を会議資料に提示",
+        "detail": "資料では、中央棟を鉄骨、北棟と南棟を木造とする計画について、指定確認検査機関が安全基準の解釈に慎重な見解を示し、建築確認の取得が困難になると説明。３案のうち全棟を鉄骨造にし、内装にできる限り木材を使う案を提示した。",
+        "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000000/253/R8.4_kensetsukentou_kaigi_.pdf#page=2",
+        "sourceTitle": "第４回建設検討委員会の会議資料 PDF２頁",
+        "archiveId": "bfbfb20fd14f24db5530",
+        "blocks": [2]
+      },
+      {
+        "date": "2026-10-26",
+        "actor": "櫻沢保、美里町立小学校建設検討委員会",
+        "stage": "３棟を鉄骨造とする変更を委員会が承認",
+        "detail": "委員は工期・費用、構造案の比較、町産材の活用を質した。事務局は工事費を約１億2,000万円の増額と見込み、2029年２月末の完了予定に遅れはないと説明し、町産材を内装に使えるよう検討すると答えた。委員会は変更案を承認した。",
+        "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000000/253/R8.4_gaiyouroku.pdf#page=2",
+        "sourceTitle": "第４回建設検討委員会概要録１～３頁・議事（１）",
+        "archiveId": "af19f26b9edcba2e429a",
+        "blocks": [1, 2, 3],
+        "memberActions": [
+          { "name": "櫻沢保", "blocks": [1, 2, 3], "detail": "委員長として構造変更案の説明と質疑を進行し、質疑終了後に承認を確認した。" }
+        ]
+      },
+      {
+        "date": "2026-10-26",
+        "actor": "櫻沢保、美里町立小学校建設検討委員会",
+        "stage": "給食の牛乳・パン専用の納品場所追加を承認",
+        "detail": "委員は給食の搬送距離、納品区画の衛生と搬入車と児童生徒の動線などを質した。事務局は牛乳が登校前に納品され、パン搬入時もスクールバスのロータリーと動線が分かれると説明した。委員会は納品場所を加える案を承認した。",
+        "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000000/253/R8.4_gaiyouroku.pdf#page=3",
+        "sourceTitle": "第４回建設検討委員会概要録３～４頁・議事（２）",
+        "archiveId": "af19f26b9edcba2e429a",
+        "blocks": [3, 4],
+        "memberActions": [
+          { "name": "櫻沢保", "blocks": [1, 3, 4], "detail": "委員長として給食納品場所追加案の説明と質疑を進行し、質疑終了後に承認を確認した。" }
+        ]
+      },
+      {
+        "date": "2026-10-26",
+        "actor": "美里町",
+        "stage": "既存プール等の解体・文化財の発掘に着手と報告",
+        "detail": "事務局は10月上旬から中学校プール等の解体と埋蔵文化財の発掘調査に着手し、仮囲いで工事区域を仕切り、生徒の動線を分ける方針を示した。",
+        "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000000/253/R8.4_gaiyouroku.pdf#page=4",
+        "sourceTitle": "第４回建設検討委員会概要録４頁・議事（３）",
+        "archiveId": "af19f26b9edcba2e429a",
+        "blocks": [4]
+      },
+      {
+        "date": "2026-11-25",
+        "actor": "美里町",
+        "stage": "統合整備事業者を町の事業ページに掲載",
+        "detail": "町は竹並・亦野・横尾・八木特定建設工事共同企業体を事業者として公表した。日付は公表を確認したページの更新日。施工契約の締結日と新校本体の着工は確認中。",
+        "url": "https://www.town.saitama-misato.lg.jp/0000000253.html",
+        "sourceTitle": "美里町立小学校統合整備事業者の公表"
       }
     ],
-    "note": "建設検討委員会には町議会議員、教育委員、区長、PTA代表らが参加する。概要録は多くの発言を「委員」と記載しており、本人を確認できる役割を掲載した。施工契約・着工とスクールバスの運行計画決定は確認中。"
+    "note": "建設検討委員会には町議会議員、教育委員、区長、PTA代表らが参加する。概要録は多くの発言を「委員」と記載しており、本人を確認できる役割を掲載した。委員会は構造変更案と給食納品場所の追加を承認した。新校本体の施工契約・着工、スクールバスの運行計画決定は確認中。"
   },
   {
     "place": "狭山市",
