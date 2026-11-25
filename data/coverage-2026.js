@@ -525,7 +525,7 @@ GIKAI.coverage2026 = {
       "sources": [
         {
           "label": "対象会期の公式案内",
-          "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/nittei0803.html"
+          "url": "https://www.city.kumagaya.lg.jp/shisei/shigikai/1006743/1006744/1006745/1007377.html"
         },
         {
           "label": "3月定例会・3月9日質問の会議録",
@@ -537,15 +537,15 @@ GIKAI.coverage2026 = {
         },
         {
           "label": "会期資料　令和8年第1回定例会",
-          "url": "https://www.city.kumagaya.lg.jp/shigikai/gikaidayori/20260501.html"
+          "url": "https://www.city.kumagaya.lg.jp/shisei/shigikai/1006977/1006955/1007188.html"
         },
         {
           "label": "議案・議決資料　審議結果",
-          "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.html"
+          "url": "https://www.city.kumagaya.lg.jp/shisei/shigikai/1006743/1006744/1006745/1007182.html"
         },
         {
           "label": "令和8年第1回（3月）定例会・議員提出議案",
-          "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf"
+          "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf"
         }
       ]
     },
@@ -585,7 +585,7 @@ GIKAI.coverage2026 = {
       "sources": [
         {
           "label": "対象会期の公式案内",
-          "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/nittei0806.html"
+          "url": "https://www.city.kumagaya.lg.jp/shisei/shigikai/1006743/1006744/1007525/1007181.html"
         },
         {
           "label": "6月定例会・6月18日質問の会議録",
@@ -597,11 +597,11 @@ GIKAI.coverage2026 = {
         },
         {
           "label": "会期資料　令和8年第2回定例会",
-          "url": "https://www.city.kumagaya.lg.jp/shigikai/gikaidayori/20260801.html"
+          "url": "https://www.city.kumagaya.lg.jp/shisei/shigikai/1006977/1006955/1007791.html"
         },
         {
           "label": "議案・議決資料　審議結果",
-          "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.html"
+          "url": "https://www.city.kumagaya.lg.jp/shisei/shigikai/1006743/1006744/1007525/1007962.html"
         },
         {
           "label": "令和8年6月 総務文教常任委員会（付託議案の審査）",
@@ -635,7 +635,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "notFound",
-          "note": "確認日の公式会議録一覧に９月定例会を確認できず。録画目次等を掲載。"
+          "note": "議会だよりの一般質問19人の問答と４常任委員会の質疑を収録。公式録画目録は９月10日に７人、11・14日に各６人。一般質問の機械文字起こし3本を収録。正式会議録と原音照合は確認中。"
         },
         "decisions": {
           "state": "verified",
@@ -653,7 +653,7 @@ GIKAI.coverage2026 = {
       "sources": [
         {
           "label": "対象会期の公式案内",
-          "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinnginittei.html"
+          "url": "https://www.city.kumagaya.lg.jp/shisei/shigikai/1006743/1006744/1007996/1007790.html"
         },
         {
           "label": "令和8年市長提出議案",
@@ -661,15 +661,19 @@ GIKAI.coverage2026 = {
         },
         {
           "label": "会期資料　令和8年第3回定例会",
-          "url": "https://www.city.kumagaya.lg.jp/shigikai/gikaidayori/20261101.html"
+          "url": "https://www.city.kumagaya.lg.jp/shisei/shigikai/1006977/1006955/1009174.html"
         },
         {
           "label": "議案・議決資料　審議結果",
-          "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.html"
+          "url": "https://www.city.kumagaya.lg.jp/shisei/shigikai/1006743/1006744/1007996/1007785.html"
         },
         {
           "label": "令和8年第3回（9月）定例会・議員提出議案",
-          "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf"
+          "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf"
+        },
+        {
+          "label": "９月の公式録画・一般質問３日19人",
+          "url": "https://kumagaya-city.stream.jfit.co.jp/?gikai_id=146&tpl=gikai_days_list"
         }
       ]
     },
@@ -10467,7 +10471,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "identified",
-          "note": "公式録画一覧で一般質問12人を確認し、機械文字起こし７本を収録。議会だよりの質問・答弁要旨も収録。正式会議録は確認中。"
+          "note": "公式録画一覧で一般質問12人を確認。議会だよりの質問・答弁要旨も収録。正式会議録は確認中。 公式録画の機械文字起こし一般質問9本を収録。"
         },
         "decisions": {
           "state": "verified",
@@ -72287,8 +72291,8 @@ GIKAI.coverage2026 = {
       "number": "議案第1号",
       "title": "専決処分の承認を求めることについて（令和７年度熊谷市一般会計補正予算（第７号））",
       "result": "承認",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0225.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0225.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0225.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0225.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第1号",
       "votes": {
@@ -72323,7 +72327,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0225.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0225.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成28人、反対0人。"
     },
@@ -72335,8 +72339,8 @@ GIKAI.coverage2026 = {
       "number": "議案第2号",
       "title": "令和８年度熊谷市一般会計予算",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第2号",
       "votes": {
@@ -72371,7 +72375,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成26人、反対3人。"
     },
@@ -72383,8 +72387,8 @@ GIKAI.coverage2026 = {
       "number": "議案第3号",
       "title": "令和８年度熊谷市国民健康保険特別会計予算",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第3号",
       "votes": {
@@ -72419,7 +72423,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成26人、反対3人。"
     },
@@ -72431,8 +72435,8 @@ GIKAI.coverage2026 = {
       "number": "議案第4号",
       "title": "令和８年度熊谷市公共用地先行取得特別会計予算",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第4号",
       "votes": {
@@ -72467,7 +72471,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成27人、反対2人。"
     },
@@ -72479,8 +72483,8 @@ GIKAI.coverage2026 = {
       "number": "議案第5号",
       "title": "令和８年度熊谷市熊谷都市計画事業土地区画整理事業特別会計予算",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第5号",
       "votes": {
@@ -72515,7 +72519,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -72527,8 +72531,8 @@ GIKAI.coverage2026 = {
       "number": "議案第6号",
       "title": "令和８年度熊谷市後期高齢者医療特別会計予算",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第6号",
       "votes": {
@@ -72563,7 +72567,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成26人、反対3人。"
     },
@@ -72575,8 +72579,8 @@ GIKAI.coverage2026 = {
       "number": "議案第7号",
       "title": "令和８年度熊谷市水道事業会計予算",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第7号",
       "votes": {
@@ -72611,7 +72615,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -72623,8 +72627,8 @@ GIKAI.coverage2026 = {
       "number": "議案第8号",
       "title": "令和８年度熊谷市下水道事業会計予算",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第8号",
       "votes": {
@@ -72659,7 +72663,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -72671,8 +72675,8 @@ GIKAI.coverage2026 = {
       "number": "議案第9号",
       "title": "令和７年度熊谷市一般会計補正予算（第８号）",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第9号",
       "votes": {
@@ -72707,7 +72711,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -72719,8 +72723,8 @@ GIKAI.coverage2026 = {
       "number": "議案第10号",
       "title": "令和７年度熊谷市国民健康保険特別会計補正予算（第３号）",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第10号",
       "votes": {
@@ -72755,7 +72759,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -72767,8 +72771,8 @@ GIKAI.coverage2026 = {
       "number": "議案第11号",
       "title": "令和７年度熊谷市熊谷都市計画事業土地区画整理事業特別会計補正予算（第１号）",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第11号",
       "votes": {
@@ -72803,7 +72807,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -72815,8 +72819,8 @@ GIKAI.coverage2026 = {
       "number": "議案第12号",
       "title": "令和７年度熊谷市後期高齢者医療特別会計補正予算（第３号）",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第12号",
       "votes": {
@@ -72851,7 +72855,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -72863,8 +72867,8 @@ GIKAI.coverage2026 = {
       "number": "議案第13号",
       "title": "令和７年度熊谷市水道事業会計補正予算（第２号）",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第13号",
       "votes": {
@@ -72899,7 +72903,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -72911,8 +72915,8 @@ GIKAI.coverage2026 = {
       "number": "議案第14号",
       "title": "熊谷市特別職の職員で非常勤のものの報酬及び費用弁償に関する条例等の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第14号",
       "votes": {
@@ -72947,7 +72951,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -72959,8 +72963,8 @@ GIKAI.coverage2026 = {
       "number": "議案第15号",
       "title": "熊谷市一般職職員の給与に関する条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第15号",
       "votes": {
@@ -72995,7 +72999,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -73007,8 +73011,8 @@ GIKAI.coverage2026 = {
       "number": "議案第16号",
       "title": "熊谷市手数料徴収条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第16号",
       "votes": {
@@ -73043,7 +73047,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -73055,8 +73059,8 @@ GIKAI.coverage2026 = {
       "number": "議案第17号",
       "title": "熊谷市公民館条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第17号",
       "votes": {
@@ -73091,7 +73095,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -73103,8 +73107,8 @@ GIKAI.coverage2026 = {
       "number": "議案第18号",
       "title": "熊谷市星渓園条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第18号",
       "votes": {
@@ -73139,7 +73143,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -73151,8 +73155,8 @@ GIKAI.coverage2026 = {
       "number": "議案第19号",
       "title": "熊谷市児童福祉審議会条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第19号",
       "votes": {
@@ -73187,7 +73191,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -73199,8 +73203,8 @@ GIKAI.coverage2026 = {
       "number": "議案第20号",
       "title": "熊谷市こども医療費の助成に関する条例等の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第20号",
       "votes": {
@@ -73235,7 +73239,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -73247,8 +73251,8 @@ GIKAI.coverage2026 = {
       "number": "議案第21号",
       "title": "熊谷市建築物駐車施設附置条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第21号",
       "votes": {
@@ -73283,7 +73287,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -73295,8 +73299,8 @@ GIKAI.coverage2026 = {
       "number": "議案第22号",
       "title": "熊谷市企業職員の給与の種類及び基準に関する条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第22号",
       "votes": {
@@ -73331,7 +73335,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -73343,8 +73347,8 @@ GIKAI.coverage2026 = {
       "number": "議案第23号",
       "title": "熊谷市消防団員等公務災害補償条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第23号",
       "votes": {
@@ -73379,7 +73383,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -73391,8 +73395,8 @@ GIKAI.coverage2026 = {
       "number": "議案第24号",
       "title": "熊谷市立児童クラブ条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第24号",
       "votes": {
@@ -73427,7 +73431,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -73439,8 +73443,8 @@ GIKAI.coverage2026 = {
       "number": "議案第25号",
       "title": "熊谷市国民健康保険税条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第25号",
       "votes": {
@@ -73475,7 +73479,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成26人、反対3人。"
     },
@@ -73487,8 +73491,8 @@ GIKAI.coverage2026 = {
       "number": "議案第26号",
       "title": "熊谷市火災予防条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第26号",
       "votes": {
@@ -73523,7 +73527,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -73535,8 +73539,8 @@ GIKAI.coverage2026 = {
       "number": "議案第27号",
       "title": "熊谷市特定乳児等通園支援事業の運営に関する基準を定める条例",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第27号",
       "votes": {
@@ -73571,7 +73575,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -73583,8 +73587,8 @@ GIKAI.coverage2026 = {
       "number": "議案第28号",
       "title": "市道路線の認定について",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第28号",
       "votes": {
@@ -73619,7 +73623,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -73631,8 +73635,8 @@ GIKAI.coverage2026 = {
       "number": "議案第29号",
       "title": "市道路線の廃止について",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第29号",
       "votes": {
@@ -73667,7 +73671,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -73679,8 +73683,8 @@ GIKAI.coverage2026 = {
       "number": "議案第30号",
       "title": "事業契約の締結についての変更について（（仮称）道の駅「くまがや」整備事業（その１））",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第30号",
       "votes": {
@@ -73715,7 +73719,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -73727,8 +73731,8 @@ GIKAI.coverage2026 = {
       "number": "議案第31号",
       "title": "事業契約の締結についての変更について（（仮称）道の駅「くまがや」整備事業（その２））",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第31号",
       "votes": {
@@ -73763,7 +73767,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -73775,8 +73779,8 @@ GIKAI.coverage2026 = {
       "number": "委員会提出議案第1号",
       "title": "熊谷市議会委員会条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・委員会提出議案第1号",
       "votes": {
@@ -73811,7 +73815,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -73823,8 +73827,8 @@ GIKAI.coverage2026 = {
       "number": "議案第32号",
       "title": "熊谷市副市長の選任について（増田和昭氏）",
       "result": "同意",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第32号",
       "votes": {
@@ -73859,7 +73863,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -73871,8 +73875,8 @@ GIKAI.coverage2026 = {
       "number": "議案第33号",
       "title": "熊谷市副市長の選任について（吉澤隆氏）",
       "result": "同意",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第33号",
       "votes": {
@@ -73907,7 +73911,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -73919,8 +73923,8 @@ GIKAI.coverage2026 = {
       "number": "議案第34号",
       "title": "人権擁護委員候補者の推薦について（關根真由美氏）",
       "result": "同意",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第34号",
       "votes": {
@@ -73955,7 +73959,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -73967,8 +73971,8 @@ GIKAI.coverage2026 = {
       "number": "議案第35号",
       "title": "専決処分の承認を求めることについて（令和７年度熊谷市一般会計補正予算（第９号））",
       "result": "承認",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/singikekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/singikekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/singikekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/singikekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第35号",
       "votes": {
@@ -74003,7 +74007,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/singikekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/singikekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -74015,8 +74019,8 @@ GIKAI.coverage2026 = {
       "number": "議案第36号",
       "title": "専決処分の承認を求めることについて（令和７年度熊谷市熊谷都市計画事業土地区画整理事業特別会計補正予算（第２号））",
       "result": "承認",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/singikekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/singikekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/singikekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/singikekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第36号",
       "votes": {
@@ -74051,7 +74055,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/singikekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/singikekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -74063,8 +74067,8 @@ GIKAI.coverage2026 = {
       "number": "議案第37号",
       "title": "専決処分の承認を求めることについて（熊谷市税条例の一部を改正する条例）",
       "result": "承認",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/singikekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/singikekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/singikekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/singikekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第37号",
       "votes": {
@@ -74099,7 +74103,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/singikekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/singikekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -74111,8 +74115,8 @@ GIKAI.coverage2026 = {
       "number": "議案第38号",
       "title": "専決処分の承認を求めることについて（熊谷市都市計画税条例の一部を改正する条例）",
       "result": "承認",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/singikekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/singikekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/singikekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/singikekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第38号",
       "votes": {
@@ -74147,7 +74151,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/singikekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/singikekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -74159,8 +74163,8 @@ GIKAI.coverage2026 = {
       "number": "議案第39号",
       "title": "専決処分の承認を求めることについて（熊谷市国民健康保険税条例の一部を改正する条例の一部を改正する条例）",
       "result": "承認",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/singikekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/singikekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/singikekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/singikekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第39号",
       "votes": {
@@ -74195,7 +74199,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/singikekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/singikekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -74207,8 +74211,8 @@ GIKAI.coverage2026 = {
       "number": "議案第55号",
       "title": "熊谷市監査委員の選任について（沼上政幸氏）",
       "result": "同意",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/singikekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/singikekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/singikekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/singikekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第55号",
       "votes": {
@@ -74243,7 +74247,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/singikekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/singikekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成27人、反対0人。沼上政幸議員は地方自治法第117条の規定による退席。"
     },
@@ -74255,8 +74259,8 @@ GIKAI.coverage2026 = {
       "number": "議案第40号",
       "title": "令和８年度熊谷市一般会計補正予算（第１号）",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第40号",
       "votes": {
@@ -74291,7 +74295,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -74303,8 +74307,8 @@ GIKAI.coverage2026 = {
       "number": "議案第41号",
       "title": "熊谷市印鑑条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第41号",
       "votes": {
@@ -74339,7 +74343,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -74351,8 +74355,8 @@ GIKAI.coverage2026 = {
       "number": "議案第42号",
       "title": "熊谷市税条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第42号",
       "votes": {
@@ -74387,7 +74391,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -74399,8 +74403,8 @@ GIKAI.coverage2026 = {
       "number": "議案第43号",
       "title": "熊谷市都市計画税条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第43号",
       "votes": {
@@ -74435,7 +74439,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -74447,8 +74451,8 @@ GIKAI.coverage2026 = {
       "number": "議案第44号",
       "title": "熊谷市立体育施設条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第44号",
       "votes": {
@@ -74483,7 +74487,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成24人、反対5人。"
     },
@@ -74495,8 +74499,8 @@ GIKAI.coverage2026 = {
       "number": "議案第45号",
       "title": "熊谷市立地域コミュニティセンター条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第45号",
       "votes": {
@@ -74531,7 +74535,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -74543,8 +74547,8 @@ GIKAI.coverage2026 = {
       "number": "議案第46号",
       "title": "工事請負契約の締結について（熊谷市立妻沼図書館改修建築工事）",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第46号",
       "votes": {
@@ -74579,7 +74583,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -74591,8 +74595,8 @@ GIKAI.coverage2026 = {
       "number": "議案第47号",
       "title": "工事請負契約の締結について（熊谷市立熊谷西小学校特別教室棟改修建築工事）",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第47号",
       "votes": {
@@ -74627,7 +74631,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -74639,8 +74643,8 @@ GIKAI.coverage2026 = {
       "number": "議案第48号",
       "title": "工事請負契約の締結について（熊谷市立佐谷田小学校教室棟改修建築工事（２期））",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第48号",
       "votes": {
@@ -74675,7 +74679,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -74687,8 +74691,8 @@ GIKAI.coverage2026 = {
       "number": "議案第49号",
       "title": "財産の取得について（籠原南三丁目地内公共施設用地）",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第49号",
       "votes": {
@@ -74723,7 +74727,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成27人、反対2人。"
     },
@@ -74735,8 +74739,8 @@ GIKAI.coverage2026 = {
       "number": "議案第50号",
       "title": "財産の取得について（災害対応特殊救急自動車）",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第50号",
       "votes": {
@@ -74771,7 +74775,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -74783,8 +74787,8 @@ GIKAI.coverage2026 = {
       "number": "議案第51号",
       "title": "財産の取得について（高度救命処置用資機材等）",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第51号",
       "votes": {
@@ -74819,7 +74823,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -74831,8 +74835,8 @@ GIKAI.coverage2026 = {
       "number": "議案第52号",
       "title": "損害賠償の額の決定及び和解について",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第52号",
       "votes": {
@@ -74867,7 +74871,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -74879,8 +74883,8 @@ GIKAI.coverage2026 = {
       "number": "議案第53号",
       "title": "市道路線の認定について",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第53号",
       "votes": {
@@ -74915,7 +74919,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -74927,8 +74931,8 @@ GIKAI.coverage2026 = {
       "number": "議案第54号",
       "title": "市道路線の廃止について",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第54号",
       "votes": {
@@ -74963,7 +74967,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -74975,8 +74979,8 @@ GIKAI.coverage2026 = {
       "number": "議案第56号",
       "title": "財産の取得について（水槽付消防ポンプ自動車（水Ⅰ－Ｂ型））",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第56号",
       "votes": {
@@ -75011,7 +75015,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -75023,8 +75027,8 @@ GIKAI.coverage2026 = {
       "number": "議案第57号",
       "title": "財産の取得について（災害対応特殊消防ポンプ自動車（ＣＤ－Ⅰ型））",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第57号",
       "votes": {
@@ -75059,7 +75063,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -75071,8 +75075,8 @@ GIKAI.coverage2026 = {
       "number": "議案第58号",
       "title": "人権擁護委員候補者の推薦について（坂上正明氏）",
       "result": "同意",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第58号",
       "votes": {
@@ -75107,7 +75111,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成29人、反対0人。"
     },
@@ -75119,8 +75123,8 @@ GIKAI.coverage2026 = {
       "number": "議案第65号",
       "title": "令和８年度熊谷市一般会計補正予算（第２号）",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第65号",
       "votes": {
@@ -75155,7 +75159,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成28人、反対0人。"
     },
@@ -75167,8 +75171,8 @@ GIKAI.coverage2026 = {
       "number": "議案第66号",
       "title": "令和８年度熊谷市熊谷都市計画事業土地区画整理事業特別会計補正予算（第１号）",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第66号",
       "votes": {
@@ -75203,7 +75207,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成28人、反対0人。"
     },
@@ -75215,8 +75219,8 @@ GIKAI.coverage2026 = {
       "number": "議案第67号",
       "title": "熊谷市税条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第67号",
       "votes": {
@@ -75251,7 +75255,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成28人、反対0人。"
     },
@@ -75263,8 +75267,8 @@ GIKAI.coverage2026 = {
       "number": "議案第68号",
       "title": "熊谷市手数料徴収条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第68号",
       "votes": {
@@ -75299,7 +75303,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成28人、反対0人。"
     },
@@ -75311,8 +75315,8 @@ GIKAI.coverage2026 = {
       "number": "議案第69号",
       "title": "熊谷市公民館条例及び熊谷市公民館使用条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第69号",
       "votes": {
@@ -75347,7 +75351,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成28人、反対0人。"
     },
@@ -75359,8 +75363,8 @@ GIKAI.coverage2026 = {
       "number": "議案第70号",
       "title": "熊谷市立コミュニティ施設条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第70号",
       "votes": {
@@ -75395,7 +75399,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成28人、反対0人。"
     },
@@ -75407,8 +75411,8 @@ GIKAI.coverage2026 = {
       "number": "議案第71号",
       "title": "熊谷市立保育所条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第71号",
       "votes": {
@@ -75443,7 +75447,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成28人、反対0人。"
     },
@@ -75455,8 +75459,8 @@ GIKAI.coverage2026 = {
       "number": "議案第72号",
       "title": "熊谷市立老人憩の家条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第72号",
       "votes": {
@@ -75491,7 +75495,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成24人、反対4人。"
     },
@@ -75503,8 +75507,8 @@ GIKAI.coverage2026 = {
       "number": "議案第73号",
       "title": "熊谷市水道事業給水条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第73号",
       "votes": {
@@ -75539,7 +75543,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成25人、反対3人。"
     },
@@ -75551,8 +75555,8 @@ GIKAI.coverage2026 = {
       "number": "議案第74号",
       "title": "熊谷市消防団員等公務災害補償条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第74号",
       "votes": {
@@ -75587,7 +75591,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成28人、反対0人。"
     },
@@ -75599,8 +75603,8 @@ GIKAI.coverage2026 = {
       "number": "議案第75号",
       "title": "熊谷市立児童クラブ条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第75号",
       "votes": {
@@ -75635,7 +75639,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成28人、反対0人。"
     },
@@ -75647,8 +75651,8 @@ GIKAI.coverage2026 = {
       "number": "議案第76号",
       "title": "熊谷市家庭的保育事業等の設備及び運営に関する基準を定める条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第76号",
       "votes": {
@@ -75683,7 +75687,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成28人、反対0人。"
     },
@@ -75695,8 +75699,8 @@ GIKAI.coverage2026 = {
       "number": "議案第77号",
       "title": "熊谷市乳児等通園支援事業の設備及び運営に関する基準を定める条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第77号",
       "votes": {
@@ -75731,7 +75735,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成28人、反対0人。"
     },
@@ -75743,8 +75747,8 @@ GIKAI.coverage2026 = {
       "number": "議案第78号",
       "title": "熊谷市立婦人児童館設置及び管理条例を廃止する条例",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第78号",
       "votes": {
@@ -75779,7 +75783,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成28人、反対0人。"
     },
@@ -75791,8 +75795,8 @@ GIKAI.coverage2026 = {
       "number": "議案第79号",
       "title": "熊谷市市民活動支援センター条例を廃止する条例",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第79号",
       "votes": {
@@ -75827,7 +75831,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成28人、反対0人。"
     },
@@ -75839,8 +75843,8 @@ GIKAI.coverage2026 = {
       "number": "議案第80号",
       "title": "熊谷市立生涯活動センター条例",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第80号",
       "votes": {
@@ -75875,7 +75879,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成28人、反対0人。"
     },
@@ -75887,8 +75891,8 @@ GIKAI.coverage2026 = {
       "number": "議案第81号",
       "title": "熊谷市マンション管理適正化推進条例",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第81号",
       "votes": {
@@ -75923,7 +75927,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成28人、反対0人。"
     },
@@ -75935,8 +75939,8 @@ GIKAI.coverage2026 = {
       "number": "議案第82号",
       "title": "熊谷市立学校屋内運動場空調設備の使用料に関する条例",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第82号",
       "votes": {
@@ -75971,7 +75975,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成28人、反対0人。"
     },
@@ -75983,8 +75987,8 @@ GIKAI.coverage2026 = {
       "number": "議案第83号",
       "title": "工事請負契約の締結についての変更について（（仮称）第２中央生涯活動センター建築工事）",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第83号",
       "votes": {
@@ -76019,7 +76023,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成28人、反対0人。"
     },
@@ -76031,8 +76035,8 @@ GIKAI.coverage2026 = {
       "number": "議案第84号",
       "title": "工事請負契約の締結についての変更について（熊谷市立妻沼図書館改修建築工事）",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第84号",
       "votes": {
@@ -76067,7 +76071,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成28人、反対0人。"
     },
@@ -76079,8 +76083,8 @@ GIKAI.coverage2026 = {
       "number": "議案第85号",
       "title": "工事請負契約の締結についての変更について（熊谷市立熊谷西小学校特別教室棟改修建築工事）",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第85号",
       "votes": {
@@ -76115,7 +76119,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成28人、反対0人。"
     },
@@ -76127,8 +76131,8 @@ GIKAI.coverage2026 = {
       "number": "議案第86号",
       "title": "工事請負契約の締結についての変更について（熊谷市立佐谷田小学校教室棟改修建築工事（２期））",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第86号",
       "votes": {
@@ -76163,7 +76167,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成28人、反対0人。"
     },
@@ -76175,8 +76179,8 @@ GIKAI.coverage2026 = {
       "number": "議案第87号",
       "title": "財産の処分について（道の駅「くるん熊谷」整備事業用地）",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第87号",
       "votes": {
@@ -76211,7 +76215,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成28人、反対0人。"
     },
@@ -76223,8 +76227,8 @@ GIKAI.coverage2026 = {
       "number": "議案第88号",
       "title": "大里広域市町村圏組合の共同処理する事務の変更及び大里広域市町村圏組合の規約変更について",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第88号",
       "votes": {
@@ -76259,7 +76263,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成28人、反対0人。"
     },
@@ -76271,8 +76275,8 @@ GIKAI.coverage2026 = {
       "number": "議案第89号",
       "title": "市道路線の認定について",
       "result": "原案可決",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第89号",
       "votes": {
@@ -76307,7 +76311,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成28人、反対0人。"
     },
@@ -76319,8 +76323,8 @@ GIKAI.coverage2026 = {
       "number": "議案第90号",
       "title": "人権擁護委員候補者の推薦について（渡邉雄市氏）",
       "result": "同意",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
-      "resultURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
+      "resultURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "sourceType": "市議会公式審議結果",
       "resultLocator": "公式審議結果 PDF１頁・議案第90号",
       "votes": {
@@ -76355,7 +76359,7 @@ GIKAI.coverage2026 = {
         "福田勝美": "賛成",
         "大久保照夫": "賛成"
       },
-      "voteURL": "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      "voteURL": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       "voteType": "記名",
       "voteNote": "賛成28人、反対0人。"
     },

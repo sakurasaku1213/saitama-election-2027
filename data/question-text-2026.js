@@ -27356,6 +27356,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "1f5ee8a4e93e29aeebf2",
+      "place": "寄居町",
+      "season": "fall",
+      "date": "2026-09-16",
+      "title": "大澤博議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/speech.html?council_id=39&schedule_id=3&playlist_id=4&speaker_id=2&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "大澤博"
+      ]
+    },
+    {
       "id": "735fd668f81d7eb70528",
       "place": "寄居町",
       "season": "fall",
@@ -27367,6 +27381,20 @@ GIKAI.questionText = {
       "url": "https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/speech.html?council_id=39&schedule_id=3&playlist_id=1&speaker_id=16&target_year=2026",
       "speakers": [
         "笠原則夫"
+      ]
+    },
+    {
+      "id": "a68212d7d29740059df9",
+      "place": "寄居町",
+      "season": "fall",
+      "date": "2026-09-16",
+      "title": "里見夕子議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/speech.html?council_id=39&schedule_id=3&playlist_id=5&speaker_id=21&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。 自動検査の確認候補時間帯を含みます。",
+      "speakers": [
+        "里見夕子"
       ]
     },
     {
@@ -42200,7 +42228,7 @@ GIKAI.questionText = {
       "season": "spring",
       "date": "2026-03",
       "title": "くまがや市議会だより第83号（一般質問一覧・4頁）",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gikaidayori/20260501.files/83all.pdf",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/188/83all.pdf",
       "kind": "議会だよりの質問・答弁要旨（OCR）",
       "scope": "summary",
       "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
@@ -42377,7 +42405,7 @@ GIKAI.questionText = {
       "season": "summer",
       "date": "2026-06",
       "title": "くまがや市議会だより第84号（一般質問一覧・5頁）",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gikaidayori/20260801.files/84all.pdf",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/791/84all.pdf",
       "kind": "議会だよりの質問・答弁要旨（OCR）",
       "scope": "summary",
       "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
@@ -42576,7 +42604,7 @@ GIKAI.questionText = {
       "kind": "議会だよりの質問・答弁（紙面要約）",
       "scope": "summary",
       "title": "くまがや市議会だより第85号・委員会での主な質疑",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gikaidayori/20261101.files/85-p12-14-web.pdf",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/009/174/85-p12-14-web.pdf",
       "speakers": [],
       "note": "紙面12～14頁（分割PDF１～３頁）。紙面には４常任委員会の質疑が委員会名で掲載されています。"
     },
@@ -42586,7 +42614,7 @@ GIKAI.questionText = {
       "season": "fall",
       "date": "2026-09",
       "title": "くまがや市議会だより第85号・秋の一般質問",
-      "url": "https://www.city.kumagaya.lg.jp/shigikai/gikaidayori/20261101.files/85all.pdf",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/009/174/85all.pdf",
       "kind": "議会だよりの質問・答弁（紙面要約）",
       "scope": "summary",
       "note": "議会だより第85号のPDF４頁で質問者の一覧を照合し、５～11頁の19人分の紙面の質問と答弁を整理しました。市は紙面に掲載する問答を抜粋しています。正式会議録は確認中です。",
@@ -42610,6 +42638,48 @@ GIKAI.questionText = {
         "臼杵健",
         "千葉義浩",
         "小鮒賢二"
+      ]
+    },
+    {
+      "id": "558f69185a6c2a32ba40",
+      "place": "熊谷市",
+      "season": "fall",
+      "date": "2026-09-10",
+      "title": "池井光吉議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://kumagaya-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1754",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "池井光吉"
+      ]
+    },
+    {
+      "id": "0c0d7fcbfe5c93ce65c6",
+      "place": "熊谷市",
+      "season": "fall",
+      "date": "2026-09-10",
+      "title": "田中正議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://kumagaya-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1751",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "田中正"
+      ]
+    },
+    {
+      "id": "2664359e18fd609511b9",
+      "place": "熊谷市",
+      "season": "fall",
+      "date": "2026-09-11",
+      "title": "山本絢女議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://kumagaya-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1758",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "山本絢女"
       ]
     },
     {
@@ -50975,8 +51045,8 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "くまがや市議会だよりの一般質問者一覧と紙面の問答19人分を収録。正式会議録は確認中。議会だよりの４常任委員会の質疑も収録。",
-        "indexURL": "https://www.city.kumagaya.lg.jp/shigikai/gikaidayori/20261101.html"
+        "note": "議会だよりの一般質問19人の問答と４常任委員会の質疑を収録。公式録画目録は９月10日に７人、11・14日に各６人。一般質問の機械文字起こし3本を収録。正式会議録と原音照合は確認中。",
+        "indexURL": "https://www.city.kumagaya.lg.jp/shisei/shigikai/1006977/1006955/1009174.html"
       }
     },
     {
@@ -52506,7 +52576,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/council.html?year=2026&council_id=39",
-        "note": "公式録画一覧で一般質問12人を確認し、機械文字起こし７本を収録。議会だよりの質問・答弁要旨も収録。正式会議録は確認中。"
+        "note": "公式録画一覧で一般質問12人を確認。議会だよりの質問・答弁要旨も収録。正式会議録は確認中。 公式録画の機械文字起こし一般質問9本を収録。"
       }
     },
     {

@@ -1950,7 +1950,7 @@ GIKAI.cases.push({
     {
       date: "2026-09", stage: "常任委員会で他の自治体の手数料を確認", actor: "熊谷市議会市民福祉常任委員会",
       detail: "市議会だよりは、10円措置の後に住民票のコンビニ交付を150円とする案について、委員会が他の自治体の手数料を尋ね、市が県内の状況を説明したと報告している。",
-      url: "https://www.city.kumagaya.lg.jp/shigikai/gikaidayori/20261101.files/85-p12-14-web.pdf#page=2",
+      url: "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/009/174/85-p12-14-web.pdf#page=2",
       sourceTitle: "くまがや市議会だより第85号・紙面13頁の委員会質疑（審査日確認中）",
     },
     {
@@ -1963,7 +1963,7 @@ GIKAI.cases.push({
     {
       date: "2026-09-18", stage: "手数料徴収条例の改正案を可決", actor: "熊谷市議会",
       detail: "議会は手数料徴収条例の一部改正を原案可決した。原表では賛成28人、欠席１人、議長は表決不参加。",
-      url: "https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf#page=1",
+      url: "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf#page=1",
       sourceTitle: "熊谷市議会 ９月18日議決分審議結果・議案第68号",
       billNumber: "議案第68号",
     },
@@ -2009,7 +2009,7 @@ GIKAI.cases.push(
       {
         date: "2026-09-11", stage: "体育館の使用想定、建設費と維持費を問い直す", actor: "桜井くるみ、熊谷市",
         detail: "議会だよりは、桜井議員が大会規模とワークショップで出た意見を尋ね、建設費と維持費の見込みを挙げて市民負担を質したと掲載している。市は、利用の想定、ワークショップでの期待や懸念、施設の防災機能などを説明した。",
-        url: "https://www.city.kumagaya.lg.jp/shigikai/gikaidayori/20261101.files/85-p04-11-web.pdf#page=5",
+        url: "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/009/174/85-p04-11-web.pdf#page=5",
         sourceTitle: "くまがや市議会だより第85号・紙面８頁",
         memberActions: [
           { name: "桜井くるみ", detail: "６月の質問に続き、大会の規模とワークショップで出た意見を尋ね、建設費・年間維持管理費の見込みを挙げて市の考えを質した。" },
@@ -2018,7 +2018,7 @@ GIKAI.cases.push(
       {
         date: "2026-09-14", stage: "固定席数と費用の算定根拠、協議内容の公開を質す", actor: "臼杵健、熊谷市",
         detail: "議会だよりは、固定席約1,700席の内訳、解体費を含む事業費、会議記録等の公開を臼杵議員が尋ねたと掲載している。市は席数の見込みを説明し、解体費等を今後精査すると答えた。",
-        url: "https://www.city.kumagaya.lg.jp/shigikai/gikaidayori/20261101.files/85-p04-11-web.pdf#page=7",
+        url: "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/009/174/85-p04-11-web.pdf#page=7",
         sourceTitle: "くまがや市議会だより第85号・紙面10頁",
         memberActions: [
           { name: "臼杵健", detail: "固定観客席の算定根拠、解体費を含む事業費、協議会記録の公表方針を尋ねた。" },
@@ -22052,4 +22052,76 @@ GIKAI.cases.push({
     }
   ],
   "note": "町が示した工事の進み具合、議員による安全と割賦手数料の確認、施設供用と契約変更の議決を、日付ごとの資料で追える。"
+});
+
+GIKAI.cases.push({
+  "place": "熊谷市",
+  "title": "妻沼地区のオンデマンド交通、運行開始と利用実績・区域拡大の質疑",
+  "topic": "地域交通・利用実績",
+  "actors": [
+    "熊谷市",
+    "池井光吉",
+    "山本絢女"
+  ],
+  "steps": [
+    {
+      "date": "2026-01-05",
+      "stage": "妻沼地区で予約制の乗合交通を運行開始",
+      "actor": "熊谷市",
+      "detail": "市は妻沼庁舎駐車場で出発式を行い、乗合型オンデマンド交通の運行を始めた。",
+      "url": "https://www.city.kumagaya.lg.jp/kurashi/doro/1002441/1002449.html",
+      "sourceTitle": "熊谷市 妻沼地区乗合型オンデマンド交通の運行案内"
+    },
+    {
+      "date": "2026-09-10",
+      "stage": "利用実績と課題を確認し、市内全域への展開を求める",
+      "actor": "池井光吉、熊谷市",
+      "detail": "池井議員は市内循環バスの利用状況と、妻沼の乗合型オンデマンド交通の開始月・直近月の実績、課題認識と事業の目的を確認し、市内全域への展開を要望した。市は高齢層の利用が多く、周知・定着、利用増と費用対効果を課題に挙げた。",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/009/174/85all.pdf#page=7",
+      "sourceTitle": "くまがや市議会だより第85号７頁・一般質問",
+      "archiveId": "e14a3fa7c64bfd309ca0",
+      "blocks": [
+        9
+      ],
+      "memberActions": [
+        {
+          "name": "池井光吉",
+          "blocks": [
+            9
+          ],
+          "detail": "運行開始月と直近月の利用者数、事業の目的と課題を確認し、今後の市内全域への展開を要望した。"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "stage": "利用状況と他地区への展開を質問",
+      "actor": "山本絢女、熊谷市",
+      "detail": "山本議員は妻沼の実績を他地区にどう生かすか、大里・江南・吉岡など南地区への拡充について質した。市は１日平均10人前後で目標の30人程度に届いておらず、評価指標を確認して展開を検討すると答えた。",
+      "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/009/174/85all.pdf#page=8",
+      "sourceTitle": "くまがや市議会だより第85号８頁・一般質問",
+      "archiveId": "e14a3fa7c64bfd309ca0",
+      "blocks": [
+        12
+      ],
+      "memberActions": [
+        {
+          "name": "山本絢女",
+          "blocks": [
+            12
+          ],
+          "detail": "妻沼の実績を他地区に生かす方法と、南地区への展開方針を尋ねた。"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "stage": "市の現行案内で妻沼地区内130か所の運行を確認",
+      "actor": "熊谷市",
+      "detail": "11月18日更新の案内は、妻沼地区内で公共施設・医療機関・店舗等130か所の乗り降りに対応すると掲載。他地区への運行開始は確認中。",
+      "url": "https://www.city.kumagaya.lg.jp/kurashi/doro/1002441/1002449.html",
+      "sourceTitle": "熊谷市 妻沼地区乗合型オンデマンド交通の現行案内"
+    }
+  ],
+  "note": "運行開始、実績と区域拡大に関する議員本人の質疑、現行の運行案内を資料でたどれる。"
 });

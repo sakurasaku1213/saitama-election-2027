@@ -1,7 +1,7 @@
 GIKAI.sessions.push(...[
-{"place":"熊谷市","label":"令和8年第3回（9月）定例会・議員提出議案","url":"https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn9gatu/sinngikekka.files/0809kekka.pdf","category":"議案書・審議結果","count":3},
-{"place":"熊谷市","label":"令和8年第2回（6月）定例会・議員提出議案","url":"https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn6gatu/sinngikekka.files/080625kekka.pdf","category":"議案書・審議結果","count":13},
-{"place":"熊谷市","label":"令和8年第1回（3月）定例会・議員提出議案","url":"https://www.city.kumagaya.lg.jp/shigikai/gaiyou/reiwa8nenn3gatu/kekka0803.files/kekka0803_0317.pdf","category":"議案書・審議結果","count":25},
+{"place":"熊谷市","label":"令和8年第3回（9月）定例会・議員提出議案","url":"https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf","category":"議案書・審議結果","count":3},
+{"place":"熊谷市","label":"令和8年第2回（6月）定例会・議員提出議案","url":"https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/962/080625kekka.pdf","category":"議案書・審議結果","count":13},
+{"place":"熊谷市","label":"令和8年第1回（3月）定例会・議員提出議案","url":"https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/182/kekka0803_0317.pdf","category":"議案書・審議結果","count":25},
 {"place":"熊谷市","label":"令和7年第1回（3月）定例会・議員提出議案","url":"https://www.city.kumagaya.lg.jp/shigikai/gaiyou/r7_3teireikai/singikekka0703.files/kekka0703_0318.pdf","category":"議案書・審議結果","count":24},
 {"place":"熊谷市","label":"令和6年第4回（12月）定例会・議員提出議案","url":"https://www.city.kumagaya.lg.jp/shigikai/gaiyou/r6_12teireikai/singikekka0612.files/sinngikekka1219.pdf","category":"議案書・審議結果","count":25},
 {"place":"熊谷市","label":"令和6年第2回（6月）定例会・議員提出議案","url":"https://www.city.kumagaya.lg.jp/shigikai/gaiyou/r6_6teireikai/singikekka0606.files/singikekka060626.pdf","category":"議案書・審議結果","count":4},
