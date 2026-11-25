@@ -887,6 +887,20 @@ select {
   color: var(--sub);
   font-size: 0.9375rem;
 }
+.case-actions {
+  margin-top: 0.5rem;
+}
+.case-actions > summary {
+  color: var(--blue);
+  cursor: pointer;
+  padding-block: 0.4rem;
+}
+.case-actions dt {
+  font-weight: 650;
+}
+.case-actions dd {
+  margin: 0 0 0.6rem;
+}
 .compare,
 .choose-people {
   margin: 0.85rem 0;

@@ -112,6 +112,14 @@ for (const s of data.sessions) {
   assert.ok(allBodies.has(s.place) && s.label);
 }
 const archivedQuestionDocs = new Map(data.questionText.documents.map((doc) => [doc.id, doc]));
+function appearedInNamedVote(place, day, name) {
+  const session = data.coverage2026.sessions.find((slot) =>
+    slot.place === place && !slot.planned && slot.fromDate && slot.toDate &&
+    slot.fromDate <= day && day <= slot.toDate);
+  return session && data.coverage2026.decisions.some((bill) =>
+    bill.place === place && bill.season === session.season && bill.voteType === "記名" &&
+    Object.hasOwn(bill.votes || {}, name));
+}
 let documentedMemberActions = 0;
 for (const c of data.cases) {
   let previous = "";
@@ -164,7 +172,7 @@ for (const c of data.cases) {
       assert.ok(step.actor.split("、").includes(action.name) || step.archiveId, c.title);
       const listedMember = people.has(place + "|" + action.name.replace(/\s/g, ""));
       const recordedMember = doc?.scope === "minutes" && doc.speakers.includes(action.name);
-      assert.ok(listedMember || recordedMember, action.name);
+      assert.ok(listedMember || recordedMember || appearedInNamedVote(place, step.date, action.name), action.name);
       if (step.archiveId) {
         assert.ok(action.blocks?.length && action.blocks.every((block, index) =>
           Number.isSafeInteger(block) && block > (action.blocks[index - 1] || 0)), action.name);
@@ -415,7 +423,8 @@ for (const bill of coverage.decisions) {
       bill.url !== bill.resultURL && /\.pdf#page=\d+$/i.test(bill.url);
     for (const supporter of bill.proposalSupporters) {
       assert.ok(typeof supporter === "string" && supporter.trim() && !bill.names.includes(supporter), key);
-      assert.ok(people.has(bill.place + "|" + supporter.replace(/\s/g, "")) || memberProposal, key);
+      assert.ok(people.has(bill.place + "|" + supporter.replace(/\s/g, "")) || memberProposal ||
+        (bill.date && appearedInNamedVote(bill.place, bill.date, supporter)), key);
     }
   }
   if (bill.votes) {

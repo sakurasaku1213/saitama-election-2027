@@ -405,8 +405,15 @@
       const text = step.archiveId && step.blocks?.length
         ? archivedMinutes(place, step.date, step.archiveId, step.blocks)
         : "";
+      const actions = step.memberActions?.length
+        ? `<details class="case-actions"><summary>議員本人の関与 ${count(step.memberActions.length)}件</summary>
+          <dl>${step.memberActions.map((action) => `<dt>${esc(action.name)}</dt>
+            <dd>${esc(action.detail)}${action.blocks?.length
+              ? archivedMinutes(place, step.date, step.archiveId, action.blocks)
+              : ""}</dd>`).join("")}</dl></details>`
+        : "";
       return `<li>${dateTag(step.date)}　${tag(step.stage)}${locality}<strong>${esc(step.actor)}</strong>
-        <p>${esc(step.detail)}</p><div class="docs-link">${link(step.url, step.sourceTitle)} ${vote}${text}</div></li>`;
+        <p>${esc(step.detail)}</p><div class="docs-link">${link(step.url, step.sourceTitle)} ${vote}${text}</div>${actions}</li>`;
     }).join("");
     const councilLabel = c.relatedPlaces?.length ? casePlaces(c).join("・") : c.place + "議会";
     return `<details class="case"><summary><div><div class="meta">${tag(c.topic)}<span>${esc(councilLabel)}</span><span>${c.steps.length}段階</span></div><h3>${esc(c.title)}</h3><p class="small">${esc(date(c.steps[0].date))} ～ ${esc(date(last.date))}　${esc(last.stage)}</p></div></summary><div class="detail-body"><p><b>資料に登場する人・組織</b>　${c.actors.map(esc).join("、")}</p><ol class="steps">${steps}</ol>${c.note ? `<p class="note">${esc(c.note)}</p>` : ""}</div></details>`;
@@ -420,7 +427,7 @@
           c.title,
           c.topic,
           ...c.actors,
-          ...c.steps.flatMap((s) => [s.stage, s.actor, s.detail]),
+          ...c.steps.flatMap((s) => [s.stage, s.actor, s.detail, ...(s.memberActions || []).map((a) => a.detail)]),
         ]),
     );
     results(
