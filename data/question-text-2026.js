@@ -8273,6 +8273,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "cc4699ee888a17d0bd76",
+      "place": "吉見町",
+      "season": "fall",
+      "date": "2026-09-04",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "吉田克之議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/yoshimi/WebView/rd/speech.html?council_id=21&schedule_id=3&playlist_id=3&speaker_id=18&target_year=2026",
+      "speakers": [
+        "吉田克之"
+      ]
+    },
+    {
       "id": "a986fe508e11dd7d3afd",
       "place": "吉見町",
       "season": "fall",
@@ -8284,6 +8298,20 @@ GIKAI.questionText = {
       "url": "https://smart.discussvision.net/smart/tenant/yoshimi/WebView/rd/speech.html?council_id=21&schedule_id=3&playlist_id=1&speaker_id=19&target_year=2026",
       "speakers": [
         "宮尾美千代"
+      ]
+    },
+    {
+      "id": "6ce3385279c7ea3b76bd",
+      "place": "吉見町",
+      "season": "fall",
+      "date": "2026-09-04",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "秋山真美議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/yoshimi/WebView/rd/speech.html?council_id=21&schedule_id=3&playlist_id=2&speaker_id=6&target_year=2026",
+      "speakers": [
+        "秋山真美"
       ]
     },
     {
@@ -30930,6 +30958,34 @@ GIKAI.questionText = {
       ]
     },
     {
+      "place": "桶川市",
+      "season": "spring",
+      "date": "2026-03",
+      "id": "bc39deb2923a111594c5",
+      "url": "https://www.city.okegawa.lg.jp/material/files/group/2/r8-3ippannshitsumon.pdf",
+      "title": "3月定例会の一般質問通告（15人・28頁）",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "speakers": [
+        "山中敏正",
+        "渡邉光子",
+        "近本あんな",
+        "細谷文人",
+        "仲又清美",
+        "浦田充",
+        "砂川和也",
+        "渡邉広美",
+        "渡辺まや",
+        "江森誠一",
+        "糸井政樹",
+        "北村あやこ",
+        "榊萌美",
+        "佐藤洋",
+        "須山陽一朗"
+      ],
+      "note": "市の発言通告を全頁収録。公式録画目録で登壇者を照合。"
+    },
+    {
       "id": "8bacfb4bcdb73c17df82",
       "place": "桶川市",
       "season": "spring",
@@ -31186,6 +31242,32 @@ GIKAI.questionText = {
       ]
     },
     {
+      "place": "桶川市",
+      "season": "summer",
+      "date": "2026-06",
+      "id": "7dcbdcb3e6568ad3c939",
+      "url": "https://www.city.okegawa.lg.jp/material/files/group/2/R8-6ippannnshitsumon.pdf",
+      "title": "6月定例会の一般質問通告（13人・26頁）",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "speakers": [
+        "細谷文人",
+        "山中敏正",
+        "渡邉光子",
+        "砂川和也",
+        "江森誠一",
+        "近本あんな",
+        "渡邉広美",
+        "仲又清美",
+        "浦田充",
+        "糸井政樹",
+        "榊萌美",
+        "北村あやこ",
+        "渡辺まや"
+      ],
+      "note": "市の発言通告を全頁収録。公式録画目録で登壇者を照合。"
+    },
+    {
       "id": "7a2fd3c39b724ca48bb9",
       "place": "桶川市",
       "season": "summer",
@@ -31345,29 +31427,56 @@ GIKAI.questionText = {
       ]
     },
     {
+      "place": "桶川市",
+      "season": "fall",
+      "date": "2026-09",
+      "id": "b4da53a28fb06823555d",
+      "url": "https://www.city.okegawa.lg.jp/material/files/group/2/r8-9ippanshitumon.pdf",
+      "title": "9月定例会の一般質問通告（14人・29頁）",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "speakers": [
+        "細谷文人",
+        "渡邉光子",
+        "岩﨑隆志",
+        "山中敏正",
+        "仲又清美",
+        "糸井政樹",
+        "砂川和也",
+        "浦田充",
+        "渡邉広美",
+        "榊萌美",
+        "近本あんな",
+        "北村あやこ",
+        "須山陽一朗",
+        "渡辺まや"
+      ],
+      "note": "市の発言通告を全頁収録。公式録画目録で登壇者を照合。秋は通告14人、紙面と公式録画で登壇を確認したのは13人。渡邉光子議員は事前通告に掲載。"
+    },
+    {
       "id": "365d9cc81e2e30978d62",
       "place": "桶川市",
       "season": "fall",
       "date": "2026-09",
-      "title": "おけがわ市議会だより224号・9月定例会",
+      "title": "おけがわ市議会だより224号・秋の一般質問、議案審議と委員会",
       "url": "https://www.city.okegawa.lg.jp/material/files/group/2/gikaidayori_no224.pdf#page=5",
       "kind": "議会だよりの質問・答弁（紙面要約）",
       "scope": "summary",
-      "note": "議会だよりのPDF 5～11頁を照合し、問答が掲載された47論点を要約しました。正式会議録の全文は確認中です。",
+      "note": "一般質問13人・47問答に公式通告と録画で確認した発言日を表示。原紙面から決算審査の19項目、条例・補正予算の13問答等の補足40件を収録。紙面の判読に基づく要約。正式会議録は確認中。",
       "speakers": [
-        "仲又清美",
-        "北村あやこ",
-        "山中敏正",
-        "岩﨑隆志",
-        "榊萌美",
-        "浦田充",
-        "渡辺まや",
-        "渡邉広美",
-        "砂川和也",
-        "糸井政樹",
         "細谷文人",
+        "岩﨑隆志",
+        "山中敏正",
+        "仲又清美",
+        "糸井政樹",
+        "砂川和也",
+        "浦田充",
+        "渡邉広美",
+        "榊萌美",
         "近本あんな",
-        "須山陽一朗"
+        "北村あやこ",
+        "須山陽一朗",
+        "渡辺まや"
       ]
     },
     {
@@ -40089,7 +40198,8 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "議会だよりの掲載質疑を紙面照合して要約。正式会議録の全文は確認中。"
+        "note": "第224号の一般質問13人・47問答と、決算審査・条例・補正予算等の補足40件を原紙面と照合。公式通告14人・29頁、一般質問13本と議案質疑１本の公式録画を照合。正式会議録は確認中。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/okegawa/SpMinuteBrowse.html?tenant_id=184&view_years=2026"
       }
     },
     {
@@ -40681,7 +40791,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/yoshimi/WebView/rd/council.html?year=2026&council_id=21",
-        "note": "第14号の一般質問11人39問答、見出しのみ15項目、委員会質疑14組、議案審議・討論を原紙面と照合。９月３日６人・４日５人の公式録画目録に大項目32件。正式会議録は確認中。 公式録画・音声の機械文字起こしを3件収録。 公式録画・音声の機械文字起こしを6件収録。 公式録画・音声の機械文字起こしを7件収録。"
+        "note": "第14号の一般質問11人39問答、見出しのみ15項目、委員会質疑14組、議案審議・討論を原紙面と照合。９月３日６人・４日５人の公式録画目録に大項目32件。正式会議録は確認中。 公式録画・音声の機械文字起こしを3件収録。 公式録画・音声の機械文字起こしを6件収録。 公式録画・音声の機械文字起こしを7件収録。 公式録画・音声の機械文字起こしを9件収録。"
       }
     },
     {

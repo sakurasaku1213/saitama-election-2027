@@ -9619,3 +9619,529 @@ GIKAI.cases.push(...[
     "note": "委託開始年度と市が説明した運営の変化を記録。利用者評価の調査結果や委託前後の費用は確認中。"
   }
 ]);
+
+GIKAI.cases.push(...[
+  {
+    "place": "桶川市",
+    "title": "南小跡地の施設計画、共同提出の決議案と事業者調査",
+    "topic": "公共施設・市民参加",
+    "actors": [
+      "北村あやこ",
+      "浦田充",
+      "桶川市",
+      "桶川市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-03",
+        "actor": "桶川市",
+        "stage": "南小跡地等の施設計画を策定",
+        "detail": "駅東口周辺の市有地を含め、導入が期待される機能と規模などを整理。市民参加の検討経過と計画を市が掲載した。",
+        "url": "https://www.city.okegawa.lg.jp/soshiki/toshiseibi/toshikeikaku/machidukuri/ekihigashiguti_seibi/14902.html",
+        "sourceTitle": "桶川市 南小跡地等施設計画の策定"
+      },
+      {
+        "date": "2026-04-24",
+        "actor": "桶川市",
+        "stage": "民間活力導入調査の委託先募集を公表",
+        "detail": "実施方針を４月24日に公表し、６月の提案・プレゼンテーションを経る事業者選定を案内した。現在は審査結果も掲載。",
+        "url": "https://www.city.okegawa.lg.jp/soshiki/toshiseibi/toshikeikaku/machidukuri/ekihigashiguti_seibi/14940.html",
+        "sourceTitle": "桶川市 南小跡地等民間活力導入調査委託"
+      },
+      {
+        "date": "2026-09-15",
+        "actor": "北村あやこ",
+        "stage": "民間提案を広く募ることと委託先選定の競争性を質す",
+        "detail": "市は施設計画の３案をたたき台とし、民間の提案を柔軟に受けたいと答弁。応募が１社だった点を質され、競争の確保は今後の課題とした。",
+        "url": "https://www.city.okegawa.lg.jp/material/files/group/2/gikaidayori_no224.pdf#page=10",
+        "sourceTitle": "おけがわ市議会だより第224号 PDF10頁",
+        "archiveId": "365d9cc81e2e30978d62",
+        "blocks": [
+          32,
+          33,
+          34,
+          35
+        ],
+        "memberActions": [
+          {
+            "name": "北村あやこ",
+            "detail": "市は施設計画の３案をたたき台とし、民間の提案を柔軟に受けたいと答弁。応募が１社だった点を質され、競争の確保は今後の課題とした。",
+            "blocks": [
+              32,
+              33,
+              34,
+              35
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-09-24",
+        "actor": "北村あやこ、浦田充",
+        "stage": "計画案を公募し公開で選定するよう求める決議案を提出",
+        "detail": "施設計画や財源、維持費等を明らかにした案を公募し、市民・議会・学識経験者が参加する公開選定を提案した。",
+        "url": "https://www.city.okegawa.lg.jp/material/files/group/2/r8-9-gi2dougian.pdf#page=1",
+        "sourceTitle": "桶川市議会 議第２号議案原文",
+        "memberActions": [
+          {
+            "name": "北村あやこ",
+            "detail": "決議案を浦田議員と共同提出。"
+          },
+          {
+            "name": "浦田充",
+            "detail": "決議案を北村議員と共同提出。"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-24",
+        "actor": "桶川市議会",
+        "stage": "公開での選定を求めた決議案を否決",
+        "detail": "議第２号議案。紙面の個人別表決は賛成２、反対15、議長不参加。",
+        "url": "https://www.city.okegawa.lg.jp/material/files/group/2/r8-9giketu.pdf#page=1",
+        "sourceTitle": "桶川市 ９月定例会の公式議決結果 PDF１頁",
+        "billNumber": "議第2号議案"
+      },
+      {
+        "date": "2026-10-15",
+        "actor": "桶川市",
+        "stage": "民間事業者アンケートの追加受付を公表",
+        "detail": "市は当初８月末だった受付の追加募集を案内し、11月30日を新たな締切とした。日付は案内の更新日。",
+        "url": "https://www.city.okegawa.lg.jp/soshiki/toshiseibi/toshikeikaku/machidukuri/ekihigashiguti_seibi/15374.html",
+        "sourceTitle": "桶川市 民間事業者アンケートの追加受付"
+      }
+    ],
+    "note": "施設計画、調査委託、議員の提案と議決、その後の事業者調査を記録。施設整備の手法決定と工事着手は確認中。"
+  },
+  {
+    "place": "桶川市",
+    "title": "日出谷地区の公共施設整備と事業者選定委員会の設置",
+    "topic": "公共施設・事業者選定",
+    "actors": [
+      "山中敏正",
+      "桶川市議会",
+      "桶川市",
+      "日出谷地区公共施設等整備事業者選定委員会"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-25",
+        "actor": "山中敏正",
+        "stage": "総務常任委員会の審査結果を本会議に報告",
+        "detail": "山中委員長が日出谷地区の事業者選定委員会の設置条例案を含む、付託４議案の委員会審査結果を報告した。",
+        "url": "https://ssp.kaigiroku.net/tenant/okegawa/SpMinuteView.html?tenant_id=184&council_id=794&schedule_id=9",
+        "sourceTitle": "桶川市 ３月25日本会議録 P.640以降",
+        "archiveId": "db646f61297343f5cd02",
+        "blocks": [
+          8
+        ],
+        "memberActions": [
+          {
+            "name": "山中敏正",
+            "detail": "委員長として設置条例案に関する審査結果を本会議で報告。",
+            "blocks": [
+              8
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-03-25",
+        "actor": "桶川市議会",
+        "stage": "事業者選定委員会設置条例を可決",
+        "detail": "提案依頼書、評価基準、提案書の審査や事業者の特定などを担当する選定委員会の設置条例を原案可決した。",
+        "url": "https://www.city.okegawa.lg.jp/material/files/group/2/r83giankekka.pdf#page=1",
+        "sourceTitle": "桶川市 ３月定例会の公式議決結果 PDF１頁",
+        "billNumber": "議案第17号"
+      },
+      {
+        "date": "2026-04-01",
+        "actor": "桶川市",
+        "stage": "事業者選定委員会を設置",
+        "detail": "市の公表資料では、公平性・透明性を確保するため同委員会を設置。施設用途はコミュニティセンター、児童館、子ども発達相談支援センター。",
+        "url": "https://www.city.okegawa.lg.jp/soshiki/hisyoshitsu/kikakuchosei/machidukuri/hideya/12400.html",
+        "sourceTitle": "桶川市 日出谷地区公共施設等整備事業"
+      },
+      {
+        "date": "2026-07-20",
+        "actor": "日出谷地区公共施設等整備事業者選定委員会",
+        "stage": "第１回選定委員会を開催",
+        "detail": "市の整備情報は第１回委員会の会議録を掲載した。基本機能と公共・民間施設の整備方式も案内している。",
+        "url": "https://www.city.okegawa.lg.jp/soshiki/hisyoshitsu/kikakuchosei/machidukuri/hideya/12400.html",
+        "sourceTitle": "桶川市 第１回選定委員会と事業概要"
+      }
+    ],
+    "note": "条例の議決、委員会の設置、会議の実施まで確認。整備事業者の特定と着工は確認中。"
+  },
+  {
+    "place": "桶川市",
+    "title": "桶川駅西口デッキの耐震性の確認と昇降設備の整備検討",
+    "topic": "駅前施設・バリアフリー",
+    "actors": [
+      "細谷文人",
+      "山中敏正",
+      "桶川市"
+    ],
+    "steps": [
+      {
+        "date": "2026-06-10",
+        "actor": "細谷文人",
+        "stage": "既存デッキの耐震資料と建設後の診断の有無を質す",
+        "detail": "市は建設後に耐震診断をしておらず、新耐震基準で設計したことから当時は診断や補強を行わない予定と答えた。道路橋の耐震性能は現有資料では答えられないとした。",
+        "url": "https://ssp.kaigiroku.net/tenant/okegawa/SpMinuteView.html?tenant_id=184&council_id=801&schedule_id=3",
+        "sourceTitle": "桶川市 ６月10日本会議録 P.28～47",
+        "archiveId": "256f32fd0078cbd57498",
+        "blocks": [
+          10,
+          16,
+          118,
+          122,
+          124
+        ],
+        "memberActions": [
+          {
+            "name": "細谷文人",
+            "detail": "デッキの耐震設計上の区分、資料と地震動への対応を質した。",
+            "blocks": [
+              10,
+              118,
+              122
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-09-11",
+        "actor": "細谷文人",
+        "stage": "強い地震への性能と耐震補強を重ねて質す",
+        "detail": "市は新耐震基準で設計したと答え、震度７の被害については保有資料で確認できていないと説明。耐震診断を含む西口改修を検討すると答えた。",
+        "url": "https://www.city.okegawa.lg.jp/material/files/group/2/gikaidayori_no224.pdf#page=5",
+        "sourceTitle": "おけがわ市議会だより第224号 PDF5頁",
+        "archiveId": "365d9cc81e2e30978d62",
+        "blocks": [
+          1
+        ],
+        "memberActions": [
+          {
+            "name": "細谷文人",
+            "detail": "市は新耐震基準で設計したと答え、震度７の被害については保有資料で確認できていないと説明。耐震診断を含む西口改修を検討すると答えた。",
+            "blocks": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-09-11",
+        "actor": "山中敏正",
+        "stage": "エスカレーターの先行設置と必要な工期を質す",
+        "detail": "市は東口整備にめどが立ち次第、西口の調査と先行設置を検討すると答えた。設計・鉄道事業者との協議に加え、工事は１～２年を想定。",
+        "url": "https://www.city.okegawa.lg.jp/material/files/group/2/gikaidayori_no224.pdf#page=6",
+        "sourceTitle": "おけがわ市議会だより第224号 PDF6頁",
+        "archiveId": "365d9cc81e2e30978d62",
+        "blocks": [
+          5
+        ],
+        "memberActions": [
+          {
+            "name": "山中敏正",
+            "detail": "市は東口整備にめどが立ち次第、西口の調査と先行設置を検討すると答えた。設計・鉄道事業者との協議に加え、工事は１～２年を想定。",
+            "blocks": [
+              5
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "６月の答弁は診断や補強を行わない予定。９月の答弁では診断を含む西口改修を検討するとした。耐震診断の実施・工事着手は確認中。"
+  },
+  {
+    "place": "桶川市",
+    "title": "道の駅アクセスと市内循環バスの停留所・路線検討",
+    "topic": "地域交通・道の駅",
+    "actors": [
+      "砂川和也",
+      "桶川市",
+      "桶川市地域公共交通会議"
+    ],
+    "steps": [
+      {
+        "date": "2025-03-27",
+        "actor": "桶川市",
+        "stage": "道の駅の開業に伴い循環バスの案内を公表",
+        "detail": "市は「べに花の郷おけがわ」の開業と、周辺交通の混雑による循環バス遅延の可能性を案内した。",
+        "url": "https://www.city.okegawa.lg.jp/soshiki/shiminseikatsu/anshinanzen/kotsu_churinjo/bus/13686.html",
+        "sourceTitle": "桶川市 開業時の循環バス案内"
+      },
+      {
+        "date": "2026-08-21",
+        "actor": "桶川市地域公共交通会議",
+        "stage": "道の駅への循環バスの乗り入れを議題として審議",
+        "detail": "第22回会議は道の駅アクセス等を議題とし、市は配付資料と会議録を掲載。",
+        "url": "https://www.city.okegawa.lg.jp/kurashi/anshin_anzen/kaigi/15548.html",
+        "sourceTitle": "桶川市 第22回地域公共交通会議"
+      },
+      {
+        "date": "2026-09-14",
+        "actor": "砂川和也",
+        "stage": "道の駅への乗り入れ判断と停留所名・路線の見直しを質す",
+        "detail": "市は敷地内乗り入れを見送り、約200ｍ離れた既存停留所への道の駅北入口の併記を説明。「泉福寺」の停留所名と開発後の路線は今後の会議で検討する。",
+        "url": "https://www.city.okegawa.lg.jp/material/files/group/2/gikaidayori_no224.pdf#page=7",
+        "sourceTitle": "おけがわ市議会だより第224号 PDF7頁",
+        "archiveId": "365d9cc81e2e30978d62",
+        "blocks": [
+          15,
+          16,
+          17
+        ],
+        "memberActions": [
+          {
+            "name": "砂川和也",
+            "detail": "市は敷地内乗り入れを見送り、約200ｍ離れた既存停留所への道の駅北入口の併記を説明。「泉福寺」の停留所名と開発後の路線は今後の会議で検討する。",
+            "blocks": [
+              15,
+              16,
+              17
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "道の駅の開業、交通会議の審議と市の答弁を記録。新たな停留所名や路線変更の実施は確認中。"
+  },
+  {
+    "place": "桶川市",
+    "title": "５歳児健診の導入準備と４歳児への発達の質問用紙",
+    "topic": "就学前支援・乳幼児健診",
+    "actors": [
+      "仲又清美",
+      "桶川市"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-12",
+        "actor": "仲又清美",
+        "stage": "議会で５歳児健診の導入に向けた取組に言及",
+        "detail": "就学前の早期支援に関する他の取組と併せ、市で５歳児健診の導入に向けた準備が進んでいると発言した。",
+        "url": "https://ssp.kaigiroku.net/tenant/okegawa/SpMinuteView.html?tenant_id=184&council_id=794&schedule_id=5",
+        "sourceTitle": "桶川市 ３月12日本会議録 P.355",
+        "archiveId": "3552664c2d403020d191",
+        "blocks": [
+          530
+        ]
+      },
+      {
+        "date": "2026-09-11",
+        "actor": "仲又清美",
+        "stage": "５歳児健診の開始時期と健診後の支援体制を質す",
+        "detail": "市は地区医師会へ健診医２人を依頼し、令和９年度の開始を目指すと説明。令和８年度から４歳児全員に発達の質問用紙を送り、就学までの支援につなぐと答えた。",
+        "url": "https://www.city.okegawa.lg.jp/material/files/group/2/gikaidayori_no224.pdf#page=6",
+        "sourceTitle": "おけがわ市議会だより第224号 PDF6頁",
+        "archiveId": "365d9cc81e2e30978d62",
+        "blocks": [
+          8,
+          9
+        ],
+        "memberActions": [
+          {
+            "name": "仲又清美",
+            "detail": "市は地区医師会へ健診医２人を依頼し、令和９年度の開始を目指すと説明。令和８年度から４歳児全員に発達の質問用紙を送り、就学までの支援につなぐと答えた。",
+            "blocks": [
+              8,
+              9
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "市が説明した４歳児への取組と、５歳児健診の導入予定を記録。健診の開始と利用実績は確認中。"
+  },
+  {
+    "place": "桶川市",
+    "title": "産後ケア７日の制度案内とアンケート・利用日数の見直し",
+    "topic": "産後支援・事業評価",
+    "actors": [
+      "榊萌美",
+      "桶川市"
+    ],
+    "steps": [
+      {
+        "date": "2026-09-11",
+        "actor": "桶川市",
+        "stage": "産後ケアの利用日数と申請方法を案内",
+        "detail": "市の更新案内では宿泊・デイサービス・訪問を合わせ、１回の出産につき７日以内。宿泊と訪問の数え方や利用料も公表した。",
+        "url": "https://www.city.okegawa.lg.jp/soshiki/kenkofukushi/kenkozoushin/ninshin/shien/12731.html",
+        "sourceTitle": "桶川市 産後ケア事業"
+      },
+      {
+        "date": "2026-09-14",
+        "actor": "榊萌美",
+        "stage": "利用後のアンケートと７日間の利用枠の見直しを求める",
+        "detail": "市は利用者ニーズを把握して制度の維持・改善につなげたいと答弁。利用枠は国・県の補助基準の見直しを要望すると説明した。",
+        "url": "https://www.city.okegawa.lg.jp/material/files/group/2/gikaidayori_no224.pdf#page=9",
+        "sourceTitle": "おけがわ市議会だより第224号 PDF9頁",
+        "archiveId": "365d9cc81e2e30978d62",
+        "blocks": [
+          25,
+          26
+        ],
+        "memberActions": [
+          {
+            "name": "榊萌美",
+            "detail": "市は利用者ニーズを把握して制度の維持・改善につなげたいと答弁。利用枠は国・県の補助基準の見直しを要望すると説明した。",
+            "blocks": [
+              25,
+              26
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "公表された利用枠と、議員が求めた評価・見直しを記録。アンケートの実施と利用枠拡大は確認中。"
+  },
+  {
+    "place": "桶川市",
+    "title": "保護猫の譲渡、不妊去勢の費用助成と譲渡会の案内",
+    "topic": "動物愛護・地域環境",
+    "actors": [
+      "渡辺まや",
+      "桶川市"
+    ],
+    "steps": [
+      {
+        "date": "2026-09-14",
+        "actor": "桶川市",
+        "stage": "県登録団体が主催する保護犬・保護猫譲渡会を案内",
+        "detail": "市サイトに11月１日開催予定の譲渡会、主催団体と譲渡の審査に関する案内を掲載した。日付は案内の更新日。",
+        "url": "https://www.city.okegawa.lg.jp/soshiki/shiminseikatsu/kanri/gomi/pet/15478.html",
+        "sourceTitle": "桶川市 保護犬・保護猫譲渡会の案内"
+      },
+      {
+        "date": "2026-09-15",
+        "actor": "渡辺まや",
+        "stage": "猫の譲渡実績と飼い主のいない猫への手術費助成を質す",
+        "detail": "市は譲渡実績を令和５年度２件、６・７年度は成立なしと説明。助成は慎重な判断が必要とし、関係機関と譲渡会等での連携を続けると答えた。",
+        "url": "https://www.city.okegawa.lg.jp/material/files/group/2/gikaidayori_no224.pdf#page=11",
+        "sourceTitle": "おけがわ市議会だより第224号 PDF11頁",
+        "archiveId": "365d9cc81e2e30978d62",
+        "blocks": [
+          45,
+          46,
+          47
+        ],
+        "memberActions": [
+          {
+            "name": "渡辺まや",
+            "detail": "市は譲渡実績を令和５年度２件、６・７年度は成立なしと説明。助成は慎重な判断が必要とし、関係機関と譲渡会等での連携を続けると答えた。",
+            "blocks": [
+              45,
+              46,
+              47
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "過去の譲渡、譲渡会の公表と助成の答弁を記録。新たな助成制度や譲渡会の結果は確認中。"
+  },
+  {
+    "place": "桶川市",
+    "title": "議会基本条例・議員政治倫理条例の素案と意見募集",
+    "topic": "議会改革・市民参加",
+    "actors": [
+      "桶川市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-10-20",
+        "actor": "桶川市議会",
+        "stage": "２つの条例素案について意見募集を開始",
+        "detail": "議会活動・運営の原則を定める基本条例と、議員が守る政治倫理の条例の２案を公開。",
+        "url": "https://www.city.okegawa.lg.jp/soshiki/gikai/gikaijimukyoku/kousaihi/15524.html",
+        "sourceTitle": "桶川市議会 基本条例・政治倫理条例素案の意見募集"
+      },
+      {
+        "date": "2026-11-20",
+        "actor": "桶川市議会",
+        "stage": "意見募集期間の終了を公表",
+        "detail": "募集は11月19日まで。20日更新の公式案内に募集終了を掲載した。",
+        "url": "https://www.city.okegawa.lg.jp/soshiki/gikai/gikaijimukyoku/kousaihi/15524.html",
+        "sourceTitle": "桶川市議会 意見募集の終了案内"
+      }
+    ],
+    "note": "素案の公開と募集終了を確認。意見の集計、議会への正式提出や可決は確認中。"
+  },
+  {
+    "place": "桶川市",
+    "title": "こども誰でも通園制度の基準・利用料条例と実施施設の案内",
+    "topic": "保育・乳児等通園支援",
+    "actors": [
+      "桶川市議会",
+      "桶川市"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-25",
+        "actor": "桶川市議会",
+        "stage": "特定乳児等通園支援事業の運営基準条例を可決",
+        "detail": "議案第18号の運営基準条例を原案可決。",
+        "url": "https://www.city.okegawa.lg.jp/material/files/group/2/r83giankekka.pdf#page=1",
+        "sourceTitle": "桶川市 ３月定例会の公式議決結果 PDF１頁",
+        "billNumber": "議案第18号"
+      },
+      {
+        "date": "2026-03-25",
+        "actor": "桶川市議会",
+        "stage": "特定乳児等通園支援事業等の利用者負担額条例を可決",
+        "detail": "議案第19号の利用者負担額条例を原案可決。",
+        "url": "https://www.city.okegawa.lg.jp/material/files/group/2/r83giankekka.pdf#page=1",
+        "sourceTitle": "桶川市 ３月定例会の公式議決結果 PDF１頁",
+        "billNumber": "議案第19号"
+      },
+      {
+        "date": "2026-04-15",
+        "actor": "桶川市",
+        "stage": "制度の対象、利用施設と申請手続を案内",
+        "detail": "市の更新案内は対象年齢、北保育所・坂田保育所などでの実施日、施設別の対象年齢、申し込み方法を掲載。",
+        "url": "https://www.city.okegawa.lg.jp/soshiki/fukushi/hoiku/14639.html",
+        "sourceTitle": "桶川市 こども誰でも通園制度の案内"
+      }
+    ],
+    "note": "運営基準と利用者負担の議決、利用案内を確認。事業の利用実績と定員の充足状況は確認中。"
+  },
+  {
+    "place": "桶川市",
+    "title": "富士見通りのアンダーパスに関する調査と修繕計画",
+    "topic": "道路維持管理・防災",
+    "actors": [
+      "桶川市",
+      "桶川市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-09",
+        "actor": "桶川市議会、桶川市",
+        "stage": "補正予算の審議で地盤調査の必要性を確認",
+        "detail": "市は擁壁目地の隆起・漏水を確認したとし、擁壁背面を調べるため15メートルのボーリングを３か所で実施予定と説明。問題がなければ令和９年度に目地修繕を設計し、その後に修繕工事を予定。",
+        "url": "https://www.city.okegawa.lg.jp/material/files/group/2/gikaidayori_no224.pdf#page=4",
+        "sourceTitle": "おけがわ市議会だより第224号 PDF4頁",
+        "archiveId": "365d9cc81e2e30978d62",
+        "blocks": [
+          77,
+          78,
+          79
+        ]
+      },
+      {
+        "date": "2026-09-24",
+        "actor": "桶川市議会",
+        "stage": "地質調査を含む一般会計補正予算を可決",
+        "detail": "議案第37号を原案可決。紙面は富士見通り線地質調査事業について、調査の場所と交通への影響を掲載した。",
+        "url": "https://www.city.okegawa.lg.jp/material/files/group/2/r8-9giketu.pdf#page=1",
+        "sourceTitle": "桶川市 ９月定例会の公式議決結果 PDF１頁",
+        "billNumber": "議案第37号"
+      }
+    ],
+    "note": "現場の状況説明、調査の計画と予算の可決を記録。調査結果と修繕工事の着手は確認中。"
+  }
+]);
