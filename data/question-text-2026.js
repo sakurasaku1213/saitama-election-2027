@@ -38763,6 +38763,18 @@ GIKAI.questionText = {
       "speakers": []
     },
     {
+      "id": "62a829978d0478583c09",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-07",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "本会議　認定第１号の一般会計決算に対する質疑（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。通しの議案質疑録画のため、話者名や発言内容は元の録画または会議録でご確認ください。 表決結果は公式結果と当日の映像で確認できます。",
+      "url": "https://warabi.gijiroku.com/g07_Video_View.asp?SrchID=2374",
+      "speakers": []
+    },
+    {
       "id": "600b5c9c82e1cb4dd5a5",
       "place": "蕨市",
       "season": "fall",
@@ -43109,7 +43121,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://warabi.gijiroku.com/g07_Video_Search.asp?Sflg=1&kaigi=148",
-        "note": "一般質問15人と議事15本を機械文字起こしとして収録。正式会議録は確認中。"
+        "note": "一般質問15人と議事16本を機械文字起こしとして収録。正式会議録は確認中。"
       }
     },
     {
