@@ -6248,22 +6248,22 @@ GIKAI.coverage2026 = {
     {
       "place": "三芳町",
       "season": "fall",
-      "label": "2026年秋の定例会",
+      "label": "令和8年第4回三芳町議会定例会",
       "fromDate": "2026-08-27",
       "toDate": "2026-09-18",
-      "planned": true,
+      "planned": false,
       "materials": {
         "meeting": {
-          "state": "partial",
-          "note": "開催予定を確認。"
+          "state": "verified",
+          "note": "町の本会議録画目録で開会と閉会を確認。８月31日は会期日程と町長公務日誌を照合。"
         },
         "activity": {
           "state": "partial",
           "note": "この時期の掲載項目 37件。通告・目次・本文の別は活動の出典に表示。"
         },
         "text": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "秋の第４回定例会で一般質問13人・４日と開会、追加上程、議案審議等、本会議23本と決算特別委員会３本の公開自動字幕を収録。公式通告13人19頁と第202号の紙面要旨を収録。８月31日の４人は動画タイトル上９月１日。９月11日の公開字幕は５分12秒まで。正式会議録は確認中。"
         },
         "decisions": {
           "state": "pending",
@@ -6288,8 +6288,36 @@ GIKAI.coverage2026 = {
           "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/ippan.html"
         },
         {
-          "label": "会期資料　2026年9月定例会",
+          "label": "一般質問の公式通告",
           "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-00-07_ippan_R8-4.pdf"
+        },
+        {
+          "label": "第４回定例会の公式録画目録",
+          "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/rokuga_R8-4.html"
+        },
+        {
+          "label": "議会の会期日程",
+          "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-00-01_nittei_R8-4.pdf"
+        },
+        {
+          "label": "９月11日の議事日程第６号",
+          "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/06-00_gizinittei06_R8-4.pdf"
+        },
+        {
+          "label": "８月31日一般質問の記録 町長公務日誌",
+          "url": "https://www.town.saitama-miyoshi.lg.jp/town/chouchou/diary/chouchoudiary2026-8.html"
+        },
+        {
+          "label": "決算特別委員会３日分の公式録画",
+          "url": "https://www.youtube.com/playlist?list=PLeAW575PGU74"
+        },
+        {
+          "label": "決算特別委員会の会議録索引",
+          "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/iinkai/kessan/index.html"
+        },
+        {
+          "label": "第202号の紙面",
+          "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_202.pdf"
         }
       ]
     },
