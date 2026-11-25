@@ -3147,6 +3147,48 @@ GIKAI.questionText = {
       "note": "掲載された事前通告を全19頁収録。一般質問者15人を公式録画目録と照合。質問者の髙の字はOCRを保持し、検索用氏名は議員名簿の高の字。"
     },
     {
+      "id": "ae2539ba39e2c029df82",
+      "place": "三郷市",
+      "season": "fall",
+      "date": "2026-09-14",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "沖原優子議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/misato/WebView/rd/speech.html?council_id=16&schedule_id=4&playlist_id=6&speaker_id=30&target_year=2026",
+      "speakers": [
+        "沖原優子"
+      ]
+    },
+    {
+      "id": "bca854147242b0b896ea",
+      "place": "三郷市",
+      "season": "fall",
+      "date": "2026-09-14",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "西尾秀貴議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/misato/WebView/rd/speech.html?council_id=16&schedule_id=4&playlist_id=7&speaker_id=31&target_year=2026",
+      "speakers": [
+        "西尾秀貴"
+      ]
+    },
+    {
+      "id": "bb3cbbd9f33497146934",
+      "place": "三郷市",
+      "season": "fall",
+      "date": "2026-09-15",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "西村寿美枝議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/misato/WebView/rd/speech.html?council_id=16&schedule_id=5&playlist_id=1&speaker_id=13&target_year=2026",
+      "speakers": [
+        "西村寿美枝"
+      ]
+    },
+    {
       "id": "1a662ec728c0488515ed",
       "place": "上尾市",
       "season": "spring",
@@ -7576,6 +7618,30 @@ GIKAI.questionText = {
       "speakers": []
     },
     {
+      "place": "吉川市",
+      "season": "spring",
+      "date": "2026-03",
+      "id": "0ee383b1e7ffe2765c4c",
+      "url": "https://www.city.yoshikawa.saitama.jp/index.cfm/34,60989,c,html/60989/20260224-164554.pdf",
+      "title": "3月定例会の一般質問通告書（11人・16頁）",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "speakers": [
+        "雪田きよみ",
+        "大泉日出男",
+        "加藤克明",
+        "吉川敏幸",
+        "飯島正義",
+        "遠藤義法",
+        "岩田京子",
+        "五十嵐惠千子",
+        "宮窪雅一",
+        "岩崎小百合",
+        "林美希"
+      ],
+      "note": "市が事前に掲載した発言日一覧と個別の質問要旨を全頁収録。通告時点の資料。"
+    },
+    {
       "id": "b60eb93196238d11312d",
       "place": "吉川市",
       "season": "spring",
@@ -7708,6 +7774,34 @@ GIKAI.questionText = {
       "speakers": []
     },
     {
+      "place": "吉川市",
+      "season": "summer",
+      "date": "2026-06",
+      "id": "59b9b4db0cd10a544445",
+      "url": "https://www.city.yoshikawa.saitama.jp/index.cfm/34,60989,c,html/60989/20260604-131217.pdf",
+      "title": "6月定例会の一般質問通告書（15人・21頁）",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "speakers": [
+        "菊名克典",
+        "野村拓郎",
+        "降旗聡",
+        "大泉日出男",
+        "松﨑誠",
+        "林美希",
+        "遠藤義法",
+        "雪田きよみ",
+        "五十嵐惠千子",
+        "加藤克明",
+        "飯島正義",
+        "吉川敏幸",
+        "岩崎小百合",
+        "岩田京子",
+        "宮窪雅一"
+      ],
+      "note": "市が事前に掲載した発言日一覧と個別の質問要旨を全頁収録。通告時点の資料。"
+    },
+    {
       "id": "a5933c49dbaec45e05a9",
       "place": "吉川市",
       "season": "summer",
@@ -7818,18 +7912,94 @@ GIKAI.questionText = {
       "speakers": []
     },
     {
+      "place": "吉川市",
+      "season": "fall",
+      "date": "2026-08",
+      "id": "4eba043966de263aad8e",
+      "url": "https://www.city.yoshikawa.saitama.jp/index.cfm/34,110699,c,html/110699/20260901-102500.pdf",
+      "title": "９月定例会の議案質疑通告（議案第43・44・56・62号・11頁）",
+      "kind": "議案質疑通告（公式資料・OCR）",
+      "scope": "notice",
+      "speakers": [
+        "遠藤義法",
+        "松﨑誠",
+        "吉川敏幸",
+        "岩崎小百合",
+        "岩田京子",
+        "雪田きよみ"
+      ],
+      "note": "８月31日受付の事前通告全11頁。原紙面をもとに議案番号・通告者を付記。OCRの確認対象頁は3・6・8・9・10・11頁。表の空欄・詳細語句や数値は原PDFで確認。"
+    },
+    {
+      "place": "吉川市",
+      "season": "fall",
+      "date": "2026-08",
+      "id": "b979bcbd3f08bdfe81bc",
+      "url": "https://www.city.yoshikawa.saitama.jp/index.cfm/34,110699,c,html/110699/20260901-102613.pdf",
+      "title": "９月定例会の議案質疑通告（議案第48・49・50・52号・10頁）",
+      "kind": "議案質疑通告（公式資料・OCR）",
+      "scope": "notice",
+      "speakers": [
+        "雪田きよみ",
+        "岩田京子",
+        "岩崎小百合",
+        "遠藤義法"
+      ],
+      "note": "８月31日受付の事前通告全10頁。原紙面をもとに議案番号・通告者を付記。OCRの確認対象頁は3・7・8・9・10頁。表の空欄・詳細語句や数値は原PDFで確認。"
+    },
+    {
+      "place": "吉川市",
+      "season": "fall",
+      "date": "2026-09",
+      "id": "7a30ddff4da96cfd7073",
+      "url": "https://www.city.yoshikawa.saitama.jp/index.cfm/34,60989,c,html/60989/20260904-142037.pdf",
+      "title": "9月定例会の一般質問通告書（14人・23頁）",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "speakers": [
+        "降旗聡",
+        "五十嵐惠千子",
+        "大泉日出男",
+        "加藤克明",
+        "宮窪雅一",
+        "岩田京子",
+        "遠藤義法",
+        "岩崎小百合",
+        "松﨑誠",
+        "雪田きよみ",
+        "飯島正義",
+        "吉川敏幸",
+        "林美希",
+        "戸田馨"
+      ],
+      "note": "市が事前に掲載した発言日一覧と個別の質問要旨を全頁収録。通告時点の資料。"
+    },
+    {
       "id": "b15cfddbf937e552ac50",
       "place": "吉川市",
       "season": "fall",
       "date": "2026-09",
-      "title": "第211号（令和8年9月定例会） 第211号の全ページはこちら.pdf [ 5318 KB pdfファイル]",
+      "title": "よしかわ市議会だより第211号・一般質問、委員会審査、賛否討論",
       "url": "https://www.city.yoshikawa.saitama.jp/index.cfm/34,117448,c,html/117448/20261028-093511.pdf",
-      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "kind": "議会だよりの質問・答弁（紙面要約）",
       "scope": "summary",
-      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。 OCRの確認警告があるPDF 1、6頁を除外しています。",
+      "note": "秋の一般質問14人・17主題・26問答。委員会・決算の17問答、討論14件など補足39件と、原紙面OCR12頁を併録。質問日は公式通告・録画目録で照合。正式会議録は12月上旬提供予定と紙面に掲載。",
       "speakers": [
+        "降旗聡",
+        "五十嵐惠千子",
+        "大泉日出男",
+        "加藤克明",
+        "宮窪雅一",
+        "岩田京子",
+        "遠藤義法",
+        "岩崎小百合",
+        "松﨑誠",
+        "雪田きよみ",
+        "飯島正義",
+        "吉川敏幸",
+        "林美希",
         "戸田馨",
-        "雪田きよみ"
+        "稲葉剛治"
       ]
     },
     {
@@ -8086,6 +8256,20 @@ GIKAI.questionText = {
       "url": "https://smart.discussvision.net/smart/tenant/yoshimi/WebView/rd/speech.html?council_id=21&schedule_id=2&playlist_id=4&speaker_id=17&target_year=2026",
       "speakers": [
         "福田妙子"
+      ]
+    },
+    {
+      "id": "a986fe508e11dd7d3afd",
+      "place": "吉見町",
+      "season": "fall",
+      "date": "2026-09-04",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "宮尾美千代議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/yoshimi/WebView/rd/speech.html?council_id=21&schedule_id=3&playlist_id=1&speaker_id=19&target_year=2026",
+      "speakers": [
+        "宮尾美千代"
       ]
     },
     {
@@ -39907,7 +40091,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "第207号で議員15人・15主題の質問と答弁、議案・決算の14問答、補足13件を原紙面と照合。公式通告19頁、公式録画で9/14の２人、15・16日の各６人、17日の１人を照合。速報版は市が11月下旬予定と案内しており、正式会議録は確認中。",
+        "note": "第207号で議員15人・15主題の質問と答弁、議案・決算の14問答、補足13件を原紙面と照合。公式通告19頁、公式録画で9/14の２人、15・16日の各６人、17日の１人を照合。速報版は市が11月下旬予定と案内しており、正式会議録は確認中。 公式録画・音声の機械文字起こしを3件収録。",
         "indexURL": "https://smart.discussvision.net/smart/tenant/misato/WebView/rd/council.html?year=2026&council_id=16"
       }
     },
@@ -40069,7 +40253,8 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+        "note": "第211号の一般質問14人・17主題・26問答と、委員会・決算の17問答、討論14件などを原紙面と照合。一般質問通告23頁と議案質疑通告21頁、９月16～18日の公式録画14人。正式会議録は議会だより第211号によると12月上旬提供予定。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/yoshikawa/SpMinuteBrowse.html?tenant_id=230&view_years=2026"
       }
     },
     {
@@ -40364,7 +40549,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/yoshimi/WebView/rd/council.html?year=2026&council_id=21",
-        "note": "第14号の一般質問11人39問答、見出しのみ15項目、委員会質疑14組、議案審議・討論を原紙面と照合。９月３日６人・４日５人の公式録画目録に大項目32件。正式会議録は確認中。 公式録画・音声の機械文字起こしを3件収録。 公式録画・音声の機械文字起こしを6件収録。"
+        "note": "第14号の一般質問11人39問答、見出しのみ15項目、委員会質疑14組、議案審議・討論を原紙面と照合。９月３日６人・４日５人の公式録画目録に大項目32件。正式会議録は確認中。 公式録画・音声の機械文字起こしを3件収録。 公式録画・音声の機械文字起こしを6件収録。 公式録画・音声の機械文字起こしを7件収録。"
       }
     },
     {
