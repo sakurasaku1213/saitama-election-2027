@@ -5687,3 +5687,645 @@ GIKAI.cases.push(...[
     "note": "地区の事業認可と、交通・観光の施策の実施はそれぞれの段階を示す。"
   }
 ]);
+
+GIKAI.cases.push(...[
+  {
+    "place": "吉見町",
+    "title": "統合小学校の予算修正・附帯決議から４会場の住民説明会まで",
+    "topic": "学校統合・施設整備",
+    "actors": [
+      "福井学",
+      "杉田しのぶ",
+      "吉田克之",
+      "大野陽康",
+      "栁谷泉",
+      "吉見町議会",
+      "吉見町・教育委員会",
+      "統合再編準備委員会"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-04",
+        "actor": "福井学",
+        "stage": "基本計画の見直しを質す",
+        "detail": "福井議員は統合小学校の計画と基本設計の見直しをどう進めるか質問。教育長は施設整備費の縮減を主眼に検討中と答えた。",
+        "url": "https://ssp.kaigiroku.net/tenant/yoshimi/SpMinuteView.html?tenant_id=17&council_id=172&schedule_id=3",
+        "sourceTitle": "吉見町議会の2026-03-04の本会議録",
+        "archiveId": "ac6c8a2277759bd5160a",
+        "blocks": [
+          9,
+          11
+        ],
+        "memberActions": [
+          {
+            "name": "福井学",
+            "blocks": [
+              9
+            ],
+            "detail": "統合小学校の基本計画・基本設計をどう見直すか質問した。"
+          }
+        ]
+      },
+      {
+        "date": "2026-03-04",
+        "actor": "大野陽康",
+        "stage": "計画見直しの進捗と準備委員会の関与を確認",
+        "detail": "大野議員は方針確認後の進捗と準備委員会の関わりを質問。教育長は必要に応じ委員から意見を聞くと説明した。",
+        "url": "https://ssp.kaigiroku.net/tenant/yoshimi/SpMinuteView.html?tenant_id=17&council_id=172&schedule_id=3",
+        "sourceTitle": "吉見町議会の2026-03-04の本会議録",
+        "archiveId": "ac6c8a2277759bd5160a",
+        "blocks": [
+          168,
+          170
+        ],
+        "memberActions": [
+          {
+            "name": "大野陽康",
+            "blocks": [
+              168
+            ],
+            "detail": "計画見直しの進捗と準備委員会の関わりを確認した。"
+          }
+        ]
+      },
+      {
+        "date": "2026-03-19",
+        "actor": "杉田しのぶ、吉田克之、福井学",
+        "stage": "従前計画の設計・解体の予算を戻す修正動議",
+        "detail": "提出者は杉田議員、賛同者は吉田・福井両議員。従前の計画に基づき設計委託費や旧校舎等の解体費などを予算化する修正動議を提出。吉田議員は賛成討論を行った。",
+        "url": "https://ssp.kaigiroku.net/tenant/yoshimi/SpMinuteView.html?tenant_id=17&council_id=172&schedule_id=7",
+        "sourceTitle": "吉見町議会の2026-03-19の本会議録",
+        "archiveId": "4333944362017c8100b9",
+        "blocks": [
+          21,
+          81
+        ],
+        "billNumber": "発議第1号",
+        "memberActions": [
+          {
+            "name": "杉田しのぶ",
+            "blocks": [
+              21
+            ],
+            "detail": "修正動議を提出し、従前の計画の具体的な予算項目を示した。"
+          },
+          {
+            "name": "吉田克之",
+            "blocks": [
+              21,
+              81
+            ],
+            "detail": "修正動議に賛同し、既存施設の解体を先行するよう賛成討論を行った。"
+          },
+          {
+            "name": "福井学",
+            "blocks": [
+              21
+            ],
+            "detail": "本会議録に修正動議の賛同者として記載。"
+          }
+        ]
+      },
+      {
+        "date": "2026-03-19",
+        "actor": "福井学、杉田しのぶ、吉田克之",
+        "stage": "計画の早期策定と住民説明を求める附帯決議案",
+        "detail": "福井議員が提出し、杉田・吉田両議員が賛成者。計画の早期策定、旧校舎の再利用を前提としない整備、財政見通しの説明を求めた。議会は発議第２号を否決した。",
+        "url": "https://ssp.kaigiroku.net/tenant/yoshimi/SpMinuteView.html?tenant_id=17&council_id=172&schedule_id=7",
+        "sourceTitle": "吉見町議会の2026-03-19の本会議録",
+        "archiveId": "4333944362017c8100b9",
+        "blocks": [
+          108,
+          151
+        ],
+        "billNumber": "発議第2号",
+        "memberActions": [
+          {
+            "name": "福井学",
+            "blocks": [
+              108
+            ],
+            "detail": "早期策定、整備方針、財政計画と住民説明を盛り込んだ附帯決議案を提出した。"
+          },
+          {
+            "name": "杉田しのぶ",
+            "blocks": [
+              108
+            ],
+            "detail": "本会議録に附帯決議案の賛成者として記載。"
+          },
+          {
+            "name": "吉田克之",
+            "blocks": [
+              108
+            ],
+            "detail": "本会議録に附帯決議案の賛成者として記載。"
+          }
+        ]
+      },
+      {
+        "date": "2026-03-19",
+        "actor": "吉見町議会",
+        "stage": "修正動議と附帯決議案を否決し、当初予算を可決",
+        "detail": "記名表決は発議第１号が賛成３・反対10、発議第２号が賛成５・反対８。一般会計当初予算の議案第15号は賛成10・反対３で原案可決。",
+        "url": "https://www.town.yoshimi.saitama.jp/material/files/group/14/gikai-179.pdf#page=9",
+        "sourceTitle": "よしみぎかい第12号 紙面９頁",
+        "billNumber": "議案第15号"
+      },
+      {
+        "date": "2026-05-22",
+        "actor": "吉見町・教育委員会",
+        "stage": "整備手法の基本方針を確認",
+        "detail": "総合教育会議は新校舎に普通教室18教室を整備し、中学校の旧校舎は使用せず特別教室棟の一部を改修して活用する方針を確認した。",
+        "url": "https://www.town.yoshimi.saitama.jp/soshiki/kyoikusomuka/shougakkoutougousaihenn/4897.html",
+        "sourceTitle": "町 新しい小学校統合再編の方針"
+      },
+      {
+        "date": "2026-07-07",
+        "actor": "統合再編準備委員会",
+        "stage": "１年５か月ぶりに準備委員会を開催",
+        "detail": "第14回会議で事業経過、準備委員会の活動、整備手法の方向性と今後の日程を確認した。",
+        "url": "https://www.town.yoshimi.saitama.jp/soshiki/kyoikusomuka/shougakkoutougousaihenn/3686.html",
+        "sourceTitle": "町 統合再編準備委員会の開催状況"
+      },
+      {
+        "date": "2026-09-03",
+        "actor": "大野陽康",
+        "stage": "開校目標を確認",
+        "detail": "大野議員が開校の見通しを尋ね、総務課長は令和13年４月と答えた。",
+        "url": "https://www.town.yoshimi.saitama.jp/material/files/group/3/gikai14.pdf#page=11",
+        "sourceTitle": "よしみぎかい第14号 紙面11頁",
+        "archiveId": "e32a650a8ab70fa7b82b",
+        "blocks": [
+          5
+        ],
+        "memberActions": [
+          {
+            "name": "大野陽康",
+            "blocks": [
+              5
+            ],
+            "detail": "３月に続き統合小学校を取り上げ、開校時期を確認した。"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-04",
+        "actor": "栁谷泉",
+        "stage": "統合後の教育内容と制度活用を提案",
+        "detail": "教育特区の活用を提案。教育長は統合後の学校で小中連携と学習環境の充実を先に進めると答えた。",
+        "url": "https://www.town.yoshimi.saitama.jp/material/files/group/3/gikai14.pdf#page=14",
+        "sourceTitle": "よしみぎかい第14号 紙面14頁",
+        "archiveId": "e32a650a8ab70fa7b82b",
+        "blocks": [
+          11
+        ],
+        "memberActions": [
+          {
+            "name": "栁谷泉",
+            "blocks": [
+              11
+            ],
+            "detail": "教育特区の申請による特色ある学校づくりを提案した。"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-18",
+        "actor": "杉田しのぶ",
+        "stage": "前年度決算に対し、見直しの手続と設計費を取り上げる",
+        "detail": "杉田議員は、見直し前の設計費の割合と準備委員会を開催せず方針を変えた経過を理由に、一般会計決算の認定に反対した。",
+        "url": "https://www.town.yoshimi.saitama.jp/material/files/group/3/gikai14.pdf#page=7",
+        "sourceTitle": "よしみぎかい第14号 紙面7頁",
+        "archiveId": "e32a650a8ab70fa7b82b",
+        "blocks": [
+          34
+        ],
+        "billNumber": "議案第47号",
+        "memberActions": [
+          {
+            "name": "杉田しのぶ",
+            "blocks": [
+              34
+            ],
+            "detail": "統合再編事業の設計費と方針変更の手続に異議を述べ、決算に反対した。"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-18",
+        "actor": "吉見町議会",
+        "stage": "一般会計の前年度決算を認定",
+        "detail": "議案第47号を賛成12・反対１で認定。議会だよりの記名表決は杉田議員が反対。",
+        "url": "https://www.town.yoshimi.saitama.jp/material/files/group/3/gikai14.pdf#page=8",
+        "sourceTitle": "よしみぎかい第14号 紙面８頁",
+        "billNumber": "議案第47号"
+      },
+      {
+        "date": "2026-11-15",
+        "actor": "吉見町・教育委員会",
+        "stage": "住民説明会を４会場で開催",
+        "detail": "11月14・15日に基本計画等の改訂案と開校目標を説明。町は16日に４会場での開催結果を公表した。",
+        "url": "https://www.town.yoshimi.saitama.jp/soshiki/kyoikusomuka/shougakkoutougousaihenn/3969.html",
+        "sourceTitle": "町 統合小学校の施設整備について"
+      }
+    ],
+    "note": "修正動議・附帯決議案の採決、町の整備方針、説明会の実施を日付で追える。開校は令和13年４月の目標。"
+  },
+  {
+    "place": "吉見町",
+    "title": "学童保育の２施設の現地調査と夏休みの合同保育、新設方針",
+    "topic": "放課後児童クラブ",
+    "actors": [
+      "文教生活常任委員会",
+      "吉見町",
+      "福井学",
+      "尾﨑豊"
+    ],
+    "steps": [
+      {
+        "date": "2026-07-06",
+        "actor": "文教生活常任委員会",
+        "stage": "学童保育の２施設を現地調査",
+        "detail": "西公民館のこねくとクラブと西小学校ののびっ子クラブを調査。鍵・換気扇等の修繕分担を確認し、西公民館２階のトイレの洋式化を検討するよう要望した。",
+        "url": "https://www.town.yoshimi.saitama.jp/material/files/group/3/gikai14.pdf#page=15",
+        "sourceTitle": "よしみぎかい第14号 紙面15頁"
+      },
+      {
+        "date": "2026-09-03",
+        "actor": "福井学",
+        "stage": "夏休みの合同保育を検証",
+        "detail": "西公民館から西小学校への移動、面積基準、室温、保護者への負担を確認。町は学校の一時利用と合同保育が不安定な運営の要因と説明した。",
+        "url": "https://www.town.yoshimi.saitama.jp/material/files/group/3/gikai14.pdf#page=9",
+        "sourceTitle": "よしみぎかい第14号 紙面9頁",
+        "archiveId": "e32a650a8ab70fa7b82b",
+        "blocks": [
+          1
+        ],
+        "memberActions": [
+          {
+            "name": "福井学",
+            "blocks": [
+              1
+            ],
+            "detail": "合同保育時の面積・温度と、繰り返す移動の負担を具体的に確認した。"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-03",
+        "actor": "尾﨑豊",
+        "stage": "学童クラブの新設場所と今後の利用を確認",
+        "detail": "町は統合小学校の開校に合わせ、中学校敷地内に学童施設を新設する予定と回答。それまでは西公民館の利用を含め安定した環境を確保する方針を示した。",
+        "url": "https://www.town.yoshimi.saitama.jp/material/files/group/3/gikai14.pdf#page=10",
+        "sourceTitle": "よしみぎかい第14号 紙面10頁",
+        "archiveId": "e32a650a8ab70fa7b82b",
+        "blocks": [
+          2
+        ],
+        "memberActions": [
+          {
+            "name": "尾﨑豊",
+            "blocks": [
+              2
+            ],
+            "detail": "学童保育所の整備方針と、新設までの活動環境を確認した。"
+          }
+        ]
+      }
+    ],
+    "note": "委員会の現地調査と要望を確認。トイレの洋式化と学童施設の新設はその後の実施資料を確認中。"
+  },
+  {
+    "place": "吉見町",
+    "title": "核兵器禁止条約に関する意見書案を提出し記名表決",
+    "topic": "意見書・核兵器禁止条約",
+    "actors": [
+      "杉田しのぶ",
+      "福田妙子",
+      "福井学",
+      "栁谷泉",
+      "秋山真美",
+      "吉見町議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-09-18",
+        "actor": "杉田しのぶ、福田妙子、福井学",
+        "stage": "国への意見書案を発議",
+        "detail": "提出者は杉田議員、議案書の賛成者は福田・福井両議員。国に条約の再検討会議へのオブザーバー参加と早期の署名・批准を求めた。",
+        "url": "https://www.town.yoshimi.saitama.jp/material/files/group/3/gikai14.pdf#page=7",
+        "sourceTitle": "よしみぎかい第14号 紙面7頁",
+        "archiveId": "e32a650a8ab70fa7b82b",
+        "blocks": [
+          30
+        ],
+        "billNumber": "発議第4号",
+        "memberActions": [
+          {
+            "name": "杉田しのぶ",
+            "blocks": [
+              30
+            ],
+            "detail": "オブザーバー参加と早期署名・批准を求める意見書案を提出した。"
+          },
+          {
+            "name": "福田妙子",
+            "blocks": [
+              30
+            ],
+            "detail": "議会だよりに発議時の賛成者として掲載。"
+          },
+          {
+            "name": "福井学",
+            "blocks": [
+              30
+            ],
+            "detail": "議会だよりに発議時の賛成者として掲載。"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-18",
+        "actor": "栁谷泉、福井学、秋山真美",
+        "stage": "署名・批准とオブザーバー参加を討論",
+        "detail": "栁谷議員が反対、福井・秋山両議員が賛成を表明。議会だよりにそれぞれの討論の要旨を掲載した。",
+        "url": "https://www.town.yoshimi.saitama.jp/material/files/group/3/gikai14.pdf#page=7",
+        "sourceTitle": "よしみぎかい第14号 紙面7頁",
+        "archiveId": "e32a650a8ab70fa7b82b",
+        "blocks": [
+          31,
+          32,
+          33
+        ],
+        "billNumber": "発議第4号",
+        "memberActions": [
+          {
+            "name": "栁谷泉",
+            "blocks": [
+              31
+            ],
+            "detail": "核保有国の不参加、東アジアの安全保障、日米安保との整合を理由に現時点の署名・批准に反対した。"
+          },
+          {
+            "name": "福井学",
+            "blocks": [
+              32
+            ],
+            "detail": "対話を続け、核兵器を許さない規範を強める具体的な一歩を求めた。"
+          },
+          {
+            "name": "秋山真美",
+            "blocks": [
+              33
+            ],
+            "detail": "非核三原則を堅持し、オブザーバー参加から署名・批准の環境整備を進めるべきと述べた。"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-18",
+        "actor": "吉見町議会",
+        "stage": "意見書案を可決",
+        "detail": "議案結果は原案可決。記名表決は賛成７・反対５・棄権１。議長は表決不参加。",
+        "url": "https://www.town.yoshimi.saitama.jp/material/files/group/3/gikai14.pdf#page=8",
+        "sourceTitle": "よしみぎかい第14号 紙面８頁",
+        "billNumber": "発議第4号"
+      }
+    ],
+    "note": "発議、討論、議会の可決を確認した。送付・国側の対応は確認中。"
+  },
+  {
+    "place": "吉見町",
+    "title": "久保田の道路陥没で原因、通行止めと修復予定を報告",
+    "topic": "道路・下水道",
+    "actors": [
+      "吉見町"
+    ],
+    "steps": [
+      {
+        "date": "2026-07-18",
+        "actor": "吉見町",
+        "stage": "陥没を確認して通行止め",
+        "detail": "午後７時50分に道路の陥没が見つかり、町の職員は下水道管の腐食を確認したと報告。負傷者はいなかった。",
+        "url": "https://www.town.yoshimi.saitama.jp/material/files/group/3/gikai14.pdf#page=16",
+        "sourceTitle": "よしみぎかい第14号 紙面16頁"
+      },
+      {
+        "date": "2026-09",
+        "actor": "吉見町",
+        "stage": "全員協議会に修復予定を報告",
+        "detail": "下水道ストックマネジメント計画で更新の緊急度が高い箇所とされており、修復工事を11月末に予定していると報告した。",
+        "url": "https://www.town.yoshimi.saitama.jp/material/files/group/3/gikai14.pdf#page=16",
+        "sourceTitle": "よしみぎかい第14号 紙面16頁",
+        "archiveId": "e32a650a8ab70fa7b82b",
+        "blocks": [
+          36
+        ]
+      }
+    ],
+    "note": "陥没箇所の修復完了と通行再開は公表資料で確認中。"
+  },
+  {
+    "place": "吉見町",
+    "title": "公園と吉見百穴の危険木に対し補正予算を可決",
+    "topic": "危険木・公園・文化財",
+    "actors": [
+      "吉見町",
+      "新井寛雄",
+      "吉見町議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-06",
+        "actor": "吉見町",
+        "stage": "歩道の閉塞後に樹木を点検",
+        "detail": "６月下旬に枝が歩道をふさいだことを受け、樹木を点検し、優先順位を付けて管理すると議案の質疑で説明した。",
+        "url": "https://www.town.yoshimi.saitama.jp/material/files/group/3/gikai14.pdf#page=6",
+        "sourceTitle": "よしみぎかい第14号 紙面６頁"
+      },
+      {
+        "date": "2026-09-03",
+        "actor": "新井寛雄",
+        "stage": "文化財の保護と枯損木管理を確認",
+        "detail": "生涯学習課長は、指定文化財の環境整備を優先し、枯損木の撤去や樹木管理、補助制度等による財源の確保を進めていると答えた。",
+        "url": "https://www.town.yoshimi.saitama.jp/material/files/group/3/gikai14.pdf#page=10",
+        "sourceTitle": "よしみぎかい第14号 紙面10頁",
+        "archiveId": "e32a650a8ab70fa7b82b",
+        "blocks": [
+          3
+        ],
+        "memberActions": [
+          {
+            "name": "新井寛雄",
+            "blocks": [
+              3
+            ],
+            "detail": "文化財保護の課題を質し、町の樹木管理と財源確保の取組を確認した。"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-07",
+        "actor": "吉見町、吉見町議会",
+        "stage": "危険木対策を含む補正予算を可決",
+        "detail": "議案第42号で公園維持管理200万円、文化財周辺の樹木管理341万円を計上。八丁湖公園５本、さくら堤公園６本、吉見百穴周辺９本の伐採等を説明した。",
+        "url": "https://www.town.yoshimi.saitama.jp/material/files/group/3/gikai14.pdf#page=6",
+        "sourceTitle": "よしみぎかい第14号 紙面6頁",
+        "archiveId": "e32a650a8ab70fa7b82b",
+        "blocks": [
+          28
+        ],
+        "billNumber": "議案第42号"
+      }
+    ],
+    "note": "補正予算の可決と対象箇所を確認。伐採箇所ごとの完了は確認中。"
+  },
+  {
+    "place": "吉見町",
+    "title": "車中避難の協定・車両証と在宅避難者の把握を確認",
+    "topic": "災害時の避難・防災",
+    "actors": [
+      "吉見町",
+      "秋山真美",
+      "吉田克之"
+    ],
+    "steps": [
+      {
+        "date": "2023-11-30",
+        "actor": "吉見町",
+        "stage": "車中避難の手引き・車両証を公表",
+        "detail": "浸水想定区域外などの駐車場を持つ民間事業者等と協定を結んだと説明。手引き、車両証、避難者カードを公開した。日付は公表ページの更新日。",
+        "url": "https://www.town.yoshimi.saitama.jp/soshiki/somuka/8/saigainisonaeru/3861.html",
+        "sourceTitle": "町 風水害に備えた車中避難の手引き"
+      },
+      {
+        "date": "2026-09-04",
+        "actor": "秋山真美",
+        "stage": "避難所外にいる住民の把握と入力訓練を質す",
+        "detail": "秋山議員は在宅・車中避難者の把握と、QRコードからの入力を体験する訓練を求めた。町は車両証の全戸配布の実績を説明し、防災フェア等での周知啓発を答えた。",
+        "url": "https://www.town.yoshimi.saitama.jp/material/files/group/3/gikai14.pdf#page=13",
+        "sourceTitle": "よしみぎかい第14号 紙面13頁",
+        "archiveId": "e32a650a8ab70fa7b82b",
+        "blocks": [
+          8
+        ],
+        "memberActions": [
+          {
+            "name": "秋山真美",
+            "blocks": [
+              8
+            ],
+            "detail": "在宅・車中避難者の把握方法を確認し、QRコードを使った入力訓練を提案した。"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-04",
+        "actor": "吉田克之",
+        "stage": "災害時の車両避難場所の確保を確認",
+        "detail": "町は９事業者との協定、車中避難車両証の配布、田甲地内の緊急避難場所の整備を挙げた。",
+        "url": "https://www.town.yoshimi.saitama.jp/material/files/group/3/gikai14.pdf#page=13",
+        "sourceTitle": "よしみぎかい第14号 紙面13頁",
+        "archiveId": "e32a650a8ab70fa7b82b",
+        "blocks": [
+          9
+        ],
+        "memberActions": [
+          {
+            "name": "吉田克之",
+            "blocks": [
+              9
+            ],
+            "detail": "車中避難者への対応と協定による避難の受け皿を確認した。"
+          }
+        ]
+      }
+    ],
+    "note": "協定と車両証の公表を確認。QR入力体験の実施と在宅避難者の新たな把握手法は確認中。"
+  },
+  {
+    "place": "吉見町",
+    "title": "国保税の条例改正と国庫負担の拡充を求める意見書",
+    "topic": "国民健康保険税・国の財政支援",
+    "actors": [
+      "福井学",
+      "杉田しのぶ",
+      "栁谷泉",
+      "吉見町議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-04",
+        "actor": "福井学",
+        "stage": "国保税の給付と負担の見直しを求める",
+        "detail": "福井議員は県内統一に向けた負担増を取り上げ、給付と負担の見直しについて町の見解を求めた。",
+        "url": "https://ssp.kaigiroku.net/tenant/yoshimi/SpMinuteView.html?tenant_id=17&council_id=172&schedule_id=3",
+        "sourceTitle": "吉見町議会の2026-03-04の本会議録",
+        "archiveId": "ac6c8a2277759bd5160a",
+        "blocks": [
+          9
+        ],
+        "memberActions": [
+          {
+            "name": "福井学",
+            "blocks": [
+              9
+            ],
+            "detail": "国保の県内統一に伴う負担と給付・負担見直しの考え方を質問した。"
+          }
+        ]
+      },
+      {
+        "date": "2026-03-06",
+        "actor": "吉見町議会",
+        "stage": "県内の税水準統一に向けた条例改正を可決",
+        "detail": "議案第５号の記名表決は賛成12・反対１。紙面は県の取組を踏まえた保険税の引上げと説明している。",
+        "url": "https://www.town.yoshimi.saitama.jp/material/files/group/14/gikai-179.pdf#page=9",
+        "sourceTitle": "よしみぎかい第12号 紙面９頁",
+        "billNumber": "議案第5号"
+      },
+      {
+        "date": "2026-03-19",
+        "actor": "杉田しのぶ、栁谷泉、吉見町議会",
+        "stage": "国への意見書案を提出、討論し可決",
+        "detail": "杉田議員が国庫負担の拡充と子どもの均等割全額免除を求める意見書案を提出し、栁谷議員は制度の再構築にも踏み込むよう求めて賛成討論。議会は可決した。",
+        "url": "https://ssp.kaigiroku.net/tenant/yoshimi/SpMinuteView.html?tenant_id=17&council_id=172&schedule_id=7",
+        "sourceTitle": "吉見町議会の2026-03-19の本会議録",
+        "archiveId": "4333944362017c8100b9",
+        "blocks": [
+          178,
+          186,
+          189
+        ],
+        "billNumber": "発議第3号",
+        "memberActions": [
+          {
+            "name": "杉田しのぶ",
+            "blocks": [
+              178
+            ],
+            "detail": "国庫負担の拡充と子どもの均等割全額免除を求める意見書案を提出した。"
+          },
+          {
+            "name": "栁谷泉",
+            "blocks": [
+              186
+            ],
+            "detail": "国庫負担拡充に賛成し、国保制度の再構築も必要と討論した。"
+          }
+        ]
+      },
+      {
+        "date": "2026-06-12",
+        "actor": "吉見町議会",
+        "stage": "課税限度額等の専決処分を承認",
+        "detail": "議案第22号の紙面は基礎課税額に係る課税限度額の引上げ等と説明。記名表決で表決に参加した13人が賛成した。",
+        "url": "https://www.town.yoshimi.saitama.jp/material/files/group/14/gika-180.pdf#page=6",
+        "sourceTitle": "よしみぎかい第13号 紙面６頁",
+        "billNumber": "議案第22号"
+      }
+    ],
+    "note": "町の条例改正と国への意見書を同じ経過に記録した。国側の制度変更と町への効果は確認中。"
+  }
+]);

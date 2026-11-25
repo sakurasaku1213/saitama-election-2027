@@ -7529,34 +7529,23 @@ GIKAI.questionText = {
       "place": "吉見町",
       "season": "fall",
       "date": "2026-09",
-      "title": "よしみぎかい14号・9月定例会一般質問（紙面9〜14頁）",
+      "title": "よしみぎかい第14号・一般質問、議案審議、委員会質疑",
       "url": "https://www.town.yoshimi.saitama.jp/material/files/group/3/gikai14.pdf",
-      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "kind": "議会だよりの質問・答弁（紙面要約）",
       "scope": "summary",
-      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
+      "note": "一般質問11人39問答と見出しのみ15項目、委員会質疑14組、議案質疑・討論等を原紙面と照合。一般質問日は公式録画目録。OCR検査で指摘のあったPDF１・13頁の原画像を確認し、13頁は照合した問答を収録。原紙面のOCRは４～12・14～16頁を併録。同じ紙面を公開する町公式の２URLは１資料に集約。",
       "speakers": [
-        "大野陽康",
-        "杉田しのぶ",
         "福井学",
-        "福田妙子"
-      ]
-    },
-    {
-      "id": "929a0215def5d4454b6f",
-      "place": "吉見町",
-      "season": "fall",
-      "date": "2026-09",
-      "title": "議会だより最新号について よしみぎかい14号（令和8年11月1日） (PDFファイル: 7.3MB)",
-      "url": "https://www.town.yoshimi.saitama.jp/material/files/group/14/gika-181.pdf",
-      "kind": "議会だよりの質問・答弁要旨（OCR）",
-      "scope": "summary",
-      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。 OCRの確認警告があるPDF 1、13頁を除外しています。",
-      "speakers": [
-        "大野陽康",
-        "宮尾美千代",
+        "尾﨑豊",
         "新井寛雄",
-        "福井学",
-        "福田妙子"
+        "福田妙子",
+        "大野陽康",
+        "伊藤えりか",
+        "宮尾美千代",
+        "秋山真美",
+        "吉田克之",
+        "杉田しのぶ",
+        "栁谷泉"
       ]
     },
     {
@@ -23376,6 +23365,34 @@ GIKAI.questionText = {
         "松原謙司"
       ],
       "note": "公表された事前通告。氏名・13項目を公式録画の目録と照合し、実際の登壇日は目録から補った。小高議員の項目は通告PDFが「県境整備」、録画目録と議会だよりが「環境整備」と表記。PDFのOCRには原表記を併録。"
+    },
+    {
+      "id": "0271d88eb1ead8003fb4",
+      "place": "川島町",
+      "season": "fall",
+      "date": "2026-09-14",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "坂本順子議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/kawajima/WebView/rd/speech.html?council_id=45&schedule_id=4&playlist_id=1&speaker_id=22&target_year=2026",
+      "speakers": [
+        "坂本順子"
+      ]
+    },
+    {
+      "id": "58a5b6ed56b21d0682a6",
+      "place": "川島町",
+      "season": "fall",
+      "date": "2026-09-14",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "山﨑宣佳議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/kawajima/WebView/rd/speech.html?council_id=45&schedule_id=4&playlist_id=2&speaker_id=21&target_year=2026",
+      "speakers": [
+        "山﨑宣佳"
+      ]
     },
     {
       "id": "10bfb798c3f12bdd5323",
@@ -39650,7 +39667,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/kawajima/WebView/rd/council.html?year=2026&council_id=45",
-        "note": "第155号の一般質問７人・冒頭７組と本文26組、委員会質疑15組、決算６事業。公式通告13項目を９月14日４人、15日３人の公式録画目録と照合。正式会議録は確認中。"
+        "note": "第155号の一般質問７人・冒頭７組と本文26組、委員会質疑15組、決算６事業。公式通告13項目を９月14日４人、15日３人の公式録画目録と照合。正式会議録は確認中。 公式録画の機械文字起こしを2件収録。"
       }
     },
     {
@@ -39676,7 +39693,8 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "議会だより要旨 2資料。配布用HTMLで本文を開けます。"
+        "indexURL": "https://smart.discussvision.net/smart/tenant/yoshimi/WebView/rd/council.html?year=2026&council_id=21",
+        "note": "第14号の一般質問11人39問答、見出しのみ15項目、委員会質疑14組、議案審議・討論を原紙面と照合。９月３日６人・４日５人の公式録画目録に大項目32件。正式会議録は確認中。"
       }
     },
     {
