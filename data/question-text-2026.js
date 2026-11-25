@@ -31259,6 +31259,32 @@ GIKAI.questionText = {
       ]
     },
     {
+      "place": "毛呂山町",
+      "season": "fall",
+      "date": "2026-09",
+      "id": "ea18141a5f109aa6cc4e",
+      "url": "https://www.town.moroyama.saitama.jp/material/files/group/2/ippansitumon0809.pdf",
+      "title": "第３回定例会の一般質問通告一覧（13人39項目）",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "speakers": [
+        "小峰明雄",
+        "佐島啓晋",
+        "長瀬衛",
+        "千葉三津子",
+        "荒木かおる",
+        "佐藤秀樹",
+        "中村奨平",
+        "小野浩",
+        "下田泰章",
+        "堀江快治",
+        "岡野勉",
+        "高橋達夫",
+        "澤田巌"
+      ],
+      "note": "事前通告の原PDF１頁のOCR。掲載は９月２・３・４・７日の13人・39項目。原紙面の「髙橋達夫」は資料リンクで確認でき、検索用氏名は議員名簿収録の「高橋達夫」。"
+    },
+    {
       "id": "ddaa831f07ead47c1628",
       "place": "深谷市",
       "season": "spring",
@@ -39986,7 +40012,8 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+        "indexURL": "https://www.town.moroyama.saitama.jp/soshikikarasagasu/gikaijimukyoku/moroyamamachigikai/gikaihousou/12433.html",
+        "note": "議会だより第134号の紙面要旨を収録。事前通告は13人39項目。町議会の公式チャンネルで一般質問13本を含む録画16本を確認。正式会議録と録画の字幕を確認中。"
       }
     },
     {

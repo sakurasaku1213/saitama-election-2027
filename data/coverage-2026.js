@@ -6416,26 +6416,26 @@ GIKAI.coverage2026 = {
     {
       "place": "毛呂山町",
       "season": "fall",
-      "label": "2026年秋の定例会",
+      "label": "令和8年第3回（9月）議会定例会",
       "fromDate": "2026-09-01",
       "toDate": "2026-09-17",
-      "planned": true,
+      "planned": false,
       "materials": {
         "meeting": {
-          "state": "partial",
-          "note": "開催予定を確認。"
+          "state": "verified",
+          "note": "町公式日程で開会・閉会を確認。"
         },
         "activity": {
           "state": "partial",
           "note": "この時期の掲載項目 39件。通告・目次・本文の別は活動の出典に表示。"
         },
         "text": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "議会だより第134号の紙面要旨を収録。事前通告は13人39項目。町議会の公式チャンネルで一般質問13本を含む録画16本を確認。正式会議録と録画の字幕を確認中。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "町公式の結果表27行。９月７日８行、17日16行、日付欄なし３行。一般会計決算は不認定。"
         },
         "votes": {
           "state": "pending",
@@ -6452,12 +6452,28 @@ GIKAI.coverage2026 = {
           "url": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/index.html"
         },
         {
-          "label": "会期資料　2026年9月定例会",
+          "label": "公式一般質問通告13人39項目",
           "url": "https://www.town.moroyama.saitama.jp/material/files/group/2/ippansitumon0809.pdf"
         },
         {
           "label": "一般質問の資料　令和8年第3回(9月)定例会一般質問",
           "url": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5023.html"
+        },
+        {
+          "label": "９月定例会の公式審議結果",
+          "url": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html"
+        },
+        {
+          "label": "９月定例会の会期日程",
+          "url": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5024.html"
+        },
+        {
+          "label": "議会録画の公式案内",
+          "url": "https://www.town.moroyama.saitama.jp/soshikikarasagasu/gikaijimukyoku/moroyamamachigikai/gikaihousou/12433.html"
+        },
+        {
+          "label": "町議会のYouTubeチャンネル",
+          "url": "https://www.youtube.com/channel/UCpxS-hOx3jmZePHwJVeK71g"
         }
       ]
     },
@@ -89051,6 +89067,349 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_202.pdf#page=11",
       "voteNote": "紙面の表決は賛成13、反対1。"
+    },
+    {
+      "place": "毛呂山町",
+      "season": "fall",
+      "session": "令和8年第3回（9月）議会定例会",
+      "title": "毛呂山町重度心身障害者医療費支給に関する条例及び毛呂山町こども医療費支給に関する条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultURL": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultLocator": "公式審議結果表の1行目",
+      "sourceTitle": "毛呂山町議会の公式審議結果",
+      "number": "議案第35号",
+      "date": "2026-09-07"
+    },
+    {
+      "place": "毛呂山町",
+      "season": "fall",
+      "session": "令和8年第3回（9月）議会定例会",
+      "title": "令和8年度毛呂山町一般会計補正予算（第2号）",
+      "result": "原案可決",
+      "url": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultURL": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultLocator": "公式審議結果表の2行目",
+      "sourceTitle": "毛呂山町議会の公式審議結果",
+      "number": "議案第36号",
+      "date": "2026-09-07"
+    },
+    {
+      "place": "毛呂山町",
+      "season": "fall",
+      "session": "令和8年第3回（9月）議会定例会",
+      "title": "令和8年度毛呂山町国民健康保険特別会計補正予算（第1号）",
+      "result": "原案可決",
+      "url": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultURL": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultLocator": "公式審議結果表の3行目",
+      "sourceTitle": "毛呂山町議会の公式審議結果",
+      "number": "議案第37号",
+      "date": "2026-09-07"
+    },
+    {
+      "place": "毛呂山町",
+      "season": "fall",
+      "session": "令和8年第3回（9月）議会定例会",
+      "title": "令和8年度毛呂山町介護保険特別会計補正予算（第1号）",
+      "result": "原案可決",
+      "url": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultURL": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultLocator": "公式審議結果表の4行目",
+      "sourceTitle": "毛呂山町議会の公式審議結果",
+      "number": "議案第38号",
+      "date": "2026-09-07"
+    },
+    {
+      "place": "毛呂山町",
+      "season": "fall",
+      "session": "令和8年第3回（9月）議会定例会",
+      "title": "令和8年度毛呂山町後期高齢者医療特別会計補正予算（第1号）",
+      "result": "原案可決",
+      "url": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultURL": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultLocator": "公式審議結果表の5行目",
+      "sourceTitle": "毛呂山町議会の公式審議結果",
+      "number": "議案第39号",
+      "date": "2026-09-07"
+    },
+    {
+      "place": "毛呂山町",
+      "season": "fall",
+      "session": "令和8年第3回（9月）議会定例会",
+      "title": "令和7年度毛呂山町一般会計歳入歳出決算認定について",
+      "result": "不認定",
+      "url": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultURL": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultLocator": "公式審議結果表の6行目",
+      "sourceTitle": "毛呂山町議会の公式審議結果",
+      "number": "議案第40号",
+      "date": "2026-09-17"
+    },
+    {
+      "place": "毛呂山町",
+      "season": "fall",
+      "session": "令和8年第3回（9月）議会定例会",
+      "title": "令和7年度毛呂山町国民健康保険特別会計歳入歳出決算認定について",
+      "result": "認定",
+      "url": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultURL": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultLocator": "公式審議結果表の7行目",
+      "sourceTitle": "毛呂山町議会の公式審議結果",
+      "number": "議案第41号",
+      "date": "2026-09-17"
+    },
+    {
+      "place": "毛呂山町",
+      "season": "fall",
+      "session": "令和8年第3回（9月）議会定例会",
+      "title": "令和7年度毛呂山町水道事業会計未処分利益剰余金の処分について",
+      "result": "原案可決",
+      "url": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultURL": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultLocator": "公式審議結果表の8行目",
+      "sourceTitle": "毛呂山町議会の公式審議結果",
+      "number": "議案第42号",
+      "date": "2026-09-17"
+    },
+    {
+      "place": "毛呂山町",
+      "season": "fall",
+      "session": "令和8年第3回（9月）議会定例会",
+      "title": "令和7年度毛呂山町水道事業決算認定について",
+      "result": "認定",
+      "url": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultURL": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultLocator": "公式審議結果表の9行目",
+      "sourceTitle": "毛呂山町議会の公式審議結果",
+      "number": "議案第43号",
+      "date": "2026-09-17"
+    },
+    {
+      "place": "毛呂山町",
+      "season": "fall",
+      "session": "令和8年第3回（9月）議会定例会",
+      "title": "令和7年度毛呂山町農業集落排水事業会計未処分利益剰余金の処分について",
+      "result": "原案可決",
+      "url": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultURL": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultLocator": "公式審議結果表の10行目",
+      "sourceTitle": "毛呂山町議会の公式審議結果",
+      "number": "議案第44号",
+      "date": "2026-09-17"
+    },
+    {
+      "place": "毛呂山町",
+      "season": "fall",
+      "session": "令和8年第3回（9月）議会定例会",
+      "title": "令和7年度毛呂山町農業集落排水事業決算認定について",
+      "result": "認定",
+      "url": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultURL": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultLocator": "公式審議結果表の11行目",
+      "sourceTitle": "毛呂山町議会の公式審議結果",
+      "number": "議案第45号",
+      "date": "2026-09-17"
+    },
+    {
+      "place": "毛呂山町",
+      "season": "fall",
+      "session": "令和8年第3回（9月）議会定例会",
+      "title": "令和7年度毛呂山町介護保険特別会計歳入歳出決算認定について",
+      "result": "認定",
+      "url": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultURL": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultLocator": "公式審議結果表の12行目",
+      "sourceTitle": "毛呂山町議会の公式審議結果",
+      "number": "議案第46号",
+      "date": "2026-09-17"
+    },
+    {
+      "place": "毛呂山町",
+      "season": "fall",
+      "session": "令和8年第3回（9月）議会定例会",
+      "title": "令和7年度毛呂山町後期高齢者医療特別会計歳入歳出決算認定について",
+      "result": "認定",
+      "url": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultURL": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultLocator": "公式審議結果表の13行目",
+      "sourceTitle": "毛呂山町議会の公式審議結果",
+      "number": "議案第47号",
+      "date": "2026-09-17"
+    },
+    {
+      "place": "毛呂山町",
+      "season": "fall",
+      "session": "令和8年第3回（9月）議会定例会",
+      "title": "越生線第55号踏切道拡幅改良工事の実施についての協定締結について",
+      "result": "原案可決",
+      "url": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultURL": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultLocator": "公式審議結果表の14行目",
+      "sourceTitle": "毛呂山町議会の公式審議結果",
+      "number": "議案第48号",
+      "date": "2026-09-07"
+    },
+    {
+      "place": "毛呂山町",
+      "season": "fall",
+      "session": "令和8年第3回（9月）議会定例会",
+      "title": "財産の取得について（小学生用学習タブレット端末）",
+      "result": "原案可決",
+      "url": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultURL": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultLocator": "公式審議結果表の15行目",
+      "sourceTitle": "毛呂山町議会の公式審議結果",
+      "number": "議案第49号",
+      "date": "2026-09-07"
+    },
+    {
+      "place": "毛呂山町",
+      "season": "fall",
+      "session": "令和8年第3回（9月）議会定例会",
+      "title": "教育委員会委員の任命について",
+      "result": "同意",
+      "url": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultURL": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultLocator": "公式審議結果表の16行目",
+      "sourceTitle": "毛呂山町議会の公式審議結果",
+      "number": "議案第50号",
+      "date": "2026-09-17"
+    },
+    {
+      "place": "毛呂山町",
+      "season": "fall",
+      "session": "令和8年第3回（9月）議会定例会",
+      "title": "令和7年度健全化判断比率について",
+      "result": "報告のみ",
+      "url": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultURL": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultLocator": "公式審議結果表の17行目",
+      "sourceTitle": "毛呂山町議会の公式審議結果",
+      "number": "報告第4号"
+    },
+    {
+      "place": "毛呂山町",
+      "season": "fall",
+      "session": "令和8年第3回（9月）議会定例会",
+      "title": "令和7年度資金不足比率について",
+      "result": "報告のみ",
+      "url": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultURL": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultLocator": "公式審議結果表の18行目",
+      "sourceTitle": "毛呂山町議会の公式審議結果",
+      "number": "報告第5号"
+    },
+    {
+      "place": "毛呂山町",
+      "season": "fall",
+      "session": "令和8年第3回（9月）議会定例会",
+      "title": "一般廃棄物排出環境の確保及びごみ集積所の適正運用を求める請願",
+      "result": "閉会中の継続審査",
+      "url": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultURL": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultLocator": "公式審議結果表の19行目",
+      "sourceTitle": "毛呂山町議会の公式審議結果",
+      "number": "請願第1号"
+    },
+    {
+      "place": "毛呂山町",
+      "season": "fall",
+      "session": "令和8年第3回（9月）議会定例会",
+      "title": "発議第1号 毛呂山町議会議員政治倫理条例の一部を改正する条例の撤回について",
+      "result": "許可",
+      "url": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultURL": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultLocator": "公式審議結果表の20行目",
+      "sourceTitle": "毛呂山町議会の公式審議結果",
+      "number": "発議第1号の撤回許可",
+      "date": "2026-09-07"
+    },
+    {
+      "place": "毛呂山町",
+      "season": "fall",
+      "session": "令和8年第3回（9月）議会定例会",
+      "title": "建設資材供給不安の解消並びに中小建設事業者への支援を求める意見書の提出について",
+      "result": "否決",
+      "url": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultURL": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultLocator": "公式審議結果表の21行目",
+      "sourceTitle": "毛呂山町議会の公式審議結果",
+      "number": "発議第2号",
+      "date": "2026-09-17"
+    },
+    {
+      "place": "毛呂山町",
+      "season": "fall",
+      "session": "令和8年第3回（9月）議会定例会",
+      "title": "職員の不祥事に係る早期報告と再発防止を求める決議",
+      "result": "原案可決",
+      "url": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultURL": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultLocator": "公式審議結果表の22行目",
+      "sourceTitle": "毛呂山町議会の公式審議結果",
+      "number": "発議第3号",
+      "date": "2026-09-17"
+    },
+    {
+      "place": "毛呂山町",
+      "season": "fall",
+      "session": "令和8年第3回（9月）議会定例会",
+      "title": "議員派遣",
+      "result": "原案可決",
+      "url": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultURL": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultLocator": "公式審議結果表の23行目",
+      "sourceTitle": "毛呂山町議会の公式審議結果",
+      "date": "2026-09-17"
+    },
+    {
+      "place": "毛呂山町",
+      "season": "fall",
+      "session": "令和8年第3回（9月）議会定例会",
+      "title": "総務文教常任委員会の閉会中の継続調査",
+      "result": "原案可決",
+      "url": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultURL": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultLocator": "公式審議結果表の24行目",
+      "sourceTitle": "毛呂山町議会の公式審議結果",
+      "date": "2026-09-17"
+    },
+    {
+      "place": "毛呂山町",
+      "season": "fall",
+      "session": "令和8年第3回（9月）議会定例会",
+      "title": "生活福祉常任委員会の閉会中の継続調査",
+      "result": "原案可決",
+      "url": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultURL": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultLocator": "公式審議結果表の25行目",
+      "sourceTitle": "毛呂山町議会の公式審議結果",
+      "date": "2026-09-17"
+    },
+    {
+      "place": "毛呂山町",
+      "season": "fall",
+      "session": "令和8年第3回（9月）議会定例会",
+      "title": "生活福祉常任委員会の閉会中の継続審査",
+      "result": "原案可決",
+      "url": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultURL": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultLocator": "公式審議結果表の26行目",
+      "sourceTitle": "毛呂山町議会の公式審議結果",
+      "date": "2026-09-17"
+    },
+    {
+      "place": "毛呂山町",
+      "season": "fall",
+      "session": "令和8年第3回（9月）議会定例会",
+      "title": "議会運営委員会の閉会中の継続調査",
+      "result": "原案可決",
+      "url": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultURL": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
+      "resultLocator": "公式審議結果表の27行目",
+      "sourceTitle": "毛呂山町議会の公式審議結果",
+      "date": "2026-09-17"
     }
   ],
   "policy": [
