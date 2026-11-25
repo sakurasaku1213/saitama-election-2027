@@ -23395,6 +23395,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "fddaf27895006ac32efe",
+      "place": "川島町",
+      "season": "fall",
+      "date": "2026-09-14",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "菊地敏昭議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。 自動検査で確認候補になった時間帯も含まれます。",
+      "url": "https://smart.discussvision.net/smart/tenant/kawajima/WebView/rd/speech.html?council_id=45&schedule_id=4&playlist_id=3&speaker_id=9&target_year=2026",
+      "speakers": [
+        "菊地敏昭"
+      ]
+    },
+    {
       "id": "10bfb798c3f12bdd5323",
       "place": "川越市",
       "season": "spring",
@@ -37131,12 +37145,44 @@ GIKAI.questionText = {
       "place": "鳩山町",
       "season": "fall",
       "date": "2026-09",
-      "title": "鳩山町議会だより174号・9月定例会の一般質問（9〜13頁）",
-      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346211_doc_63_0.pdf",
-      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "title": "はとやま議会だより第174号・一般質問、決算審議と委員会報告",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf",
+      "kind": "議会だよりの質問・答弁（紙面要約）",
       "scope": "summary",
-      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
-      "speakers": []
+      "note": "一般質問９人34問答、決算審議10問答、総務産業委員会の所管調査３問答と意見書・討論、視察等を整理。質問日は公式音声目録。原紙面全16頁のOCRも併録。紙面６頁の「第２回」は同号８頁と公式日程の「第３回」を注記。",
+      "speakers": [
+        "日坂和久",
+        "関根清隆",
+        "石井徹",
+        "石井計次",
+        "森利夫",
+        "野田小百合",
+        "小鷹房義",
+        "中山明美",
+        "清水秀幸"
+      ]
+    },
+    {
+      "place": "鳩山町",
+      "season": "fall",
+      "date": "2026-09",
+      "id": "2d91d76bce124970b7fb",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1787642854_doc_63_0.pdf",
+      "title": "第３回定例会・一般質問通告書（９人・10頁）",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "speakers": [
+        "日坂和久",
+        "関根清隆",
+        "石井徹",
+        "石井計次",
+        "森利夫",
+        "野田小百合",
+        "小鷹房義",
+        "中山明美",
+        "清水秀幸"
+      ],
+      "note": "町公式の事前通告。通告の９人を９月２・３日の実際の音声目録と照合。質問事項と細目を含む全10頁のOCR。"
     },
     {
       "id": "745c2b830deb56f08a01",
@@ -39667,7 +39713,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/kawajima/WebView/rd/council.html?year=2026&council_id=45",
-        "note": "第155号の一般質問７人・冒頭７組と本文26組、委員会質疑15組、決算６事業。公式通告13項目を９月14日４人、15日３人の公式録画目録と照合。正式会議録は確認中。 公式録画の機械文字起こしを2件収録。"
+        "note": "第155号の一般質問７人・冒頭７組と本文26組、委員会質疑15組、決算６事業。公式通告13項目を９月14日４人、15日３人の公式録画目録と照合。正式会議録は確認中。 公式録画の機械文字起こしを2件収録。 公式録画・音声の機械文字起こしを3件収録。"
       }
     },
     {
@@ -39720,7 +39766,8 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "議会だより要旨 1資料。配布用HTMLで本文を開けます。"
+        "indexURL": "https://smart.discussvision.net/smart/tenant/hatoyama/WebView/rd/council.html?year=2026&council_id=63",
+        "note": "第174号の一般質問９人34問答、決算審議10問答、所管事務調査３問答、討論と視察等。公式通告９人10頁、公式音声は９月２日４人、３日５人。正式会議録は確認中。"
       }
     },
     {

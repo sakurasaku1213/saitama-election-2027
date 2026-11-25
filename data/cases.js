@@ -6329,3 +6329,508 @@ GIKAI.cases.push(...[
     "note": "町の条例改正と国への意見書を同じ経過に記録した。国側の制度変更と町への効果は確認中。"
   }
 ]);
+
+GIKAI.cases.push(...[
+  {
+    "place": "鳩山町",
+    "title": "議員定数を12人から11人に改める条例案の提出と可決",
+    "topic": "議員定数・議会運営",
+    "actors": [
+      "清水秀幸",
+      "関根清隆",
+      "鳩山町議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-09-11",
+        "actor": "清水秀幸",
+        "stage": "議員定数を１人減らす条例案を提出",
+        "detail": "清水議員が12人を11人に改める発議第１号を提出。提案理由は人口・財政の見通しと、委員会審議や情報共有などで機能を確保できるとの判断。",
+        "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=6",
+        "sourceTitle": "はとやま議会だより第174号 紙面6頁",
+        "archiveId": "89289de0ca7e8e2212c6",
+        "blocks": [
+          24
+        ],
+        "billNumber": "発議第1号",
+        "memberActions": [
+          {
+            "name": "清水秀幸",
+            "blocks": [
+              24
+            ],
+            "detail": "次期町議選の定数を12人から11人に改める条例案を提出した。"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-11",
+        "actor": "関根清隆",
+        "stage": "代表性と新たな議員の参加を理由に反対討論",
+        "detail": "多様な意見の代表と議会の質を維持するため現行定数を維持するよう求めた。",
+        "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=6",
+        "sourceTitle": "はとやま議会だより第174号 紙面6頁",
+        "archiveId": "89289de0ca7e8e2212c6",
+        "blocks": [
+          25
+        ],
+        "billNumber": "発議第1号",
+        "memberActions": [
+          {
+            "name": "関根清隆",
+            "blocks": [
+              25
+            ],
+            "detail": "代表性と新しい議員が参加しやすい環境を理由に反対した。"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-11",
+        "actor": "鳩山町議会",
+        "stage": "賛成８・反対１で可決",
+        "detail": "紙面は次回（令和９年４月予定）の町議会議員一般選挙から適用と報告。６頁の会期番号は同号８頁・公式音声目録と異なるため、第３回定例会として記録した。",
+        "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=8",
+        "sourceTitle": "はとやま議会だより第174号 紙面８頁",
+        "billNumber": "発議第1号"
+      }
+    ],
+    "note": "議員の条例案提出、討論、本会議の可決まで確認。新しい定数が使われるのは次回の一般選挙。"
+  },
+  {
+    "place": "鳩山町",
+    "title": "防犯灯LED化の費用対効果の質問から契約議決と所管事務調査まで",
+    "topic": "防犯灯・LED化",
+    "actors": [
+      "石井徹",
+      "鳩山町",
+      "鳩山町議会",
+      "総務産業委員会"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-03",
+        "actor": "石井徹",
+        "stage": "電気料金とCO₂の削減試算、契約方式を確認",
+        "detail": "町は令和６年度の電気料金に削減率を掛けた年間約1,400万円の概算を示した。石井議員はESCO事業を選んだ理由も質問した。",
+        "url": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=242&schedule_id=4",
+        "sourceTitle": "鳩山町議会 2026-03-03の会議録",
+        "archiveId": "1ecf800721d30a5c09eb",
+        "blocks": [
+          49,
+          51,
+          53
+        ],
+        "memberActions": [
+          {
+            "name": "石井徹",
+            "blocks": [
+              49,
+              53
+            ],
+            "detail": "年間の電気料金・CO₂の削減見込みとESCO方式の選定理由を質問した。"
+          }
+        ]
+      },
+      {
+        "date": "2026-04-01",
+        "actor": "鳩山町",
+        "stage": "事業者を公募",
+        "detail": "現地調査、設計・施工と10年の維持管理を含む事業者を募集。公告時の既設約1,800基、未LED化約1,400基は概算。",
+        "url": "https://www.town.hatoyama.saitama.jp/data/doc/1775026571_doc_50_0.pdf",
+        "sourceTitle": "町 ４月１日の公募公告"
+      },
+      {
+        "date": "2026-06-10",
+        "actor": "鳩山町議会",
+        "stage": "業務委託契約案を可決",
+        "detail": "議案第34号は起立全員で可決された。",
+        "url": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=245&schedule_id=5",
+        "sourceTitle": "鳩山町議会 2026-06-10の会議録",
+        "archiveId": "6be7d0e6290ac567481d",
+        "blocks": [
+          66,
+          67
+        ],
+        "billNumber": "議案第34号"
+      },
+      {
+        "date": "2026-07-22",
+        "actor": "総務産業委員会",
+        "stage": "対象基数、工程と受注者の分担を調査",
+        "detail": "所管事務調査で対象1,646基との答弁。７月下旬から現地調査等、９～12月をめどにLED化工事を行う予定と報告された。",
+        "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=14",
+        "sourceTitle": "はとやま議会だより第174号 紙面14頁"
+      }
+    ],
+    "note": "春の削減額は試算、７月の工事日程は予定として収録。工事完了と実際の削減額は確認中。"
+  },
+  {
+    "place": "鳩山町",
+    "title": "辻川・東山沼の整備契約、舗装への反対討論と完成後の管理",
+    "topic": "公園・遊歩道整備",
+    "actors": [
+      "鳩山町",
+      "野田小百合",
+      "森利夫",
+      "鳩山町議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-06-02",
+        "actor": "鳩山町",
+        "stage": "先行工事の完了と次の工事の仮契約を報告",
+        "detail": "町は、３月25日にその１が完了検査に合格したと報告。その２は４月23日に入札告示、５月14日に開札、５月18日に税込7,150万円で仮契約したと説明した。水辺の広場はゴムチップ、東山沼遊歩道は透水性コンクリートを予定。",
+        "url": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=245&schedule_id=2",
+        "sourceTitle": "鳩山町議会 2026-06-02の会議録",
+        "archiveId": "f0fcf93692ab0e6749e1",
+        "blocks": [
+          46
+        ]
+      },
+      {
+        "date": "2026-06-10",
+        "actor": "野田小百合",
+        "stage": "水辺広場の舗装を理由に工事契約案の反対討論",
+        "detail": "従前の一般質問でも扱ったと述べ、ゴムチップ舗装の変更に至らなかったことを理由に反対した。",
+        "url": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=245&schedule_id=5",
+        "sourceTitle": "鳩山町議会 2026-06-10の会議録",
+        "archiveId": "6be7d0e6290ac567481d",
+        "blocks": [
+          72
+        ],
+        "billNumber": "議案第35号",
+        "memberActions": [
+          {
+            "name": "野田小百合",
+            "blocks": [
+              72
+            ],
+            "detail": "水辺の広場でのゴムチップ舗装を理由に工事契約案に反対した。"
+          }
+        ]
+      },
+      {
+        "date": "2026-06-10",
+        "actor": "鳩山町議会",
+        "stage": "その２の工事請負契約案を可決",
+        "detail": "議案第35号は起立多数で可決。議会だより第173号では賛成８、反対１。",
+        "url": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=245&schedule_id=5",
+        "sourceTitle": "鳩山町議会 2026-06-10の会議録",
+        "archiveId": "6be7d0e6290ac567481d",
+        "blocks": [
+          75,
+          76
+        ],
+        "billNumber": "議案第35号"
+      },
+      {
+        "date": "2026-09-03",
+        "actor": "森利夫",
+        "stage": "東山沼の仕様、桜の対応と完成後の管理を確認",
+        "detail": "町は遊歩道の幅２メートル、透水性舗装、関係者が立ち会う桜の伐採等の判断を説明。管理主体として地元・指定管理者・委託事業者等を挙げた。",
+        "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=11",
+        "sourceTitle": "はとやま議会だより第174号 紙面11頁",
+        "archiveId": "89289de0ca7e8e2212c6",
+        "blocks": [
+          5
+        ],
+        "memberActions": [
+          {
+            "name": "森利夫",
+            "blocks": [
+              5
+            ],
+            "detail": "遊歩道の幅、排水管、桜の被害と完成後の管理主体を具体的に質問した。"
+          }
+        ]
+      }
+    ],
+    "note": "広場のゴムチップ舗装と東山沼の遊歩道の透水性舗装は資料上の対象箇所が異なる。完成と管理主体の決定は確認中。"
+  },
+  {
+    "place": "鳩山町",
+    "title": "熊本の２自治体への代理寄附を開始し、議会で目的と選定理由を確認",
+    "topic": "災害支援・代理寄附",
+    "actors": [
+      "鳩山町",
+      "石井徹"
+    ],
+    "steps": [
+      {
+        "date": "2026-07-31",
+        "actor": "鳩山町",
+        "stage": "宇城市と氷川町への代理寄附開始を公表",
+        "detail": "町の災害支援ページが、熊本県宇城市と氷川町への代理寄附を開始したと案内した。日付は同ページの表示日。",
+        "url": "https://www.town.hatoyama.saitama.jp/important_notice/r8kumamoto_saigaishien/",
+        "sourceTitle": "町 令和８年熊本地震災害支援"
+      },
+      {
+        "date": "2026-09-02",
+        "actor": "石井徹",
+        "stage": "代理寄附を始めた目的、支援先と今後の連携を確認",
+        "detail": "町は被災自治体の事務負担軽減を目的に代理寄附を始めたと説明し、今後も相互応援協定や広域連携で体制を強化すると答えた。",
+        "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=10",
+        "sourceTitle": "はとやま議会だより第174号 紙面10頁",
+        "archiveId": "89289de0ca7e8e2212c6",
+        "blocks": [
+          3
+        ],
+        "memberActions": [
+          {
+            "name": "石井徹",
+            "blocks": [
+              3
+            ],
+            "detail": "代理寄附の開始理由、２自治体の選定理由、今後の支援体制を質問した。"
+          }
+        ]
+      }
+    ],
+    "note": "代理寄附の募集開始を確認。送金額・送金日は確認中。"
+  },
+  {
+    "place": "鳩山町",
+    "title": "クビアカツヤカミキリ対策の駆除奨励と被害状況の確認",
+    "topic": "外来生物・樹木被害",
+    "actors": [
+      "鳩山町",
+      "小鷹房義"
+    ],
+    "steps": [
+      {
+        "date": "2026-07-10",
+        "actor": "鳩山町",
+        "stage": "駆除奨励品の申請方法を案内",
+        "detail": "町内在住者の駆除を対象に、成虫10匹につき商品券500円相当、１人年度5,000円を上限と案内。日付は町ページの表示日。",
+        "url": "https://www.town.hatoyama.saitama.jp/kurashi/gomi_seikatsukankyo/shinrin/page004423.html",
+        "sourceTitle": "町 クビアカツヤカミキリ駆除奨励品"
+      },
+      {
+        "date": "2026-09-03",
+        "actor": "小鷹房義",
+        "stage": "被害情報とあんずの防除対応を確認",
+        "detail": "町は８月21日までの情報提供59件と被害確認地区を挙げた。あんずの確実な予防法は確立していないと答えた。",
+        "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=12",
+        "sourceTitle": "はとやま議会だより第174号 紙面12頁",
+        "archiveId": "89289de0ca7e8e2212c6",
+        "blocks": [
+          7
+        ],
+        "memberActions": [
+          {
+            "name": "小鷹房義",
+            "blocks": [
+              7
+            ],
+            "detail": "町内での被害情報と、あんず栽培で可能な対策を質問した。"
+          }
+        ]
+      }
+    ],
+    "note": "事業の実施案内と被害情報を確認。59件は情報提供の件数で、駆除数・補助の交付実績は確認中。"
+  },
+  {
+    "place": "鳩山町",
+    "title": "こども誰でも通園の受入基準を可決し、委員会が保育園を視察",
+    "topic": "保育・誰でも通園",
+    "actors": [
+      "野田小百合",
+      "清水秀幸",
+      "鳩山町議会",
+      "福祉文教委員会",
+      "鳩山町"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-13",
+        "actor": "野田小百合、清水秀幸",
+        "stage": "受入れの基準と保育士の負担を質す",
+        "detail": "野田議員は利用を断る正当な理由の内容を、清水議員は保育士の負担を質問。町は定員や安全に受け入れる人員・設備等を説明した。",
+        "url": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=242&schedule_id=5",
+        "sourceTitle": "鳩山町議会 2026-03-13の会議録",
+        "archiveId": "7f527706f30340d8216d",
+        "blocks": [
+          9,
+          11,
+          13
+        ],
+        "billNumber": "議案第3号",
+        "memberActions": [
+          {
+            "name": "野田小百合",
+            "blocks": [
+              9
+            ],
+            "detail": "利用を断ることができる正当な理由の内容を質問した。"
+          },
+          {
+            "name": "清水秀幸",
+            "blocks": [
+              13
+            ],
+            "detail": "制度による保育士の負担を質問した。"
+          }
+        ]
+      },
+      {
+        "date": "2026-03-13",
+        "actor": "鳩山町議会",
+        "stage": "乳児等通園支援事業の運営基準を可決",
+        "detail": "議案第３号は起立全員で可決された。",
+        "url": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=242&schedule_id=5",
+        "sourceTitle": "鳩山町議会 2026-03-13の会議録",
+        "archiveId": "7f527706f30340d8216d",
+        "blocks": [
+          36,
+          37
+        ],
+        "billNumber": "議案第3号"
+      },
+      {
+        "date": "2026-07-30",
+        "actor": "福祉文教委員会",
+        "stage": "登録施設で受入れと保育ICTを現地調査",
+        "detail": "ひばりゆりかご保育園で通園制度の運用を視察。利用上限は月10時間、基本料金は１時間300円。電子連絡帳やアプリでの欠席連絡なども報告された。",
+        "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=14",
+        "sourceTitle": "はとやま議会だより第174号 紙面14頁"
+      },
+      {
+        "date": "2026-11-25",
+        "actor": "鳩山町",
+        "stage": "利用条件と対象施設の公表を確認",
+        "detail": "町の案内は、６か月から満３歳未満の対象条件、施設と事前認定の手順等を掲載している。日付は掲載確認日。",
+        "url": "https://www.town.hatoyama.saitama.jp/hatonet/support/ikuji/page004385.html",
+        "sourceTitle": "鳩山町子育てはとネット こども誰でも通園制度"
+      }
+    ],
+    "note": "条例、委員会視察、受入れの案内を確認した。利用人数や制度の効果は確認中。"
+  },
+  {
+    "place": "鳩山町",
+    "title": "老朽空き家の除去補助の交付実績と庁舎北側の個別案件",
+    "topic": "空き家・除去",
+    "actors": [
+      "石井計次",
+      "鳩山町"
+    ],
+    "steps": [
+      {
+        "date": "2026-09-02",
+        "actor": "石井計次",
+        "stage": "庁舎北側の廃屋の代執行と準備を質す",
+        "detail": "町は行政代執行の一般的な準備手順を示し、町長は県・弁護士等と相談しながら対応を進めると答えた。",
+        "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=11",
+        "sourceTitle": "はとやま議会だより第174号 紙面11頁",
+        "archiveId": "89289de0ca7e8e2212c6",
+        "blocks": [
+          4
+        ],
+        "memberActions": [
+          {
+            "name": "石井計次",
+            "blocks": [
+              4
+            ],
+            "detail": "当該廃屋の対応を再び取り上げ、代執行の手続と町長の対応方針を確認した。"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-10",
+        "actor": "鳩山町",
+        "stage": "前年度の除去補助は申請した６軒へ交付と説明",
+        "detail": "前年度決算の質疑で、当初４軒分に対し６軒が申請し、補正予算で100万円を追加して全申請者に交付したと答えた。",
+        "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=5",
+        "sourceTitle": "はとやま議会だより第174号 紙面5頁",
+        "archiveId": "89289de0ca7e8e2212c6",
+        "blocks": [
+          17
+        ],
+        "billNumber": "議案第43号"
+      }
+    ],
+    "note": "除去補助の実績は申請６軒。庁舎北側の案件は代執行の実施や解消を確認中。"
+  },
+  {
+    "place": "鳩山町",
+    "title": "紹介議員、委員会提出と国への意見書３件の経過",
+    "topic": "意見書・議会手続",
+    "actors": [
+      "野田小百合",
+      "日坂和久",
+      "石井計次",
+      "中山明美",
+      "清水秀幸",
+      "鳩山町議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-09-11",
+        "actor": "野田小百合、鳩山町議会",
+        "stage": "２件の請願を紹介し、本会議が採択",
+        "detail": "野田議員がゲノム編集食品の表示義務化と殺傷能力のある武器の輸出禁止の２請願を紹介した。記名表決はそれぞれ賛成８・反対１と賛成６・反対３。",
+        "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=8",
+        "sourceTitle": "はとやま議会だより第174号 紙面８頁",
+        "billNumber": "請願第1号",
+        "memberActions": [
+          {
+            "name": "野田小百合",
+            "detail": "紙面の採決表に２請願の紹介議員として掲載。"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-11",
+        "actor": "日坂和久、石井計次",
+        "stage": "委員会提出の２件と議員発議の１件を審議",
+        "detail": "委員会が請願に関連する意見書案を提出し、紙面は日坂議員を提出者等と記載。石井計次議員はICC関係者への制裁に抗議する意見書案を発議した。",
+        "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=8",
+        "sourceTitle": "はとやま議会だより第174号 紙面８頁",
+        "billNumber": "発議第2号",
+        "memberActions": [
+          {
+            "name": "日坂和久",
+            "detail": "紙面で委員会提出２件の提出者・提案者として記載。"
+          },
+          {
+            "name": "石井計次",
+            "detail": "ICC関係者への制裁に抗議する意見書案を発議。"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-11",
+        "actor": "中山明美、清水秀幸、鳩山町議会",
+        "stage": "討論後、意見書３件を可決",
+        "detail": "ゲノム編集食品の表示に関する意見書は賛成８、武器輸出に関する意見書は賛成６。ICCに関する意見書は全会一致。議会だよりは国への提出を報告した。",
+        "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=7",
+        "sourceTitle": "はとやま議会だより第174号 紙面7頁",
+        "archiveId": "89289de0ca7e8e2212c6",
+        "blocks": [
+          26,
+          36,
+          38
+        ],
+        "billNumber": "発委第1号",
+        "memberActions": [
+          {
+            "name": "中山明美",
+            "blocks": [
+              36
+            ],
+            "detail": "ゲノム編集食品の情報提供と制度検討を求める案に賛成した。"
+          },
+          {
+            "name": "清水秀幸",
+            "blocks": [
+              38
+            ],
+            "detail": "ゲノム編集食品への表示の義務化を求めて賛成した。"
+          }
+        ]
+      }
+    ],
+    "note": "請願の紹介と採択、意見書の提出者と本会議の議決を確認。国の制度や対応の変更は確認中。"
+  }
+]);

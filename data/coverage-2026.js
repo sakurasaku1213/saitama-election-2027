@@ -7324,74 +7324,78 @@ GIKAI.coverage2026 = {
     {
       "place": "鳩山町",
       "season": "spring",
-      "label": "2026年春の定例会",
+      "label": "令和8年第1回定例会",
       "fromDate": "2026-02-27",
       "toDate": "2026-03-13",
-      "planned": true,
+      "planned": false,
       "materials": {
         "meeting": {
-          "state": "partial",
-          "note": "開催予定を確認。"
+          "state": "verified",
+          "note": "公式音声目録の開会・閉会の日を照合。"
         },
         "activity": {
           "state": "pending",
           "note": "本文・収録範囲の照合が残っています。"
         },
         "text": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "公式索引と４日の本会議録を照合。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "議決等28件を収録。3月13日28件。公式会議録から人権擁護委員の推薦２件を補足。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "第172号の紙面8頁の記名表決6件・各10欄を収録。全員賛成の議案は紙面の集計を記載。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "通園制度条例の質疑・議決、防犯灯LED化の費用試算を収録。"
         }
       },
       "sources": [
         {
           "label": "対象会期の開催予定",
           "url": "https://www.town.hatoyama.saitama.jp/gyousei/gikai/teirei/r08/r08_01teirei.html"
+        },
+        {
+          "label": "第172号・議決結果と記名表決",
+          "url": "https://www.town.hatoyama.saitama.jp/data/doc/1777361773_doc_63_0.pdf#page=8"
         }
       ]
     },
     {
       "place": "鳩山町",
       "season": "summer",
-      "label": "2026年初夏の定例会",
+      "label": "令和8年第2回定例会",
       "fromDate": "2026-06-02",
       "toDate": "2026-06-10",
-      "planned": true,
+      "planned": false,
       "materials": {
         "meeting": {
-          "state": "partial",
-          "note": "開催予定を確認。"
+          "state": "verified",
+          "note": "公式音声目録の開会・閉会の日を照合。"
         },
         "activity": {
           "state": "partial",
           "note": "この時期の掲載項目 8件。通告・目次・本文の別は活動の出典に表示。"
         },
         "text": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "公式索引と４日の本会議録を照合。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "議決等9件を収録。6月10日9件。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "第173号の紙面3頁の記名表決1件・各10欄を収録。全員賛成の議案は紙面の集計を記載。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "辻川等整備の契約と討論、防犯灯LED化の契約を収録。"
         }
       },
       "sources": [
@@ -7402,46 +7406,70 @@ GIKAI.coverage2026 = {
         {
           "label": "会期資料　2026年6月定例会",
           "url": "https://www.town.hatoyama.saitama.jp/data/doc/1780536760_doc_63_0.pdf"
+        },
+        {
+          "label": "第173号・議決結果と記名表決",
+          "url": "https://www.town.hatoyama.saitama.jp/data/doc/1785808133_doc_63_0.pdf#page=3"
         }
       ]
     },
     {
       "place": "鳩山町",
       "season": "fall",
-      "label": "2026年秋の定例会",
+      "label": "令和8年第3回定例会",
       "fromDate": "2026-09-01",
       "toDate": "2026-09-11",
-      "planned": true,
+      "planned": false,
       "materials": {
         "meeting": {
-          "state": "partial",
-          "note": "開催予定を確認。"
+          "state": "verified",
+          "note": "公式音声目録の開会・閉会の日を照合。"
         },
         "activity": {
           "state": "pending",
           "note": "本文・収録範囲の照合が残っています。"
         },
         "text": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "第174号の一般質問９人34問答、決算審議10問答、所管事務調査３問答、討論と視察等。公式通告９人10頁、公式音声は９月２日４人、３日５人。正式会議録は確認中。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "議決等27件を収録。9月10日18件、9月11日9件。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "第174号の紙面8頁の記名表決5件・各10欄を収録。全員賛成の議案は紙面の集計を記載。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "定数条例、保育、防犯、空き家、災害支援、辻川、外来生物、意見書の経過を収録。"
         }
       },
       "sources": [
         {
-          "label": "対象会期の開催予定",
+          "label": "町公式会期案内",
           "url": "https://www.town.hatoyama.saitama.jp/gyousei/gikai/teirei/r08/r08_03teirei.html"
+        },
+        {
+          "label": "第174号・議決結果と記名表決",
+          "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=8"
+        },
+        {
+          "label": "議会だより第174号・全16頁",
+          "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf"
+        },
+        {
+          "label": "同号の一般質問別PDF",
+          "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346211_doc_63_0.pdf"
+        },
+        {
+          "label": "町公式一般質問通告",
+          "url": "https://www.town.hatoyama.saitama.jp/data/doc/1787642854_doc_63_0.pdf"
+        },
+        {
+          "label": "会期日程表",
+          "url": "https://www.town.hatoyama.saitama.jp/data/doc/1787642858_doc_63_0.pdf"
         }
       ]
     },
@@ -85265,6 +85293,1086 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yoshimi.saitama.jp/material/files/group/14/gika-180.pdf#page=6",
       "voteNote": "第13号の紙面6頁。賛成13、反対0。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第3号",
+      "date": "2026-03-13",
+      "title": "鳩山町特定乳児等通園支援事業の運営に関する基準を定める条例の制定について",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1777361773_doc_63_0.pdf#page=8",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=242&schedule_id=5",
+      "resultLocator": "第172号の紙面8頁。公式会議録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第172号の紙面8頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第15号",
+      "date": "2026-03-13",
+      "title": "令和7年度鳩山町水道事業会計補正予算（第3号）の議定について",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1777361773_doc_63_0.pdf#page=8",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=242&schedule_id=5",
+      "resultLocator": "第172号の紙面8頁。公式会議録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第172号の紙面8頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第4号",
+      "date": "2026-03-13",
+      "title": "非常勤の特別職員の報酬及び費用弁償等の支給条例の一部を改正する条例の制定について",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1777361773_doc_63_0.pdf#page=8",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=242&schedule_id=5",
+      "resultLocator": "第172号の紙面8頁。公式会議録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第172号の紙面8頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第16号",
+      "date": "2026-03-13",
+      "title": "令和7年度鳩山町下水道事業会計補正予算（第4号）の議定について",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1777361773_doc_63_0.pdf#page=8",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=242&schedule_id=5",
+      "resultLocator": "第172号の紙面8頁。公式会議録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第172号の紙面8頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第6号",
+      "date": "2026-03-13",
+      "title": "鳩山町行政手続条例の一部を改正する条例の制定について",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1777361773_doc_63_0.pdf#page=8",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=242&schedule_id=5",
+      "resultLocator": "第172号の紙面8頁。公式会議録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第172号の紙面8頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第23号",
+      "date": "2026-03-13",
+      "title": "工事請負契約の変更契約の締結について（辻川等整備工事その１）",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1777361773_doc_63_0.pdf#page=8",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=242&schedule_id=5",
+      "resultLocator": "第172号の紙面8頁。公式会議録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第172号の紙面8頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第8号",
+      "date": "2026-03-13",
+      "title": "鳩山町乳児等通園支援事業の設備及び運営に関する基準を定める条例の一部を改正する条例の制定について",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1777361773_doc_63_0.pdf#page=8",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=242&schedule_id=5",
+      "resultLocator": "第172号の紙面8頁。公式会議録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第172号の紙面8頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第24号",
+      "date": "2026-03-13",
+      "title": "町道第2491号線の廃止について",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1777361773_doc_63_0.pdf#page=8",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=242&schedule_id=5",
+      "resultLocator": "第172号の紙面8頁。公式会議録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第172号の紙面8頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第9号",
+      "date": "2026-03-13",
+      "title": "鳩山町介護保険条例の一部を改正する条例の制定について",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1777361773_doc_63_0.pdf#page=8",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=242&schedule_id=5",
+      "resultLocator": "第172号の紙面8頁。公式会議録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第172号の紙面8頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第19号",
+      "date": "2026-03-13",
+      "title": "令和8年度鳩山町後期高齢者医療特別会計予算の議定について",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1777361773_doc_63_0.pdf#page=8",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=242&schedule_id=5",
+      "resultLocator": "第172号の紙面8頁。公式会議録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第172号の紙面8頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第10号",
+      "date": "2026-03-13",
+      "title": "鳩山町地域包括ケアセンター条例の一部を改正する条例の制定について",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1777361773_doc_63_0.pdf#page=8",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=242&schedule_id=5",
+      "resultLocator": "第172号の紙面8頁。公式会議録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第172号の紙面8頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第20号",
+      "date": "2026-03-13",
+      "title": "令和8年度鳩山町介護保険特別会計予算の議定について",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1777361773_doc_63_0.pdf#page=8",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=242&schedule_id=5",
+      "resultLocator": "第172号の紙面8頁。公式会議録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第172号の紙面8頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第11号",
+      "date": "2026-03-13",
+      "title": "令和7年度鳩山町一般会計補正予算（第8号）の議定について",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1777361773_doc_63_0.pdf#page=8",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=242&schedule_id=5",
+      "resultLocator": "第172号の紙面8頁。公式会議録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第172号の紙面8頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第21号",
+      "date": "2026-03-13",
+      "title": "令和8年度鳩山町水道事業会計予算の議定について",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1777361773_doc_63_0.pdf#page=8",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=242&schedule_id=5",
+      "resultLocator": "第172号の紙面8頁。公式会議録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第172号の紙面8頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第12号",
+      "date": "2026-03-13",
+      "title": "令和7年度鳩山町国民健康保険特別会計補正予算（第3号）の議定について",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1777361773_doc_63_0.pdf#page=8",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=242&schedule_id=5",
+      "resultLocator": "第172号の紙面8頁。公式会議録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第172号の紙面8頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第22号",
+      "date": "2026-03-13",
+      "title": "令和8年度鳩山町下水道事業会計予算の議定について",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1777361773_doc_63_0.pdf#page=8",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=242&schedule_id=5",
+      "resultLocator": "第172号の紙面8頁。公式会議録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第172号の紙面8頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第13号",
+      "date": "2026-03-13",
+      "title": "令和7年度鳩山町後期高齢者医療特別会計補正予算（第2号）の議定について",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1777361773_doc_63_0.pdf#page=8",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=242&schedule_id=5",
+      "resultLocator": "第172号の紙面8頁。公式会議録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第172号の紙面8頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第25号",
+      "date": "2026-03-13",
+      "title": "副町長の選任について",
+      "result": "同意",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1777361773_doc_63_0.pdf#page=8",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=242&schedule_id=5",
+      "resultLocator": "第172号の紙面8頁。公式会議録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第172号の紙面8頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第14号",
+      "date": "2026-03-13",
+      "title": "令和7年度鳩山町介護保険特別会計補正予算（第4号）の議定について",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1777361773_doc_63_0.pdf#page=8",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=242&schedule_id=5",
+      "resultLocator": "第172号の紙面8頁。公式会議録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第172号の紙面8頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "発議第1号",
+      "date": "2026-03-13",
+      "title": "太陽光パネルのリサイクル義務化を求める意見書案",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1777361773_doc_63_0.pdf#page=8",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=242&schedule_id=5",
+      "resultLocator": "第172号の紙面8頁。公式会議録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第172号の紙面8頁で全員賛成と掲載。",
+      "names": [
+        "野田小百合"
+      ],
+      "proposalRole": "発議者"
+    },
+    {
+      "place": "鳩山町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第5号",
+      "date": "2026-03-13",
+      "title": "町長等の給与等に関する条例の一部を改正する条例の制定について",
+      "result": "否決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1777361773_doc_63_0.pdf#page=8",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=242&schedule_id=5",
+      "resultLocator": "第172号の紙面8頁。公式会議録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteType": "記名",
+      "votes": {
+        "関根清隆": "反対",
+        "石井徹": "反対",
+        "中山明美": "賛成",
+        "日坂和久": "反対",
+        "小鷹房義": "反対",
+        "森利夫": "賛成",
+        "野田小百合": "賛成",
+        "石井計次": "反対",
+        "清水秀幸": "反対",
+        "松浪健一郎": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.hatoyama.saitama.jp/data/doc/1777361773_doc_63_0.pdf#page=8",
+      "voteNote": "第172号の紙面8頁の記名表決は賛成3、反対6。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第7号",
+      "date": "2026-03-13",
+      "title": "鳩山町国民健康保険税条例の一部を改正する条例の制定について",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1777361773_doc_63_0.pdf#page=8",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=242&schedule_id=5",
+      "resultLocator": "第172号の紙面8頁。公式会議録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteType": "記名",
+      "votes": {
+        "関根清隆": "賛成",
+        "石井徹": "賛成",
+        "中山明美": "賛成",
+        "日坂和久": "賛成",
+        "小鷹房義": "賛成",
+        "森利夫": "賛成",
+        "野田小百合": "反対",
+        "石井計次": "賛成",
+        "清水秀幸": "反対",
+        "松浪健一郎": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.hatoyama.saitama.jp/data/doc/1777361773_doc_63_0.pdf#page=8",
+      "voteNote": "第172号の紙面8頁の記名表決は賛成7、反対2。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第17号",
+      "date": "2026-03-13",
+      "title": "令和8年度鳩山町一般会計予算の議定について",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1777361773_doc_63_0.pdf#page=8",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=242&schedule_id=5",
+      "resultLocator": "第172号の紙面8頁。公式会議録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteType": "記名",
+      "votes": {
+        "関根清隆": "反対",
+        "石井徹": "賛成",
+        "中山明美": "賛成",
+        "日坂和久": "賛成",
+        "小鷹房義": "賛成",
+        "森利夫": "賛成",
+        "野田小百合": "賛成",
+        "石井計次": "賛成",
+        "清水秀幸": "賛成",
+        "松浪健一郎": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.hatoyama.saitama.jp/data/doc/1777361773_doc_63_0.pdf#page=8",
+      "voteNote": "第172号の紙面8頁の記名表決は賛成8、反対1。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第18号",
+      "date": "2026-03-13",
+      "title": "令和8年度鳩山町国民健康保険特別会計予算の議定について",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1777361773_doc_63_0.pdf#page=8",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=242&schedule_id=5",
+      "resultLocator": "第172号の紙面8頁。公式会議録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteType": "記名",
+      "votes": {
+        "関根清隆": "賛成",
+        "石井徹": "賛成",
+        "中山明美": "賛成",
+        "日坂和久": "賛成",
+        "小鷹房義": "賛成",
+        "森利夫": "賛成",
+        "野田小百合": "反対",
+        "石井計次": "賛成",
+        "清水秀幸": "賛成",
+        "松浪健一郎": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.hatoyama.saitama.jp/data/doc/1777361773_doc_63_0.pdf#page=8",
+      "voteNote": "第172号の紙面8頁の記名表決は賛成8、反対1。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第26号",
+      "date": "2026-03-13",
+      "title": "教育委員会教育長の任命について",
+      "result": "同意",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1777361773_doc_63_0.pdf#page=8",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=242&schedule_id=5",
+      "resultLocator": "第172号の紙面8頁。公式会議録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteType": "記名",
+      "votes": {
+        "関根清隆": "賛成",
+        "石井徹": "反対",
+        "中山明美": "賛成",
+        "日坂和久": "賛成",
+        "小鷹房義": "賛成",
+        "森利夫": "賛成",
+        "野田小百合": "賛成",
+        "石井計次": "反対",
+        "清水秀幸": "賛成",
+        "松浪健一郎": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.hatoyama.saitama.jp/data/doc/1777361773_doc_63_0.pdf#page=8",
+      "voteNote": "第172号の紙面8頁の記名表決は賛成7、反対2。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "発議第2号",
+      "date": "2026-03-13",
+      "title": "イランに対する攻撃の即時停止と平和的解決および経済安定を求める意見書案",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1777361773_doc_63_0.pdf#page=8",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=242&schedule_id=5",
+      "resultLocator": "第172号の紙面8頁。公式会議録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteType": "記名",
+      "votes": {
+        "関根清隆": "反対",
+        "石井徹": "反対",
+        "中山明美": "賛成",
+        "日坂和久": "賛成",
+        "小鷹房義": "賛成",
+        "森利夫": "反対",
+        "野田小百合": "賛成",
+        "石井計次": "反対",
+        "清水秀幸": "賛成",
+        "松浪健一郎": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.hatoyama.saitama.jp/data/doc/1777361773_doc_63_0.pdf#page=8",
+      "voteNote": "第172号の紙面8頁の記名表決は賛成5、反対4。",
+      "names": [
+        "野田小百合"
+      ],
+      "proposalRole": "発議者"
+    },
+    {
+      "place": "鳩山町",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議案第27号",
+      "date": "2026-06-10",
+      "title": "専決処分の承認を求めることについて（鳩山町税条例の一部を改正する条例）",
+      "result": "承認",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1785808133_doc_63_0.pdf#page=3",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=245&schedule_id=5",
+      "resultLocator": "第173号の紙面3頁。公式会議録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第173号の紙面3頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議案第31号",
+      "date": "2026-06-10",
+      "title": "令和8年度鳩山町一般会計補正予算（第1号）の議定について",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1785808133_doc_63_0.pdf#page=3",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=245&schedule_id=5",
+      "resultLocator": "第173号の紙面3頁。公式会議録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第173号の紙面3頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議案第28号",
+      "date": "2026-06-10",
+      "title": "専決処分の承認を求めることについて（鳩山町国民健康保険税条例の一部を改正する条例）",
+      "result": "承認",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1785808133_doc_63_0.pdf#page=3",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=245&schedule_id=5",
+      "resultLocator": "第173号の紙面3頁。公式会議録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第173号の紙面3頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議案第32号",
+      "date": "2026-06-10",
+      "title": "令和8年度鳩山町水道事業会計補正予算（第1号）の議定について",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1785808133_doc_63_0.pdf#page=3",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=245&schedule_id=5",
+      "resultLocator": "第173号の紙面3頁。公式会議録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第173号の紙面3頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議案第29号",
+      "date": "2026-06-10",
+      "title": "財産の取得について（避難所用資機材等）",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1785808133_doc_63_0.pdf#page=3",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=245&schedule_id=5",
+      "resultLocator": "第173号の紙面3頁。公式会議録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第173号の紙面3頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議案第33号",
+      "date": "2026-06-10",
+      "title": "令和8年度鳩山町下水道事業会計補正予算（第1号）の議定について",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1785808133_doc_63_0.pdf#page=3",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=245&schedule_id=5",
+      "resultLocator": "第173号の紙面3頁。公式会議録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第173号の紙面3頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議案第30号",
+      "date": "2026-06-10",
+      "title": "鳩山町印鑑条例の一部を改正する条例の制定について",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1785808133_doc_63_0.pdf#page=3",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=245&schedule_id=5",
+      "resultLocator": "第173号の紙面3頁。公式会議録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第173号の紙面3頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議案第34号",
+      "date": "2026-06-10",
+      "title": "委託業務契約の締結について（防犯灯等LED化業務）",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1785808133_doc_63_0.pdf#page=3",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=245&schedule_id=5",
+      "resultLocator": "第173号の紙面3頁。公式会議録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第173号の紙面3頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議案第35号",
+      "date": "2026-06-10",
+      "title": "工事請負契約の締結について（辻川等整備工事その2）",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1785808133_doc_63_0.pdf#page=3",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=245&schedule_id=5",
+      "resultLocator": "第173号の紙面3頁。公式会議録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteType": "記名",
+      "votes": {
+        "関根清隆": "賛成",
+        "石井徹": "賛成",
+        "中山明美": "賛成",
+        "日坂和久": "賛成",
+        "小鷹房義": "賛成",
+        "森利夫": "賛成",
+        "野田小百合": "反対",
+        "石井計次": "賛成",
+        "清水秀幸": "賛成",
+        "松浪健一郎": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.hatoyama.saitama.jp/data/doc/1785808133_doc_63_0.pdf#page=3",
+      "voteNote": "第173号の紙面3頁の記名表決は賛成8、反対1。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第38号",
+      "date": "2026-09-10",
+      "title": "組織改正に伴う関係条例の整備に関する条例の制定について",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=8",
+      "resultURL": "https://smart.discussvision.net/smart/tenant/hatoyama/WebView/rd/speech.html?council_id=63&schedule_id=4&playlist_id=1&speaker_id=15&target_year=2026",
+      "resultLocator": "第174号の紙面8頁。公式音声目録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第174号の紙面8頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第49号",
+      "date": "2026-09-10",
+      "title": "令和7年度鳩山町下水道事業会計決算認定について",
+      "result": "認定",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=8",
+      "resultURL": "https://smart.discussvision.net/smart/tenant/hatoyama/WebView/rd/speech.html?council_id=63&schedule_id=4&playlist_id=1&speaker_id=15&target_year=2026",
+      "resultLocator": "第174号の紙面8頁。公式音声目録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第174号の紙面8頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第39号",
+      "date": "2026-09-10",
+      "title": "職員の勤務時間、休日及び休暇に関する条例の一部を改正する条例の制定について",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=8",
+      "resultURL": "https://smart.discussvision.net/smart/tenant/hatoyama/WebView/rd/speech.html?council_id=63&schedule_id=4&playlist_id=1&speaker_id=15&target_year=2026",
+      "resultLocator": "第174号の紙面8頁。公式音声目録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第174号の紙面8頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第50号",
+      "date": "2026-09-10",
+      "title": "令和7年度鳩山町下水道事業会計未処分利益剰余金の処分について",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=8",
+      "resultURL": "https://smart.discussvision.net/smart/tenant/hatoyama/WebView/rd/speech.html?council_id=63&schedule_id=4&playlist_id=1&speaker_id=15&target_year=2026",
+      "resultLocator": "第174号の紙面8頁。公式音声目録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第174号の紙面8頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第40号",
+      "date": "2026-09-10",
+      "title": "鳩山町認可地縁団体印鑑条例の一部を改正する条例の制定について",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=8",
+      "resultURL": "https://smart.discussvision.net/smart/tenant/hatoyama/WebView/rd/speech.html?council_id=63&schedule_id=4&playlist_id=1&speaker_id=15&target_year=2026",
+      "resultLocator": "第174号の紙面8頁。公式音声目録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第174号の紙面8頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第51号",
+      "date": "2026-09-10",
+      "title": "令和8年度鳩山町一般会計補正予算（第3号）の議定について",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=8",
+      "resultURL": "https://smart.discussvision.net/smart/tenant/hatoyama/WebView/rd/speech.html?council_id=63&schedule_id=4&playlist_id=1&speaker_id=15&target_year=2026",
+      "resultLocator": "第174号の紙面8頁。公式音声目録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第174号の紙面8頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第41号",
+      "date": "2026-09-10",
+      "title": "鳩山町税条例の一部を改正する条例の制定について",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=8",
+      "resultURL": "https://smart.discussvision.net/smart/tenant/hatoyama/WebView/rd/speech.html?council_id=63&schedule_id=4&playlist_id=1&speaker_id=15&target_year=2026",
+      "resultLocator": "第174号の紙面8頁。公式音声目録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第174号の紙面8頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第52号",
+      "date": "2026-09-10",
+      "title": "令和8年度鳩山町国民健康保険特別会計補正予算（第1号）の議定について",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=8",
+      "resultURL": "https://smart.discussvision.net/smart/tenant/hatoyama/WebView/rd/speech.html?council_id=63&schedule_id=4&playlist_id=1&speaker_id=15&target_year=2026",
+      "resultLocator": "第174号の紙面8頁。公式音声目録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第174号の紙面8頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第42号",
+      "date": "2026-09-10",
+      "title": "鳩山町地域包括ケアセンター（デイサービスセンター）の指定管理者の指定について",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=8",
+      "resultURL": "https://smart.discussvision.net/smart/tenant/hatoyama/WebView/rd/speech.html?council_id=63&schedule_id=4&playlist_id=1&speaker_id=15&target_year=2026",
+      "resultLocator": "第174号の紙面8頁。公式音声目録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第174号の紙面8頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第53号",
+      "date": "2026-09-10",
+      "title": "令和8年度鳩山町後期高齢者医療特別会計補正予算（第1号）の議定について",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=8",
+      "resultURL": "https://smart.discussvision.net/smart/tenant/hatoyama/WebView/rd/speech.html?council_id=63&schedule_id=4&playlist_id=1&speaker_id=15&target_year=2026",
+      "resultLocator": "第174号の紙面8頁。公式音声目録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第174号の紙面8頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第43号",
+      "date": "2026-09-10",
+      "title": "令和7年度鳩山町一般会計歳入歳出決算認定について",
+      "result": "認定",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=8",
+      "resultURL": "https://smart.discussvision.net/smart/tenant/hatoyama/WebView/rd/speech.html?council_id=63&schedule_id=4&playlist_id=1&speaker_id=15&target_year=2026",
+      "resultLocator": "第174号の紙面8頁。公式音声目録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第174号の紙面8頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第54号",
+      "date": "2026-09-10",
+      "title": "令和8年度鳩山町介護保険特別会計補正予算（第1号）の議定について",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=8",
+      "resultURL": "https://smart.discussvision.net/smart/tenant/hatoyama/WebView/rd/speech.html?council_id=63&schedule_id=4&playlist_id=1&speaker_id=15&target_year=2026",
+      "resultLocator": "第174号の紙面8頁。公式音声目録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第174号の紙面8頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第44号",
+      "date": "2026-09-10",
+      "title": "令和7年度鳩山町国民健康保険特別会計歳入歳出決算認定について",
+      "result": "認定",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=8",
+      "resultURL": "https://smart.discussvision.net/smart/tenant/hatoyama/WebView/rd/speech.html?council_id=63&schedule_id=4&playlist_id=1&speaker_id=15&target_year=2026",
+      "resultLocator": "第174号の紙面8頁。公式音声目録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第174号の紙面8頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第55号",
+      "date": "2026-09-10",
+      "title": "令和8年度鳩山町下水道事業会計補正予算（第2号）の議定について",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=8",
+      "resultURL": "https://smart.discussvision.net/smart/tenant/hatoyama/WebView/rd/speech.html?council_id=63&schedule_id=4&playlist_id=1&speaker_id=15&target_year=2026",
+      "resultLocator": "第174号の紙面8頁。公式音声目録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第174号の紙面8頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第45号",
+      "date": "2026-09-10",
+      "title": "令和7年度鳩山町後期高齢者医療特別会計歳入歳出決算認定について",
+      "result": "認定",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=8",
+      "resultURL": "https://smart.discussvision.net/smart/tenant/hatoyama/WebView/rd/speech.html?council_id=63&schedule_id=4&playlist_id=1&speaker_id=15&target_year=2026",
+      "resultLocator": "第174号の紙面8頁。公式音声目録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第174号の紙面8頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第56号",
+      "date": "2026-09-11",
+      "title": "工事請負契約の締結について（町道第52号線外道路改良工事（第二工区その２））",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=8",
+      "resultURL": "https://smart.discussvision.net/smart/tenant/hatoyama/WebView/rd/speech.html?council_id=63&schedule_id=5&playlist_id=1&speaker_id=15&target_year=2026",
+      "resultLocator": "第174号の紙面8頁。公式音声目録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第174号の紙面8頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第46号",
+      "date": "2026-09-10",
+      "title": "令和7年度鳩山町介護保険特別会計歳入歳出決算認定について",
+      "result": "認定",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=8",
+      "resultURL": "https://smart.discussvision.net/smart/tenant/hatoyama/WebView/rd/speech.html?council_id=63&schedule_id=4&playlist_id=1&speaker_id=15&target_year=2026",
+      "resultLocator": "第174号の紙面8頁。公式音声目録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第174号の紙面8頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第57号",
+      "date": "2026-09-11",
+      "title": "町道第2535号線の廃止について",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=8",
+      "resultURL": "https://smart.discussvision.net/smart/tenant/hatoyama/WebView/rd/speech.html?council_id=63&schedule_id=5&playlist_id=1&speaker_id=15&target_year=2026",
+      "resultLocator": "第174号の紙面8頁。公式音声目録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第174号の紙面8頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第47号",
+      "date": "2026-09-10",
+      "title": "令和7年度鳩山町水道事業会計決算認定について",
+      "result": "認定",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=8",
+      "resultURL": "https://smart.discussvision.net/smart/tenant/hatoyama/WebView/rd/speech.html?council_id=63&schedule_id=4&playlist_id=1&speaker_id=15&target_year=2026",
+      "resultLocator": "第174号の紙面8頁。公式音声目録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第174号の紙面8頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第58号",
+      "date": "2026-09-11",
+      "title": "教育委員会委員の任命について",
+      "result": "同意",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=8",
+      "resultURL": "https://smart.discussvision.net/smart/tenant/hatoyama/WebView/rd/speech.html?council_id=63&schedule_id=5&playlist_id=1&speaker_id=15&target_year=2026",
+      "resultLocator": "第174号の紙面8頁。公式音声目録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第174号の紙面8頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第48号",
+      "date": "2026-09-10",
+      "title": "令和7年度鳩山町水道事業会計未処分利益剰余金の処分について",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=8",
+      "resultURL": "https://smart.discussvision.net/smart/tenant/hatoyama/WebView/rd/speech.html?council_id=63&schedule_id=4&playlist_id=1&speaker_id=15&target_year=2026",
+      "resultLocator": "第174号の紙面8頁。公式音声目録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第174号の紙面8頁で全員賛成と掲載。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "発議第2号",
+      "date": "2026-09-11",
+      "title": "米国政府による国際刑事裁判所（ICC）所長などへの制裁に抗議し、法の支配に基づく国際秩序と我が国出身のICC　関係者を守ることを求める意見書案について",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=8",
+      "resultURL": "https://smart.discussvision.net/smart/tenant/hatoyama/WebView/rd/speech.html?council_id=63&schedule_id=5&playlist_id=1&speaker_id=15&target_year=2026",
+      "resultLocator": "第174号の紙面8頁。公式音声目録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteNote": "第174号の紙面8頁で全員賛成と掲載。",
+      "names": [
+        "石井計次"
+      ],
+      "proposalRole": "発議者"
+    },
+    {
+      "place": "鳩山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "請願第1号",
+      "date": "2026-09-11",
+      "title": "ゲノム編集食品の表示義務化を求める意見書を国に提出することを求める請願",
+      "result": "採択",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=8",
+      "resultURL": "https://smart.discussvision.net/smart/tenant/hatoyama/WebView/rd/speech.html?council_id=63&schedule_id=5&playlist_id=1&speaker_id=15&target_year=2026",
+      "resultLocator": "第174号の紙面8頁。公式音声目録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteType": "記名",
+      "votes": {
+        "関根清隆": "賛成",
+        "石井徹": "賛成",
+        "中山明美": "賛成",
+        "日坂和久": "賛成",
+        "小鷹房義": "賛成",
+        "森利夫": "反対",
+        "野田小百合": "賛成",
+        "石井計次": "賛成",
+        "清水秀幸": "賛成",
+        "松浪健一郎": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=8",
+      "voteNote": "第174号の紙面8頁の記名表決は賛成8、反対1。紙面表記は「原案可決」。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "請願第2号",
+      "date": "2026-09-11",
+      "title": "「殺傷能力のある武器の輸出禁止を求める」意見書提出を求める請願",
+      "result": "採択",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=8",
+      "resultURL": "https://smart.discussvision.net/smart/tenant/hatoyama/WebView/rd/speech.html?council_id=63&schedule_id=5&playlist_id=1&speaker_id=15&target_year=2026",
+      "resultLocator": "第174号の紙面8頁。公式音声目録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteType": "記名",
+      "votes": {
+        "関根清隆": "反対",
+        "石井徹": "反対",
+        "中山明美": "賛成",
+        "日坂和久": "賛成",
+        "小鷹房義": "賛成",
+        "森利夫": "反対",
+        "野田小百合": "賛成",
+        "石井計次": "賛成",
+        "清水秀幸": "賛成",
+        "松浪健一郎": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=8",
+      "voteNote": "第174号の紙面8頁の記名表決は賛成6、反対3。紙面表記は「原案可決」。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "発議第1号",
+      "date": "2026-09-11",
+      "title": "鳩山町議会議員定数条例の一部を改正する条例の制定について",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=8",
+      "resultURL": "https://smart.discussvision.net/smart/tenant/hatoyama/WebView/rd/speech.html?council_id=63&schedule_id=5&playlist_id=1&speaker_id=15&target_year=2026",
+      "resultLocator": "第174号の紙面8頁。公式音声目録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteType": "記名",
+      "votes": {
+        "関根清隆": "反対",
+        "石井徹": "賛成",
+        "中山明美": "賛成",
+        "日坂和久": "賛成",
+        "小鷹房義": "賛成",
+        "森利夫": "賛成",
+        "野田小百合": "賛成",
+        "石井計次": "賛成",
+        "清水秀幸": "賛成",
+        "松浪健一郎": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=8",
+      "voteNote": "第174号の紙面8頁の記名表決は賛成8、反対1。",
+      "names": [
+        "清水秀幸"
+      ],
+      "proposalRole": "発議者"
+    },
+    {
+      "place": "鳩山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "発委第1号",
+      "date": "2026-09-11",
+      "title": "ゲノム編集食品の表示義務化を求める意見書案について",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=8",
+      "resultURL": "https://smart.discussvision.net/smart/tenant/hatoyama/WebView/rd/speech.html?council_id=63&schedule_id=5&playlist_id=1&speaker_id=15&target_year=2026",
+      "resultLocator": "第174号の紙面8頁。公式音声目録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteType": "記名",
+      "votes": {
+        "関根清隆": "賛成",
+        "石井徹": "賛成",
+        "中山明美": "賛成",
+        "日坂和久": "賛成",
+        "小鷹房義": "賛成",
+        "森利夫": "反対",
+        "野田小百合": "賛成",
+        "石井計次": "賛成",
+        "清水秀幸": "賛成",
+        "松浪健一郎": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=8",
+      "voteNote": "第174号の紙面8頁の記名表決は賛成8、反対1。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "発委第2号",
+      "date": "2026-09-11",
+      "title": "「殺傷能力のある武器の輸出禁止を求める」意見書案について",
+      "result": "原案可決",
+      "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=8",
+      "resultURL": "https://smart.discussvision.net/smart/tenant/hatoyama/WebView/rd/speech.html?council_id=63&schedule_id=5&playlist_id=1&speaker_id=15&target_year=2026",
+      "resultLocator": "第174号の紙面8頁。公式音声目録で審議日を照合",
+      "sourceTitle": "はとやま議会だよりの審議結果",
+      "voteType": "記名",
+      "votes": {
+        "関根清隆": "反対",
+        "石井徹": "反対",
+        "中山明美": "賛成",
+        "日坂和久": "賛成",
+        "小鷹房義": "賛成",
+        "森利夫": "反対",
+        "野田小百合": "賛成",
+        "石井計次": "賛成",
+        "清水秀幸": "賛成",
+        "松浪健一郎": "議長（表決不参加）"
+      },
+      "voteURL": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf#page=8",
+      "voteNote": "第174号の紙面8頁の記名表決は賛成6、反対3。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "総務第1528号",
+      "date": "2026-03-13",
+      "title": "人権擁護委員の推薦につき意見を求めることについて（小鷹文子氏）",
+      "result": "適任",
+      "url": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=242&schedule_id=5",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=242&schedule_id=5",
+      "resultLocator": "３月13日の公式会議録199～200頁",
+      "sourceTitle": "鳩山町議会の公式会議録",
+      "voteNote": "会議録では異議なし。"
+    },
+    {
+      "place": "鳩山町",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "総務第1529号",
+      "date": "2026-03-13",
+      "title": "人権擁護委員の推薦につき意見を求めることについて（松本英夫氏）",
+      "result": "適任",
+      "url": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=242&schedule_id=5",
+      "resultURL": "https://ssp.kaigiroku.net/tenant/hatoyama/SpMinuteView.html?tenant_id=471&council_id=242&schedule_id=5",
+      "resultLocator": "３月13日の公式会議録199～200頁",
+      "sourceTitle": "鳩山町議会の公式会議録",
+      "voteNote": "会議録では異議なし。"
     }
   ],
   "policy": [
