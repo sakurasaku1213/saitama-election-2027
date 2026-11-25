@@ -11727,3 +11727,698 @@ GIKAI.cases.push(...[
     "note": "自主避難所の開設・閉鎖と９月の質疑を確認。改訂版の発行は確認中。"
   }
 ]);
+
+GIKAI.cases.push(...[
+  {
+    "place": "秩父市",
+    "title": "下水道使用料の改定を、答申・質疑・採決・施行まで追う",
+    "topic": "下水道・使用料",
+    "actors": [
+      "関根浩",
+      "宮前昌美",
+      "黒澤秀之",
+      "大岩優次",
+      "下水道事業審議会",
+      "秩父市",
+      "秩父市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-24",
+        "stage": "平均改定率24.7％と11月施行を答申",
+        "actor": "下水道事業審議会",
+        "detail": "５回の審議を経て、平均改定率24.7％、施行日11月１日を適当とする答申を市長に提出した。",
+        "url": "https://www.city.chichibu.lg.jp/7971.html",
+        "sourceTitle": "秩父市・下水道事業審議会の答申"
+      },
+      {
+        "date": "2026-06-08",
+        "stage": "料金区分、改定理由と市民への影響を本会議で質疑",
+        "actor": "宮前昌美、関根浩、秩父市",
+        "detail": "宮前議員は飲食店や旅館等の料金区分を、関根議員は改定の理由と市民への影響を質問。市は設備更新費の増加、使用料収入の減少、一般会計繰入への依存を説明した。",
+        "url": "https://ssp.kaigiroku.net/tenant/chichibu/SpMinuteView.html?tenant_id=41&council_id=434&schedule_id=3",
+        "sourceTitle": "秩父市議会・06月08日－議案質疑－02号",
+        "archiveId": "2de183763246329587c6",
+        "blocks": [
+          12,
+          14,
+          16,
+          20,
+          22,
+          24
+        ],
+        "memberActions": [
+          {
+            "name": "宮前昌美",
+            "detail": "飲食店、工場、宿泊施設等に適用される区分を確認した。",
+            "blocks": [
+              12,
+              16
+            ]
+          },
+          {
+            "name": "関根浩",
+            "detail": "改定を行う理由、市民への影響、一般会計繰入への依存を質した。",
+            "blocks": [
+              20,
+              24
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-06-10",
+        "stage": "委員会で改定率の算定と少量使用の世帯への影響を確認",
+        "actor": "黒澤秀之、秩父市",
+        "detail": "黒澤委員が前回改定との比較や少量世帯への影響を質した。市は今後５年分を再試算した平均改定率は24.7％とし、２か月20立方メートル以下は令和６年度実績で約6,500世帯、使用量に応じて約30～40％の増額見込みと答えた。",
+        "url": "https://ssp.kaigiroku.net/tenant/chichibu/SpMinuteView.html?tenant_id=41&council_id=427&schedule_id=4",
+        "sourceTitle": "秩父市議会・秩父市 令和 ８年 まちづくり委員会 06月10日－03号",
+        "archiveId": "4c1df336589206deea9e",
+        "blocks": [
+          31,
+          33,
+          35,
+          37,
+          63,
+          65,
+          67
+        ],
+        "memberActions": [
+          {
+            "name": "黒澤秀之",
+            "detail": "資料の平均改定率を検証し、少量使用者への負担や周知方法を質した。",
+            "blocks": [
+              31,
+              63,
+              67
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-06-24",
+        "stage": "本会議で反対討論後、条例改正と補正予算をそれぞれ可決",
+        "actor": "大岩優次、秩父市議会",
+        "detail": "大岩議員が家計への負担などを理由に反対討論。議会は第53号の条例、第54号の下水道事業会計補正予算を別々に採決し、可決した。紙面の無会派欄では関根・大岩両議員が２議案とも反対。",
+        "url": "https://ssp.kaigiroku.net/tenant/chichibu/SpMinuteView.html?tenant_id=41&council_id=434&schedule_id=7",
+        "sourceTitle": "秩父市議会・06月24日－委員長報告・討論・採決－06号",
+        "archiveId": "74dfb4c4206d34def746",
+        "blocks": [
+          15,
+          20,
+          22,
+          23,
+          25
+        ],
+        "billNumber": "議案第53号",
+        "memberActions": [
+          {
+            "name": "大岩優次",
+            "detail": "使用料改定と関連補正に対し、両案の反対討論を行った。",
+            "blocks": [
+              15
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-11-01",
+        "stage": "市が新しい下水道使用料を適用",
+        "actor": "秩父市",
+        "detail": "市は11月１日改定の計算表を公表した。基本使用料と従量使用料を提示している。",
+        "url": "https://www.city.chichibu.lg.jp/1862.html",
+        "sourceTitle": "秩父市・下水道使用料の改定と計算表"
+      }
+    ],
+    "note": "24.7％は平均の改定率。少量使用の世帯への影響は委員会で示された見込み。"
+  },
+  {
+    "place": "秩父市",
+    "title": "市営バス川又線の廃止と大滝地域の移動手段を審議",
+    "topic": "交通・大滝",
+    "actors": [
+      "黒澤秀之",
+      "秩父市",
+      "秩父市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-02",
+        "stage": "路線の利用状況と代替交通の制度を質疑",
+        "actor": "黒澤秀之、秩父市",
+        "detail": "黒澤議員は川又線の利用実績と廃止後の支援、地域生活交通が今後も続く仕組みかなどを質問。市は２月23日時点の年度利用延べ846人を説明し、交通空白地での新たな運行の考えを示した。",
+        "url": "https://ssp.kaigiroku.net/tenant/chichibu/SpMinuteView.html?tenant_id=41&council_id=423&schedule_id=3",
+        "sourceTitle": "秩父市議会・03月02日－議案質疑－02号",
+        "archiveId": "a60936b669c939463cab",
+        "blocks": [
+          92,
+          94,
+          132,
+          134,
+          138
+        ],
+        "memberActions": [
+          {
+            "name": "黒澤秀之",
+            "detail": "廃止の議案と新制度の条例案それぞれについて、利用実績と代替手段を質した。",
+            "blocks": [
+              92,
+              132
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-03-17",
+        "stage": "市営バス条例改正案を可決",
+        "actor": "秩父市議会",
+        "detail": "市営バス条例から川又線の規定を削除する改正案を可決した。",
+        "url": "https://www.city.chichibu.lg.jp/secure/14383/0803gikestusyorikekka.pdf#page=1",
+        "sourceTitle": "秩父市議会・公式議案処理結果",
+        "billNumber": "議案第17号"
+      },
+      {
+        "date": "2026-03-17",
+        "stage": "地域生活交通条例を可決",
+        "actor": "秩父市議会",
+        "detail": "大滝地域での登録・予約制による地域生活交通を定める条例を可決した。",
+        "url": "https://www.city.chichibu.lg.jp/secure/14383/0803gikestusyorikekka.pdf#page=1",
+        "sourceTitle": "秩父市議会・公式議案処理結果",
+        "billNumber": "議案第25号"
+      },
+      {
+        "date": "2026-04-01",
+        "stage": "川又線を廃止し、新条例を施行",
+        "actor": "秩父市",
+        "detail": "市は川又線の廃止を告知。大滝地域内と三峰口駅間を対象とする地域生活交通条例の施行日も４月１日。",
+        "url": "https://www.city.chichibu.lg.jp/2056.html",
+        "sourceTitle": "秩父市・市営バス川又線廃止の案内"
+      }
+    ],
+    "note": "議案と市の路線案内で廃止・施行を確認。新制度の利用実績は確認中。"
+  },
+  {
+    "place": "秩父市",
+    "title": "第３次総合振興計画の周知方法、施策評価と将来像を確認",
+    "topic": "市政計画・評価",
+    "actors": [
+      "小松穂波",
+      "菅沼史明",
+      "総合振興計画調査特別委員会",
+      "秩父市",
+      "秩父市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-06",
+        "stage": "特別委員会で計画の周知などを質し、可決と決定",
+        "actor": "小松穂波、総合振興計画調査特別委員会、秩父市",
+        "detail": "小松委員が住民に繰り返し伝える方法などを質した。市はホームページ、市報等での周知を説明し、委員会は可決と決定した。",
+        "url": "https://ssp.kaigiroku.net/tenant/chichibu/SpMinuteView.html?tenant_id=41&council_id=430&schedule_id=3",
+        "sourceTitle": "秩父市議会・秩父市 令和 ８年 総合振興計画調査特別委員会 03月06日－02号",
+        "archiveId": "a83f3a9a85e8e6cf4a56",
+        "blocks": [
+          6,
+          8,
+          10,
+          12,
+          14,
+          16,
+          19
+        ],
+        "memberActions": [
+          {
+            "name": "小松穂波",
+            "detail": "市民への周知手段と、メディア等を用いた継続した発信を提案した。",
+            "blocks": [
+              8,
+              12,
+              16
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-03-17",
+        "stage": "基本構想を本会議で可決",
+        "actor": "秩父市議会",
+        "detail": "第３次秩父市総合振興計画基本構想を可決した。",
+        "url": "https://www.city.chichibu.lg.jp/secure/14383/0803gikestusyorikekka.pdf#page=1",
+        "sourceTitle": "秩父市議会・公式議案処理結果",
+        "billNumber": "議案第6号"
+      },
+      {
+        "date": "2026-04-01",
+        "stage": "第３次計画の期間開始",
+        "actor": "秩父市",
+        "detail": "市が３月に策定した計画を公表している。基本構想は令和８年度から８年間、前期基本計画は４年間。",
+        "url": "https://www.city.chichibu.lg.jp/6440.html",
+        "sourceTitle": "秩父市・第３次総合振興計画"
+      },
+      {
+        "date": "2026-09-08",
+        "stage": "将来像の変遷、政策の並びと検証方法を質問",
+        "actor": "菅沼史明、秩父市",
+        "detail": "菅沼議員は合併後の将来像・重点施策の変化と評価を質問。市は市民参加や意見募集を経た将来像の策定経過と、行政評価による施策評価の方法を説明した。",
+        "url": "https://ssp.kaigiroku.net/tenant/chichibu/SpMinuteView.html?tenant_id=41&council_id=437&schedule_id=5",
+        "sourceTitle": "秩父市議会・09月08日－一般質問－04号",
+        "archiveId": "79b825635f892392cfd1",
+        "blocks": [
+          84,
+          86
+        ],
+        "memberActions": [
+          {
+            "name": "菅沼史明",
+            "detail": "これまでの計画の検証と新計画の将来像・優先施策の理由を質した。",
+            "blocks": [
+              84
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "計画の可決、公開、秋の検証に関する質問と答弁を確認。"
+  },
+  {
+    "place": "秩父市",
+    "title": "旧吉田・大滝・荒川の過疎計画で前計画の評価を質す",
+    "topic": "地域振興・計画",
+    "actors": [
+      "宮川浩司",
+      "秩父市",
+      "秩父市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-03",
+        "stage": "委員会で前計画の達成評価を確認",
+        "actor": "宮川浩司、秩父市",
+        "detail": "宮川委員は前計画の達成の評価を確認した。市は大きな方針を維持し、完了した事業の削除や、新たな５年間の事業の追加を行ったと説明した。",
+        "url": "https://ssp.kaigiroku.net/tenant/chichibu/SpMinuteView.html?tenant_id=41&council_id=429&schedule_id=2",
+        "sourceTitle": "秩父市議会・秩父市 令和 ８年 総務委員会 03月03日－01号",
+        "archiveId": "d2d0d102a86bc30bbc3d",
+        "blocks": [
+          12,
+          15,
+          17
+        ],
+        "memberActions": [
+          {
+            "name": "宮川浩司",
+            "detail": "計画案の達成状況の評価欄を示し、前計画の評価を質した。",
+            "blocks": [
+              15
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-03-17",
+        "stage": "過疎地域持続的発展計画の策定を可決",
+        "actor": "秩父市議会",
+        "detail": "第８号の計画策定を原案可決した。",
+        "url": "https://www.city.chichibu.lg.jp/secure/14383/0803gikestusyorikekka.pdf#page=1",
+        "sourceTitle": "秩父市議会・公式議案処理結果",
+        "billNumber": "議案第8号"
+      },
+      {
+        "date": "2026-04-01",
+        "stage": "令和８年度からの計画期間が開始",
+        "actor": "秩父市",
+        "detail": "市は対象地域となる旧吉田町・旧大滝村・旧荒川村と、３月議会で議決された令和８～12年度の計画を公表している。",
+        "url": "https://www.city.chichibu.lg.jp/4698.html",
+        "sourceTitle": "秩父市・令和８年度からの過疎対策と計画"
+      }
+    ],
+    "note": "審査、議決、公開された計画を収録。事業ごとの着手・実績は個別資料で確認する。"
+  },
+  {
+    "place": "秩父市",
+    "title": "ちちぶ定住自立圏の協定変更を、議決と協定書で確認",
+    "topic": "広域連携",
+    "actors": [
+      "秩父市議会総務委員会",
+      "秩父市議会",
+      "秩父市",
+      "横瀬町",
+      "皆野町",
+      "長瀞町",
+      "小鹿野町"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-03",
+        "stage": "総務委員会が協定変更を審査",
+        "actor": "秩父市議会総務委員会、秩父市",
+        "detail": "横瀬、皆野、長瀞、小鹿野の４町との協定変更案を審査し、原案可決と決定した。",
+        "url": "https://ssp.kaigiroku.net/tenant/chichibu/SpMinuteView.html?tenant_id=41&council_id=429&schedule_id=2",
+        "sourceTitle": "秩父市議会・秩父市 令和 ８年 総務委員会 03月03日－01号",
+        "archiveId": "d2d0d102a86bc30bbc3d",
+        "blocks": [
+          6,
+          7,
+          9,
+          10
+        ]
+      },
+      {
+        "date": "2026-03-17",
+        "stage": "協定の変更を本会議で可決",
+        "actor": "秩父市議会",
+        "detail": "横瀬町、皆野町、長瀞町及び小鹿野町との協定の変更を可決した。",
+        "url": "https://www.city.chichibu.lg.jp/secure/14383/0803gikestusyorikekka.pdf#page=1",
+        "sourceTitle": "秩父市議会・公式議案処理結果",
+        "billNumber": "議案第7号"
+      },
+      {
+        "date": "2026-03-17",
+        "stage": "１市４町で協定を追加変更",
+        "actor": "秩父市",
+        "detail": "秩父市は３月17日、横瀬町・皆野町・長瀞町・小鹿野町との協定に、不登校児童生徒に対する支援体制の充実を追加した。市が各町との変更協定書を公表している。",
+        "url": "https://www.city.chichibu.lg.jp/2974.html",
+        "sourceTitle": "秩父市・ちちぶ定住自立圏形成協定の追加"
+      }
+    ],
+    "note": "秩父市の審査・採決と１市４町の変更協定書に基づく。",
+    "relatedPlaces": [
+      "横瀬町",
+      "皆野町",
+      "長瀞町",
+      "小鹿野町"
+    ]
+  },
+  {
+    "place": "秩父市",
+    "title": "荒川西小学校の統合方針と、通学・校舎利用をめぐる質疑",
+    "topic": "学校再編・通学",
+    "actors": [
+      "笠原宏平",
+      "宮前昌美",
+      "浅海忠",
+      "秩父市教育委員会",
+      "秩父市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-05",
+        "stage": "委員会で閉校後の施設、通学や地元への伝達を質す",
+        "actor": "笠原宏平、宮前昌美、秩父市教育委員会",
+        "detail": "笠原委員は閉校後の施設の活用などを、宮前委員は地域への説明を質問。市は施設利用は未定、既存バスの継続などの考えを示した。",
+        "url": "https://ssp.kaigiroku.net/tenant/chichibu/SpMinuteView.html?tenant_id=41&council_id=428&schedule_id=2",
+        "sourceTitle": "秩父市議会・秩父市 令和 ８年 文教福祉委員会 03月05日－01号",
+        "archiveId": "7ae5585609c00c74e525",
+        "blocks": [
+          430,
+          433,
+          435,
+          437,
+          443,
+          449,
+          451
+        ],
+        "memberActions": [
+          {
+            "name": "笠原宏平",
+            "detail": "統合後の校舎の活用と土地の所有について質した。",
+            "blocks": [
+              433,
+              437
+            ]
+          },
+          {
+            "name": "宮前昌美",
+            "detail": "統合の方針を地元へどう説明・共有したかを質した。",
+            "blocks": [
+              449
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-03-11",
+        "stage": "本会議で閉校後の対応を一般質問",
+        "actor": "浅海忠、秩父市教育委員会",
+        "detail": "浅海議員は閉校・統合に向けて行う事業の計画と統合後の学校名を質問。教育長は保護者の要望を受けた経緯、両校の交流事業、荒川東小学校の名称を維持する方針を説明した。",
+        "url": "https://ssp.kaigiroku.net/tenant/chichibu/SpMinuteView.html?tenant_id=41&council_id=423&schedule_id=6",
+        "sourceTitle": "秩父市議会・03月11日－一般質問－05号",
+        "archiveId": "02bad5978a95a8202cad",
+        "blocks": [
+          67,
+          79
+        ],
+        "memberActions": [
+          {
+            "name": "浅海忠",
+            "detail": "閉校・統合に向けた事業計画と、統合後の学校名を一般質問で確認した。",
+            "blocks": [
+              67
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-03-17",
+        "stage": "学校設置条例の改正案を可決",
+        "actor": "秩父市議会",
+        "detail": "令和９年４月１日施行の学校設置条例改正案を可決した。",
+        "url": "https://www.city.chichibu.lg.jp/secure/14383/0803gikestusyorikekka.pdf#page=1",
+        "sourceTitle": "秩父市議会・公式議案処理結果",
+        "billNumber": "議案第21号"
+      },
+      {
+        "date": "2026-10-10",
+        "stage": "市報に閉校記念イベントを掲載",
+        "actor": "秩父市",
+        "detail": "市報10月号の表紙で、荒川西小学校の閉校記念イベントを取り上げた。",
+        "url": "https://city.chichibu.lg.jp/secure/28889/081001.pdf",
+        "sourceTitle": "市報ちちぶ・令和８年10月号表紙"
+      }
+    ],
+    "note": "市の案内は令和９年３月末の閉校と４月１日の統合を予定。統合の完了は確認時点で将来。"
+  },
+  {
+    "place": "秩父市",
+    "title": "出産祝金の一律20万円への見直しと、施行前の周知",
+    "topic": "子育て支援・給付",
+    "actors": [
+      "関根浩",
+      "黒澤秀之",
+      "原嶋日巳佳",
+      "秩父市",
+      "秩父市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-08-31",
+        "stage": "現行の出生順区分と、変更の影響を本会議で質疑",
+        "actor": "関根浩、黒澤秀之、秩父市",
+        "detail": "現行は第１子12万円、第２子30万円、第３子以降50万円。関根議員は内容や実績、黒澤議員は第２子以降の減額の理由と支給総額への影響を質し、市は一律20万円への見直し方針を説明した。",
+        "url": "https://ssp.kaigiroku.net/tenant/chichibu/SpMinuteView.html?tenant_id=41&council_id=437&schedule_id=3",
+        "sourceTitle": "秩父市議会・08月31日－議案質疑－02号",
+        "archiveId": "2271c3776cef814b071e",
+        "blocks": [
+          176,
+          178,
+          200,
+          202
+        ],
+        "memberActions": [
+          {
+            "name": "関根浩",
+            "detail": "現行と改正案の違い、出生順による過去の認定状況を確認した。",
+            "blocks": [
+              176
+            ]
+          },
+          {
+            "name": "黒澤秀之",
+            "detail": "第２子以降の減額理由と、制度変更による支給総額の増減を質した。",
+            "blocks": [
+              200
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-09-02",
+        "stage": "委員会で改定額の根拠と転出の把握を質問",
+        "actor": "原嶋日巳佳、秩父市",
+        "detail": "原嶋委員が20万円とした根拠と、支給後に市内に住み続けているかの把握を質した。市は結婚新生活支援事業の見直しなども踏まえて額を決めたと答えた。",
+        "url": "https://ssp.kaigiroku.net/tenant/chichibu/SpMinuteView.html?tenant_id=41&council_id=428&schedule_id=4",
+        "sourceTitle": "秩父市議会・秩父市 令和 ８年 文教福祉委員会 09月02日－03号",
+        "archiveId": "e72cf72835cea29d4213",
+        "blocks": [
+          169,
+          173,
+          175,
+          182,
+          192,
+          194
+        ],
+        "memberActions": [
+          {
+            "name": "原嶋日巳佳",
+            "detail": "20万円の設定根拠と、支給後の居住継続の把握を質問した。",
+            "blocks": [
+              173,
+              182,
+              192
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-09-16",
+        "stage": "出産祝金条例の改正案を可決",
+        "actor": "秩父市議会",
+        "detail": "改正分は令和９年４月１日以降の出生が対象。施行日前の出生は従前の取扱い。",
+        "url": "https://www.city.chichibu.lg.jp/secure/14383/0809giansyorikekka.pdf#page=1",
+        "sourceTitle": "秩父市議会・公式議案処理結果",
+        "billNumber": "議案第82号"
+      },
+      {
+        "date": "2026-11-25",
+        "stage": "変更後の対象・金額・手続の案内を確認",
+        "actor": "秩父市",
+        "detail": "市は令和９年４月からの対象児童１人につき20万円の支給と申請手続を案内。掲載内容は令和８年９月時点の情報で、令和９年度予算の成立後に正式決定すると明記している。",
+        "url": "https://www.city.chichibu.lg.jp/11944.html",
+        "sourceTitle": "秩父市・出産祝金（令和９年４月～）"
+      }
+    ],
+    "note": "11月25日は市の案内を確認した日。改正条例は令和９年４月１日施行で、市の案内は令和９年度予算の成立を正式決定の条件としている。"
+  },
+  {
+    "place": "秩父市",
+    "title": "夜間オンライン診療の開設から、利用実績と課題の点検へ",
+    "topic": "広域医療・事業の検証",
+    "actors": [
+      "宮前昌美",
+      "ちちぶ医療協議会",
+      "秩父市"
+    ],
+    "steps": [
+      {
+        "date": "2025-07-01",
+        "stage": "１市４町の夜間オンライン診療窓口を開設",
+        "actor": "ちちぶ医療協議会",
+        "detail": "秩父地域１市４町で構成する協議会が、夜間の救急医療体制を補う診療窓口を開設した。",
+        "url": "https://www.chichibu-hsp.org/kaigi-zigyo/3734/",
+        "sourceTitle": "ちちぶ医療協議会・夜間オンライン診療の開設経緯"
+      },
+      {
+        "date": "2026-09-07",
+        "stage": "開設後の実績と夜間の薬の受取等を一般質問",
+        "actor": "宮前昌美、秩父市",
+        "detail": "宮前議員は実績と今後の課題を尋ねた。市は2025年７月から2026年８月までの診察完了253件と、情報格差や夜間の薬の受取などの課題を答えた。",
+        "url": "https://ssp.kaigiroku.net/tenant/chichibu/SpMinuteView.html?tenant_id=41&council_id=437&schedule_id=4",
+        "sourceTitle": "秩父市議会・09月07日－一般質問－03号",
+        "archiveId": "84cb1b427e64f0ea8384",
+        "blocks": [
+          112,
+          118,
+          143
+        ],
+        "memberActions": [
+          {
+            "name": "宮前昌美",
+            "detail": "開設後の診療実績と今後の運用を質し、薬局との連携に言及した。",
+            "blocks": [
+              112,
+              143
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "253件は、市が答弁で示した14か月間の診察完了数。",
+    "relatedPlaces": [
+      "横瀬町",
+      "皆野町",
+      "長瀞町",
+      "小鹿野町"
+    ]
+  },
+  {
+    "place": "秩父市",
+    "title": "意見書の提出を、６月と９月の議員発議から追う",
+    "topic": "議員発議・平和政策",
+    "actors": [
+      "本橋貢",
+      "小櫃市郎",
+      "内田均",
+      "堀口義正",
+      "宮川浩司",
+      "秩父市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-06-24",
+        "stage": "非核三原則の堅持を求める意見書案を説明して可決",
+        "actor": "本橋貢、秩父市議会",
+        "detail": "議案書の提出者は本橋議員、賛成者は小櫃・内田・堀口・宮川の４議員。本橋議員が案文を説明し、議会が原案を可決した。",
+        "url": "https://ssp.kaigiroku.net/tenant/chichibu/SpMinuteView.html?tenant_id=41&council_id=434&schedule_id=7",
+        "sourceTitle": "秩父市議会・06月24日－委員長報告・討論・採決－06号",
+        "archiveId": "74dfb4c4206d34def746",
+        "blocks": [
+          76,
+          77,
+          81,
+          83
+        ],
+        "billNumber": "議員提出議案第1号",
+        "memberActions": [
+          {
+            "name": "本橋貢",
+            "detail": "提出者として、非核三原則の堅持を求める意見書案を説明した。",
+            "blocks": [
+              77
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-08-10",
+        "stage": "可決意見書の送付を議会だよりに掲載",
+        "actor": "秩父市議会",
+        "detail": "議会だよりは、可決した意見書を内閣総理大臣をはじめ関係行政庁等に送付したと掲載した。",
+        "url": "https://www.city.chichibu.lg.jp/secure/29102/gikaidayori85_.pdf#page=7",
+        "sourceTitle": "秩父市議会だより第85号・７頁"
+      },
+      {
+        "date": "2026-09-16",
+        "stage": "再検討会議へのオブザーバー参加を求める意見書案を可決",
+        "actor": "本橋貢、秩父市議会",
+        "detail": "本橋議員が意見書案の案文を説明。議会は全員賛成で可決し、議長が関係行政庁への提出を告げた。",
+        "url": "https://ssp.kaigiroku.net/tenant/chichibu/SpMinuteView.html?tenant_id=41&council_id=437&schedule_id=7",
+        "sourceTitle": "秩父市議会・09月16日－委員長報告・討論・採決－06号",
+        "archiveId": "8442cb1e95719f5b30ff",
+        "blocks": [
+          32,
+          33,
+          37,
+          39
+        ],
+        "billNumber": "議員提出議案第2号",
+        "memberActions": [
+          {
+            "name": "本橋貢",
+            "detail": "提出者として再検討会議への参加を求める意見書案を説明した。",
+            "blocks": [
+              33
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-11-10",
+        "stage": "９月議決分の送付を議会だよりに掲載",
+        "actor": "秩父市議会",
+        "detail": "議会だよりは、可決した９月の意見書を内閣総理大臣をはじめ関係行政庁等に送付したと掲載した。",
+        "url": "https://www.city.chichibu.lg.jp/secure/29333/gikaidayori86.pdf#page=5",
+        "sourceTitle": "秩父市議会だより第86号・５頁"
+      }
+    ],
+    "note": "両議案の提出者・賛成者は議案書を、議決と送付は本会議録・議会だよりを参照。"
+  }
+]);

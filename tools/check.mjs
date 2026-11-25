@@ -405,8 +405,11 @@ for (const bill of coverage.decisions) {
   if (bill.proposalSupporters) {
     assert.ok(bill.names?.length && bill.proposalSupporters.length, key);
     assert.equal(new Set(bill.proposalSupporters).size, bill.proposalSupporters.length, key);
+    const memberProposal = bill.proposalRole === "発議者" && bill.sourceTitle === "議員提出議案の原文" &&
+      bill.url !== bill.resultURL && /\.pdf#page=\d+$/i.test(bill.url);
     for (const supporter of bill.proposalSupporters) {
-      assert.ok(!bill.names.includes(supporter) && people.has(bill.place + "|" + supporter.replace(/\s/g, "")), key);
+      assert.ok(typeof supporter === "string" && supporter.trim() && !bill.names.includes(supporter), key);
+      assert.ok(people.has(bill.place + "|" + supporter.replace(/\s/g, "")) || memberProposal, key);
     }
   }
   if (bill.votes) {

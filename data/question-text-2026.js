@@ -34257,6 +34257,56 @@ GIKAI.questionText = {
       "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
     },
     {
+      "place": "秩父市",
+      "season": "spring",
+      "date": "2026-03",
+      "id": "f4d4d1564c9e2b170744",
+      "url": "https://www.city.chichibu.lg.jp/secure/2958/0803ippannsitsumonn.pdf",
+      "title": "令和8年3月定例会・一般質問通告一覧表",
+      "scope": "notice",
+      "kind": "一般質問通告（公式資料）",
+      "indexURL": "https://www.city.chichibu.lg.jp/2345.html",
+      "note": "公式の事前通告。発言予定の掲載で、実際の質問と答弁は本会議録を参照。",
+      "speakers": [
+        "本橋貢",
+        "小松穂波",
+        "宮前昌美",
+        "木村隆彦",
+        "出浦章恵",
+        "髙野宏",
+        "坂本勝幸",
+        "笠原宏平",
+        "髙野佳男",
+        "内田均",
+        "浅海忠"
+      ]
+    },
+    {
+      "place": "秩父市",
+      "season": "spring",
+      "date": "2026-03",
+      "id": "fe34fce7188e1efd61e4",
+      "url": "https://www.city.chichibu.lg.jp/secure/28939/gikaidayori84.pdf",
+      "title": "秩父市議会だより第84号・一般質問、議案質疑と委員会報告",
+      "scope": "summary",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "indexURL": "https://www.city.chichibu.lg.jp/11783.html",
+      "note": "紙面全14頁のOCR転記。縦組みと図表の文字の順序・数字は原紙面を参照。議会だよりの一般質問欄は紙面による要約。",
+      "speakers": [
+        "本橋貢",
+        "小松穂波",
+        "宮前昌美",
+        "木村隆彦",
+        "出浦章恵",
+        "髙野宏",
+        "坂本勝幸",
+        "笠原宏平",
+        "髙野佳男",
+        "内田均",
+        "浅海忠"
+      ]
+    },
+    {
       "id": "a60936b669c939463cab",
       "place": "秩父市",
       "season": "spring",
@@ -34265,7 +34315,9 @@ GIKAI.questionText = {
       "url": "https://ssp.kaigiroku.net/tenant/chichibu/SpMinuteView.html?tenant_id=41&council_id=423&schedule_id=3",
       "kind": "公式会議録（HTML）",
       "scope": "minutes",
-      "speakers": [],
+      "speakers": [
+        "黒澤秀之"
+      ],
       "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
     },
     {
@@ -34278,7 +34330,9 @@ GIKAI.questionText = {
       "kind": "公式会議録（常任委員会）",
       "scope": "minutes",
       "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
-      "speakers": []
+      "speakers": [
+        "宮川浩司"
+      ]
     },
     {
       "id": "5c6ef521ad9bb9467ca1",
@@ -34302,7 +34356,10 @@ GIKAI.questionText = {
       "kind": "公式会議録（常任委員会）",
       "scope": "minutes",
       "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
-      "speakers": []
+      "speakers": [
+        "笠原宏平",
+        "宮前昌美"
+      ]
     },
     {
       "id": "a83f3a9a85e8e6cf4a56",
@@ -34314,7 +34371,9 @@ GIKAI.questionText = {
       "kind": "公式会議録（特別委員会）",
       "scope": "minutes",
       "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
-      "speakers": []
+      "speakers": [
+        "小松穂波"
+      ]
     },
     {
       "id": "e4b2c072128050c16381",
@@ -34362,7 +34421,8 @@ GIKAI.questionText = {
       "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
       "speakers": [
         "内田均",
-        "堀口義正"
+        "堀口義正",
+        "浅海忠"
       ]
     },
     {
@@ -34376,6 +34436,58 @@ GIKAI.questionText = {
       "scope": "minutes",
       "speakers": [],
       "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
+    },
+    {
+      "place": "秩父市",
+      "season": "summer",
+      "date": "2026-06",
+      "id": "b0a15e6b5f462638e8a3",
+      "url": "https://www.city.chichibu.lg.jp/secure/2958/0806ippanshitsumon.pdf",
+      "title": "令和8年6月定例会・一般質問通告一覧表",
+      "scope": "notice",
+      "kind": "一般質問通告（公式資料）",
+      "indexURL": "https://www.city.chichibu.lg.jp/2345.html",
+      "note": "公式の事前通告。発言予定の掲載で、実際の質問と答弁は本会議録を参照。",
+      "speakers": [
+        "黒澤秀之",
+        "小松穂波",
+        "宮前昌美",
+        "関根浩",
+        "本橋貢",
+        "山中佳子",
+        "三澤颯",
+        "土谷眞一",
+        "大岩優次",
+        "坂本勝幸",
+        "原嶋日巳佳",
+        "宮川浩司"
+      ]
+    },
+    {
+      "place": "秩父市",
+      "season": "summer",
+      "date": "2026-06",
+      "id": "ea6ff5e20be71428adb2",
+      "url": "https://www.city.chichibu.lg.jp/secure/29102/gikaidayori85_.pdf",
+      "title": "秩父市議会だより第85号・一般質問、議案質疑と委員会報告",
+      "scope": "summary",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "indexURL": "https://www.city.chichibu.lg.jp/11889.html",
+      "note": "紙面全14頁のOCR転記。縦組みと図表の文字の順序・数字は原紙面を参照。議会だよりの一般質問欄は紙面による要約。",
+      "speakers": [
+        "黒澤秀之",
+        "小松穂波",
+        "宮前昌美",
+        "関根浩",
+        "本橋貢",
+        "山中佳子",
+        "三澤颯",
+        "土谷眞一",
+        "大岩優次",
+        "坂本勝幸",
+        "原嶋日巳佳",
+        "宮川浩司"
+      ]
     },
     {
       "id": "08581b2784027349903b",
@@ -34398,7 +34510,10 @@ GIKAI.questionText = {
       "url": "https://ssp.kaigiroku.net/tenant/chichibu/SpMinuteView.html?tenant_id=41&council_id=434&schedule_id=3",
       "kind": "公式会議録（HTML）",
       "scope": "minutes",
-      "speakers": [],
+      "speakers": [
+        "宮前昌美",
+        "関根浩"
+      ],
       "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
     },
     {
@@ -34411,7 +34526,9 @@ GIKAI.questionText = {
       "kind": "公式会議録（常任委員会）",
       "scope": "minutes",
       "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
-      "speakers": []
+      "speakers": [
+        "黒澤秀之"
+      ]
     },
     {
       "id": "095eb3428b898a6cef23",
@@ -34477,7 +34594,10 @@ GIKAI.questionText = {
       "url": "https://ssp.kaigiroku.net/tenant/chichibu/SpMinuteView.html?tenant_id=41&council_id=434&schedule_id=7",
       "kind": "公式会議録（HTML）",
       "scope": "minutes",
-      "speakers": [],
+      "speakers": [
+        "大岩優次",
+        "本橋貢"
+      ],
       "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
     },
     {
@@ -34501,8 +34621,61 @@ GIKAI.questionText = {
       "url": "https://ssp.kaigiroku.net/tenant/chichibu/SpMinuteView.html?tenant_id=41&council_id=437&schedule_id=3",
       "kind": "公式会議録（HTML）",
       "scope": "minutes",
-      "speakers": [],
+      "speakers": [
+        "関根浩",
+        "黒澤秀之"
+      ],
       "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
+    },
+    {
+      "place": "秩父市",
+      "season": "fall",
+      "date": "2026-09",
+      "id": "068a1d9fca8eab48530b",
+      "url": "https://www.city.chichibu.lg.jp/secure/2958/0809ippanshitsumon.pdf",
+      "title": "令和8年9月定例会・一般質問通告一覧表",
+      "scope": "notice",
+      "kind": "一般質問通告（公式資料）",
+      "indexURL": "https://www.city.chichibu.lg.jp/2345.html",
+      "note": "公式の事前通告。発言予定の掲載で、実際の質問と答弁は本会議録を参照。",
+      "speakers": [
+        "黒澤秀之",
+        "原嶋日巳佳",
+        "宮前昌美",
+        "小松穂波",
+        "本橋貢",
+        "山中佳子",
+        "関根浩",
+        "菅沼史明",
+        "大岩優次",
+        "三澤颯",
+        "宮川浩司"
+      ]
+    },
+    {
+      "place": "秩父市",
+      "season": "fall",
+      "date": "2026-09",
+      "id": "d2640ed8154b477cee74",
+      "url": "https://www.city.chichibu.lg.jp/secure/29333/gikaidayori86.pdf",
+      "title": "秩父市議会だより第86号・一般質問、議案質疑と委員会報告",
+      "scope": "summary",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "indexURL": "https://www.city.chichibu.lg.jp/12042.html",
+      "note": "紙面全14頁のOCR転記。縦組みと図表の文字の順序・数字は原紙面を参照。議会だよりの一般質問欄は紙面による要約。",
+      "speakers": [
+        "黒澤秀之",
+        "原嶋日巳佳",
+        "宮前昌美",
+        "小松穂波",
+        "本橋貢",
+        "山中佳子",
+        "関根浩",
+        "菅沼史明",
+        "大岩優次",
+        "三澤颯",
+        "宮川浩司"
+      ]
     },
     {
       "id": "b94d83195a9eaad681ad",
@@ -34526,7 +34699,9 @@ GIKAI.questionText = {
       "kind": "公式会議録（常任委員会）",
       "scope": "minutes",
       "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
-      "speakers": []
+      "speakers": [
+        "原嶋日巳佳"
+      ]
     },
     {
       "id": "99605163a665cbb2c260",
@@ -34602,7 +34777,9 @@ GIKAI.questionText = {
       "url": "https://ssp.kaigiroku.net/tenant/chichibu/SpMinuteView.html?tenant_id=41&council_id=437&schedule_id=7",
       "kind": "公式会議録（HTML）",
       "scope": "minutes",
-      "speakers": [],
+      "speakers": [
+        "本橋貢"
+      ],
       "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
     },
     {
