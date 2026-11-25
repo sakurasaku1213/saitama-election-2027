@@ -439,9 +439,16 @@ for (const bill of coverage.decisions) {
     assert.equal(new Set(bill.proposalSupporters).size, bill.proposalSupporters.length, key);
     const memberProposal = bill.proposalRole === "発議者" && bill.sourceTitle === "議員提出議案の原文" &&
       bill.url !== bill.resultURL && /\.pdf#page=\d+$/i.test(bill.url);
+    const archivedProposal = bill.proposalRole === "発議者" && bill.url !== bill.resultURL
+      ? data.questionText.documents.find((doc) =>
+        doc.url === bill.url && doc.place === bill.place && doc.date === bill.date &&
+        doc.scope === "summary" && doc.kind === "公式会議録の付録（HTML）" &&
+        doc.title.includes("議員提出議案") && bill.names.every((name) => doc.speakers.includes(name)))
+      : null;
     for (const supporter of bill.proposalSupporters) {
       assert.ok(typeof supporter === "string" && supporter.trim() && !bill.names.includes(supporter), key);
       assert.ok(people.has(bill.place + "|" + supporter.replace(/\s/g, "")) || memberProposal ||
+        archivedProposal?.speakers.includes(supporter) ||
         (bill.date && appearedInNamedVote(bill.place, bill.date, supporter)), key);
     }
   }

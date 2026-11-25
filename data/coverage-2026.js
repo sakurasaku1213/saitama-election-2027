@@ -33024,14 +33024,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "令和７年度川口市一般会計補正予算（第１０号）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=1",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=1",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=1",
       "sourceType": "公式議決結果",
       "date": "2026-03-03",
       "resultLocator": "公式議決結果表 1頁・議決番号1",
       "number": "議案第1号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33039,14 +33040,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "令和７年度川口市国民健康保険事業特別会計補正予算（第３号）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=1",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=2",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=1",
       "sourceType": "公式議決結果",
       "date": "2026-03-03",
       "resultLocator": "公式議決結果表 1頁・議決番号2",
       "number": "議案第2号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33054,14 +33056,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "令和７年度川口市後期高齢者医療事業特別会計補正予算（第３号）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=1",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=3",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=1",
       "sourceType": "公式議決結果",
       "date": "2026-03-03",
       "resultLocator": "公式議決結果表 1頁・議決番号3",
       "number": "議案第3号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33069,14 +33072,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "令和７年度川口市介護保険事業特別会計補正予算（第４号）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=1",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=4",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=1",
       "sourceType": "公式議決結果",
       "date": "2026-03-03",
       "resultLocator": "公式議決結果表 1頁・議決番号4",
       "number": "議案第4号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33084,14 +33088,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "令和７年度川口市小型自動車競走事業特別会計補正予算（第１号）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=1",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=5",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=1",
       "sourceType": "公式議決結果",
       "date": "2026-03-03",
       "resultLocator": "公式議決結果表 1頁・議決番号5",
       "number": "議案第5号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33099,14 +33104,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "令和７年度川口市立看護学校事業特別会計補正予算（第１号）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=1",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=6",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=1",
       "sourceType": "公式議決結果",
       "date": "2026-03-03",
       "resultLocator": "公式議決結果表 1頁・議決番号6",
       "number": "議案第6号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33114,14 +33120,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "令和７年度川口駅西口地下公共駐車場事業特別会計補正予算（第１号）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=1",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=7",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=1",
       "sourceType": "公式議決結果",
       "date": "2026-03-03",
       "resultLocator": "公式議決結果表 1頁・議決番号7",
       "number": "議案第7号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33129,14 +33136,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "令和７年度川口市交通災害共済事業特別会計補正予算（第１号）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=1",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=8",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=1",
       "sourceType": "公式議決結果",
       "date": "2026-03-03",
       "resultLocator": "公式議決結果表 1頁・議決番号8",
       "number": "議案第8号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33144,14 +33152,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "令和７年度川口都市計画土地区画整理事業特別会計補正予算（第２号）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=1",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=9",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=1",
       "sourceType": "公式議決結果",
       "date": "2026-03-03",
       "resultLocator": "公式議決結果表 1頁・議決番号9",
       "number": "議案第9号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33159,14 +33168,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "令和７年度川口市病院事業会計補正予算（第２号）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=1",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=10",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=1",
       "sourceType": "公式議決結果",
       "date": "2026-03-03",
       "resultLocator": "公式議決結果表 1頁・議決番号10",
       "number": "議案第10号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33174,14 +33184,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "川口市公営競技事業運営基金条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=1",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=11",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=1",
       "sourceType": "公式議決結果",
       "date": "2026-03-03",
       "resultLocator": "公式議決結果表 1頁・議決番号11",
       "number": "議案第11号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33189,14 +33200,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "川口市小型自動車競走場施設整備基金条例",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=1",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=12",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=1",
       "sourceType": "公式議決結果",
       "date": "2026-03-03",
       "resultLocator": "公式議決結果表 1頁・議決番号12",
       "number": "議案第12号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33204,7 +33216,7 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "工事請負契約の変更契約の締結について（朝日環境センターＮｏ.１ごみクレーンほか復旧工事）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=1",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=13",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=1",
       "sourceType": "公式議決結果",
       "date": "2026-03-03",
@@ -33217,7 +33229,8 @@ GIKAI.coverage2026 = {
         9,
         34,
         35
-      ]
+      ],
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33225,14 +33238,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "専決処分の承認について（令和７年度川口市一般会計補正予算）",
       "result": "原案承認",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=1",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=14",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=1",
       "sourceType": "公式議決結果",
       "date": "2026-03-03",
       "resultLocator": "公式議決結果表 1頁・議決番号14",
       "number": "議案第14号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33240,14 +33254,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "専決処分の承認について（令和７年度川口市水道事業会計補正予算）",
       "result": "原案承認",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=1",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=15",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=1",
       "sourceType": "公式議決結果",
       "date": "2026-03-03",
       "resultLocator": "公式議決結果表 1頁・議決番号15",
       "number": "議案第15号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33255,14 +33270,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "専決処分の承認について（令和７年度川口市一般会計補正予算）",
       "result": "原案承認",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=1",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=16",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=1",
       "sourceType": "公式議決結果",
       "date": "2026-03-03",
       "resultLocator": "公式議決結果表 1頁・議決番号16",
       "number": "議案第16号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33270,14 +33286,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "専決処分の承認について（令和７年度川口市一般会計補正予算）",
       "result": "原案承認",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=1",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=17",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=1",
       "sourceType": "公式議決結果",
       "date": "2026-03-03",
       "resultLocator": "公式議決結果表 1頁・議決番号17",
       "number": "議案第17号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33285,7 +33302,7 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "令和８年度川口市一般会計予算",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=1",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=18",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=1",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
@@ -33297,7 +33314,8 @@ GIKAI.coverage2026 = {
       "blocks": [
         50,
         51
-      ]
+      ],
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33305,14 +33323,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "令和８年度川口市国民健康保険事業特別会計予算",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=2",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=19",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=2",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 2頁・議決番号19",
       "number": "議案第19号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33320,14 +33339,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "令和８年度川口市後期高齢者医療事業特別会計予算",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=2",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=20",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=2",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 2頁・議決番号20",
       "number": "議案第20号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33335,14 +33355,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "令和８年度川口市介護保険事業特別会計予算",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=2",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=21",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=2",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 2頁・議決番号21",
       "number": "議案第21号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33350,14 +33371,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "令和８年度川口市母子父子寡婦福祉資金貸付事業特別会計予算",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=2",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=22",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=2",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 2頁・議決番号22",
       "number": "議案第22号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33365,14 +33387,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "令和８年度川口市小型自動車競走事業特別会計予算",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=2",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=23",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=2",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 2頁・議決番号23",
       "number": "議案第23号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33380,14 +33403,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "令和８年度川口市立看護学校事業特別会計予算",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=2",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=24",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=2",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 2頁・議決番号24",
       "number": "議案第24号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33395,14 +33419,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "令和８年度川口駅西口地下公共駐車場事業特別会計予算",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=2",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=25",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=2",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 2頁・議決番号25",
       "number": "議案第25号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33410,14 +33435,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "令和８年度川口駅東口地下公共駐車場事業特別会計予算",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=2",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=26",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=2",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 2頁・議決番号26",
       "number": "議案第26号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33425,14 +33451,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "令和８年度川口市交通災害共済事業特別会計予算",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=2",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=27",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=2",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 2頁・議決番号27",
       "number": "議案第27号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33440,14 +33467,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "令和８年度川口都市計画土地区画整理事業特別会計予算",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=2",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=28",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=2",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 2頁・議決番号28",
       "number": "議案第28号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33455,14 +33483,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "令和８年度川口市水道事業会計予算",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=2",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=29",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=2",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 2頁・議決番号29",
       "number": "議案第29号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33470,14 +33499,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "令和８年度川口市下水道事業会計予算",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=2",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=30",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=2",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 2頁・議決番号30",
       "number": "議案第30号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33485,14 +33515,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "令和８年度川口市病院事業会計予算",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=2",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=31",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=2",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 2頁・議決番号31",
       "number": "議案第31号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33500,14 +33531,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "川口市監査委員に関する条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=2",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=32",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=2",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 2頁・議決番号32",
       "number": "議案第32号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33515,14 +33547,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "川口市行政組織条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=2",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=33",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=2",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 2頁・議決番号33",
       "number": "議案第33号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33530,14 +33563,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "川口市交通安全対策協議会条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=2",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=34",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=2",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 2頁・議決番号34",
       "number": "議案第34号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33545,14 +33579,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "川口市行政手続条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=2",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=35",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=2",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 2頁・議決番号35",
       "number": "議案第35号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33560,14 +33595,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "川口市職員定数条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=2",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=36",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=2",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 2頁・議決番号36",
       "number": "議案第36号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33575,14 +33611,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "川口市職員の公益的法人等への派遣等に関する条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=3",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=37",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=3",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 3頁・議決番号37",
       "number": "議案第37号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33590,14 +33627,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "川口市非常勤の特別職職員の報酬及び費用弁償に関する条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=3",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=38",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=3",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 3頁・議決番号38",
       "number": "議案第38号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33605,14 +33643,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "川口市保健衛生関係事務手数料条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=3",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=39",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=3",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 3頁・議決番号39",
       "number": "議案第39号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33620,14 +33659,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "川口市児童福祉施設の設備及び運営に関する基準を定める条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=3",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=40",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=3",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 3頁・議決番号40",
       "number": "議案第40号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33635,14 +33675,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "川口市重度要介護高齢者福祉手当支給条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=3",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=41",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=3",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 3頁・議決番号41",
       "number": "議案第41号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33650,14 +33691,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "川口市墓地等の経営の許可等に関する条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=3",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=42",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=3",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 3頁・議決番号42",
       "number": "議案第42号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33665,14 +33707,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "川口市国民健康保険税条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=3",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=43",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=3",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 3頁・議決番号43",
       "number": "議案第43号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33680,14 +33723,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "川口市介護保険条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=3",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=44",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=3",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 3頁・議決番号44",
       "number": "議案第44号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33695,14 +33739,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "川口市病院事業の設置等に関する条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=3",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=45",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=3",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 3頁・議決番号45",
       "number": "議案第45号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33710,14 +33755,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "川口市立幼稚園保育料徴収条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=3",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=46",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=3",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 3頁・議決番号46",
       "number": "議案第46号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33725,14 +33771,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "川口市奨学資金条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=3",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=47",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=3",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 3頁・議決番号47",
       "number": "議案第47号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33740,14 +33787,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "川口市火災予防条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=3",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=48",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=3",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 3頁・議決番号48",
       "number": "議案第48号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33755,14 +33803,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "鳩ヶ谷市の編入に伴い失効する鳩ヶ谷都市計画下水道事業受益者負担に関する条例の規定により賦課された受益者負担金に係る経過措置に関する条例を廃止する条例",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=3",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=49",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=3",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 3頁・議決番号49",
       "number": "議案第49号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33770,14 +33819,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "財産の処分について",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=3",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=50",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=3",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 3頁・議決番号50",
       "number": "議案第50号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33785,14 +33835,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "訴えの提起について（支払督促の申立て）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=3",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=51",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=3",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 3頁・議決番号51",
       "number": "議案第51号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33800,14 +33851,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "訴えの提起について（支払督促の申立て）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=3",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=52",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=3",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 3頁・議決番号52",
       "number": "議案第52号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33815,14 +33867,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "訴えの提起について（支払督促の申立て）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=3",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=53",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=3",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 3頁・議決番号53",
       "number": "議案第53号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33830,14 +33883,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "訴えの提起について（支払督促の申立て）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=3",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=54",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=3",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 3頁・議決番号54",
       "number": "議案第54号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33845,14 +33899,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "訴えの提起について（支払督促の申立て）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=4",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=55",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=4",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 4頁・議決番号55",
       "number": "議案第55号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33860,14 +33915,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "訴えの提起について（支払督促の申立て）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=4",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=56",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=4",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 4頁・議決番号56",
       "number": "議案第56号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33875,14 +33931,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "訴えの提起について（支払督促の申立て）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=4",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=57",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=4",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 4頁・議決番号57",
       "number": "議案第57号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33890,14 +33947,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "訴えの提起について（支払督促の申立て）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=4",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=58",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=4",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 4頁・議決番号58",
       "number": "議案第58号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33905,14 +33963,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "訴えの提起について（支払督促の申立て）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=4",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=59",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=4",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 4頁・議決番号59",
       "number": "議案第59号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33920,14 +33979,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "訴えの提起について（支払督促の申立て）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=4",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=60",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=4",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 4頁・議決番号60",
       "number": "議案第60号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33935,14 +33995,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "訴えの提起について（支払督促の申立て）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=4",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=61",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=4",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 4頁・議決番号61",
       "number": "議案第61号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33950,14 +34011,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "訴えの提起について（住宅使用料の請求）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=4",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=62",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=4",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 4頁・議決番号62",
       "number": "議案第62号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33965,14 +34027,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "訴えの提起について（一般被保険者返納金の請求）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=4",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=63",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=4",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 4頁・議決番号63",
       "number": "議案第63号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33980,14 +34043,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "訴えの提起について（奨学資金貸付金回収金の請求）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=4",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=64",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=4",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 4頁・議決番号64",
       "number": "議案第64号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -33995,14 +34059,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "包括外部監査契約の締結について",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=4",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=65",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=4",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 4頁・議決番号65",
       "number": "議案第65号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34010,14 +34075,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "市道路線の認定について（安行第１７５－５号線ほか１路線）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=4",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=66",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=4",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 4頁・議決番号66",
       "number": "議案第66号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34025,14 +34091,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "市道路線の廃止について（神根第２９８号線ほか１路線）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=4",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=67",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=4",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 4頁・議決番号67",
       "number": "議案第67号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34040,14 +34107,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "川口市消防団員等公務災害補償条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=4",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=68",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=4",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 4頁・議決番号68",
       "number": "議案第68号",
       "voteNote": "提出日 2026-03-12。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34055,14 +34123,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "専決処分の承認について（民事調停について）",
       "result": "原案承認",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=4",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=69",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=4",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 4頁・議決番号69",
       "number": "議案第69号",
       "voteNote": "提出日 2026-03-12。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34070,14 +34139,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "川口市監査委員の選任同意について",
       "result": "原案同意",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=4",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=70",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=4",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 4頁・議決番号70",
       "number": "議案第70号",
       "voteNote": "提出日 2026-03-23。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34085,13 +34155,42 @@ GIKAI.coverage2026 = {
       "session": "令和8年3月定例会",
       "title": "自転車の交通ルールの周知強化、学ぶ機会の充実と自転車の安全のための予算措置を求める意見書",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=5",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1415&schedule_id=1",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202603giketsukekka.pdf#page=5",
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 5頁・議決番号71",
       "number": "議員提出議案第1号",
-      "voteNote": "提出日 2026-03-23。"
+      "voteNote": "提出日 2026-03-23。 提出原文の「船津由徳」は本会議録・現職名簿では「舩津由徳」。",
+      "sourceTitle": "川口市議会・議員提出議案の公式原文",
+      "proposer": "議員提出",
+      "names": [
+        "飯塚孝行"
+      ],
+      "proposalRole": "発議者",
+      "proposalSupporters": [
+        "船津由徳",
+        "本橋慎吾",
+        "榊原秀忠",
+        "杉本佳代",
+        "前原博孝",
+        "江袋正敬",
+        "幡野茂",
+        "石橋俊伸",
+        "最上祐次",
+        "吉田英司",
+        "稲川和成",
+        "松本幸恵"
+      ],
+      "proposalSupporterLabel": "賛成者（提出原文）",
+      "archiveId": "9a708d5d218c92c3680f",
+      "blocks": [
+        102,
+        105,
+        108,
+        109,
+        110
+      ]
     },
     {
       "place": "川口市",
@@ -34118,14 +34217,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "令和８年度川口市一般会計補正予算（第１号）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=1",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=1",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=1",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 1頁・議決番号72",
       "number": "議案第71号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34133,14 +34233,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "令和８年度川口市国民健康保険事業特別会計補正予算（第１号）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=1",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=2",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=1",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 1頁・議決番号73",
       "number": "議案第72号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34148,14 +34249,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "令和８年度川口都市計画土地区画整理事業特別会計補正予算（第１号）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=1",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=3",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=1",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 1頁・議決番号74",
       "number": "議案第73号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34163,14 +34265,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "川口市税条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=1",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=4",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=1",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 1頁・議決番号75",
       "number": "議案第74号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34178,14 +34281,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "川口市立川口駅前市民ホール設置及び管理条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=1",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=5",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=1",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 1頁・議決番号76",
       "number": "議案第75号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34193,14 +34297,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "川口市児童福祉施設の設備及び運営に関する基準を定める条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=1",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=6",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=1",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 1頁・議決番号77",
       "number": "議案第76号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34208,14 +34313,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "川口市家庭的保育事業等の設備及び運営に関する基準を定める条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=1",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=7",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=1",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 1頁・議決番号78",
       "number": "議案第77号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34223,14 +34329,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "川口市家庭的保育事業等の設備及び運営に関する基準を定める条例等の一部を改正する条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=1",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=8",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=1",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 1頁・議決番号79",
       "number": "議案第78号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34238,14 +34345,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "川口市乳児等通園支援事業の設備及び運営に関する基準を定める条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=1",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=9",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=1",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 1頁・議決番号80",
       "number": "議案第79号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34253,14 +34361,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "川口市幼稚園型認定こども園、保育所型認定こども園及び地方裁量型認定こども園の認定の要件を定める条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=1",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=10",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=1",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 1頁・議決番号81",
       "number": "議案第80号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34268,14 +34377,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "川口市幼保連携型認定こども園の学級の編制、職員、設備及び運営に関する基準を定める条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=1",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=11",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=1",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 1頁・議決番号82",
       "number": "議案第81号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34283,14 +34393,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "川口市特定教育・保育施設及び特定地域型保育事業の運営に関する基準を定める条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=1",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=12",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=1",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 1頁・議決番号83",
       "number": "議案第82号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34298,14 +34409,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "川口市指定通所支援の事業等の人員、設備及び運営に関する基準等を定める条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=1",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=13",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=1",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 1頁・議決番号84",
       "number": "議案第83号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34313,14 +34425,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "川口市介護保険条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=1",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=14",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=1",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 1頁・議決番号85",
       "number": "議案第84号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34328,14 +34441,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "川口市朝日環境センター施設整備審議会条例を廃止する条例",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=1",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=15",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=1",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 1頁・議決番号86",
       "number": "議案第85号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34343,14 +34457,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "工場立地法に基づく緑地面積率等に関する準則を定める条例",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=1",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=16",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=1",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 1頁・議決番号87",
       "number": "議案第86号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34358,14 +34473,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "川口市地区計画の区域内における建築物の制限に関する条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=1",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=17",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=1",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 1頁・議決番号88",
       "number": "議案第87号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34373,14 +34489,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "工事請負契約の締結について（安行霊園改築工事）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=1",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=18",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=1",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 1頁・議決番号89",
       "number": "議案第88号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34388,14 +34505,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "工事請負契約の変更契約の締結について（戸塚環境センター施設整備工事）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=2",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=19",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=2",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 2頁・議決番号90",
       "number": "議案第89号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34403,14 +34521,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "財産の取得について（塵芥車（３ｔ））",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=2",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=20",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=2",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 2頁・議決番号91",
       "number": "議案第90号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34418,14 +34537,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "財産の取得について（水槽付消防ポンプ自動車）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=2",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=21",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=2",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 2頁・議決番号92",
       "number": "議案第91号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34433,14 +34553,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "財産の取得について（救助工作車）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=2",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=22",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=2",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 2頁・議決番号93",
       "number": "議案第92号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34448,14 +34569,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "財産の取得について（高規格救急自動車）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=2",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=23",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=2",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 2頁・議決番号94",
       "number": "議案第93号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34463,14 +34585,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "財産の取得について（高度救命処置用資機材）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=2",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=24",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=2",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 2頁・議決番号95",
       "number": "議案第94号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34478,14 +34601,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "訴えの提起について（支払督促の申立て）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=2",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=25",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=2",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 2頁・議決番号96",
       "number": "議案第95号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34493,14 +34617,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "訴えの提起について（支払督促の申立て）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=2",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=26",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=2",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 2頁・議決番号97",
       "number": "議案第96号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34508,14 +34633,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "訴えの提起について（支払督促の申立て）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=2",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=27",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=2",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 2頁・議決番号98",
       "number": "議案第97号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34523,14 +34649,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "訴えの提起について（支払督促の申立て）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=2",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=28",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=2",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 2頁・議決番号99",
       "number": "議案第98号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34538,14 +34665,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "訴えの提起について（支払督促の申立て）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=2",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=29",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=2",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 2頁・議決番号100",
       "number": "議案第99号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34553,14 +34681,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "訴えの提起について（支払督促の申立て）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=2",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=30",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=2",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 2頁・議決番号101",
       "number": "議案第100号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34568,14 +34697,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "訴えの提起について（支払督促の申立て）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=2",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=31",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=2",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 2頁・議決番号102",
       "number": "議案第101号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34583,14 +34713,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "訴えの提起について（支払督促の申立て）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=2",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=32",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=2",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 2頁・議決番号103",
       "number": "議案第102号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34598,14 +34729,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "訴えの提起について（児童扶養手当返還金等の請求）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=2",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=33",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=2",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 2頁・議決番号104",
       "number": "議案第103号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34613,14 +34745,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "和解契約の締結について（本庁舎建設における電波障害）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=2",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=34",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=2",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 2頁・議決番号105",
       "number": "議案第104号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34628,14 +34761,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "和解契約の締結について（本庁舎建設における電波障害）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=2",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=35",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=2",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 2頁・議決番号106",
       "number": "議案第105号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34643,14 +34777,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "専決処分の承認について（令和７年度川口市一般会計補正予算）",
       "result": "原案承認",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=2",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=36",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=2",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 2頁・議決番号107",
       "number": "議案第106号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34658,14 +34793,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "専決処分の承認について（令和７年度川口都市計画土地区画整理事業特別会計補正予算）",
       "result": "原案承認",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=3",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=37",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=3",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 3頁・議決番号108",
       "number": "議案第107号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34673,14 +34809,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "専決処分の承認について（川口市税条例の一部を改正する条例）",
       "result": "原案承認",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=3",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=38",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=3",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 3頁・議決番号109",
       "number": "議案第108号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34688,14 +34825,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "専決処分の承認について（川口市国民健康保険税条例の一部を改正する条例）",
       "result": "原案承認",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=3",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=39",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=3",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 3頁・議決番号110",
       "number": "議案第109号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34703,14 +34841,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "公の施設の指定管理者の指定について（川口市立上青木保育所）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=3",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=40",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=3",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 3頁・議決番号111",
       "number": "議案第110号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34718,14 +34857,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "公の施設の指定管理者の指定について（川口市立領家保育所）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=3",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=41",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=3",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 3頁・議決番号112",
       "number": "議案第111号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34733,14 +34873,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "公の施設の指定管理者の指定について（川口市立川口西保育園）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=3",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=42",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=3",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 3頁・議決番号113",
       "number": "議案第112号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34748,14 +34889,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "公の施設の指定管理者の指定について（川口市立並木東保育園）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=3",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=43",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=3",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 3頁・議決番号114",
       "number": "議案第113号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34763,14 +34905,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "市道路線の認定について（安行第３７５－６号線）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=3",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=44",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=3",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 3頁・議決番号115",
       "number": "議案第114号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34778,14 +34921,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "市道路線の廃止について（神根第１６５号線）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=3",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=45",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=3",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 3頁・議決番号116",
       "number": "議案第115号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34793,14 +34937,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "市道路線の廃止について（安行第４０号線）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=3",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=46",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=3",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 3頁・議決番号117",
       "number": "議案第116号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34808,14 +34953,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "財産の交換について",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=3",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=50",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=3",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 3頁・議決番号118",
       "number": "議案第120号",
       "voteNote": "提出日 2026-06-22。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34823,14 +34969,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "財産の無償貸付について",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=3",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=51",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=3",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 3頁・議決番号119",
       "number": "議案第121号",
       "voteNote": "提出日 2026-06-22。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34838,14 +34985,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "川口市農業委員会委員の任命同意について",
       "result": "原案同意",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=3",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=47",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=3",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 3頁・議決番号120",
       "number": "議案第117号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34853,14 +35001,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "人権擁護委員の候補者の推薦について",
       "result": "原案同意",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=3",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=48",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=3",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 3頁・議決番号121",
       "number": "議案第118号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34868,14 +35017,15 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "人権擁護委員の候補者の推薦について",
       "result": "原案同意",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=3",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=49",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=3",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 3頁・議決番号122",
       "number": "議案第119号",
       "voteNote": "提出日 2026-06-05。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34883,7 +35033,7 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "令和８年度川口市一般会計補正予算（第２号）",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=3",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1422&schedule_id=52",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=3",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
@@ -34895,7 +35045,8 @@ GIKAI.coverage2026 = {
       "blocks": [
         128,
         129
-      ]
+      ],
+      "sourceTitle": "川口市議会・市長提出議案の公式原文"
     },
     {
       "place": "川口市",
@@ -34916,20 +35067,41 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "ホルムズ海峡封鎖等の影響による中小零細企業の経営環境の悪化に対する緊急支援策を求める意見書",
       "result": "原案可決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=4",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1424&schedule_id=1",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=4",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 4頁・議決番号125",
       "number": "議員提出議案第2号",
-      "voteNote": "提出日 2026-06-30。",
+      "voteNote": "提出日 2026-06-30。 提出原文の「船津由徳」は本会議録・現職名簿では「舩津由徳」。",
       "archiveId": "dfe78aa63298e3467dea",
       "blocks": [
         150,
         153,
         157,
         158
-      ]
+      ],
+      "sourceTitle": "川口市議会・議員提出議案の公式原文",
+      "proposer": "議員提出",
+      "names": [
+        "青山聖子"
+      ],
+      "proposalRole": "発議者",
+      "proposalSupporters": [
+        "船津由徳",
+        "福森悦子",
+        "本橋慎吾",
+        "榊原秀忠",
+        "杉本佳代",
+        "前原博孝",
+        "幡野茂",
+        "石橋俊伸",
+        "最上祐次",
+        "吉田英司",
+        "稲川和成",
+        "松本幸恵"
+      ],
+      "proposalSupporterLabel": "賛成者（提出原文）"
     },
     {
       "place": "川口市",
@@ -34937,13 +35109,34 @@ GIKAI.coverage2026 = {
       "session": "令和8年6月定例会",
       "title": "男女別学の埼玉県立高等学校における生徒の意見を尊重した方針決定を求める意見書",
       "result": "原案否決",
-      "url": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=4",
+      "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1424&schedule_id=2",
       "resultURL": "https://kawaguchi.gsl-service.net/doc/2014072400529/file_contents/202606giketsukekka.pdf#page=4",
       "sourceType": "公式議決結果",
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 4頁・議決番号126",
       "number": "議員提出議案第3号",
-      "voteNote": "提出日 2026-06-30。"
+      "voteNote": "提出日 2026-06-30。",
+      "sourceTitle": "川口市議会・議員提出議案の公式原文",
+      "proposer": "議員提出",
+      "names": [
+        "最上祐次"
+      ],
+      "proposalRole": "発議者",
+      "proposalSupporters": [
+        "本橋慎吾",
+        "藤田みつぐ",
+        "坂本だいすけ"
+      ],
+      "proposalSupporterLabel": "賛成者（提出原文）",
+      "archiveId": "dfe78aa63298e3467dea",
+      "blocks": [
+        161,
+        164,
+        168,
+        174,
+        185,
+        186
+      ]
     },
     {
       "place": "川口市",

@@ -21225,6 +21225,18 @@ GIKAI.cases.push(...[
         ]
       },
       {
+        "date": "2026-02-24",
+        "stage": "変更契約案の金額を提出原文で確認",
+        "actor": "川口市",
+        "detail": "工事請負契約の変更案は、契約額を16億4,890万円から15億8,964万3,000円へ5,925万7,000円減額する内容だった。",
+        "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1412&schedule_id=13",
+        "sourceTitle": "川口市議会・議案第13号の提出原文",
+        "archiveId": "2c81fe08d789ba72b8f6",
+        "blocks": [
+          1
+        ]
+      },
+      {
         "date": "2026-03-01",
         "stage": "損傷設備が復旧し通常焼却を再開",
         "actor": "川口市",
@@ -21397,6 +21409,7 @@ GIKAI.cases.push(...[
     "title": "議会中継のYouTube配信を求める請願、委員会審査と不採択",
     "topic": "議会運営・情報公開",
     "actors": [
+      "岡本さゆり",
       "飯塚孝行",
       "杉本佳代",
       "石橋俊伸",
@@ -21405,6 +21418,27 @@ GIKAI.cases.push(...[
       "川口市議会"
     ],
     "steps": [
+      {
+        "date": "2026-02-16",
+        "stage": "請願を受け付け、紹介議員を文書表に掲載",
+        "actor": "岡本さゆり、川口市議会",
+        "detail": "市議会の請願文書表では、YouTubeを活用した中継と録画配信を求める請願の受付日を２月16日、紹介議員を岡本さゆり議員と記載。",
+        "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1413&schedule_id=1",
+        "sourceTitle": "川口市議会・公式請願文書表",
+        "archiveId": "ff6360b35c914c424438",
+        "blocks": [
+          1
+        ],
+        "memberActions": [
+          {
+            "name": "岡本さゆり",
+            "detail": "請願文書表に紹介議員として記載された。",
+            "blocks": [
+              1
+            ]
+          }
+        ]
+      },
       {
         "date": "2026-03-23",
         "stage": "委員長が紹介議員への説明聴取と審査結果を報告",

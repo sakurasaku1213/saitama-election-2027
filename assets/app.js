@@ -821,7 +821,7 @@
         filteredBody(b.place) &&
         matches("session", b.session) &&
         matches("season", b.season || eventSeason(b.date)) &&
-        includes([b.title, b.number, b.resultLocator, b.result, b.followUp?.result, b.followUp?.locator,
+        includes([b.title, b.number, b.resultLocator, b.result, b.voteNote, b.followUp?.result, b.followUp?.locator,
           ...(b.names || []), ...(b.proposalSupporters || [])]) &&
         (!state.split ||
           (Object.values(b.votes || {}).some((vote) => vote.includes("賛成")) &&
