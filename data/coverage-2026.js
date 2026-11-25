@@ -7180,34 +7180,34 @@ GIKAI.coverage2026 = {
     {
       "place": "小川町",
       "season": "spring",
-      "label": "2026年春の定例会",
-      "fromDate": "",
-      "toDate": "",
+      "label": "令和8年第1回定例会（3月）",
+      "fromDate": "2026-02-26",
+      "toDate": "2026-03-19",
       "planned": false,
       "materials": {
         "meeting": {
-          "state": "identified",
-          "note": "対象時期に関係する資料の掲載箇所を確認。会期の確定は未了。"
+          "state": "verified",
+          "note": "日程と議決日は町の公式審議結果で照合。"
         },
         "activity": {
-          "state": "identified",
-          "note": "対象資料の案内を確認。項目の取込・照合範囲は未確定。"
+          "state": "partial",
+          "note": "三会期の公式通告と紙面・既収録の会議録を照合。"
         },
         "text": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "公式目次と照合した本会議録６資料と公式通告。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "公式審議結果の20件を全件照合。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "正式表の個人別表決20件・各16欄を照合。紙面の討論表示９欄は５月１日の訂正を反映。"
         },
         "policy": {
           "state": "partial",
-          "note": "山口勝士議員が、ごみ処理の広域化に関する町の立場、委託継続の課題、情報提供を尋ねた経過を収録。"
+          "note": "学童保育室の附帯決議と新学校給食センターの質疑等を収録。"
         }
       },
       "sources": [
@@ -7220,42 +7220,62 @@ GIKAI.coverage2026 = {
           "url": "https://www.town.ogawa.saitama.jp/gyosei/sosiki/18/1/7/1/6778.html"
         },
         {
-          "label": "一般質問の資料　一般質問 (PDFファイル: 138.2KB)",
+          "label": "一般質問の公式通告",
           "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/ippannshitsumon0803.pdf"
+        },
+        {
+          "label": "令和８年の公式議決結果索引",
+          "url": "https://www.town.ogawa.saitama.jp/gyosei/gyoseijoho/gikai/9/6674.html"
+        },
+        {
+          "label": "会期ごとの公式審議結果",
+          "url": "https://www.town.ogawa.saitama.jp/gyosei/sosiki/18/1/9/11_2/6959.html"
+        },
+        {
+          "label": "個人別表決の原表",
+          "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shinngikekka200803.pdf"
+        },
+        {
+          "label": "議会だより原紙面",
+          "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/zenpe-zi.pdf"
+        },
+        {
+          "label": "第119号紙面14頁の討論表示の公式訂正",
+          "url": "https://www.town.ogawa.saitama.jp/gyosei/sosiki/18/1/5/13_2/7041.html"
         }
       ]
     },
     {
       "place": "小川町",
       "season": "summer",
-      "label": "2026年初夏の定例会",
-      "fromDate": "",
-      "toDate": "",
+      "label": "令和8年第2回定例会（6月）",
+      "fromDate": "2026-06-23",
+      "toDate": "2026-07-02",
       "planned": false,
       "materials": {
         "meeting": {
-          "state": "identified",
-          "note": "対象時期に関係する資料の掲載箇所を確認。会期の確定は未了。"
+          "state": "verified",
+          "note": "日程と議決日は町の公式審議結果で照合。"
         },
         "activity": {
-          "state": "identified",
-          "note": "対象資料の案内を確認。項目の取込・照合範囲は未確定。"
+          "state": "partial",
+          "note": "三会期の公式通告と紙面・既収録の会議録を照合。"
         },
         "text": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "公式目次と照合した本会議録５資料と公式通告。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "公式審議結果の10件を全件照合。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "正式表の個人別表決10件・各16欄を照合。６月５日の臨時会に関する紙面記事は別会期。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "道の駅の開業後１年への質疑、学童保育室の新築工事審議を収録。"
         }
       },
       "sources": [
@@ -7266,6 +7286,26 @@ GIKAI.coverage2026 = {
         {
           "label": "会期資料　令和8年第2回定例会(6月)一般質問事項",
           "url": "https://www.town.ogawa.saitama.jp/gyosei/sosiki/18/1/7/1/7174.html"
+        },
+        {
+          "label": "令和８年の公式議決結果索引",
+          "url": "https://www.town.ogawa.saitama.jp/gyosei/gyoseijoho/gikai/9/6674.html"
+        },
+        {
+          "label": "会期ごとの公式審議結果",
+          "url": "https://www.town.ogawa.saitama.jp/gyosei/sosiki/18/1/9/11_2/7214.html"
+        },
+        {
+          "label": "個人別表決の原表",
+          "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekka0806.pdf"
+        },
+        {
+          "label": "議会だより原紙面",
+          "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/R0809120zenpe-zi.pdf"
+        },
+        {
+          "label": "一般質問の公式通告",
+          "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/ippansitumonR0806_3.pdf"
         }
       ]
     },
@@ -7279,27 +7319,27 @@ GIKAI.coverage2026 = {
       "materials": {
         "meeting": {
           "state": "verified",
-          "note": "原表表題部にある9月1日～24日の会期を照合。"
+          "note": "日程と議決日は町の公式審議結果で照合。"
         },
         "activity": {
           "state": "partial",
-          "note": "この時期の掲載項目 8件。通告・目次・本文の別は活動の出典に表示。"
+          "note": "三会期の公式通告と紙面・既収録の会議録を照合。"
         },
         "text": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "第121号の一般質問８人・23問答、決算・条例・補正予算等の26問答と補足８件を原紙面と照合。発言予定日時は公式通告。正式会議録は紙面の案内で12月上旬公開予定。"
         },
         "decisions": {
           "state": "verified",
-          "note": "公式の審議結果表に掲載された21行を、件名・結果・掲載箇所で照合。"
+          "note": "公式審議結果の21件を全件照合。"
         },
         "votes": {
           "state": "verified",
-          "note": "原表の21行の記名欄を照合し、議長の表決不参加と原表の除斥を保持。"
+          "note": "正式表の個人別表決21件・各16欄を照合。紙面の一般会計決算の討論表示は４欄。"
         },
         "policy": {
           "state": "partial",
-          "note": "福祉３医療費の受領委任払いをめぐる条例案の可決と、町の施術所・手続の案内を照合。"
+          "note": "道の駅の指定管理者納付金、学童の指定管理、保育DX、プラスチック分別、和紙と文化財等の経過。"
         }
       },
       "sources": [
@@ -7308,16 +7348,32 @@ GIKAI.coverage2026 = {
           "url": "https://www.town.ogawa.saitama.jp/gyosei/gyoseijoho/gikai/7/5894.html"
         },
         {
-          "label": "9月定例会の審議結果PDF",
+          "label": "個人別表決の原表",
           "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf"
         },
         {
-          "label": "会期資料　2026年9月定例会・議会だよりの一般質問全8人",
+          "label": "第121号の一般質問・決算審査等の分冊",
           "url": "https://www.town.ogawa.saitama.jp/gyosei/sosiki/18/1/5/7483.html"
         },
         {
           "label": "福祉３医療の案内",
           "url": "https://www.town.ogawa.saitama.jp/gyosei/kosodate_kyoiku/ikuji_mishugakuji/1/7416.html"
+        },
+        {
+          "label": "令和８年の公式議決結果索引",
+          "url": "https://www.town.ogawa.saitama.jp/gyosei/gyoseijoho/gikai/9/6674.html"
+        },
+        {
+          "label": "会期ごとの公式審議結果",
+          "url": "https://www.town.ogawa.saitama.jp/gyosei/sosiki/18/1/9/11_2/7405.html"
+        },
+        {
+          "label": "議会だより原紙面",
+          "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/R0811121zenpe-zi.pdf"
+        },
+        {
+          "label": "一般質問の公式通告",
+          "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/ippansitumonR0809.pdf"
         }
       ]
     },
@@ -22058,7 +22114,7 @@ GIKAI.coverage2026 = {
       "session": "令和8年第3回定例会（9月）",
       "title": "小川町特定教育・保育施設及び特定地域型保育事業の運営に関する基準を定める条例制定について",
       "result": "可決",
-      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/teisyutugiainitirannR0809.pdf",
       "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
       "number": "議案第38号",
       "date": "2026-09-07",
@@ -22081,7 +22137,10 @@ GIKAI.coverage2026 = {
         "髙瀬勉": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1"
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+      "resultLocator": "公式審議結果 PDF1頁・議案第38号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁"
     },
     {
       "place": "小川町",
@@ -22089,7 +22148,7 @@ GIKAI.coverage2026 = {
       "session": "令和8年第3回定例会（9月）",
       "title": "小川町福祉３医療費支給制度における受領委任払の実施に伴う関係条例の整備に関する条例制定について",
       "result": "可決",
-      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/teisyutugiainitirannR0809.pdf",
       "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
       "number": "議案第39号",
       "date": "2026-09-07",
@@ -22112,7 +22171,10 @@ GIKAI.coverage2026 = {
         "髙瀬勉": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1"
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+      "resultLocator": "公式審議結果 PDF1頁・議案第39号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁"
     },
     {
       "place": "小川町",
@@ -22120,7 +22182,7 @@ GIKAI.coverage2026 = {
       "session": "令和8年第3回定例会（9月）",
       "title": "小川町監査委員に関する条例及び小川町水道事業及び下水道事業の設置等に関する条例の一部を改正する条例制定について",
       "result": "可決",
-      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/teisyutugiainitirannR0809.pdf",
       "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
       "number": "議案第40号",
       "date": "2026-09-07",
@@ -22143,7 +22205,10 @@ GIKAI.coverage2026 = {
         "髙瀬勉": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1"
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+      "resultLocator": "公式審議結果 PDF1頁・議案第40号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁"
     },
     {
       "place": "小川町",
@@ -22151,7 +22216,7 @@ GIKAI.coverage2026 = {
       "session": "令和8年第3回定例会（9月）",
       "title": "小川町学童クラブの指定管理者の指定について",
       "result": "可決",
-      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/teisyutugiainitirannR0809.pdf",
       "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
       "number": "議案第41号",
       "date": "2026-09-07",
@@ -22174,7 +22239,10 @@ GIKAI.coverage2026 = {
         "髙瀬勉": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1"
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+      "resultLocator": "公式審議結果 PDF1頁・議案第41号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁"
     },
     {
       "place": "小川町",
@@ -22182,7 +22250,7 @@ GIKAI.coverage2026 = {
       "session": "令和8年第3回定例会（9月）",
       "title": "農業水路等長寿命化・防災減災事業　五反田沼防災工事請負契約の締結について",
       "result": "可決",
-      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/teisyutugiainitirannR0809.pdf",
       "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
       "number": "議案第42号",
       "date": "2026-09-07",
@@ -22205,7 +22273,10 @@ GIKAI.coverage2026 = {
         "髙瀬勉": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1"
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+      "resultLocator": "公式審議結果 PDF1頁・議案第42号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁"
     },
     {
       "place": "小川町",
@@ -22213,7 +22284,7 @@ GIKAI.coverage2026 = {
       "session": "令和8年第3回定例会（9月）",
       "title": "農業水路等長寿命化・防災減災事業　大豆五駄沼下防災工事請負契約の締結について",
       "result": "可決",
-      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/teisyutugiainitirannR0809.pdf",
       "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
       "number": "議案第43号",
       "date": "2026-09-07",
@@ -22236,7 +22307,10 @@ GIKAI.coverage2026 = {
         "髙瀬勉": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1"
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+      "resultLocator": "公式審議結果 PDF1頁・議案第43号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁"
     },
     {
       "place": "小川町",
@@ -22244,7 +22318,7 @@ GIKAI.coverage2026 = {
       "session": "令和8年第3回定例会（9月）",
       "title": "島根橋耐震補強工事（Ｐ２橋脚補強工）請負契約の締結について",
       "result": "可決",
-      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/teisyutugiainitirannR0809.pdf",
       "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
       "number": "議案第44号",
       "date": "2026-09-07",
@@ -22267,7 +22341,10 @@ GIKAI.coverage2026 = {
         "髙瀬勉": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1"
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+      "resultLocator": "公式審議結果 PDF1頁・議案第44号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁"
     },
     {
       "place": "小川町",
@@ -22275,7 +22352,7 @@ GIKAI.coverage2026 = {
       "session": "令和8年第3回定例会（9月）",
       "title": "令和８年度小川町一般会計補正予算（第４号）",
       "result": "可決",
-      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/teisyutugiainitirannR0809.pdf",
       "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
       "number": "議案第45号",
       "date": "2026-09-07",
@@ -22298,7 +22375,10 @@ GIKAI.coverage2026 = {
         "髙瀬勉": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1"
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+      "resultLocator": "公式審議結果 PDF1頁・議案第45号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁"
     },
     {
       "place": "小川町",
@@ -22306,7 +22386,7 @@ GIKAI.coverage2026 = {
       "session": "令和8年第3回定例会（9月）",
       "title": "令和８年度小川町国民健康保険特別会計（事業勘定）補正予算（第１号）",
       "result": "可決",
-      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/teisyutugiainitirannR0809.pdf",
       "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
       "number": "議案第46号",
       "date": "2026-09-07",
@@ -22329,7 +22409,10 @@ GIKAI.coverage2026 = {
         "髙瀬勉": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1"
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+      "resultLocator": "公式審議結果 PDF1頁・議案第46号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁"
     },
     {
       "place": "小川町",
@@ -22337,7 +22420,7 @@ GIKAI.coverage2026 = {
       "session": "令和8年第3回定例会（9月）",
       "title": "令和８年度小川町後期高齢者医療特別会計補正予算（第１号）",
       "result": "可決",
-      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/teisyutugiainitirannR0809.pdf",
       "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
       "number": "議案第47号",
       "date": "2026-09-07",
@@ -22360,7 +22443,10 @@ GIKAI.coverage2026 = {
         "髙瀬勉": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1"
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+      "resultLocator": "公式審議結果 PDF1頁・議案第47号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁"
     },
     {
       "place": "小川町",
@@ -22368,7 +22454,7 @@ GIKAI.coverage2026 = {
       "session": "令和8年第3回定例会（9月）",
       "title": "令和８年度小川町介護保険特別会計（保険事業勘定）補正予算（第２号）",
       "result": "可決",
-      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/teisyutugiainitirannR0809.pdf",
       "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
       "number": "議案第48号",
       "date": "2026-09-07",
@@ -22391,7 +22477,10 @@ GIKAI.coverage2026 = {
         "髙瀬勉": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1"
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+      "resultLocator": "公式審議結果 PDF1頁・議案第48号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁"
     },
     {
       "place": "小川町",
@@ -22399,7 +22488,7 @@ GIKAI.coverage2026 = {
       "session": "令和8年第3回定例会（9月）",
       "title": "教育委員会委員の任命について",
       "result": "同意",
-      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=2",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/teisyutugiainitirannR0809.pdf",
       "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=2",
       "number": "議案第55号",
       "date": "2026-09-09",
@@ -22422,7 +22511,10 @@ GIKAI.coverage2026 = {
         "髙瀬勉": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=2"
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=2",
+      "resultLocator": "公式審議結果 PDF2頁・議案第55号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁"
     },
     {
       "place": "小川町",
@@ -22430,7 +22522,7 @@ GIKAI.coverage2026 = {
       "session": "令和8年第3回定例会（9月）",
       "title": "監査委員の選任について",
       "result": "同意",
-      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=2",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/teisyutugiainitirannR0809.pdf",
       "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=2",
       "number": "議案第56号",
       "date": "2026-09-09",
@@ -22453,7 +22545,10 @@ GIKAI.coverage2026 = {
         "髙瀬勉": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=2"
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=2",
+      "resultLocator": "公式審議結果 PDF2頁・議案第56号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁"
     },
     {
       "place": "小川町",
@@ -22461,7 +22556,7 @@ GIKAI.coverage2026 = {
       "session": "令和8年第3回定例会（9月）",
       "title": "人権擁護委員候補者の推薦について",
       "result": "同意",
-      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=2",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/teisyutugiainitirannR0809.pdf",
       "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=2",
       "number": "諮問第2号",
       "date": "2026-09-09",
@@ -22484,7 +22579,10 @@ GIKAI.coverage2026 = {
         "髙瀬勉": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=2"
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=2",
+      "resultLocator": "公式審議結果 PDF2頁・諮問第2号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁"
     },
     {
       "place": "小川町",
@@ -22492,7 +22590,7 @@ GIKAI.coverage2026 = {
       "session": "令和8年第3回定例会（9月）",
       "title": "令和７年度小川町一般会計歳入歳出決算の認定について",
       "result": "認定",
-      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/teisyutugiainitirannR0809.pdf",
       "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3",
       "number": "議案第49号",
       "date": "2026-09-24",
@@ -22515,7 +22613,11 @@ GIKAI.coverage2026 = {
         "髙瀬勉": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3"
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3",
+      "resultLocator": "公式審議結果 PDF3頁・議案第49号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁",
+      "voteNote": "議会だより121号10頁の討論表示は田端良成議員（反対）、岡部久志議員（賛成）、鈴木秀尚議員（賛成）、島﨑隆夫議員（賛成）。"
     },
     {
       "place": "小川町",
@@ -22523,7 +22625,7 @@ GIKAI.coverage2026 = {
       "session": "令和8年第3回定例会（9月）",
       "title": "令和７年度小川町国民健康保険特別会計（事業勘定）歳入歳出決算の認定について",
       "result": "認定",
-      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/teisyutugiainitirannR0809.pdf",
       "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3",
       "number": "議案第50号",
       "date": "2026-09-24",
@@ -22546,7 +22648,10 @@ GIKAI.coverage2026 = {
         "髙瀬勉": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3"
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3",
+      "resultLocator": "公式審議結果 PDF3頁・議案第50号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁"
     },
     {
       "place": "小川町",
@@ -22554,7 +22659,7 @@ GIKAI.coverage2026 = {
       "session": "令和8年第3回定例会（9月）",
       "title": "令和７年度小川町後期高齢者医療特別会計歳入歳出決算の認定について",
       "result": "認定",
-      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/teisyutugiainitirannR0809.pdf",
       "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3",
       "number": "議案第51号",
       "date": "2026-09-24",
@@ -22577,7 +22682,10 @@ GIKAI.coverage2026 = {
         "髙瀬勉": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3"
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3",
+      "resultLocator": "公式審議結果 PDF3頁・議案第51号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁"
     },
     {
       "place": "小川町",
@@ -22585,7 +22693,7 @@ GIKAI.coverage2026 = {
       "session": "令和8年第3回定例会（9月）",
       "title": "令和７年度小川町介護保険特別会計（保険事業勘定）歳入歳出決算の認定について",
       "result": "認定",
-      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/teisyutugiainitirannR0809.pdf",
       "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3",
       "number": "議案第52号",
       "date": "2026-09-24",
@@ -22608,7 +22716,10 @@ GIKAI.coverage2026 = {
         "髙瀬勉": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3"
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3",
+      "resultLocator": "公式審議結果 PDF3頁・議案第52号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁"
     },
     {
       "place": "小川町",
@@ -22616,7 +22727,7 @@ GIKAI.coverage2026 = {
       "session": "令和8年第3回定例会（9月）",
       "title": "令和７年度小川町水道事業会計剰余金の処分及び決算の認定について",
       "result": "認定",
-      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/teisyutugiainitirannR0809.pdf",
       "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3",
       "number": "議案第53号",
       "date": "2026-09-24",
@@ -22639,7 +22750,10 @@ GIKAI.coverage2026 = {
         "髙瀬勉": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3"
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3",
+      "resultLocator": "公式審議結果 PDF3頁・議案第53号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁"
     },
     {
       "place": "小川町",
@@ -22647,7 +22761,7 @@ GIKAI.coverage2026 = {
       "session": "令和8年第3回定例会（9月）",
       "title": "令和７年度小川町下水道事業会計剰余金の処分及び決算の認定について",
       "result": "認定",
-      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/teisyutugiainitirannR0809.pdf",
       "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3",
       "number": "議案第54号",
       "date": "2026-09-24",
@@ -22670,7 +22784,10 @@ GIKAI.coverage2026 = {
         "髙瀬勉": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3"
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3",
+      "resultLocator": "公式審議結果 PDF3頁・議案第54号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁"
     },
     {
       "place": "小川町",
@@ -22678,7 +22795,7 @@ GIKAI.coverage2026 = {
       "session": "令和8年第3回定例会（9月）",
       "title": "小川町通学用マイクロバス売買契約の締結について",
       "result": "可決",
-      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/tuikagianR0809.pdf",
       "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3",
       "number": "議案第57号",
       "date": "2026-09-24",
@@ -22701,7 +22818,10 @@ GIKAI.coverage2026 = {
         "髙瀬勉": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3"
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3",
+      "resultLocator": "公式審議結果 PDF3頁・議案第57号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁"
     },
     {
       "place": "長瀞町",
@@ -100432,6 +100552,1038 @@ GIKAI.coverage2026 = {
         "浦田充"
       ],
       "proposalRole": "発議者"
+    },
+    {
+      "place": "小川町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "number": "議案第4号",
+      "title": "専決処分の承認を求めることについて（令和７年度小川町一般会計補正予算（第７号））",
+      "date": "2026-03-04",
+      "result": "承認",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/teisyutsugian0803.pdf",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shinngikekka200803.pdf#page=1",
+      "resultLocator": "公式審議結果 PDF1頁・議案第4号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "欠席",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "欠席",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shinngikekka200803.pdf#page=1"
+    },
+    {
+      "place": "小川町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "number": "議案第5号",
+      "title": "町道路線の認定について",
+      "date": "2026-03-04",
+      "result": "可決",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/teisyutsugian0803.pdf",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shinngikekka200803.pdf#page=1",
+      "resultLocator": "公式審議結果 PDF1頁・議案第5号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "欠席",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "欠席",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shinngikekka200803.pdf#page=1"
+    },
+    {
+      "place": "小川町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "number": "議案第6号",
+      "title": "町道路線の廃止について",
+      "date": "2026-03-04",
+      "result": "可決",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/teisyutsugian0803.pdf",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shinngikekka200803.pdf#page=1",
+      "resultLocator": "公式審議結果 PDF1頁・議案第6号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "欠席",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "欠席",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shinngikekka200803.pdf#page=1"
+    },
+    {
+      "place": "小川町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "number": "議案第7号",
+      "title": "小川町税条例の一部を改正する条例制定について",
+      "date": "2026-03-04",
+      "result": "可決",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/teisyutsugian0803.pdf",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shinngikekka200803.pdf#page=1",
+      "resultLocator": "公式審議結果 PDF1頁・議案第7号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "欠席",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "欠席",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shinngikekka200803.pdf#page=1"
+    },
+    {
+      "place": "小川町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "number": "議案第8号",
+      "title": "小川町学童クラブ条例の一部を改正する条例制定について",
+      "date": "2026-03-04",
+      "result": "可決",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/teisyutsugian0803.pdf",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shinngikekka200803.pdf#page=1",
+      "resultLocator": "公式審議結果 PDF1頁・議案第8号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "欠席",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "欠席",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shinngikekka200803.pdf#page=1"
+    },
+    {
+      "place": "小川町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "number": "議案第9号",
+      "title": "小川町介護保険条例の一部を改正する条例制定について",
+      "date": "2026-03-04",
+      "result": "可決",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/teisyutsugian0803.pdf",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shinngikekka200803.pdf#page=1",
+      "resultLocator": "公式審議結果 PDF1頁・議案第9号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "欠席",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "欠席",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shinngikekka200803.pdf#page=1"
+    },
+    {
+      "place": "小川町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "number": "議案第10号",
+      "title": "令和７年度小川町一般会計補正予算（第８号）",
+      "date": "2026-03-04",
+      "result": "可決",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/teisyutsugian0803.pdf",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shinngikekka200803.pdf#page=1",
+      "resultLocator": "公式審議結果 PDF1頁・議案第10号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁",
+      "votes": {
+        "田中立男": "反対",
+        "関根慶則": "欠席",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "反対",
+        "大戸久一": "反対",
+        "田中照子": "賛成",
+        "笠原英彦": "欠席",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shinngikekka200803.pdf#page=1",
+      "voteNote": "議会だより119号14頁の討論表示は笠原規弘議員（反対）、髙橋功人議員（賛成）、山口勝士議員（賛成）。"
+    },
+    {
+      "place": "小川町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "number": "議案第11号",
+      "title": "令和７年度小川町国民健康保険特別会計（事業勘定）補正予算（第３号）",
+      "date": "2026-03-04",
+      "result": "可決",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/teisyutsugian0803.pdf",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shinngikekka200803.pdf#page=1",
+      "resultLocator": "公式審議結果 PDF1頁・議案第11号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "欠席",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "欠席",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shinngikekka200803.pdf#page=1"
+    },
+    {
+      "place": "小川町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "number": "議案第12号",
+      "title": "令和７年度小川町介護保険特別会計（保険事業勘定）補正予算（第３号）",
+      "date": "2026-03-04",
+      "result": "可決",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/teisyutsugian0803.pdf",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shinngikekka200803.pdf#page=1",
+      "resultLocator": "公式審議結果 PDF1頁・議案第12号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "欠席",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "欠席",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shinngikekka200803.pdf#page=1"
+    },
+    {
+      "place": "小川町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "number": "議案第13号",
+      "title": "令和７年度小川町下水道事業会計補正予算（第４号）",
+      "date": "2026-03-04",
+      "result": "可決",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/teisyutsugian0803.pdf",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shinngikekka200803.pdf#page=1",
+      "resultLocator": "公式審議結果 PDF1頁・議案第13号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "欠席",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "欠席",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shinngikekka200803.pdf#page=1"
+    },
+    {
+      "place": "小川町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "number": "議案第20号",
+      "title": "固定資産評価審査委員会委員の選任について",
+      "date": "2026-03-06",
+      "result": "同意",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/teisyutsugian0803.pdf",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shinngikekka200803.pdf#page=2",
+      "resultLocator": "公式審議結果 PDF2頁・議案第20号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "欠席",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "欠席",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shinngikekka200803.pdf#page=2"
+    },
+    {
+      "place": "小川町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "number": "議案第14号",
+      "title": "令和８年度小川町一般会計予算",
+      "date": "2026-03-19",
+      "result": "可決",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/teisyutsugian0803.pdf",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shinngikekka200803.pdf#page=2",
+      "resultLocator": "公式審議結果 PDF2頁・議案第14号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "欠席",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "欠席",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shinngikekka200803.pdf#page=2",
+      "voteNote": "議会だより119号14頁の討論表示は田端良成議員（賛成）、鈴木秀尚議員（賛成）。"
+    },
+    {
+      "place": "小川町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "number": "議案第15号",
+      "title": "令和８年度小川町国民健康保険特別会計（事業勘定）予算",
+      "date": "2026-03-19",
+      "result": "可決",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/teisyutsugian0803.pdf",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shinngikekka200803.pdf#page=2",
+      "resultLocator": "公式審議結果 PDF2頁・議案第15号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "欠席",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "欠席",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shinngikekka200803.pdf#page=2"
+    },
+    {
+      "place": "小川町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "number": "議案第16号",
+      "title": "令和８年度小川町後期高齢者医療特別会計予算",
+      "date": "2026-03-19",
+      "result": "可決",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/teisyutsugian0803.pdf",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shinngikekka200803.pdf#page=2",
+      "resultLocator": "公式審議結果 PDF2頁・議案第16号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "欠席",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "欠席",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shinngikekka200803.pdf#page=2"
+    },
+    {
+      "place": "小川町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "number": "議案第17号",
+      "title": "令和８年度小川町介護保険特別会計（保険事業勘定）予算",
+      "date": "2026-03-19",
+      "result": "可決",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/teisyutsugian0803.pdf",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shinngikekka200803.pdf#page=2",
+      "resultLocator": "公式審議結果 PDF2頁・議案第17号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "欠席",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "欠席",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shinngikekka200803.pdf#page=2"
+    },
+    {
+      "place": "小川町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "number": "議案第18号",
+      "title": "令和８年度小川町水道事業会計予算",
+      "date": "2026-03-19",
+      "result": "可決",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/teisyutsugian0803.pdf",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shinngikekka200803.pdf#page=2",
+      "resultLocator": "公式審議結果 PDF2頁・議案第18号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "欠席",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "欠席",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shinngikekka200803.pdf#page=2",
+      "voteNote": "議会だより119号14頁の討論表示は田端良成議員（賛成）。町が５月１日に同議員欄を「○」から「○ 討論」へ訂正。公式の表決は賛成。"
+    },
+    {
+      "place": "小川町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "number": "議案第19号",
+      "title": "令和８年度小川町下水道事業会計予算",
+      "date": "2026-03-19",
+      "result": "可決",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/teisyutsugian0803.pdf",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shinngikekka200803.pdf#page=2",
+      "resultLocator": "公式審議結果 PDF2頁・議案第19号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "欠席",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "欠席",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shinngikekka200803.pdf#page=2"
+    },
+    {
+      "place": "小川町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "number": "議第1号議案",
+      "title": "「議案第１４号令和８年度小川町一般会計予算」に係る附帯決議について",
+      "date": "2026-03-19",
+      "result": "可決",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/futaiketsugi.pdf",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shinngikekka200803.pdf#page=2",
+      "resultLocator": "公式審議結果 PDF2頁・議第1号議案",
+      "sourceTitle": "町議会が掲載した附帯決議の本文",
+      "sourceType": "公式議決結果の該当頁",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "欠席",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "欠席",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shinngikekka200803.pdf#page=2",
+      "names": [
+        "髙橋功人"
+      ],
+      "proposalRole": "発議者",
+      "proposalSupporters": [
+        "大戸久一",
+        "田中照子"
+      ]
+    },
+    {
+      "place": "小川町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "number": "議案第21号",
+      "title": "農村地域防災減災事業下里下沼防災工事請負変更契約の締結について",
+      "date": "2026-03-19",
+      "result": "可決",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/tsuikagiann.pdf",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shinngikekka200803.pdf#page=2",
+      "resultLocator": "公式審議結果 PDF2頁・議案第21号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "欠席",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "欠席",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shinngikekka200803.pdf#page=2"
+    },
+    {
+      "place": "小川町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "number": "議案第22号",
+      "title": "副町長の選任について",
+      "date": "2026-03-19",
+      "result": "同意",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/tsuikagiann.pdf",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shinngikekka200803.pdf#page=2",
+      "resultLocator": "公式審議結果 PDF2頁・議案第22号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "欠席",
+        "田端良成": "反対",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "欠席",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "反対",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shinngikekka200803.pdf#page=2",
+      "voteNote": "議会だより119号14頁の討論表示は田端良成議員（反対）、山口勝士議員（賛成）、島﨑隆夫議員（賛成）。"
+    },
+    {
+      "place": "小川町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "number": "議案第26号",
+      "title": "小川町税条例の一部を改正する条例制定について",
+      "date": "2026-06-26",
+      "result": "可決",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/gianitiranR0806.pdf",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekka0806.pdf#page=1",
+      "resultLocator": "公式審議結果 PDF1頁・議案第26号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "賛成",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "欠席",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekka0806.pdf#page=1"
+    },
+    {
+      "place": "小川町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "number": "議案第27号",
+      "title": "小川町印鑑条例の一部を改正する条例制定について",
+      "date": "2026-06-26",
+      "result": "可決",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/gianitiranR0806.pdf",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekka0806.pdf#page=1",
+      "resultLocator": "公式審議結果 PDF1頁・議案第27号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "賛成",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "欠席",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekka0806.pdf#page=1"
+    },
+    {
+      "place": "小川町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "number": "議案第28号",
+      "title": "令和８年度小川町一般会計補正予算（第１号）",
+      "date": "2026-06-26",
+      "result": "可決",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/gianitiranR0806.pdf",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekka0806.pdf#page=1",
+      "resultLocator": "公式審議結果 PDF1頁・議案第28号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "賛成",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "欠席",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekka0806.pdf#page=1"
+    },
+    {
+      "place": "小川町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "number": "議案第29号",
+      "title": "令和８年度小川町介護保険特別会計（保険事業勘定）補正予算（第１号）",
+      "date": "2026-06-26",
+      "result": "可決",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/gianitiranR0806.pdf",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekka0806.pdf#page=1",
+      "resultLocator": "公式審議結果 PDF1頁・議案第29号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "賛成",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "欠席",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekka0806.pdf#page=1"
+    },
+    {
+      "place": "小川町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "number": "議案第30号",
+      "title": "令和８年度小川町水道事業会計補正予算（第１号）",
+      "date": "2026-06-26",
+      "result": "可決",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/gianitiranR0806.pdf",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekka0806.pdf#page=1",
+      "resultLocator": "公式審議結果 PDF1頁・議案第30号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "賛成",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "欠席",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekka0806.pdf#page=1"
+    },
+    {
+      "place": "小川町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "number": "議案第31号",
+      "title": "令和８年度小川町下水道事業会計補正予算（第１号）",
+      "date": "2026-06-26",
+      "result": "可決",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/gianitiranR0806.pdf",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekka0806.pdf#page=1",
+      "resultLocator": "公式審議結果 PDF1頁・議案第31号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "賛成",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "欠席",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekka0806.pdf#page=1"
+    },
+    {
+      "place": "小川町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "number": "議案第32号",
+      "title": "固定資産評価員の選任について",
+      "date": "2026-06-26",
+      "result": "同意",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/gianitiranR0806.pdf",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekka0806.pdf#page=1",
+      "resultLocator": "公式審議結果 PDF1頁・議案第32号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "賛成",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "欠席",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekka0806.pdf#page=1"
+    },
+    {
+      "place": "小川町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "number": "諮問第1号",
+      "title": "人権擁護委員候補者の推薦について",
+      "date": "2026-06-26",
+      "result": "同意",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/gianitiranR0806.pdf",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekka0806.pdf#page=1",
+      "resultLocator": "公式審議結果 PDF1頁・諮問第1号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "賛成",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "欠席",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekka0806.pdf#page=1"
+    },
+    {
+      "place": "小川町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "number": "議案第33号",
+      "title": "おがわ西学童保育室及び小川学童保育室新築工事請負契約の締結について",
+      "date": "2026-07-02",
+      "result": "可決",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/tuikagianR080702.pdf",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekka0806.pdf#page=1",
+      "resultLocator": "公式審議結果 PDF1頁・議案第33号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "賛成",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "欠席",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekka0806.pdf#page=1"
+    },
+    {
+      "place": "小川町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "number": "議案第34号",
+      "title": "令和８年度小川町一般会計補正予算（第２号）",
+      "date": "2026-07-02",
+      "result": "可決",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/tuikagianR080702.pdf",
+      "resultURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekka0806.pdf#page=1",
+      "resultLocator": "公式審議結果 PDF1頁・議案第34号",
+      "sourceTitle": "町が公表した提出議案の一覧",
+      "sourceType": "公式議決結果の該当頁",
+      "votes": {
+        "田中立男": "賛成",
+        "関根慶則": "賛成",
+        "田端良成": "賛成",
+        "岡部久志": "賛成",
+        "稲村壌治": "賛成",
+        "鈴木秀尚": "賛成",
+        "五十嵐康博": "賛成",
+        "笠原規弘": "賛成",
+        "大戸久一": "賛成",
+        "田中照子": "賛成",
+        "笠原英彦": "欠席",
+        "髙橋功人": "賛成",
+        "髙橋さゆり": "賛成",
+        "山口勝士": "賛成",
+        "島﨑隆夫": "賛成",
+        "髙瀬勉": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekka0806.pdf#page=1"
     }
   ],
   "policy": [

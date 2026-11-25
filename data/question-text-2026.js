@@ -8017,6 +8017,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "75d2b7d8ffc0fb32b0c2",
+      "place": "吉川市",
+      "season": "fall",
+      "date": "2026-09-16",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "降旗聡議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://yoshikawa.gijiroku.com/g07_Video_View.asp?SrchID=1257",
+      "speakers": [
+        "降旗聡"
+      ]
+    },
+    {
       "id": "72b4293f755869941e2c",
       "place": "吉見町",
       "season": "spring",
@@ -22776,6 +22790,27 @@ GIKAI.questionText = {
       ]
     },
     {
+      "place": "小川町",
+      "season": "spring",
+      "date": "2026-03",
+      "id": "7608708362c5c51c883e",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/ippannshitsumon0803.pdf",
+      "title": "3月定例会の一般質問通告（8人）",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "speakers": [
+        "髙橋さゆり",
+        "関根慶則",
+        "髙橋功人",
+        "笠原規弘",
+        "稲村壌治",
+        "田端良成",
+        "鈴木秀尚",
+        "山口勝士"
+      ],
+      "note": "発言予定日時と質問事項を全頁収録。質問の通告時点の内容。"
+    },
+    {
       "id": "bb61383817750f35a00c",
       "place": "小川町",
       "season": "spring",
@@ -22822,6 +22857,28 @@ GIKAI.questionText = {
       "scope": "minutes",
       "speakers": [],
       "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
+    },
+    {
+      "place": "小川町",
+      "season": "summer",
+      "date": "2026-06",
+      "id": "0843749a2705146492ee",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/ippansitumonR0806_3.pdf",
+      "title": "6月定例会の一般質問通告（9人）",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "speakers": [
+        "髙橋功人",
+        "岡部久志",
+        "鈴木秀尚",
+        "関根慶則",
+        "髙橋さゆり",
+        "笠原規弘",
+        "山口勝士",
+        "田中立男",
+        "田端良成"
+      ],
+      "note": "発言予定日時と質問事項を全頁収録。質問の通告時点の内容。"
     },
     {
       "id": "35f24e38ee43ab580704",
@@ -22902,40 +22959,84 @@ GIKAI.questionText = {
       "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
     },
     {
+      "place": "小川町",
+      "season": "fall",
+      "date": "2026-09",
+      "id": "6371cf533ec17f601180",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/ippansitumonR0809.pdf",
+      "title": "9月定例会の一般質問通告（8人）",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "speakers": [
+        "田端良成",
+        "髙橋さゆり",
+        "髙橋功人",
+        "山口勝士",
+        "笠原規弘",
+        "鈴木秀尚",
+        "田中照子",
+        "島﨑隆夫"
+      ],
+      "note": "発言予定日時と質問事項を全頁収録。質問の通告時点の内容。"
+    },
+    {
       "id": "f109077b9263386fa4ff",
       "place": "小川町",
       "season": "fall",
       "date": "2026-09",
-      "title": "小川町議会だより121号・一般質問1",
+      "title": "おがわぎかい121号・一般質問1（紙面11頁）",
       "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/R0811121P10-11.pdf",
-      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "kind": "議会だよりの質問・答弁（紙面要約）",
       "scope": "summary",
-      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
-      "speakers": []
+      "note": "原紙面で6問答を確認し、既収録のOCRも保持。発言の予定日時は公式通告を参照。正式会議録は広報紙で12月上旬に公開予定。",
+      "speakers": [
+        "田端良成",
+        "髙橋さゆり"
+      ]
     },
     {
       "id": "fb6a4892070444bbb8fd",
       "place": "小川町",
       "season": "fall",
       "date": "2026-09",
-      "title": "小川町議会だより121号・一般質問2",
+      "title": "おがわぎかい121号・一般質問2（紙面12～13頁）",
       "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/R0811121P12-13.pdf",
-      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "kind": "議会だよりの質問・答弁（紙面要約）",
       "scope": "summary",
-      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
-      "speakers": []
+      "note": "原紙面で11問答を確認し、既収録のOCRも保持。発言の予定日時は公式通告を参照。正式会議録は広報紙で12月上旬に公開予定。",
+      "speakers": [
+        "髙橋功人",
+        "山口勝士",
+        "笠原規弘",
+        "鈴木秀尚"
+      ]
     },
     {
       "id": "1ec65c473dbc8e3a3b25",
       "place": "小川町",
       "season": "fall",
       "date": "2026-09",
-      "title": "小川町議会だより121号・一般質問3",
+      "title": "おがわぎかい121号・一般質問3（紙面14頁）",
       "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/R0811121P14-15.pdf",
-      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "kind": "議会だよりの質問・答弁（紙面要約）",
       "scope": "summary",
-      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
-      "speakers": []
+      "note": "原紙面で6問答を確認し、既収録のOCRも保持。発言の予定日時は公式通告を参照。正式会議録は広報紙で12月上旬に公開予定。",
+      "speakers": [
+        "田中照子",
+        "島﨑隆夫"
+      ]
+    },
+    {
+      "place": "小川町",
+      "season": "fall",
+      "date": "2026-09",
+      "id": "a8907c764a5fa6923fa3",
+      "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/R0811121zenpe-zi.pdf",
+      "title": "おがわぎかい121号・決算審査、条例・補正予算等の質疑",
+      "kind": "議会だよりの質問・答弁（紙面要約）",
+      "scope": "summary",
+      "speakers": [],
+      "note": "紙面の決算審査、条例、指定管理、補正予算等の26問答と補足８件。委員会の質疑は紙面が質問者を個別には表示していない。"
     },
     {
       "id": "59fd50b1e6cc028f627f",
@@ -34928,6 +35029,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "7c43387c36cfcb05f65e",
+      "place": "羽生市",
+      "season": "fall",
+      "date": "2026-09-15",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "小川明彦議員　議案質疑（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/hanyu/WebView/rd/speech.html?council_id=55&schedule_id=2&playlist_id=1&speaker_id=29&target_year=2026",
+      "speakers": [
+        "小川明彦"
+      ]
+    },
+    {
       "id": "f7ed7762ec5c27aab7db",
       "place": "草加市",
       "season": "spring",
@@ -39847,7 +39962,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "第256号の一般質問12人・39問答、議案質疑10問答、その他の見出しと補足17件を収録。公式通告８頁、一般質問12本と議案質疑14本の公式録画を照合。正式会議録は確認中。",
+        "note": "第256号の一般質問12人・39問答、議案質疑10問答、その他の見出しと補足17件を収録。公式通告８頁、一般質問12本と議案質疑14本の公式録画を照合。正式会議録は確認中。 公式録画・音声の機械文字起こしを1件収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/hanyu/SpMinuteBrowse.html?tenant_id=159&view_years=2026"
       }
     },
@@ -40495,7 +40610,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "第211号の一般質問14人・17主題・26問答と、委員会・決算の17問答、討論14件などを原紙面と照合。一般質問通告23頁と議案質疑通告21頁、９月16～18日の公式録画14人。正式会議録は議会だより第211号によると12月上旬提供予定。",
+        "note": "第211号の一般質問14人・17主題・26問答と、委員会・決算の17問答、討論14件などを原紙面と照合。一般質問通告23頁と議案質疑通告21頁、９月16～18日の公式録画14人。正式会議録は議会だより第211号によると12月上旬提供予定。 公式録画・音声の機械文字起こしを1件収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/yoshikawa/SpMinuteBrowse.html?tenant_id=230&view_years=2026"
       }
     },
@@ -40737,7 +40852,8 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "議会だより要旨 3資料。配布用HTMLで本文を開けます。"
+        "note": "第121号の一般質問８人・23問答、決算・条例・補正予算等の26問答と補足８件を原紙面と照合。発言予定日時は公式通告。正式会議録は紙面の案内で12月上旬公開予定。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/ogawa/SpMinuteBrowse.html?tenant_id=87&view_years=2026"
       }
     },
     {

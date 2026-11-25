@@ -448,6 +448,12 @@ GIKAI.cases.push(
     actors: ["小川町議会", "小川町"],
     steps: [
       {
+        date: "2026-09", stage: "柔道整復の窓口払いの負担と手続を審査", actor: "小川町議会、小川町",
+        detail: "紙面に、受給者の負担を減らすための制度の説明と、初診時の委任状に関する質疑を掲載。町外の施術についても質問があった。",
+        url: "https://www.town.ogawa.saitama.jp/material/files/group/18/R0811121zenpe-zi.pdf#page=5", sourceTitle: "おがわぎかい121号 紙面８頁",
+        archiveId: "a8907c764a5fa6923fa3", blocks: [22, 23],
+      },
+      {
         date: "2026-09-07", stage: "受領委任払いに向けた条例案を可決", actor: "小川町議会",
         detail: "福祉３医療費支給制度で受領委任払いを実施するための関係条例整備案（議案第39号）を可決した。公式表で議長以外の15欄を賛成と確認できる。",
         url: "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
@@ -10143,5 +10149,535 @@ GIKAI.cases.push(...[
       }
     ],
     "note": "現場の状況説明、調査の計画と予算の可決を記録。調査結果と修繕工事の着手は確認中。"
+  }
+]);
+
+GIKAI.cases.push(...[
+  {
+    "place": "小川町",
+    "title": "道の駅の利用実績と指定管理者納付金の確定を求めた議会要望",
+    "topic": "指定管理・公共施設収入",
+    "actors": [
+      "鈴木秀尚",
+      "田中立男",
+      "小川町",
+      "小川町議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-06-23",
+        "actor": "鈴木秀尚",
+        "stage": "リニューアル後１年の利用実績と町内への波及を質す",
+        "detail": "物販、食堂、和紙体験等の利用を尋ね、道の駅から町内の他の名所につなぐ案内図の設置も提案した。",
+        "url": "https://ssp.kaigiroku.net/tenant/ogawa/SpMinuteView.html?tenant_id=87&council_id=102&schedule_id=2",
+        "sourceTitle": "小川町 ６月23日本会議録 P.42・52",
+        "archiveId": "35f24e38ee43ab580704",
+        "blocks": [
+          158,
+          200
+        ],
+        "memberActions": [
+          {
+            "name": "鈴木秀尚",
+            "detail": "リニューアル後の実績、防災・情報発信の強化、町内を周遊できる案内図の設置を提案。",
+            "blocks": [
+              158,
+              200
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-06-25",
+        "actor": "田中立男",
+        "stage": "駐車場からの移動や休憩場所の改善を求める",
+        "detail": "第２駐車場からの送迎を検討するよう求め、屋内でも休憩・飲食できる場所の確保を質した。",
+        "url": "https://ssp.kaigiroku.net/tenant/ogawa/SpMinuteView.html?tenant_id=87&council_id=102&schedule_id=4",
+        "sourceTitle": "小川町 ６月25日本会議録 P.118・120",
+        "archiveId": "d7b448aa0909aeba24a9",
+        "blocks": [
+          81,
+          95
+        ],
+        "memberActions": [
+          {
+            "name": "田中立男",
+            "detail": "第２駐車場からの送迎を提案し、休憩できる場所の確保を質した。",
+            "blocks": [
+              81,
+              95
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-09-24",
+        "actor": "小川町議会",
+        "stage": "一般会計決算を認定。道の駅納付金は協議中",
+        "detail": "令和７年度一般会計決算を認定。町議会だよりは売上約８億円、３月末の来場者66万人超を紹介し、決算掲載の納付金400万円を暫定額として扱う。",
+        "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/R0811121zenpe-zi.pdf#page=2",
+        "sourceTitle": "おがわぎかい121号 PDF2頁",
+        "archiveId": "a8907c764a5fa6923fa3",
+        "blocks": [
+          1
+        ],
+        "billNumber": "議案第49号"
+      },
+      {
+        "date": "2026-10-14",
+        "actor": "小川町議会",
+        "stage": "納付金の適正化等を求める要望書提出を公表",
+        "detail": "議会は決算審査で明らかになった暫定額について、納付金の適正確定などを求める要望書を町へ提出したと公表。日付は公表ページの更新日。",
+        "url": "https://www.town.ogawa.saitama.jp/gyosei/gyoseijoho/gikai/7/7456.html",
+        "sourceTitle": "小川町議会 指定管理者納付金の適正化等の要望"
+      }
+    ],
+    "note": "利用実績、決算上の額、議会の是正要望を記録。最終納付額の確定と実際の精算は確認中。"
+  },
+  {
+    "place": "小川町",
+    "title": "学童保育室新築の附帯決議、工事契約と指定管理者の指定",
+    "topic": "学童保育・放課後施設",
+    "actors": [
+      "髙橋功人",
+      "大戸久一",
+      "田中照子",
+      "小川町議会",
+      "小川町"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-19",
+        "actor": "髙橋功人、大戸久一、田中照子",
+        "stage": "安全確保と財政負担への配慮を求める附帯決議を提出",
+        "detail": "髙橋議員が提出者、大戸・田中両議員が賛成者。施設整備について児童の安全確保、将来負担、国・県の財政支援活用等の５項目を盛り込んだ。",
+        "url": "https://ssp.kaigiroku.net/tenant/ogawa/SpMinuteView.html?tenant_id=87&council_id=100&schedule_id=7",
+        "sourceTitle": "小川町 ３月19日本会議録・議員提出議案第１号",
+        "archiveId": "5a2a204d70b548b752f0",
+        "blocks": [
+          83
+        ],
+        "memberActions": [
+          {
+            "name": "髙橋功人",
+            "detail": "附帯決議を提出し５項目の提案理由を説明。",
+            "blocks": [
+              83
+            ]
+          },
+          {
+            "name": "大戸久一",
+            "detail": "附帯決議の提出時の賛成者。",
+            "blocks": [
+              83
+            ]
+          },
+          {
+            "name": "田中照子",
+            "detail": "附帯決議の提出時の賛成者。",
+            "blocks": [
+              83
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-03-19",
+        "actor": "小川町議会",
+        "stage": "放課後児童施設整備事業に関する附帯決議を可決",
+        "detail": "一般会計予算第14号に関する附帯決議を可決。議決した決議本文も町議会が公式に公表した。",
+        "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shinngikekka200803.pdf#page=2",
+        "sourceTitle": "小川町 ３月定例会公式審議結果 PDF２頁",
+        "billNumber": "議第1号議案"
+      },
+      {
+        "date": "2026-07-02",
+        "actor": "小川町議会",
+        "stage": "おがわ西・小川学童保育室の新築工事請負契約を可決",
+        "detail": "２施設の新築に関する議案第33号。工事請負契約の締結を可決した。",
+        "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekka0806.pdf#page=1",
+        "sourceTitle": "小川町 ６月定例会公式審議結果 PDF１頁",
+        "billNumber": "議案第33号"
+      },
+      {
+        "date": "2026-09-07",
+        "actor": "小川町議会",
+        "stage": "学童クラブの指定管理者の指定を可決",
+        "detail": "議案第41号。町議会だよりは提案の職員育成・研修、継続雇用や定着に関する評価も紹介。",
+        "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+        "sourceTitle": "小川町 ９月定例会公式審議結果 PDF１頁",
+        "billNumber": "議案第41号"
+      },
+      {
+        "date": "2026-11-01",
+        "actor": "小川町議会",
+        "stage": "小川学童保育室の工事の進み具合を写真で掲載",
+        "detail": "第121号の８頁に小川小学校前庭の施工状況の写真と、学童クラブの指定管理についての議会審査を掲載した。",
+        "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/R0811121zenpe-zi.pdf#page=5",
+        "sourceTitle": "おがわぎかい121号 紙面８頁"
+      }
+    ],
+    "note": "附帯決議、工事契約、管理者指定と施工状況を記録。施設の完成と供用開始は確認中。"
+  },
+  {
+    "place": "小川町",
+    "title": "子育て応援アプリの更新と電子版母子健康手帳の検討",
+    "topic": "子育て・デジタルサービス",
+    "actors": [
+      "田端良成",
+      "小川町"
+    ],
+    "steps": [
+      {
+        "date": "2026-06-01",
+        "actor": "小川町",
+        "stage": "子育て応援アプリを「おやこ手帳」へ切り替える案内",
+        "detail": "令和８年６月からの更新と、予防接種や成長記録の引継ぎ、家族アカウントでの共有を案内した。日付は更新日。",
+        "url": "https://www.town.ogawa.saitama.jp/gyosei/kosodate_kyoiku/ikuji_mishugakuji/1/3562.html",
+        "sourceTitle": "小川町 子育て応援アプリの案内"
+      },
+      {
+        "date": "2026-09",
+        "actor": "田端良成",
+        "stage": "電子版母子健康手帳の導入と既存システムの実績を質す",
+        "detail": "町はアプリでの情報提供と、令和７年度導入の保育システムでの欠席連絡・業務負担軽減を説明。電子版母子健康手帳は国の動向を踏まえて調査・研究する。",
+        "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/R0811121P10-11.pdf",
+        "sourceTitle": "おがわぎかい121号 一般質問の紙面",
+        "archiveId": "f109077b9263386fa4ff",
+        "blocks": [
+          1,
+          2,
+          3
+        ],
+        "memberActions": [
+          {
+            "name": "田端良成",
+            "detail": "町はアプリでの情報提供と、令和７年度導入の保育システムでの欠席連絡・業務負担軽減を説明。電子版母子健康手帳は国の動向を踏まえて調査・研究する。",
+            "blocks": [
+              1,
+              2,
+              3
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "既存アプリ・保育システムの運用と、電子版母子健康手帳の検討段階を記録。"
+  },
+  {
+    "place": "小川町",
+    "title": "資源プラスチック分別の変更と転入者・地域への周知",
+    "topic": "廃棄物・住民案内",
+    "actors": [
+      "髙橋さゆり",
+      "小川町"
+    ],
+    "steps": [
+      {
+        "date": "2025-11-07",
+        "actor": "小川町",
+        "stage": "令和８年度からの資源プラスチック分別変更を公表",
+        "detail": "町の案内は令和８年度の出し方変更と対象となる資源プラスチックを掲載。日付は更新日。",
+        "url": "https://www.town.ogawa.saitama.jp/gyosei/6356.html",
+        "sourceTitle": "小川町 資源プラスチックの出し方の変更"
+      },
+      {
+        "date": "2026-09",
+        "actor": "髙橋さゆり",
+        "stage": "分別変更の周知と転入手続、集積場の相談対応を質す",
+        "detail": "町は４月からの変更を広報紙・ウェブサイト・委員を通じ周知。転入時に渡す資料と、５言語対応の分別アプリも説明した。",
+        "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/R0811121P10-11.pdf",
+        "sourceTitle": "おがわぎかい121号 一般質問の紙面",
+        "archiveId": "f109077b9263386fa4ff",
+        "blocks": [
+          4,
+          5,
+          6
+        ],
+        "memberActions": [
+          {
+            "name": "髙橋さゆり",
+            "detail": "町は４月からの変更を広報紙・ウェブサイト・委員を通じ周知。転入時に渡す資料と、５言語対応の分別アプリも説明した。",
+            "blocks": [
+              4,
+              5,
+              6
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "変更の公表と、実施後の町による周知・相談対応の説明を記録。分別の改善件数は確認中。"
+  },
+  {
+    "place": "小川町",
+    "title": "和紙体験学習センターの再整備・登録有形文化財の検討",
+    "topic": "文化施設・景観",
+    "actors": [
+      "髙橋功人",
+      "田中照子",
+      "小川町"
+    ],
+    "steps": [
+      {
+        "date": "2026-06-12",
+        "actor": "小川町",
+        "stage": "和紙体験学習センターの施設と事業を案内",
+        "detail": "町の観光案内は和紙体験学習センターの施設概要、利用と交通等の情報を掲載。日付は更新日。",
+        "url": "https://www.town.ogawa.saitama.jp/kanko/washinofurusato/washitaiken_event/1913.html",
+        "sourceTitle": "小川町 和紙体験学習センター"
+      },
+      {
+        "date": "2026-09",
+        "actor": "髙橋功人",
+        "stage": "景観の継承と既存建物の再整備日程を質す",
+        "detail": "町は歴史的な町並みの魅力発信を続け、まずセンターの再整備基本計画を策定すると説明。",
+        "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/R0811121P12-13.pdf",
+        "sourceTitle": "おがわぎかい121号 一般質問の紙面",
+        "archiveId": "fb6a4892070444bbb8fd",
+        "blocks": [
+          1,
+          2,
+          3
+        ],
+        "memberActions": [
+          {
+            "name": "髙橋功人",
+            "detail": "町は歴史的な町並みの魅力発信を続け、まずセンターの再整備基本計画を策定すると説明。",
+            "blocks": [
+              1,
+              2,
+              3
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-09",
+        "actor": "田中照子",
+        "stage": "関係者の意見を踏まえた文化財登録の方向を質す",
+        "detail": "町は和紙職人、産業関係者、文化財保存・活用の専門家らに意見を聞き、再整備基本計画の中で登録申請を検討すると答えた。",
+        "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/R0811121P14-15.pdf",
+        "sourceTitle": "おがわぎかい121号 一般質問の紙面",
+        "archiveId": "1ec65c473dbc8e3a3b25",
+        "blocks": [
+          3
+        ],
+        "memberActions": [
+          {
+            "name": "田中照子",
+            "detail": "町は和紙職人、産業関係者、文化財保存・活用の専門家らに意見を聞き、再整備基本計画の中で登録申請を検討すると答えた。",
+            "blocks": [
+              3
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "既存施設の情報と再整備・文化財登録をめぐる質疑を記録。基本計画の決定と工事着手は確認中。"
+  },
+  {
+    "place": "小川町",
+    "title": "指定文化財の候補と写真・フィルムのデジタル化",
+    "topic": "文化財・デジタルアーカイブ",
+    "actors": [
+      "島﨑隆夫",
+      "小川町"
+    ],
+    "steps": [
+      {
+        "date": "2025-01-31",
+        "actor": "小川町",
+        "stage": "町内の指定文化財一覧を公表",
+        "detail": "町は国・県・町の指定文化財などを一覧で案内。日付は更新日。",
+        "url": "https://www.town.ogawa.saitama.jp/gyosei/sosiki/17/12/1/756.html",
+        "sourceTitle": "小川町 町内所在の指定文化財一覧"
+      },
+      {
+        "date": "2026-09",
+        "actor": "島﨑隆夫",
+        "stage": "文化財候補・指定解除とデジタル化や保護財源を質す",
+        "detail": "町は未調査等の指定候補５件、写真フィルムの５％とマイクロフィルムの２％のデジタル化を説明。保護財源のため企業版ふるさと納税等も研究する。",
+        "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/R0811121P14-15.pdf",
+        "sourceTitle": "おがわぎかい121号 一般質問の紙面",
+        "archiveId": "1ec65c473dbc8e3a3b25",
+        "blocks": [
+          4,
+          5,
+          6
+        ],
+        "memberActions": [
+          {
+            "name": "島﨑隆夫",
+            "detail": "町は未調査等の指定候補５件、写真フィルムの５％とマイクロフィルムの２％のデジタル化を説明。保護財源のため企業版ふるさと納税等も研究する。",
+            "blocks": [
+              4,
+              5,
+              6
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "一覧の公表と資料デジタル化の実績を記録。新指定・指定解除の個別決定は確認中。"
+  },
+  {
+    "place": "小川町",
+    "title": "スクールバス乗降管理の予算と通学用マイクロバスの契約",
+    "topic": "学校再編・通学安全",
+    "actors": [
+      "小川町",
+      "小川町議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-09",
+        "actor": "小川町議会、小川町",
+        "stage": "通学バスの乗降をICカードで確認する仕組みを説明",
+        "detail": "バスへの乗降を確認し、予定児童が乗っていない場合も確認できる仕組みを説明。年額のシステム費用は別の質疑に掲載。",
+        "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/R0811121zenpe-zi.pdf#page=5",
+        "sourceTitle": "おがわぎかい121号 PDF5頁",
+        "archiveId": "a8907c764a5fa6923fa3",
+        "blocks": [
+          28
+        ]
+      },
+      {
+        "date": "2026-09-07",
+        "actor": "小川町議会",
+        "stage": "乗降管理事業を含む一般会計補正予算を可決",
+        "detail": "第45号の一般会計補正予算（第４号）を可決。紙面には車載機器を使う乗降管理の質疑を掲載した。",
+        "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=1",
+        "sourceTitle": "小川町 ９月定例会公式審議結果 PDF１頁",
+        "billNumber": "議案第45号"
+      },
+      {
+        "date": "2026-09-24",
+        "actor": "小川町議会",
+        "stage": "通学用マイクロバスの売買契約を可決",
+        "detail": "第57号の車両売買契約を可決。乗降管理の予算措置と車両の契約をそれぞれ記録した。",
+        "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekkaR0809.pdf#page=3",
+        "sourceTitle": "小川町 ９月定例会公式審議結果 PDF３頁",
+        "billNumber": "議案第57号"
+      }
+    ],
+    "note": "仕組みの説明、予算と車両契約を確認。システムの運用開始と車両の引渡しは確認中。"
+  },
+  {
+    "place": "小川町",
+    "title": "移住支援金の交付案内と移住実績の決算確認",
+    "topic": "移住・定住支援",
+    "actors": [
+      "小川町",
+      "小川町議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-09-04",
+        "actor": "小川町",
+        "stage": "移住支援金の対象・申請方法を案内",
+        "detail": "町は条件を満たす移住者への支援金について対象要件と手続を公表。日付は案内の更新日。",
+        "url": "https://www.town.ogawa.saitama.jp/gyosei/sosiki/3/3/6053.html",
+        "sourceTitle": "小川町 移住支援金の案内"
+      },
+      {
+        "date": "2026-09-24",
+        "actor": "小川町議会",
+        "stage": "決算で支援金300万円と３世帯６人の移住を確認",
+        "detail": "令和７年度の移住支援金事業の決算額は300万円と掲載。別の質疑で、移住サポートセンターの移住実績も公表した。",
+        "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/R0811121zenpe-zi.pdf#page=2",
+        "sourceTitle": "おがわぎかい121号 PDF2頁",
+        "archiveId": "a8907c764a5fa6923fa3",
+        "blocks": [
+          2
+        ],
+        "billNumber": "議案第49号"
+      }
+    ],
+    "note": "支援金事業の実績と、サポートセンターが把握した全体の実績をそれぞれ収録。"
+  },
+  {
+    "place": "小川町",
+    "title": "産後ケア３方式の案内と利用実績の増加",
+    "topic": "産後支援・決算",
+    "actors": [
+      "小川町",
+      "小川町議会"
+    ],
+    "steps": [
+      {
+        "date": "2025-04-24",
+        "actor": "小川町",
+        "stage": "産後ケアの訪問・日帰り・宿泊を案内",
+        "detail": "町の案内は医療機関・助産院や自宅などで支援を受ける利用方法を掲載。日付は更新日。",
+        "url": "https://www.town.ogawa.saitama.jp/gyosei/sosiki/9/10/511.html",
+        "sourceTitle": "小川町 産後ケア事業"
+      },
+      {
+        "date": "2026-09-24",
+        "actor": "小川町議会",
+        "stage": "決算で利用実人数17人から30人への増加を確認",
+        "detail": "令和６・７年度の利用実人数と方式別の利用日数を掲載。令和７年度の事業決算額は169万8千円。",
+        "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/R0811121zenpe-zi.pdf#page=2",
+        "sourceTitle": "おがわぎかい121号 PDF2頁",
+        "archiveId": "a8907c764a5fa6923fa3",
+        "blocks": [
+          3
+        ],
+        "billNumber": "議案第49号"
+      }
+    ],
+    "note": "利用できる方式と年度別実績を確認。年度途中の利用動向は確認中。"
+  },
+  {
+    "place": "小川町",
+    "title": "学校給食センター更新の検討と公共施設整備基金の積立",
+    "topic": "学校給食・公共施設財政",
+    "actors": [
+      "髙橋さゆり",
+      "小川町",
+      "小川町議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-02-26",
+        "actor": "髙橋さゆり",
+        "stage": "給食センターの老朽化を取り上げ、更新時期を質す",
+        "detail": "施設の衛生管理と職員の作業環境を挙げ、新センターの整備の見通しと工程を質し、前倒しを求めた。",
+        "url": "https://ssp.kaigiroku.net/tenant/ogawa/SpMinuteView.html?tenant_id=87&council_id=100&schedule_id=2",
+        "sourceTitle": "小川町 ２月26日本会議録 P.17～18",
+        "archiveId": "607ce3bd2e9b7f683ac4",
+        "blocks": [
+          78,
+          84,
+          88
+        ],
+        "memberActions": [
+          {
+            "name": "髙橋さゆり",
+            "detail": "給食センターの更新の内容と工程を継続して質し、整備の前倒しを求めた。",
+            "blocks": [
+              78,
+              84,
+              88
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-09-24",
+        "actor": "小川町議会、小川町",
+        "stage": "公共施設整備基金の積立と年度末残高を確認",
+        "detail": "町は総合福祉センター等の再整備と新学校給食センターを優先して積み立てたと説明。令和７年度末残高は６億7,559万円。",
+        "url": "https://www.town.ogawa.saitama.jp/material/files/group/18/R0811121zenpe-zi.pdf#page=3",
+        "sourceTitle": "おがわぎかい121号 PDF3頁",
+        "archiveId": "a8907c764a5fa6923fa3",
+        "blocks": [
+          8
+        ],
+        "billNumber": "議案第49号"
+      }
+    ],
+    "note": "老朽施設の更新に関する質疑と、将来事業を見据えた基金の積立を記録。センターの着工と完成は確認中。"
   }
 ]);
