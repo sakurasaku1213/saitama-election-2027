@@ -21012,3 +21012,620 @@ GIKAI.cases.push(...[
     "note": "町議会の報告で、２校の生徒の提案と実施された具体的な事業を確認。"
   }
 ]);
+
+GIKAI.cases.push(...[
+  {
+    "place": "川口市",
+    "title": "川口市の学校給食費、小学校の原則無償化と中学校の負担据置き",
+    "topic": "教育・学校給食",
+    "actors": [
+      "金子幸弘",
+      "青山聖子",
+      "池田けい",
+      "板橋博美",
+      "川口市",
+      "川口市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-09",
+        "stage": "中学校給食の市独自無償化を求める",
+        "actor": "川口市議会",
+        "detail": "市は、独自の無償化には多額の財源を安定的に確保する必要があり、実施が難しいと答弁した。",
+        "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1408&schedule_id=5",
+        "sourceTitle": "川口市議会・公式本会議録",
+        "archiveId": "3224140b3aa0ed1e0a04",
+        "blocks": [
+          30,
+          34
+        ],
+        "memberActions": [
+          {
+            "name": "金子幸弘",
+            "detail": "小学校に続き、中学校の給食費についても市独自で無償化を求めた。",
+            "blocks": [
+              30
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-03-11",
+        "stage": "小学校給食費の国の基準を超える部分を確認",
+        "actor": "川口市議会",
+        "detail": "市は小学校の食材費を月額5,220円とし、国の基準額5,200円を超える部分を市費で負担する方針を説明した。",
+        "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1408&schedule_id=7",
+        "sourceTitle": "川口市議会・公式本会議録",
+        "archiveId": "e641b641c9f4ca128d26",
+        "blocks": [
+          13,
+          15
+        ],
+        "memberActions": [
+          {
+            "name": "青山聖子",
+            "detail": "小学校給食費改定後、国の支援基準を超える差額の負担をどうするか質した。",
+            "blocks": [
+              13
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-03-23",
+        "stage": "小学校給食の負担軽減等を含む当初予算を可決",
+        "actor": "川口市議会",
+        "detail": "小学校の無償化と中学校の主食費相当分の公費負担が討論で言及され、一般会計当初予算を起立多数で可決。",
+        "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1408&schedule_id=9",
+        "sourceTitle": "川口市議会・公式本会議録",
+        "archiveId": "9a708d5d218c92c3680f",
+        "blocks": [
+          45,
+          50,
+          51
+        ],
+        "billNumber": "議案第18号",
+        "memberActions": [
+          {
+            "name": "池田けい",
+            "detail": "小学校の無償化と中学校の主食費の公費負担を評価し、当初予算に賛成討論した。",
+            "blocks": [
+              45
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-03-24",
+        "stage": "市が４月からの保護者負担額を案内",
+        "actor": "川口市",
+        "detail": "小学校は原則無償。中学校は主食費相当分の公費負担を拡充し、保護者負担の月額4,336円を据え置くと市が公表した。",
+        "url": "https://www.city.kawaguchi.lg.jp/soshiki/04020/030/oshirase/42142.html",
+        "sourceTitle": "川口市・給食費改定と保護者負担"
+      },
+      {
+        "date": "2026-09-11",
+        "stage": "中学校も含めた完全無償化の考えを改めて確認",
+        "actor": "川口市議会",
+        "detail": "市は、小学校の施策と中学校の主食費負担軽減を踏まえ、市独自で完全無償化を行うには安定財源が必要と答弁した。",
+        "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1427&schedule_id=4",
+        "sourceTitle": "川口市議会・公式本会議録",
+        "archiveId": "cae5df3c1897ca11a75e",
+        "blocks": [
+          8,
+          18
+        ],
+        "memberActions": [
+          {
+            "name": "板橋博美",
+            "detail": "小学校の制度を継続し、中学校も含め完全無償化するよう求めた。",
+            "blocks": [
+              8
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "議会での要望、予算の可決と市の保護者向け案内、その後の答弁を確認。"
+  },
+  {
+    "place": "川口市",
+    "title": "川口市の放課後児童クラブ、土曜日の開室繰上げの条例改正",
+    "topic": "学童保育・子育て",
+    "actors": [
+      "本橋慎吾",
+      "川口市",
+      "川口市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-09-01",
+        "stage": "市が土曜日の開室時間を見直す条例案を提出",
+        "actor": "川口市議会",
+        "detail": "保護者の就労形態の多様化に対応し、市の放課後児童クラブの土曜日の開室時間を午前８時とする案を説明。",
+        "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1427&schedule_id=2",
+        "sourceTitle": "川口市議会・公式本会議録",
+        "archiveId": "75bd09f9093f78228222",
+        "blocks": [
+          50
+        ]
+      },
+      {
+        "date": "2026-09-29",
+        "stage": "学童クラブの開室を繰り上げる条例改正を可決",
+        "actor": "川口市議会",
+        "detail": "学校休業日の土曜日の開室を午前８時30分から８時へ変更する条例案を、23議案の一括採決で可決。",
+        "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1427&schedule_id=8",
+        "sourceTitle": "川口市議会・公式本会議録",
+        "archiveId": "d6757eb6e6ddbfd65854",
+        "blocks": [
+          44,
+          49,
+          50,
+          51
+        ],
+        "billNumber": "議案第128号",
+        "memberActions": [
+          {
+            "name": "本橋慎吾",
+            "detail": "保護者の意向調査を踏まえた朝30分の開室繰上げの意義を述べ、賛成討論した。",
+            "blocks": [
+              44
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-10-01",
+        "stage": "市が2027年度の利用募集を公表",
+        "actor": "川口市",
+        "detail": "市は2027年度の当初申請のうち、一次申請を10月１日から11月30日、二次申請を12月１日から2027年１月15日まで受け付けると案内した。",
+        "url": "https://www.city.kawaguchi.lg.jp/soshiki/04020/010/houkagojidoukurabu/52874.html",
+        "sourceTitle": "川口市・放課後児童クラブの利用案内"
+      },
+      {
+        "date": "2026-10-01",
+        "stage": "2027年度の利用案内に土曜日の午前８時開室を掲載",
+        "actor": "川口市",
+        "detail": "市が募集ページで公開した2027年度の手引きは、土曜日と学校休業日の開室を午前８時と案内した。",
+        "url": "https://www.city.kawaguchi.lg.jp/material/files/group/197/R9tebiki.pdf#page=4",
+        "sourceTitle": "川口市・2027年度利用申請の手引き４頁"
+      }
+    ],
+    "note": "条例改正と2027年度に向けた利用募集・開室時間の案内を確認。開室時刻の運用と利用実績は確認待ち。"
+  },
+  {
+    "place": "川口市",
+    "title": "朝日環境センターの火災復旧、通常運転の再開と契約の変更",
+    "topic": "廃棄物・公共施設",
+    "actors": [
+      "若谷正巳",
+      "川口市",
+      "川口市議会"
+    ],
+    "steps": [
+      {
+        "date": "2025-01-03",
+        "stage": "環境センターのごみピットで火災が発生",
+        "actor": "川口市",
+        "detail": "収集したごみをためるピットで火災が発生し、市はごみの受入れを当面停止すると公表した。",
+        "url": "https://www.city.kawaguchi.lg.jp/soshiki/01100/080/oshirase/47349.html",
+        "sourceTitle": "川口市・ごみピット火災"
+      },
+      {
+        "date": "2026-02-24",
+        "stage": "ごみクレーン等の復旧工事の変更契約案を説明",
+        "actor": "川口市議会",
+        "detail": "市は損傷調査後、ごみピット壁面のコンクリート補修と作業足場の範囲が縮小したため、変更契約が必要と説明した。",
+        "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1408&schedule_id=2",
+        "sourceTitle": "川口市議会・公式本会議録",
+        "archiveId": "444037774a55afbb4cc5",
+        "blocks": [
+          63
+        ]
+      },
+      {
+        "date": "2026-03-01",
+        "stage": "損傷設備が復旧し通常焼却を再開",
+        "actor": "川口市",
+        "detail": "市は３月１日から通常どおり焼却を再開したと公表した。",
+        "url": "https://www.city.kawaguchi.lg.jp/soshiki/01100/080/oshirase/50496.html",
+        "sourceTitle": "川口市・損傷設備の復旧と運転再開"
+      },
+      {
+        "date": "2026-03-03",
+        "stage": "復旧工事の変更契約を議決",
+        "actor": "川口市議会",
+        "detail": "総務常任委員会では変更の経緯を質疑。市議会は第２～17号の一括の採決で可決・承認を決定し、議案第13号は原案可決。",
+        "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1408&schedule_id=3",
+        "sourceTitle": "川口市議会・公式本会議録",
+        "archiveId": "b475f9982b12af671573",
+        "blocks": [
+          9,
+          34,
+          35
+        ],
+        "billNumber": "議案第13号",
+        "memberActions": [
+          {
+            "name": "若谷正巳",
+            "detail": "委員長として、復旧工事の変更に至った経緯に関する質疑と委員会結果を報告した。",
+            "blocks": [
+              9
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-03-26",
+        "stage": "市が火災復旧工事の完了と再発防止対策を公表",
+        "actor": "川口市",
+        "detail": "市は施設の復旧費用を約23億6,000万円と公表し、再発防止対策として自動放水銃を設置する工事について説明した。",
+        "url": "https://www.city.kawaguchi.lg.jp/material/files/group/3/press2025-k0326-3.pdf",
+        "sourceTitle": "川口市・復旧工事完了の報道発表"
+      }
+    ],
+    "note": "設備の復旧・通常焼却の再開と変更契約の議決を確認。再発防止工事の完了は確認待ち。"
+  },
+  {
+    "place": "川口市",
+    "title": "中小事業者の原油高対策、補正予算の質疑と申請受付",
+    "topic": "中小企業・物価対策",
+    "actors": [
+      "吉田英司",
+      "金子幸弘",
+      "坂本だいすけ",
+      "岡本さゆり",
+      "青山聖子",
+      "川口市",
+      "川口市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-06-30",
+        "stage": "支援の対象、予算内訳、申請方法を質疑",
+        "actor": "川口市議会",
+        "detail": "市は支援金を上限10万円・2,300者見込み、保証料補助を上限20万円・238件見込みと説明。委託料等も含め事業費計２億9,841万8,000円と示した。",
+        "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1418&schedule_id=8",
+        "sourceTitle": "川口市議会・公式本会議録",
+        "archiveId": "dfe78aa63298e3467dea",
+        "blocks": [
+          95,
+          98,
+          99,
+          100,
+          103,
+          108,
+          119
+        ],
+        "memberActions": [
+          {
+            "name": "吉田英司",
+            "detail": "申請受付の見通しと市財源を充てる理由、事業費の対象件数と内訳を質した。",
+            "blocks": [
+              95,
+              99
+            ]
+          },
+          {
+            "name": "金子幸弘",
+            "detail": "支援金の対象事業者と、保証料補助による融資負担の軽減効果を質した。",
+            "blocks": [
+              103
+            ]
+          },
+          {
+            "name": "坂本だいすけ",
+            "detail": "支援の効果、周知方法、市の一般財源も投じる意味を質した。",
+            "blocks": [
+              108
+            ]
+          },
+          {
+            "name": "岡本さゆり",
+            "detail": "申請の支援方法など、事業者が利用できる体制を質した。",
+            "blocks": [
+              119
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-06-30",
+        "stage": "中小企業等への支援を含む補正予算を可決",
+        "actor": "川口市議会",
+        "detail": "第２号補正予算を起立者全員で可決した。",
+        "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1418&schedule_id=8",
+        "sourceTitle": "川口市議会・公式本会議録",
+        "archiveId": "dfe78aa63298e3467dea",
+        "blocks": [
+          128,
+          129
+        ],
+        "billNumber": "議案第122号"
+      },
+      {
+        "date": "2026-06-30",
+        "stage": "国への緊急支援要請の意見書を可決",
+        "actor": "川口市議会",
+        "detail": "市内の支援策と同じ会議で、国に中小零細事業者への緊急支援を求める意見書を異議なしで可決した。",
+        "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1418&schedule_id=8",
+        "sourceTitle": "川口市議会・公式本会議録",
+        "archiveId": "dfe78aa63298e3467dea",
+        "blocks": [
+          150,
+          153,
+          157,
+          158
+        ],
+        "billNumber": "議員提出議案第2号",
+        "memberActions": [
+          {
+            "name": "青山聖子",
+            "detail": "中小零細事業者向けの緊急支援を国に求める意見書案を朗読し、提案理由を説明した。",
+            "blocks": [
+              153
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-09-16",
+        "stage": "支援事業の効果検証と申請方法の見直しを確認",
+        "actor": "川口市議会",
+        "detail": "市は原油高対策の効果を検証し、他市の事例を参考に申請手続をより効率的にできるか検討すると答弁した。",
+        "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1427&schedule_id=7",
+        "sourceTitle": "川口市議会・公式本会議録",
+        "archiveId": "e7fea0dc69e10b0b1179",
+        "blocks": [
+          68
+        ]
+      },
+      {
+        "date": "2026-10-31",
+        "stage": "市が支援金の受付終了と保証料補助を案内",
+        "actor": "川口市",
+        "detail": "石油等由来製品の価格高騰・供給不足に対する支援金の受付は終了と表示し、信用保証料補助の申請先を引き続き案内している。",
+        "url": "https://www.city.kawaguchi.lg.jp/soshiki/01110/011/shienjigyou/52110.html",
+        "sourceTitle": "川口市・原油価格等高騰対策支援"
+      }
+    ],
+    "note": "議員の質疑、補正の可決、支援の受付状況を確認。実績件数と効果の検証結果は確認待ち。"
+  },
+  {
+    "place": "川口市",
+    "title": "議会中継のYouTube配信を求める請願、委員会審査と不採択",
+    "topic": "議会運営・情報公開",
+    "actors": [
+      "飯塚孝行",
+      "杉本佳代",
+      "石橋俊伸",
+      "松本幸恵",
+      "川口市",
+      "川口市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-23",
+        "stage": "委員長が紹介議員への説明聴取と審査結果を報告",
+        "actor": "川口市議会",
+        "detail": "議会運営委員会は、市議会の中継と録画をYouTubeでも配信するよう求める請願を審査。紹介議員から説明を聴いた後、不採択とした。",
+        "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1408&schedule_id=9",
+        "sourceTitle": "川口市議会・公式本会議録",
+        "archiveId": "9a708d5d218c92c3680f",
+        "blocks": [
+          67
+        ],
+        "memberActions": [
+          {
+            "name": "飯塚孝行",
+            "detail": "委員長として、説明を求めた手続、質疑と議会運営委員会の審査結果を報告した。",
+            "blocks": [
+              67
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-03-23",
+        "stage": "本会議で討論し、請願を不採択",
+        "actor": "川口市議会",
+        "detail": "請願の根拠として示された数値の扱いや、配信の安定性・継続性をめぐる意見が出た。本会議は起立多数で委員長報告どおり不採択とした。",
+        "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1408&schedule_id=9",
+        "sourceTitle": "川口市議会・公式本会議録",
+        "archiveId": "9a708d5d218c92c3680f",
+        "blocks": [
+          67,
+          71,
+          73,
+          75,
+          77,
+          78,
+          79
+        ],
+        "billNumber": "請願第1号",
+        "memberActions": [
+          {
+            "name": "杉本佳代",
+            "detail": "請願文の根拠の数値や、既存配信と比較する前提の問題を述べ、不採択に賛成した。",
+            "blocks": [
+              71
+            ]
+          },
+          {
+            "name": "石橋俊伸",
+            "detail": "配信の効果にも触れ、安定性や継続性への懸念を示し不採択に賛成した。",
+            "blocks": [
+              73
+            ]
+          },
+          {
+            "name": "松本幸恵",
+            "detail": "請願内容の議論に至らなかった経過や請願文の扱いを述べ、不採択に賛成した。",
+            "blocks": [
+              75
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "委員会での審査、本会議の討論と不採択を確認。各議員の論点は会議録で確認できる。"
+  },
+  {
+    "place": "川口市",
+    "title": "上青木の浸水対策、現地の被害への質問から監視カメラの予算へ",
+    "topic": "防災・内水対策",
+    "actors": [
+      "奥富精一",
+      "舩津由徳",
+      "川口市",
+      "川口市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-10",
+        "stage": "上青木１丁目で繰り返す浸水と排水対策を確認",
+        "actor": "川口市議会",
+        "detail": "市は貯留施設のポンプ始動を早める設定変更等を実施したと説明した。",
+        "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1408&schedule_id=6",
+        "sourceTitle": "川口市議会・公式本会議録",
+        "archiveId": "cee87101363ea7dbc8af",
+        "blocks": [
+          81,
+          82
+        ],
+        "memberActions": [
+          {
+            "name": "奥富精一",
+            "detail": "上青木１丁目での浸水への対応状況を質した。",
+            "blocks": [
+              81
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-06-18",
+        "stage": "６月３日の上青木２丁目の浸水の原因と対策を質す",
+        "actor": "川口市議会",
+        "detail": "市長はポンプ場のごみ等による目詰まりを原因の一つとし、仮設排水の体制整備等を担当部局に指示したと答弁した。",
+        "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1418&schedule_id=5",
+        "sourceTitle": "川口市議会・公式本会議録",
+        "archiveId": "051125b66f1cd82c5edc",
+        "blocks": [
+          106,
+          107,
+          110
+        ],
+        "memberActions": [
+          {
+            "name": "舩津由徳",
+            "detail": "６月３日の浸水について原因と再発防止策を質し、９月補正で対応工事を予算化するよう求めた。",
+            "blocks": [
+              106,
+              110
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-09-01",
+        "stage": "市が監視カメラ設置費の増額補正を説明",
+        "actor": "川口市議会",
+        "detail": "６月の台風に伴う浸水被害を踏まえ、ポンプ場等への監視カメラ設置費を補正予算に計上した。",
+        "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1427&schedule_id=2",
+        "sourceTitle": "川口市議会・公式本会議録",
+        "archiveId": "75bd09f9093f78228222",
+        "blocks": [
+          49
+        ]
+      },
+      {
+        "date": "2026-09-29",
+        "stage": "カメラ設置費を含む補正予算を可決",
+        "actor": "川口市議会",
+        "detail": "カメラ設置費を含む一般会計補正予算を本会議で起立多数により可決した。",
+        "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1427&schedule_id=8",
+        "sourceTitle": "川口市議会・公式本会議録",
+        "archiveId": "d6757eb6e6ddbfd65854",
+        "blocks": [
+          47,
+          48
+        ],
+        "billNumber": "議案第123号"
+      }
+    ],
+    "note": "質問、原因についての市長答弁、監視のための財源措置を確認。設置完了と対策の効果は確認待ち。"
+  },
+  {
+    "place": "川口市",
+    "title": "避難所のトイレ・炊き出し・ベッド、備蓄確認と国への意見書",
+    "topic": "防災・避難所",
+    "actors": [
+      "ふじしまともこ",
+      "青山聖子",
+      "川口市",
+      "川口市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-09-14",
+        "stage": "避難所の備蓄と炊き出し協定を一般質問で確認",
+        "actor": "川口市議会",
+        "detail": "市は、キッチンカーを出す民間事業者２社との炊き出し協定と、簡易・段ボールベッド計3,419基を説明した。",
+        "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1427&schedule_id=5",
+        "sourceTitle": "川口市議会・公式本会議録",
+        "archiveId": "edf409f2fae729979d1a",
+        "blocks": [
+          74,
+          76,
+          78
+        ],
+        "memberActions": [
+          {
+            "name": "ふじしまともこ",
+            "detail": "避難所のトイレ・キッチン・ベッドについて整備と運用への備えを質した。",
+            "blocks": [
+              74,
+              78
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-09-29",
+        "stage": "避難所の環境整備を国に求める意見書を可決",
+        "actor": "川口市議会",
+        "detail": "トイレ・キッチン・ベッドの整備推進に関する国への意見書を、異議なしで可決した。",
+        "url": "https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteView.html?tenant_id=366&council_id=1427&schedule_id=8",
+        "sourceTitle": "川口市議会・公式本会議録",
+        "archiveId": "d6757eb6e6ddbfd65854",
+        "blocks": [
+          84,
+          87,
+          91,
+          92
+        ],
+        "billNumber": "議員提出議案第4号",
+        "memberActions": [
+          {
+            "name": "青山聖子",
+            "detail": "本会議で意見書案を朗読し、提案理由を説明した。",
+            "blocks": [
+              87
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-09-29",
+        "stage": "市議会が意見書を送付済みとして公表",
+        "actor": "川口市議会",
+        "detail": "市議会は国会又は関係行政機関へ送付した意見書として、避難所のＴＫＢ環境整備に関する意見書を掲示した。",
+        "url": "https://kawaguchi.gsl-service.net/doc/2016021300027/",
+        "sourceTitle": "川口市議会・送付済み意見書"
+      }
+    ],
+    "note": "市の備え、議員の質疑、意見書の可決と送付済みの公表を確認。"
+  }
+]);

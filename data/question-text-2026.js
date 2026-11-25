@@ -27369,6 +27369,18 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "0480974fd765757ff070",
+      "place": "川口市",
+      "season": "spring",
+      "date": "2026-02-24",
+      "title": "令和8年３月定例会 報告事項",
+      "kind": "議案審査の参考資料（公式PDF・OCR）",
+      "scope": "summary",
+      "url": "https://www.city.kawaguchi.lg.jp/material/files/group/10/0803houkokuzikou.pdf",
+      "note": "市・市議会の公式PDFをOCRで転記。表示日は対象定例会の初日。",
+      "speakers": []
+    },
+    {
       "id": "b0920ff2cdd8a72da1fc",
       "place": "川口市",
       "season": "spring",
@@ -27523,6 +27535,18 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "0293a980eee617941be3",
+      "place": "川口市",
+      "season": "spring",
+      "date": "2026-03-12",
+      "title": "令和8年３月定例会 条例議案参考資料(議案第68号)",
+      "kind": "議案審査の参考資料（公式PDF・OCR）",
+      "scope": "summary",
+      "url": "https://www.city.kawaguchi.lg.jp/material/files/group/10/803sinkyuu_tuika.pdf",
+      "note": "追加議案第68号に対応する条例議案資料。表示日は対応する議案の提出日。",
+      "speakers": []
+    },
+    {
       "id": "2af1dfe30b8a73d4e5ba",
       "place": "川口市",
       "season": "spring",
@@ -27615,6 +27639,30 @@ GIKAI.questionText = {
         "青山聖子",
         "飯塚孝行"
       ]
+    },
+    {
+      "id": "8797cc7012a44196ca19",
+      "place": "川口市",
+      "season": "spring",
+      "date": "2026-03-23",
+      "title": "自転車の交通ルールの周知強化、学ぶ機会の充実と自転車の安全のための予算措置を求める意見書",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "summary",
+      "url": "https://kawaguchi.gsl-service.net/doc/2016021300027/file_contents/202603_ikennsyo.pdf",
+      "note": "市議会が公表した意見書をOCRで転記。表示日は本会議での議決日。",
+      "speakers": []
+    },
+    {
+      "id": "9d0593e8bee7fa9130a2",
+      "place": "川口市",
+      "season": "spring",
+      "date": "2026-03-26",
+      "title": "朝日環境センター火災復旧工事が完了",
+      "kind": "議事概要（公式資料）",
+      "scope": "summary",
+      "url": "https://www.city.kawaguchi.lg.jp/material/files/group/3/press2025-k0326-3.pdf",
+      "note": "市が公表した公式PDFのOCR。表示日は公表日、案内ページの更新日または刊行月。",
+      "speakers": []
     },
     {
       "id": "cb72a2a08f3fba65bf29",
@@ -27804,6 +27852,18 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "9fd093187823af4a2158",
+      "place": "川口市",
+      "season": "summer",
+      "date": "2026-06-30",
+      "title": "ホルムズ海峡封鎖等の影響による中小零細企業の経営環境の悪化に対する緊急支援策を求める意見書",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "summary",
+      "url": "https://kawaguchi.gsl-service.net/doc/2016021300027/file_contents/202606ikennsyo.pdf",
+      "note": "市議会が公表した意見書をOCRで転記。表示日は本会議での議決日。",
+      "speakers": []
+    },
+    {
       "id": "75bd09f9093f78228222",
       "place": "川口市",
       "season": "fall",
@@ -27980,6 +28040,30 @@ GIKAI.questionText = {
         "関裕通",
         "青山聖子"
       ]
+    },
+    {
+      "id": "6a79d7e3420aa6ec24c6",
+      "place": "川口市",
+      "season": "fall",
+      "date": "2026-09-29",
+      "title": "避難所のＴＫＢ（トイレ・キッチン・ベッド）環境整備の推進を求める意見書",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "summary",
+      "url": "https://kawaguchi.gsl-service.net/doc/2016021300027/file_contents/202609ikennsyo.pdf",
+      "note": "市議会が公表した意見書をOCRで転記。表示日は本会議での議決日。",
+      "speakers": []
+    },
+    {
+      "id": "2b0e9955b7f1496ac86d",
+      "place": "川口市",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "令和９年度 放課後児童クラブ利用申請のてびき",
+      "kind": "議案審査の参考資料（公式PDF・OCR）",
+      "scope": "summary",
+      "url": "https://www.city.kawaguchi.lg.jp/material/files/group/197/R9tebiki.pdf",
+      "note": "市が公表した公式PDFのOCR。表示日は公表日、案内ページの更新日または刊行月。",
+      "speakers": []
     },
     {
       "id": "59a9e557bed6ee8656f0",

@@ -702,8 +702,8 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "学校給食費の市の案内、朝日環境センターの火災復旧、議会中継に関する請願を公式資料と接続。"
         }
       },
       "sources": [
@@ -722,6 +722,14 @@ GIKAI.coverage2026 = {
         {
           "label": "議会公式の審議結果一覧",
           "url": "https://kawaguchi.gsl-service.net/topics/2026030400014/#giketsukekka"
+        },
+        {
+          "label": "市公式の2026年提出議案",
+          "url": "https://www.city.kawaguchi.lg.jp/soshiki/01030/010/010/50469.html"
+        },
+        {
+          "label": "市議会が送付した意見書",
+          "url": "https://kawaguchi.gsl-service.net/doc/2016021300027/"
         }
       ]
     },
@@ -754,8 +762,8 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "中小事業者の原油高対策補正、国に緊急対策を求める意見書、上青木の浸水への質疑を収録。"
         }
       },
       "sources": [
@@ -774,6 +782,14 @@ GIKAI.coverage2026 = {
         {
           "label": "議会公式の審議結果一覧",
           "url": "https://kawaguchi.gsl-service.net/topics/2026070300015/#giketsukekka"
+        },
+        {
+          "label": "市公式の2026年提出議案",
+          "url": "https://www.city.kawaguchi.lg.jp/soshiki/01030/010/010/50469.html"
+        },
+        {
+          "label": "市議会が送付した意見書",
+          "url": "https://kawaguchi.gsl-service.net/doc/2016021300027/"
         }
       ]
     },
@@ -806,13 +822,13 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "放課後児童クラブ、浸水対策の補正、避難所の備えの確認と国への意見書等を収録。"
         }
       },
       "sources": [
         {
-          "label": "対象会期の公式案内",
+          "label": "市議会公式・秋の定例会資料",
           "url": "https://kawaguchi.gsl-service.net/topics/2026100100011/"
         },
         {
@@ -826,6 +842,14 @@ GIKAI.coverage2026 = {
         {
           "label": "議会公式の審議結果一覧",
           "url": "https://kawaguchi.gsl-service.net/topics/2026100100011/#giketsukekka"
+        },
+        {
+          "label": "市公式の2026年提出議案",
+          "url": "https://www.city.kawaguchi.lg.jp/soshiki/01030/010/010/50469.html"
+        },
+        {
+          "label": "市議会が送付した意見書",
+          "url": "https://kawaguchi.gsl-service.net/doc/2016021300027/"
         }
       ]
     },
@@ -33187,7 +33211,13 @@ GIKAI.coverage2026 = {
       "resultLocator": "公式議決結果表 1頁・議決番号13",
       "number": "議案第13号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "archiveId": "b475f9982b12af671573",
+      "blocks": [
+        9,
+        34,
+        35
+      ]
     },
     {
       "place": "川口市",
@@ -33262,7 +33292,12 @@ GIKAI.coverage2026 = {
       "resultLocator": "公式議決結果表 1頁・議決番号18",
       "number": "議案第18号",
       "voteNote": "提出日 2026-02-24。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "archiveId": "9a708d5d218c92c3680f",
+      "blocks": [
+        50,
+        51
+      ]
     },
     {
       "place": "川口市",
@@ -34069,7 +34104,13 @@ GIKAI.coverage2026 = {
       "sourceType": "公式議決結果",
       "date": "2026-03-23",
       "resultLocator": "公式議決結果表 5頁",
-      "number": "請願第1号"
+      "number": "請願第1号",
+      "archiveId": "9a708d5d218c92c3680f",
+      "blocks": [
+        67,
+        78,
+        79
+      ]
     },
     {
       "place": "川口市",
@@ -34849,7 +34890,12 @@ GIKAI.coverage2026 = {
       "resultLocator": "公式議決結果表 3頁・議決番号123",
       "number": "議案第122号",
       "voteNote": "提出日 2026-06-30。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "archiveId": "dfe78aa63298e3467dea",
+      "blocks": [
+        128,
+        129
+      ]
     },
     {
       "place": "川口市",
@@ -34876,7 +34922,14 @@ GIKAI.coverage2026 = {
       "date": "2026-06-30",
       "resultLocator": "公式議決結果表 4頁・議決番号125",
       "number": "議員提出議案第2号",
-      "voteNote": "提出日 2026-06-30。"
+      "voteNote": "提出日 2026-06-30。",
+      "archiveId": "dfe78aa63298e3467dea",
+      "blocks": [
+        150,
+        153,
+        157,
+        158
+      ]
     },
     {
       "place": "川口市",
@@ -34905,7 +34958,12 @@ GIKAI.coverage2026 = {
       "resultLocator": "公式議決結果表 1頁・議決番号127",
       "number": "議案第123号",
       "voteNote": "提出日 2026-09-01。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "archiveId": "d6757eb6e6ddbfd65854",
+      "blocks": [
+        47,
+        48
+      ]
     },
     {
       "place": "川口市",
@@ -34980,7 +35038,14 @@ GIKAI.coverage2026 = {
       "resultLocator": "公式議決結果表 1頁・議決番号132",
       "number": "議案第128号",
       "voteNote": "提出日 2026-09-01。",
-      "proposer": "市長"
+      "proposer": "市長",
+      "archiveId": "d6757eb6e6ddbfd65854",
+      "blocks": [
+        44,
+        49,
+        50,
+        51
+      ]
     },
     {
       "place": "川口市",
@@ -35324,7 +35389,14 @@ GIKAI.coverage2026 = {
       "date": "2026-09-29",
       "resultLocator": "公式議決結果表 3頁・議決番号155",
       "number": "議員提出議案第4号",
-      "voteNote": "提出日 2026-09-29。"
+      "voteNote": "提出日 2026-09-29。",
+      "archiveId": "d6757eb6e6ddbfd65854",
+      "blocks": [
+        84,
+        87,
+        91,
+        92
+      ]
     },
     {
       "place": "所沢市",
