@@ -2555,7 +2555,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "partial",
-          "note": "第256号の一般質問12人・39問答、議案質疑10問答、その他の見出しと補足17件を収録。公式通告８頁、一般質問12本と議案質疑14本の公式録画を照合。正式会議録は確認中。"
+          "note": "第256号の一般質問12人・39問答、議案質疑10問答、その他の見出しと補足17件を収録。公式通告８頁、一般質問12本と議案質疑14本の公式録画を照合。正式会議録は確認中。 公式録画の機械文字起こし議案質疑11本・一般質問1本を収録。"
         },
         "decisions": {
           "state": "verified",
@@ -5399,7 +5399,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "partial",
-          "note": "第127号PDF４～６頁の17人・17主題の質問と答弁、決算討論・委員会報告などを原紙面と照合。公式通告全２頁は17人・44項目。９月15日６人・16日６人・17日５人を公式録画・通告と照合。正式会議録は11月25日の年別目次で未掲載。"
+          "note": "第127号PDF４～６頁の17人・17主題の質問と答弁、決算討論・委員会報告などを原紙面と照合。公式通告全２頁は17人・44項目。９月15日６人・16日６人・17日５人を公式録画・通告と照合。正式会議録は11月25日の年別目次で未掲載。 公式録画の機械文字起こし一般質問7本を収録。"
         },
         "decisions": {
           "state": "verified",
@@ -5771,7 +5771,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "partial",
-          "note": "第207号で議員15人・15主題の質問と答弁、議案・決算の14問答、補足13件を原紙面と照合。公式通告19頁、公式録画で9/14の２人、15・16日の各６人、17日の１人を照合。速報版は市が11月下旬予定と案内しており、正式会議録は確認中。"
+          "note": "第207号で議員15人・15主題の質問と答弁、議案・決算の14問答、補足13件を原紙面と照合。公式通告19頁、公式録画で9/14の２人、15・16日の各６人、17日の１人を照合。速報版は市が11月下旬予定と案内しており、正式会議録は確認中。 公式録画の機械文字起こし一般質問12本を収録。"
         },
         "decisions": {
           "state": "verified",
@@ -6811,7 +6811,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "partial",
-          "note": "第211号の一般質問14人・17主題・26問答と、委員会・決算の17問答、討論14件などを原紙面と照合。一般質問通告23頁と議案質疑通告21頁、９月16～18日の公式録画14人。正式会議録は議会だより第211号によると12月上旬提供予定。"
+          "note": "第211号の一般質問14人・17主題・26問答と、委員会・決算の17問答、討論14件などを原紙面と照合。一般質問通告23頁と議案質疑通告21頁、９月16～18日の公式録画14人。正式会議録は議会だより第211号によると12月上旬提供予定。 公式録画の機械文字起こし一般質問7本を収録。"
         },
         "decisions": {
           "state": "verified",
@@ -8635,7 +8635,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "partial",
-          "note": "第14号の一般質問11人39問答、見出しのみ15項目、委員会質疑14組、議案審議・討論を原紙面と照合。９月３日６人・４日５人の公式録画目録に大項目32件。正式会議録は確認中。"
+          "note": "第14号の一般質問11人39問答、見出しのみ15項目、委員会質疑14組、議案審議・討論を原紙面と照合。９月３日６人・４日５人の公式録画目録に大項目32件。正式会議録は確認中。 公式録画の機械文字起こし一般質問11本を収録。"
         },
         "decisions": {
           "state": "verified",
@@ -8783,7 +8783,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "partial",
-          "note": "第174号の一般質問９人34問答、決算審議10問答、所管事務調査３問答、討論と視察等。公式通告９人10頁、公式音声は９月２日４人、３日５人。正式会議録は確認中。"
+          "note": "第174号の一般質問９人34問答、決算審議10問答、所管事務調査３問答、討論と視察等。公式通告９人10頁、公式音声は９月２日４人、３日５人。正式会議録は確認中。 公式録画の機械文字起こし一般質問7本を収録。"
         },
         "decisions": {
           "state": "verified",
@@ -8963,11 +8963,11 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "partial",
-          "note": "議会だより第83号全冊と一般質問通告。紙面には９人の質問と答弁の要約を掲載。2026年11月26日確認時点で、公式会議録の年別目録に秋の掲載なし。"
+          "note": "議会だより第83号全冊と一般質問通告。紙面には９人の質問と答弁の要約を掲載。2026年11月26日確認時点で、公式会議録の年別目録に秋の掲載なし。 公式録画は一般質問９本と議事４本。機械文字起こしは一般質問4本・議事1本を収録。"
         },
         "decisions": {
           "state": "partial",
-          "note": "公式紙面の審議結果25件。原表に案件別の日付欄なし。"
+          "note": "公式紙面の審議結果25件。庁舎統合検討特別委員会の設置と委員選任は９月２日の録画に対応。原表の案件別日付欄なし。"
         },
         "votes": {
           "state": "verified",
@@ -9010,6 +9010,14 @@ GIKAI.coverage2026 = {
         {
           "label": "議会だより第83号の審議結果・表決",
           "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9"
+        },
+        {
+          "label": "秋の公式録画一覧（一般質問９・議事４）",
+          "url": "https://smart.discussvision.net/smart/tenant/tokigawa/WebView/rd/council.html?year=2026&council_id=49"
+        },
+        {
+          "label": "９月２日の本会議録画・庁舎統合検討特別委員会",
+          "url": "https://smart.discussvision.net/smart/tenant/tokigawa/WebView/rd/speech.html?council_id=49&schedule_id=2&playlist_id=5&speaker_id=0&target_year=2026"
         }
       ]
     },
@@ -139854,12 +139862,12 @@ GIKAI.coverage2026 = {
       "season": "fall",
       "session": "令和8年第3回定例会",
       "number": "議員提出議案第1号",
-      "date": "",
+      "date": "2026-09-02",
       "title": "庁舎統合検討特別委員会の設置",
       "result": "可決",
       "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "url": "https://smart.discussvision.net/smart/tenant/tokigawa/WebView/rd/speech.html?council_id=49&schedule_id=2&playlist_id=5&speaker_id=0&target_year=2026",
+      "sourceTitle": "ときがわ町議会・９月２日の公式録画",
       "proposer": "議員提出",
       "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
       "voteType": "記名",
@@ -139876,19 +139884,19 @@ GIKAI.coverage2026 = {
         "野原和夫": "賛成",
         "小宮正": "議長（表決不参加）"
       },
-      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+      "voteNote": "９月２日の町議会の公式録画と、議会だより第83号の紙面結果を照合。"
     },
     {
       "place": "ときがわ町",
       "season": "fall",
       "session": "令和8年第3回定例会",
       "number": "選任第3号",
-      "date": "",
+      "date": "2026-09-02",
       "title": "特別委員会委員の選任",
       "result": "選任",
       "resultURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
-      "sourceTitle": "ときがわ町議会だより・審議結果",
+      "url": "https://smart.discussvision.net/smart/tenant/tokigawa/WebView/rd/speech.html?council_id=49&schedule_id=2&playlist_id=5&speaker_id=0&target_year=2026",
+      "sourceTitle": "ときがわ町議会・９月２日の公式録画",
       "proposer": "本会議で選任",
       "voteURL": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf#page=9",
       "voteType": "記名",
@@ -139905,7 +139913,7 @@ GIKAI.coverage2026 = {
         "野原和夫": "賛成",
         "小宮正": "議長（表決不参加）"
       },
-      "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+      "voteNote": "９月２日の町議会の公式録画と、議会だより第83号の紙面結果を照合。 録画の機械文字起こしでは、議長指名と異議の有無で選任。議員別欄は紙面の表記。"
     },
     {
       "place": "ときがわ町",
