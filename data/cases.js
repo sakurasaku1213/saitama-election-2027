@@ -16341,3 +16341,636 @@ GIKAI.cases.push(...[
     "note": "議員の討論参加は録画目録、議会の結論は市の陳情審議結果を参照。"
   }
 ]);
+
+GIKAI.cases.push(...[
+  {
+    "place": "深谷市",
+    "title": "国保税率の見直し、賛否の討論と６月の低所得世帯向け軽減",
+    "topic": "国民健康保険・税",
+    "actors": [
+      "鈴木三男",
+      "湯本哲昭",
+      "柿澤祐介",
+      "深谷市",
+      "深谷市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-16",
+        "stage": "税率改定案を討論し可決",
+        "actor": "鈴木三男、湯本哲昭、深谷市議会",
+        "detail": "所得割・均等割を改定し、医療給付費分の資産割と平等割を廃止する案を可決した。",
+        "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=902&schedule_id=7",
+        "sourceTitle": "深谷市議会・03月16日－06号",
+        "archiveId": "336570a9f92d2690b659",
+        "blocks": [
+          44,
+          45,
+          47,
+          51,
+          52
+        ],
+        "memberActions": [
+          {
+            "name": "鈴木三男",
+            "detail": "負担増の世帯数と見込額を示し、被保険者の負担を理由に反対討論した。",
+            "blocks": [
+              45
+            ]
+          },
+          {
+            "name": "湯本哲昭",
+            "detail": "県の税率統一の方針と国保運営の安定化を挙げて賛成討論した。",
+            "blocks": [
+              47
+            ]
+          }
+        ],
+        "billNumber": "議案第3号"
+      },
+      {
+        "date": "2026-04-01",
+        "stage": "市が2026年度の税率と計算方法を公表",
+        "actor": "深谷市",
+        "detail": "医療分・後期高齢者支援金分・介護分と子ども・子育て支援納付金分の率・額を掲載。",
+        "url": "https://www.city.fukaya.saitama.jp/soshiki/shiminseikatsu/hokennenkin/tanto/kokuminkenkohoken/1391400734747.html",
+        "sourceTitle": "深谷市・年度別国保税"
+      },
+      {
+        "date": "2026-06-22",
+        "stage": "低所得世帯への軽減判定の変更を承認",
+        "actor": "柿澤祐介、深谷市議会",
+        "detail": "３月の税率改定と別の専決処分。市は判定基準の変更による新たな対象を59世帯・約281万円と試算。",
+        "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=911&schedule_id=7",
+        "sourceTitle": "深谷市議会・06月22日－06号",
+        "archiveId": "2b07d4afc1de24a43207",
+        "blocks": [
+          11,
+          21,
+          23,
+          24,
+          25
+        ],
+        "memberActions": [
+          {
+            "name": "柿澤祐介",
+            "detail": "総務委員長として判定基準改定の試算など委員会審査を報告した。",
+            "blocks": [
+              11
+            ]
+          }
+        ],
+        "billNumber": "報告第2号"
+      }
+    ],
+    "note": "新税率の公表と専決処分の承認を確認。討論・委員会報告中の世帯数は試算。"
+  },
+  {
+    "place": "深谷市",
+    "title": "こども誰でも通園制度、運営基準・利用者負担と秋の基準改定",
+    "topic": "子育て・保育",
+    "actors": [
+      "佐久間奈々",
+      "田島秀興",
+      "繋由香",
+      "坂本博",
+      "深谷市",
+      "深谷市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-16",
+        "stage": "運営基準条例を可決",
+        "actor": "佐久間奈々、田島秀興、深谷市議会",
+        "detail": "新制度に対応した運営基準を可決。賛否の討論では、保育現場への負担と子育て家庭の支援が論点となった。",
+        "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=902&schedule_id=7",
+        "sourceTitle": "深谷市議会・03月16日－06号",
+        "archiveId": "336570a9f92d2690b659",
+        "blocks": [
+          58,
+          60,
+          62,
+          66,
+          67
+        ],
+        "memberActions": [
+          {
+            "name": "佐久間奈々",
+            "detail": "受入れ体制の負担などを理由に制度と基準条例に反対討論した。",
+            "blocks": [
+              60
+            ]
+          },
+          {
+            "name": "田島秀興",
+            "detail": "子どもと保護者への支援の意義や事業者の運営基準の必要性を説明し賛成討論した。",
+            "blocks": [
+              62
+            ]
+          }
+        ],
+        "billNumber": "議案第5号"
+      },
+      {
+        "date": "2026-03-16",
+        "stage": "１時間300円の利用者負担を条例化",
+        "actor": "佐久間奈々、繋由香、深谷市議会",
+        "detail": "市の利用者負担が子ども１人１時間300円となる条例を可決。",
+        "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=902&schedule_id=7",
+        "sourceTitle": "深谷市議会・03月16日－06号",
+        "archiveId": "336570a9f92d2690b659",
+        "blocks": [
+          193,
+          195,
+          197,
+          201,
+          202
+        ],
+        "memberActions": [
+          {
+            "name": "佐久間奈々",
+            "detail": "制度への反対を踏まえ、利用者負担条例に反対した。",
+            "blocks": [
+              195
+            ]
+          },
+          {
+            "name": "繋由香",
+            "detail": "月10時間の制度と１時間300円の負担の内容を説明し賛成討論した。",
+            "blocks": [
+              197
+            ]
+          }
+        ],
+        "billNumber": "議案第28号"
+      },
+      {
+        "date": "2026-04-01",
+        "stage": "就労要件を問わない利用制度を開始",
+        "actor": "深谷市",
+        "detail": "市の案内で対象、認定申請、施設利用手順を確認。未就園の生後６か月から満３歳未満が月10時間まで。",
+        "url": "https://www.city.fukaya.saitama.jp/soshiki/kodomomirai/hoiku/tanto/hoikushisetsu/19823.html",
+        "sourceTitle": "深谷市・利用案内"
+      },
+      {
+        "date": "2026-09-25",
+        "stage": "設備・運営基準の一部改正を可決",
+        "actor": "坂本博、深谷市議会",
+        "detail": "９月に乳児等通園支援事業の設備・運営基準の改正を議決した。",
+        "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=918&schedule_id=7",
+        "sourceTitle": "深谷市議会・09月25日－06号",
+        "archiveId": "869e420b26edd2b7210b",
+        "blocks": [
+          15,
+          92,
+          93,
+          95,
+          96
+        ],
+        "memberActions": [
+          {
+            "name": "坂本博",
+            "detail": "福祉文教委員長として、改正案の審査結果を報告した。",
+            "blocks": [
+              15
+            ]
+          }
+        ],
+        "billNumber": "議案第57号"
+      }
+    ],
+    "note": "制度開始と秋の基準改定を確認。現場の受入体制と利用実績は確認待ち。"
+  },
+  {
+    "place": "深谷市",
+    "title": "こどもふっかパーク、車椅子利用や意見収集の質疑から開館へ",
+    "topic": "子育て・公共施設",
+    "actors": [
+      "繋由香",
+      "深谷市",
+      "深谷市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-10",
+        "stage": "障害のある子の利用と開館後の意見収集を質問",
+        "actor": "繋由香、深谷市",
+        "detail": "市は車椅子でも届く遊具や広い共有スペースを整えたと答弁。開館後の利用者対応についても答えた。",
+        "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=902&schedule_id=4",
+        "sourceTitle": "深谷市議会・03月10日－03号",
+        "archiveId": "9f3abd0b1d655d7e3315",
+        "blocks": [
+          180,
+          184,
+          202,
+          204
+        ],
+        "memberActions": [
+          {
+            "name": "繋由香",
+            "detail": "遊具や設備の配慮を質し、利用者が意見を寄せられる仕組みを具体的に提案した。",
+            "blocks": [
+              180,
+              202
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-04-01",
+        "stage": "こどもふっかパークが開館",
+        "actor": "深谷市",
+        "detail": "市の公式アカウント一覧が開館日を報告。市の利用案内には一時預かりの実施施設としても掲載。",
+        "url": "https://www.city.fukaya.saitama.jp/soshiki/hisho/hisho/tanto/koho_pr/1439446568806.html",
+        "sourceTitle": "深谷市・公式施設案内"
+      }
+    ],
+    "note": "開館と設計上の具体的な配慮を確認。意見収集の提案への実施対応は確認待ち。"
+  },
+  {
+    "place": "深谷市",
+    "title": "深谷消防署花園分署の建替え、建設計画と工事契約３件",
+    "topic": "消防・公共事業",
+    "actors": [
+      "柿澤祐介",
+      "深谷市",
+      "深谷市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-02",
+        "stage": "新年度の建設着手と2029年１月の運用を計画",
+        "actor": "深谷市",
+        "detail": "現敷地内で花園分署を建て替える方針を施政・予算資料で公表。",
+        "url": "https://www.city.fukaya.saitama.jp/soshiki/hisho/hisho/tanto/sicyo/shityokisyakaikenhappyo/kisyakaikenR7/19695.html",
+        "sourceTitle": "深谷市・２月市長会見"
+      },
+      {
+        "date": "2026-06-22",
+        "stage": "建築・電気・機械の工事契約を可決",
+        "actor": "柿澤祐介、深谷市議会",
+        "detail": "花園分署の建築ほか、電気設備、機械設備の３工事（議案第41～43号）を可決。",
+        "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=911&schedule_id=7",
+        "sourceTitle": "深谷市議会・06月22日－06号",
+        "archiveId": "2b07d4afc1de24a43207",
+        "blocks": [
+          11,
+          56,
+          57,
+          60,
+          61,
+          65,
+          66,
+          70
+        ],
+        "memberActions": [
+          {
+            "name": "柿澤祐介",
+            "detail": "総務委員長として、建築工事の入札と失格理由を含む審査概要を報告した。",
+            "blocks": [
+              11
+            ]
+          }
+        ],
+        "billNumber": "議案第41号"
+      },
+      {
+        "date": "2026-06-23",
+        "stage": "市の工事案内に記載された契約期間の初日",
+        "actor": "深谷市",
+        "detail": "建築・電気・機械を対象とする工事案内では、契約期間は2026年６月23日から2028年12月28日、工事期間は８月上旬から。",
+        "url": "https://www.city.fukaya.saitama.jp/material/files/group/9/hukayashouboushohanazonobunshokensetukouji.pdf",
+        "sourceTitle": "深谷市・花園分署建設工事の回覧原文"
+      },
+      {
+        "date": "2026-08-31",
+        "stage": "市が建替えに向けた前年度の取組を報告",
+        "actor": "深谷市",
+        "detail": "８月31日の決算説明で、市は2025年度の施策として花園分署の建替え整備への着手を挙げた。",
+        "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=918&schedule_id=2",
+        "sourceTitle": "深谷市議会・08月31日－01号",
+        "archiveId": "a63d103e9a4e804e737f",
+        "blocks": [
+          27
+        ]
+      }
+    ],
+    "note": "工事契約の可決を確認。新庁舎の現場着工日と運用開始は確認待ち。"
+  },
+  {
+    "place": "深谷市",
+    "title": "旧煉瓦製造施設の管理活用棟、入札をめぐる討論から契約期間まで",
+    "topic": "文化財・契約",
+    "actors": [
+      "柿澤祐介",
+      "小泉誠",
+      "深谷市",
+      "深谷市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-07",
+        "stage": "管理活用棟の建設計画を市が公表",
+        "actor": "深谷市",
+        "detail": "ホフマン輪窯６号窯の保存修理に続き、管理活用棟の建設を計画。",
+        "url": "https://www.city.fukaya.saitama.jp/soshiki/hisho/hisho/tanto/sicyo/shityokisyakaikenhappyo/kisyakaikenR8/20071.html",
+        "sourceTitle": "深谷市・７月市長会見"
+      },
+      {
+        "date": "2026-09-25",
+        "stage": "入札の条件と競争性を討論し、契約を可決",
+        "actor": "柿澤祐介、小泉誠、深谷市議会",
+        "detail": "小泉議員は委員会審査後に入札を再検討して本会議で反対。原表でも小泉議員は反対。",
+        "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=918&schedule_id=7",
+        "sourceTitle": "深谷市議会・09月25日－06号",
+        "archiveId": "869e420b26edd2b7210b",
+        "blocks": [
+          13,
+          107,
+          109,
+          111,
+          113,
+          115
+        ],
+        "memberActions": [
+          {
+            "name": "柿澤祐介",
+            "detail": "総務委員長として、入札の競争性への質問と執行部の説明を含む審査を報告した。",
+            "blocks": [
+              13
+            ]
+          },
+          {
+            "name": "小泉誠",
+            "detail": "入札参加者数などを検討し、委員会での賛成から本会議では反対に判断を変更したと討論した。",
+            "blocks": [
+              109
+            ]
+          }
+        ],
+        "billNumber": "議案第62号"
+      },
+      {
+        "date": "2026-09-28",
+        "stage": "回覧原文に記載された契約期間の初日",
+        "actor": "深谷市",
+        "detail": "契約期間は2026年９月28日から2028年１月24日まで。回覧原文の実工期は2026年11月上旬から2028年１月中旬。",
+        "url": "https://www.city.fukaya.saitama.jp/material/files/group/9/kyuurengaseizousisetukanrikatuyoutoukennsetutoukouji.pdf",
+        "sourceTitle": "深谷市・管理活用棟建設工事の回覧原文"
+      }
+    ],
+    "note": "契約と工事案内を確認。工事完成と再公開は確認待ち。"
+  },
+  {
+    "place": "深谷市",
+    "title": "小中学校の暑さ対策、製氷機の調達仕様と全普通教室の冷凍庫取得",
+    "topic": "教育・暑さ対策",
+    "actors": [
+      "鈴木三男",
+      "深谷市",
+      "深谷市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-08-31",
+        "stage": "製氷機の仕様を審議し取得を可決",
+        "actor": "鈴木三男、深谷市、深谷市議会",
+        "detail": "市がアイスディスペンサー・保健室の製氷機の用途と納入契約を説明。入札でのメーカー指定について答弁した。",
+        "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=918&schedule_id=2",
+        "sourceTitle": "深谷市議会・08月31日－01号",
+        "archiveId": "a63d103e9a4e804e737f",
+        "blocks": [
+          55,
+          57,
+          59,
+          78,
+          80,
+          82,
+          84,
+          104,
+          105
+        ],
+        "memberActions": [
+          {
+            "name": "鈴木三男",
+            "detail": "製氷機の入札で機種・メーカーがどのように指定されたかを質した。",
+            "blocks": [
+              78,
+              82
+            ]
+          }
+        ],
+        "billNumber": "議案第60号"
+      },
+      {
+        "date": "2026-08-31",
+        "stage": "小中学校の普通教室用冷凍庫の取得を可決",
+        "actor": "深谷市議会",
+        "detail": "市は小学校19校262台、中学校10校123台、計385台を全ての普通教室に１台ずつ設置する計画を説明した。",
+        "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=918&schedule_id=2",
+        "sourceTitle": "深谷市議会・08月31日－01号",
+        "archiveId": "a63d103e9a4e804e737f",
+        "blocks": [
+          59,
+          106,
+          112
+        ],
+        "billNumber": "議案第61号"
+      }
+    ],
+    "note": "備品の購入議決を確認。学校ごとの設置完了、利用状況は確認待ち。"
+  },
+  {
+    "place": "深谷市",
+    "title": "核兵器禁止条約の第１回再検討会議、請願採択から議員提出意見書へ",
+    "topic": "請願・意見書",
+    "actors": [
+      "小林真",
+      "繋由香",
+      "柿澤祐介",
+      "鈴木三男",
+      "清水健一",
+      "角田義徳",
+      "茂木一郎",
+      "加藤利江",
+      "五間くみ子",
+      "高田博之",
+      "深谷市",
+      "深谷市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-06-22",
+        "stage": "請願に対する２人の賛成討論と採択",
+        "actor": "小林真、繋由香、深谷市議会",
+        "detail": "オブザーバー参加を政府に要請する意見書の提出を求める請願。表決原表に富田勝議員の棄権。",
+        "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=911&schedule_id=7",
+        "sourceTitle": "深谷市議会・06月22日－06号",
+        "archiveId": "2b07d4afc1de24a43207",
+        "blocks": [
+          82,
+          84,
+          87,
+          90,
+          91
+        ],
+        "memberActions": [
+          {
+            "name": "小林真",
+            "detail": "市民団体の取組を紹介し、政府への参加要請を求め賛成討論した。",
+            "blocks": [
+              84
+            ]
+          },
+          {
+            "name": "繋由香",
+            "detail": "核保有国と非保有国の対話を求め、オブザーバー参加要請への賛成を述べた。",
+            "blocks": [
+              87
+            ]
+          }
+        ],
+        "billNumber": "請願第12号"
+      },
+      {
+        "date": "2026-06-22",
+        "stage": "議員提出案を提出",
+        "actor": "柿澤祐介、鈴木三男、清水健一、角田義徳、茂木一郎、加藤利江、五間くみ子、高田博之",
+        "detail": "オブザーバー参加を求める意見書案を正式に提出した。",
+        "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=911&schedule_id=7",
+        "sourceTitle": "深谷市議会・提出原文の朗読",
+        "memberActions": [
+          {
+            "name": "柿澤祐介",
+            "detail": "オブザーバー参加を求める意見書案を正式に提出した。"
+          },
+          {
+            "name": "鈴木三男",
+            "detail": "提出原文の賛成者欄に記載。"
+          },
+          {
+            "name": "清水健一",
+            "detail": "提出原文の賛成者欄に記載。"
+          },
+          {
+            "name": "角田義徳",
+            "detail": "提出原文の賛成者欄に記載。"
+          },
+          {
+            "name": "茂木一郎",
+            "detail": "提出原文の賛成者欄に記載。"
+          },
+          {
+            "name": "加藤利江",
+            "detail": "提出原文の賛成者欄に記載。"
+          },
+          {
+            "name": "五間くみ子",
+            "detail": "提出原文の賛成者欄に記載。"
+          },
+          {
+            "name": "高田博之",
+            "detail": "提出原文の賛成者欄に記載。"
+          }
+        ]
+      },
+      {
+        "date": "2026-06-22",
+        "stage": "意見書を可決し、取扱いを議長に一任",
+        "actor": "深谷市議会",
+        "detail": "本会議で原案可決。市の表決原表には富田勝議員の棄権が掲載されている。",
+        "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=911&schedule_id=7",
+        "sourceTitle": "深谷市議会・06月22日－06号",
+        "archiveId": "2b07d4afc1de24a43207",
+        "blocks": [
+          162,
+          168,
+          172,
+          175,
+          176
+        ],
+        "billNumber": "議第3号"
+      }
+    ],
+    "note": "請願採択と意見書議決、取扱いの一任を確認。送付日と宛先への到達は確認待ち。"
+  },
+  {
+    "place": "深谷市",
+    "title": "委員会の投票システムを会議規則に追加、議員提案と可決",
+    "topic": "議会運営・会議規則",
+    "actors": [
+      "清水健一",
+      "鈴木三男",
+      "角田義徳",
+      "富田勝",
+      "茂木一郎",
+      "加藤利江",
+      "五間くみ子",
+      "高田博之",
+      "深谷市",
+      "深谷市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-06-22",
+        "stage": "議員提出案を提出",
+        "actor": "清水健一、鈴木三男、角田義徳、富田勝、茂木一郎、加藤利江、五間くみ子、高田博之",
+        "detail": "委員会の投票システムによる表決や記名・無記名投票の手順を定める規則案を提出した。",
+        "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=911&schedule_id=7",
+        "sourceTitle": "深谷市議会・提出原文の朗読",
+        "memberActions": [
+          {
+            "name": "清水健一",
+            "detail": "委員会の投票システムによる表決や記名・無記名投票の手順を定める規則案を提出した。"
+          },
+          {
+            "name": "鈴木三男",
+            "detail": "提出原文の賛成者欄に記載。"
+          },
+          {
+            "name": "角田義徳",
+            "detail": "提出原文の賛成者欄に記載。"
+          },
+          {
+            "name": "富田勝",
+            "detail": "提出原文の賛成者欄に記載。"
+          },
+          {
+            "name": "茂木一郎",
+            "detail": "提出原文の賛成者欄に記載。"
+          },
+          {
+            "name": "加藤利江",
+            "detail": "提出原文の賛成者欄に記載。"
+          },
+          {
+            "name": "五間くみ子",
+            "detail": "提出原文の賛成者欄に記載。"
+          },
+          {
+            "name": "高田博之",
+            "detail": "提出原文の賛成者欄に記載。"
+          }
+        ]
+      },
+      {
+        "date": "2026-06-22",
+        "stage": "本会議で会議規則の改正を可決",
+        "actor": "深谷市議会",
+        "detail": "委員長が必要と認めた場合の投票システムでの表決と、記名投票等の手順を規定した。",
+        "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=911&schedule_id=7",
+        "sourceTitle": "深谷市議会・06月22日－06号",
+        "archiveId": "2b07d4afc1de24a43207",
+        "blocks": [
+          141,
+          146,
+          149,
+          151,
+          152
+        ],
+        "billNumber": "議第2号"
+      }
+    ],
+    "note": "発議と可決を確認。個別の委員会で実際にシステムを用いた回は確認待ち。"
+  }
+]);

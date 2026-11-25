@@ -33744,6 +33744,42 @@ GIKAI.questionText = {
       ]
     },
     {
+      "place": "深谷市",
+      "season": "spring",
+      "date": "2026-02-19",
+      "title": "令和8年第1回定例会 一般質問 通告一覧表",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=903&schedule_id=1",
+      "note": "深谷市の公開会議録目録に掲載された公式資料。一般質問の発言と答弁は日別会議録に掲載。",
+      "id": "1ffbf440b57b632e9a02",
+      "speakers": []
+    },
+    {
+      "place": "深谷市",
+      "season": "spring",
+      "date": "2026-02-19",
+      "title": "令和8年第1回定例会 目次",
+      "kind": "公式会議録の付録（HTML）",
+      "scope": "summary",
+      "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=902&schedule_id=1",
+      "note": "市公式の会議録付録。元の表の列とページ番号は公式原典で確認できます。",
+      "id": "3623005fddf53a43b1af",
+      "speakers": []
+    },
+    {
+      "place": "深谷市",
+      "season": "spring",
+      "date": "2026-02-19",
+      "title": "令和8年第1回定例会　一般質問通告（公式PDF）",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "url": "https://www.city.fukaya.saitama.jp/material/files/group/2/0803situmon_1.pdf",
+      "note": "市議会が公開した公式PDFを頁順に収録。",
+      "id": "79b311ce97708dd3791f",
+      "speakers": []
+    },
+    {
       "id": "78f2788427f9d8facf17",
       "place": "深谷市",
       "season": "spring",
@@ -33983,6 +34019,66 @@ GIKAI.questionText = {
       ]
     },
     {
+      "place": "深谷市",
+      "season": "spring",
+      "date": "2026-03-16",
+      "title": "令和8年第1回定例会 人事関係 人事関係",
+      "kind": "公式会議録の付録（HTML）",
+      "scope": "summary",
+      "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=904&schedule_id=1",
+      "note": "市公式の会議録付録。元の表の列とページ番号は公式原典で確認できます。",
+      "id": "cd81d1dce53560b347c9",
+      "speakers": []
+    },
+    {
+      "place": "深谷市",
+      "season": "spring",
+      "date": "2026-03-16",
+      "title": "令和8年第1回定例会 議案の処理状況 処理状況",
+      "kind": "公式会議録の付録（HTML）",
+      "scope": "summary",
+      "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=905&schedule_id=1",
+      "note": "市公式の会議録付録。元の表の列とページ番号は公式原典で確認できます。",
+      "id": "d37733af7f795cf029d1",
+      "speakers": []
+    },
+    {
+      "place": "深谷市",
+      "season": "spring",
+      "date": "2026-03-16",
+      "title": "令和8年第1回定例会 議案件名等一覧表及び処理結果 処理結果",
+      "kind": "公式会議録の付録（HTML）",
+      "scope": "summary",
+      "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=906&schedule_id=1",
+      "note": "市公式の会議録付録。元の表の列とページ番号は公式原典で確認できます。",
+      "id": "a34a4b8310463b5a175f",
+      "speakers": []
+    },
+    {
+      "place": "深谷市",
+      "season": "spring",
+      "date": "2026-03-16",
+      "title": "令和8年第1回定例会　本会議討論（公式PDF）",
+      "kind": "本会議討論（公式資料・OCR）",
+      "scope": "summary",
+      "url": "https://www.city.fukaya.saitama.jp/material/files/group/2/reiwahachinennsanngatutouron.pdf",
+      "note": "市議会が公開した公式PDFを頁順に収録。",
+      "id": "a82a311b5f55f6996224",
+      "speakers": []
+    },
+    {
+      "place": "深谷市",
+      "season": "spring",
+      "date": "2026-05",
+      "title": "ふかや市議会だより第82号",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "url": "https://www.city.fukaya.saitama.jp/material/files/group/2/82page-all.pdf",
+      "note": "公式の議会だより全ページ。頁番号は見開きを含む原本PDFの物理頁。",
+      "id": "f8b5586c1fce80d0a530",
+      "speakers": []
+    },
+    {
       "id": "dcb914cfa3864655dfce",
       "place": "深谷市",
       "season": "summer",
@@ -34002,6 +34098,42 @@ GIKAI.questionText = {
         "田島秀興",
         "高田博之"
       ]
+    },
+    {
+      "place": "深谷市",
+      "season": "summer",
+      "date": "2026-06-02",
+      "title": "令和8年第2回定例会 一般質問 通告一覧表",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=912&schedule_id=1",
+      "note": "深谷市の公開会議録目録に掲載された公式資料。一般質問の発言と答弁は日別会議録に掲載。",
+      "id": "fa46868292b91c3cb88f",
+      "speakers": []
+    },
+    {
+      "place": "深谷市",
+      "season": "summer",
+      "date": "2026-06-02",
+      "title": "令和8年第2回定例会 目次",
+      "kind": "公式会議録の付録（HTML）",
+      "scope": "summary",
+      "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=911&schedule_id=1",
+      "note": "市公式の会議録付録。元の表の列とページ番号は公式原典で確認できます。",
+      "id": "e62c00047c7bcc7de36a",
+      "speakers": []
+    },
+    {
+      "place": "深谷市",
+      "season": "summer",
+      "date": "2026-06-02",
+      "title": "令和8年第2回定例会　一般質問通告（公式PDF）",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "url": "https://www.city.fukaya.saitama.jp/material/files/group/2/0806situmon_1.pdf",
+      "note": "市議会が公開した公式PDFを頁順に収録。",
+      "id": "ba926804bb5ef1ffce6d",
+      "speakers": []
     },
     {
       "id": "9befdd22793b2e4d2872",
@@ -34166,6 +34298,90 @@ GIKAI.questionText = {
       ]
     },
     {
+      "place": "深谷市",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "令和8年第2回定例会 人事関係 人事関係",
+      "kind": "公式会議録の付録（HTML）",
+      "scope": "summary",
+      "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=913&schedule_id=1",
+      "note": "市公式の会議録付録。元の表の列とページ番号は公式原典で確認できます。",
+      "id": "ba538e5afdf07b29fea0",
+      "speakers": []
+    },
+    {
+      "place": "深谷市",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "令和8年第2回定例会 請願の処理状況 処理状況",
+      "kind": "公式会議録の付録（HTML）",
+      "scope": "summary",
+      "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=914&schedule_id=1",
+      "note": "市公式の会議録付録。元の表の列とページ番号は公式原典で確認できます。",
+      "id": "0c546c8a364f8ee8ba18",
+      "speakers": []
+    },
+    {
+      "place": "深谷市",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "令和8年第2回定例会 請願件名等一覧表及び処理結果 処理結果",
+      "kind": "公式会議録の付録（HTML）",
+      "scope": "summary",
+      "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=915&schedule_id=1",
+      "note": "市公式の会議録付録。元の表の列とページ番号は公式原典で確認できます。",
+      "id": "88cae053827f891a1f1c",
+      "speakers": []
+    },
+    {
+      "place": "深谷市",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "令和8年第2回定例会 議案の処理状況 処理状況",
+      "kind": "公式会議録の付録（HTML）",
+      "scope": "summary",
+      "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=916&schedule_id=1",
+      "note": "市公式の会議録付録。元の表の列とページ番号は公式原典で確認できます。",
+      "id": "d7761fef9f742e70fc6e",
+      "speakers": []
+    },
+    {
+      "place": "深谷市",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "令和8年第2回定例会 議案件名等一覧表及び処理結果 処理結果",
+      "kind": "公式会議録の付録（HTML）",
+      "scope": "summary",
+      "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=917&schedule_id=1",
+      "note": "市公式の会議録付録。元の表の列とページ番号は公式原典で確認できます。",
+      "id": "b1ef8b39977270df148b",
+      "speakers": []
+    },
+    {
+      "place": "深谷市",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "令和8年第2回定例会　本会議討論（公式PDF）",
+      "kind": "本会議討論（公式資料・OCR）",
+      "scope": "summary",
+      "url": "https://www.city.fukaya.saitama.jp/material/files/group/2/rokugatutouron.pdf",
+      "note": "市議会が公開した公式PDFを頁順に収録。",
+      "id": "dc5c3b75f0557e12f0b0",
+      "speakers": []
+    },
+    {
+      "place": "深谷市",
+      "season": "summer",
+      "date": "2026-08",
+      "title": "ふかや市議会だより第83号",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "url": "https://www.city.fukaya.saitama.jp/material/files/group/2/83pageall.pdf",
+      "note": "公式の議会だより全ページ。頁番号は見開きを含む原本PDFの物理頁。",
+      "id": "9fd3804f05ddb3117282",
+      "speakers": []
+    },
+    {
       "id": "a63d103e9a4e804e737f",
       "place": "深谷市",
       "season": "fall",
@@ -34183,6 +34399,42 @@ GIKAI.questionText = {
         "清水健一",
         "鈴木三男"
       ]
+    },
+    {
+      "place": "深谷市",
+      "season": "fall",
+      "date": "2026-08-31",
+      "title": "令和8年第3回定例会 一般質問 通告一覧表",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=919&schedule_id=1",
+      "note": "深谷市の公開会議録目録に掲載された公式資料。一般質問の発言と答弁は日別会議録に掲載。",
+      "id": "597dcaf27019a15a1cd7",
+      "speakers": []
+    },
+    {
+      "place": "深谷市",
+      "season": "fall",
+      "date": "2026-08-31",
+      "title": "令和8年第3回定例会 目次",
+      "kind": "公式会議録の付録（HTML）",
+      "scope": "summary",
+      "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=918&schedule_id=1",
+      "note": "市公式の会議録付録。元の表の列とページ番号は公式原典で確認できます。",
+      "id": "97b0b0ca0820a3f0e067",
+      "speakers": []
+    },
+    {
+      "place": "深谷市",
+      "season": "fall",
+      "date": "2026-08-31",
+      "title": "令和8年第3回定例会　一般質問通告（公式PDF）",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "url": "https://www.city.fukaya.saitama.jp/material/files/group/2/0809situmon_1.pdf",
+      "note": "市議会が公開した公式PDFを頁順に収録。",
+      "id": "bc02c5a82a5780486655",
+      "speakers": []
     },
     {
       "id": "2d4a42dfa3c5c7c16e64",
@@ -34290,6 +34542,66 @@ GIKAI.questionText = {
         "茂木一郎",
         "鈴木三男"
       ]
+    },
+    {
+      "place": "深谷市",
+      "season": "fall",
+      "date": "2026-09-25",
+      "title": "令和8年第3回定例会 人事関係 人事関係",
+      "kind": "公式会議録の付録（HTML）",
+      "scope": "summary",
+      "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=920&schedule_id=1",
+      "note": "市公式の会議録付録。元の表の列とページ番号は公式原典で確認できます。",
+      "id": "3cb72b61d98170442252",
+      "speakers": []
+    },
+    {
+      "place": "深谷市",
+      "season": "fall",
+      "date": "2026-09-25",
+      "title": "令和8年第3回定例会 議案の処理状況 処理状況",
+      "kind": "公式会議録の付録（HTML）",
+      "scope": "summary",
+      "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=921&schedule_id=1",
+      "note": "市公式の会議録付録。元の表の列とページ番号は公式原典で確認できます。",
+      "id": "40365a870f18d0b00ebb",
+      "speakers": []
+    },
+    {
+      "place": "深谷市",
+      "season": "fall",
+      "date": "2026-09-25",
+      "title": "令和8年第3回定例会 議案件名等一覧表及び処理結果 処理結果",
+      "kind": "公式会議録の付録（HTML）",
+      "scope": "summary",
+      "url": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteView.html?tenant_id=40&council_id=922&schedule_id=1",
+      "note": "市公式の会議録付録。元の表の列とページ番号は公式原典で確認できます。",
+      "id": "95da00cafd159b7d9449",
+      "speakers": []
+    },
+    {
+      "place": "深谷市",
+      "season": "fall",
+      "date": "2026-09-25",
+      "title": "令和8年第3回定例会　本会議討論（公式PDF）",
+      "kind": "本会議討論（公式資料・OCR）",
+      "scope": "summary",
+      "url": "https://www.city.fukaya.saitama.jp/material/files/group/2/touronzenbunn.pdf",
+      "note": "市議会が公開した公式PDFを頁順に収録。",
+      "id": "21c483be921f54d5abbd",
+      "speakers": []
+    },
+    {
+      "place": "深谷市",
+      "season": "fall",
+      "date": "2026-11",
+      "title": "ふかや市議会だより第84号",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "url": "https://www.city.fukaya.saitama.jp/material/files/group/2/84pagea11.pdf",
+      "note": "公式の議会だより全ページ。頁番号は見開きを含む原本PDFの物理頁。",
+      "id": "7a9d0eab7d34c60ee374",
+      "speakers": []
     },
     {
       "id": "0470c167eb139bac075d",
@@ -42670,7 +42982,7 @@ GIKAI.questionText = {
       "season": "spring",
       "material": {
         "state": "verified",
-        "note": "公式目次と照合した本会議の日別会議録6資料を収録。公式一覧の委員会6資料も収録。",
+        "note": "公式本会議録６日分、委員会６日分、会議録付録と議会だより第82号等を収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteBrowse.html?tenant_id=40&view_years=2026"
       }
     },
@@ -42679,7 +42991,7 @@ GIKAI.questionText = {
       "season": "summer",
       "material": {
         "state": "verified",
-        "note": "公式目次と照合した本会議の日別会議録6資料を収録。公式一覧の委員会3資料も収録。",
+        "note": "公式本会議録６日分、委員会３日分、会議録付録と議会だより第83号等を収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteBrowse.html?tenant_id=40&view_years=2026"
       }
     },
@@ -42688,7 +43000,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "verified",
-        "note": "公式目次と照合した本会議の日別会議録6資料を収録。",
+        "note": "公式本会議録６日分、本会議の委員長報告、会議録付録と議会だより第84号等を収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/fukaya/SpMinuteBrowse.html?tenant_id=40&view_years=2026"
       }
     },
