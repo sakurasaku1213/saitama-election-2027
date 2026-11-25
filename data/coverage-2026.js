@@ -5024,34 +5024,34 @@ GIKAI.coverage2026 = {
     {
       "place": "北本市",
       "season": "spring",
-      "label": "2026年春の定例会",
+      "label": "令和8年第1回定例会",
       "fromDate": "2026-02-19",
       "toDate": "2026-03-25",
-      "planned": true,
+      "planned": false,
       "materials": {
         "meeting": {
-          "state": "partial",
-          "note": "開催予定を確認。"
+          "state": "verified",
+          "note": "市の会期日程と公式本会議録の開会日・閉会日を照合。"
         },
         "activity": {
-          "state": "identified",
-          "note": "対象資料の案内を確認。項目の取込・照合範囲は未確定。"
+          "state": "verified",
+          "note": "市公式の通告本文を収録。質疑・答弁は日別の本会議録を参照。"
         },
         "text": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "公式本会議録8日、委員会・分科会11資料、目次、通告及び議会だより第136号を収録。"
         },
         "decisions": {
-          "state": "identified",
-          "note": "対象資料の案内を確認。項目の取込・照合範囲は未確定。"
+          "state": "verified",
+          "note": "公式議決26件・報告0件・議員配付3件を照合。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "議会だより第136号の議員別7行を照合。原表に掲載がある議案等の個人別表決を表示。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "返納を含む補正と修正案、史跡公有地化の予算、給食費と請願・意見書。"
         }
       },
       "sources": [
@@ -5066,40 +5066,72 @@ GIKAI.coverage2026 = {
         {
           "label": "令和8年の一般質問一覧",
           "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/shitsumon/1/reiwa_8/index.html"
+        },
+        {
+          "label": "会議録公式目録",
+          "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteBrowse.html?tenant_id=300&view_years=2026"
+        },
+        {
+          "label": "定例会の会期日程",
+          "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/kaiki/reiwa_8/18963.html"
+        },
+        {
+          "label": "市長提出の公式結果",
+          "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18982.html"
+        },
+        {
+          "label": "議員・委員会提出の公式結果",
+          "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/1/reiwa8/19008.html"
+        },
+        {
+          "label": "請願等の公式結果",
+          "url": "https://www.city.kitamoto.lg.jp/shigikai/seigan_chinjo/kekka/R08/19051.html"
+        },
+        {
+          "label": "一般質問通告",
+          "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/shitsumon/1/reiwa_8/19062.html"
+        },
+        {
+          "label": "議会だより第136号・表決９頁",
+          "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori136.pdf#page=9"
+        },
+        {
+          "label": "総括質疑通告",
+          "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/shitsumon/2/reiwa_8/19077.html"
         }
       ]
     },
     {
       "place": "北本市",
       "season": "summer",
-      "label": "2026年初夏の定例会",
+      "label": "令和8年第2回定例会",
       "fromDate": "2026-06-03",
       "toDate": "2026-06-24",
-      "planned": true,
+      "planned": false,
       "materials": {
         "meeting": {
-          "state": "partial",
-          "note": "開催予定を確認。"
+          "state": "verified",
+          "note": "市の会期日程と公式本会議録の開会日・閉会日を照合。"
         },
         "activity": {
-          "state": "partial",
-          "note": "この時期の掲載項目 51件。通告・目次・本文の別は活動の出典に表示。"
+          "state": "verified",
+          "note": "市公式の通告本文を収録。質疑・答弁は日別の本会議録を参照。"
         },
         "text": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "公式本会議録7日、委員会・分科会8資料、目次、通告及び議会だより第137号を収録。"
         },
         "decisions": {
-          "state": "identified",
-          "note": "対象資料の案内を確認。項目の取込・照合範囲は未確定。"
+          "state": "verified",
+          "note": "公式議決27件・報告3件・議員配付3件を照合。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "議会だより第137号の議員別1行を照合。原表に掲載がある議案等の個人別表決を表示。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "市長・副市長の減額条例、蒲ザクラ後継樹の請願。"
         }
       },
       "sources": [
@@ -5116,42 +5148,66 @@ GIKAI.coverage2026 = {
           "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/shitsumon/1/reiwa_8/index.html"
         },
         {
-          "label": "会期資料　2026年6月定例会",
+          "label": "一般質問通告",
           "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/shitsumon/1/reiwa_8/19063.html"
+        },
+        {
+          "label": "会議録公式目録",
+          "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteBrowse.html?tenant_id=300&view_years=2026"
+        },
+        {
+          "label": "定例会の会期日程",
+          "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/kaiki/reiwa_8/18965.html"
+        },
+        {
+          "label": "市長提出の公式結果",
+          "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18984.html"
+        },
+        {
+          "label": "議員・委員会提出の公式結果",
+          "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/1/reiwa8/19009.html"
+        },
+        {
+          "label": "請願等の公式結果",
+          "url": "https://www.city.kitamoto.lg.jp/shigikai/seigan_chinjo/kekka/R08/19052.html"
+        },
+        {
+          "label": "議会だより第137号・表決９頁",
+          "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori137.pdf#page=9"
         }
       ]
     },
     {
       "place": "北本市",
       "season": "fall",
-      "label": "2026年秋の定例会",
+      "label": "令和8年第3回定例会",
       "fromDate": "2026-08-25",
       "toDate": "2026-09-28",
-      "planned": true,
+      "planned": false,
       "materials": {
         "meeting": {
-          "state": "partial",
-          "note": "開催予定を確認。"
+          "state": "verified",
+          "note": "市の会期日程と公式本会議録の開会日・閉会日を照合。"
         },
         "activity": {
-          "state": "identified",
-          "note": "対象資料の案内を確認。項目の取込・照合範囲は未確定。"
+          "state": "verified",
+          "note": "市公式の通告本文を収録。質疑・答弁は日別の本会議録を参照。"
         },
         "text": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "公式本会議録8日、委員会・分科会10資料、目次、通告及び議会だより第138号を収録。"
         },
         "decisions": {
-          "state": "identified",
-          "note": "対象資料の案内を確認。項目の取込・照合範囲は未確定。"
+          "state": "verified",
+          "note": "公式議決34件・報告5件・議員配付0件を照合。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "議会だより第138号の議員別4行を照合。原表に掲載がある議案等の個人別表決を表示。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "史跡用地取得、議員報酬の特例、地域医療と議会構成の見直し。"
         }
       },
       "sources": [
@@ -5166,6 +5222,38 @@ GIKAI.coverage2026 = {
         {
           "label": "令和8年の一般質問一覧",
           "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/shitsumon/1/reiwa_8/index.html"
+        },
+        {
+          "label": "会議録公式目録",
+          "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteBrowse.html?tenant_id=300&view_years=2026"
+        },
+        {
+          "label": "定例会の会期日程",
+          "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/kaiki/reiwa_8/18966.html"
+        },
+        {
+          "label": "市長提出の公式結果",
+          "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18985.html"
+        },
+        {
+          "label": "議員・委員会提出の公式結果",
+          "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/1/reiwa8/19010.html"
+        },
+        {
+          "label": "請願等の公式結果",
+          "url": "https://www.city.kitamoto.lg.jp/shigikai/seigan_chinjo/kekka/R08/19474.html"
+        },
+        {
+          "label": "一般質問通告",
+          "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/shitsumon/1/reiwa_8/19064.html"
+        },
+        {
+          "label": "議会だより第138号・表決９頁",
+          "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori138a.pdf#page=9"
+        },
+        {
+          "label": "総括質疑通告",
+          "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/shitsumon/2/reiwa_8/19078.html"
         }
       ]
     },
@@ -136301,6 +136389,2274 @@ GIKAI.coverage2026 = {
         139
       ],
       "voteNote": ""
+    },
+    {
+      "place": "北本市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第10号",
+      "title": "令和8年度北本市一般会計予算",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18982.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/giann202610-15.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-03-25",
+      "result": "可決",
+      "proposer": "市長",
+      "archiveId": "1b6ec2d8eb92e4736f4e",
+      "blocks": [
+        145,
+        146,
+        147
+      ],
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori136.pdf#page=9",
+      "voteNote": "第136号９頁の欄外に、対象議案における諏訪幸男議員の欠席を記載。"
+    },
+    {
+      "place": "北本市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第11号",
+      "title": "令和8年度北本市後期高齢者医療特別会計予算",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18982.html",
+      "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18982.html",
+      "sourceTitle": "北本市議会・公式審議結果",
+      "date": "2026-03-25",
+      "result": "可決",
+      "proposer": "市長",
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori136.pdf#page=9",
+      "voteType": "記名",
+      "votes": {
+        "小久保博雅": "賛成",
+        "毛呂一夫": "反対",
+        "金森すみ子": "賛成",
+        "村田裕子": "賛成",
+        "工藤日出夫": "賛成",
+        "大嶋達巳": "賛成",
+        "青野康子": "賛成",
+        "高橋誠": "賛成",
+        "永井司": "賛成",
+        "現王園孝昭": "賛成",
+        "諏訪幸男": "欠席",
+        "斉藤章": "賛成",
+        "保角美代": "議長（表決不参加）",
+        "島野和夫": "賛成",
+        "湯沢美恵": "反対",
+        "中村洋子": "反対",
+        "岡村有正": "賛成",
+        "滝瀬光一": "賛成",
+        "桜井卓": "賛成",
+        "今関公美": "賛成"
+      },
+      "voteNote": "賛否表の凡例では空欄を賛成と表示。議長欄は表決不参加。",
+      "archiveId": "1b6ec2d8eb92e4736f4e",
+      "blocks": [
+        159,
+        160,
+        161
+      ]
+    },
+    {
+      "place": "北本市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第12号",
+      "title": "令和8年度北本都市計画事業久保特定土地区画整理事業特別会計予算",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18982.html",
+      "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18982.html",
+      "sourceTitle": "北本市議会・公式審議結果",
+      "date": "2026-03-25",
+      "result": "可決",
+      "proposer": "市長",
+      "archiveId": "1b6ec2d8eb92e4736f4e",
+      "blocks": [
+        168,
+        169,
+        170
+      ],
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori136.pdf#page=9",
+      "voteNote": "第136号９頁の欄外に、対象議案における諏訪幸男議員の欠席を記載。"
+    },
+    {
+      "place": "北本市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第13号",
+      "title": "令和8年度北本市国民健康保険特別会計予算",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18982.html",
+      "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18982.html",
+      "sourceTitle": "北本市議会・公式審議結果",
+      "date": "2026-03-25",
+      "result": "可決",
+      "proposer": "市長",
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori136.pdf#page=9",
+      "voteType": "記名",
+      "votes": {
+        "小久保博雅": "賛成",
+        "毛呂一夫": "反対",
+        "金森すみ子": "賛成",
+        "村田裕子": "賛成",
+        "工藤日出夫": "賛成",
+        "大嶋達巳": "賛成",
+        "青野康子": "賛成",
+        "高橋誠": "賛成",
+        "永井司": "賛成",
+        "現王園孝昭": "賛成",
+        "諏訪幸男": "欠席",
+        "斉藤章": "賛成",
+        "保角美代": "議長（表決不参加）",
+        "島野和夫": "賛成",
+        "湯沢美恵": "反対",
+        "中村洋子": "反対",
+        "岡村有正": "賛成",
+        "滝瀬光一": "賛成",
+        "桜井卓": "賛成",
+        "今関公美": "賛成"
+      },
+      "voteNote": "賛否表の凡例では空欄を賛成と表示。議長欄は表決不参加。",
+      "archiveId": "1b6ec2d8eb92e4736f4e",
+      "blocks": [
+        182,
+        183,
+        184
+      ]
+    },
+    {
+      "place": "北本市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第14号",
+      "title": "令和8年度北本市介護保険特別会計予算",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18982.html",
+      "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18982.html",
+      "sourceTitle": "北本市議会・公式審議結果",
+      "date": "2026-03-25",
+      "result": "可決",
+      "proposer": "市長",
+      "archiveId": "1b6ec2d8eb92e4736f4e",
+      "blocks": [
+        189,
+        190,
+        191
+      ],
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori136.pdf#page=9",
+      "voteNote": "第136号９頁の欄外に、対象議案における諏訪幸男議員の欠席を記載。"
+    },
+    {
+      "place": "北本市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第15号",
+      "title": "令和8年度埼玉県央広域公平委員会特別会計予算",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18982.html",
+      "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18982.html",
+      "sourceTitle": "北本市議会・公式審議結果",
+      "date": "2026-03-25",
+      "result": "可決",
+      "proposer": "市長",
+      "archiveId": "1b6ec2d8eb92e4736f4e",
+      "blocks": [
+        193,
+        194,
+        195
+      ],
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori136.pdf#page=9",
+      "voteNote": "第136号９頁の欄外に、対象議案における諏訪幸男議員の欠席を記載。"
+    },
+    {
+      "place": "北本市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第16号",
+      "title": "令和8年度北本市公共下水道事業会計予算",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18982.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/giann202616.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-03-25",
+      "result": "可決",
+      "proposer": "市長",
+      "archiveId": "1b6ec2d8eb92e4736f4e",
+      "blocks": [
+        197,
+        198,
+        199
+      ],
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori136.pdf#page=9",
+      "voteNote": "第136号９頁の欄外に、対象議案における諏訪幸男議員の欠席を記載。"
+    },
+    {
+      "place": "北本市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第17号",
+      "title": "北本市ふるさと応援基金の設置、管理及び処分に関する条例の一部改正について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18982.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/giann202617.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-03-25",
+      "result": "可決",
+      "proposer": "市長",
+      "archiveId": "1b6ec2d8eb92e4736f4e",
+      "blocks": [
+        75,
+        76,
+        77
+      ],
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori136.pdf#page=9",
+      "voteNote": "第136号９頁の欄外に、対象議案における諏訪幸男議員の欠席を記載。"
+    },
+    {
+      "place": "北本市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第18号",
+      "title": "北本市いじめ防止対策推進条例の一部改正について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18982.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/giann202618.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-03-25",
+      "result": "可決",
+      "proposer": "市長",
+      "archiveId": "1b6ec2d8eb92e4736f4e",
+      "blocks": [
+        79,
+        80,
+        81
+      ],
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori136.pdf#page=9",
+      "voteNote": "第136号９頁の欄外に、対象議案における諏訪幸男議員の欠席を記載。"
+    },
+    {
+      "place": "北本市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第19号",
+      "title": "北本市職員の給与に関する条例の一部改正について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18982.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/giann202619.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-03-25",
+      "result": "可決",
+      "proposer": "市長",
+      "archiveId": "1b6ec2d8eb92e4736f4e",
+      "blocks": [
+        83,
+        84,
+        85
+      ],
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori136.pdf#page=9",
+      "voteNote": "第136号９頁の欄外に、対象議案における諏訪幸男議員の欠席を記載。"
+    },
+    {
+      "place": "北本市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第20号",
+      "title": "北本市議会の議員の議員報酬及び費用弁償等に関する条例の一部改正について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18982.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/giann202620.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-03-25",
+      "result": "可決",
+      "proposer": "市長",
+      "archiveId": "1b6ec2d8eb92e4736f4e",
+      "blocks": [
+        92,
+        93,
+        94
+      ],
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori136.pdf#page=9",
+      "voteNote": "第136号９頁の欄外に、対象議案における諏訪幸男議員の欠席を記載。"
+    },
+    {
+      "place": "北本市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第21号",
+      "title": "北本市行政手続条例の一部改正について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18982.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/giann202621.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-03-25",
+      "result": "可決",
+      "proposer": "市長",
+      "archiveId": "1b6ec2d8eb92e4736f4e",
+      "blocks": [
+        96,
+        97,
+        98
+      ],
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori136.pdf#page=9",
+      "voteNote": "第136号９頁の欄外に、対象議案における諏訪幸男議員の欠席を記載。"
+    },
+    {
+      "place": "北本市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第22号",
+      "title": "北本市国民健康保険税条例の一部改正について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18982.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/giann202622.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-03-25",
+      "result": "可決",
+      "proposer": "市長",
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori136.pdf#page=9",
+      "voteType": "記名",
+      "votes": {
+        "小久保博雅": "賛成",
+        "毛呂一夫": "反対",
+        "金森すみ子": "賛成",
+        "村田裕子": "賛成",
+        "工藤日出夫": "賛成",
+        "大嶋達巳": "賛成",
+        "青野康子": "賛成",
+        "高橋誠": "賛成",
+        "永井司": "賛成",
+        "現王園孝昭": "賛成",
+        "諏訪幸男": "欠席",
+        "斉藤章": "賛成",
+        "保角美代": "議長（表決不参加）",
+        "島野和夫": "賛成",
+        "湯沢美恵": "反対",
+        "中村洋子": "反対",
+        "岡村有正": "賛成",
+        "滝瀬光一": "賛成",
+        "桜井卓": "賛成",
+        "今関公美": "賛成"
+      },
+      "voteNote": "賛否表の凡例では空欄を賛成と表示。議長欄は表決不参加。",
+      "archiveId": "1b6ec2d8eb92e4736f4e",
+      "blocks": [
+        110,
+        111,
+        112
+      ]
+    },
+    {
+      "place": "北本市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第23号",
+      "title": "北本市都市公園条例の一部改正について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18982.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/giann202623.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-03-25",
+      "result": "可決",
+      "proposer": "市長",
+      "archiveId": "1b6ec2d8eb92e4736f4e",
+      "blocks": [
+        114,
+        115,
+        116
+      ],
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori136.pdf#page=9",
+      "voteNote": "第136号９頁の欄外に、対象議案における諏訪幸男議員の欠席を記載。"
+    },
+    {
+      "place": "北本市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第24号",
+      "title": "人権擁護委員候補者の推薦について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18982.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/giann202624.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-03-02",
+      "result": "同意",
+      "proposer": "市長",
+      "archiveId": "38f8633c0d7a5cdab1c5",
+      "blocks": [
+        10,
+        11,
+        12
+      ],
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori136.pdf#page=9",
+      "voteNote": "第136号９頁の欄外に、対象議案における諏訪幸男議員の欠席を記載。"
+    },
+    {
+      "place": "北本市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第25号",
+      "title": "令和7年度北本市一般会計補正予算(第9号)",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18982.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/giann202625-30.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-03-25",
+      "result": "可決",
+      "proposer": "市長",
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori136.pdf#page=9",
+      "voteType": "記名",
+      "votes": {
+        "小久保博雅": "賛成",
+        "毛呂一夫": "賛成",
+        "金森すみ子": "賛成",
+        "村田裕子": "賛成",
+        "工藤日出夫": "反対",
+        "大嶋達巳": "賛成",
+        "青野康子": "賛成",
+        "高橋誠": "賛成",
+        "永井司": "賛成",
+        "現王園孝昭": "賛成",
+        "諏訪幸男": "欠席",
+        "斉藤章": "賛成",
+        "保角美代": "議長（表決不参加）",
+        "島野和夫": "賛成",
+        "湯沢美恵": "反対",
+        "中村洋子": "反対",
+        "岡村有正": "賛成",
+        "滝瀬光一": "賛成",
+        "桜井卓": "賛成",
+        "今関公美": "賛成"
+      },
+      "voteNote": "賛否表の凡例では空欄を賛成と表示。議長欄は表決不参加。",
+      "archiveId": "1b6ec2d8eb92e4736f4e",
+      "blocks": [
+        40,
+        41,
+        42
+      ]
+    },
+    {
+      "place": "北本市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第26号",
+      "title": "令和7年度北本市後期高齢者医療特別会計補正予算(第2号)",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18982.html",
+      "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18982.html",
+      "sourceTitle": "北本市議会・公式審議結果",
+      "date": "2026-03-25",
+      "result": "可決",
+      "proposer": "市長",
+      "archiveId": "1b6ec2d8eb92e4736f4e",
+      "blocks": [
+        44,
+        45,
+        46
+      ],
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori136.pdf#page=9",
+      "voteNote": "第136号９頁の欄外に、対象議案における諏訪幸男議員の欠席を記載。"
+    },
+    {
+      "place": "北本市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第27号",
+      "title": "令和7年度北本都市計画事業久保特定土地区画整理事業特別会計補正予算(第3号)",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18982.html",
+      "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18982.html",
+      "sourceTitle": "北本市議会・公式審議結果",
+      "date": "2026-03-25",
+      "result": "可決",
+      "proposer": "市長",
+      "archiveId": "1b6ec2d8eb92e4736f4e",
+      "blocks": [
+        48,
+        49,
+        50
+      ],
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori136.pdf#page=9",
+      "voteNote": "第136号９頁の欄外に、対象議案における諏訪幸男議員の欠席を記載。"
+    },
+    {
+      "place": "北本市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第28号",
+      "title": "令和7年度北本市国民健康保険特別会計補正予算(第3号)",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18982.html",
+      "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18982.html",
+      "sourceTitle": "北本市議会・公式審議結果",
+      "date": "2026-03-25",
+      "result": "可決",
+      "proposer": "市長",
+      "archiveId": "1b6ec2d8eb92e4736f4e",
+      "blocks": [
+        52,
+        53,
+        54
+      ],
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori136.pdf#page=9",
+      "voteNote": "第136号９頁の欄外に、対象議案における諏訪幸男議員の欠席を記載。"
+    },
+    {
+      "place": "北本市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第29号",
+      "title": "令和7年度北本市介護保険特別会計補正予算(第5号)",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18982.html",
+      "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18982.html",
+      "sourceTitle": "北本市議会・公式審議結果",
+      "date": "2026-03-25",
+      "result": "可決",
+      "proposer": "市長",
+      "archiveId": "1b6ec2d8eb92e4736f4e",
+      "blocks": [
+        56,
+        57,
+        58
+      ],
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori136.pdf#page=9",
+      "voteNote": "第136号９頁の欄外に、対象議案における諏訪幸男議員の欠席を記載。"
+    },
+    {
+      "place": "北本市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第30号",
+      "title": "令和7年度埼玉県央広域公平委員会特別会計補正予算(第1号)",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18982.html",
+      "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18982.html",
+      "sourceTitle": "北本市議会・公式審議結果",
+      "date": "2026-03-25",
+      "result": "可決",
+      "proposer": "市長",
+      "archiveId": "1b6ec2d8eb92e4736f4e",
+      "blocks": [
+        60,
+        61,
+        62
+      ],
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori136.pdf#page=9",
+      "voteNote": "第136号９頁の欄外に、対象議案における諏訪幸男議員の欠席を記載。"
+    },
+    {
+      "place": "北本市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第31号",
+      "title": "令和8年度北本市一般会計補正予算(第1号)",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18982.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/giann202631.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-03-25",
+      "result": "可決",
+      "proposer": "市長",
+      "archiveId": "1b6ec2d8eb92e4736f4e",
+      "blocks": [
+        206,
+        207,
+        208
+      ],
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori136.pdf#page=9",
+      "voteNote": "第136号９頁の欄外に、対象議案における諏訪幸男議員の欠席を記載。"
+    },
+    {
+      "place": "北本市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議案第32号",
+      "title": "令和7年度北本市一般会計補正予算(第10号)",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18982.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/giann202632.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-03-25",
+      "result": "可決",
+      "proposer": "市長",
+      "archiveId": "1b6ec2d8eb92e4736f4e",
+      "blocks": [
+        69,
+        70,
+        71
+      ],
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori136.pdf#page=9",
+      "voteNote": "第136号９頁の欄外に、対象議案における諏訪幸男議員の欠席を記載。"
+    },
+    {
+      "place": "北本市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議提第2号",
+      "title": "核兵器禁止条約に署名・批准することを求める意見書",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/1/reiwa8/19008.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/gitei202602.pdf#page=1",
+      "sourceTitle": "議員提出議案の原文",
+      "date": "2026-03-25",
+      "result": "原案可決",
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori136.pdf#page=9",
+      "voteType": "記名",
+      "votes": {
+        "小久保博雅": "賛成",
+        "毛呂一夫": "賛成",
+        "金森すみ子": "賛成",
+        "村田裕子": "賛成",
+        "工藤日出夫": "賛成",
+        "大嶋達巳": "賛成",
+        "青野康子": "反対",
+        "高橋誠": "反対",
+        "永井司": "反対",
+        "現王園孝昭": "反対",
+        "諏訪幸男": "欠席",
+        "斉藤章": "賛成",
+        "保角美代": "議長（表決不参加）",
+        "島野和夫": "賛成",
+        "湯沢美恵": "賛成",
+        "中村洋子": "賛成",
+        "岡村有正": "反対",
+        "滝瀬光一": "反対",
+        "桜井卓": "賛成",
+        "今関公美": "賛成"
+      },
+      "voteNote": "賛否表の凡例では空欄を賛成と表示。議長欄は表決不参加。",
+      "archiveId": "1b6ec2d8eb92e4736f4e",
+      "blocks": [
+        240,
+        241,
+        242
+      ],
+      "names": [
+        "桜井卓"
+      ],
+      "proposalSupporters": [
+        "湯沢美恵",
+        "中村洋子"
+      ],
+      "proposalRole": "発議者"
+    },
+    {
+      "place": "北本市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議提第3号",
+      "title": "イランへの攻撃中止と即時停戦に向けた外交努力等を求める意見書",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/1/reiwa8/19008.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/gitei202603.pdf#page=1",
+      "sourceTitle": "議員提出議案の原文",
+      "date": "2026-03-25",
+      "result": "原案可決",
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori136.pdf#page=9",
+      "voteType": "記名",
+      "votes": {
+        "小久保博雅": "賛成",
+        "毛呂一夫": "賛成",
+        "金森すみ子": "賛成",
+        "村田裕子": "賛成",
+        "工藤日出夫": "賛成",
+        "大嶋達巳": "賛成",
+        "青野康子": "反対",
+        "高橋誠": "反対",
+        "永井司": "反対",
+        "現王園孝昭": "反対",
+        "諏訪幸男": "欠席",
+        "斉藤章": "賛成",
+        "保角美代": "議長（表決不参加）",
+        "島野和夫": "賛成",
+        "湯沢美恵": "賛成",
+        "中村洋子": "賛成",
+        "岡村有正": "賛成",
+        "滝瀬光一": "賛成",
+        "桜井卓": "賛成",
+        "今関公美": "賛成"
+      },
+      "voteNote": "賛否表の凡例では空欄を賛成と表示。議長欄は表決不参加。",
+      "archiveId": "1b6ec2d8eb92e4736f4e",
+      "blocks": [
+        263,
+        264,
+        265
+      ],
+      "names": [
+        "湯沢美恵"
+      ],
+      "proposalSupporters": [
+        "桜井卓",
+        "今関公美",
+        "毛呂一夫",
+        "金森すみ子",
+        "村田裕子",
+        "中村洋子"
+      ],
+      "proposalRole": "発議者"
+    },
+    {
+      "place": "北本市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議請第1号",
+      "title": "政府に核兵器禁止条約の署名・批准を求める議会の意見書提出を求める請願",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/seigan_chinjo/kekka/R08/19051.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/seigann202601.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-03-25",
+      "result": "採択",
+      "proposer": "請願者",
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori136.pdf#page=9",
+      "voteType": "記名",
+      "votes": {
+        "小久保博雅": "賛成",
+        "毛呂一夫": "賛成",
+        "金森すみ子": "賛成",
+        "村田裕子": "賛成",
+        "工藤日出夫": "賛成",
+        "大嶋達巳": "賛成",
+        "青野康子": "反対",
+        "高橋誠": "反対",
+        "永井司": "反対",
+        "現王園孝昭": "反対",
+        "諏訪幸男": "欠席",
+        "斉藤章": "賛成",
+        "保角美代": "議長（表決不参加）",
+        "島野和夫": "賛成",
+        "湯沢美恵": "賛成",
+        "中村洋子": "賛成",
+        "岡村有正": "反対",
+        "滝瀬光一": "反対",
+        "桜井卓": "賛成",
+        "今関公美": "賛成"
+      },
+      "voteNote": "賛否表の凡例では空欄を賛成と表示。議長欄は表決不参加。",
+      "archiveId": "1b6ec2d8eb92e4736f4e",
+      "blocks": [
+        226,
+        227,
+        228
+      ]
+    },
+    {
+      "place": "北本市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議陳情第1号",
+      "title": "臓器移植に関わる不正な臓器取引や移植目的の渡航等を防止し、国民が知らずに犯罪に巻き込まれることを防ぐための環境整備等を求める意見書提出の陳情",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/seigan_chinjo/kekka/R08/19051.html",
+      "url": "https://www.city.kitamoto.lg.jp/shigikai/seigan_chinjo/kekka/R08/19051.html",
+      "sourceTitle": "北本市議会・公式審議結果",
+      "date": "2026-03-25",
+      "result": "配付",
+      "proposer": "陳情者",
+      "voteNote": "公式の表は議員への配付日を掲載。"
+    },
+    {
+      "place": "北本市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議陳情第2号",
+      "title": "国に国民の主食である米の価格を統制することを求める意見書の提出に関する陳情",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/seigan_chinjo/kekka/R08/19051.html",
+      "url": "https://www.city.kitamoto.lg.jp/shigikai/seigan_chinjo/kekka/R08/19051.html",
+      "sourceTitle": "北本市議会・公式審議結果",
+      "date": "2026-03-25",
+      "result": "配付",
+      "proposer": "陳情者",
+      "voteNote": "公式の表は議員への配付日を掲載。"
+    },
+    {
+      "place": "北本市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "number": "議陳情第3号",
+      "title": "政党機関紙の庁舎内勧誘行為の実態調査を求める陳情",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/seigan_chinjo/kekka/R08/19051.html",
+      "url": "https://www.city.kitamoto.lg.jp/shigikai/seigan_chinjo/kekka/R08/19051.html",
+      "sourceTitle": "北本市議会・公式審議結果",
+      "date": "2026-03-25",
+      "result": "配付",
+      "proposer": "陳情者",
+      "voteNote": "公式の表は議員への配付日を掲載。"
+    },
+    {
+      "place": "北本市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議案第33号",
+      "title": "専決処分の承認を求めることについて(北本市税条例の一部改正について)",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18984.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/giann202633.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-06-08",
+      "result": "承認",
+      "proposer": "市長",
+      "archiveId": "5f80a29a6ea6ea298a06",
+      "blocks": [
+        10,
+        11,
+        12
+      ],
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori137.pdf#page=9",
+      "voteNote": "第137号９頁の欄外に、対象議案における諏訪幸男議員の欠席を記載。"
+    },
+    {
+      "place": "北本市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議案第34号",
+      "title": "専決処分の承認を求めることについて(北本市都市計画税条例の一部改正について)",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18984.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/giann202634.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-06-08",
+      "result": "承認",
+      "proposer": "市長",
+      "archiveId": "5f80a29a6ea6ea298a06",
+      "blocks": [
+        16,
+        17,
+        18
+      ],
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori137.pdf#page=9",
+      "voteNote": "第137号９頁の欄外に、対象議案における諏訪幸男議員の欠席を記載。"
+    },
+    {
+      "place": "北本市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議案第35号",
+      "title": "専決処分の承認を求めることについて(北本市国民健康保険税条例の一部改正について)",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18984.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/giann202635.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-06-08",
+      "result": "承認",
+      "proposer": "市長",
+      "archiveId": "5f80a29a6ea6ea298a06",
+      "blocks": [
+        22,
+        23,
+        24
+      ],
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori137.pdf#page=9",
+      "voteNote": "第137号９頁の欄外に、対象議案における諏訪幸男議員の欠席を記載。"
+    },
+    {
+      "place": "北本市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議案第36号",
+      "title": "市長及び副市長の給料の特例に関する条例の制定について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18984.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/giann202636.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-06-24",
+      "result": "原案可決",
+      "proposer": "市長",
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori137.pdf#page=9",
+      "voteType": "記名",
+      "votes": {
+        "小久保博雅": "賛成",
+        "毛呂一夫": "反対",
+        "金森すみ子": "賛成",
+        "村田裕子": "賛成",
+        "工藤日出夫": "反対",
+        "大嶋達巳": "賛成",
+        "青野康子": "賛成",
+        "高橋誠": "賛成",
+        "永井司": "賛成",
+        "現王園孝昭": "賛成",
+        "諏訪幸男": "欠席",
+        "斉藤章": "賛成",
+        "保角美代": "議長（表決不参加）",
+        "島野和夫": "賛成",
+        "湯沢美恵": "賛成",
+        "中村洋子": "賛成",
+        "岡村有正": "賛成",
+        "滝瀬光一": "賛成",
+        "桜井卓": "賛成",
+        "今関公美": "賛成"
+      },
+      "voteNote": "賛否表の凡例では空欄を賛成と表示。議長欄は表決不参加。",
+      "archiveId": "ef3d283a6ab03fb51ed0",
+      "blocks": [
+        35,
+        36,
+        37
+      ]
+    },
+    {
+      "place": "北本市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議案第37号",
+      "title": "特別職の職員で非常勤のものの報酬及び費用弁償に関する条例の一部改正について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18984.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/giann202637.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-06-24",
+      "result": "原案可決",
+      "proposer": "市長",
+      "archiveId": "ef3d283a6ab03fb51ed0",
+      "blocks": [
+        42,
+        43,
+        44
+      ],
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori137.pdf#page=9",
+      "voteNote": "第137号９頁の欄外に、対象議案における諏訪幸男議員の欠席を記載。"
+    },
+    {
+      "place": "北本市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議案第38号",
+      "title": "北本市税条例の一部改正について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18984.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/giann202638.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-06-24",
+      "result": "原案可決",
+      "proposer": "市長",
+      "archiveId": "ef3d283a6ab03fb51ed0",
+      "blocks": [
+        46,
+        47,
+        48
+      ],
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori137.pdf#page=9",
+      "voteNote": "第137号９頁の欄外に、対象議案における諏訪幸男議員の欠席を記載。"
+    },
+    {
+      "place": "北本市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議案第39号",
+      "title": "工事請負契約の締結について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18984.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/giann202639.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-06-24",
+      "result": "原案可決",
+      "proposer": "市長",
+      "archiveId": "ef3d283a6ab03fb51ed0",
+      "blocks": [
+        50,
+        51,
+        52
+      ],
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori137.pdf#page=9",
+      "voteNote": "第137号９頁の欄外に、対象議案における諏訪幸男議員の欠席を記載。"
+    },
+    {
+      "place": "北本市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議案第40号",
+      "title": "市道の路線の廃止について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18984.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/giann202640.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-06-24",
+      "result": "原案可決",
+      "proposer": "市長",
+      "archiveId": "ef3d283a6ab03fb51ed0",
+      "blocks": [
+        54,
+        55,
+        56
+      ],
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori137.pdf#page=9",
+      "voteNote": "第137号９頁の欄外に、対象議案における諏訪幸男議員の欠席を記載。"
+    },
+    {
+      "place": "北本市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議案第41号",
+      "title": "固定資産評価審査委員会委員の選任について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18984.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/giann202641.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-06-08",
+      "result": "同意",
+      "proposer": "市長",
+      "archiveId": "5f80a29a6ea6ea298a06",
+      "blocks": [
+        28,
+        29,
+        30
+      ],
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori137.pdf#page=9",
+      "voteNote": "第137号９頁の欄外に、対象議案における諏訪幸男議員の欠席を記載。"
+    },
+    {
+      "place": "北本市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議案第42号",
+      "title": "農業委員会委員の任命について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18984.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/giann202642-54.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-06-08",
+      "result": "同意",
+      "proposer": "市長",
+      "archiveId": "5f80a29a6ea6ea298a06",
+      "blocks": [
+        34,
+        35,
+        36
+      ],
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori137.pdf#page=9",
+      "voteNote": "第137号９頁の欄外に、対象議案における諏訪幸男議員の欠席を記載。"
+    },
+    {
+      "place": "北本市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議案第43号",
+      "title": "農業委員会委員の任命について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18984.html",
+      "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18984.html",
+      "sourceTitle": "北本市議会・公式審議結果",
+      "date": "2026-06-08",
+      "result": "同意",
+      "proposer": "市長",
+      "archiveId": "5f80a29a6ea6ea298a06",
+      "blocks": [
+        40,
+        41,
+        42
+      ],
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori137.pdf#page=9",
+      "voteNote": "第137号９頁の欄外に、対象議案における諏訪幸男議員の欠席を記載。"
+    },
+    {
+      "place": "北本市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議案第44号",
+      "title": "農業委員会委員の任命について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18984.html",
+      "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18984.html",
+      "sourceTitle": "北本市議会・公式審議結果",
+      "date": "2026-06-08",
+      "result": "同意",
+      "proposer": "市長",
+      "archiveId": "5f80a29a6ea6ea298a06",
+      "blocks": [
+        46,
+        47,
+        48
+      ],
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori137.pdf#page=9",
+      "voteNote": "第137号９頁の欄外に、対象議案における諏訪幸男議員の欠席を記載。"
+    },
+    {
+      "place": "北本市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議案第45号",
+      "title": "農業委員会委員の任命について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18984.html",
+      "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18984.html",
+      "sourceTitle": "北本市議会・公式審議結果",
+      "date": "2026-06-08",
+      "result": "同意",
+      "proposer": "市長",
+      "archiveId": "5f80a29a6ea6ea298a06",
+      "blocks": [
+        52,
+        53,
+        54
+      ],
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori137.pdf#page=9",
+      "voteNote": "第137号９頁の欄外に、対象議案における諏訪幸男議員の欠席を記載。"
+    },
+    {
+      "place": "北本市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議案第46号",
+      "title": "農業委員会委員の任命について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18984.html",
+      "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18984.html",
+      "sourceTitle": "北本市議会・公式審議結果",
+      "date": "2026-06-08",
+      "result": "同意",
+      "proposer": "市長",
+      "archiveId": "5f80a29a6ea6ea298a06",
+      "blocks": [
+        58,
+        59,
+        60
+      ],
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori137.pdf#page=9",
+      "voteNote": "第137号９頁の欄外に、対象議案における諏訪幸男議員の欠席を記載。"
+    },
+    {
+      "place": "北本市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議案第47号",
+      "title": "農業委員会委員の任命について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18984.html",
+      "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18984.html",
+      "sourceTitle": "北本市議会・公式審議結果",
+      "date": "2026-06-08",
+      "result": "同意",
+      "proposer": "市長",
+      "archiveId": "5f80a29a6ea6ea298a06",
+      "blocks": [
+        64,
+        65,
+        66
+      ],
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori137.pdf#page=9",
+      "voteNote": "第137号９頁の欄外に、対象議案における諏訪幸男議員の欠席を記載。"
+    },
+    {
+      "place": "北本市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議案第48号",
+      "title": "農業委員会委員の任命について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18984.html",
+      "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18984.html",
+      "sourceTitle": "北本市議会・公式審議結果",
+      "date": "2026-06-08",
+      "result": "同意",
+      "proposer": "市長",
+      "archiveId": "5f80a29a6ea6ea298a06",
+      "blocks": [
+        70,
+        71,
+        72
+      ],
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori137.pdf#page=9",
+      "voteNote": "第137号９頁の欄外に、対象議案における諏訪幸男議員の欠席を記載。"
+    },
+    {
+      "place": "北本市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議案第49号",
+      "title": "農業委員会委員の任命について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18984.html",
+      "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18984.html",
+      "sourceTitle": "北本市議会・公式審議結果",
+      "date": "2026-06-08",
+      "result": "同意",
+      "proposer": "市長",
+      "archiveId": "5f80a29a6ea6ea298a06",
+      "blocks": [
+        76,
+        77,
+        78
+      ],
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori137.pdf#page=9",
+      "voteNote": "第137号９頁の欄外に、対象議案における諏訪幸男議員の欠席を記載。"
+    },
+    {
+      "place": "北本市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議案第50号",
+      "title": "農業委員会委員の任命について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18984.html",
+      "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18984.html",
+      "sourceTitle": "北本市議会・公式審議結果",
+      "date": "2026-06-08",
+      "result": "同意",
+      "proposer": "市長",
+      "archiveId": "5f80a29a6ea6ea298a06",
+      "blocks": [
+        82,
+        83,
+        84
+      ],
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori137.pdf#page=9",
+      "voteNote": "第137号９頁の欄外に、対象議案における諏訪幸男議員の欠席を記載。"
+    },
+    {
+      "place": "北本市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議案第51号",
+      "title": "農業委員会委員の任命について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18984.html",
+      "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18984.html",
+      "sourceTitle": "北本市議会・公式審議結果",
+      "date": "2026-06-08",
+      "result": "同意",
+      "proposer": "市長",
+      "archiveId": "5f80a29a6ea6ea298a06",
+      "blocks": [
+        88,
+        89,
+        90
+      ],
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori137.pdf#page=9",
+      "voteNote": "第137号９頁の欄外に、対象議案における諏訪幸男議員の欠席を記載。"
+    },
+    {
+      "place": "北本市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議案第52号",
+      "title": "農業委員会委員の任命について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18984.html",
+      "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18984.html",
+      "sourceTitle": "北本市議会・公式審議結果",
+      "date": "2026-06-08",
+      "result": "同意",
+      "proposer": "市長",
+      "archiveId": "5f80a29a6ea6ea298a06",
+      "blocks": [
+        94,
+        95,
+        96
+      ],
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori137.pdf#page=9",
+      "voteNote": "第137号９頁の欄外に、対象議案における諏訪幸男議員の欠席を記載。"
+    },
+    {
+      "place": "北本市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議案第53号",
+      "title": "農業委員会委員の任命について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18984.html",
+      "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18984.html",
+      "sourceTitle": "北本市議会・公式審議結果",
+      "date": "2026-06-08",
+      "result": "同意",
+      "proposer": "市長",
+      "archiveId": "5f80a29a6ea6ea298a06",
+      "blocks": [
+        100,
+        101,
+        102
+      ],
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori137.pdf#page=9",
+      "voteNote": "第137号９頁の欄外に、対象議案における諏訪幸男議員の欠席を記載。"
+    },
+    {
+      "place": "北本市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議案第54号",
+      "title": "農業委員会委員の任命について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18984.html",
+      "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18984.html",
+      "sourceTitle": "北本市議会・公式審議結果",
+      "date": "2026-06-08",
+      "result": "同意",
+      "proposer": "市長",
+      "archiveId": "5f80a29a6ea6ea298a06",
+      "blocks": [
+        107,
+        108,
+        109
+      ],
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori137.pdf#page=9",
+      "voteNote": "第137号９頁の欄外に、対象議案における諏訪幸男議員の欠席を記載。"
+    },
+    {
+      "place": "北本市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議案第55号",
+      "title": "令和8年度北本市一般会計補正予算(第2号)",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18984.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/giann202655.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-06-24",
+      "result": "原案可決",
+      "proposer": "市長",
+      "archiveId": "ef3d283a6ab03fb51ed0",
+      "blocks": [
+        58,
+        59,
+        60
+      ],
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori137.pdf#page=9",
+      "voteNote": "第137号９頁の欄外に、対象議案における諏訪幸男議員の欠席を記載。"
+    },
+    {
+      "place": "北本市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議案第56号",
+      "title": "令和8年度北本市一般会計補正予算(第3号)",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18984.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/giann202656.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-06-24",
+      "result": "原案可決",
+      "proposer": "市長",
+      "archiveId": "ef3d283a6ab03fb51ed0",
+      "blocks": [
+        71,
+        72,
+        73
+      ],
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori137.pdf#page=9",
+      "voteNote": "第137号９頁の欄外に、対象議案における諏訪幸男議員の欠席を記載。"
+    },
+    {
+      "place": "北本市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "報告第1号",
+      "title": "令和7年度北本市一般会計予算継続費の繰越計算書の報告について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18984.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/houkoku202601.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "voteNote": "公式資料は上程日を掲載。採決欄は横線。",
+      "date": "2026-06-03",
+      "result": "報告",
+      "proposer": "市長"
+    },
+    {
+      "place": "北本市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "報告第2号",
+      "title": "令和7年度北本市一般会計予算繰越明許費の繰越計算書の報告について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18984.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/houkoku202602.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "voteNote": "公式資料は上程日を掲載。採決欄は横線。",
+      "date": "2026-06-03",
+      "result": "報告",
+      "proposer": "市長"
+    },
+    {
+      "place": "北本市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "報告第3号",
+      "title": "令和7年度北本都市計画事業久保特定土地区画整理事業特別会計予算繰越明許費の繰越計算書の報告について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18984.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/houkoku202603.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "voteNote": "公式資料は上程日を掲載。採決欄は横線。",
+      "date": "2026-06-03",
+      "result": "報告",
+      "proposer": "市長"
+    },
+    {
+      "place": "北本市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "委提第1号",
+      "title": "北本市議会会議規則の一部改正について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/1/reiwa8/19009.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/itei202601.pdf#page=1",
+      "sourceTitle": "委員会提出議案の原文",
+      "date": "2026-06-24",
+      "result": "原案可決",
+      "proposer": "議会運営委員会（提出者 工藤日出夫委員長）",
+      "archiveId": "ef3d283a6ab03fb51ed0",
+      "blocks": [
+        95,
+        96,
+        97
+      ],
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori137.pdf#page=9",
+      "voteNote": "第137号９頁の欄外に、対象議案における諏訪幸男議員の欠席を記載。"
+    },
+    {
+      "place": "北本市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "委提第2号",
+      "title": "専決処分事項の指定についての一部改正について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/1/reiwa8/19009.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/itei202602.pdf#page=1",
+      "sourceTitle": "委員会提出議案の原文",
+      "date": "2026-06-24",
+      "result": "原案可決",
+      "proposer": "議会運営委員会（提出者 工藤日出夫委員長）",
+      "archiveId": "ef3d283a6ab03fb51ed0",
+      "blocks": [
+        103,
+        104,
+        105
+      ],
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori137.pdf#page=9",
+      "voteNote": "第137号９頁の欄外に、対象議案における諏訪幸男議員の欠席を記載。"
+    },
+    {
+      "place": "北本市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議請第2号",
+      "title": "北本市文化センター敷地内の蒲ザクラ後継樹に説明パネル設置を求める請願",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/seigan_chinjo/kekka/R08/19052.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/seigann202602.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-06-24",
+      "result": "採択",
+      "proposer": "請願者",
+      "archiveId": "ef3d283a6ab03fb51ed0",
+      "blocks": [
+        65,
+        66,
+        67
+      ],
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori137.pdf#page=9",
+      "voteNote": "第137号９頁の欄外に、対象議案における諏訪幸男議員の欠席を記載。"
+    },
+    {
+      "place": "北本市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議陳第4号",
+      "title": "「夜勤規則と大幅増員で安全・安心の医療・介護の実現を求める」意見書を国に提出することを求める陳情",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/seigan_chinjo/kekka/R08/19052.html",
+      "url": "https://www.city.kitamoto.lg.jp/shigikai/seigan_chinjo/kekka/R08/19052.html",
+      "sourceTitle": "北本市議会・公式審議結果",
+      "date": "2026-06-24",
+      "result": "配付",
+      "proposer": "陳情者",
+      "voteNote": "公式の表は議員への配付日を掲載。"
+    },
+    {
+      "place": "北本市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議陳第5号",
+      "title": "「ガソリン・物価・建設資材高騰による中小建設業者への燃油補助・緊急支援制度の創設を求める国への意見書」陳情書",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/seigan_chinjo/kekka/R08/19052.html",
+      "url": "https://www.city.kitamoto.lg.jp/shigikai/seigan_chinjo/kekka/R08/19052.html",
+      "sourceTitle": "北本市議会・公式審議結果",
+      "date": "2026-06-24",
+      "result": "配付",
+      "proposer": "陳情者",
+      "voteNote": "公式の表は議員への配付日を掲載。"
+    },
+    {
+      "place": "北本市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "number": "議陳第6号",
+      "title": "「消費税一律5%減税を求める意見書」を国に送付するよう求めることに関する陳情",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/seigan_chinjo/kekka/R08/19052.html",
+      "url": "https://www.city.kitamoto.lg.jp/shigikai/seigan_chinjo/kekka/R08/19052.html",
+      "sourceTitle": "北本市議会・公式審議結果",
+      "date": "2026-06-24",
+      "result": "配付",
+      "proposer": "陳情者",
+      "voteNote": "公式の表は議員への配付日を掲載。"
+    },
+    {
+      "place": "北本市",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第57号",
+      "title": "令和7年度北本市一般会計歳入歳出決算の認定について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18985.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/giann202657-62.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-09-28",
+      "result": "認定",
+      "proposer": "市長",
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori138a.pdf#page=9",
+      "voteType": "記名",
+      "votes": {
+        "小久保博雅": "賛成",
+        "毛呂一夫": "賛成",
+        "金森すみ子": "賛成",
+        "村田裕子": "賛成",
+        "工藤日出夫": "反対",
+        "大嶋達巳": "賛成",
+        "青野康子": "賛成",
+        "高橋誠": "賛成",
+        "諏訪幸男": "賛成",
+        "現王園孝昭": "賛成",
+        "永井司": "賛成",
+        "斉藤章": "賛成",
+        "保角美代": "議長（表決不参加）",
+        "島野和夫": "賛成",
+        "湯沢美恵": "反対",
+        "中村洋子": "反対",
+        "岡村有正": "賛成",
+        "滝瀬光一": "賛成",
+        "桜井卓": "賛成",
+        "今関公美": "賛成"
+      },
+      "voteNote": "賛否表の凡例では空欄を賛成と表示。議長欄は表決不参加。",
+      "archiveId": "64e1611be5a5c6690e5a",
+      "blocks": [
+        37,
+        38,
+        39
+      ]
+    },
+    {
+      "place": "北本市",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第58号",
+      "title": "令和7年度北本市後期高齢者医療特別会計歳入歳出決算の認定について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18985.html",
+      "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18985.html",
+      "sourceTitle": "北本市議会・公式審議結果",
+      "date": "2026-09-28",
+      "result": "認定",
+      "proposer": "市長",
+      "archiveId": "64e1611be5a5c6690e5a",
+      "blocks": [
+        44,
+        45,
+        46
+      ]
+    },
+    {
+      "place": "北本市",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第59号",
+      "title": "令和7年度北本都市計画事業久保特定土地区画整理事業特別会計歳入歳出決算の認定について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18985.html",
+      "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18985.html",
+      "sourceTitle": "北本市議会・公式審議結果",
+      "date": "2026-09-28",
+      "result": "認定",
+      "proposer": "市長",
+      "archiveId": "64e1611be5a5c6690e5a",
+      "blocks": [
+        48,
+        49,
+        50
+      ]
+    },
+    {
+      "place": "北本市",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第60号",
+      "title": "令和7年度北本市国民健康保険特別会計歳入歳出決算の認定について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18985.html",
+      "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18985.html",
+      "sourceTitle": "北本市議会・公式審議結果",
+      "date": "2026-09-28",
+      "result": "認定",
+      "proposer": "市長",
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori138a.pdf#page=9",
+      "voteType": "記名",
+      "votes": {
+        "小久保博雅": "賛成",
+        "毛呂一夫": "賛成",
+        "金森すみ子": "賛成",
+        "村田裕子": "賛成",
+        "工藤日出夫": "賛成",
+        "大嶋達巳": "賛成",
+        "青野康子": "賛成",
+        "高橋誠": "賛成",
+        "諏訪幸男": "賛成",
+        "現王園孝昭": "賛成",
+        "永井司": "賛成",
+        "斉藤章": "賛成",
+        "保角美代": "議長（表決不参加）",
+        "島野和夫": "賛成",
+        "湯沢美恵": "反対",
+        "中村洋子": "反対",
+        "岡村有正": "賛成",
+        "滝瀬光一": "賛成",
+        "桜井卓": "賛成",
+        "今関公美": "賛成"
+      },
+      "voteNote": "賛否表の凡例では空欄を賛成と表示。議長欄は表決不参加。",
+      "archiveId": "64e1611be5a5c6690e5a",
+      "blocks": [
+        59,
+        60,
+        61
+      ]
+    },
+    {
+      "place": "北本市",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第61号",
+      "title": "令和7年度北本市介護保険特別会計歳入歳出決算の認定について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18985.html",
+      "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18985.html",
+      "sourceTitle": "北本市議会・公式審議結果",
+      "date": "2026-09-28",
+      "result": "認定",
+      "proposer": "市長",
+      "archiveId": "64e1611be5a5c6690e5a",
+      "blocks": [
+        63,
+        64,
+        65
+      ]
+    },
+    {
+      "place": "北本市",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第62号",
+      "title": "令和7年度埼玉県央広域公平委員会特別会計歳入歳出決算の認定について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18985.html",
+      "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18985.html",
+      "sourceTitle": "北本市議会・公式審議結果",
+      "date": "2026-09-28",
+      "result": "認定",
+      "proposer": "市長",
+      "archiveId": "64e1611be5a5c6690e5a",
+      "blocks": [
+        67,
+        68,
+        69
+      ]
+    },
+    {
+      "place": "北本市",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第63号",
+      "title": "令和7年度北本市公共下水道事業会計決算の認定について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18985.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/giann202663.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-09-28",
+      "result": "認定",
+      "proposer": "市長",
+      "archiveId": "64e1611be5a5c6690e5a",
+      "blocks": [
+        71,
+        72,
+        73
+      ]
+    },
+    {
+      "place": "北本市",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第64号",
+      "title": "北本市職員の勤務時間、休日及び休暇に関する条例の一部改正について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18985.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/giann202664.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-09-28",
+      "result": "原案可決",
+      "proposer": "市長",
+      "archiveId": "64e1611be5a5c6690e5a",
+      "blocks": [
+        75,
+        76,
+        77
+      ]
+    },
+    {
+      "place": "北本市",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第65号",
+      "title": "北本市認可地縁団体印鑑条例の一部改正について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18985.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/giann202665.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-09-28",
+      "result": "原案可決",
+      "proposer": "市長",
+      "archiveId": "64e1611be5a5c6690e5a",
+      "blocks": [
+        79,
+        80,
+        81
+      ]
+    },
+    {
+      "place": "北本市",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第66号",
+      "title": "令和7年度北本市公共下水道事業会計未処分利益剰余金の処分について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18985.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/giann202666.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-09-28",
+      "result": "原案可決",
+      "proposer": "市長",
+      "archiveId": "64e1611be5a5c6690e5a",
+      "blocks": [
+        83,
+        84,
+        85
+      ]
+    },
+    {
+      "place": "北本市",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第67号",
+      "title": "債権の放棄について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18985.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/giann202667.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-09-28",
+      "result": "原案可決",
+      "proposer": "市長",
+      "archiveId": "64e1611be5a5c6690e5a",
+      "blocks": [
+        90,
+        91,
+        92
+      ]
+    },
+    {
+      "place": "北本市",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第68号",
+      "title": "債権の放棄について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18985.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/giann202668.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-09-28",
+      "result": "原案可決",
+      "proposer": "市長",
+      "archiveId": "64e1611be5a5c6690e5a",
+      "blocks": [
+        97,
+        98,
+        99
+      ]
+    },
+    {
+      "place": "北本市",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第69号",
+      "title": "工事請負契約の締結について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18985.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/giann202669.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-09-02",
+      "result": "原案可決",
+      "proposer": "市長",
+      "archiveId": "82f1e6a88e7f1e280da5",
+      "blocks": [
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "place": "北本市",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第70号",
+      "title": "工事請負契約の締結について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18985.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/giann202670.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-09-02",
+      "result": "原案可決",
+      "proposer": "市長",
+      "archiveId": "82f1e6a88e7f1e280da5",
+      "blocks": [
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "place": "北本市",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第71号",
+      "title": "財産の取得について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18985.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/giann202671a.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-09-28",
+      "result": "原案可決",
+      "proposer": "市長",
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori138a.pdf#page=9",
+      "voteType": "記名",
+      "votes": {
+        "小久保博雅": "賛成",
+        "毛呂一夫": "賛成",
+        "金森すみ子": "賛成",
+        "村田裕子": "賛成",
+        "工藤日出夫": "賛成",
+        "大嶋達巳": "賛成",
+        "青野康子": "反対",
+        "高橋誠": "反対",
+        "諏訪幸男": "反対",
+        "現王園孝昭": "反対",
+        "永井司": "反対",
+        "斉藤章": "賛成",
+        "保角美代": "議長（表決不参加）",
+        "島野和夫": "賛成",
+        "湯沢美恵": "賛成",
+        "中村洋子": "賛成",
+        "岡村有正": "賛成",
+        "滝瀬光一": "賛成",
+        "桜井卓": "賛成",
+        "今関公美": "賛成"
+      },
+      "voteNote": "賛否表の凡例では空欄を賛成と表示。議長欄は表決不参加。",
+      "archiveId": "64e1611be5a5c6690e5a",
+      "blocks": [
+        111,
+        112,
+        113
+      ]
+    },
+    {
+      "place": "北本市",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第72号",
+      "title": "教育委員会委員の任命について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18985.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/giann202672.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-09-02",
+      "result": "同意",
+      "proposer": "市長",
+      "archiveId": "82f1e6a88e7f1e280da5",
+      "blocks": [
+        22,
+        23,
+        24
+      ]
+    },
+    {
+      "place": "北本市",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第73号",
+      "title": "教育委員会委員の任命について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18985.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/giann202673.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-09-02",
+      "result": "同意",
+      "proposer": "市長",
+      "archiveId": "82f1e6a88e7f1e280da5",
+      "blocks": [
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "place": "北本市",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第74号",
+      "title": "固定資産評価審査委員会委員の選任について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18985.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/giann202674.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-09-02",
+      "result": "同意",
+      "proposer": "市長",
+      "archiveId": "82f1e6a88e7f1e280da5",
+      "blocks": [
+        34,
+        35,
+        36
+      ]
+    },
+    {
+      "place": "北本市",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第75号",
+      "title": "子どもの権利擁護委員の委嘱について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18985.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/giann202675.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-09-02",
+      "result": "同意",
+      "proposer": "市長",
+      "archiveId": "82f1e6a88e7f1e280da5",
+      "blocks": [
+        40,
+        41,
+        42
+      ]
+    },
+    {
+      "place": "北本市",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第76号",
+      "title": "子どもの権利擁護委員の委嘱について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18985.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/giann202676.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-09-02",
+      "result": "同意",
+      "proposer": "市長",
+      "archiveId": "82f1e6a88e7f1e280da5",
+      "blocks": [
+        46,
+        47,
+        48
+      ]
+    },
+    {
+      "place": "北本市",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第77号",
+      "title": "令和8年度北本市一般会計補正予算(第4号)",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18985.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/giann202677-81.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-09-28",
+      "result": "原案可決",
+      "proposer": "市長",
+      "archiveId": "64e1611be5a5c6690e5a",
+      "blocks": [
+        115,
+        116,
+        117
+      ]
+    },
+    {
+      "place": "北本市",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第78号",
+      "title": "令和8年度北本市後期高齢者医療特別会計補正予算(第1号)",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18985.html",
+      "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18985.html",
+      "sourceTitle": "北本市議会・公式審議結果",
+      "date": "2026-09-28",
+      "result": "原案可決",
+      "proposer": "市長",
+      "archiveId": "64e1611be5a5c6690e5a",
+      "blocks": [
+        119,
+        120,
+        121
+      ]
+    },
+    {
+      "place": "北本市",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第79号",
+      "title": "令和8年度北本都市計画事業久保特定土地区画整理事業特別会計補正予算(第1号)",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18985.html",
+      "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18985.html",
+      "sourceTitle": "北本市議会・公式審議結果",
+      "date": "2026-09-28",
+      "result": "原案可決",
+      "proposer": "市長",
+      "archiveId": "64e1611be5a5c6690e5a",
+      "blocks": [
+        123,
+        124,
+        125
+      ]
+    },
+    {
+      "place": "北本市",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第80号",
+      "title": "令和8年度北本市国民健康保険特別会計補正予算(第1号)",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18985.html",
+      "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18985.html",
+      "sourceTitle": "北本市議会・公式審議結果",
+      "date": "2026-09-28",
+      "result": "原案可決",
+      "proposer": "市長",
+      "archiveId": "64e1611be5a5c6690e5a",
+      "blocks": [
+        127,
+        128,
+        129
+      ]
+    },
+    {
+      "place": "北本市",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第81号",
+      "title": "令和8年度北本市介護保険特別会計補正予算(第1号)",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18985.html",
+      "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18985.html",
+      "sourceTitle": "北本市議会・公式審議結果",
+      "date": "2026-09-28",
+      "result": "原案可決",
+      "proposer": "市長",
+      "archiveId": "64e1611be5a5c6690e5a",
+      "blocks": [
+        131,
+        132,
+        133
+      ]
+    },
+    {
+      "place": "北本市",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第82号",
+      "title": "和解をし、損害賠償の額を定めることについて",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18985.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/giann202682.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-09-28",
+      "result": "原案可決",
+      "proposer": "市長",
+      "archiveId": "64e1611be5a5c6690e5a",
+      "blocks": [
+        156,
+        157,
+        158
+      ]
+    },
+    {
+      "place": "北本市",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議案第83号",
+      "title": "和解をし、損害賠償の額を定めることについて",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18985.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/gian202683.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-09-28",
+      "result": "原案可決",
+      "proposer": "市長",
+      "archiveId": "64e1611be5a5c6690e5a",
+      "blocks": [
+        165,
+        166,
+        167
+      ]
+    },
+    {
+      "place": "北本市",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "報告第4号",
+      "title": "専決処分の報告について(北本市廃棄物の処理及び清掃に関する条例の一部改正について)",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18985.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/houkoku202604.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "voteNote": "公式資料は上程日を掲載。採決欄は横線。",
+      "date": "2026-08-25",
+      "result": "報告",
+      "proposer": "市長"
+    },
+    {
+      "place": "北本市",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "報告第5号",
+      "title": "専決処分の報告について(北本市監査委員に関する条例及び北本市公共下水道事業の設置等に関する条例の一部改正について)",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18985.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/houkoku202605.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "voteNote": "公式資料は上程日を掲載。採決欄は横線。",
+      "date": "2026-08-25",
+      "result": "報告",
+      "proposer": "市長"
+    },
+    {
+      "place": "北本市",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "報告第6号",
+      "title": "継続費精算報告書について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18985.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/houkoku202606.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "voteNote": "公式資料は上程日を掲載。採決欄は横線。",
+      "date": "2026-08-25",
+      "result": "報告",
+      "proposer": "市長"
+    },
+    {
+      "place": "北本市",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "報告第7号",
+      "title": "令和7年度北本市財政の健全化判断比率の報告について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18985.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/houkoku202607.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "voteNote": "公式資料は上程日を掲載。採決欄は横線。",
+      "date": "2026-08-25",
+      "result": "報告",
+      "proposer": "市長"
+    },
+    {
+      "place": "北本市",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "報告第8号",
+      "title": "令和7年度北本市公営企業の資金不足比率の報告について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18985.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/houkoku202608.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "voteNote": "公式資料は上程日を掲載。採決欄は横線。",
+      "date": "2026-08-25",
+      "result": "報告",
+      "proposer": "市長"
+    },
+    {
+      "place": "北本市",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "委提第3号",
+      "title": "北本市議会議員の議員報酬等の特例に関する条例の制定について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/1/reiwa8/19010.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/itei202603a.pdf#page=1",
+      "sourceTitle": "委員会提出議案の原文",
+      "date": "2026-09-28",
+      "result": "原案可決",
+      "proposer": "議会運営委員会（提出者 工藤日出夫委員長）",
+      "archiveId": "64e1611be5a5c6690e5a",
+      "blocks": [
+        182,
+        183,
+        184
+      ]
+    },
+    {
+      "place": "北本市",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "委提第4号",
+      "title": "市内の産婦人科及び小児科の医療体制維持を求める決議",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/1/reiwa8/19010.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/itei202604.pdf#page=1",
+      "sourceTitle": "委員会提出議案の原文",
+      "date": "2026-09-28",
+      "result": "原案可決",
+      "proposer": "健康福祉常任委員会（提出者 高橋誠委員長）",
+      "archiveId": "64e1611be5a5c6690e5a",
+      "blocks": [
+        194,
+        195,
+        196
+      ]
+    },
+    {
+      "place": "北本市",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "委提第5号",
+      "title": "中小企業及び小規模事業者に対する事業継続支援の強化を求める意見書",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/1/reiwa8/19010.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/itei202605.pdf#page=1",
+      "sourceTitle": "委員会提出議案の原文",
+      "date": "2026-09-28",
+      "result": "原案可決",
+      "proposer": "建設経済常任委員会（提出者 永井司委員長）",
+      "archiveId": "64e1611be5a5c6690e5a",
+      "blocks": [
+        205,
+        206,
+        207
+      ]
+    },
+    {
+      "place": "北本市",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "委提第6号",
+      "title": "石油等由来製品の安定供給を阻害している要因の究明と解消を求める意見書",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/1/reiwa8/19010.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/itei202606.pdf#page=1",
+      "sourceTitle": "委員会提出議案の原文",
+      "date": "2026-09-28",
+      "result": "原案可決",
+      "proposer": "建設経済常任委員会（提出者 永井司委員長）",
+      "archiveId": "64e1611be5a5c6690e5a",
+      "blocks": [
+        216,
+        217,
+        218
+      ]
+    },
+    {
+      "place": "北本市",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議提第4号",
+      "title": "北本市議会基本条例及び北本市議会委員会条例の一部改正について",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/1/reiwa8/19010.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/gitei202604.pdf#page=1",
+      "sourceTitle": "議員提出議案の原文",
+      "date": "2026-09-28",
+      "result": "原案可決",
+      "voteURL": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori138a.pdf#page=9",
+      "voteType": "記名",
+      "votes": {
+        "小久保博雅": "賛成",
+        "毛呂一夫": "反対",
+        "金森すみ子": "賛成",
+        "村田裕子": "賛成",
+        "工藤日出夫": "賛成",
+        "大嶋達巳": "賛成",
+        "青野康子": "賛成",
+        "高橋誠": "賛成",
+        "諏訪幸男": "賛成",
+        "現王園孝昭": "賛成",
+        "永井司": "賛成",
+        "斉藤章": "賛成",
+        "保角美代": "議長（表決不参加）",
+        "島野和夫": "賛成",
+        "湯沢美恵": "賛成",
+        "中村洋子": "賛成",
+        "岡村有正": "賛成",
+        "滝瀬光一": "賛成",
+        "桜井卓": "賛成",
+        "今関公美": "賛成"
+      },
+      "voteNote": "賛否表の凡例では空欄を賛成と表示。議長欄は表決不参加。",
+      "archiveId": "64e1611be5a5c6690e5a",
+      "blocks": [
+        279,
+        280,
+        281
+      ],
+      "names": [
+        "桜井卓",
+        "島野和夫",
+        "滝瀬光一"
+      ],
+      "proposalSupporters": [
+        "斉藤章",
+        "今関公美",
+        "岡村有正",
+        "金森すみ子"
+      ],
+      "proposalRole": "発議者"
+    },
+    {
+      "place": "北本市",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議請第3号",
+      "title": "「中小企業・小規模事業者に対する事業継続支援を求める意見書」の提出を求める請願",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/seigan_chinjo/kekka/R08/19474.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/seigan202603a.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-09-28",
+      "result": "採択",
+      "proposer": "請願者",
+      "archiveId": "64e1611be5a5c6690e5a",
+      "blocks": [
+        143,
+        144,
+        145
+      ]
+    },
+    {
+      "place": "北本市",
+      "season": "fall",
+      "session": "令和8年第3回定例会",
+      "number": "議請第4号",
+      "title": "「石油等由来製品の安定供給を阻害している要因の究明と解消を求める意見書」の提出を求める請願",
+      "resultURL": "https://www.city.kitamoto.lg.jp/shigikai/seigan_chinjo/kekka/R08/19474.html",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/seigan202604a.pdf",
+      "sourceTitle": "北本市議会・提出原文",
+      "date": "2026-09-28",
+      "result": "採択",
+      "proposer": "請願者",
+      "archiveId": "64e1611be5a5c6690e5a",
+      "blocks": [
+        150,
+        151,
+        152
+      ]
     }
   ],
   "policy": [

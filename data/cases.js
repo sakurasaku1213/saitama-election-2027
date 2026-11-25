@@ -19139,3 +19139,622 @@ GIKAI.cases.push(...[
     "note": "補正と実施時期を確認。減額額の総計と家計への影響は確認待ち。"
   }
 ]);
+
+GIKAI.cases.push(...[
+  {
+    "place": "北本市",
+    "title": "保育施設整備の国庫支出金返納、補正の修正案と市長・副市長の減額",
+    "topic": "予算・監督",
+    "actors": [
+      "工藤日出夫",
+      "桜井卓",
+      "大嶋達巳",
+      "毛呂一夫",
+      "北本市",
+      "北本市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-19",
+        "stage": "返納金1,366万円の削除を委員会に提案",
+        "actor": "工藤日出夫、桜井卓、予算決算常任委員会",
+        "detail": "就学前教育・保育施設整備交付金の返納金全額を削る修正案。委員会は反対多数で否決すべきものと決めた。",
+        "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=313&schedule_id=2",
+        "sourceTitle": "北本市議会・令和 ８年 ３月 予算決算常任委員会 03月19日－01号",
+        "archiveId": "b3ecda9bb5d28f7c4e2d",
+        "blocks": [
+          23,
+          25,
+          54,
+          55
+        ],
+        "memberActions": [
+          {
+            "name": "工藤日出夫",
+            "detail": "返納金を全額削る修正案を提出し、提案理由を説明した。",
+            "blocks": [
+              23
+            ]
+          },
+          {
+            "name": "桜井卓",
+            "detail": "提出された修正案の内容について質疑した。",
+            "blocks": [
+              25
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-03-25",
+        "stage": "補正予算を本会議で原案可決",
+        "actor": "大嶋達巳、工藤日出夫、桜井卓、北本市議会",
+        "detail": "委員長の報告後、返納金の扱いと再発防止について賛否の討論。本会議は補正予算の原案を可決。",
+        "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=318&schedule_id=9",
+        "sourceTitle": "北本市議会・03月25日－08号",
+        "archiveId": "1b6ec2d8eb92e4736f4e",
+        "blocks": [
+          15,
+          22,
+          24,
+          40,
+          41,
+          42
+        ],
+        "billNumber": "議案第25号",
+        "memberActions": [
+          {
+            "name": "大嶋達巳",
+            "detail": "予算決算常任委員長として、修正案と原案についての委員会審査結果を報告した。",
+            "blocks": [
+              15
+            ]
+          },
+          {
+            "name": "工藤日出夫",
+            "detail": "委員会での修正案と原案への態度、その後の判断を説明して本会議では原案に反対討論した。",
+            "blocks": [
+              22
+            ]
+          },
+          {
+            "name": "桜井卓",
+            "detail": "返納の問題と原因究明に言及して、補正予算の原案に賛成討論した。",
+            "blocks": [
+              24
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-06-24",
+        "stage": "市長と副市長の給料減額の条例を可決",
+        "actor": "毛呂一夫、桜井卓、北本市議会",
+        "detail": "返納を伴う事案に関して減額を審議。委員長報告では市長30％、副市長10％。本会議で給料の特例条例を可決。",
+        "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=326&schedule_id=8",
+        "sourceTitle": "北本市議会・06月24日－07号",
+        "archiveId": "ef3d283a6ab03fb51ed0",
+        "blocks": [
+          9,
+          31,
+          33,
+          35,
+          36,
+          37
+        ],
+        "billNumber": "議案第36号",
+        "memberActions": [
+          {
+            "name": "毛呂一夫",
+            "detail": "委員長として減額率の根拠と委員会の全員賛成を報告した。本会議では、減額幅と再発防止の在り方を論じて反対討論した。",
+            "blocks": [
+              9,
+              31
+            ]
+          },
+          {
+            "name": "桜井卓",
+            "detail": "返納金を市の一般財源で負担することに言及し、減額条例に賛成討論した。",
+            "blocks": [
+              33
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "修正案と補正予算、減額条例の議決を確認。返納の支払実績と再発防止の運用は確認待ち。"
+  },
+  {
+    "place": "北本市",
+    "title": "デーノタメ遺跡の用地取得、予算修正案から秋の財産取得議決へ",
+    "topic": "文化財・予算・用地",
+    "actors": [
+      "永井司",
+      "湯沢美恵",
+      "青野康子",
+      "北本市",
+      "北本市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-19",
+        "stage": "史跡用地の予算削減修正案を委員会で審議",
+        "actor": "永井司、湯沢美恵、青野康子、予算決算常任委員会",
+        "detail": "用地の一部公有地化に係る６億5,195万円を削る修正案。委員会は賛成少数で否決すべきものと決めた。",
+        "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=313&schedule_id=2",
+        "sourceTitle": "北本市議会・令和 ８年 ３月 予算決算常任委員会 03月19日－01号",
+        "archiveId": "b3ecda9bb5d28f7c4e2d",
+        "blocks": [
+          79,
+          129,
+          132,
+          147,
+          149
+        ],
+        "memberActions": [
+          {
+            "name": "永井司",
+            "detail": "支出の優先順位や事業全体の計画に言及し、用地費等を削る修正案を提出した。",
+            "blocks": [
+              79
+            ]
+          },
+          {
+            "name": "湯沢美恵",
+            "detail": "用地購入と保存の意義に触れ、委員会で修正案に反対、原案に賛成討論した。",
+            "blocks": [
+              129
+            ]
+          },
+          {
+            "name": "青野康子",
+            "detail": "事業の財政上の優先度を指摘し、修正案に賛成討論した。",
+            "blocks": [
+              132
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-03-25",
+        "stage": "公有地化事業を含む当初予算を可決",
+        "actor": "北本市議会",
+        "detail": "本会議は2026年度一般会計予算の原案を可決した。",
+        "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18982.html",
+        "sourceTitle": "北本市議会・公式結果",
+        "billNumber": "議案第10号"
+      },
+      {
+        "date": "2026-08-25",
+        "stage": "市長が遺跡用地取得の議案を説明",
+        "actor": "北本市",
+        "detail": "当初予算に計上されていた事業に関し、市がデーノタメ遺跡の事業用地取得のため議会に議案を提出。",
+        "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=333&schedule_id=2",
+        "sourceTitle": "北本市議会・08月25日－01号",
+        "archiveId": "3b3a4fad2c5fd8e264af",
+        "blocks": [
+          17
+        ]
+      },
+      {
+        "date": "2026-09-28",
+        "stage": "財産取得を可決",
+        "actor": "北本市議会",
+        "detail": "市の公式結果で取得案を可決。議会だより原表には賛否の内訳を掲載。",
+        "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/gian/2/reiwa8nen/18985.html",
+        "sourceTitle": "北本市議会・公式結果",
+        "billNumber": "議案第71号"
+      }
+    ],
+    "note": "当初予算の審査から用地の財産取得議決まで確認。個別契約・登記や史跡の整備完了は確認待ち。"
+  },
+  {
+    "place": "北本市",
+    "title": "市立小中学校給食費の無償化と、市外学校の給食費支援",
+    "topic": "教育・給食",
+    "actors": [
+      "湯沢美恵",
+      "北本市",
+      "北本市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-25",
+        "stage": "給食費施策への言及と当初予算の可決",
+        "actor": "湯沢美恵、北本市議会",
+        "detail": "既存の中学校の無償化と小学校給食の支援に言及して討論。当初予算を可決した。",
+        "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=318&schedule_id=9",
+        "sourceTitle": "北本市議会・03月25日－08号",
+        "archiveId": "1b6ec2d8eb92e4736f4e",
+        "blocks": [
+          126,
+          145,
+          146,
+          147
+        ],
+        "billNumber": "議案第10号",
+        "memberActions": [
+          {
+            "name": "湯沢美恵",
+            "detail": "小中学校の給食費負担軽減を評価し、当初予算に賛成討論した。",
+            "blocks": [
+              126
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-11-04",
+        "stage": "市外学校の給食費支援の申請方法を公表",
+        "actor": "北本市",
+        "detail": "市は2026年度の市立小中学校の給食費無償化を案内し、市外学校の対象者には支払状況証明書等による支援金の手続を掲載。",
+        "url": "https://www.city.kitamoto.lg.jp/soshiki/kyoiku/kyoikusomu/gyomu/gakkoukyuusyoku/19665.html",
+        "sourceTitle": "北本市・市外学校の給食費支援"
+      }
+    ],
+    "note": "市立校の無償化と市外学校向けの申請手続を確認。年度内の支給実績は確認待ち。"
+  },
+  {
+    "place": "北本市",
+    "title": "文化センターの蒲ザクラ後継樹、説明パネルを求める請願を採択",
+    "topic": "文化財・請願",
+    "actors": [
+      "毛呂一夫",
+      "北本市",
+      "北本市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-06-08",
+        "stage": "説明パネルを求める請願を上程",
+        "actor": "北本市議会",
+        "detail": "文化センター敷地の蒲ザクラ後継樹を対象とする請願が上程された。",
+        "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/seigann202602.pdf",
+        "sourceTitle": "北本市議会・請願原文"
+      },
+      {
+        "date": "2026-06-24",
+        "stage": "パネル案を検討する手順の報告後、請願を採択",
+        "actor": "毛呂一夫、北本市議会",
+        "detail": "委員長は、文化財保護課が原案を作り審議会の決定を経ることが望ましいとの質疑の回答を報告。本会議は全員賛成で採択。",
+        "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=326&schedule_id=8",
+        "sourceTitle": "北本市議会・06月24日－07号",
+        "archiveId": "ef3d283a6ab03fb51ed0",
+        "blocks": [
+          9,
+          63,
+          65,
+          67
+        ],
+        "billNumber": "議請第2号",
+        "memberActions": [
+          {
+            "name": "毛呂一夫",
+            "detail": "総務文教常任委員長として、説明パネルの内容や検討の進め方の質疑を報告した。",
+            "blocks": [
+              9
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "請願の採択を確認。パネルの原案確定と設置は確認待ち。"
+  },
+  {
+    "place": "北本市",
+    "title": "核兵器禁止条約への署名・批准を求める請願と議員提出意見書",
+    "topic": "請願・意見書",
+    "actors": [
+      "永井司",
+      "高橋誠",
+      "斉藤章",
+      "桜井卓",
+      "湯沢美恵",
+      "中村洋子",
+      "北本市",
+      "北本市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-25",
+        "stage": "賛否の討論を経て請願を採択",
+        "actor": "永井司、高橋誠、斉藤章、桜井卓、湯沢美恵、北本市議会",
+        "detail": "署名・批准を政府に求める意見書の提出を要望する請願。本会議で採択。",
+        "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=318&schedule_id=9",
+        "sourceTitle": "北本市議会・03月25日－08号",
+        "archiveId": "1b6ec2d8eb92e4736f4e",
+        "blocks": [
+          13,
+          210,
+          216,
+          219,
+          222,
+          226,
+          227,
+          228
+        ],
+        "billNumber": "議請第1号",
+        "memberActions": [
+          {
+            "name": "永井司",
+            "detail": "建設経済常任委員長として請願審査の結果を報告した。",
+            "blocks": [
+              13
+            ]
+          },
+          {
+            "name": "高橋誠",
+            "detail": "請願に反対の立場で討論した。",
+            "blocks": [
+              210
+            ]
+          },
+          {
+            "name": "斉藤章",
+            "detail": "請願の採択を支持して討論した。",
+            "blocks": [
+              216
+            ]
+          },
+          {
+            "name": "桜井卓",
+            "detail": "請願に賛成討論した。",
+            "blocks": [
+              219
+            ]
+          },
+          {
+            "name": "湯沢美恵",
+            "detail": "請願に賛成討論した。",
+            "blocks": [
+              222
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-03-25",
+        "stage": "請願採択を受け議員が意見書案を提出",
+        "actor": "桜井卓、湯沢美恵、中村洋子",
+        "detail": "核兵器禁止条約に署名・批准することを政府に求める意見書案を提出した。",
+        "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/gitei202602.pdf#page=1",
+        "sourceTitle": "北本市議会・提出原文",
+        "memberActions": [
+          {
+            "name": "桜井卓",
+            "detail": "核兵器禁止条約に署名・批准することを政府に求める意見書案を提出した。"
+          },
+          {
+            "name": "湯沢美恵",
+            "detail": "提出原文の賛成者欄に記載。"
+          },
+          {
+            "name": "中村洋子",
+            "detail": "提出原文の賛成者欄に記載。"
+          }
+        ]
+      },
+      {
+        "date": "2026-03-25",
+        "stage": "議員の意見書案を本会議で可決",
+        "actor": "桜井卓、北本市議会",
+        "detail": "桜井議員が案文を説明し、本会議で原案可決。",
+        "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=318&schedule_id=9",
+        "sourceTitle": "北本市議会・03月25日－08号",
+        "archiveId": "1b6ec2d8eb92e4736f4e",
+        "blocks": [
+          231,
+          240,
+          241,
+          242
+        ],
+        "billNumber": "議提第2号",
+        "memberActions": [
+          {
+            "name": "桜井卓",
+            "detail": "採択された請願を踏まえ、正式に提出した意見書案を説明した。",
+            "blocks": [
+              231
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "請願採択と意見書議決を確認。国への個別送付日と国側の対応は確認待ち。"
+  },
+  {
+    "place": "北本市",
+    "title": "長期欠席時の議員報酬等の特例、議会運営委員会の提案から議決へ",
+    "topic": "議会運営・報酬",
+    "actors": [
+      "工藤日出夫",
+      "北本市",
+      "北本市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-09-28",
+        "stage": "長期欠席に対応する議員報酬等の特例案を提出",
+        "actor": "工藤日出夫、議会運営委員会",
+        "detail": "議会運営委員会が、議員の長期欠席時の報酬及び期末手当に関する特例案を提出した。",
+        "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/itei202603a.pdf#page=1",
+        "sourceTitle": "北本市議会・委員会の提出原文",
+        "memberActions": [
+          {
+            "name": "工藤日出夫",
+            "detail": "議会運営委員会の委員長として議案を提出した。"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-28",
+        "stage": "報酬等の特例条例を可決",
+        "actor": "工藤日出夫、北本市議会",
+        "detail": "長期欠席を連続90日を超える場合として扱う条例案。届出と復帰の手続、報酬・期末手当の特例を規定。",
+        "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=333&schedule_id=9",
+        "sourceTitle": "北本市議会・09月28日－08号",
+        "archiveId": "64e1611be5a5c6690e5a",
+        "blocks": [
+          170,
+          182,
+          183,
+          184
+        ],
+        "billNumber": "委提第3号",
+        "memberActions": [
+          {
+            "name": "工藤日出夫",
+            "detail": "議会運営委員長として特例条例の趣旨と内容を説明した。",
+            "blocks": [
+              170
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "条例案の提出と可決を確認。個々の事案への適用と報酬の支給実績は確認待ち。"
+  },
+  {
+    "place": "北本市",
+    "title": "市内の産婦人科・小児科の医療体制維持、委員会の提出と決議",
+    "topic": "地域医療・議会決議",
+    "actors": [
+      "高橋誠",
+      "北本市",
+      "北本市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-09-28",
+        "stage": "健康福祉常任委員会が医療体制維持を求める決議案を提出",
+        "actor": "高橋誠、健康福祉常任委員会",
+        "detail": "産婦人科・小児科医師の安定確保と財政支援について、市から国・県への働きかけの強化を求める決議案。",
+        "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/itei202604.pdf#page=1",
+        "sourceTitle": "北本市議会・委員会の提出原文",
+        "memberActions": [
+          {
+            "name": "高橋誠",
+            "detail": "健康福祉常任委員会の委員長として議案を提出した。"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-28",
+        "stage": "地域の医療体制維持を求める決議を可決",
+        "actor": "高橋誠、北本市議会",
+        "detail": "委員長が委員会の医療機関への視察で聴いた課題と決議案の趣旨を説明。議会は原案可決。",
+        "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=333&schedule_id=9",
+        "sourceTitle": "北本市議会・09月28日－08号",
+        "archiveId": "64e1611be5a5c6690e5a",
+        "blocks": [
+          187,
+          194,
+          195,
+          196
+        ],
+        "billNumber": "委提第4号",
+        "memberActions": [
+          {
+            "name": "高橋誠",
+            "detail": "健康福祉常任委員長として、視察から得た課題と決議案の要請内容を説明した。",
+            "blocks": [
+              187
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "視察を踏まえた決議案の提出と可決を確認。市や国・県の対応と医療体制の維持状況は確認待ち。"
+  },
+  {
+    "place": "北本市",
+    "title": "市議会議員定数と委員会構成の見直し、共同提出から条例可決へ",
+    "topic": "議会運営・定数",
+    "actors": [
+      "桜井卓",
+      "島野和夫",
+      "滝瀬光一",
+      "斉藤章",
+      "今関公美",
+      "岡村有正",
+      "金森すみ子",
+      "大嶋達巳",
+      "北本市",
+      "北本市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-09-28",
+        "stage": "議会基本条例と委員会条例の改正案を共同提出",
+        "actor": "桜井卓、島野和夫、滝瀬光一、斉藤章、今関公美、岡村有正、金森すみ子",
+        "detail": "議員定数を20人から19人にし、常任委員会の人数や議長の所属規定を改める条例案を提出。",
+        "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/gitei202604.pdf#page=1",
+        "sourceTitle": "北本市議会・提出原文",
+        "memberActions": [
+          {
+            "name": "桜井卓",
+            "detail": "議員定数を20人から19人にし、常任委員会の人数や議長の所属規定を改める条例案を提出。"
+          },
+          {
+            "name": "島野和夫",
+            "detail": "議員定数を20人から19人にし、常任委員会の人数や議長の所属規定を改める条例案を提出。"
+          },
+          {
+            "name": "滝瀬光一",
+            "detail": "議員定数を20人から19人にし、常任委員会の人数や議長の所属規定を改める条例案を提出。"
+          },
+          {
+            "name": "斉藤章",
+            "detail": "提出原文の賛成者欄に記載。"
+          },
+          {
+            "name": "今関公美",
+            "detail": "提出原文の賛成者欄に記載。"
+          },
+          {
+            "name": "岡村有正",
+            "detail": "提出原文の賛成者欄に記載。"
+          },
+          {
+            "name": "金森すみ子",
+            "detail": "提出原文の賛成者欄に記載。"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-28",
+        "stage": "議員定数と常任委員会に関する条例改正を可決",
+        "actor": "桜井卓、大嶋達巳、北本市議会",
+        "detail": "定数１人減と三つの常任委員会各６人などを提案。表決原表には反対１人を掲載し、本会議は賛成多数で可決。",
+        "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=333&schedule_id=9",
+        "sourceTitle": "北本市議会・09月28日－08号",
+        "archiveId": "64e1611be5a5c6690e5a",
+        "blocks": [
+          221,
+          261,
+          279,
+          280,
+          281
+        ],
+        "billNumber": "議提第4号",
+        "memberActions": [
+          {
+            "name": "桜井卓",
+            "detail": "共同提出者を代表し、定数と委員会構成を見直す理由を説明した。",
+            "blocks": [
+              221
+            ]
+          },
+          {
+            "name": "大嶋達巳",
+            "detail": "議員定数・委員会の構成を変更する改正案に賛成討論した。",
+            "blocks": [
+              261
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "条例の可決を確認。議員定数19人と新たな委員会構成は、条例施行後初めて告示される一般選挙に基づき適用。新体制の運用は確認待ち。"
+  }
+]);

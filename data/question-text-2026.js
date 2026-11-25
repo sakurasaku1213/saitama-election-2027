@@ -8071,6 +8071,68 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "8e663108772a6432f62c",
+      "place": "北本市",
+      "season": "spring",
+      "date": "2026-02-19",
+      "title": "令和 ８年 ３月 定例会（第１回） 02月19日－目次",
+      "kind": "公式会議録の付録（HTML）",
+      "scope": "summary",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=318&schedule_id=1",
+      "note": "市公式の会議録目次。",
+      "speakers": []
+    },
+    {
+      "id": "37055b98c9267c5dd106",
+      "place": "北本市",
+      "season": "spring",
+      "date": "2026-02-19",
+      "title": "令和8年第1回定例会 一般質問の通告",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/shitsumon/1/reiwa_8/19062.html",
+      "note": "公式の通告本文。各欄に発言予定日を掲載。実際の質疑と答弁は本会議録で確認できます。",
+      "speakers": [
+        "中村洋子",
+        "今関公美",
+        "大嶋達巳",
+        "小久保博雅",
+        "岡村有正",
+        "島野和夫",
+        "工藤日出夫",
+        "斉藤章",
+        "村田裕子",
+        "桜井卓",
+        "毛呂一夫",
+        "永井司",
+        "湯沢美恵",
+        "滝瀬光一",
+        "諏訪幸男",
+        "金森すみ子",
+        "青野康子",
+        "高橋誠"
+      ]
+    },
+    {
+      "id": "774faff3e59486e11279",
+      "place": "北本市",
+      "season": "spring",
+      "date": "2026-02-19",
+      "title": "令和8年第1回定例会 総括質疑の通告",
+      "kind": "議案質疑・一般質問通告（公式資料）",
+      "scope": "notice",
+      "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/shitsumon/2/reiwa_8/19077.html",
+      "note": "公式の通告本文。各欄に発言予定日を掲載。実際の質疑と答弁は本会議録で確認できます。",
+      "speakers": [
+        "中村洋子",
+        "岡村有正",
+        "斉藤章",
+        "桜井卓",
+        "金森すみ子",
+        "青野康子"
+      ]
+    },
+    {
       "id": "0a3592ea52618ec8738d",
       "place": "北本市",
       "season": "spring",
@@ -8108,6 +8170,126 @@ GIKAI.questionText = {
         "桜井卓",
         "諏訪幸男"
       ]
+    },
+    {
+      "id": "a600b6550fe447a23e4c",
+      "place": "北本市",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "令和 ８年 ３月 予算決算常任委員会 03月02日－01号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=313&schedule_id=1",
+      "note": "市公式の委員会・分科会会議録。",
+      "speakers": []
+    },
+    {
+      "id": "2590a6d68c48f6412c16",
+      "place": "北本市",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "令和 ８年 ３月 予算決算常任委員会建設経済分科会 03月03日－01号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=315&schedule_id=1",
+      "note": "市公式の委員会・分科会会議録。",
+      "speakers": []
+    },
+    {
+      "id": "c96e4d870758579e5606",
+      "place": "北本市",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "令和 ８年 ３月 建設経済常任委員会 03月03日－01号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=319&schedule_id=1",
+      "note": "市公式の委員会・分科会会議録。",
+      "speakers": []
+    },
+    {
+      "id": "cce52414f8ea4f45acee",
+      "place": "北本市",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "令和 ８年 ３月 予算決算常任委員会総務文教分科会 03月04日－01号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=316&schedule_id=1",
+      "note": "市公式の委員会・分科会会議録。",
+      "speakers": []
+    },
+    {
+      "id": "6372cc4a91e67fc0c38e",
+      "place": "北本市",
+      "season": "spring",
+      "date": "2026-03-04",
+      "title": "令和 ８年 ３月 総務文教常任委員会 03月04日－01号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=320&schedule_id=1",
+      "note": "市公式の委員会・分科会会議録。",
+      "speakers": []
+    },
+    {
+      "id": "86450cbccbf82c2f60bb",
+      "place": "北本市",
+      "season": "spring",
+      "date": "2026-03-05",
+      "title": "令和 ８年 ３月 予算決算常任委員会健康福祉分科会 03月05日－01号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=314&schedule_id=1",
+      "note": "市公式の委員会・分科会会議録。",
+      "speakers": []
+    },
+    {
+      "id": "918346f942793cae0303",
+      "place": "北本市",
+      "season": "spring",
+      "date": "2026-03-05",
+      "title": "令和 ８年 ３月 健康福祉常任委員会 03月05日－01号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=317&schedule_id=1",
+      "note": "市公式の委員会・分科会会議録。",
+      "speakers": []
+    },
+    {
+      "id": "2aef1cb39b3d7cdd8813",
+      "place": "北本市",
+      "season": "spring",
+      "date": "2026-03-06",
+      "title": "令和 ８年 ３月 予算決算常任委員会建設経済分科会 03月06日－01号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=315&schedule_id=2",
+      "note": "市公式の委員会・分科会会議録。",
+      "speakers": []
+    },
+    {
+      "id": "2bb996345bc232d4f6fa",
+      "place": "北本市",
+      "season": "spring",
+      "date": "2026-03-09",
+      "title": "令和 ８年 ３月 予算決算常任委員会総務文教分科会 03月09日－01号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=316&schedule_id=2",
+      "note": "市公式の委員会・分科会会議録。",
+      "speakers": []
+    },
+    {
+      "id": "6709982656638abaa1d9",
+      "place": "北本市",
+      "season": "spring",
+      "date": "2026-03-10",
+      "title": "令和 ８年 ３月 予算決算常任委員会健康福祉分科会 03月10日－01号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=314&schedule_id=2",
+      "note": "市公式の委員会・分科会会議録。",
+      "speakers": []
     },
     {
       "id": "462b585178777bc161de",
@@ -8189,6 +8371,24 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "b3ecda9bb5d28f7c4e2d",
+      "place": "北本市",
+      "season": "spring",
+      "date": "2026-03-19",
+      "title": "令和 ８年 ３月 予算決算常任委員会 03月19日－01号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=313&schedule_id=2",
+      "note": "市公式の委員会・分科会会議録。",
+      "speakers": [
+        "工藤日出夫",
+        "桜井卓",
+        "永井司",
+        "湯沢美恵",
+        "青野康子"
+      ]
+    },
+    {
       "id": "1b6ec2d8eb92e4736f4e",
       "place": "北本市",
       "season": "spring",
@@ -8220,6 +8420,42 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "2fc956076a4614d41b48",
+      "place": "北本市",
+      "season": "spring",
+      "date": "2026-03-25",
+      "title": "議提第2号 核兵器禁止条約に署名・批准することを求める意見書",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "summary",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/gitei202602.pdf",
+      "note": "公式の提出原文。表示日は市の議案一覧の上程日。",
+      "speakers": []
+    },
+    {
+      "id": "5ff78c26856b3cfaa8a3",
+      "place": "北本市",
+      "season": "spring",
+      "date": "2026-03-25",
+      "title": "議提第3号 イランへの攻撃中止と即時停戦に向けた外交努力等を求める意見書",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "summary",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/gitei202603.pdf",
+      "note": "公式の提出原文。表示日は市の議案一覧の上程日。",
+      "speakers": []
+    },
+    {
+      "id": "625ee40e040848513a6d",
+      "place": "北本市",
+      "season": "spring",
+      "date": "2026-05-01",
+      "title": "北本市議会だより第136号",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori136.pdf",
+      "note": "議会だよりの全頁をOCR。 原画像との照合候補頁 1、2、3、4、5、6、7、9、16。表決は原紙面を確認。",
+      "speakers": []
+    },
+    {
       "id": "a4d4ca809e68e0bdc418",
       "place": "北本市",
       "season": "summer",
@@ -8232,6 +8468,47 @@ GIKAI.questionText = {
       "speakers": [
         "保角美代",
         "大嶋達巳"
+      ]
+    },
+    {
+      "id": "f2bba8360cfb305b615e",
+      "place": "北本市",
+      "season": "summer",
+      "date": "2026-06-03",
+      "title": "令和 ８年 ６月 定例会（第２回） 06月03日－目次",
+      "kind": "公式会議録の付録（HTML）",
+      "scope": "summary",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=326&schedule_id=1",
+      "note": "市公式の会議録目次。",
+      "speakers": []
+    },
+    {
+      "id": "7ae89d9a7bea6ccc1fc7",
+      "place": "北本市",
+      "season": "summer",
+      "date": "2026-06-03",
+      "title": "令和8年第2回定例会 一般質問の通告",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/shitsumon/1/reiwa_8/19063.html",
+      "note": "公式の通告本文。各欄に発言予定日を掲載。実際の質疑と答弁は本会議録で確認できます。",
+      "speakers": [
+        "中村洋子",
+        "今関公美",
+        "大嶋達巳",
+        "小久保博雅",
+        "岡村有正",
+        "島野和夫",
+        "工藤日出夫",
+        "斉藤章",
+        "村田裕子",
+        "桜井卓",
+        "毛呂一夫",
+        "永井司",
+        "湯沢美恵",
+        "滝瀬光一",
+        "金森すみ子",
+        "青野康子"
       ]
     },
     {
@@ -8252,6 +8529,90 @@ GIKAI.questionText = {
         "永井司",
         "湯沢美恵"
       ]
+    },
+    {
+      "id": "0f4c244a2710ca47f997",
+      "place": "北本市",
+      "season": "summer",
+      "date": "2026-06-08",
+      "title": "令和 ８年 ６月 予算決算常任委員会 06月08日－01号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=321&schedule_id=1",
+      "note": "市公式の委員会・分科会会議録。",
+      "speakers": []
+    },
+    {
+      "id": "94495773a2d381a52ac5",
+      "place": "北本市",
+      "season": "summer",
+      "date": "2026-06-09",
+      "title": "令和 ８年 ６月 予算決算常任委員会総務文教分科会 06月09日－01号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=324&schedule_id=1",
+      "note": "市公式の委員会・分科会会議録。",
+      "speakers": []
+    },
+    {
+      "id": "a4c4fb6a409c72821eeb",
+      "place": "北本市",
+      "season": "summer",
+      "date": "2026-06-09",
+      "title": "令和 ８年 ６月 総務文教常任委員会 06月09日－01号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=328&schedule_id=1",
+      "note": "市公式の委員会・分科会会議録。",
+      "speakers": []
+    },
+    {
+      "id": "80490d94e1c28fd5e9d6",
+      "place": "北本市",
+      "season": "summer",
+      "date": "2026-06-10",
+      "title": "令和 ８年 ６月 予算決算常任委員会健康福祉分科会 06月10日－01号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=322&schedule_id=1",
+      "note": "市公式の委員会・分科会会議録。",
+      "speakers": []
+    },
+    {
+      "id": "fa875963f047875c4516",
+      "place": "北本市",
+      "season": "summer",
+      "date": "2026-06-10",
+      "title": "令和 ８年 ６月 健康福祉常任委員会 06月10日－01号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=325&schedule_id=1",
+      "note": "市公式の委員会・分科会会議録。",
+      "speakers": []
+    },
+    {
+      "id": "6e32ef3eaa1edf43cd7c",
+      "place": "北本市",
+      "season": "summer",
+      "date": "2026-06-11",
+      "title": "令和 ８年 ６月 予算決算常任委員会建設経済分科会 06月11日－01号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=323&schedule_id=1",
+      "note": "市公式の委員会・分科会会議録。",
+      "speakers": []
+    },
+    {
+      "id": "6fc92f470a5e3c48d26b",
+      "place": "北本市",
+      "season": "summer",
+      "date": "2026-06-11",
+      "title": "令和 ８年 ６月 建設経済常任委員会 06月11日－01号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=327&schedule_id=1",
+      "note": "市公式の委員会・分科会会議録。",
+      "speakers": []
     },
     {
       "id": "51cb93cc38559088098b",
@@ -8333,6 +8694,18 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "5407d04841f4533b46cc",
+      "place": "北本市",
+      "season": "summer",
+      "date": "2026-06-22",
+      "title": "令和 ８年 ６月 予算決算常任委員会 06月22日－01号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=321&schedule_id=2",
+      "note": "市公式の委員会・分科会会議録。",
+      "speakers": []
+    },
+    {
       "id": "ef3d283a6ab03fb51ed0",
       "place": "北本市",
       "season": "summer",
@@ -8352,6 +8725,42 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "f025147744f3865394d7",
+      "place": "北本市",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "委提第1号 北本市議会会議規則の一部改正について",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "summary",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/itei202601.pdf",
+      "note": "公式の提出原文。表示日は市の議案一覧の上程日。",
+      "speakers": []
+    },
+    {
+      "id": "28ffe2c85ec6348fa603",
+      "place": "北本市",
+      "season": "summer",
+      "date": "2026-06-24",
+      "title": "委提第2号 専決処分事項の指定についての一部改正について",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "summary",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/itei202602.pdf",
+      "note": "公式の提出原文。表示日は市の議案一覧の上程日。",
+      "speakers": []
+    },
+    {
+      "id": "8d5f5e429ff0fc2f1dd6",
+      "place": "北本市",
+      "season": "summer",
+      "date": "2026-08-01",
+      "title": "北本市議会だより第137号",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori137.pdf",
+      "note": "議会だよりの全頁をOCR。 原画像との照合候補頁 4、6、9、16。表決は原紙面を確認。",
+      "speakers": []
+    },
+    {
       "id": "3b3a4fad2c5fd8e264af",
       "place": "北本市",
       "season": "fall",
@@ -8364,6 +8773,67 @@ GIKAI.questionText = {
       "speakers": [
         "保角美代",
         "斉藤章",
+        "高橋誠"
+      ]
+    },
+    {
+      "id": "2b1c17c718761030c467",
+      "place": "北本市",
+      "season": "fall",
+      "date": "2026-08-25",
+      "title": "令和 ８年 ９月 定例会（第３回） 08月25日－目次",
+      "kind": "公式会議録の付録（HTML）",
+      "scope": "summary",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=333&schedule_id=1",
+      "note": "市公式の会議録目次。",
+      "speakers": []
+    },
+    {
+      "id": "5feba4da0d014f68d0d1",
+      "place": "北本市",
+      "season": "fall",
+      "date": "2026-08-25",
+      "title": "令和8年第3回定例会 一般質問の通告",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/shitsumon/1/reiwa_8/19064.html",
+      "note": "公式の通告本文。各欄に発言予定日を掲載。実際の質疑と答弁は本会議録で確認できます。",
+      "speakers": [
+        "中村洋子",
+        "今関公美",
+        "大嶋達巳",
+        "小久保博雅",
+        "岡村有正",
+        "島野和夫",
+        "工藤日出夫",
+        "斉藤章",
+        "村田裕子",
+        "桜井卓",
+        "毛呂一夫",
+        "永井司",
+        "湯沢美恵",
+        "滝瀬光一",
+        "金森すみ子",
+        "青野康子",
+        "高橋誠"
+      ]
+    },
+    {
+      "id": "8bfc73c2caf43a80d431",
+      "place": "北本市",
+      "season": "fall",
+      "date": "2026-08-25",
+      "title": "令和8年第3回定例会 総括質疑の通告",
+      "kind": "議案質疑・一般質問通告（公式資料）",
+      "scope": "notice",
+      "url": "https://www.city.kitamoto.lg.jp/shigikai/katsudo/shitsumon/2/reiwa_8/19078.html",
+      "note": "公式の通告本文。各欄に発言予定日を掲載。実際の質疑と答弁は本会議録で確認できます。",
+      "speakers": [
+        "今関公美",
+        "小久保博雅",
+        "岡村有正",
+        "斉藤章",
+        "湯沢美恵",
         "高橋誠"
       ]
     },
@@ -8404,6 +8874,114 @@ GIKAI.questionText = {
         "永井司",
         "湯沢美恵"
       ]
+    },
+    {
+      "id": "53a6c3b75ab4337fa8c6",
+      "place": "北本市",
+      "season": "fall",
+      "date": "2026-09-02",
+      "title": "令和 ８年 ９月 予算決算常任委員会 09月02日－01号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=329&schedule_id=1",
+      "note": "市公式の委員会・分科会会議録。",
+      "speakers": []
+    },
+    {
+      "id": "e14a1adc63b99b3c6cbe",
+      "place": "北本市",
+      "season": "fall",
+      "date": "2026-09-03",
+      "title": "令和 ８年 ９月 予算決算常任委員会建設経済分科会 09月03日－01号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=331&schedule_id=1",
+      "note": "市公式の委員会・分科会会議録。",
+      "speakers": []
+    },
+    {
+      "id": "318a61a6b4f0f2f7abeb",
+      "place": "北本市",
+      "season": "fall",
+      "date": "2026-09-03",
+      "title": "令和 ８年 ９月 建設経済常任委員会 09月03日－01号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=334&schedule_id=1",
+      "note": "市公式の委員会・分科会会議録。",
+      "speakers": []
+    },
+    {
+      "id": "4466bd72daf0b117d4f0",
+      "place": "北本市",
+      "season": "fall",
+      "date": "2026-09-04",
+      "title": "令和 ８年 ９月 予算決算常任委員会総務文教分科会 09月04日－01号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=332&schedule_id=1",
+      "note": "市公式の委員会・分科会会議録。",
+      "speakers": []
+    },
+    {
+      "id": "7b47a8b7d751f4345524",
+      "place": "北本市",
+      "season": "fall",
+      "date": "2026-09-04",
+      "title": "令和 ８年 ９月 総務文教常任委員会 09月04日－01号",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=335&schedule_id=1",
+      "note": "市公式の委員会・分科会会議録。",
+      "speakers": []
+    },
+    {
+      "id": "ee9a516e6328e2fbc504",
+      "place": "北本市",
+      "season": "fall",
+      "date": "2026-09-07",
+      "title": "令和 ８年 ９月 予算決算常任委員会健康福祉分科会 09月07日－01号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=330&schedule_id=1",
+      "note": "市公式の委員会・分科会会議録。",
+      "speakers": []
+    },
+    {
+      "id": "fb068e30fd2acb3bbe8a",
+      "place": "北本市",
+      "season": "fall",
+      "date": "2026-09-08",
+      "title": "令和 ８年 ９月 予算決算常任委員会建設経済分科会 09月08日－01号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=331&schedule_id=2",
+      "note": "市公式の委員会・分科会会議録。",
+      "speakers": []
+    },
+    {
+      "id": "137fa899049fafa879f0",
+      "place": "北本市",
+      "season": "fall",
+      "date": "2026-09-09",
+      "title": "令和 ８年 ９月 予算決算常任委員会総務文教分科会 09月09日－01号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=332&schedule_id=2",
+      "note": "市公式の委員会・分科会会議録。",
+      "speakers": []
+    },
+    {
+      "id": "74a4103f8fc607a4c470",
+      "place": "北本市",
+      "season": "fall",
+      "date": "2026-09-10",
+      "title": "令和 ８年 ９月 予算決算常任委員会健康福祉分科会 09月10日－01号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=330&schedule_id=2",
+      "note": "市公式の委員会・分科会会議録。",
+      "speakers": []
     },
     {
       "id": "17729c07fdcb4dc6c7ca",
@@ -8482,6 +9060,18 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "e54482006a950706490a",
+      "place": "北本市",
+      "season": "fall",
+      "date": "2026-09-24",
+      "title": "令和 ８年 ９月 予算決算常任委員会 09月24日－01号",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "url": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteView.html?tenant_id=300&council_id=329&schedule_id=2",
+      "note": "市公式の委員会・分科会会議録。",
+      "speakers": []
+    },
+    {
       "id": "64e1611be5a5c6690e5a",
       "place": "北本市",
       "season": "fall",
@@ -8510,6 +9100,78 @@ GIKAI.questionText = {
         "青野康子",
         "高橋誠"
       ]
+    },
+    {
+      "id": "8157284875964eb42fe3",
+      "place": "北本市",
+      "season": "fall",
+      "date": "2026-09-28",
+      "title": "委提第3号 北本市議会議員の議員報酬等の特例に関する条例の制定について",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "summary",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/itei202603a.pdf",
+      "note": "公式の提出原文。表示日は市の議案一覧の上程日。",
+      "speakers": []
+    },
+    {
+      "id": "722003ab95bc02795578",
+      "place": "北本市",
+      "season": "fall",
+      "date": "2026-09-28",
+      "title": "委提第4号 市内の産婦人科及び小児科の医療体制維持を求める決議",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "summary",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/itei202604.pdf",
+      "note": "公式の提出原文。表示日は市の議案一覧の上程日。",
+      "speakers": []
+    },
+    {
+      "id": "9157d628eb6ed5b550a9",
+      "place": "北本市",
+      "season": "fall",
+      "date": "2026-09-28",
+      "title": "委提第5号 中小企業及び小規模事業者に対する事業継続支援の強化を求める意見書",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "summary",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/itei202605.pdf",
+      "note": "公式の提出原文。表示日は市の議案一覧の上程日。",
+      "speakers": []
+    },
+    {
+      "id": "ed54399bbc7b5f384fa8",
+      "place": "北本市",
+      "season": "fall",
+      "date": "2026-09-28",
+      "title": "委提第6号 石油等由来製品の安定供給を阻害している要因の究明と解消を求める意見書",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "summary",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/itei202606.pdf",
+      "note": "公式の提出原文。表示日は市の議案一覧の上程日。",
+      "speakers": []
+    },
+    {
+      "id": "1de4dd1bfcfff6d4022e",
+      "place": "北本市",
+      "season": "fall",
+      "date": "2026-09-28",
+      "title": "議提第4号 北本市議会基本条例及び北本市議会委員会条例の一部改正について",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "summary",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/gitei202604.pdf",
+      "note": "公式の提出原文。表示日は市の議案一覧の上程日。",
+      "speakers": []
+    },
+    {
+      "id": "f483b9e2d8b3066bdfcd",
+      "place": "北本市",
+      "season": "fall",
+      "date": "2026-11-01",
+      "title": "北本市議会だより第138号",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori138a.pdf",
+      "note": "議会だよりの全頁をOCR。 原画像との照合候補頁 1、2、3、4、7、9。表決は原紙面を確認。",
+      "speakers": []
     },
     {
       "id": "70f0c0827d1618bc9868",
@@ -44597,7 +45259,7 @@ GIKAI.questionText = {
       "season": "spring",
       "material": {
         "state": "verified",
-        "note": "公式目次と照合した本会議の日別会議録8資料を収録。",
+        "note": "公式本会議録8日、委員会・分科会11資料、目次、通告及び議会だより第136号を収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteBrowse.html?tenant_id=300&view_years=2026"
       }
     },
@@ -44606,7 +45268,7 @@ GIKAI.questionText = {
       "season": "summer",
       "material": {
         "state": "verified",
-        "note": "公式目次と照合した本会議の日別会議録7資料を収録。",
+        "note": "公式本会議録7日、委員会・分科会8資料、目次、通告及び議会だより第137号を収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteBrowse.html?tenant_id=300&view_years=2026"
       }
     },
@@ -44615,7 +45277,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "verified",
-        "note": "公式目次と照合した本会議の日別会議録8資料を収録。",
+        "note": "公式本会議録8日、委員会・分科会10資料、目次、通告及び議会だより第138号を収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteBrowse.html?tenant_id=300&view_years=2026"
       }
     },
