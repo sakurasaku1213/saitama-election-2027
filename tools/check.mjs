@@ -144,7 +144,8 @@ for (const c of data.cases) {
     );
     const doc = step.archiveId ? archivedQuestionDocs.get(step.archiveId) : null;
     if (step.archiveId) {
-      assert.ok(doc?.place === place && ["minutes", "summary"].includes(doc.scope), c.title);
+      const publishedCaption = doc?.scope === "recording" && doc.kind === "公式録画の公開自動字幕";
+      assert.ok(doc?.place === place && (["minutes", "summary"].includes(doc.scope) || publishedCaption), c.title);
       assert.equal(doc.url.split("#")[0], step.url.split("#")[0], c.title);
       const monthlySource = doc.date.length === 7 &&
         (doc.scope === "summary" || doc.kind === "公式会議録PDFのOCR転記");
@@ -165,7 +166,7 @@ for (const c of data.cases) {
       if (step.archiveId) {
         assert.ok(action.blocks?.length && action.blocks.every((block, index) =>
           Number.isSafeInteger(block) && block > (action.blocks[index - 1] || 0)), action.name);
-        if (doc.scope === "summary") assert.ok(doc.speakers.includes(action.name), action.name);
+        if (doc.scope !== "minutes") assert.ok(doc.speakers.includes(action.name), action.name);
       } else {
         assert.equal(action.blocks, undefined, action.name);
       }

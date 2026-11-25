@@ -6752,39 +6752,39 @@ GIKAI.coverage2026 = {
     {
       "place": "越生町",
       "season": "spring",
-      "label": "2026年春の定例会",
-      "fromDate": "",
-      "toDate": "",
+      "label": "令和8年第1回定例会（3月）",
+      "fromDate": "2026-03-03",
+      "toDate": "2026-03-19",
       "planned": false,
       "materials": {
         "meeting": {
-          "state": "identified",
-          "note": "対象時期に関係する資料の掲載箇所を確認。会期の確定は未了。"
+          "state": "verified",
+          "note": "町の定例会案内と議決結果で会期と採決日を照合。"
         },
         "activity": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "一般質問の事前通告に10人。実際の発言は本会議録または公式録画で照合。"
         },
         "text": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "公式目次と照合した本会議録7資料と公式通告。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "町公式の議決結果20件を全件照合。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "議会だより第197号６頁の記名19件・209欄。残る１件の記名表は確認中。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "世界無名戦士之墓の保存への質問と、議員提出の意見書の議決を収録。"
         }
       },
       "sources": [
         {
-          "label": "会期資料　令和8年3月越生町議会定例会/越生町ホームページ",
+          "label": "町の定例会案内",
           "url": "https://www.town.ogose.saitama.jp/kamei/gikai/gyomuannai/reiwa8_3teireikai/4363.html"
         },
         {
@@ -6792,47 +6792,55 @@ GIKAI.coverage2026 = {
           "url": "https://www.town.ogose.saitama.jp/kamei/gikai/gyomuannai/reiwa8_3teireikai/4423.html"
         },
         {
-          "label": "議案・議決資料　令和8年3月定例会定例会議決結果一覧表 (PDFファイル: 700.9KB)",
+          "label": "公式の議決結果",
           "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0803_kekka.pdf"
+        },
+        {
+          "label": "一般質問の公式通告",
+          "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0803_shitsumon.pdf"
+        },
+        {
+          "label": "おごせ議会だより第197号の個人別表決",
+          "url": "https://www.town.ogose.saitama.jp/material/files/group/12/gikaidayori197.pdf#page=6"
         }
       ]
     },
     {
       "place": "越生町",
       "season": "summer",
-      "label": "2026年初夏の定例会",
+      "label": "令和8年第2回定例会（6月）",
       "fromDate": "2026-06-02",
       "toDate": "2026-06-08",
       "planned": false,
       "materials": {
         "meeting": {
           "state": "verified",
-          "note": "会期の日付を確認。"
+          "note": "町の定例会案内と議決結果で会期と採決日を照合。"
         },
         "activity": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "一般質問の事前通告に10人。実際の発言は本会議録または公式録画で照合。"
         },
         "text": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "公式目次と照合した本会議録4資料と公式通告。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "町公式の議決結果14件を全件照合。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "議会だより第198号３頁の記名12件・120欄。残る２件の記名表は確認中。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "移動式空調・防災行政無線の契約議案、歯科口腔保健条例、交通利用券など。"
         }
       },
       "sources": [
         {
-          "label": "対象会期の公式案内",
+          "label": "町の定例会案内",
           "url": "https://www.town.ogose.saitama.jp/kamei/gikai/gyomuannai/reiwa8_6teireikai/4492.html"
         },
         {
@@ -6840,42 +6848,50 @@ GIKAI.coverage2026 = {
           "url": "https://www.town.ogose.saitama.jp/kamei/gikai/gyomuannai/reiwa8_6teireikai/4494.html"
         },
         {
-          "label": "議案・議決資料　令和8年6月定例会議決結果一覧表 (PDFファイル: 449.2KB)",
+          "label": "公式の議決結果",
           "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0806_kekka.pdf"
+        },
+        {
+          "label": "一般質問の公式通告",
+          "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0806_shitsumon.pdf"
+        },
+        {
+          "label": "おごせ議会だより第198号の個人別表決",
+          "url": "https://www.town.ogose.saitama.jp/material/files/group/12/gikaidayori198.pdf#page=3"
         }
       ]
     },
     {
       "place": "越生町",
       "season": "fall",
-      "label": "2026年秋の定例会",
+      "label": "令和8年第3回定例会（9月）",
       "fromDate": "2026-09-01",
       "toDate": "2026-09-17",
       "planned": false,
       "materials": {
         "meeting": {
           "state": "verified",
-          "note": "会期の日付を確認。"
+          "note": "町の定例会案内と議決結果で会期と採決日を照合。"
         },
         "activity": {
           "state": "partial",
-          "note": "この時期の掲載項目 10件。通告・目次・本文の別は活動の出典に表示。"
+          "note": "一般質問の事前通告に10人。実際の発言は本会議録または公式録画で照合。"
         },
         "text": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "９月定例会の公式録画10人分の公開自動字幕と公式通告。町公式の2026年会議録目次では９月会期の掲載を確認できず、字幕と原音の確定照合も未了。"
         },
         "decisions": {
           "state": "verified",
-          "note": "公式の９月定例会の結果一覧に掲載された議決17件を、件名・議決日・結果で照合。"
+          "note": "町公式の議決結果17件を全件照合。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "notFound",
+          "note": "公式議決結果17件の原表に記名欄なし。個人別表決は確認中。"
         },
         "policy": {
           "state": "partial",
-          "note": "高校生等の車椅子通学をめぐる町の意見書案と県議会での質疑を日付・主体別に照合。"
+          "note": "学校体育館、文化財保存、緊急通報、熱中症、祭りの質問・答弁。車椅子通学の意見書と手話言語条例案の募集。"
         }
       },
       "sources": [
@@ -6884,16 +6900,32 @@ GIKAI.coverage2026 = {
           "url": "https://www.town.ogose.saitama.jp/chousei/gikai/teireikai/4607.html"
         },
         {
-          "label": "会期資料　2026年9月定例会・一般質問の全登壇者",
+          "label": "町公式の一般質問・録画一覧",
           "url": "https://www.town.ogose.saitama.jp/kamei/gikai/gyomuannai/reiwa8_9teireikai/4600.html"
         },
         {
-          "label": "議案・議決資料　令和8年9月定例会議決結果一覧表 (PDFファイル: 151.1KB)",
+          "label": "公式の議決結果",
           "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf"
         },
         {
           "label": "県議会の通学支援に関する質疑",
           "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/b/0203a.html"
+        },
+        {
+          "label": "町の定例会案内",
+          "url": "https://www.town.ogose.saitama.jp/kamei/gikai/gyomuannai/reiwa8_9teireikai/4599.html"
+        },
+        {
+          "label": "一般質問の公式通告",
+          "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_shitsumon.pdf"
+        },
+        {
+          "label": "おごせ議会だよりの索引",
+          "url": "https://www.town.ogose.saitama.jp/chousei/gikai/gikaidayori/1453290407772.html"
+        },
+        {
+          "label": "令和８年の正式会議録の索引",
+          "url": "https://ssp.kaigiroku.net/tenant/ogose/SpMinuteBrowse.html?tenant_id=75&view_years=2026"
         }
       ]
     },
@@ -16720,7 +16752,8 @@ GIKAI.coverage2026 = {
       "title": "専決処分の承認を求めることについて（令和8年度越生町一般会計補正予算（第2号））",
       "result": "承認",
       "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
-      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf"
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
+      "resultLocator": "議決番号35"
     },
     {
       "place": "越生町",
@@ -16731,7 +16764,8 @@ GIKAI.coverage2026 = {
       "title": "財産の処分について",
       "result": "可決",
       "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
-      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf"
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
+      "resultLocator": "議決番号36"
     },
     {
       "place": "越生町",
@@ -16742,7 +16776,8 @@ GIKAI.coverage2026 = {
       "title": "令和8年度越生町一般会計補正予算（第3号）",
       "result": "可決",
       "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
-      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf"
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
+      "resultLocator": "議決番号37"
     },
     {
       "place": "越生町",
@@ -16753,7 +16788,8 @@ GIKAI.coverage2026 = {
       "title": "令和8年度越生町国民健康保険特別会計補正予算（第1号）",
       "result": "可決",
       "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
-      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf"
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
+      "resultLocator": "議決番号38"
     },
     {
       "place": "越生町",
@@ -16764,7 +16800,8 @@ GIKAI.coverage2026 = {
       "title": "令和8年度越生町介護保険事業特別会計補正予算（第2号）",
       "result": "可決",
       "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
-      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf"
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
+      "resultLocator": "議決番号39"
     },
     {
       "place": "越生町",
@@ -16775,7 +16812,8 @@ GIKAI.coverage2026 = {
       "title": "越生町固定資産評価審査委員会委員の選任について",
       "result": "同意",
       "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
-      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf"
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
+      "resultLocator": "議決番号40"
     },
     {
       "place": "越生町",
@@ -16786,7 +16824,8 @@ GIKAI.coverage2026 = {
       "title": "越生町教育委員会委員の任命について",
       "result": "同意",
       "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
-      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf"
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
+      "resultLocator": "議決番号41"
     },
     {
       "place": "越生町",
@@ -16797,7 +16836,8 @@ GIKAI.coverage2026 = {
       "title": "令和7年度越生町一般会計歳入歳出決算認定",
       "result": "認定",
       "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
-      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf"
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
+      "resultLocator": "議決番号42"
     },
     {
       "place": "越生町",
@@ -16808,7 +16848,8 @@ GIKAI.coverage2026 = {
       "title": "令和7年度越生町、毛呂山町外4組合公平委員会特別会計歳入歳出決算認定",
       "result": "認定",
       "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
-      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf"
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
+      "resultLocator": "議決番号43"
     },
     {
       "place": "越生町",
@@ -16819,7 +16860,8 @@ GIKAI.coverage2026 = {
       "title": "令和7年度越生町国民健康保険特別会計歳入歳出決算認定",
       "result": "認定",
       "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
-      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf"
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
+      "resultLocator": "議決番号44"
     },
     {
       "place": "越生町",
@@ -16830,7 +16872,8 @@ GIKAI.coverage2026 = {
       "title": "令和7年度越生町介護保険事業特別会計歳入歳出決算認定",
       "result": "認定",
       "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
-      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf"
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
+      "resultLocator": "議決番号45"
     },
     {
       "place": "越生町",
@@ -16841,7 +16884,8 @@ GIKAI.coverage2026 = {
       "title": "令和7年度越生町後期高齢者医療特別会計歳入歳出決算認定",
       "result": "認定",
       "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
-      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf"
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
+      "resultLocator": "議決番号46"
     },
     {
       "place": "越生町",
@@ -16852,7 +16896,8 @@ GIKAI.coverage2026 = {
       "title": "令和7年度越生町水道事業会計決算認定",
       "result": "認定",
       "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
-      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf"
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
+      "resultLocator": "議決番号47"
     },
     {
       "place": "越生町",
@@ -16863,7 +16908,8 @@ GIKAI.coverage2026 = {
       "title": "令和7年度越生町農業集落排水事業会計決算認定",
       "result": "認定",
       "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
-      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf"
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
+      "resultLocator": "議決番号48"
     },
     {
       "place": "越生町",
@@ -16874,7 +16920,8 @@ GIKAI.coverage2026 = {
       "title": "「建設資材供給不安の解消並びに中小建設事業者の事業継続支援の拡充等を求める国への意見書」の提出を求める請願",
       "result": "可決",
       "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
-      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf"
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
+      "resultLocator": "議決番号49"
     },
     {
       "place": "越生町",
@@ -16885,7 +16932,8 @@ GIKAI.coverage2026 = {
       "title": "「高校生等における車椅子通学への支援補助および移動支援制度の拡充を求める意見書」",
       "result": "可決",
       "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
-      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf"
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
+      "resultLocator": "議決番号50"
     },
     {
       "place": "越生町",
@@ -16896,7 +16944,8 @@ GIKAI.coverage2026 = {
       "title": "議会運営委員会の閉会中の調査及び審査の件",
       "result": "可決",
       "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
-      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf"
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf",
+      "resultLocator": "議決番号51"
     },
     {
       "place": "日高市",
@@ -101584,6 +101633,871 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.ogawa.saitama.jp/material/files/group/18/shingikekka0806.pdf#page=1"
+    },
+    {
+      "place": "越生町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-03",
+      "title": "専決処分の承認を求めることについて（令和7年度越生町一般会計補正予算（第4号））",
+      "result": "承認",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0803_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0803_kekka.pdf",
+      "resultLocator": "議決番号1",
+      "number": "承認第1号",
+      "votes": {
+        "栗原誠": "賛成",
+        "岩田眞一": "賛成",
+        "長根弘倫": "賛成",
+        "高橋一正": "賛成",
+        "関根真一": "賛成",
+        "池田かつ子": "賛成",
+        "水沢努": "賛成",
+        "宮島サイ子": "賛成",
+        "木村好美": "賛成",
+        "島野美佳子": "賛成",
+        "木村正美": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogose.saitama.jp/material/files/group/12/gikaidayori197.pdf#page=6"
+    },
+    {
+      "place": "越生町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-03",
+      "title": "専決処分の承認を求めることについて（令和7年度越生町一般会計補正予算（第5号））",
+      "result": "承認",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0803_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0803_kekka.pdf",
+      "resultLocator": "議決番号2",
+      "number": "承認第2号",
+      "votes": {
+        "栗原誠": "賛成",
+        "岩田眞一": "賛成",
+        "長根弘倫": "賛成",
+        "高橋一正": "賛成",
+        "関根真一": "賛成",
+        "池田かつ子": "賛成",
+        "水沢努": "賛成",
+        "宮島サイ子": "賛成",
+        "木村好美": "賛成",
+        "島野美佳子": "賛成",
+        "木村正美": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogose.saitama.jp/material/files/group/12/gikaidayori197.pdf#page=6"
+    },
+    {
+      "place": "越生町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-03",
+      "title": "職員の勤務時間、休日及び休暇に関する条例の一部を改正する条例",
+      "result": "可決",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0803_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0803_kekka.pdf",
+      "resultLocator": "議決番号3",
+      "number": "議案第1号",
+      "votes": {
+        "栗原誠": "賛成",
+        "岩田眞一": "賛成",
+        "長根弘倫": "賛成",
+        "高橋一正": "賛成",
+        "関根真一": "賛成",
+        "池田かつ子": "賛成",
+        "水沢努": "賛成",
+        "宮島サイ子": "賛成",
+        "木村好美": "賛成",
+        "島野美佳子": "賛成",
+        "木村正美": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogose.saitama.jp/material/files/group/12/gikaidayori197.pdf#page=6"
+    },
+    {
+      "place": "越生町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-03",
+      "title": "越生町家庭的保育事業等の設備及び運営の基準に関する条例の一部を改正する条例",
+      "result": "可決",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0803_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0803_kekka.pdf",
+      "resultLocator": "議決番号4",
+      "number": "議案第2号",
+      "votes": {
+        "栗原誠": "賛成",
+        "岩田眞一": "賛成",
+        "長根弘倫": "賛成",
+        "高橋一正": "賛成",
+        "関根真一": "賛成",
+        "池田かつ子": "賛成",
+        "水沢努": "賛成",
+        "宮島サイ子": "賛成",
+        "木村好美": "賛成",
+        "島野美佳子": "賛成",
+        "木村正美": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogose.saitama.jp/material/files/group/12/gikaidayori197.pdf#page=6"
+    },
+    {
+      "place": "越生町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-03",
+      "title": "越生町国民健康保険税条例の一部を改正する条例",
+      "result": "可決",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0803_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0803_kekka.pdf",
+      "resultLocator": "議決番号5",
+      "number": "議案第3号",
+      "votes": {
+        "栗原誠": "反対",
+        "岩田眞一": "賛成",
+        "長根弘倫": "賛成",
+        "高橋一正": "反対",
+        "関根真一": "賛成",
+        "池田かつ子": "賛成",
+        "水沢努": "賛成",
+        "宮島サイ子": "賛成",
+        "木村好美": "賛成",
+        "島野美佳子": "賛成",
+        "木村正美": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogose.saitama.jp/material/files/group/12/gikaidayori197.pdf#page=6"
+    },
+    {
+      "place": "越生町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-03",
+      "title": "児童福祉法等の一部を改正する法律の施行に伴う関係条例の整理に関する条例",
+      "result": "可決",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0803_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0803_kekka.pdf",
+      "resultLocator": "議決番号6",
+      "number": "議案第4号",
+      "votes": {
+        "栗原誠": "賛成",
+        "岩田眞一": "賛成",
+        "長根弘倫": "賛成",
+        "高橋一正": "賛成",
+        "関根真一": "賛成",
+        "池田かつ子": "賛成",
+        "水沢努": "賛成",
+        "宮島サイ子": "賛成",
+        "木村好美": "賛成",
+        "島野美佳子": "賛成",
+        "木村正美": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogose.saitama.jp/material/files/group/12/gikaidayori197.pdf#page=6"
+    },
+    {
+      "place": "越生町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-03",
+      "title": "令和7年度越生町一般会計補正予算（第6号）",
+      "result": "可決",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0803_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0803_kekka.pdf",
+      "resultLocator": "議決番号7",
+      "number": "議案第6号",
+      "votes": {
+        "栗原誠": "賛成",
+        "岩田眞一": "賛成",
+        "長根弘倫": "賛成",
+        "高橋一正": "賛成",
+        "関根真一": "賛成",
+        "池田かつ子": "賛成",
+        "水沢努": "賛成",
+        "宮島サイ子": "賛成",
+        "木村好美": "賛成",
+        "島野美佳子": "賛成",
+        "木村正美": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogose.saitama.jp/material/files/group/12/gikaidayori197.pdf#page=6"
+    },
+    {
+      "place": "越生町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-03",
+      "title": "令和7年度越生町国民健康保険特別会計補正予算（第3号）",
+      "result": "可決",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0803_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0803_kekka.pdf",
+      "resultLocator": "議決番号8",
+      "number": "議案第7号",
+      "votes": {
+        "栗原誠": "賛成",
+        "岩田眞一": "賛成",
+        "長根弘倫": "賛成",
+        "高橋一正": "賛成",
+        "関根真一": "賛成",
+        "池田かつ子": "賛成",
+        "水沢努": "賛成",
+        "宮島サイ子": "賛成",
+        "木村好美": "賛成",
+        "島野美佳子": "賛成",
+        "木村正美": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogose.saitama.jp/material/files/group/12/gikaidayori197.pdf#page=6"
+    },
+    {
+      "place": "越生町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-03",
+      "title": "令和7年度越生町後期高齢者医療特別会計補正予算（第2号）",
+      "result": "可決",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0803_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0803_kekka.pdf",
+      "resultLocator": "議決番号9",
+      "number": "議案第8号",
+      "votes": {
+        "栗原誠": "賛成",
+        "岩田眞一": "賛成",
+        "長根弘倫": "賛成",
+        "高橋一正": "賛成",
+        "関根真一": "賛成",
+        "池田かつ子": "賛成",
+        "水沢努": "賛成",
+        "宮島サイ子": "賛成",
+        "木村好美": "賛成",
+        "島野美佳子": "賛成",
+        "木村正美": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogose.saitama.jp/material/files/group/12/gikaidayori197.pdf#page=6"
+    },
+    {
+      "place": "越生町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-03",
+      "title": "越生町教育委員会委員の任命について",
+      "result": "可決",
+      "url": "https://ssp.kaigiroku.net/tenant/ogose/SpMinuteView.html?tenant_id=75&council_id=90&schedule_id=2",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0803_kekka.pdf",
+      "resultLocator": "議決番号10",
+      "number": "同意第1号",
+      "votes": {
+        "栗原誠": "賛成",
+        "岩田眞一": "賛成",
+        "長根弘倫": "賛成",
+        "高橋一正": "賛成",
+        "関根真一": "賛成",
+        "池田かつ子": "賛成",
+        "水沢努": "賛成",
+        "宮島サイ子": "賛成",
+        "木村好美": "賛成",
+        "島野美佳子": "賛成",
+        "木村正美": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogose.saitama.jp/material/files/group/12/gikaidayori197.pdf#page=6",
+      "voteNote": "公式議決結果は「可決」。議会だより第197号６頁は「同意」、３月３日の本会議録54頁も原案どおり同意と記録。",
+      "sourceTitle": "３月３日本会議録54頁・同意第１号の採決"
+    },
+    {
+      "place": "越生町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-03",
+      "title": "日本政府が核兵器禁止条約に署名し国会で批准することを求める意見書",
+      "result": "可決",
+      "url": "https://ssp.kaigiroku.net/tenant/ogose/SpMinuteView.html?tenant_id=75&council_id=90&schedule_id=2",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0803_kekka.pdf",
+      "resultLocator": "議決番号11",
+      "number": "発議第1号",
+      "votes": {
+        "栗原誠": "賛成",
+        "岩田眞一": "賛成",
+        "長根弘倫": "賛成",
+        "高橋一正": "賛成",
+        "関根真一": "賛成",
+        "池田かつ子": "賛成",
+        "水沢努": "賛成",
+        "宮島サイ子": "賛成",
+        "木村好美": "賛成",
+        "島野美佳子": "賛成",
+        "木村正美": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogose.saitama.jp/material/files/group/12/gikaidayori197.pdf#page=6",
+      "names": [
+        "高橋一正"
+      ],
+      "proposalRole": "発議者",
+      "sourceTitle": "３月３日本会議録54頁・提出者の趣旨説明"
+    },
+    {
+      "place": "越生町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-19",
+      "title": "越生町道路線の認定について",
+      "result": "可決",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0803_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0803_kekka.pdf",
+      "resultLocator": "議決番号12",
+      "number": "議案第5号",
+      "votes": {
+        "栗原誠": "賛成",
+        "岩田眞一": "賛成",
+        "長根弘倫": "賛成",
+        "高橋一正": "賛成",
+        "関根真一": "賛成",
+        "池田かつ子": "賛成",
+        "水沢努": "賛成",
+        "宮島サイ子": "賛成",
+        "木村好美": "賛成",
+        "島野美佳子": "賛成",
+        "木村正美": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogose.saitama.jp/material/files/group/12/gikaidayori197.pdf#page=6"
+    },
+    {
+      "place": "越生町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-19",
+      "title": "令和8年度越生町一般会計予算",
+      "result": "可決",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0803_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0803_kekka.pdf",
+      "resultLocator": "議決番号13",
+      "number": "議案第9号",
+      "votes": {
+        "栗原誠": "賛成",
+        "岩田眞一": "賛成",
+        "長根弘倫": "賛成",
+        "高橋一正": "賛成",
+        "関根真一": "賛成",
+        "池田かつ子": "賛成",
+        "水沢努": "賛成",
+        "宮島サイ子": "賛成",
+        "木村好美": "賛成",
+        "島野美佳子": "賛成",
+        "木村正美": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogose.saitama.jp/material/files/group/12/gikaidayori197.pdf#page=6"
+    },
+    {
+      "place": "越生町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-19",
+      "title": "令和8年度越生町、毛呂山町外4組合公平委員会特別会計予算",
+      "result": "可決",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0803_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0803_kekka.pdf",
+      "resultLocator": "議決番号14",
+      "number": "議案第10号",
+      "votes": {
+        "栗原誠": "賛成",
+        "岩田眞一": "賛成",
+        "長根弘倫": "賛成",
+        "高橋一正": "賛成",
+        "関根真一": "賛成",
+        "池田かつ子": "賛成",
+        "水沢努": "賛成",
+        "宮島サイ子": "賛成",
+        "木村好美": "賛成",
+        "島野美佳子": "賛成",
+        "木村正美": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogose.saitama.jp/material/files/group/12/gikaidayori197.pdf#page=6"
+    },
+    {
+      "place": "越生町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-19",
+      "title": "令和8年度越生町国民健康保険特別会計予算",
+      "result": "可決",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0803_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0803_kekka.pdf",
+      "resultLocator": "議決番号15",
+      "number": "議案第11号",
+      "votes": {
+        "栗原誠": "反対",
+        "岩田眞一": "賛成",
+        "長根弘倫": "賛成",
+        "高橋一正": "反対",
+        "関根真一": "賛成",
+        "池田かつ子": "賛成",
+        "水沢努": "賛成",
+        "宮島サイ子": "賛成",
+        "木村好美": "賛成",
+        "島野美佳子": "反対",
+        "木村正美": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogose.saitama.jp/material/files/group/12/gikaidayori197.pdf#page=6"
+    },
+    {
+      "place": "越生町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-19",
+      "title": "令和8年度越生町介護保険事業特別会計予算",
+      "result": "可決",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0803_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0803_kekka.pdf",
+      "resultLocator": "議決番号16",
+      "number": "議案第12号",
+      "votes": {
+        "栗原誠": "賛成",
+        "岩田眞一": "賛成",
+        "長根弘倫": "賛成",
+        "高橋一正": "賛成",
+        "関根真一": "賛成",
+        "池田かつ子": "賛成",
+        "水沢努": "賛成",
+        "宮島サイ子": "賛成",
+        "木村好美": "賛成",
+        "島野美佳子": "賛成",
+        "木村正美": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogose.saitama.jp/material/files/group/12/gikaidayori197.pdf#page=6"
+    },
+    {
+      "place": "越生町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-19",
+      "title": "令和8年度越生町後期高齢者医療特別会計予算",
+      "result": "可決",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0803_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0803_kekka.pdf",
+      "resultLocator": "議決番号17",
+      "number": "議案第13号",
+      "votes": {
+        "栗原誠": "賛成",
+        "岩田眞一": "賛成",
+        "長根弘倫": "賛成",
+        "高橋一正": "反対",
+        "関根真一": "賛成",
+        "池田かつ子": "賛成",
+        "水沢努": "賛成",
+        "宮島サイ子": "賛成",
+        "木村好美": "賛成",
+        "島野美佳子": "賛成",
+        "木村正美": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogose.saitama.jp/material/files/group/12/gikaidayori197.pdf#page=6"
+    },
+    {
+      "place": "越生町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-19",
+      "title": "令和8年度越生町水道事業会計予算",
+      "result": "可決",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0803_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0803_kekka.pdf",
+      "resultLocator": "議決番号18",
+      "number": "議案第14号",
+      "votes": {
+        "栗原誠": "賛成",
+        "岩田眞一": "賛成",
+        "長根弘倫": "賛成",
+        "高橋一正": "賛成",
+        "関根真一": "賛成",
+        "池田かつ子": "賛成",
+        "水沢努": "賛成",
+        "宮島サイ子": "賛成",
+        "木村好美": "賛成",
+        "島野美佳子": "賛成",
+        "木村正美": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogose.saitama.jp/material/files/group/12/gikaidayori197.pdf#page=6"
+    },
+    {
+      "place": "越生町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-19",
+      "title": "令和8年度越生町農業集落排水事業会計予算",
+      "result": "可決",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0803_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0803_kekka.pdf",
+      "resultLocator": "議決番号19",
+      "number": "議案第15号",
+      "votes": {
+        "栗原誠": "賛成",
+        "岩田眞一": "賛成",
+        "長根弘倫": "賛成",
+        "高橋一正": "賛成",
+        "関根真一": "賛成",
+        "池田かつ子": "賛成",
+        "水沢努": "賛成",
+        "宮島サイ子": "賛成",
+        "木村好美": "賛成",
+        "島野美佳子": "賛成",
+        "木村正美": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogose.saitama.jp/material/files/group/12/gikaidayori197.pdf#page=6"
+    },
+    {
+      "place": "越生町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-19",
+      "title": "議会運営委員会の閉会中の調査及び審査の件",
+      "result": "可決",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0803_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0803_kekka.pdf",
+      "resultLocator": "議決番号20"
+    },
+    {
+      "place": "越生町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "date": "2026-06-02",
+      "title": "専決処分の承認を求めることについて（越生町税条例の一部を改正する条例）",
+      "result": "承認",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0806_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0806_kekka.pdf",
+      "resultLocator": "議決番号21",
+      "number": "承認第3号",
+      "votes": {
+        "栗原誠": "賛成",
+        "長根弘倫": "賛成",
+        "高橋一正": "賛成",
+        "関根真一": "賛成",
+        "池田かつ子": "賛成",
+        "水沢努": "賛成",
+        "宮島サイ子": "賛成",
+        "木村好美": "賛成",
+        "島野美佳子": "賛成",
+        "木村正美": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogose.saitama.jp/material/files/group/12/gikaidayori198.pdf#page=3"
+    },
+    {
+      "place": "越生町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "date": "2026-06-02",
+      "title": "専決処分の承認を求めることについて（越生町国民健康保険税条例の一部を改正する条例）",
+      "result": "承認",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0806_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0806_kekka.pdf",
+      "resultLocator": "議決番号22",
+      "number": "承認第4号",
+      "votes": {
+        "栗原誠": "賛成",
+        "長根弘倫": "賛成",
+        "高橋一正": "賛成",
+        "関根真一": "賛成",
+        "池田かつ子": "賛成",
+        "水沢努": "賛成",
+        "宮島サイ子": "賛成",
+        "木村好美": "賛成",
+        "島野美佳子": "賛成",
+        "木村正美": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogose.saitama.jp/material/files/group/12/gikaidayori198.pdf#page=3"
+    },
+    {
+      "place": "越生町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "date": "2026-06-02",
+      "title": "越生町印鑑条例の一部を改正する条例",
+      "result": "可決",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0806_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0806_kekka.pdf",
+      "resultLocator": "議決番号23",
+      "number": "議案第16号",
+      "votes": {
+        "栗原誠": "賛成",
+        "長根弘倫": "賛成",
+        "高橋一正": "賛成",
+        "関根真一": "賛成",
+        "池田かつ子": "賛成",
+        "水沢努": "賛成",
+        "宮島サイ子": "賛成",
+        "木村好美": "賛成",
+        "島野美佳子": "賛成",
+        "木村正美": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogose.saitama.jp/material/files/group/12/gikaidayori198.pdf#page=3"
+    },
+    {
+      "place": "越生町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "date": "2026-06-02",
+      "title": "越生町歯科口腔保健の推進に関する条例",
+      "result": "可決",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0806_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0806_kekka.pdf",
+      "resultLocator": "議決番号24",
+      "number": "議案第17号",
+      "votes": {
+        "栗原誠": "賛成",
+        "長根弘倫": "賛成",
+        "高橋一正": "賛成",
+        "関根真一": "賛成",
+        "池田かつ子": "賛成",
+        "水沢努": "賛成",
+        "宮島サイ子": "賛成",
+        "木村好美": "賛成",
+        "島野美佳子": "賛成",
+        "木村正美": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogose.saitama.jp/material/files/group/12/gikaidayori198.pdf#page=3"
+    },
+    {
+      "place": "越生町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "date": "2026-06-02",
+      "title": "財産の取得について",
+      "result": "可決",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0806_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0806_kekka.pdf",
+      "resultLocator": "議決番号25",
+      "number": "議案第18号",
+      "votes": {
+        "栗原誠": "賛成",
+        "長根弘倫": "賛成",
+        "高橋一正": "賛成",
+        "関根真一": "賛成",
+        "池田かつ子": "賛成",
+        "水沢努": "賛成",
+        "宮島サイ子": "賛成",
+        "木村好美": "賛成",
+        "島野美佳子": "賛成",
+        "木村正美": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogose.saitama.jp/material/files/group/12/gikaidayori198.pdf#page=3"
+    },
+    {
+      "place": "越生町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "date": "2026-06-02",
+      "title": "工事請負契約の締結について",
+      "result": "可決",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0806_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0806_kekka.pdf",
+      "resultLocator": "議決番号26",
+      "number": "議案第19号",
+      "votes": {
+        "栗原誠": "賛成",
+        "長根弘倫": "賛成",
+        "高橋一正": "賛成",
+        "関根真一": "賛成",
+        "池田かつ子": "賛成",
+        "水沢努": "賛成",
+        "宮島サイ子": "賛成",
+        "木村好美": "賛成",
+        "島野美佳子": "賛成",
+        "木村正美": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogose.saitama.jp/material/files/group/12/gikaidayori198.pdf#page=3"
+    },
+    {
+      "place": "越生町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "date": "2026-06-02",
+      "title": "令和8年度越生町一般会計補正予算（第1号）",
+      "result": "可決",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0806_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0806_kekka.pdf",
+      "resultLocator": "議決番号27",
+      "number": "議案第20号",
+      "votes": {
+        "栗原誠": "賛成",
+        "長根弘倫": "賛成",
+        "高橋一正": "賛成",
+        "関根真一": "賛成",
+        "池田かつ子": "賛成",
+        "水沢努": "賛成",
+        "宮島サイ子": "賛成",
+        "木村好美": "賛成",
+        "島野美佳子": "賛成",
+        "木村正美": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogose.saitama.jp/material/files/group/12/gikaidayori198.pdf#page=3"
+    },
+    {
+      "place": "越生町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "date": "2026-06-02",
+      "title": "令和8年度越生町介護保険事業特別会計補正予算（第1号）",
+      "result": "可決",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0806_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0806_kekka.pdf",
+      "resultLocator": "議決番号28",
+      "number": "議案第21号",
+      "votes": {
+        "栗原誠": "賛成",
+        "長根弘倫": "賛成",
+        "高橋一正": "賛成",
+        "関根真一": "賛成",
+        "池田かつ子": "賛成",
+        "水沢努": "賛成",
+        "宮島サイ子": "賛成",
+        "木村好美": "賛成",
+        "島野美佳子": "賛成",
+        "木村正美": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogose.saitama.jp/material/files/group/12/gikaidayori198.pdf#page=3"
+    },
+    {
+      "place": "越生町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "date": "2026-06-02",
+      "title": "越生町、毛呂山町外4組合公平委員会委員の選任について",
+      "result": "同意",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0806_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0806_kekka.pdf",
+      "resultLocator": "議決番号29",
+      "number": "同意第2号",
+      "votes": {
+        "栗原誠": "賛成",
+        "長根弘倫": "賛成",
+        "高橋一正": "賛成",
+        "関根真一": "賛成",
+        "池田かつ子": "賛成",
+        "水沢努": "賛成",
+        "宮島サイ子": "賛成",
+        "木村好美": "賛成",
+        "島野美佳子": "賛成",
+        "木村正美": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogose.saitama.jp/material/files/group/12/gikaidayori198.pdf#page=3"
+    },
+    {
+      "place": "越生町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "date": "2026-06-02",
+      "title": "越生町、毛呂山町外4組合公平委員会委員の選任について",
+      "result": "同意",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0806_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0806_kekka.pdf",
+      "resultLocator": "議決番号30",
+      "number": "同意第3号",
+      "votes": {
+        "栗原誠": "賛成",
+        "長根弘倫": "賛成",
+        "高橋一正": "賛成",
+        "関根真一": "賛成",
+        "池田かつ子": "賛成",
+        "水沢努": "賛成",
+        "宮島サイ子": "賛成",
+        "木村好美": "賛成",
+        "島野美佳子": "賛成",
+        "木村正美": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogose.saitama.jp/material/files/group/12/gikaidayori198.pdf#page=3"
+    },
+    {
+      "place": "越生町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "date": "2026-06-02",
+      "title": "越生町、毛呂山町外4組合公平委員会委員の選任について",
+      "result": "同意",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0806_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0806_kekka.pdf",
+      "resultLocator": "議決番号31",
+      "number": "同意第4号",
+      "votes": {
+        "栗原誠": "賛成",
+        "長根弘倫": "賛成",
+        "高橋一正": "賛成",
+        "関根真一": "賛成",
+        "池田かつ子": "賛成",
+        "水沢努": "賛成",
+        "宮島サイ子": "賛成",
+        "木村好美": "賛成",
+        "島野美佳子": "賛成",
+        "木村正美": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogose.saitama.jp/material/files/group/12/gikaidayori198.pdf#page=3"
+    },
+    {
+      "place": "越生町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "date": "2026-06-02",
+      "title": "越生町固定資産評価員の選任について",
+      "result": "同意",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0806_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0806_kekka.pdf",
+      "resultLocator": "議決番号32",
+      "number": "同意第5号",
+      "votes": {
+        "栗原誠": "賛成",
+        "長根弘倫": "賛成",
+        "高橋一正": "賛成",
+        "関根真一": "賛成",
+        "池田かつ子": "賛成",
+        "水沢努": "賛成",
+        "宮島サイ子": "賛成",
+        "木村好美": "賛成",
+        "島野美佳子": "賛成",
+        "木村正美": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ogose.saitama.jp/material/files/group/12/gikaidayori198.pdf#page=3"
+    },
+    {
+      "place": "越生町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "date": "2026-06-08",
+      "title": "議員派遣の件",
+      "result": "可決",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0806_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0806_kekka.pdf",
+      "resultLocator": "議決番号33"
+    },
+    {
+      "place": "越生町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "date": "2026-06-08",
+      "title": "議会運営委員会の閉会中の調査及び審査の件",
+      "result": "可決",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0806_kekka.pdf",
+      "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0806_kekka.pdf",
+      "resultLocator": "議決番号34"
     }
   ],
   "policy": [

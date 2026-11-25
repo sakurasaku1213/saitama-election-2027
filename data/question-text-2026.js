@@ -3203,6 +3203,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "f0205d2d602bdc9b4814",
+      "place": "三郷市",
+      "season": "fall",
+      "date": "2026-09-15",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "鈴木優作議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/misato/WebView/rd/speech.html?council_id=16&schedule_id=5&playlist_id=3&speaker_id=26&target_year=2026",
+      "speakers": [
+        "鈴木優作"
+      ]
+    },
+    {
       "id": "1a662ec728c0488515ed",
       "place": "上尾市",
       "season": "spring",
@@ -36610,6 +36624,30 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "863b676a8b1025cec7ee",
+      "place": "越生町",
+      "season": "spring",
+      "date": "2026-03",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0803_shitsumon.pdf",
+      "scope": "notice",
+      "indexURL": "https://www.town.ogose.saitama.jp/kamei/gikai/gyomuannai/reiwa8_3teireikai/4363.html",
+      "kind": "一般質問通告（公式資料）",
+      "title": "令和8年第1回定例会（3月）・一般質問通告",
+      "speakers": [
+        "水沢努",
+        "木村正美",
+        "高橋一正",
+        "池田かつ子",
+        "木村好美",
+        "宮島サイ子",
+        "長根弘倫",
+        "島野美佳子",
+        "岩田眞一",
+        "関根真一"
+      ],
+      "note": "町議会の事前通告。質問者10人の発言予定を掲載。実際の質問・答弁は本会議録または公式録画を参照。"
+    },
+    {
       "id": "88f8768ff1f6051699d9",
       "place": "越生町",
       "season": "spring",
@@ -36731,6 +36769,30 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "c4ba386786fa4e953828",
+      "place": "越生町",
+      "season": "summer",
+      "date": "2026-06",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0806_shitsumon.pdf",
+      "scope": "notice",
+      "indexURL": "https://www.town.ogose.saitama.jp/kamei/gikai/gyomuannai/reiwa8_6teireikai/4492.html",
+      "kind": "一般質問通告（公式資料）",
+      "title": "令和8年第2回定例会（6月）・一般質問通告",
+      "speakers": [
+        "水沢努",
+        "木村好美",
+        "島野美佳子",
+        "木村正美",
+        "宮島サイ子",
+        "長根弘倫",
+        "高橋一正",
+        "池田かつ子",
+        "栗原誠",
+        "関根真一"
+      ],
+      "note": "町議会の事前通告。質問者10人の発言予定を掲載。実際の質問・答弁は本会議録または公式録画を参照。"
+    },
+    {
       "id": "fcedc784b5b7b28ee724",
       "place": "越生町",
       "season": "summer",
@@ -36799,6 +36861,30 @@ GIKAI.questionText = {
         "池田かつ子",
         "関根真一"
       ]
+    },
+    {
+      "id": "03c4c6dacaf0fb954984",
+      "place": "越生町",
+      "season": "fall",
+      "date": "2026-09",
+      "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0809_shitsumon.pdf",
+      "scope": "notice",
+      "indexURL": "https://www.town.ogose.saitama.jp/kamei/gikai/gyomuannai/reiwa8_9teireikai/4599.html",
+      "kind": "一般質問通告（公式資料）",
+      "title": "令和8年第3回定例会（9月）・一般質問通告",
+      "speakers": [
+        "水沢努",
+        "木村正美",
+        "木村好美",
+        "高橋一正",
+        "宮島サイ子",
+        "島野美佳子",
+        "池田かつ子",
+        "長根弘倫",
+        "栗原誠",
+        "関根真一"
+      ],
+      "note": "町議会の事前通告。質問者10人の発言予定を掲載。実際の質問・答弁は本会議録または公式録画を参照。"
     },
     {
       "id": "e3ffc8026f66b349756d",
@@ -40448,7 +40534,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "第207号で議員15人・15主題の質問と答弁、議案・決算の14問答、補足13件を原紙面と照合。公式通告19頁、公式録画で9/14の２人、15・16日の各６人、17日の１人を照合。速報版は市が11月下旬予定と案内しており、正式会議録は確認中。 公式録画・音声の機械文字起こしを3件収録。 公式録画・音声の機械文字起こしを4件収録。",
+        "note": "第207号で議員15人・15主題の質問と答弁、議案・決算の14問答、補足13件を原紙面と照合。公式通告19頁、公式録画で9/14の２人、15・16日の各６人、17日の１人を照合。速報版は市が11月下旬予定と案内しており、正式会議録は確認中。 公式録画・音声の機械文字起こしを3件収録。 公式録画・音声の機械文字起こしを4件収録。 公式録画・音声の機械文字起こしを5件収録。",
         "indexURL": "https://smart.discussvision.net/smart/tenant/misato/WebView/rd/council.html?year=2026&council_id=16"
       }
     },
@@ -40771,7 +40857,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "９月定例会一般質問の公式録画10人のうち、10人分の公開自動字幕を収録。原音との確定照合と正式会議録は確認中。",
+        "note": "９月定例会の公式録画10人分の公開自動字幕と公式通告。町公式の2026年会議録目次では９月会期の掲載を確認できず、字幕と原音の確定照合も未了。",
         "indexURL": "https://www.town.ogose.saitama.jp/kamei/gikai/gyomuannai/reiwa8_9teireikai/4600.html"
       }
     },

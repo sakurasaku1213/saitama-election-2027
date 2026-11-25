@@ -10681,3 +10681,530 @@ GIKAI.cases.push(...[
     "note": "老朽施設の更新に関する質疑と、将来事業を見据えた基金の積立を記録。センターの着工と完成は確認中。"
   }
 ]);
+
+GIKAI.cases.push(...[
+  {
+    "place": "越生町",
+    "title": "学校体育館の冷房と、中央公民館体育館の移動式空調",
+    "topic": "学校・避難所",
+    "actors": [
+      "水沢努",
+      "木村好美",
+      "越生町",
+      "越生町議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-06-02",
+        "stage": "移動式空調の仕様と排熱を審査",
+        "actor": "水沢努、越生町",
+        "detail": "町は指定避難所の中央公民館体育館に移動式空調機５台を整備する案を説明。水沢議員が排熱ダクトの処理と現場で本来の性能を発揮できるかを質し、町は熱気の逆流を防ぐ方法を検討すると答えた。",
+        "url": "https://ssp.kaigiroku.net/tenant/ogose/SpMinuteView.html?tenant_id=75&council_id=91&schedule_id=2",
+        "sourceTitle": "06月02日－01号・21～23頁",
+        "archiveId": "fcedc784b5b7b28ee724",
+        "blocks": [
+          89,
+          91,
+          93,
+          95,
+          97
+        ],
+        "memberActions": [
+          {
+            "name": "水沢努",
+            "detail": "納品後の排熱と現場での実効性を質した。",
+            "blocks": [
+              93,
+              97
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-06-02",
+        "stage": "中央公民館向けの取得議案を可決",
+        "actor": "越生町議会",
+        "detail": "中央公民館体育館に移動式空調機５台を整備する880万円の取得議案を可決。町が説明した納入期限は12月18日。",
+        "url": "https://ssp.kaigiroku.net/tenant/ogose/SpMinuteView.html?tenant_id=75&council_id=91&schedule_id=2",
+        "sourceTitle": "06月02日－01号・21～27頁",
+        "archiveId": "fcedc784b5b7b28ee724",
+        "blocks": [
+          91,
+          124,
+          125
+        ],
+        "billNumber": "議案第18号"
+      },
+      {
+        "date": "2026-09-03",
+        "stage": "学校体育館の冷房を質問し、町が当面の対応を答弁",
+        "actor": "木村好美、越生町",
+        "detail": "木村議員は避難所の梅園小学校体育館を含む学校体育館の冷房整備を質問。町は当面は既に空調がある多目的室を活用し、学校体育館の整備を検討する方針を説明。中央公民館体育館の移動式空調の効果も確認する考えを示した。",
+        "url": "https://www.youtube.com/watch?v=hfTqX6ZPxRw",
+        "sourceTitle": "木村好美議員　一般質問（公開字幕）・約01:09～14:59",
+        "archiveId": "e3ffc8026f66b349756d",
+        "blocks": [
+          1,
+          2,
+          3
+        ],
+        "memberActions": [
+          {
+            "name": "木村好美",
+            "detail": "梅園小学校体育館での避難と、学校体育館での教育活動の両面から空調整備を質問した。",
+            "blocks": [
+              1
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "中央公民館の取得議決と、梅園小学校体育館の整備検討を追跡。町の９月答弁は公開自動字幕の要旨。納入・設置の実績は確認中。"
+  },
+  {
+    "place": "越生町",
+    "title": "世界無名戦士之墓の保存を３会期で追う",
+    "topic": "文化財・施設保全",
+    "actors": [
+      "木村正美",
+      "水沢努",
+      "越生町"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-06",
+        "stage": "文化財の保存の質疑に、過去の防水工事と耐震診断の課題を説明",
+        "actor": "木村正美、越生町",
+        "detail": "木村議員が霊廟の保存について質問。町は令和６年度の防水工事を説明し、建設時の図面が残らず耐震診断は未実施と答えた。",
+        "url": "https://ssp.kaigiroku.net/tenant/ogose/SpMinuteView.html?tenant_id=75&council_id=90&schedule_id=5",
+        "sourceTitle": "03月06日－04号・138・140頁",
+        "archiveId": "91880a46d9aebb9662d5",
+        "blocks": [
+          63,
+          67
+        ],
+        "memberActions": [
+          {
+            "name": "木村正美",
+            "detail": "霊廟の耐震診断や保全について質した。",
+            "blocks": [
+              63
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-06-03",
+        "stage": "修繕と資金確保を再度質問",
+        "actor": "水沢努、越生町",
+        "detail": "水沢議員は歴史的意義の発信と修繕資金の確保を質問。町は既に行った防水工事と、外壁塗装を進めるための寄附集めの必要性を説明した。",
+        "url": "https://ssp.kaigiroku.net/tenant/ogose/SpMinuteView.html?tenant_id=75&council_id=91&schedule_id=3",
+        "sourceTitle": "06月03日－02号・37～49頁",
+        "archiveId": "bdef2acbf0d249cba8b3",
+        "blocks": [
+          9,
+          13,
+          35,
+          37
+        ],
+        "memberActions": [
+          {
+            "name": "水沢努",
+            "detail": "修繕の進め方と費用をどう確保するか質した。",
+            "blocks": [
+              9,
+              35
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-09-03",
+        "stage": "施設全体の診断と修繕計画を求め、町が連携方針を答弁",
+        "actor": "水沢努、越生町",
+        "detail": "水沢議員は施設の劣化診断と修繕計画を求めた。町は令和６年度に行った工事を説明し、顕彰会と連携して実現可能な修繕計画の策定に取り組む考えを示した。",
+        "url": "https://www.youtube.com/watch?v=7nfkrV6GOT0",
+        "sourceTitle": "水沢努議員　一般質問（公開字幕）・約06:11～07:39・29:37～31:31",
+        "archiveId": "82bb38e4adb2c450d538",
+        "blocks": [
+          2,
+          6,
+          7
+        ],
+        "memberActions": [
+          {
+            "name": "水沢努",
+            "detail": "建物の劣化診断と補助制度も視野に入れた修繕計画を求めた。",
+            "blocks": [
+              2
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "令和６年度の工事と2026年９月の計画策定方針を記録。耐震診断と経年劣化診断は別。９月は公開自動字幕の要旨。"
+  },
+  {
+    "place": "越生町",
+    "title": "歯科口腔保健条例の質疑から制定まで",
+    "topic": "保健・条例",
+    "actors": [
+      "池田かつ子",
+      "島野美佳子",
+      "越生町",
+      "越生町議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-06-02",
+        "stage": "条例による取組と事業者の責務を質疑",
+        "actor": "池田かつ子、島野美佳子、越生町",
+        "detail": "池田議員は住民への効果と今後の取組、島野議員は事業者の責務と費用負担を質問した。町は啓発と関係機関の連携を図り、事業者に歯科健診を義務付ける趣旨ではないと説明した。",
+        "url": "https://ssp.kaigiroku.net/tenant/ogose/SpMinuteView.html?tenant_id=75&council_id=91&schedule_id=2",
+        "sourceTitle": "06月02日－01号・17～20頁",
+        "archiveId": "fcedc784b5b7b28ee724",
+        "blocks": [
+          59,
+          61,
+          69,
+          71,
+          73,
+          79,
+          81
+        ],
+        "memberActions": [
+          {
+            "name": "池田かつ子",
+            "detail": "住民への効果、今後の施策、制定後の周知を取り上げた。",
+            "blocks": [
+              59,
+              69
+            ]
+          },
+          {
+            "name": "島野美佳子",
+            "detail": "事業者の責務と経済的負担を確認した。",
+            "blocks": [
+              71,
+              79
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-06-02",
+        "stage": "条例案を可決",
+        "actor": "越生町議会",
+        "detail": "歯科口腔保健の推進に関する条例案を可決。",
+        "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0806_kekka.pdf",
+        "sourceTitle": "越生町議会・公式議決結果",
+        "billNumber": "議案第17号"
+      },
+      {
+        "date": "2026-06-04",
+        "stage": "条例を制定",
+        "actor": "越生町",
+        "detail": "町が６月４日制定と公表し、条例本文と基本理念を公開した。",
+        "url": "https://www.town.ogose.saitama.jp/kamei/ken_fuku/hokenyobo/gyomuannai/hokenyobo/kenkoudukuri/4524.html",
+        "sourceTitle": "越生町・制定された条例の案内"
+      }
+    ],
+    "note": "質疑、町議会の可決、町が公表した制定日を確認。"
+  },
+  {
+    "place": "越生町",
+    "title": "タクシー・バス利用券の拡充後、利用条件を問い直す",
+    "topic": "公共交通・移動支援",
+    "actors": [
+      "木村好美",
+      "越生町",
+      "越生町地域公共交通協議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-04-01",
+        "stage": "年度の利用券を５万2,000円に拡充",
+        "actor": "越生町",
+        "detail": "町は４月１日から１万円（20枚）増額した。タクシーは本人１回につき３枚まで。利用券を持つ人同士の乗り合わせでは、人数に応じた利用ができる。",
+        "url": "https://www.town.ogose.saitama.jp/kurashi/jyutaku/koutu/taxibusriyouken/1552541445953.html",
+        "sourceTitle": "越生町・地域交通タクシー・バス利用券"
+      },
+      {
+        "date": "2026-06-03",
+        "stage": "平日の路線バス廃止後の移動と、利用券の切り替えを質問",
+        "actor": "木村好美、越生町",
+        "detail": "木村議員は平日バス廃止後の移動、利用券の利用枚数と交付時期を質問。町は１回３枚の上限と乗り合わせの制度、印刷と事業者への周知に要する時間を説明した。",
+        "url": "https://ssp.kaigiroku.net/tenant/ogose/SpMinuteView.html?tenant_id=75&council_id=91&schedule_id=3",
+        "sourceTitle": "06月03日－02号・50・54・61～62頁",
+        "archiveId": "bdef2acbf0d249cba8b3",
+        "blocks": [
+          41,
+          45,
+          95,
+          97
+        ],
+        "memberActions": [
+          {
+            "name": "木村好美",
+            "detail": "平日バス廃止後の代替手段、利用券の上限と交付時期を質問。情報公開請求で申請時のアンケートを閲覧したと述べ、梅園地区の意見の把握方法も質した。",
+            "blocks": [
+              41,
+              95
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-07-28",
+        "stage": "地域公共交通協議会が住民調査案を議題に",
+        "actor": "越生町地域公共交通協議会",
+        "detail": "協議会の会議結果に、公共交通に関する町民アンケート調査案を議題として掲載した。",
+        "url": "https://www.town.ogose.saitama.jp/kamei/kizai/kikaku/gyomuannai/keikakuseido/koutsu/koukyoukoutuu/4595.html",
+        "sourceTitle": "越生町・令和８年度第１回地域公共交通協議会の会議結果"
+      },
+      {
+        "date": "2026-09",
+        "stage": "町広報で公共交通アンケートへの協力を依頼",
+        "actor": "越生町",
+        "detail": "広報９月号６・７頁に、地域公共交通計画の策定に向けた町民アンケートへの協力依頼を掲載した。",
+        "url": "https://www.town.ogose.saitama.jp/chousei/kouhou/kouhouogose2023_3/4609.html",
+        "sourceTitle": "広報おごせ・令和８年９月号"
+      }
+    ],
+    "note": "４月の拡充、６月の利用面の質疑、協議会の調査案、広報の協力依頼を記録。調査後の計画決定は確認中。"
+  },
+  {
+    "place": "越生町",
+    "title": "緊急通報装置の利用状況と通報後の対応を確認",
+    "topic": "高齢者福祉・見守り",
+    "actors": [
+      "木村正美",
+      "越生町"
+    ],
+    "steps": [
+      {
+        "date": "2023-04",
+        "stage": "町広報に装置の貸出しと申請方法を掲載",
+        "actor": "越生町",
+        "detail": "ひとり暮らしの高齢者や高齢者のみの世帯などに向け、対象要件と貸出しの申請方法を案内した。",
+        "url": "https://www.town.ogose.saitama.jp/material/files/group/1/2023-04-1819.pdf#page=1",
+        "sourceTitle": "広報おごせ・令和５年４月号16頁"
+      },
+      {
+        "date": "2026-09-03",
+        "stage": "制度の運用、役立った事例と今後の見守りを質問",
+        "actor": "木村正美、越生町",
+        "detail": "木村議員は緊急通報装置の利用実態と、役立った例や今後の見守りを質問。町は委託先が訪問して状況を確認し、救急搬送につながった事例を説明した。令和７年度末の高齢者への貸出しは答弁で23台。",
+        "url": "https://www.youtube.com/watch?v=8CqU2n8IJdI",
+        "sourceTitle": "木村正美議員　一般質問（公開字幕）・約06:52～07:48・19:28～21:54",
+        "archiveId": "77ad651bcc9e3dd70083",
+        "blocks": [
+          2,
+          4,
+          5
+        ],
+        "memberActions": [
+          {
+            "name": "木村正美",
+            "detail": "通報制度が役立った事例、運用の違いと今後の見守り策を質した。",
+            "blocks": [
+              2
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "貸出実績と事例は町の９月答弁の公開自動字幕による要旨。"
+  },
+  {
+    "place": "越生町",
+    "title": "熱中症対策で、指定施設と普段から使える休息所を確認",
+    "topic": "保健・暑さ対策",
+    "actors": [
+      "宮島サイ子",
+      "越生町"
+    ],
+    "steps": [
+      {
+        "date": "2026-07",
+        "stage": "広報で施設と使い方を周知",
+        "actor": "越生町",
+        "detail": "広報７月号２・３頁で、特別警戒アラート時に開設する指定施設と、夏の外出中に使うクールオアシスを案内した。",
+        "url": "https://www.town.ogose.saitama.jp/chousei/kouhou/kouhouogose2023_3/4539.html",
+        "sourceTitle": "広報おごせ・令和８年７月号"
+      },
+      {
+        "date": "2026-09-04",
+        "stage": "ひとり暮らしの高齢者に届く周知や見守りを質問",
+        "actor": "宮島サイ子、越生町",
+        "detail": "宮島議員は熱中症情報、指定施設を使いやすくする周知、地域の見守りを質問。町は、９か所を指定し、答弁時まで特別警戒アラートによる開設実績はなかったと説明。平時に使える休息場所も案内した。",
+        "url": "https://www.youtube.com/watch?v=Ol5nIeeWbvA",
+        "sourceTitle": "宮島サイ子議員　一般質問（公開字幕）・約12:30～13:38・23:25～25:22",
+        "archiveId": "76f677a599f28c5baf57",
+        "blocks": [
+          3,
+          5,
+          6
+        ],
+        "memberActions": [
+          {
+            "name": "宮島サイ子",
+            "detail": "情報が高齢者に伝わり施設を使える周知、地域の見守りをどう進めるか質した。",
+            "blocks": [
+              3
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "７月広報での周知と９月の質問・答弁を掲載。９月は公開自動字幕の要旨。"
+  },
+  {
+    "place": "越生町",
+    "title": "越生まつりの開催後、山車の体験と担い手を質問",
+    "topic": "観光・地域文化",
+    "actors": [
+      "栗原誠",
+      "越生町"
+    ],
+    "steps": [
+      {
+        "date": "2026-07-26",
+        "stage": "７月25・26日に越生まつりを開催",
+        "actor": "越生町",
+        "detail": "町長は町公式の９月１日更新記事で、７月25・26日に開催し、約３万人でにぎわったと報告した。",
+        "url": "https://www.town.ogose.saitama.jp/kamei/somu/jichishinko/gyomuannai/chocho/chochoshitsukara/tyoutyoushitsu_5/4639.html",
+        "sourceTitle": "町長室から・９月１日更新「越生まつり盛大に開催」"
+      },
+      {
+        "date": "2026-09-07",
+        "stage": "山車の担い手と観光客の体験企画について質疑",
+        "actor": "栗原誠、越生町",
+        "detail": "栗原議員は各地区の担い手、高校生の参加状況や旅行会社と連携した山車の体験企画を質問。町は体験企画について、受け入れる地域の意向や実情を聞きながら検討する考えを示した。",
+        "url": "https://www.youtube.com/watch?v=wyd-xEySM04",
+        "sourceTitle": "栗原誠議員　一般質問（公開字幕）・約01:28～03:16・06:10～06:45",
+        "archiveId": "08c3f85d0643b943f310",
+        "blocks": [
+          1,
+          2
+        ],
+        "memberActions": [
+          {
+            "name": "栗原誠",
+            "detail": "地区・高校生の参加状況を確認し、旅行会社と連携した山車体験を提案した。",
+            "blocks": [
+              1
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "７月の開催と９月の体験企画の検討を記録。９月は公開自動字幕の要旨。"
+  },
+  {
+    "place": "越生町",
+    "title": "防災行政無線操作卓の入札と工事請負契約議案",
+    "topic": "防災・契約",
+    "actors": [
+      "越生町",
+      "越生町議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-04-27",
+        "stage": "更新工事の指名競争入札",
+        "actor": "越生町",
+        "detail": "６月２日の議案説明によると、４月27日の指名競争入札で7,500万円（税抜）で落札。更新対象は役場庁舎内の操作卓で、既設の親局・中継局・屋外拡声装置は継続使用する。",
+        "url": "https://ssp.kaigiroku.net/tenant/ogose/SpMinuteView.html?tenant_id=75&council_id=91&schedule_id=2",
+        "sourceTitle": "越生町議会・６月２日の本会議録28頁"
+      },
+      {
+        "date": "2026-06-02",
+        "stage": "8,250万円の契約議案を可決",
+        "actor": "越生町、越生町議会",
+        "detail": "契約金額は8,250万円（税込）。町は工期を令和９年２月28日までと説明し、議会は原案を可決した。",
+        "url": "https://ssp.kaigiroku.net/tenant/ogose/SpMinuteView.html?tenant_id=75&council_id=91&schedule_id=2",
+        "sourceTitle": "06月02日－01号・27・28頁",
+        "archiveId": "fcedc784b5b7b28ee724",
+        "blocks": [
+          128,
+          130,
+          133,
+          134
+        ],
+        "billNumber": "議案第19号"
+      }
+    ],
+    "note": "到達点は契約議案の可決。工事完成日は確認中。"
+  },
+  {
+    "place": "越生町",
+    "title": "手話言語条例案の公開と意見募集",
+    "topic": "福祉・条例",
+    "actors": [
+      "越生町"
+    ],
+    "steps": [
+      {
+        "date": "2026-10-09",
+        "stage": "町が条例案の意見募集を開始",
+        "actor": "越生町",
+        "detail": "越生町手話言語条例案を公開し、窓口や郵送、電子メールなどで意見を募った。",
+        "url": "https://www.town.ogose.saitama.jp/kenkou/shougai/keikakunado/4649.html",
+        "sourceTitle": "越生町・条例案の意見募集結果"
+      },
+      {
+        "date": "2026-11-04",
+        "stage": "募集期間が満了",
+        "actor": "越生町",
+        "detail": "募集は11月４日まで。町の公表した結果によると意見の提出はなかった。",
+        "url": "https://www.town.ogose.saitama.jp/kenkou/shougai/keikakunado/4649.html",
+        "sourceTitle": "越生町・条例案の意見募集結果"
+      }
+    ],
+    "note": "町の公表資料で条例案と意見募集の実施を確認。議決と施行は確認中。"
+  },
+  {
+    "place": "越生町",
+    "title": "核兵器禁止条約への署名・批准を求めた意見書",
+    "topic": "議員発議・平和政策",
+    "actors": [
+      "高橋一正",
+      "越生町議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-03",
+        "stage": "提出者が意見書の趣旨を説明",
+        "actor": "高橋一正",
+        "detail": "高橋議員が提出者として、政府の条約署名と国会での批准を求める意見書案の趣旨を説明した。",
+        "url": "https://ssp.kaigiroku.net/tenant/ogose/SpMinuteView.html?tenant_id=75&council_id=90&schedule_id=2",
+        "sourceTitle": "03月03日－01号・54頁",
+        "archiveId": "88f8768ff1f6051699d9",
+        "blocks": [
+          178,
+          179
+        ],
+        "memberActions": [
+          {
+            "name": "高橋一正",
+            "detail": "提出者として、条約への署名・批准を求める意見書案を説明した。",
+            "blocks": [
+              179
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-03-03",
+        "stage": "意見書案を可決",
+        "actor": "越生町議会",
+        "detail": "発議第１号を可決。議会だより第197号６頁に個人別の表決を掲載。",
+        "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0803_kekka.pdf",
+        "sourceTitle": "越生町議会・公式議決結果",
+        "billNumber": "発議第1号"
+      }
+    ],
+    "note": "提出者と町議会の可決を確認。会議録の氏名表記は「髙橋一正」。"
+  }
+]);
