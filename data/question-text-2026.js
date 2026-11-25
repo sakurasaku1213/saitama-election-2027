@@ -5239,6 +5239,48 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "9efa31ad892f4f0af5f6",
+      "place": "上里町",
+      "season": "summer",
+      "date": "2026-06-04",
+      "title": "６月定例会会議録 目次",
+      "kind": "公式会議録の付録（PDF・OCR）",
+      "scope": "summary",
+      "url": "https://www.town.kamisato.saitama.jp/secure/15815/R8.6mokuji.pdf",
+      "note": "町議会の６月会議録に付属する公式文書。表示日は対象会期の開会日または閉会日。",
+      "speakers": []
+    },
+    {
+      "id": "4d55ba1ac5d95a2ae65e",
+      "place": "上里町",
+      "season": "summer",
+      "date": "2026-06-04",
+      "title": "６月定例会会議録 表紙",
+      "kind": "公式会議録の付録（PDF・OCR）",
+      "scope": "summary",
+      "url": "https://www.town.kamisato.saitama.jp/secure/15815/R8.6hyousi.pdf",
+      "note": "町議会の６月会議録に付属する公式文書。表示日は対象会期の開会日または閉会日。",
+      "speakers": []
+    },
+    {
+      "id": "19393b5364dbf25da98e",
+      "place": "上里町",
+      "season": "summer",
+      "date": "2026-06-04",
+      "title": "６月４日・上里町議会定例会会議録",
+      "kind": "公式会議録PDFのOCR転記",
+      "scope": "minutes",
+      "url": "https://www.town.kamisato.saitama.jp/secure/15815/R8.6.4.pdf",
+      "note": "町議会の正式な日別会議録PDFをOCRで転記。頁番号はPDF内の位置。",
+      "speakers": [
+        "沓澤幸子",
+        "赤沼泰成",
+        "伊藤覚",
+        "飯塚賢治",
+        "石井慎也"
+      ]
+    },
+    {
       "id": "7dcc99697b1ecb9458a4",
       "place": "上里町",
       "season": "summer",
@@ -5281,6 +5323,66 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "a5c0d3b9dc5cda5f7faf",
+      "place": "上里町",
+      "season": "summer",
+      "date": "2026-06-05",
+      "title": "６月５日・上里町議会定例会会議録",
+      "kind": "公式会議録PDFのOCR転記",
+      "scope": "minutes",
+      "url": "https://www.town.kamisato.saitama.jp/secure/15815/R8.6.5.pdf",
+      "note": "町議会の正式な日別会議録PDFをOCRで転記。頁番号はPDF内の位置。",
+      "speakers": [
+        "清水祐子",
+        "髙橋仁",
+        "新井實",
+        "金子義則",
+        "猪岡壽"
+      ]
+    },
+    {
+      "id": "56160f2ea2e350ccad45",
+      "place": "上里町",
+      "season": "summer",
+      "date": "2026-06-09",
+      "title": "６月９日・上里町議会定例会会議録",
+      "kind": "公式会議録PDFのOCR転記",
+      "scope": "minutes",
+      "url": "https://www.town.kamisato.saitama.jp/secure/15815/R8.6.9.pdf",
+      "note": "町議会の正式な日別会議録PDFをOCRで転記。頁番号はPDF内の位置。",
+      "speakers": [
+        "沓澤幸子"
+      ]
+    },
+    {
+      "id": "ec650b698f4898c624dc",
+      "place": "上里町",
+      "season": "summer",
+      "date": "2026-06-12",
+      "title": "６月12日・上里町議会定例会会議録",
+      "kind": "公式会議録PDFのOCR転記",
+      "scope": "minutes",
+      "url": "https://www.town.kamisato.saitama.jp/secure/15815/R8.6.12.pdf",
+      "note": "町議会の正式な日別会議録PDFをOCRで転記。頁番号はPDF内の位置。",
+      "speakers": [
+        "植原育雄",
+        "沓澤幸子",
+        "金子義則"
+      ]
+    },
+    {
+      "id": "e0dfafb36e9b21b4ebd2",
+      "place": "上里町",
+      "season": "summer",
+      "date": "2026-06-12",
+      "title": "６月定例会会議録 署名ページ",
+      "kind": "公式会議録の付録（PDF・OCR）",
+      "scope": "summary",
+      "url": "https://www.town.kamisato.saitama.jp/secure/15815/R8.6shomei.pdf",
+      "note": "町議会の６月会議録に付属する公式文書。表示日は対象会期の開会日または閉会日。",
+      "speakers": []
+    },
+    {
       "id": "114cf9f140d8ee4d1808",
       "place": "上里町",
       "season": "fall",
@@ -5321,6 +5423,30 @@ GIKAI.questionText = {
       "speakers": [
         "清水祐子"
       ]
+    },
+    {
+      "id": "ce625b2df6f8e46f41ed",
+      "place": "上里町",
+      "season": "fall",
+      "date": "2026-09-04",
+      "title": "議案第63号 ９月一般会計補正予算書（第３号）",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "summary",
+      "url": "https://www.town.kamisato.saitama.jp/secure/15349/9gatsu_hosei__ippan.pdf",
+      "note": "町の公式予算書をOCRで転記。表示日は原文の提出日。 原画像との照合候補頁 9、10、11、12、13、14、15、16、17、18、19、20、21。",
+      "speakers": []
+    },
+    {
+      "id": "0fedc5ce2fd2d437efed",
+      "place": "上里町",
+      "season": "fall",
+      "date": "2026-09-04",
+      "title": "議案第64号 ９月介護保険特別会計補正予算書（第２号）",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "summary",
+      "url": "https://www.town.kamisato.saitama.jp/secure/15349/9gatsu_hosei__kaigo.pdf",
+      "note": "町の公式予算書をOCRで転記。表示日は原文の提出日。 原画像との照合候補頁 6、7、8、9、10。",
+      "speakers": []
     },
     {
       "id": "da2f6596b60bdc124830",
@@ -5377,6 +5503,42 @@ GIKAI.questionText = {
       "speakers": [
         "金子義則"
       ]
+    },
+    {
+      "id": "e739a349b4332b74950f",
+      "place": "上里町",
+      "season": "fall",
+      "date": "2026-09-10",
+      "title": "教育長人事に関する町長への辞職勧告決議",
+      "kind": "議事概要（公式資料）",
+      "scope": "summary",
+      "url": "https://www.town.kamisato.saitama.jp/secure/15886/%E5%B1%B1%E4%B8%8B%E5%8D%9A%E4%B8%80%E7%94%BA%E9%95%B7%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E8%BE%9E%E8%81%B7%E5%8B%A7%E5%91%8A%E6%B1%BA%E8%AD%B0%20.pdf",
+      "note": "町議会が公表した公式文書をOCRで転記。表示日は文書の決議日または提出日。",
+      "speakers": []
+    },
+    {
+      "id": "29848bc6a2d056fb4d35",
+      "place": "上里町",
+      "season": "fall",
+      "date": "2026-10-30",
+      "title": "令和９年度予算等に関する提言書",
+      "kind": "議事概要（公式資料）",
+      "scope": "summary",
+      "url": "https://www.town.kamisato.saitama.jp/secure/16015/R8teigensyo.pdf",
+      "note": "町議会が公表した公式文書をOCRで転記。表示日は文書の決議日または提出日。",
+      "speakers": []
+    },
+    {
+      "id": "4941668cadfe3957fd1b",
+      "place": "上里町",
+      "season": "fall",
+      "date": "2026-11-20",
+      "title": "賀美小学校放課後児童クラブの運営受託候補者選定結果",
+      "kind": "議事概要（公式資料）",
+      "scope": "summary",
+      "url": "https://www.town.kamisato.saitama.jp/secure/15842/senteikekkakami.pdf",
+      "note": "町が公表した選定委員会の審査結果をOCRで転記。表示日は公表日。",
+      "speakers": []
     },
     {
       "id": "8ae755034939917ef86b",
@@ -46186,9 +46348,9 @@ GIKAI.questionText = {
       "place": "上里町",
       "season": "summer",
       "material": {
-        "state": "partial",
-        "indexURL": "https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/council.html?year=2026&council_id=45",
-        "note": "公式録画一覧の一般質問10人のうち、8人の映像音声を機械文字起こしとして収録。正式会議録は確認中。議会だよりの質問・答弁要旨も収録。"
+        "state": "verified",
+        "indexURL": "https://www.town.kamisato.saitama.jp/7979.htm",
+        "note": "公式日別本会議録４日197頁、表紙・目次・署名３点を町の公式目次と照合。一般質問10人の質問・答弁を収録。紙面要約と録画も参照できます。"
       }
     },
     {
@@ -46197,7 +46359,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/council.html?year=2026&council_id=47",
-        "note": "公式録画一覧の一般質問11人のうち、7人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
+        "note": "公式録画一覧の一般質問11人のうち、7人の映像音声を機械文字起こしとして収録。正式会議録は確認中。 秋の補正予算書２点、町長への辞職勧告決議原文、決算審査を踏まえた予算提言書も収録。"
       }
     },
     {

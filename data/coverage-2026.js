@@ -10076,22 +10076,22 @@ GIKAI.coverage2026 = {
     {
       "place": "上里町",
       "season": "spring",
-      "label": "2026年春の定例会",
-      "fromDate": "",
-      "toDate": "",
+      "label": "令和8年第1回定例会",
+      "fromDate": "2026-03-04",
+      "toDate": "2026-03-23",
       "planned": false,
       "materials": {
         "meeting": {
-          "state": "identified",
-          "note": "対象時期に関係する資料の掲載箇所を確認。会期の確定は未了。"
+          "state": "verified",
+          "note": "公式の日別本会議録で開会日・閉会日を確認。"
         },
         "activity": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "公式の日別本会議録に一般質問と答弁を収録。"
         },
         "text": {
-          "state": "identified",
-          "note": "対象時期の会議録または索引の掲載先を確認。本文の全件照合は未了。"
+          "state": "verified",
+          "note": "公式本会議録６日計259頁を年別目録と照合。"
         },
         "decisions": {
           "state": "verified",
@@ -10128,34 +10128,34 @@ GIKAI.coverage2026 = {
     {
       "place": "上里町",
       "season": "summer",
-      "label": "令和8年6月定例会",
+      "label": "令和8年第3回定例会",
       "fromDate": "2026-06-04",
       "toDate": "2026-06-12",
       "planned": false,
       "materials": {
         "meeting": {
           "state": "verified",
-          "note": "町議会の録画一覧で６月４日の開会、12日の閉会を照合。"
+          "note": "日別会議録の表紙と議事日程で６月４日開会、12日閉会を確認。"
         },
         "activity": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "６月４日と５日の一般質問10人を公式会議録の目次と照合。"
         },
         "text": {
-          "state": "identified",
-          "note": "対象時期の会議録または索引の掲載先を確認。本文の全件照合は未了。"
+          "state": "verified",
+          "note": "公式日別本会議録４日197頁、表紙・目次・署名３点を町の公式目次と照合。一般質問10人の質問・答弁を収録。紙面要約と録画も参照できます。"
         },
         "decisions": {
-          "state": "partial",
-          "note": "議会だよりの表に掲載された13行を照合。個別の議案番号がない行は紙面の行で示した。"
+          "state": "verified",
+          "note": "紙面13行を本会議の議案番号、６月９日・12日の採決と照合。紙面で一括表示の第29号から第41号までは会議録に個別採決。"
         },
         "votes": {
-          "state": "partial",
-          "note": "原表の13行の記名欄を照合し、議長の表決不参加と原表の除斥を保持。"
+          "state": "verified",
+          "note": "原表13行・各14欄を確認。議長の表決不参加、議案第42号の石井慎也議員の除斥は本会議録も参照。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "賀美小改修と学童施設、神保原駅の自由通路、農業補助、印鑑登録、陳情・意見書の審議を収録。"
         }
       },
       "sources": [
@@ -10170,6 +10170,10 @@ GIKAI.coverage2026 = {
         {
           "label": "議決結果の原典",
           "url": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf"
+        },
+        {
+          "label": "６月定例会の町公式本会議録",
+          "url": "https://www.town.kamisato.saitama.jp/7979.htm"
         }
       ]
     },
@@ -10186,30 +10190,42 @@ GIKAI.coverage2026 = {
           "note": "公式録画一覧で6日分の本会議日と会期表示を照合。"
         },
         "activity": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "一般質問11人を録画目録で照合。うち７人の機械文字起こしを収録。"
         },
         "text": {
           "state": "partial",
-          "note": "公式録画一覧の一般質問11人のうち、1人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
+          "note": "秋の正式会議録は2026年11月26日の年別目録で未確認。一般質問の機械文字起こしと予算書等の公式資料を収録。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "町長への９月10日付辞職勧告決議の原文を収録。会期全体の採決結果は確認中。"
         },
         "votes": {
           "state": "pending",
           "note": "本文・収録範囲の照合が残っています。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "教育長人事の事情聴取と辞職勧告決議、決算審査を踏まえた来年度予算提言を収録。"
         }
       },
       "sources": [
         {
           "label": "会期資料　令和8年9月定例会",
           "url": "https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/council.html?year=2026&council_id=47"
+        },
+        {
+          "label": "会議録の2026年公式目録",
+          "url": "https://www.town.kamisato.saitama.jp/7975.htm"
+        },
+        {
+          "label": "議会事務局の公表文書",
+          "url": "https://www.town.kamisato.saitama.jp/5596.htm"
+        },
+        {
+          "label": "９月補正予算書",
+          "url": "https://www.town.kamisato.saitama.jp/7708.htm"
         }
       ]
     },
@@ -24244,7 +24260,13 @@ GIKAI.coverage2026 = {
         "戸矢隆光": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2"
+      "voteURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2",
+      "number": "議案第27号",
+      "date": "2026-06-09",
+      "archiveId": "56160f2ea2e350ccad45",
+      "blocks": [
+        5
+      ]
     },
     {
       "place": "上里町",
@@ -24272,7 +24294,13 @@ GIKAI.coverage2026 = {
         "戸矢隆光": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2"
+      "voteURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2",
+      "number": "議案第28号",
+      "date": "2026-06-09",
+      "archiveId": "56160f2ea2e350ccad45",
+      "blocks": [
+        7
+      ]
     },
     {
       "place": "上里町",
@@ -24302,7 +24330,14 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2",
-      "voteNote": "議案第29号から第41号までを公式表が一括して掲載。"
+      "voteNote": "議案第29号から第41号までを公式表が一括して掲載。",
+      "date": "2026-06-09",
+      "archiveId": "56160f2ea2e350ccad45",
+      "blocks": [
+        11,
+        12,
+        13
+      ]
     },
     {
       "place": "上里町",
@@ -24331,7 +24366,14 @@ GIKAI.coverage2026 = {
         "戸矢隆光": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2"
+      "voteURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2",
+      "date": "2026-06-09",
+      "archiveId": "56160f2ea2e350ccad45",
+      "blocks": [
+        14,
+        15
+      ],
+      "voteNote": "原表の除斥は、会議録で石井慎也議員の退席を確認。"
     },
     {
       "place": "上里町",
@@ -24359,7 +24401,13 @@ GIKAI.coverage2026 = {
         "戸矢隆光": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2"
+      "voteURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2",
+      "number": "議案第43号",
+      "date": "2026-06-09",
+      "archiveId": "56160f2ea2e350ccad45",
+      "blocks": [
+        21
+      ]
     },
     {
       "place": "上里町",
@@ -24387,7 +24435,14 @@ GIKAI.coverage2026 = {
         "戸矢隆光": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2"
+      "voteURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2",
+      "number": "議案第44号",
+      "date": "2026-06-09",
+      "archiveId": "56160f2ea2e350ccad45",
+      "blocks": [
+        22,
+        23
+      ]
     },
     {
       "place": "上里町",
@@ -24415,7 +24470,13 @@ GIKAI.coverage2026 = {
         "戸矢隆光": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2"
+      "voteURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2",
+      "number": "議案第45号",
+      "date": "2026-06-12",
+      "archiveId": "ec650b698f4898c624dc",
+      "blocks": [
+        4
+      ]
     },
     {
       "place": "上里町",
@@ -24443,7 +24504,13 @@ GIKAI.coverage2026 = {
         "戸矢隆光": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2"
+      "voteURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2",
+      "number": "議案第46号",
+      "date": "2026-06-12",
+      "archiveId": "ec650b698f4898c624dc",
+      "blocks": [
+        5
+      ]
     },
     {
       "place": "上里町",
@@ -24471,7 +24538,14 @@ GIKAI.coverage2026 = {
         "戸矢隆光": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2"
+      "voteURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2",
+      "number": "議案第47号",
+      "date": "2026-06-12",
+      "archiveId": "ec650b698f4898c624dc",
+      "blocks": [
+        6,
+        7
+      ]
     },
     {
       "place": "上里町",
@@ -24499,7 +24573,13 @@ GIKAI.coverage2026 = {
         "戸矢隆光": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2"
+      "voteURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2",
+      "number": "議案第48号",
+      "date": "2026-06-12",
+      "archiveId": "ec650b698f4898c624dc",
+      "blocks": [
+        8
+      ]
     },
     {
       "place": "上里町",
@@ -24527,7 +24607,13 @@ GIKAI.coverage2026 = {
         "戸矢隆光": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2"
+      "voteURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2",
+      "number": "陳情第1号",
+      "date": "2026-06-12",
+      "archiveId": "ec650b698f4898c624dc",
+      "blocks": [
+        10
+      ]
     },
     {
       "place": "上里町",
@@ -24555,7 +24641,18 @@ GIKAI.coverage2026 = {
         "戸矢隆光": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2"
+      "voteURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2",
+      "number": "意見書第1号",
+      "date": "2026-06-12",
+      "archiveId": "ec650b698f4898c624dc",
+      "blocks": [
+        12
+      ],
+      "proposer": "議員提出",
+      "names": [
+        "沓澤幸子"
+      ],
+      "proposalRole": "発議者"
     },
     {
       "place": "上里町",
@@ -24583,7 +24680,18 @@ GIKAI.coverage2026 = {
         "戸矢隆光": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2"
+      "voteURL": "https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2",
+      "number": "意見書第2号",
+      "date": "2026-06-12",
+      "archiveId": "ec650b698f4898c624dc",
+      "blocks": [
+        14
+      ],
+      "proposer": "議員提出",
+      "names": [
+        "植原育雄"
+      ],
+      "proposalRole": "発議者"
     },
     {
       "place": "美里町",
@@ -140378,6 +140486,19 @@ GIKAI.coverage2026 = {
         "小宮正": "議長（表決不参加）"
       },
       "voteNote": "会期は９月１日～11日。原表に案件別の議決日欄がない。"
+    },
+    {
+      "place": "上里町",
+      "season": "fall",
+      "session": "令和8年第5回定例会",
+      "date": "2026-09-10",
+      "resultLocator": "町議会公表文・2026年９月10日付",
+      "title": "山下博一町長に対する辞職勧告決議",
+      "result": "決議",
+      "url": "https://www.town.kamisato.saitama.jp/secure/15886/%E5%B1%B1%E4%B8%8B%E5%8D%9A%E4%B8%80%E7%94%BA%E9%95%B7%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E8%BE%9E%E8%81%B7%E5%8B%A7%E5%91%8A%E6%B1%BA%E8%AD%B0%20.pdf",
+      "resultURL": "https://www.town.kamisato.saitama.jp/secure/15886/%E5%B1%B1%E4%B8%8B%E5%8D%9A%E4%B8%80%E7%94%BA%E9%95%B7%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E8%BE%9E%E8%81%B7%E5%8B%A7%E5%91%8A%E6%B1%BA%E8%AD%B0%20.pdf",
+      "sourceTitle": "上里町議会・決議原文",
+      "voteNote": "公表された町議会の決議文を収録。議決時の議員別賛否は確認中。"
     }
   ],
   "policy": [

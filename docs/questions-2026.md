@@ -4,7 +4,7 @@
 
 確認日 2026-11-26。県議会と全63市町村の192会期枠を対象に、64議会・188枠で会議録、紙面の問答、録画の機械文字起こし、または公開自動字幕を収録。本文・要旨等が未収録の4枠にも確認先を示す。
 
-収録資料 2,761件（事前通告95件を含む）。147枠では、原典の目次・索引等にある本会議の日別資料、一般質問日または掲載項目と収録範囲を照合した。
+収録資料 2,773件（事前通告95件を含む）。148枠では、原典の目次・索引等にある本会議の日別資料、一般質問日または掲載項目と収録範囲を照合した。
 
 | 資料の種類 | 件数 |
 | --- | ---: |
@@ -19,15 +19,16 @@
 | 陳情本文（公式資料） | 1 |
 | 本会議討論（公式資料・OCR） | 3 |
 | 公式会議録の付録（HTML） | 35 |
-| 議案・動議の提出原文（公式資料・OCR） | 24 |
+| 公式会議録の付録（PDF・OCR） | 3 |
+| 議案・動議の提出原文（公式資料・OCR） | 26 |
 | 議案の提案理由（公式資料） | 3 |
-| 議事概要（公式資料） | 1 |
+| 議事概要（公式資料） | 4 |
 | 一般質問通告（公式資料） | 81 |
 | 議案質疑通告（公式資料・OCR） | 5 |
 | 施政方針に対する発言通告（公式資料・OCR） | 1 |
 | 議案質疑・一般質問通告（公式資料） | 8 |
 | 議会だよりの質問・答弁要旨（OCR） | 57 |
-| 公式会議録PDFのOCR転記 | 17 |
+| 公式会議録PDFのOCR転記 | 21 |
 | 公開会議録（閲覧用） | 11 |
 | 議会だよりの質問・答弁要旨（HTML） | 2 |
 | 議会だよりの質問・答弁（紙面要約） | 35 |
@@ -36,7 +37,7 @@
 
 本会議録の日別資料には当日の議事も含まれる。県議会の速報版は質問・答弁の掲載項目ごと。議会だよりは質問者による編集要約等を含む。PDFのOCR転記と、紙面を照合して作った要約には原本の頁番号を付けた。
 
-政策事例は344件。複数議会に関係する事例は、該当する各議会の行にも数えた。上尾市の放課後の居場所事業と２校の入所申込、久喜市の清掃センター集約に伴う費用分担の質疑と事務委託の可決、狭山市の調節池工事の再発防止などを出典とともに追える。全体の政策経過の照合は進行中。
+政策事例は352件。複数議会に関係する事例は、該当する各議会の行にも数えた。上尾市の放課後の居場所事業と２校の入所申込、久喜市の清掃センター集約に伴う費用分担の質疑と事務委託の可決、狭山市の調節池工事の再発防止などを出典とともに追える。全体の政策経過の照合は進行中。
 
 ## 議会別の収録と確認先
 
@@ -101,7 +102,7 @@
 | 東秩父村 | [本会議録3資料](https://ssp.kaigiroku.net/tenant/higashichichibu/SpMinuteBrowse.html?tenant_id=91&view_years=2026)<br>公式掲載目次と照合 | [本会議録2資料](https://ssp.kaigiroku.net/tenant/higashichichibu/SpMinuteBrowse.html?tenant_id=91&view_years=2026)<br>公式掲載目次と照合 | [事前の質問要旨・4人](https://www.vill.higashichichibu.saitama.jp/site/gikai/ippan-shitsumon.html)<br>発言・答弁を確認中 | 1 |
 | 美里町 | [本会議録4資料](https://ssp.kaigiroku.net/tenant/saimisato/SpMinuteBrowse.html?tenant_id=46&view_years=2026)<br>公式掲載目次と照合 | [本会議録3資料](https://ssp.kaigiroku.net/tenant/saimisato/SpMinuteBrowse.html?tenant_id=46&view_years=2026)<br>公式掲載目次と照合 | [事前の質問予定項目・5人](https://www.town.saitama-misato.lg.jp/0000002738.html)<br>発言・答弁を確認中 | 1 |
 | 神川町 | [本会議録4資料](https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteBrowse.html?tenant_id=73&view_years=2026)<br>公式掲載目次と照合 | [本会議録2資料](https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteBrowse.html?tenant_id=73&view_years=2026)<br>公式掲載目次と照合 | [事前の質問要旨・9人](https://www.town.kamikawa.saitama.jp/soshiki/gikai/nittei/reiwa6_2/6817.html)<br>発言・答弁を確認中 | — |
-| 上里町 | [本会議録6資料・PDF計259頁](https://www.town.kamisato.saitama.jp/7977.htm)<br>公式掲載目次と照合 | [本文・要旨 1件](https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf)<br>[機械文字起こし8件](https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/council.html?year=2026&council_id=45)・正式会議録を確認中 | [公式録画一覧](https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/council.html?year=2026&council_id=47)<br>機械文字起こし7件・正式会議録を確認中 | — |
+| 上里町 | [本会議録6資料・PDF計259頁](https://www.town.kamisato.saitama.jp/7977.htm)<br>公式掲載目次と照合 | [正式会議録４日197頁・付属３点](https://www.town.kamisato.saitama.jp/7979.htm)<br>公式掲載目次と照合・[記名13行](https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2) | [公式録画一覧](https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/council.html?year=2026&council_id=47)<br>機械文字起こし７件・正式会議録を確認中・[決議と予算提言](https://www.town.kamisato.saitama.jp/5596.htm) | 8 |
 | 寄居町 | [本会議録8資料](https://ssp.kaigiroku.net/tenant/yorii/SpMinuteBrowse.html?tenant_id=232&view_years=2026)<br>公式掲載目次と照合 | [本会議録4資料](https://ssp.kaigiroku.net/tenant/yorii/SpMinuteBrowse.html?tenant_id=232&view_years=2026)<br>公式掲載目次と照合 | [公式録画一覧](https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/council.html?year=2026&council_id=39)<br>機械文字起こし6件・正式会議録を確認中 | 3 |
 | 宮代町 | [本会議録8資料](https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteBrowse.html?tenant_id=224&view_years=2026)<br>公式掲載目次と照合 | [本会議録5資料](https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteBrowse.html?tenant_id=224&view_years=2026)<br>公式掲載目次と照合 | [議会だより12人・47問答](https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27014/gikaidayori140.pdf#page=12)<br>会計・議案の質疑43問答、討論14件<br>[公式録画３日・12人](https://smart.discussvision.net/smart/tenant/miyashiro/WebView/rd/council.html?year=2026&council_id=32)・[記名19行](https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27014/gikaidayori140.pdf#page=19)・機械文字起こし１件・正式会議録を確認中 | 4 |
 | 杉戸町 | [本会議録7資料](https://ssp.kaigiroku.net/tenant/sugito/SpMinuteBrowse.html?tenant_id=78&view_years=2026)<br>公式掲載目次と照合 | [本会議録5資料](https://ssp.kaigiroku.net/tenant/sugito/SpMinuteBrowse.html?tenant_id=78&view_years=2026)<br>公式掲載目次と照合 | [議会だより11人・44問答](https://www.town.sugito.lg.jp/uploaded/attachment/18196.pdf#page=10)<br>決算・議案等の質疑26問答と討論12欄<br>[記名17行](https://www.town.sugito.lg.jp/uploaded/attachment/18196.pdf#page=9)・[公式録画３日11人](https://smart.discussvision.net/smart/tenant/sugito/WebView/rd/council.html?year=2026&council_id=16)・正式会議録を確認中 | 4 |
@@ -253,6 +254,7 @@
 
 - 和光市は公式本会議録22日分を再取得照合。結果92件（春35、初夏30、秋27）、本会議記名83件・1,328欄（議長の不参加83欄は別に表示）。委員会59件・688欄（委員長欄を含む）は本会議の表決と区分。６月４日の鎌田議員の欠席17欄を原表と会議録で照合。秋の陳情第５号は趣旨採択への賛否９対７であり、全面採択を求めて趣旨採択に反対した議員の討論も収録。[本会議・委員会会議録](https://ssp.kaigiroku.net/tenant/wako/SpMinuteBrowse.html?tenant_id=382&view_years=2026)・[秋の公式結果](https://www.city.wako.lg.jp/shisei/1006222/1006226/1006229/1013980.html)
 - 和光市の一般質問、議案質疑、施政方針の発言通告を計７資料、議会だより第132～134号を追加。初夏の一般質問通告は原本を画像化して全20頁をOCRし、要照合頁を表示。６月の議員提出意見書２件は８月の送付済み報告を確認。中学校の給食費補助、障害福祉の陳情、監査後の対応等８事例を掲載。[議会だより](https://www.city.wako.lg.jp/shisei/1006222/1006515/1006517/1013556.html)・[意見書原文](https://www.city.wako.lg.jp/shisei/1006222/1006226/1006243/1006345/1013722.html)
+- 上里町の公開６月会議録は本会議４日197頁と付属３点６頁。一般質問10人の質問・答弁を収録。紙面の記名13行は実際の採決日、議案番号、除斥を会議録で照合し、一括掲載と個別採決を区別。秋の補正予算書２点、辞職勧告決議、翌年度予算提言を追加。賀美小学校の改修契約から学童の公募、入所案内、11月の受託候補者選定、神保原駅の一般質問から議会の予算提言等を追える。[６月公式会議録](https://www.town.kamisato.saitama.jp/7979.htm)・[議会公表文書](https://www.town.kamisato.saitama.jp/5596.htm)
 - ときがわ町は春・初夏の本会議録５日と予算特別委員会４日を照合。目次３、通告３、議会だより第81～83号の全冊３を追加。公式紙面の結果55件と議員別表決51行561欄を収録し、春・初夏30件を採決宣告・報告と照合。秋は会議録の公開待ちで、紙面の質問・答弁の要約９人を収録。出産祝い金は2025年の増額検討を求めた質問、町長答弁、2026年の改正と申請案内を対応付けた。[会議録目録](https://www.town.tokigawa.lg.jp/div/203010/htm/gijiroku/index.html)・[議会だより目録](https://www.town.tokigawa.lg.jp/info/3405)
 - 北本市は公式本会議23日と委員会・分科会29日、目次３点を照合。HTML通告５点、議員・委員会提出原文９点、第136～138号の紙面３を含む49点を追加。市長・議員・委員会提出と請願・陳情の101行のうち本会議議決87、報告８、議員配付６。紙面表決の明示12行240欄を原画像と照合。前会期２行は除外。遺跡用地への修正案と財産取得議決、保育交付金返納の修正案と減額条例など８事例を収録。[公式目録](https://ssp.kaigiroku.net/tenant/kitamoto/SpMinuteBrowse.html?tenant_id=300&view_years=2026)・[賛否の一例](https://www.city.kitamoto.lg.jp/material/files/group/19/dayori136.pdf#page=9)
 - 蓮田市は現行本会議録18日・委員会９日と、公式目次・議案の処理結果等９点を照合。PDF通告３と議会だより第137～139号を含む15資料を追加。結果78件と個人別表決1,508欄を原表に対応。春20議員欄、初夏・秋19議員欄の違いは議員名簿を確認。黒浜保育園の休園方針に関する質問、補正・附帯決議、下水道使用料、定数条例の変更など８事例を追跡。[会議録目録](https://ssp.kaigiroku.net/tenant/hasuda/SpMinuteBrowse.html?tenant_id=51&view_years=2026)・[公式議員名簿](https://www.city.hasuda.saitama.jp/gikai/shise/shigikai/ginmebo/giinmeibo3103.html)
