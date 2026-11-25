@@ -4073,6 +4073,18 @@ GIKAI.questionText = {
       "speakers": []
     },
     {
+      "id": "5a5156cd9477b6de9dc1",
+      "place": "三郷市",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "三郷市 3月定例会・令和8年度予算書（565頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_yosannsyo.pdf",
+      "note": "三郷市の公式提出議案一覧から取得。PDFの物理頁番号を使用しています。 空白頁1頁を原PDFで確認し、ページ番号を保持。",
+      "speakers": []
+    },
+    {
       "id": "31ed2406b7f235ea010e",
       "place": "三郷市",
       "season": "spring",
@@ -4225,6 +4237,18 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "5ac979a792b4f5c0cb2f",
+      "place": "三郷市",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "三郷市 6月定例会・報告書（112頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_6_houkokusyo_HPyou.pdf",
+      "note": "三郷市の公式提出議案一覧から取得。PDFの物理頁番号を使用しています。 自動検査の照合候補頁を明示しています。金額や表の対応は原PDFを確認してください。 空白頁12頁を原PDFで確認し、ページ番号を保持。",
+      "speakers": []
+    },
+    {
       "id": "3524fe9e8a0cc63ad5b3",
       "place": "三郷市",
       "season": "summer",
@@ -4276,6 +4300,18 @@ GIKAI.questionText = {
         "菊名裕",
         "鈴木深太郎"
       ]
+    },
+    {
+      "id": "76688639620aa8254ad8",
+      "place": "三郷市",
+      "season": "summer",
+      "date": "2026-06-01",
+      "title": "三郷市 6月定例会・議案書（108頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_6_giannsyo_HPyou.pdf",
+      "note": "三郷市の公式提出議案一覧から取得。PDFの物理頁番号を使用しています。 自動検査の照合候補頁を明示しています。金額や表の対応は原PDFを確認してください。 空白頁28頁を原PDFで確認し、ページ番号を保持。 印字の頁番号のみ、またはスキャン跡のみの頁は、原画像で確認した状態を表示。",
+      "speakers": []
     },
     {
       "id": "14a8f712af5b9ca7160b",
@@ -4459,6 +4495,18 @@ GIKAI.questionText = {
       "scope": "supporting",
       "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_gianitiran.pdf",
       "note": "三郷市の公式提出議案一覧から取得。PDFの物理頁番号を使用しています。",
+      "speakers": []
+    },
+    {
+      "id": "f938560806e2b3422fce",
+      "place": "三郷市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "三郷市 9月定例会・決算書（680頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_kessansho.pdf",
+      "note": "三郷市の公式提出議案一覧から取得。PDFの物理頁番号を使用しています。 自動検査の照合候補頁を明示しています。金額や表の対応は原PDFを確認してください。 印字の頁番号のみ、またはスキャン跡のみの頁は、原画像で確認した状態を表示。",
       "speakers": []
     },
     {
@@ -8985,6 +9033,20 @@ GIKAI.questionText = {
       "url": "https://smart.discussvision.net/smart/tenant/kazo/WebView/rd/speech.html?council_id=39&schedule_id=4&playlist_id=1&speaker_id=34&target_year=2026",
       "speakers": [
         "山本仁美"
+      ]
+    },
+    {
+      "id": "0f1450e263f364b43415",
+      "place": "加須市",
+      "season": "fall",
+      "date": "2026-09-11",
+      "title": "新井好一議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/kazo/WebView/rd/speech.html?council_id=39&schedule_id=4&playlist_id=5&speaker_id=1&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "新井好一"
       ]
     },
     {
@@ -35069,6 +35131,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "c94340e5489dffc62262",
+      "place": "日高市",
+      "season": "fall",
+      "date": "2026-09-10",
+      "title": "城所美奈子議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/hidaka/WebView/rd/speech.html?council_id=54&schedule_id=5&playlist_id=3&speaker_id=30&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "城所美奈子"
+      ]
+    },
+    {
       "id": "6d4003b6fbd8a13fc77d",
       "place": "日高市",
       "season": "fall",
@@ -49054,7 +49130,7 @@ GIKAI.questionText = {
       "material": {
         "state": "verified",
         "indexURL": "https://ssp.kaigiroku.net/tenant/kazo/SpMinuteBrowse.html?tenant_id=219&view_years=2026",
-        "note": "公式目次と本会議録7日を照合し、一般質問20人の質問と答弁を収録。"
+        "note": "公式目次と本会議録7日を照合し、一般質問20人の質問と答弁を収録。 公式録画の機械文字起こし一般質問10本を収録。"
       }
     },
     {
@@ -49810,7 +49886,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/hidaka/WebView/rd/council.html?year=2026&council_id=54",
-        "note": "公式録画一覧の一般質問12人のうち、10人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
+        "note": "公式録画一覧で一般質問12人を確認。正式会議録は確認中。 公式録画の機械文字起こし一般質問11本を収録。"
       }
     },
     {

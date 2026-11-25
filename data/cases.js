@@ -7876,6 +7876,28 @@ GIKAI.cases.push(...[
         "billNumber": "議案第6号"
       },
       {
+        "date": "2026-06-01",
+        "actor": "三郷市長",
+        "stage": "建築・機械・電気の変更契約案を提出",
+        "detail": "建築は357万9,400円、機械は511万9,400円、電気は175万5,380円を増額する案。変更後の契約額は建築15億1,456万6,900円、機械４億4,871万6,400円、電気４億1,862万2,380円と記載。",
+        "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_6_giannsyo_HPyou.pdf#page=43",
+        "sourceTitle": "６月議案書 PDF43・45・47頁・議案第35～37号",
+        "archiveId": "76688639620aa8254ad8",
+        "blocks": [
+          43,
+          45,
+          47
+        ]
+      },
+      {
+        "date": "2026-06-09",
+        "actor": "三郷市議会",
+        "stage": "建築・機械・電気の変更契約３件を可決",
+        "detail": "議案第35・36・37号をいずれも原案可決。６月の建築・機械の変更後額は、８月31日提出の次の変更契約案の変更前額と一致する。",
+        "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_6_giketukekkaitirann.pdf#page=1",
+        "sourceTitle": "６月定例会の議決結果・議案第35～37号"
+      },
+      {
         "date": "2026-08-31",
         "actor": "三郷市長",
         "stage": "建築と給排水・ガス設備の変更契約案を提出",
