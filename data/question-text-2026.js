@@ -7931,6 +7931,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "c8176deada4bf8aa7190",
+      "place": "上里町",
+      "season": "fall",
+      "date": "2026-09-07",
+      "title": "石井慎也議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/speech.html?council_id=47&schedule_id=2&playlist_id=5&speaker_id=18&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "石井慎也"
+      ]
+    },
+    {
       "id": "41a6c2bced9168b85ee1",
       "place": "上里町",
       "season": "fall",
@@ -7956,6 +7970,34 @@ GIKAI.questionText = {
       "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
       "speakers": [
         "飯塚賢治"
+      ]
+    },
+    {
+      "id": "32bfd0df8894c0cea049",
+      "place": "上里町",
+      "season": "fall",
+      "date": "2026-09-08",
+      "title": "猪岡壽議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/speech.html?council_id=47&schedule_id=3&playlist_id=2&speaker_id=4&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "猪岡壽"
+      ]
+    },
+    {
+      "id": "98329d8a6c54e926bff4",
+      "place": "上里町",
+      "season": "fall",
+      "date": "2026-09-08",
+      "title": "赤沼泰成議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/speech.html?council_id=47&schedule_id=3&playlist_id=1&speaker_id=21&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "赤沼泰成"
       ]
     },
     {
@@ -52437,7 +52479,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/council.html?year=2026&council_id=47",
-        "note": "秋の正式会議録は2026年11月26日の年別目録で未確認。公式録画一覧で一般質問11人を確認し、機械文字起こし８本を収録。秋の補正予算書２点、辞職勧告決議原文、決算審査を踏まえた予算提言書も収録。"
+        "note": "秋の正式会議録は2026年11月26日の年別目録で未確認。公式録画一覧で一般質問11人を確認。秋の補正予算書２点、辞職勧告決議原文、決算審査を踏まえた予算提言書も収録。 公式録画の機械文字起こし一般質問11本を収録。"
       }
     },
     {
