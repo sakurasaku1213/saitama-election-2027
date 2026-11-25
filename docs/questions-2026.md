@@ -4,7 +4,7 @@
 
 確認日 2026-11-26。県議会と全63市町村の192会期枠を対象に、64議会・188枠で会議録、紙面の問答、録画の機械文字起こし、または公開自動字幕を収録。本文・要旨等が未収録の4枠にも確認先を示す。
 
-収録資料 3,271件（事前通告99件を含む）。151枠では、原典の目次・索引等にある本会議の日別資料、一般質問日または掲載項目と収録範囲を照合した。
+収録資料 3,329件（事前通告99件を含む）。151枠では、原典の目次・索引等にある本会議の日別資料、一般質問日または掲載項目と収録範囲を照合した。
 
 | 資料の種類 | 件数 |
 | --- | ---: |
@@ -15,14 +15,16 @@
 | 公式会議録（予算委員会） | 20 |
 | 公式会議録（予算・決算委員会） | 160 |
 | 公式会議録（議会運営委員会） | 23 |
-| 委員長報告（公式資料） | 44 |
+| 委員長報告（公式資料） | 95 |
 | 陳情本文（公式資料） | 1 |
+| 請願本文（公式資料） | 1 |
+| 意見書・決議（公式資料） | 3 |
 | 本会議討論（公式資料・OCR） | 3 |
 | 公式会議録の付録（HTML） | 200 |
 | 公式会議録の付録（PDF・OCR） | 3 |
 | 議案・動議の提出原文（公式資料・OCR） | 41 |
 | 議案審査の参考資料（公式PDF・OCR） | 9 |
-| 議案の提案理由（公式資料） | 3 |
+| 議案の提案理由（公式資料） | 6 |
 | 議事概要（公式資料） | 6 |
 | 一般質問通告（公式資料） | 85 |
 | 議案質疑通告（公式資料・OCR） | 5 |
@@ -47,7 +49,7 @@
 
 | 議会 | 春 | 初夏 | 秋 | 政策事例 |
 | --- | --- | --- | --- | --- |
-| 埼玉県 | [本会議録9資料](https://ssp.kaigiroku.net/tenant/prefsaitama/SpMinuteBrowse.html?tenant_id=350&view_years=2026)<br>公式掲載目次と照合<br>[委員会会議録8資料](https://ssp.kaigiroku.net/tenant/prefsaitama/SpMinuteBrowse.html?tenant_id=350&view_years=2026) | [本会議録7資料](https://ssp.kaigiroku.net/tenant/prefsaitama/SpMinuteBrowse.html?tenant_id=350&view_years=2026)<br>公式掲載目次と照合 | [質問・答弁速報251件](https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4.html)<br>[公開自動字幕23件](https://www.pref.saitama.lg.jp/e1601/gikai-chuukei.html)・正式会議録を確認中 | 9 |
+| 埼玉県 | [本会議録9資料](https://ssp.kaigiroku.net/tenant/prefsaitama/SpMinuteBrowse.html?tenant_id=350&view_years=2026)<br>公式掲載目次と照合<br>[委員会会議録8資料](https://ssp.kaigiroku.net/tenant/prefsaitama/SpMinuteBrowse.html?tenant_id=350&view_years=2026)<br>[委員長報告17資料](https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/5.html) | [本会議録7資料](https://ssp.kaigiroku.net/tenant/prefsaitama/SpMinuteBrowse.html?tenant_id=350&view_years=2026)<br>公式掲載目次と照合<br>[委員長報告16資料](https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/5.html) | [質問・答弁速報251件](https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4.html)<br>[公開自動字幕23件](https://www.pref.saitama.lg.jp/e1601/gikai-chuukei.html)・正式会議録を確認中<br>[委員長報告18資料](https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/5.html) | 10 |
 | さいたま市 | [本会議録7資料](https://ssp.kaigiroku.net/tenant/saitama/SpMinuteBrowse.html?tenant_id=134&view_years=2026)<br>公式掲載目次と照合<br>[委員会会議録28資料](https://ssp.kaigiroku.net/tenant/saitama/SpMinuteBrowse.html?tenant_id=134&view_years=2026) | [本会議録7資料](https://ssp.kaigiroku.net/tenant/saitama/SpMinuteBrowse.html?tenant_id=134&view_years=2026)<br>公式掲載目次と照合<br>[委員会会議録31資料](https://ssp.kaigiroku.net/tenant/saitama/SpMinuteBrowse.html?tenant_id=134&view_years=2026) | [市議会の公式録画一覧](https://saitama-city.stream.jfit.co.jp/?tpl=gikai_days_list&gikai_id=203)・正式会議録を確認中<br>機械文字起こし12本 | 6 |
 | 川越市 | [本会議録9日分](https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=list&ListOrder=asc&QueryType=new&Cabinet=1&TermStart=2026-02-24&TermEnd=2026-03-25)<br>一般質問4日・常任委員会6会議 | [本会議録7日分](https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=list&ListOrder=asc&QueryType=new&Cabinet=1&TermStart=2026-06-02&TermEnd=2026-06-24)<br>一般質問4日・常任委員会4会議 | [本会議録8日分](https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=list&ListOrder=asc&QueryType=new&Cabinet=1&TermStart=2026-08-31&TermEnd=2026-09-29)<br>一般質問4日・常任委員会6会議 | [11事例の経過](kawagoe-policy-2026.md) |
 | 熊谷市 | [本会議録6資料](https://ssp.kaigiroku.net/tenant/kumagaya/SpMinuteBrowse.html?tenant_id=94&view_years=2026)<br>公式掲載目次と照合<br>[委員会会議録4資料](https://ssp.kaigiroku.net/tenant/kumagaya/SpMinuteBrowse.html?tenant_id=94&view_years=2026) | [本会議録6資料](https://ssp.kaigiroku.net/tenant/kumagaya/SpMinuteBrowse.html?tenant_id=94&view_years=2026)<br>公式掲載目次と照合<br>[委員会会議録5資料](https://ssp.kaigiroku.net/tenant/kumagaya/SpMinuteBrowse.html?tenant_id=94&view_years=2026) | [一般質問19人と４常任委員会の紙面要旨](https://www.city.kumagaya.lg.jp/shisei/shigikai/1006977/1006955/1009174.html)<br>正式会議録を確認中<br>[秋の公式録画３日・19人](https://kumagaya-city.stream.jfit.co.jp/?gikai_id=146&tpl=gikai_days_list)<br>機械文字起こし6本 | 4 |
@@ -163,6 +165,7 @@
 - 日高市と越生町は、９月定例会の議決結果をそれぞれ27件・17件追加した。日高市の請願文書表と審議結果で、一般質問方式とデータセンターに関する請願の受理日・付託先・採決結果を照合した。[日高市の議案・請願文書表](https://www.city.hidaka.lg.jp/soshiki/gikai/gikai/teireikairinjikai/gian_ichiran/35919.html)・[日高市の審議結果](https://www.city.hidaka.lg.jp/material/files/group/30/R809singikekka.pdf)・[越生町の議決結果](https://www.town.ogose.saitama.jp/material/files/group/12/R0809_kekka.pdf)
 - 加須市は、８月28日～10月７日の第３回定例会の議決29件を、公式一覧と議員別審議結果で照合した。16件は25欄の記名表決を収録し、残る13件は議長・欠席者を除く全員賛成と表示した。請願第５号の「趣旨採択」の表示を保持した。[加須市の定例会資料](https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43734.html#6)・[議員別審議結果](https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_3_teireikai_sinngikekkaitirann_0626_1700.pdf)
 - 加須市・日高市・上里町の秋会期は、公式録画一覧の各36・15・15項目と、一般質問者の公開再生用データを照合した。機械文字起こしの収録は加須市6件、日高市9件、上里町6件。正式会議録は確認中。[加須市](https://smart.discussvision.net/smart/tenant/kazo/WebView/rd/council.html?year=2026&council_id=39)・[日高市](https://smart.discussvision.net/smart/tenant/hidaka/WebView/rd/council.html?year=2026&council_id=54)・[上里町](https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/council.html?year=2026&council_id=47)
+- 埼玉県議会は春17・初夏16・秋18の委員長報告51点を公式目次と照合し、知事提案説明要旨３点、意見書・決議の掲載本文（春16・初夏16・秋14件）、秋の採択請願本文１点を収録。八潮の道路陥没事故の政策経過に、県議の質問・答弁、特別委員会の継続審査、国への意見書３件の可決を追加した。 [春の会期概要](https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802.html) [初夏の会期概要](https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806.html) [秋の会期概要](https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809.html)
 - 埼玉県議会の秋会期は、公式配信の８日・23本から自動生成字幕23件を収録した。一般質問は15人分。開会、委員長報告、質疑、討論、採決、閉会を含む残り８本は日別録画の字幕を収録した。本文カードで字幕の時間範囲と元の録画を開ける。[埼玉県議会の録画と字幕の案内](https://www.pref.saitama.lg.jp/e1601/gikai-chuukei.html)
 - 県議会の春９日・初夏７日と鴻巣市の秋７日について、公式の本会議録を追加。春日部市、狭山市、草加市、蕨市、戸田市、入間市、新座市は、公式会議録一覧と日別本文を照合した。戸田市２月３日と新座市６月３日の本会議録も追加した。[県議会の会議録一覧](https://ssp.kaigiroku.net/tenant/prefsaitama/SpMinuteBrowse.html?tenant_id=350&view_years=2026)・[鴻巣市の会議録一覧](https://ssp.kaigiroku.net/tenant/kounosu/SpMinuteBrowse.html?tenant_id=85&view_years=2026)
 - 鴻巣市の９月定例会は、公式議決結果表の全34件を議決番号・件名・日付・結果で照合。一般会計補正予算と水道事業会計補正予算を、家電補助の受付再開と水道基本料金の免除延長の事例から開ける。水道の事例には、実施計画にある給水収益と他会計補助金の補正額も記載した。[議決結果](https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf)・[家電補助の受付案内](https://www.city.kounosu.saitama.jp/page/39479.html)・[水道基本料金免除の案内](https://www.city.kounosu.saitama.jp/site/suidou/44349.html)・[水道事業会計補正予算の実施計画](https://www.city.kounosu.saitama.jp/uploaded/attachment/28882.pdf#page=4)

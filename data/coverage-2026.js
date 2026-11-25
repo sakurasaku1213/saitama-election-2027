@@ -58,6 +58,10 @@ GIKAI.coverage2026 = {
         {
           "label": "令和8年2月定例会",
           "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/8.html"
+        },
+        {
+          "label": "委員長報告17資料の公式目次",
+          "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/5.html"
         }
       ]
     },
@@ -110,6 +114,10 @@ GIKAI.coverage2026 = {
         {
           "label": "表決資料　議案別会派別表決状況(PDF:199KB)",
           "url": "https://www.pref.saitama.lg.jp/documents/282538/r0806_gianbetsukaihabetsuhyoketsujokyo.pdf"
+        },
+        {
+          "label": "委員長報告16資料の公式目次",
+          "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/5.html"
         }
       ]
     },
@@ -158,6 +166,10 @@ GIKAI.coverage2026 = {
         {
           "label": "表決資料　議案別会派別表決状況(PDF:230KB)",
           "url": "https://www.pref.saitama.lg.jp/documents/287163/r0809_kaihabetsuhyouketujoukyou_1020.pdf"
+        },
+        {
+          "label": "委員長報告18資料の公式目次",
+          "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/5.html"
         }
       ]
     },

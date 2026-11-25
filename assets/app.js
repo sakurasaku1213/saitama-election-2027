@@ -1088,7 +1088,8 @@
       full.append(summary);
       for (const position of positions) {
         const block = stored[position - 1];
-        const locator = paper || recording || /^PDF \d+頁$|^議案第|君$/.test(block[0]) ? block[0] : `会議録の発言順 ${position}`;
+        const locator = supporting ? block[0] || `関連資料の掲載順 ${position}` :
+          paper || recording || /^PDF \d+頁$|^議案第|君$/.test(block[0]) ? block[0] : `会議録の発言順 ${position}`;
         column.append(questionBodyBlock(block, locator));
       }
       for (const block of stored) full.append(questionBodyBlock(block));
