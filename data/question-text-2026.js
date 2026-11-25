@@ -37979,6 +37979,46 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "a87d8f4b3ed86cedad59",
+      "place": "蕨市",
+      "season": "spring",
+      "date": "2026-02-17",
+      "title": "令和8年第2回定例会 発言通告一覧",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Shitsumon.asp?KWORD1=&EXP=AND&KWORD2=&KAIGI=145&SMODE=0&KENSU=100&Sflg=2",
+      "note": "公式HTMLの発言通告。発言順・質問者・全項目を収録。発言と答弁は本会議録で確認できます。",
+      "speakers": [
+        "前川やすえ",
+        "大石幸一",
+        "宮下奈美",
+        "小林利規",
+        "山脇紀子",
+        "岡田みきお",
+        "庄野航二",
+        "本田てい子",
+        "栃本よしかね",
+        "榎本和孝",
+        "比企孝司",
+        "矢嶋聡子",
+        "金丸けんじ",
+        "鈴木慎乃助",
+        "鈴木智"
+      ]
+    },
+    {
+      "id": "00bb65aaaa368632898f",
+      "place": "蕨市",
+      "season": "spring",
+      "date": "2026-02-17",
+      "title": "令和8年第2回定例会　議案・決算の提案理由",
+      "kind": "議案の提案理由（公式資料）",
+      "scope": "summary",
+      "url": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/17,2026/03/23,145&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "note": "公式議案詳細に掲載された提案理由。議案ごとの原本は公式議決結果の案件別リンクから開けます。",
+      "speakers": []
+    },
+    {
       "id": "b6a0e357d0a13a9380d7",
       "place": "蕨市",
       "season": "spring",
@@ -38093,6 +38133,18 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "4989ec3c2707e02cb7c8",
+      "place": "蕨市",
+      "season": "spring",
+      "date": "2026-03-23",
+      "title": "令和8年第2回定例会 付録（議案付託・委員会報告等）",
+      "kind": "委員長報告（公式資料）",
+      "scope": "summary",
+      "url": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82Q%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E23%93%FA-%95t%98^&KGNO=612&FINO=1522&UNID=K_R08032300SR1&HATSUGENMODE=1",
+      "note": "公式会議録目録の付録原文。議案付託・委員会審査・本会議結果などを掲載。",
+      "speakers": []
+    },
+    {
       "id": "e72427a630a358601511",
       "place": "蕨市",
       "season": "summer",
@@ -38106,6 +38158,71 @@ GIKAI.questionText = {
         "前川やすえ",
         "大石圭子"
       ]
+    },
+    {
+      "id": "e8df0dba6cc8077114d1",
+      "place": "蕨市",
+      "season": "spring",
+      "date": "2026-06-01",
+      "title": "わらび市議会だより第234号 公式テキスト版",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "url": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/shiryo5/Sr5B16_6.pdf",
+      "note": "同号の公式テキスト版。原本の頁順と照合。",
+      "speakers": []
+    },
+    {
+      "id": "ab9fe6d7e06dee81efd6",
+      "place": "蕨市",
+      "season": "spring",
+      "date": "2026-06-01",
+      "title": "わらび市議会だより第234号 紙面",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "url": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh79_234.pdf",
+      "note": "紙面版・全頁のOCR。",
+      "speakers": []
+    },
+    {
+      "id": "568ce5e184e09fa3908e",
+      "place": "蕨市",
+      "season": "summer",
+      "date": "2026-06-01",
+      "title": "令和8年第3回定例会 発言通告一覧",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Shitsumon.asp?KWORD1=&EXP=AND&KWORD2=&KAIGI=146&SMODE=0&KENSU=100&Sflg=2",
+      "note": "公式HTMLの発言通告。発言順・質問者・全項目を収録。発言と答弁は本会議録で確認できます。",
+      "speakers": [
+        "前川やすえ",
+        "古川歩",
+        "大石幸一",
+        "宮下奈美",
+        "小林利規",
+        "山脇紀子",
+        "岡田みきお",
+        "庄野航二",
+        "本田てい子",
+        "栃本よしかね",
+        "榎本和孝",
+        "比企孝司",
+        "矢嶋聡子",
+        "金丸けんじ",
+        "鈴木慎乃助",
+        "鈴木智"
+      ]
+    },
+    {
+      "id": "a898566c7aba3c8ac606",
+      "place": "蕨市",
+      "season": "summer",
+      "date": "2026-06-01",
+      "title": "令和8年第3回定例会　議案・決算の提案理由",
+      "kind": "議案の提案理由（公式資料）",
+      "scope": "summary",
+      "url": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/06/01,2026/06/19,146&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "note": "公式議案詳細に掲載された提案理由。議案ごとの原本は公式議決結果の案件別リンクから開けます。",
+      "speakers": []
     },
     {
       "id": "cf2d88c2261de7be07e2",
@@ -38196,6 +38313,238 @@ GIKAI.questionText = {
         "本田てい子",
         "栃本よしかね"
       ]
+    },
+    {
+      "id": "e4a79624a5b3cdf55ca6",
+      "place": "蕨市",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "令和8年第3回定例会 付録（議案付託・委員会報告等）",
+      "kind": "委員長報告（公式資料）",
+      "scope": "summary",
+      "url": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82R%89%F1%92%E8%97%E1%89%EF%81%7C06%8C%8E19%93%FA-%95t%98^&KGNO=621&FINO=1533&UNID=K_R08061900SR1&HATSUGENMODE=1",
+      "note": "公式会議録目録の付録原文。議案付託・委員会審査・本会議結果などを掲載。",
+      "speakers": []
+    },
+    {
+      "id": "b322ede033a40f1aeb1f",
+      "place": "蕨市",
+      "season": "summer",
+      "date": "2026-09-01",
+      "title": "わらび市議会だより第235号 公式テキスト版",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "url": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/shiryo5/Sr5B17_89.pdf",
+      "note": "同号の公式テキスト版。原本の頁順と照合。",
+      "speakers": []
+    },
+    {
+      "id": "48742884a6371335e7dc",
+      "place": "蕨市",
+      "season": "summer",
+      "date": "2026-09-01",
+      "title": "わらび市議会だより第235号 紙面",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "url": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh80_235.pdf",
+      "note": "紙面版・全頁のOCR。原画像との照合候補頁：13、14。同号の公式テキスト版も参照。",
+      "speakers": []
+    },
+    {
+      "id": "ba34b5da8151869fc679",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "令和8年第5回定例会 発言通告一覧",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Shitsumon.asp?KWORD1=&EXP=AND&KWORD2=&KAIGI=148&SMODE=0&KENSU=100&Sflg=2",
+      "note": "公式HTMLの発言通告。発言順・質問者・全項目を収録。秋は公式録画の15人と照合。",
+      "speakers": [
+        "前川やすえ",
+        "大石幸一",
+        "宮下奈美",
+        "小林利規",
+        "山脇紀子",
+        "岡田みきお",
+        "庄野航二",
+        "本田てい子",
+        "栃本よしかね",
+        "榎本和孝",
+        "比企孝司",
+        "矢嶋聡子",
+        "金丸けんじ",
+        "鈴木慎乃助",
+        "鈴木智"
+      ]
+    },
+    {
+      "id": "a27d8684b5e879c01a25",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "令和8年第5回定例会　議案・決算の提案理由",
+      "kind": "議案の提案理由（公式資料）",
+      "scope": "summary",
+      "url": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/09/01,2026/09/29,148&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "note": "公式議案詳細に掲載された提案理由。議案ごとの原本は公式議決結果の案件別リンクから開けます。",
+      "speakers": []
+    },
+    {
+      "id": "a00ff5b9f8364198a2c0",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-01",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "本会議　会期の決定と陳情の委員会付託（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。通しの議案質疑録画のため、話者名や発言内容は元の録画または会議録でご確認ください。 表決結果は公式結果と当日の映像で確認できます。",
+      "url": "https://warabi.gijiroku.com/g07_Video_View.asp?SrchID=2363",
+      "speakers": []
+    },
+    {
+      "id": "864b7be82e43c2025532",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-01",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "本会議　議長・市長報告（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。通しの議案質疑録画のため、話者名や発言内容は元の録画または会議録でご確認ください。 表決結果は公式結果と当日の映像で確認できます。",
+      "url": "https://warabi.gijiroku.com/g07_Video_View.asp?SrchID=2364",
+      "speakers": []
+    },
+    {
+      "id": "fab6c6542a01af31914d",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-01",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "本会議　閉会中の継続審査についての委員長報告（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。通しの議案質疑録画のため、話者名や発言内容は元の録画または会議録でご確認ください。 表決結果は公式結果と当日の映像で確認できます。",
+      "url": "https://warabi.gijiroku.com/g07_Video_View.asp?SrchID=2362",
+      "speakers": []
+    },
+    {
+      "id": "8b0eba2c0d26975415c8",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-01",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "本会議　９月定例会の議案・決算の提案説明（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。通しの議案質疑録画のため、話者名や発言内容は元の録画または会議録でご確認ください。 表決結果は公式結果と当日の映像で確認できます。",
+      "url": "https://warabi.gijiroku.com/g07_Video_View.asp?SrchID=2365",
+      "speakers": []
+    },
+    {
+      "id": "577f6dd72bee9437d4fd",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "陳情第３号　提出本文",
+      "kind": "陳情本文（公式資料）",
+      "scope": "summary",
+      "url": "https://warabi.gijiroku.com/gikai/g07_ChinjoView.asp?SrchID=65&Title=%93%FA%96%7B%90%AD%95%7B%82%C9%8Aj%95%BA%8A%ED%8B%D6%8E~%8F%F0%96%F1%82%C9%88%EA%93%FA%82%E0%91%81%82%A2%8F%90%96%BC%81A%94%E1%8Fy%82%F0%8B%81%82%DF%81A%8D%A1%94N%82P%82P%8C%8E%82%C9%8AJ%82%A9%82%EA%82%E9%97%5C%92%E8%82%CC%8D%C4%8C%9F%93%A2%89%EF%8Bc%82%C9%83I%83u%83U%81%5B%83o%81%5B%82%C6%82%B5%82%C4%8EQ%89%C1%82%F0%8B%81%82%DF%82%E9%88%D3%8C%A9%8F%91%82%CC%92%F1%8Fo%82%F0%8B%81%82%DF%82%E9%92%C2%8F%EE&kword1=&kword2=",
+      "note": "市議会サイトが公開している陳情本文。陳情者による記述。委員会への付託は９月１日。",
+      "speakers": []
+    },
+    {
+      "id": "600b5c9c82e1cb4dd5a5",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-07",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "本会議　認定第２～９号の質疑（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。通しの議案質疑録画のため、話者名や発言内容は元の録画または会議録でご確認ください。 表決結果は公式結果と当日の映像で確認できます。",
+      "url": "https://warabi.gijiroku.com/g07_Video_View.asp?SrchID=2375",
+      "speakers": []
+    },
+    {
+      "id": "d72aa1f52fbb49bf7d43",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-07",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "本会議　議案と決算の委員会付託（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。通しの議案質疑録画のため、話者名や発言内容は元の録画または会議録でご確認ください。 表決結果は公式結果と当日の映像で確認できます。",
+      "url": "https://warabi.gijiroku.com/g07_Video_View.asp?SrchID=2376",
+      "speakers": []
+    },
+    {
+      "id": "2b38cc9a1279c0bfa62c",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-07",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "本会議　議案第55・56号の質疑（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。通しの議案質疑録画のため、話者名や発言内容は元の録画または会議録でご確認ください。 表決結果は公式結果と当日の映像で確認できます。",
+      "url": "https://warabi.gijiroku.com/g07_Video_View.asp?SrchID=2371",
+      "speakers": []
+    },
+    {
+      "id": "c1c44fed4599702a109b",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-07",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "本会議　議案第57号の一般会計補正予算に対する質疑（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。通しの議案質疑録画のため、話者名や発言内容は元の録画または会議録でご確認ください。 表決結果は公式結果と当日の映像で確認できます。",
+      "url": "https://warabi.gijiroku.com/g07_Video_View.asp?SrchID=2372",
+      "speakers": []
+    },
+    {
+      "id": "75517de76caf795be71a",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-07",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "本会議　議案第58～61・63号の質疑（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。通しの議案質疑録画のため、話者名や発言内容は元の録画または会議録でご確認ください。 表決結果は公式結果と当日の映像で確認できます。",
+      "url": "https://warabi.gijiroku.com/g07_Video_View.asp?SrchID=2373",
+      "speakers": []
+    },
+    {
+      "id": "4b37fd48bcc0abb33850",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-07",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "本会議　議案第62号の委員会付託省略（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。通しの議案質疑録画のため、話者名や発言内容は元の録画または会議録でご確認ください。 表決結果は公式結果と当日の映像で確認できます。",
+      "url": "https://warabi.gijiroku.com/g07_Video_View.asp?SrchID=2369",
+      "speakers": []
+    },
+    {
+      "id": "9dab736514b765ea4fe0",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-07",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "本会議　議案第62号の討論と採決（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。通しの議案質疑録画のため、話者名や発言内容は元の録画または会議録でご確認ください。 表決結果は公式結果と当日の映像で確認できます。",
+      "url": "https://warabi.gijiroku.com/g07_Video_View.asp?SrchID=2370",
+      "speakers": []
+    },
+    {
+      "id": "89568edfea2728b9bc1a",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-07",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "本会議　議案第62号の質疑（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。通しの議案質疑録画のため、話者名や発言内容は元の録画または会議録でご確認ください。 表決結果は公式結果と当日の映像で確認できます。",
+      "url": "https://warabi.gijiroku.com/g07_Video_View.asp?SrchID=2368",
+      "speakers": []
     },
     {
       "id": "3d655cabcb845392e6d5",
@@ -38406,6 +38755,42 @@ GIKAI.questionText = {
       "speakers": [
         "鈴木智"
       ]
+    },
+    {
+      "id": "7f0490f50ed3886a4b29",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-29",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "本会議　常任委員会等の報告と質疑（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。通しの議案質疑録画のため、話者名や発言内容は元の録画または会議録でご確認ください。 表決結果は公式結果と当日の映像で確認できます。",
+      "url": "https://warabi.gijiroku.com/g07_Video_View.asp?SrchID=2400",
+      "speakers": []
+    },
+    {
+      "id": "36a7276cb509557804d1",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-29",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "本会議　議会運営委員長報告・継続審査・議員派遣（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。通しの議案質疑録画のため、話者名や発言内容は元の録画または会議録でご確認ください。 表決結果は公式結果と当日の映像で確認できます。",
+      "url": "https://warabi.gijiroku.com/g07_Video_View.asp?SrchID=2402",
+      "speakers": []
+    },
+    {
+      "id": "ff949fa2f15d5411c227",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-29",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "本会議　陳情・議案・決算の討論と採決（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。通しの議案質疑録画のため、話者名や発言内容は元の録画または会議録でご確認ください。 表決結果は公式結果と当日の映像で確認できます。",
+      "url": "https://warabi.gijiroku.com/g07_Video_View.asp?SrchID=2401",
+      "speakers": []
     },
     {
       "id": "f9fc40097eb5185ff0a4",
@@ -42394,7 +42779,7 @@ GIKAI.questionText = {
       "material": {
         "state": "verified",
         "indexURL": "https://warabi.gijiroku.com/voices/g08v_view.asp?Sflg=11&FYY=2026&TYY=2026",
-        "note": "公式年別一覧にある本会議録7資料を日付別に照合。"
+        "note": "公式本会議録7日分を年別目録と照合。付録と議会だより第234号も収録。"
       }
     },
     {
@@ -42403,7 +42788,7 @@ GIKAI.questionText = {
       "material": {
         "state": "verified",
         "indexURL": "https://warabi.gijiroku.com/voices/g08v_view.asp?Sflg=11&FYY=2026&TYY=2026",
-        "note": "公式年別一覧にある本会議録6資料を日付別に照合。"
+        "note": "公式本会議録6日分を年別目録と照合。付録と議会だより第235号も収録。"
       }
     },
     {
@@ -42411,8 +42796,8 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "indexURL": "https://warabi.gijiroku.com/gikai/g07_Video_Search.asp",
-        "note": "公式録画一覧の一般質問15人のうち、15人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
+        "indexURL": "https://warabi.gijiroku.com/g07_Video_Search.asp?Sflg=1&kaigi=148",
+        "note": "一般質問15人と議事15本を機械文字起こしとして収録。正式会議録は確認中。"
       }
     },
     {

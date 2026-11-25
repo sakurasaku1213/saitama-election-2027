@@ -3504,120 +3504,200 @@ GIKAI.coverage2026 = {
     {
       "place": "蕨市",
       "season": "spring",
-      "label": "2026年春の定例会",
-      "fromDate": "",
-      "toDate": "",
+      "label": "令和8年第2回定例会",
+      "fromDate": "2026-02-17",
+      "toDate": "2026-03-23",
       "planned": false,
       "materials": {
         "meeting": {
-          "state": "identified",
-          "note": "対象時期に関係する資料の掲載箇所を確認。会期の確定は未了。"
+          "state": "verified",
+          "note": "市議会の公式会期一覧と照合。"
         },
         "activity": {
-          "state": "partial",
-          "note": "この時期の掲載項目 85件。通告・目次・本文の別は活動の出典に表示。"
+          "state": "verified",
+          "note": "公式発言通告19枠を収録。代表６・一般13、実人数15人。発言と答弁は当日の公式本会議録で確認。"
         },
         "text": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "公式本会議録7日分と付録、議会だより第234号と同号の公式テキスト版を収録。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "公式結果25件と各案件の提案理由・本文の掲載先を照合。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "第234号３頁で25件・会派等７欄を確認。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "病院附帯決議、ピアノ取得の予算、エスタなど。"
         }
       },
       "sources": [
         {
           "label": "会期資料　令和8年第2回定例会",
           "url": "https://warabi.gijiroku.com/gikai/g07_Shitsumon.asp?Sflg=2&kaigi=145"
+        },
+        {
+          "label": "公式会期一覧",
+          "url": "https://warabi.gijiroku.com/gikai/voices/g07_Congress.asp"
+        },
+        {
+          "label": "発言通告",
+          "url": "https://warabi.gijiroku.com/gikai/g07_Shitsumon.asp?KWORD1=&EXP=AND&KWORD2=&KAIGI=145&SMODE=0&KENSU=100&Sflg=2"
+        },
+        {
+          "label": "公式議決結果と議案原文",
+          "url": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/17,2026/03/23,145&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2"
+        },
+        {
+          "label": "公式会議録目録",
+          "url": "https://warabi.gijiroku.com/voices/g08v_view.asp?Sflg=11&FYY=2026&TYY=2026"
+        },
+        {
+          "label": "公式会議録の付録",
+          "url": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82Q%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E23%93%FA-%95t%98^&KGNO=612&FINO=1522&UNID=K_R08032300SR1&HATSUGENMODE=1"
+        },
+        {
+          "label": "議会だより第234号・表決３頁",
+          "url": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh79_234.pdf#page=3"
+        },
+        {
+          "label": "議会だより公式テキスト版一覧",
+          "url": "https://warabi.gijiroku.com/gikai/g07_shiryo5.asp"
         }
       ]
     },
     {
       "place": "蕨市",
       "season": "summer",
-      "label": "2026年初夏の定例会",
-      "fromDate": "",
-      "toDate": "",
+      "label": "令和8年第3回定例会",
+      "fromDate": "2026-06-01",
+      "toDate": "2026-06-19",
       "planned": false,
       "materials": {
         "meeting": {
-          "state": "identified",
-          "note": "対象時期に関係する資料の掲載箇所を確認。会期の確定は未了。"
+          "state": "verified",
+          "note": "市議会の公式会期一覧と照合。"
         },
         "activity": {
-          "state": "partial",
-          "note": "この時期の掲載項目 44件。通告・目次・本文の別は活動の出典に表示。"
+          "state": "verified",
+          "note": "公式発言通告16人を収録。発言と答弁は当日の公式本会議録で確認。"
         },
         "text": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "公式本会議録6日分と付録、議会だより第235号と同号の公式テキスト版を収録。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "公式結果17件と各案件の提案理由・本文の掲載先を照合。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "第235号３頁で17件・会派等７欄を確認。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "外部助言者の選任、ピアノ取得、エスタの運用とクーポンなど。"
         }
       },
       "sources": [
         {
           "label": "会期資料　令和8年第3回定例会",
           "url": "https://warabi.gijiroku.com/gikai/g07_Shitsumon.asp?Sflg=2&kaigi=146"
+        },
+        {
+          "label": "公式会期一覧",
+          "url": "https://warabi.gijiroku.com/gikai/voices/g07_Congress.asp"
+        },
+        {
+          "label": "発言通告",
+          "url": "https://warabi.gijiroku.com/gikai/g07_Shitsumon.asp?KWORD1=&EXP=AND&KWORD2=&KAIGI=146&SMODE=0&KENSU=100&Sflg=2"
+        },
+        {
+          "label": "公式議決結果と議案原文",
+          "url": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/06/01,2026/06/19,146&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2"
+        },
+        {
+          "label": "公式会議録目録",
+          "url": "https://warabi.gijiroku.com/voices/g08v_view.asp?Sflg=11&FYY=2026&TYY=2026"
+        },
+        {
+          "label": "公式会議録の付録",
+          "url": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82R%89%F1%92%E8%97%E1%89%EF%81%7C06%8C%8E19%93%FA-%95t%98^&KGNO=621&FINO=1533&UNID=K_R08061900SR1&HATSUGENMODE=1"
+        },
+        {
+          "label": "議会だより第235号・表決３頁",
+          "url": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh80_235.pdf#page=3"
+        },
+        {
+          "label": "議会だより公式テキスト版一覧",
+          "url": "https://warabi.gijiroku.com/gikai/g07_shiryo5.asp"
         }
       ]
     },
     {
       "place": "蕨市",
       "season": "fall",
-      "label": "2026年秋の定例会",
-      "fromDate": "",
-      "toDate": "",
+      "label": "令和8年第5回定例会",
+      "fromDate": "2026-09-01",
+      "toDate": "2026-09-29",
       "planned": false,
       "materials": {
         "meeting": {
-          "state": "identified",
-          "note": "対象時期に関係する資料の掲載箇所を確認。会期の確定は未了。"
+          "state": "verified",
+          "note": "市議会の公式会期一覧と照合。"
         },
         "activity": {
-          "state": "partial",
-          "note": "この時期の掲載項目 46件。通告・目次・本文の別は活動の出典に表示。"
+          "state": "verified",
+          "note": "公式発言通告15人を収録。一般質問15人は発言者別の公式録画と照合。"
         },
         "text": {
           "state": "partial",
-          "note": "公式録画一覧の一般質問15人のうち、11人の映像音声を機械文字起こしとして収録。正式会議録は確認中。"
+          "note": "一般質問15人と本会議議事15本の機械文字起こしを収録。正式会議録は確認中。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "公式結果19件と各案件の提案理由・本文の掲載先を照合。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "公式の結果と本会議録画を収録。議会だよりの会派等別表決は公開確認中。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "病院設計の見直し、蕨宿交流拠点、避難所備蓄、陳情など。"
         }
       },
       "sources": [
         {
           "label": "会期資料　令和8年第5回定例会",
           "url": "https://warabi.gijiroku.com/gikai/g07_Shitsumon.asp?Sflg=2&kaigi=148"
+        },
+        {
+          "label": "公式会期一覧",
+          "url": "https://warabi.gijiroku.com/gikai/voices/g07_Congress.asp"
+        },
+        {
+          "label": "発言通告",
+          "url": "https://warabi.gijiroku.com/gikai/g07_Shitsumon.asp?KWORD1=&EXP=AND&KWORD2=&KAIGI=148&SMODE=0&KENSU=100&Sflg=2"
+        },
+        {
+          "label": "公式議決結果と議案原文",
+          "url": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/09/01,2026/09/29,148&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2"
+        },
+        {
+          "label": "公式会議録目録",
+          "url": "https://warabi.gijiroku.com/voices/g08v_view.asp?Sflg=11&FYY=2026&TYY=2026"
+        },
+        {
+          "label": "公式録画一覧",
+          "url": "https://warabi.gijiroku.com/g07_Video_Search.asp?Sflg=1&kaigi=148"
+        },
+        {
+          "label": "陳情審議結果と本文",
+          "url": "https://warabi.gijiroku.com/gikai/g07_Chinjo.asp"
         }
       ]
     },
@@ -120192,6 +120272,1394 @@ GIKAI.coverage2026 = {
           "萩原圭一": "反対"
         }
       }
+    },
+    {
+      "place": "蕨市",
+      "season": "spring",
+      "session": "令和8年第2回定例会",
+      "number": "議案第6号",
+      "title": "蕨市行政手続条例の一部を改正する条例",
+      "date": "2026-03-23",
+      "result": "原案可決",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/17,2026/03/23,145&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1650&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号7。",
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh79_234.pdf#page=3",
+      "committeeURL": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82Q%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E23%93%FA-%95t%98^&KGNO=612&FINO=1522&UNID=K_R08032300SR1&HATSUGENMODE=1"
+    },
+    {
+      "place": "蕨市",
+      "season": "spring",
+      "session": "令和8年第2回定例会",
+      "number": "議案第7号",
+      "title": "職員の勤務時間、休日及び休暇に関する条例の一部を改正する条例",
+      "date": "2026-03-23",
+      "result": "原案可決",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/17,2026/03/23,145&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1651&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号8。",
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh79_234.pdf#page=3",
+      "committeeURL": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82Q%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E23%93%FA-%95t%98^&KGNO=612&FINO=1522&UNID=K_R08032300SR1&HATSUGENMODE=1"
+    },
+    {
+      "place": "蕨市",
+      "season": "spring",
+      "session": "令和8年第2回定例会",
+      "number": "議案第8号",
+      "title": "蕨市火災予防条例の一部を改正する条例",
+      "date": "2026-03-23",
+      "result": "原案可決",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/17,2026/03/23,145&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1652&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号9。",
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh79_234.pdf#page=3",
+      "committeeURL": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82Q%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E23%93%FA-%95t%98^&KGNO=612&FINO=1522&UNID=K_R08032300SR1&HATSUGENMODE=1"
+    },
+    {
+      "place": "蕨市",
+      "season": "spring",
+      "session": "令和8年第2回定例会",
+      "number": "議案第9号",
+      "title": "蕨市国民健康保険税条例の一部を改正する条例",
+      "date": "2026-03-23",
+      "result": "原案可決",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/17,2026/03/23,145&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1653&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号10。",
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "反対",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh79_234.pdf#page=3",
+      "committeeURL": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82Q%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E23%93%FA-%95t%98^&KGNO=612&FINO=1522&UNID=K_R08032300SR1&HATSUGENMODE=1"
+    },
+    {
+      "place": "蕨市",
+      "season": "spring",
+      "session": "令和8年第2回定例会",
+      "number": "議案第10号",
+      "title": "蕨市介護保険条例の一部を改正する条例",
+      "date": "2026-03-23",
+      "result": "原案可決",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/17,2026/03/23,145&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1654&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号11。",
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh79_234.pdf#page=3",
+      "committeeURL": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82Q%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E23%93%FA-%95t%98^&KGNO=612&FINO=1522&UNID=K_R08032300SR1&HATSUGENMODE=1"
+    },
+    {
+      "place": "蕨市",
+      "season": "spring",
+      "session": "令和8年第2回定例会",
+      "number": "議案第11号",
+      "title": "蕨市保健センター設置及び管理条例の一部を改正する条例",
+      "date": "2026-03-23",
+      "result": "原案可決",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/17,2026/03/23,145&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1655&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号12。",
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh79_234.pdf#page=3",
+      "committeeURL": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82Q%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E23%93%FA-%95t%98^&KGNO=612&FINO=1522&UNID=K_R08032300SR1&HATSUGENMODE=1"
+    },
+    {
+      "place": "蕨市",
+      "season": "spring",
+      "session": "令和8年第2回定例会",
+      "number": "議案第12号",
+      "title": "蕨市水道事業鉛製給水管改修基金条例を廃止する条例",
+      "date": "2026-03-23",
+      "result": "原案可決",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/17,2026/03/23,145&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1656&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号13。",
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh79_234.pdf#page=3",
+      "committeeURL": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82Q%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E23%93%FA-%95t%98^&KGNO=612&FINO=1522&UNID=K_R08032300SR1&HATSUGENMODE=1"
+    },
+    {
+      "place": "蕨市",
+      "season": "spring",
+      "session": "令和8年第2回定例会",
+      "number": "議案第13号",
+      "title": "令和７年度蕨市一般会計補正予算（第９号）",
+      "date": "2026-03-23",
+      "result": "原案可決",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/17,2026/03/23,145&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1657&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号14。",
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh79_234.pdf#page=3",
+      "committeeURL": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82Q%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E23%93%FA-%95t%98^&KGNO=612&FINO=1522&UNID=K_R08032300SR1&HATSUGENMODE=1"
+    },
+    {
+      "place": "蕨市",
+      "season": "spring",
+      "session": "令和8年第2回定例会",
+      "number": "議案第14号",
+      "title": "令和７年度蕨市国民健康保険特別会計補正予算（第２号）",
+      "date": "2026-03-23",
+      "result": "原案可決",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/17,2026/03/23,145&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1658&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号15。",
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh79_234.pdf#page=3",
+      "committeeURL": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82Q%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E23%93%FA-%95t%98^&KGNO=612&FINO=1522&UNID=K_R08032300SR1&HATSUGENMODE=1"
+    },
+    {
+      "place": "蕨市",
+      "season": "spring",
+      "session": "令和8年第2回定例会",
+      "number": "議案第15号",
+      "title": "令和７年度蕨都市計画事業錦町土地区画整理事業特別会計補正予算（第１号）",
+      "date": "2026-03-23",
+      "result": "原案可決",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/17,2026/03/23,145&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1659&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号16。",
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh79_234.pdf#page=3",
+      "committeeURL": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82Q%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E23%93%FA-%95t%98^&KGNO=612&FINO=1522&UNID=K_R08032300SR1&HATSUGENMODE=1"
+    },
+    {
+      "place": "蕨市",
+      "season": "spring",
+      "session": "令和8年第2回定例会",
+      "number": "議案第16号",
+      "title": "令和７年度蕨市介護保険特別会計補正予算（第２号）",
+      "date": "2026-03-23",
+      "result": "原案可決",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/17,2026/03/23,145&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1660&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号17。",
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh79_234.pdf#page=3",
+      "committeeURL": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82Q%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E23%93%FA-%95t%98^&KGNO=612&FINO=1522&UNID=K_R08032300SR1&HATSUGENMODE=1"
+    },
+    {
+      "place": "蕨市",
+      "season": "spring",
+      "session": "令和8年第2回定例会",
+      "number": "議案第17号",
+      "title": "令和７年度蕨市後期高齢者医療特別会計補正予算（第２号）",
+      "date": "2026-03-23",
+      "result": "原案可決",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/17,2026/03/23,145&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1661&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号18。",
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh79_234.pdf#page=3",
+      "committeeURL": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82Q%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E23%93%FA-%95t%98^&KGNO=612&FINO=1522&UNID=K_R08032300SR1&HATSUGENMODE=1"
+    },
+    {
+      "place": "蕨市",
+      "season": "spring",
+      "session": "令和8年第2回定例会",
+      "number": "議案第18号",
+      "title": "令和７年度蕨市公共用地先行取得事業特別会計補正予算（第１号）",
+      "date": "2026-03-23",
+      "result": "原案可決",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/17,2026/03/23,145&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1662&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号19。",
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh79_234.pdf#page=3",
+      "committeeURL": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82Q%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E23%93%FA-%95t%98^&KGNO=612&FINO=1522&UNID=K_R08032300SR1&HATSUGENMODE=1"
+    },
+    {
+      "place": "蕨市",
+      "season": "spring",
+      "session": "令和8年第2回定例会",
+      "number": "議案第19号",
+      "title": "令和７年度蕨市立病院事業会計補正予算（第１号）",
+      "date": "2026-03-23",
+      "result": "原案可決",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/17,2026/03/23,145&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1663&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号20。",
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh79_234.pdf#page=3",
+      "committeeURL": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82Q%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E23%93%FA-%95t%98^&KGNO=612&FINO=1522&UNID=K_R08032300SR1&HATSUGENMODE=1"
+    },
+    {
+      "place": "蕨市",
+      "season": "spring",
+      "session": "令和8年第2回定例会",
+      "number": "議案第20号",
+      "title": "令和７年度蕨市公共下水道事業会計補正予算（第２号）",
+      "date": "2026-03-23",
+      "result": "原案可決",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/17,2026/03/23,145&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1664&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号21。",
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh79_234.pdf#page=3",
+      "committeeURL": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82Q%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E23%93%FA-%95t%98^&KGNO=612&FINO=1522&UNID=K_R08032300SR1&HATSUGENMODE=1"
+    },
+    {
+      "place": "蕨市",
+      "season": "spring",
+      "session": "令和8年第2回定例会",
+      "number": "議案第21号",
+      "title": "令和８年度蕨市一般会計予算",
+      "date": "2026-03-23",
+      "result": "原案可決",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/17,2026/03/23,145&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1665&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号22。",
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh79_234.pdf#page=3",
+      "committeeURL": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82Q%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E23%93%FA-%95t%98^&KGNO=612&FINO=1522&UNID=K_R08032300SR1&HATSUGENMODE=1"
+    },
+    {
+      "place": "蕨市",
+      "season": "spring",
+      "session": "令和8年第2回定例会",
+      "number": "議案第22号",
+      "title": "令和８年度蕨市国民健康保険特別会計予算",
+      "date": "2026-03-23",
+      "result": "原案可決",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/17,2026/03/23,145&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1666&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号23。 榎本和孝議員の退席・入場は当日の会議録に記載。",
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "退席",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh79_234.pdf#page=3",
+      "committeeURL": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82Q%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E23%93%FA-%95t%98^&KGNO=612&FINO=1522&UNID=K_R08032300SR1&HATSUGENMODE=1",
+      "archiveId": "4d143e608bf8d714112d",
+      "blocks": [
+        35,
+        36,
+        37
+      ]
+    },
+    {
+      "place": "蕨市",
+      "season": "spring",
+      "session": "令和8年第2回定例会",
+      "number": "議案第23号",
+      "title": "令和８年度蕨都市計画事業錦町土地区画整理事業特別会計予算",
+      "date": "2026-03-23",
+      "result": "原案可決",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/17,2026/03/23,145&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1667&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号24。",
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh79_234.pdf#page=3",
+      "committeeURL": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82Q%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E23%93%FA-%95t%98^&KGNO=612&FINO=1522&UNID=K_R08032300SR1&HATSUGENMODE=1"
+    },
+    {
+      "place": "蕨市",
+      "season": "spring",
+      "session": "令和8年第2回定例会",
+      "number": "議案第24号",
+      "title": "令和８年度蕨市介護保険特別会計予算",
+      "date": "2026-03-23",
+      "result": "原案可決",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/17,2026/03/23,145&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1668&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号25。",
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh79_234.pdf#page=3",
+      "committeeURL": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82Q%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E23%93%FA-%95t%98^&KGNO=612&FINO=1522&UNID=K_R08032300SR1&HATSUGENMODE=1"
+    },
+    {
+      "place": "蕨市",
+      "season": "spring",
+      "session": "令和8年第2回定例会",
+      "number": "議案第25号",
+      "title": "令和８年度蕨市後期高齢者医療特別会計予算",
+      "date": "2026-03-23",
+      "result": "原案可決",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/17,2026/03/23,145&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1669&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号26。",
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh79_234.pdf#page=3",
+      "committeeURL": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82Q%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E23%93%FA-%95t%98^&KGNO=612&FINO=1522&UNID=K_R08032300SR1&HATSUGENMODE=1"
+    },
+    {
+      "place": "蕨市",
+      "season": "spring",
+      "session": "令和8年第2回定例会",
+      "number": "議案第26号",
+      "title": "令和８年度蕨市公共用地先行取得事業特別会計予算",
+      "date": "2026-03-23",
+      "result": "原案可決",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/17,2026/03/23,145&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1670&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号27。",
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh79_234.pdf#page=3",
+      "committeeURL": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82Q%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E23%93%FA-%95t%98^&KGNO=612&FINO=1522&UNID=K_R08032300SR1&HATSUGENMODE=1"
+    },
+    {
+      "place": "蕨市",
+      "season": "spring",
+      "session": "令和8年第2回定例会",
+      "number": "議案第27号",
+      "title": "令和８年度蕨市立病院事業会計予算",
+      "date": "2026-03-23",
+      "result": "原案可決",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/17,2026/03/23,145&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1671&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号28。",
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh79_234.pdf#page=3",
+      "committeeURL": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82Q%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E23%93%FA-%95t%98^&KGNO=612&FINO=1522&UNID=K_R08032300SR1&HATSUGENMODE=1"
+    },
+    {
+      "place": "蕨市",
+      "season": "spring",
+      "session": "令和8年第2回定例会",
+      "number": "議案第28号",
+      "title": "令和８年度蕨市水道事業会計予算",
+      "date": "2026-03-23",
+      "result": "原案可決",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/17,2026/03/23,145&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1672&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号30。",
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh79_234.pdf#page=3",
+      "committeeURL": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82Q%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E23%93%FA-%95t%98^&KGNO=612&FINO=1522&UNID=K_R08032300SR1&HATSUGENMODE=1"
+    },
+    {
+      "place": "蕨市",
+      "season": "spring",
+      "session": "令和8年第2回定例会",
+      "number": "議案第29号",
+      "title": "令和８年度蕨市公共下水道事業会計予算",
+      "date": "2026-03-23",
+      "result": "原案可決",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/17,2026/03/23,145&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1673&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号31。",
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh79_234.pdf#page=3",
+      "committeeURL": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82Q%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E23%93%FA-%95t%98^&KGNO=612&FINO=1522&UNID=K_R08032300SR1&HATSUGENMODE=1"
+    },
+    {
+      "place": "蕨市",
+      "season": "spring",
+      "session": "令和8年第2回定例会",
+      "number": "議員提出議案第2号",
+      "title": "議案第２７号「令和８年度蕨市立病院事業会計予算」に対する附帯決議",
+      "date": "2026-03-23",
+      "result": "原案可決",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/17,2026/03/23,145&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/Gk/Gk1675_2.pdf#page=1",
+      "sourceTitle": "議員提出議案の原文",
+      "voteNote": "公式議決番号29。 榎本和孝議員の退席・入場は当日の会議録に記載。",
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "退席",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh79_234.pdf#page=3",
+      "committeeURL": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82Q%89%F1%92%E8%97%E1%89%EF%81%7C03%8C%8E23%93%FA-%95t%98^&KGNO=612&FINO=1522&UNID=K_R08032300SR1&HATSUGENMODE=1",
+      "archiveId": "4d143e608bf8d714112d",
+      "blocks": [
+        47,
+        51,
+        69,
+        71,
+        72,
+        73,
+        74
+      ],
+      "names": [
+        "前川やすえ"
+      ],
+      "proposalRole": "発議者",
+      "proposalSupporters": [
+        "大石幸一",
+        "比企孝司",
+        "本田てい子",
+        "栃本よしかね",
+        "矢嶋聡子",
+        "庄野航二",
+        "岡田みきお",
+        "金丸けんじ",
+        "鈴木慎乃助"
+      ]
+    },
+    {
+      "place": "蕨市",
+      "season": "summer",
+      "session": "令和8年第3回定例会",
+      "number": "議案第30号",
+      "title": "蕨市税条例の一部を改正する条例",
+      "date": "2026-06-19",
+      "result": "原案可決",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/06/01,2026/06/19,146&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1676&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号37。",
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh80_235.pdf#page=3",
+      "committeeURL": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82R%89%F1%92%E8%97%E1%89%EF%81%7C06%8C%8E19%93%FA-%95t%98^&KGNO=621&FINO=1533&UNID=K_R08061900SR1&HATSUGENMODE=1"
+    },
+    {
+      "place": "蕨市",
+      "season": "summer",
+      "session": "令和8年第3回定例会",
+      "number": "議案第31号",
+      "title": "蕨市介護保険条例の一部を改正する条例",
+      "date": "2026-06-19",
+      "result": "原案可決",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/06/01,2026/06/19,146&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1677&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号38。",
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh80_235.pdf#page=3",
+      "committeeURL": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82R%89%F1%92%E8%97%E1%89%EF%81%7C06%8C%8E19%93%FA-%95t%98^&KGNO=621&FINO=1533&UNID=K_R08061900SR1&HATSUGENMODE=1"
+    },
+    {
+      "place": "蕨市",
+      "season": "summer",
+      "session": "令和8年第3回定例会",
+      "number": "議案第32号",
+      "title": "固定資産評価審査委員会委員の選任の同意について",
+      "date": "2026-06-03",
+      "result": "同意",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/06/01,2026/06/19,146&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1678&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号32。",
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh80_235.pdf#page=3",
+      "committeeURL": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82R%89%F1%92%E8%97%E1%89%EF%81%7C06%8C%8E19%93%FA-%95t%98^&KGNO=621&FINO=1533&UNID=K_R08061900SR1&HATSUGENMODE=1"
+    },
+    {
+      "place": "蕨市",
+      "season": "summer",
+      "session": "令和8年第3回定例会",
+      "number": "議案第33号",
+      "title": "固定資産評価審査委員会委員の選任の同意について",
+      "date": "2026-06-03",
+      "result": "同意",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/06/01,2026/06/19,146&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1679&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号33。",
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh80_235.pdf#page=3",
+      "committeeURL": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82R%89%F1%92%E8%97%E1%89%EF%81%7C06%8C%8E19%93%FA-%95t%98^&KGNO=621&FINO=1533&UNID=K_R08061900SR1&HATSUGENMODE=1"
+    },
+    {
+      "place": "蕨市",
+      "season": "summer",
+      "session": "令和8年第3回定例会",
+      "number": "議案第34号",
+      "title": "固定資産評価審査委員会委員の選任の同意について",
+      "date": "2026-06-03",
+      "result": "同意",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/06/01,2026/06/19,146&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1680&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号34。",
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh80_235.pdf#page=3",
+      "committeeURL": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82R%89%F1%92%E8%97%E1%89%EF%81%7C06%8C%8E19%93%FA-%95t%98^&KGNO=621&FINO=1533&UNID=K_R08061900SR1&HATSUGENMODE=1"
+    },
+    {
+      "place": "蕨市",
+      "season": "summer",
+      "session": "令和8年第3回定例会",
+      "number": "議案第35号",
+      "title": "固定資産評価員の選任の同意について",
+      "date": "2026-06-03",
+      "result": "同意",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/06/01,2026/06/19,146&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1681&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号35。",
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh80_235.pdf#page=3",
+      "committeeURL": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82R%89%F1%92%E8%97%E1%89%EF%81%7C06%8C%8E19%93%FA-%95t%98^&KGNO=621&FINO=1533&UNID=K_R08061900SR1&HATSUGENMODE=1"
+    },
+    {
+      "place": "蕨市",
+      "season": "summer",
+      "session": "令和8年第3回定例会",
+      "number": "議案第36号",
+      "title": "人権擁護委員候補者の推薦について",
+      "date": "2026-06-03",
+      "result": "推薦",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/06/01,2026/06/19,146&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1682&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号36。",
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh80_235.pdf#page=3",
+      "committeeURL": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82R%89%F1%92%E8%97%E1%89%EF%81%7C06%8C%8E19%93%FA-%95t%98^&KGNO=621&FINO=1533&UNID=K_R08061900SR1&HATSUGENMODE=1"
+    },
+    {
+      "place": "蕨市",
+      "season": "summer",
+      "session": "令和8年第3回定例会",
+      "number": "議案第37号",
+      "title": "工事請負契約の締結について（校舎トイレ改修工事（中央東小））",
+      "date": "2026-06-19",
+      "result": "原案可決",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/06/01,2026/06/19,146&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1683&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号39。",
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh80_235.pdf#page=3",
+      "committeeURL": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82R%89%F1%92%E8%97%E1%89%EF%81%7C06%8C%8E19%93%FA-%95t%98^&KGNO=621&FINO=1533&UNID=K_R08061900SR1&HATSUGENMODE=1"
+    },
+    {
+      "place": "蕨市",
+      "season": "summer",
+      "session": "令和8年第3回定例会",
+      "number": "議案第38号",
+      "title": "工事請負契約の変更契約の締結について（市民会館舞台照明設備改修工事）",
+      "date": "2026-06-19",
+      "result": "原案可決",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/06/01,2026/06/19,146&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1684&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号40。",
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh80_235.pdf#page=3",
+      "committeeURL": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82R%89%F1%92%E8%97%E1%89%EF%81%7C06%8C%8E19%93%FA-%95t%98^&KGNO=621&FINO=1533&UNID=K_R08061900SR1&HATSUGENMODE=1"
+    },
+    {
+      "place": "蕨市",
+      "season": "summer",
+      "session": "令和8年第3回定例会",
+      "number": "議案第39号",
+      "title": "工事請負契約の変更契約の締結について（市民会館ホール改修工事）",
+      "date": "2026-06-19",
+      "result": "原案可決",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/06/01,2026/06/19,146&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1685&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号41。",
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh80_235.pdf#page=3",
+      "committeeURL": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82R%89%F1%92%E8%97%E1%89%EF%81%7C06%8C%8E19%93%FA-%95t%98^&KGNO=621&FINO=1533&UNID=K_R08061900SR1&HATSUGENMODE=1"
+    },
+    {
+      "place": "蕨市",
+      "season": "summer",
+      "session": "令和8年第3回定例会",
+      "number": "議案第40号",
+      "title": "財産の取得について（市民会館グランドピアノ　一式）",
+      "date": "2026-06-19",
+      "result": "原案可決",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/06/01,2026/06/19,146&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1686&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号42。",
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh80_235.pdf#page=3",
+      "committeeURL": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82R%89%F1%92%E8%97%E1%89%EF%81%7C06%8C%8E19%93%FA-%95t%98^&KGNO=621&FINO=1533&UNID=K_R08061900SR1&HATSUGENMODE=1"
+    },
+    {
+      "place": "蕨市",
+      "season": "summer",
+      "session": "令和8年第3回定例会",
+      "number": "議案第41号",
+      "title": "財産の取得について（水槽付消防ポンプ自動車（Ｉ−Ｂ型））",
+      "date": "2026-06-19",
+      "result": "原案可決",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/06/01,2026/06/19,146&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1687&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号43。",
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh80_235.pdf#page=3",
+      "committeeURL": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82R%89%F1%92%E8%97%E1%89%EF%81%7C06%8C%8E19%93%FA-%95t%98^&KGNO=621&FINO=1533&UNID=K_R08061900SR1&HATSUGENMODE=1"
+    },
+    {
+      "place": "蕨市",
+      "season": "summer",
+      "session": "令和8年第3回定例会",
+      "number": "議案第42号",
+      "title": "財産の取得について（高規格救急自動車）",
+      "date": "2026-06-19",
+      "result": "原案可決",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/06/01,2026/06/19,146&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1688&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号44。",
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh80_235.pdf#page=3",
+      "committeeURL": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82R%89%F1%92%E8%97%E1%89%EF%81%7C06%8C%8E19%93%FA-%95t%98^&KGNO=621&FINO=1533&UNID=K_R08061900SR1&HATSUGENMODE=1"
+    },
+    {
+      "place": "蕨市",
+      "season": "summer",
+      "session": "令和8年第3回定例会",
+      "number": "議案第43号",
+      "title": "工事委託協定の締結について（塚越跨線人道橋修繕工事委託）",
+      "date": "2026-06-19",
+      "result": "原案可決",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/06/01,2026/06/19,146&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1689&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号45。",
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh80_235.pdf#page=3",
+      "committeeURL": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82R%89%F1%92%E8%97%E1%89%EF%81%7C06%8C%8E19%93%FA-%95t%98^&KGNO=621&FINO=1533&UNID=K_R08061900SR1&HATSUGENMODE=1"
+    },
+    {
+      "place": "蕨市",
+      "season": "summer",
+      "session": "令和8年第3回定例会",
+      "number": "議案第44号",
+      "title": "工事委託協定の変更協定の締結について（蕨跨線人道橋修繕工事委託）",
+      "date": "2026-06-19",
+      "result": "原案可決",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/06/01,2026/06/19,146&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1690&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号46。",
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh80_235.pdf#page=3",
+      "committeeURL": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82R%89%F1%92%E8%97%E1%89%EF%81%7C06%8C%8E19%93%FA-%95t%98^&KGNO=621&FINO=1533&UNID=K_R08061900SR1&HATSUGENMODE=1"
+    },
+    {
+      "place": "蕨市",
+      "season": "summer",
+      "session": "令和8年第3回定例会",
+      "number": "議案第45号",
+      "title": "専決処分の承認を求めることについて（蕨市税条例の一部を改正する条例）",
+      "date": "2026-06-19",
+      "result": "承認",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/06/01,2026/06/19,146&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1691&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号47。",
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh80_235.pdf#page=3",
+      "committeeURL": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82R%89%F1%92%E8%97%E1%89%EF%81%7C06%8C%8E19%93%FA-%95t%98^&KGNO=621&FINO=1533&UNID=K_R08061900SR1&HATSUGENMODE=1"
+    },
+    {
+      "place": "蕨市",
+      "season": "summer",
+      "session": "令和8年第3回定例会",
+      "number": "議案第46号",
+      "title": "専決処分の承認を求めることについて（蕨市国民健康保険税条例の一部を改正する条例）",
+      "date": "2026-06-19",
+      "result": "承認",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/06/01,2026/06/19,146&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1692&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号48。",
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh80_235.pdf#page=3",
+      "committeeURL": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82R%89%F1%92%E8%97%E1%89%EF%81%7C06%8C%8E19%93%FA-%95t%98^&KGNO=621&FINO=1533&UNID=K_R08061900SR1&HATSUGENMODE=1"
+    },
+    {
+      "place": "蕨市",
+      "season": "fall",
+      "session": "令和8年第5回定例会",
+      "number": "議案第55号",
+      "title": "蕨宿にぎわい交流拠点設置及び管理条例",
+      "date": "2026-09-29",
+      "result": "原案可決",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/09/01,2026/09/29,148&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1701&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号58。"
+    },
+    {
+      "place": "蕨市",
+      "season": "fall",
+      "session": "令和8年第5回定例会",
+      "number": "議案第56号",
+      "title": "蕨市印鑑条例の一部を改正する条例",
+      "date": "2026-09-29",
+      "result": "原案可決",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/09/01,2026/09/29,148&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1702&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号59。"
+    },
+    {
+      "place": "蕨市",
+      "season": "fall",
+      "session": "令和8年第5回定例会",
+      "number": "議案第57号",
+      "title": "令和８年度蕨市一般会計補正予算（第１号）",
+      "date": "2026-09-29",
+      "result": "原案可決",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/09/01,2026/09/29,148&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1703&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号60。"
+    },
+    {
+      "place": "蕨市",
+      "season": "fall",
+      "session": "令和8年第5回定例会",
+      "number": "議案第58号",
+      "title": "令和８年度蕨市国民健康保険特別会計補正予算（第１号）",
+      "date": "2026-09-29",
+      "result": "原案可決",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/09/01,2026/09/29,148&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1704&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号61。"
+    },
+    {
+      "place": "蕨市",
+      "season": "fall",
+      "session": "令和8年第5回定例会",
+      "number": "議案第59号",
+      "title": "令和８年度蕨都市計画事業錦町土地区画整理事業特別会計補正予算（第１号）",
+      "date": "2026-09-29",
+      "result": "原案可決",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/09/01,2026/09/29,148&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1705&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号62。"
+    },
+    {
+      "place": "蕨市",
+      "season": "fall",
+      "session": "令和8年第5回定例会",
+      "number": "議案第60号",
+      "title": "令和８年度蕨市介護保険特別会計補正予算（第１号）",
+      "date": "2026-09-29",
+      "result": "原案可決",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/09/01,2026/09/29,148&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1706&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号63。"
+    },
+    {
+      "place": "蕨市",
+      "season": "fall",
+      "session": "令和8年第5回定例会",
+      "number": "議案第61号",
+      "title": "令和８年度蕨市立病院事業会計補正予算（第１号）",
+      "date": "2026-09-29",
+      "result": "原案可決",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/09/01,2026/09/29,148&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1707&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号64。"
+    },
+    {
+      "place": "蕨市",
+      "season": "fall",
+      "session": "令和8年第5回定例会",
+      "number": "議案第62号",
+      "title": "人権擁護委員候補者の推薦について",
+      "date": "2026-09-07",
+      "result": "推薦",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/09/01,2026/09/29,148&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1708&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号57。"
+    },
+    {
+      "place": "蕨市",
+      "season": "fall",
+      "session": "令和8年第5回定例会",
+      "number": "議案第63号",
+      "title": "財産の取得について（ポータブル蓄電池　２０台）",
+      "date": "2026-09-29",
+      "result": "原案可決",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/09/01,2026/09/29,148&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1709&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号65。"
+    },
+    {
+      "place": "蕨市",
+      "season": "fall",
+      "session": "令和8年第5回定例会",
+      "number": "認定第1号",
+      "title": "令和７年度蕨市一般会計歳入歳出決算認定について",
+      "date": "2026-09-29",
+      "result": "認定",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/09/01,2026/09/29,148&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1710&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号1。"
+    },
+    {
+      "place": "蕨市",
+      "season": "fall",
+      "session": "令和8年第5回定例会",
+      "number": "認定第2号",
+      "title": "令和７年度蕨市国民健康保険特別会計歳入歳出決算認定について",
+      "date": "2026-09-29",
+      "result": "認定",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/09/01,2026/09/29,148&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1711&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号2。"
+    },
+    {
+      "place": "蕨市",
+      "season": "fall",
+      "session": "令和8年第5回定例会",
+      "number": "認定第3号",
+      "title": "令和７年度蕨都市計画事業錦町土地区画整理事業特別会計歳入歳出決算認定について",
+      "date": "2026-09-29",
+      "result": "認定",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/09/01,2026/09/29,148&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1712&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号3。"
+    },
+    {
+      "place": "蕨市",
+      "season": "fall",
+      "session": "令和8年第5回定例会",
+      "number": "認定第4号",
+      "title": "令和７年度蕨市介護保険特別会計歳入歳出決算認定について",
+      "date": "2026-09-29",
+      "result": "認定",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/09/01,2026/09/29,148&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1713&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号4。"
+    },
+    {
+      "place": "蕨市",
+      "season": "fall",
+      "session": "令和8年第5回定例会",
+      "number": "認定第5号",
+      "title": "令和７年度蕨市後期高齢者医療特別会計歳入歳出決算認定について",
+      "date": "2026-09-29",
+      "result": "認定",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/09/01,2026/09/29,148&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1714&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号5。"
+    },
+    {
+      "place": "蕨市",
+      "season": "fall",
+      "session": "令和8年第5回定例会",
+      "number": "認定第6号",
+      "title": "令和７年度蕨市公共用地先行取得事業特別会計歳入歳出決算認定について",
+      "date": "2026-09-29",
+      "result": "認定",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/09/01,2026/09/29,148&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1715&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号6。"
+    },
+    {
+      "place": "蕨市",
+      "season": "fall",
+      "session": "令和8年第5回定例会",
+      "number": "認定第7号",
+      "title": "令和７年度蕨市立病院事業会計決算認定について",
+      "date": "2026-09-29",
+      "result": "認定",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/09/01,2026/09/29,148&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1716&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号7。"
+    },
+    {
+      "place": "蕨市",
+      "season": "fall",
+      "session": "令和8年第5回定例会",
+      "number": "認定第8号",
+      "title": "令和７年度蕨市水道事業会計決算認定について",
+      "date": "2026-09-29",
+      "result": "認定",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/09/01,2026/09/29,148&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1717&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号8。"
+    },
+    {
+      "place": "蕨市",
+      "season": "fall",
+      "session": "令和8年第5回定例会",
+      "number": "認定第9号",
+      "title": "令和７年度蕨市公共下水道事業会計決算認定について",
+      "date": "2026-09-29",
+      "result": "認定",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/09/01,2026/09/29,148&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1719&Sflg=2&kword1=&kword2=",
+      "sourceTitle": "市議会・議案の提案理由と原文",
+      "proposer": "蕨市長",
+      "voteNote": "公式議決番号9。"
+    },
+    {
+      "place": "蕨市",
+      "season": "fall",
+      "session": "令和8年第5回定例会",
+      "number": "陳情第3号",
+      "title": "日本政府に核兵器禁止条約に一日も早い署名、批准を求め、今年１１月に開かれる予定の再検討会議にオブザーバーとして参加を求める意見書の提出を求める陳情",
+      "date": "2026-09-29",
+      "result": "不採択",
+      "resultURL": "https://warabi.gijiroku.com/gikai/g07_Chinjo.asp",
+      "url": "https://warabi.gijiroku.com/gikai/g07_ChinjoView.asp?SrchID=65&Title=%93%FA%96%7B%90%AD%95%7B%82%C9%8Aj%95%BA%8A%ED%8B%D6%8E~%8F%F0%96%F1%82%C9%88%EA%93%FA%82%E0%91%81%82%A2%8F%90%96%BC%81A%94%E1%8Fy%82%F0%8B%81%82%DF%81A%8D%A1%94N%82P%82P%8C%8E%82%C9%8AJ%82%A9%82%EA%82%E9%97%5C%92%E8%82%CC%8D%C4%8C%9F%93%A2%89%EF%8Bc%82%C9%83I%83u%83U%81%5B%83o%81%5B%82%C6%82%B5%82%C4%8EQ%89%C1%82%F0%8B%81%82%DF%82%E9%88%D3%8C%A9%8F%91%82%CC%92%F1%8Fo%82%F0%8B%81%82%DF%82%E9%92%C2%8F%EE&kword1=&kword2=",
+      "sourceTitle": "公式の陳情詳細と本文",
+      "proposer": "陳情者",
+      "voteNote": "総務常任委員会に９月１日付託。最終日の討論・採決の公式録画を確認できる。"
     }
   ],
   "policy": [

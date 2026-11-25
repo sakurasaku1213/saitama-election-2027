@@ -531,7 +531,7 @@ for (const doc of questionDocs) {
   }
   if (doc.scope === "recording") {
     assert.match(doc.kind, /機械文字起こし|公開自動字幕/);
-    const meetingRecording = doc.kind === "公式録画の機械文字起こし" && doc.title === "本会議　議案質疑（録画から）";
+    const meetingRecording = doc.kind === "公式録画の機械文字起こし" && /^本会議　.+（録画から）$/.test(doc.title);
     assert.ok(doc.speakers.length || doc.kind === "公式録画の公開自動字幕" || meetingRecording);
   }
   assert.ok(Array.isArray(doc.speakers) && new Set(doc.speakers).size === doc.speakers.length);
