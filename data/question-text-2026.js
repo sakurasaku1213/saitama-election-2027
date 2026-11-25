@@ -42669,6 +42669,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "90e6fc1a764e04284df2",
+      "place": "熊谷市",
+      "season": "fall",
+      "date": "2026-09-10",
+      "title": "江田大助議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://kumagaya-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1752",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "江田大助"
+      ]
+    },
+    {
       "id": "558f69185a6c2a32ba40",
       "place": "熊谷市",
       "season": "fall",
@@ -49555,6 +49569,18 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "06aa539ade49ace19055",
+      "place": "鳩山町",
+      "season": "fall",
+      "date": "2026-09-10",
+      "title": "本会議　議案の審議（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/hatoyama/WebView/rd/speech.html?council_id=63&schedule_id=4&playlist_id=1&speaker_id=15&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 本会議全体の録画。発言者と発言区間は原映像でご確認ください。",
+      "speakers": []
+    },
+    {
       "id": "3e583b5b140fcf3fd555",
       "place": "鳩山町",
       "season": "fall",
@@ -51099,7 +51125,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "議会だよりの一般質問19人の問答と４常任委員会の質疑を収録。公式録画目録は９月10日に７人、11・14日に各６人。正式会議録と原音照合は確認中。 公式録画の機械文字起こし一般質問4本を収録。",
+        "note": "議会だよりの一般質問19人の問答と４常任委員会の質疑を収録。公式録画目録は９月10日に７人、11・14日に各６人。正式会議録と原音照合は確認中。 公式録画の機械文字起こし一般質問5本を収録。",
         "indexURL": "https://www.city.kumagaya.lg.jp/shisei/shigikai/1006977/1006955/1009174.html"
       }
     },
@@ -52368,7 +52394,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/hatoyama/WebView/rd/council.html?year=2026&council_id=63",
-        "note": "第174号の一般質問９人34問答、決算審議10問答、所管事務調査３問答、討論と視察等。公式通告９人10頁、公式音声は９月２日４人、３日５人。正式会議録は確認中。 公式録画の機械文字起こし一般質問9本・議事1本を収録。"
+        "note": "第174号の一般質問９人34問答、決算審議10問答、所管事務調査３問答、討論と視察等。公式通告９人10頁、公式音声は９月２日４人、３日５人。正式会議録は確認中。 公式録画の機械文字起こし一般質問9本・議事2本を収録。"
       }
     },
     {
