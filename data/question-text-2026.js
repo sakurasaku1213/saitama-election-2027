@@ -29399,6 +29399,72 @@ GIKAI.questionText = {
       ]
     },
     {
+      "place": "本庄市",
+      "season": "spring",
+      "date": "2026-03",
+      "id": "9364c43db330d885a409",
+      "url": "https://www.city.honjo.lg.jp/material/files/group/30/tuukokuitiran0302.pdf",
+      "title": "令和8年第1回定例会・一般質問通告一覧",
+      "scope": "notice",
+      "kind": "一般質問通告（公式資料）",
+      "indexURL": "https://www.city.honjo.lg.jp/shiseijoho/shigikai/teireikai_rinjikai/reiwa8nenn/dai1kaiteireikai/21710.html",
+      "note": "公式の事前通告19人・２頁。会派代表6人を含む。一般質問３日の登壇順を本会議録で照合。",
+      "speakers": [
+        "倉林益代",
+        "冨田雅寿",
+        "早野清",
+        "栗田弘志",
+        "図師雄太",
+        "堀口伊代子",
+        "広瀬伸一",
+        "加藤栄二",
+        "小賀野健司",
+        "矢野間規",
+        "山口豊",
+        "朝比奈知恵子",
+        "山田高史",
+        "柿沼綾子",
+        "原由徳",
+        "出牛順一",
+        "門倉道雄",
+        "原史子",
+        "田中輝好"
+      ]
+    },
+    {
+      "place": "本庄市",
+      "season": "spring",
+      "date": "2026-03",
+      "id": "97bafc9d601eb697d377",
+      "url": "https://www.city.honjo.lg.jp/material/files/group/30/shigikai86.pdf",
+      "title": "本庄市議会だより第86号・一般質問、審議経過と議決結果",
+      "scope": "summary",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "indexURL": "https://www.city.honjo.lg.jp/soshiki/shigikai/gikai/shigikaidayori/reiwa8nenn/22054.html",
+      "note": "紙面16頁、見開きを含むPDF9頁のOCR転記。各頁見出しの番号はPDFの順。縦組み・表・要旨の順序や数字は原紙面を参照。",
+      "speakers": [
+        "倉林益代",
+        "冨田雅寿",
+        "早野清",
+        "栗田弘志",
+        "図師雄太",
+        "堀口伊代子",
+        "広瀬伸一",
+        "加藤栄二",
+        "小賀野健司",
+        "矢野間規",
+        "山口豊",
+        "朝比奈知恵子",
+        "山田高史",
+        "柿沼綾子",
+        "原由徳",
+        "出牛順一",
+        "門倉道雄",
+        "原史子",
+        "田中輝好"
+      ]
+    },
+    {
       "id": "4484128337b1d3bb7d96",
       "place": "本庄市",
       "season": "spring",
@@ -29411,11 +29477,11 @@ GIKAI.questionText = {
       "speakers": [
         "倉林益代",
         "冨田雅寿",
+        "早野清",
+        "栗田弘志",
         "図師雄太",
         "堀口伊代子",
-        "山田康博",
-        "早野清",
-        "栗田弘志"
+        "山田康博"
       ]
     },
     {
@@ -29429,17 +29495,17 @@ GIKAI.questionText = {
       "scope": "minutes",
       "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
       "speakers": [
-        "内田英亮",
-        "加藤栄二",
-        "原由徳",
-        "小賀野健司",
-        "山口豊",
-        "山田康博",
-        "山田高史",
         "広瀬伸一",
+        "加藤栄二",
+        "小賀野健司",
+        "矢野間規",
+        "山口豊",
         "朝比奈知恵子",
+        "山田高史",
         "柿沼綾子",
-        "矢野間規"
+        "原由徳",
+        "内田英亮",
+        "山田康博"
       ]
     },
     {
@@ -29454,10 +29520,10 @@ GIKAI.questionText = {
       "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
       "speakers": [
         "出牛順一",
+        "門倉道雄",
         "原史子",
-        "山田康博",
         "田中輝好",
-        "門倉道雄"
+        "山田康博"
       ]
     },
     {
@@ -29499,6 +29565,70 @@ GIKAI.questionText = {
       ]
     },
     {
+      "place": "本庄市",
+      "season": "summer",
+      "date": "2026-06",
+      "id": "4a66a452c85e0029c20d",
+      "url": "https://www.city.honjo.lg.jp/material/files/group/30/tuukokuitiran080618.pdf",
+      "title": "令和8年第2回定例会・一般質問通告一覧",
+      "scope": "notice",
+      "kind": "一般質問通告（公式資料）",
+      "indexURL": "https://www.city.honjo.lg.jp/shiseijoho/shigikai/teireikai_rinjikai/reiwa8nenn/dai2kaiteireikai/22277.html",
+      "note": "公式の事前通告18人・２頁。会派代表4人を含む。一般質問３日の登壇順を本会議録で照合。",
+      "speakers": [
+        "出牛順一",
+        "早野清",
+        "朝比奈知恵子",
+        "門倉道雄",
+        "倉林益代",
+        "図師雄太",
+        "山田高史",
+        "山口豊",
+        "冨田雅寿",
+        "原由徳",
+        "小賀野健司",
+        "栗田弘志",
+        "矢野間規",
+        "原史子",
+        "堀口伊代子",
+        "柿沼綾子",
+        "加藤栄二",
+        "田中輝好"
+      ]
+    },
+    {
+      "place": "本庄市",
+      "season": "summer",
+      "date": "2026-06",
+      "id": "315cd3b7b27d18849caf",
+      "url": "https://www.city.honjo.lg.jp/material/files/group/30/shigikai87.pdf",
+      "title": "本庄市議会だより第87号・一般質問、審議経過と議決結果",
+      "scope": "summary",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "indexURL": "https://www.city.honjo.lg.jp/soshiki/shigikai/gikai/shigikaidayori/reiwa8nenn/22532.html",
+      "note": "紙面12頁、見開きを含むPDF7頁のOCR転記。各頁見出しの番号はPDFの順。縦組み・表・要旨の順序や数字は原紙面を参照。",
+      "speakers": [
+        "出牛順一",
+        "早野清",
+        "朝比奈知恵子",
+        "門倉道雄",
+        "倉林益代",
+        "図師雄太",
+        "山田高史",
+        "山口豊",
+        "冨田雅寿",
+        "原由徳",
+        "小賀野健司",
+        "栗田弘志",
+        "矢野間規",
+        "原史子",
+        "堀口伊代子",
+        "柿沼綾子",
+        "加藤栄二",
+        "田中輝好"
+      ]
+    },
+    {
       "id": "38b33c19b7b09f8f8b32",
       "place": "本庄市",
       "season": "summer",
@@ -29527,11 +29657,11 @@ GIKAI.questionText = {
       "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
       "speakers": [
         "出牛順一",
-        "山田康博",
         "早野清",
         "朝比奈知恵子",
-        "田中輝好",
-        "門倉道雄"
+        "門倉道雄",
+        "山田康博",
+        "田中輝好"
       ]
     },
     {
@@ -29546,15 +29676,15 @@ GIKAI.questionText = {
       "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
       "speakers": [
         "倉林益代",
-        "内田英亮",
+        "図師雄太",
+        "山田高史",
+        "山口豊",
         "冨田雅寿",
         "原由徳",
-        "図師雄太",
         "小賀野健司",
-        "山口豊",
-        "山田康博",
-        "山田高史",
         "栗田弘志",
+        "内田英亮",
+        "山田康博",
         "田中輝好"
       ]
     },
@@ -29569,13 +29699,13 @@ GIKAI.questionText = {
       "scope": "minutes",
       "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
       "speakers": [
-        "加藤栄二",
+        "矢野間規",
         "原史子",
         "堀口伊代子",
-        "山田康博",
         "柿沼綾子",
+        "加藤栄二",
         "田中輝好",
-        "矢野間規"
+        "山田康博"
       ]
     },
     {
@@ -29635,6 +29765,72 @@ GIKAI.questionText = {
       ]
     },
     {
+      "place": "本庄市",
+      "season": "fall",
+      "date": "2026-09",
+      "id": "6751685646404e0b71c7",
+      "url": "https://www.city.honjo.lg.jp/material/files/group/30/tuukokuitiran080914.pdf",
+      "title": "令和8年第3回定例会・一般質問通告一覧",
+      "scope": "notice",
+      "kind": "一般質問通告（公式資料）",
+      "indexURL": "https://www.city.honjo.lg.jp/shiseijoho/shigikai/teireikai_rinjikai/reiwa8nenn/dai3kaiteireikai/22621.html",
+      "note": "公式の事前通告19人・２頁。会派代表4人を含む。一般質問３日の登壇順を本会議録で照合。",
+      "speakers": [
+        "広瀬伸一",
+        "原史子",
+        "矢野間規",
+        "山田高史",
+        "倉林益代",
+        "冨田雅寿",
+        "早野清",
+        "加藤栄二",
+        "小賀野健司",
+        "山口豊",
+        "図師雄太",
+        "栗田弘志",
+        "堀口伊代子",
+        "朝比奈知恵子",
+        "出牛順一",
+        "原由徳",
+        "柿沼綾子",
+        "門倉道雄",
+        "田中輝好"
+      ]
+    },
+    {
+      "place": "本庄市",
+      "season": "fall",
+      "date": "2026-09",
+      "id": "0cfc2f7641295a5a31ff",
+      "url": "https://www.city.honjo.lg.jp/material/files/group/30/shigikai88.pdf",
+      "title": "本庄市議会だより第88号・一般質問、審議経過と議決結果",
+      "scope": "summary",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "indexURL": "https://www.city.honjo.lg.jp/soshiki/shigikai/gikai/shigikaidayori/reiwa8nenn/22811.html",
+      "note": "紙面14頁、見開きを含むPDF8頁のOCR転記。各頁見出しの番号はPDFの順。縦組み・表・要旨の順序や数字は原紙面を参照。",
+      "speakers": [
+        "広瀬伸一",
+        "原史子",
+        "矢野間規",
+        "山田高史",
+        "倉林益代",
+        "冨田雅寿",
+        "早野清",
+        "加藤栄二",
+        "小賀野健司",
+        "山口豊",
+        "図師雄太",
+        "栗田弘志",
+        "堀口伊代子",
+        "朝比奈知恵子",
+        "出牛順一",
+        "原由徳",
+        "柿沼綾子",
+        "門倉道雄",
+        "田中輝好"
+      ]
+    },
+    {
       "id": "37e7d20666fcd93166c2",
       "place": "本庄市",
       "season": "fall",
@@ -29645,11 +29841,11 @@ GIKAI.questionText = {
       "scope": "minutes",
       "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
       "speakers": [
-        "原史子",
-        "山田康博",
-        "山田高史",
         "広瀬伸一",
-        "矢野間規"
+        "原史子",
+        "矢野間規",
+        "山田高史",
+        "山田康博"
       ]
     },
     {
@@ -29664,15 +29860,15 @@ GIKAI.questionText = {
       "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
       "speakers": [
         "倉林益代",
-        "内田英亮",
         "冨田雅寿",
+        "早野清",
         "加藤栄二",
-        "図師雄太",
         "小賀野健司",
         "山口豊",
-        "山田康博",
-        "早野清",
-        "栗田弘志"
+        "図師雄太",
+        "栗田弘志",
+        "内田英亮",
+        "山田康博"
       ]
     },
     {
@@ -29686,14 +29882,14 @@ GIKAI.questionText = {
       "scope": "minutes",
       "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
       "speakers": [
+        "堀口伊代子",
+        "朝比奈知恵子",
         "出牛順一",
         "原由徳",
-        "堀口伊代子",
-        "山田康博",
-        "朝比奈知恵子",
         "柿沼綾子",
+        "門倉道雄",
         "田中輝好",
-        "門倉道雄"
+        "山田康博"
       ]
     },
     {
@@ -35234,6 +35430,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "295a5db0307833590410",
+      "place": "羽生市",
+      "season": "fall",
+      "date": "2026-09-15",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "中島直樹議員　議案質疑（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/hanyu/WebView/rd/speech.html?council_id=55&schedule_id=2&playlist_id=2&speaker_id=19&target_year=2026",
+      "speakers": [
+        "中島直樹"
+      ]
+    },
+    {
       "id": "7c43387c36cfcb05f65e",
       "place": "羽生市",
       "season": "fall",
@@ -40286,7 +40496,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "第256号の一般質問12人・39問答、議案質疑10問答、その他の見出しと補足17件を収録。公式通告８頁、一般質問12本と議案質疑14本の公式録画を照合。正式会議録は確認中。 公式録画・音声の機械文字起こしを1件収録。",
+        "note": "第256号の一般質問12人・39問答、議案質疑10問答、その他の見出しと補足17件を収録。公式通告８頁、一般質問12本と議案質疑14本の公式録画を照合。正式会議録は確認中。 公式録画・音声の機械文字起こしを1件収録。 公式録画・音声の機械文字起こしを2件収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/hanyu/SpMinuteBrowse.html?tenant_id=159&view_years=2026"
       }
     },

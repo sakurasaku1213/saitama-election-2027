@@ -12422,3 +12422,628 @@ GIKAI.cases.push(...[
     "note": "両議案の提出者・賛成者は議案書を、議決と送付は本会議録・議会だよりを参照。"
   }
 ]);
+
+GIKAI.cases.push(...[
+  {
+    "place": "本庄市",
+    "title": "学校の照明LED化を予算、事業者選定、契約議案まで追う",
+    "topic": "学校施設・省エネ",
+    "actors": [
+      "原史子",
+      "冨田雅寿",
+      "原由徳",
+      "本庄市教育委員会",
+      "本庄市",
+      "本庄市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-02-27",
+        "stage": "継続費の事業内容と事業年度を質疑",
+        "actor": "原史子、本庄市教育委員会",
+        "detail": "原議員は照明LED化の内容と日程に加え、小学校に比べ中学校分の計上額が少ない理由と大規模改修との関係を質した。市は学校13校の教室等の照明6,141台を対象と説明した。",
+        "url": "https://ssp.kaigiroku.net/tenant/honjo/SpMinuteView.html?tenant_id=48&council_id=542&schedule_id=3",
+        "sourceTitle": "本庄市議会・02月27日－02号 P.63・P.64",
+        "archiveId": "3c74d2062bb7b67c133e",
+        "blocks": [
+          93,
+          95,
+          97
+        ],
+        "memberActions": [
+          {
+            "name": "原史子",
+            "detail": "照明LED化の事業内容と日程、中学校分の計上額が小学校分より少ない理由と大規模改修との関係を質した。",
+            "blocks": [
+              93,
+              97
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-03-25",
+        "stage": "LED化の継続費を含む補正予算を可決",
+        "actor": "本庄市議会",
+        "detail": "小・中学校照明LED化事業の継続費を盛り込んだ補正予算を可決した。",
+        "url": "https://www.city.honjo.lg.jp/material/files/group/30/giketukekka080325.pdf#page=2",
+        "sourceTitle": "本庄市議会・公式議案一覧",
+        "billNumber": "第15号議案"
+      },
+      {
+        "date": "2026-07-03",
+        "stage": "市の選定結果ページで最優秀提案者を公表",
+        "actor": "本庄市",
+        "detail": "東芝エレベータ株式会社北関東支社を代表者とする提案が最優秀。市の公募ページに受託候補者結果表が掲載されている。",
+        "url": "https://www.city.honjo.lg.jp/shigoto_sangyo/nyusatsu_keiyaku/kobogatapuropozaru/21819.html",
+        "sourceTitle": "本庄市・学校照明LED化公募と受託候補者結果"
+      },
+      {
+        "date": "2026-08-27",
+        "stage": "契約審議で施工の順序、選定方法と市の負担を質疑",
+        "actor": "冨田雅寿、原由徳、本庄市教育委員会",
+        "detail": "冨田議員は施工時期・順序を、原議員は簡易型ESCO方式を用いる理由、市内事業者の評価、事業効果を質した。市は調査・設計・施工・効果検証を一括で発注する理由を説明した。",
+        "url": "https://ssp.kaigiroku.net/tenant/honjo/SpMinuteView.html?tenant_id=48&council_id=552&schedule_id=3",
+        "sourceTitle": "本庄市議会・08月27日－02号 P.24・P.25",
+        "archiveId": "a7d84538c1852332dd9a",
+        "blocks": [
+          33,
+          35,
+          37,
+          39
+        ],
+        "memberActions": [
+          {
+            "name": "冨田雅寿",
+            "detail": "いつ、どの学校から、どのように施工するのか尋ねた。",
+            "blocks": [
+              33
+            ]
+          },
+          {
+            "name": "原由徳",
+            "detail": "方式の選択、事業者の評価、市の負担と見込まれる効果を質した。",
+            "blocks": [
+              37
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-09-18",
+        "stage": "学校照明LED化事業の契約議案を可決",
+        "actor": "本庄市議会",
+        "detail": "小・中学校照明器具LED化ESCO事業の業務委託契約議案を可決した。",
+        "url": "https://www.city.honjo.lg.jp/material/files/group/30/080918giketukekka.pdf#page=1",
+        "sourceTitle": "本庄市議会・公式議案一覧",
+        "billNumber": "第44号議案"
+      }
+    ],
+    "note": "到達点は事業者の選定結果と契約議案の可決。照明台数は２月時点の見込み、全校の完工・省エネ効果は確認中。"
+  },
+  {
+    "place": "本庄市",
+    "title": "防災行政無線の屋外子局更新、契約議案と市の工事案内",
+    "topic": "防災・契約",
+    "actors": [
+      "本庄市",
+      "本庄市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-02-25",
+        "stage": "設計から更新作業までの契約案を説明",
+        "actor": "本庄市",
+        "detail": "市は防災行政無線の屋外拡声子局更新について、設計と更新を一括委託し、税込12億4,740万円で契約する案を説明した。",
+        "url": "https://ssp.kaigiroku.net/tenant/honjo/SpMinuteView.html?tenant_id=48&council_id=542&schedule_id=2",
+        "sourceTitle": "本庄市議会・02月25日－01号 P.25",
+        "archiveId": "595a9f09d3dd7af59a21",
+        "blocks": [
+          34
+        ]
+      },
+      {
+        "date": "2026-03-25",
+        "stage": "屋外拡声子局更新契約の議案を可決",
+        "actor": "本庄市議会",
+        "detail": "防災行政無線屋外拡声子局の更新業務委託契約議案を可決した。",
+        "url": "https://www.city.honjo.lg.jp/material/files/group/30/giketukekka080325.pdf#page=1",
+        "sourceTitle": "本庄市議会・公式議案一覧",
+        "billNumber": "第10号議案"
+      },
+      {
+        "date": "2026-10-01",
+        "stage": "市が更新期間と工事内容を案内",
+        "actor": "本庄市",
+        "detail": "市は令和８～10年度に全子局のスピーカーやアンテナ等を更新することを案内した。日数のかかる更新は周辺住民への事前周知を行うとしている。",
+        "url": "https://www.city.honjo.lg.jp/kurashi_tetsuzuki/anzen_anshin/bosai/22579.html",
+        "sourceTitle": "本庄市・防災行政無線の子局更新"
+      }
+    ],
+    "note": "契約議案の可決と更新案内を確認。全子局の更新完了は確認中。"
+  },
+  {
+    "place": "本庄市",
+    "title": "交付金手続の誤りを公表し、市長・副市長の給料減額を議決",
+    "topic": "財政・行政監視",
+    "actors": [
+      "門倉道雄",
+      "早野清",
+      "澤野高雄",
+      "本庄市",
+      "本庄市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-07-23",
+        "stage": "監査委員が市長に監査結果を通知",
+        "actor": "澤野高雄、早野清",
+        "detail": "５月27日付の市長の要求を受けた監査について、澤野高雄・早野清の両監査委員が７月23日付で市長に結果を通知した。",
+        "url": "https://www.city.honjo.lg.jp/material/files/group/6/kansakekka.pdf#page=1",
+        "sourceTitle": "本庄市監査委員・７月23日付監査結果通知１頁",
+        "memberActions": [
+          {
+            "name": "早野清",
+            "detail": "監査委員として澤野高雄監査委員と連名で監査結果を市長に通知した。"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-18",
+        "stage": "交付金申請の事務誤りと監査結果を公表",
+        "actor": "本庄市",
+        "detail": "令和６年度の物価高騰対応重点支援地方創生臨時交付金の申請で、給付額のうち1,516万円の国費を受けられなくなり、市は一般財源で対応した。市は経緯と再発防止策を公表した。",
+        "url": "https://www.city.honjo.lg.jp/material/files/group/6/01bukkakoutou.pdf#page=1",
+        "sourceTitle": "本庄市・交付金の事務手続誤りについて１・２頁"
+      },
+      {
+        "date": "2026-08-25",
+        "stage": "市長・副市長の10月分給与を減額する条例案を説明",
+        "actor": "本庄市",
+        "detail": "市は10月支給分にそれぞれ20％の追加減額を提案し、それ以前からの特例と合わせ10月分は市長30％、副市長25％の減額と説明した。",
+        "url": "https://ssp.kaigiroku.net/tenant/honjo/SpMinuteView.html?tenant_id=48&council_id=552&schedule_id=2",
+        "sourceTitle": "本庄市議会・08月25日－01号 P.7・P.9",
+        "archiveId": "b3f7064ddf3e76e881dc",
+        "blocks": [
+          23,
+          27
+        ]
+      },
+      {
+        "date": "2026-09-18",
+        "stage": "総務委員長が審査を報告、本会議で原案可決",
+        "actor": "門倉道雄、本庄市議会",
+        "detail": "門倉委員長は追加減額率を20％、期間を１か月とした根拠などを委員会で質疑した経過を報告。本会議は原案可決した。",
+        "url": "https://ssp.kaigiroku.net/tenant/honjo/SpMinuteView.html?tenant_id=48&council_id=552&schedule_id=7",
+        "sourceTitle": "本庄市議会・09月18日－06号 P.242・P.243・P.244",
+        "archiveId": "81716449583c8357a468",
+        "blocks": [
+          39,
+          45,
+          46
+        ],
+        "billNumber": "第40号議案",
+        "memberActions": [
+          {
+            "name": "門倉道雄",
+            "detail": "総務委員長として、委員会が減額率と期間の根拠を確認した経過を報告した。",
+            "blocks": [
+              39
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "市の監査資料の公表と条例改正の可決を確認。実際の支給明細と再発防止策の実施状況は確認中。"
+  },
+  {
+    "place": "本庄市",
+    "title": "こども誰でも通園制度の利用・安全基準を質し、利用案内まで追う",
+    "topic": "子育て・保育",
+    "actors": [
+      "柿沼綾子",
+      "堀口伊代子",
+      "本庄市",
+      "本庄市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-02-27",
+        "stage": "受入れ施設と認定・面談の手続を本会議で質疑",
+        "actor": "柿沼綾子、堀口伊代子、本庄市",
+        "detail": "柿沼議員は条例の背景や私立園への展開を、堀口議員は認定・申請、面談や責任者を質問。市は公立保育所で始め、民間の募集は準備後とし、事前面談を含む利用の流れを説明した。",
+        "url": "https://ssp.kaigiroku.net/tenant/honjo/SpMinuteView.html?tenant_id=48&council_id=542&schedule_id=3",
+        "sourceTitle": "本庄市議会・02月27日－02号 P.52・P.53・P.54",
+        "archiveId": "3c74d2062bb7b67c133e",
+        "blocks": [
+          11,
+          13,
+          15,
+          17,
+          19,
+          21
+        ],
+        "memberActions": [
+          {
+            "name": "柿沼綾子",
+            "detail": "制度の背景と、市内ニーズ・財源、公立から私立への展開を質した。",
+            "blocks": [
+              11,
+              15
+            ]
+          },
+          {
+            "name": "堀口伊代子",
+            "detail": "申請手続、利用する施設、責任者の条件や面談の方法を確認した。",
+            "blocks": [
+              19
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-03-25",
+        "stage": "特定乳児等通園支援事業の運営基準を可決",
+        "actor": "本庄市議会",
+        "detail": "給付事業の運営基準を定める条例案を可決した。",
+        "url": "https://www.city.honjo.lg.jp/material/files/group/30/giketukekka080325.pdf#page=1",
+        "sourceTitle": "本庄市議会・公式議案一覧",
+        "billNumber": "第4号議案"
+      },
+      {
+        "date": "2026-04-01",
+        "stage": "市が公立保育所での４月実施と利用手続を案内",
+        "actor": "本庄市",
+        "detail": "市は公立保育所で４月から実施することと、対象・申請・利用の流れを案内した。",
+        "url": "https://www.city.honjo.lg.jp/soshiki/hoken/hoiku/tantoujouhou/20383.html",
+        "sourceTitle": "本庄市・こども誰でも通園制度"
+      },
+      {
+        "date": "2026-09-18",
+        "stage": "乳児等通園支援事業の設備・運営基準の改正案を可決",
+        "actor": "本庄市議会",
+        "detail": "国の基準変更に伴う本庄市の設備・運営基準の改正案を可決した。",
+        "url": "https://www.city.honjo.lg.jp/material/files/group/30/080918giketukekka.pdf#page=1",
+        "sourceTitle": "本庄市議会・公式議案一覧",
+        "billNumber": "第43号議案"
+      }
+    ],
+    "note": "制度の運営基準、受入れ案内、秋の設備・運営基準改正を順に確認。"
+  },
+  {
+    "place": "本庄市",
+    "title": "国民健康保険税の賦課方式変更と、世帯負担の質疑・周知",
+    "topic": "国民健康保険・負担",
+    "actors": [
+      "柿沼綾子",
+      "本庄市",
+      "本庄市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-02-27",
+        "stage": "賦課方式の変更理由と世帯別の負担を質す",
+        "actor": "柿沼綾子、本庄市",
+        "detail": "柿沼議員は４方式から２方式に変更する理由と、世帯の負担がどう変わるかを質した。市は県内の税水準統一に向けた改定と、複数の世帯モデルによる試算を説明した。",
+        "url": "https://ssp.kaigiroku.net/tenant/honjo/SpMinuteView.html?tenant_id=48&council_id=542&schedule_id=3",
+        "sourceTitle": "本庄市議会・02月27日－02号 P.57・P.59",
+        "archiveId": "3c74d2062bb7b67c133e",
+        "blocks": [
+          39,
+          41,
+          43,
+          45
+        ],
+        "memberActions": [
+          {
+            "name": "柿沼綾子",
+            "detail": "賦課方式の改正前後で世帯の年税額がどう変わるか確認した。",
+            "blocks": [
+              39,
+              43
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-03-25",
+        "stage": "国民健康保険税条例の改正案を賛成多数で可決",
+        "actor": "本庄市議会",
+        "detail": "賦課方式と税率を見直す条例案を可決した。記名表で柿沼議員は反対。",
+        "url": "https://www.city.honjo.lg.jp/material/files/group/30/giketukekka080325.pdf#page=1",
+        "sourceTitle": "本庄市議会・公式議案一覧",
+        "billNumber": "第8号議案"
+      },
+      {
+        "date": "2026-03-31",
+        "stage": "市が令和８年度の方式変更と試算例を公表",
+        "actor": "本庄市",
+        "detail": "市は４方式から所得割・均等割の２方式に変更し、税率は激変緩和のため令和６年度の市町村標準保険税率を用いると案内した。",
+        "url": "https://www.city.honjo.lg.jp/soshiki/hoken/hoken/tantoujouhou/kokuho/20127.html",
+        "sourceTitle": "本庄市・国民健康保険税率の改定"
+      },
+      {
+        "date": "2026-07-03",
+        "stage": "市が令和８年度の納税通知書を発送",
+        "actor": "本庄市",
+        "detail": "市の７月７日更新案内によると、７月３日に納税通知書・特別徴収決定通知書を発送した。",
+        "url": "https://www.city.honjo.lg.jp/soshiki/hoken/hoken/tantoujouhou/kokuho/16782.html",
+        "sourceTitle": "本庄市・国民健康保険税の納税通知"
+      }
+    ],
+    "note": "試算は世帯構成・所得等により変わる。議会での質疑・表決と市の案内・発送を出典にした。"
+  },
+  {
+    "place": "本庄市",
+    "title": "休日の部活動の地域展開を、実証と３会期の質疑で追う",
+    "topic": "教育・地域クラブ",
+    "actors": [
+      "倉林益代",
+      "早野清",
+      "本庄市教育委員会"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-18",
+        "stage": "休日の実証事業と教員の関与を一般質問",
+        "actor": "倉林益代、本庄市教育委員会",
+        "detail": "倉林議員が部活動の地域展開を質問。教育長は令和７年10月から県事業を活用して公立中学校の各校１部ずつ実証したことと、教職員が地域クラブに関わる場合の扱いを答えた。",
+        "url": "https://ssp.kaigiroku.net/tenant/honjo/SpMinuteView.html?tenant_id=48&council_id=542&schedule_id=4",
+        "sourceTitle": "本庄市議会・03月18日－03号 P.109・P.110・P.111・P.112",
+        "archiveId": "4484128337b1d3bb7d96",
+        "blocks": [
+          24,
+          26,
+          28,
+          30
+        ],
+        "memberActions": [
+          {
+            "name": "倉林益代",
+            "detail": "地域展開の実証と教員の関わり方を続けて質した。",
+            "blocks": [
+              24,
+              28
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-06-18",
+        "stage": "指導体制と今後の地域展開を一般質問",
+        "actor": "早野清、本庄市教育委員会",
+        "detail": "早野議員は運動部員の減少を踏まえ、専門の指導者や競技経験のない教員への支援、学校部活動を地域展開する見通しを質した。",
+        "url": "https://ssp.kaigiroku.net/tenant/honjo/SpMinuteView.html?tenant_id=48&council_id=547&schedule_id=4",
+        "sourceTitle": "本庄市議会・06月18日－03号 P.49・P.50・P.54",
+        "archiveId": "80a96414252063398a96",
+        "blocks": [
+          37,
+          39,
+          43
+        ],
+        "memberActions": [
+          {
+            "name": "早野清",
+            "detail": "運動部活動の維持、外部指導者の活用と地域展開を質した。",
+            "blocks": [
+              37
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-09-15",
+        "stage": "前会期答弁後の進捗を再度質問",
+        "actor": "早野清、本庄市教育委員会",
+        "detail": "早野議員は６月に休日の地域展開を進めるとした答弁を踏まえ、その後の進捗を尋ねた。",
+        "url": "https://ssp.kaigiroku.net/tenant/honjo/SpMinuteView.html?tenant_id=48&council_id=552&schedule_id=5",
+        "sourceTitle": "本庄市議会・09月15日－04号 P.116・P.117",
+        "archiveId": "a8a737ea8a769dc38585",
+        "blocks": [
+          55,
+          57
+        ],
+        "memberActions": [
+          {
+            "name": "早野清",
+            "detail": "６月の質問を引き、休日の部活動の地域展開の進み方を再度質した。",
+            "blocks": [
+              55
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-10-30",
+        "stage": "教育委員会が全中学生を対象とする５競技の案内を掲載",
+        "actor": "本庄市教育委員会",
+        "detail": "市教委だより第42号で、本年度の参加対象を市内中学校の全生徒とし、体操・ダンス・バスケ・バレー・陸上の活動を行うと案内した。",
+        "url": "https://www.city.honjo.lg.jp/soshiki/kyoikuiinkai/kyoikusoumu/tantoujouhou/shikyoui/22748.html",
+        "sourceTitle": "本庄市教育委員会・10月号の部活動地域展開"
+      }
+    ],
+    "note": "令和７年度実証と令和８年度の展開を確認。全校の部活動移行完了は確認中。"
+  },
+  {
+    "place": "本庄市",
+    "title": "大規模土地利用事業への第三者委員会を求める請願が採択",
+    "topic": "土地利用・住民請願",
+    "actors": [
+      "請願者",
+      "堀口伊代子",
+      "建設産業常任委員会",
+      "本庄市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-09-02",
+        "stage": "建設産業常任委員会で採択すべきものと決定",
+        "actor": "建設産業常任委員会",
+        "detail": "９月18日の委員長報告によると、再生可能エネルギー事業等の大規模土地利用に係る第三者委員会設置の請願を審査し、全会一致で採択すべきものと決めた。",
+        "url": "https://ssp.kaigiroku.net/tenant/honjo/SpMinuteView.html?tenant_id=48&council_id=552&schedule_id=7",
+        "sourceTitle": "９月18日の本会議録238頁・建設産業委員長報告"
+      },
+      {
+        "date": "2026-09-18",
+        "stage": "委員長が審査を報告し、本会議で異議なしで採択",
+        "actor": "堀口伊代子、本庄市議会",
+        "detail": "堀口委員長は請願の趣旨と委員会の審査経過を報告した。議会は異議なしで採択した。",
+        "url": "https://ssp.kaigiroku.net/tenant/honjo/SpMinuteView.html?tenant_id=48&council_id=552&schedule_id=7",
+        "sourceTitle": "本庄市議会・09月18日－06号 P.238・P.239",
+        "archiveId": "81716449583c8357a468",
+        "blocks": [
+          12,
+          15,
+          16
+        ],
+        "billNumber": "請願第1号",
+        "memberActions": [
+          {
+            "name": "堀口伊代子",
+            "detail": "建設産業委員長として請願の委員会審査と結論を本会議で報告した。",
+            "blocks": [
+              12
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-09-18",
+        "stage": "議会が請願の採択結果を掲載",
+        "actor": "本庄市議会",
+        "detail": "公式請願一覧は、請願第１号の付託先を建設産業常任委員会、審議結果を採択として掲載した。",
+        "url": "https://www.city.honjo.lg.jp/shiseijoho/shigikai/bocho_seigan_chinjo/seiganchinjyou/9463.html",
+        "sourceTitle": "本庄市議会・請願一覧"
+      }
+    ],
+    "note": "確認した到達点は請願の採択。第三者委員会の設置や開催は確認中。"
+  },
+  {
+    "place": "本庄市",
+    "title": "令和７年度決算を９月の質疑・継続審査から11月の認定まで追う",
+    "topic": "決算・議会監視",
+    "actors": [
+      "柿沼綾子",
+      "決算特別委員会",
+      "本庄市",
+      "本庄市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-09-18",
+        "stage": "決算の税収や保険料滞納等を質疑",
+        "actor": "柿沼綾子、本庄市",
+        "detail": "柿沼議員は一般会計の法人市民税の試算、国保税・介護保険料・後期高齢者医療保険料の滞納状況や対応を確認した。",
+        "url": "https://ssp.kaigiroku.net/tenant/honjo/SpMinuteView.html?tenant_id=48&council_id=552&schedule_id=7",
+        "sourceTitle": "本庄市議会・09月18日－06号 P.257・P.259・P.260・P.261・P.262・P.263",
+        "archiveId": "81716449583c8357a468",
+        "blocks": [
+          105,
+          107,
+          122,
+          124,
+          128,
+          135,
+          137,
+          142,
+          144
+        ],
+        "memberActions": [
+          {
+            "name": "柿沼綾子",
+            "detail": "決算資料を基に、法人市民税の試算、国保税・介護・後期高齢者の保険料滞納と対応を取り上げた。",
+            "blocks": [
+              105,
+              122,
+              128,
+              135,
+              142
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-09-18",
+        "stage": "決算６議案を決算特別委員会に付託し継続審査",
+        "actor": "本庄市議会",
+        "detail": "議会は第52～57号の６議案を、19人で構成する決算特別委員会に付託して閉会中の継続審査とした。",
+        "url": "https://ssp.kaigiroku.net/tenant/honjo/SpMinuteView.html?tenant_id=48&council_id=552&schedule_id=7",
+        "sourceTitle": "本庄市議会・09月18日－06号 P.264・P.265",
+        "archiveId": "81716449583c8357a468",
+        "blocks": [
+          158,
+          159,
+          168
+        ],
+        "billNumber": "第52号追加議案"
+      },
+      {
+        "date": "2026-11-25",
+        "stage": "第４回定例会で決算を認定",
+        "actor": "本庄市議会",
+        "detail": "公式議案一覧によると、一般会計と特別会計３件は原案認定、水道・下水道の２件は利益の処分を原案可決し決算を認定した。",
+        "url": "https://www.city.honjo.lg.jp/material/files/group/30/gianitiran081125.pdf#page=1",
+        "sourceTitle": "本庄市議会・第４回定例会の議案一覧１・２頁"
+      }
+    ],
+    "note": "第３回の付託・継続審査と、第４回の可決・決算認定をそれぞれの原典に対応させた。"
+  },
+  {
+    "place": "本庄市",
+    "title": "物価高・資材不足への緊急対策を求めた議員提出意見書",
+    "topic": "議員発議・生活支援",
+    "actors": [
+      "冨田雅寿",
+      "柿沼綾子",
+      "早野清",
+      "堀口伊代子",
+      "矢野間規",
+      "栗田弘志",
+      "原史子",
+      "本庄市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-06-24",
+        "stage": "意見書案を提出し、賛成討論を経て可決",
+        "actor": "冨田雅寿、柿沼綾子、本庄市議会",
+        "detail": "冨田議員が物価高や資材不足への緊急対策を求める意見書を提出し、早野、堀口、矢野間、栗田、原史子各議員が賛成者となった。本会議で柿沼議員が賛成討論し、議会は可決した。",
+        "url": "https://ssp.kaigiroku.net/tenant/honjo/SpMinuteView.html?tenant_id=48&council_id=547&schedule_id=7",
+        "sourceTitle": "本庄市議会・06月24日－06号 P.226・P.227・P.228",
+        "archiveId": "4142b2a7d3c3e590dbb7",
+        "blocks": [
+          68,
+          70,
+          74,
+          77
+        ],
+        "billNumber": "議第1号議案",
+        "memberActions": [
+          {
+            "name": "冨田雅寿",
+            "detail": "提出者として、物価高・資材不足への対策を求める案文を説明した。",
+            "blocks": [
+              70
+            ]
+          },
+          {
+            "name": "柿沼綾子",
+            "detail": "案に賛成する理由を本会議で討論した。",
+            "blocks": [
+              74
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-08-15",
+        "stage": "議会だよりに意見書と審議結果を掲載",
+        "actor": "本庄市議会",
+        "detail": "第87号が、議員提出意見書案の件名と原案可決の結果、議会での審議を掲載した。",
+        "url": "https://www.city.honjo.lg.jp/material/files/group/30/shigikai87.pdf#page=2",
+        "sourceTitle": "本庄市議会だより第87号・議案結果欄"
+      }
+    ],
+    "note": "提出者・賛成者と討論・可決を確認。意見書を受けた対策の実施状況は確認中。"
+  }
+]);

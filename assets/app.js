@@ -770,11 +770,13 @@
       ? '<p class="small">表決の単位　会派等。人数の内訳は原表の注記によります。</p>'
       : "";
     const note = b.voteNote ? `<p class="small">${esc(b.voteNote)}</p>` : "";
+    const followUp = b.followUp ? `<p class="small">後日の議決　${dateTag(b.followUp.date)}　${esc(b.followUp.session)}　${tag(b.followUp.result)}
+      ${link(b.followUp.url, b.followUp.locator || "後日の公式議決結果")}</p>` : "";
     const citation = esc(b.number || b.resultLocator || "");
     const supporters = b.proposalSupporters?.length
       ? `<p class="small">議案書の賛成者　${b.proposalSupporters.map(esc).join("、")}</p>` : "";
     const conflicts = b.voteConflicts || [];
-    return `<details class="entry"><summary><div><div class="meta">${tag(b.result)}<span>${esc(b.place)}議会</span>${dateTag(b.date)}<span>${citation}</span>${conflicts.length ? tag("表決原表に注記") : ""}</div><p class="title">${esc(b.title)}</p></div></summary><div class="detail-body"><p>${esc(b.proposalRole || "提出者")}　${named}</p>${supporters}${scope}${conflicts.length ? note : ""}<ul class="ballots">${ballots.map(([name, position]) => `<li><span>${esc(name)}</span><b>${conflicts.includes(name) ? "原表では　" : ""}${esc(position)}</b></li>`).join("")}</ul>${conflicts.length ? "" : note}${!ballots.length && !note ? `<p class="small">個々の賛否はこの表に掲載していません。</p>` : ""}<div class="links">${sources}</div></div></details>`;
+    return `<details class="entry"><summary><div><div class="meta">${tag(b.result)}<span>${esc(b.place)}議会</span>${dateTag(b.date)}<span>${citation}</span>${conflicts.length ? tag("表決原表に注記") : ""}</div><p class="title">${esc(b.title)}</p></div></summary><div class="detail-body"><p>${esc(b.proposalRole || "提出者")}　${named}</p>${supporters}${scope}${conflicts.length ? note : ""}<ul class="ballots">${ballots.map(([name, position]) => `<li><span>${esc(name)}</span><b>${conflicts.includes(name) ? "原表では　" : ""}${esc(position)}</b></li>`).join("")}</ul>${conflicts.length ? "" : note}${followUp}${!ballots.length && !note ? `<p class="small">個々の賛否はこの表に掲載していません。</p>` : ""}<div class="links">${sources}</div></div></details>`;
   }
   function voteResults() {
     const prefItems = voteRows.filter(
@@ -791,7 +793,8 @@
         filteredBody(b.place) &&
         matches("session", b.session) &&
         matches("season", b.season || eventSeason(b.date)) &&
-        includes([b.title, b.number, b.resultLocator, b.result, ...(b.names || []), ...(b.proposalSupporters || [])]) &&
+        includes([b.title, b.number, b.resultLocator, b.result, b.followUp?.result, b.followUp?.locator,
+          ...(b.names || []), ...(b.proposalSupporters || [])]) &&
         (!state.split ||
           (Object.values(b.votes || {}).some((vote) => vote.includes("賛成")) &&
             Object.values(b.votes || {}).some((vote) => vote.includes("反対"))) ||

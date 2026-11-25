@@ -400,6 +400,12 @@ for (const bill of coverage.decisions) {
   if (bill.date) validDay(bill.date);
   validLink(bill.resultURL);
   validLink(bill.url);
+  if (bill.followUp) {
+    const { date, result, session, url } = bill.followUp;
+    validDay(date);
+    assert.ok(bill.date && date > bill.date && date <= coverage.checked && result && session, key);
+    validLink(url);
+  }
   if (bill.committeeURL) validLink(bill.committeeURL);
   if (bill.proposalRole) assert.ok(bill.proposalRole === "発議者" && bill.names?.length, key);
   if (bill.proposalSupporters) {
