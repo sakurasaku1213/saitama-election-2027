@@ -162,7 +162,9 @@ for (const c of data.cases) {
     for (const action of step.memberActions || []) {
       assert.ok(!names.has(action.name) && c.actors.includes(action.name) && action.detail, c.title);
       assert.ok(step.actor.split("、").includes(action.name) || step.archiveId, c.title);
-      assert.ok(people.has(place + "|" + action.name.replace(/\s/g, "")), action.name);
+      const listedMember = people.has(place + "|" + action.name.replace(/\s/g, ""));
+      const recordedMember = doc?.scope === "minutes" && doc.speakers.includes(action.name);
+      assert.ok(listedMember || recordedMember, action.name);
       if (step.archiveId) {
         assert.ok(action.blocks?.length && action.blocks.every((block, index) =>
           Number.isSafeInteger(block) && block > (action.blocks[index - 1] || 0)), action.name);

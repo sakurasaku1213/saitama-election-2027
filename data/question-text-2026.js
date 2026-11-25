@@ -8329,6 +8329,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "7512cdc667c9c741ef93",
+      "place": "吉見町",
+      "season": "fall",
+      "date": "2026-09-04",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "title": "杉田しのぶ議員　一般質問（録画から）",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "url": "https://smart.discussvision.net/smart/tenant/yoshimi/WebView/rd/speech.html?council_id=21&schedule_id=3&playlist_id=4&speaker_id=12&target_year=2026",
+      "speakers": [
+        "杉田しのぶ"
+      ]
+    },
+    {
       "id": "6ce3385279c7ea3b76bd",
       "place": "吉見町",
       "season": "fall",
@@ -37798,12 +37812,35 @@ GIKAI.questionText = {
       "scope": "minutes",
       "note": "公式PDFの本文をローカルOCRで転記。頁番号はPDF内の位置です。原本を出典として表示します。",
       "speakers": [
-        "中川博介",
-        "大島瑠美子",
-        "新井利朗",
+        "関口雅敬",
         "村田徹也",
-        "近藤一美"
+        "近藤一美",
+        "村田武彦",
+        "新井利朗",
+        "中川博介",
+        "大島瑠美子"
       ]
+    },
+    {
+      "place": "長瀞町",
+      "season": "spring",
+      "date": "2026-03",
+      "id": "991535bf01da403828ad",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/04/gikaidayori37.pdf",
+      "scope": "summary",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "title": "長瀞町議会だより第37号・一般質問と定例会資料",
+      "speakers": [
+        "関口雅敬",
+        "村田徹也",
+        "近藤一美",
+        "村田武彦",
+        "新井利朗",
+        "中川博介",
+        "大島瑠美子"
+      ],
+      "indexURL": "https://www.town.nagatoro.saitama.jp/nagatorochougikai/%e9%95%b7%e7%80%9e%e7%94%ba%e8%ad%b0%e4%bc%9a%e3%81%a0%e3%82%88%e3%82%8a/",
+      "note": "令和8年第1回定例会（3月）を扱う議会だより。一般質問７人、議決・予算等を掲載した原紙面８頁のOCR。"
     },
     {
       "id": "36ad40af3b871179953c",
@@ -37816,11 +37853,35 @@ GIKAI.questionText = {
       "scope": "minutes",
       "note": "公式PDFの本文をローカルOCRで転記。頁番号はPDF内の位置です。原本を出典として表示します。",
       "speakers": [
-        "中川博介",
-        "大島瑠美子",
+        "関口雅敬",
+        "近藤一美",
         "村田徹也",
-        "村田武彦"
+        "村田武彦",
+        "新井利朗",
+        "中川博介",
+        "大島瑠美子"
       ]
+    },
+    {
+      "place": "長瀞町",
+      "season": "summer",
+      "date": "2026-06",
+      "id": "c0c3bbea11899c4eb766",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/gikaidayori38.pdf",
+      "scope": "summary",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "title": "長瀞町議会だより第38号・一般質問と定例会資料",
+      "speakers": [
+        "関口雅敬",
+        "近藤一美",
+        "村田徹也",
+        "村田武彦",
+        "新井利朗",
+        "中川博介",
+        "大島瑠美子"
+      ],
+      "indexURL": "https://www.town.nagatoro.saitama.jp/nagatorochougikai/%e9%95%b7%e7%80%9e%e7%94%ba%e8%ad%b0%e4%bc%9a%e3%81%a0%e3%82%88%e3%82%8a/",
+      "note": "令和8年第2回定例会（6月）を扱う議会だより。一般質問７人、議決・予算等を掲載した原紙面８頁のOCR。"
     },
     {
       "id": "f90b2c1a871b04a81b44",
@@ -40993,7 +41054,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/yoshimi/WebView/rd/council.html?year=2026&council_id=21",
-        "note": "第14号の一般質問11人39問答、見出しのみ15項目、委員会質疑14組、議案審議・討論を原紙面と照合。９月３日６人・４日５人の公式録画目録に大項目32件。正式会議録は確認中。 公式録画・音声の機械文字起こしを3件収録。 公式録画・音声の機械文字起こしを6件収録。 公式録画・音声の機械文字起こしを7件収録。 公式録画・音声の機械文字起こしを9件収録。"
+        "note": "第14号の一般質問11人39問答、見出しのみ15項目、委員会質疑14組、議案審議・討論を原紙面と照合。９月３日６人・４日５人の公式録画目録に大項目32件。正式会議録は確認中。 公式録画・音声の機械文字起こしを3件収録。 公式録画・音声の機械文字起こしを6件収録。 公式録画・音声の機械文字起こしを7件収録。 公式録画・音声の機械文字起こしを9件収録。 公式録画・音声の機械文字起こしを10件収録。"
       }
     },
     {
@@ -41124,7 +41185,8 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "議会だより第39号４～６頁の一般質問７人・15問答と原紙面８頁を収録。第５回定例会は９月８～10日。正式会議録は確認中。"
+        "note": "議会だより第39号４～６頁の一般質問７人・15問答。掲載の会期は２頁本文が９月８～９日、４頁表が９月８～10日。正式会議録は確認中。",
+        "indexURL": "https://www.town.nagatoro.saitama.jp/nagatorochougikai/%e4%bc%9a%e8%ad%b0%e9%8c%b2/"
       }
     },
     {

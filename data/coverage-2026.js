@@ -8316,124 +8316,152 @@ GIKAI.coverage2026 = {
     {
       "place": "長瀞町",
       "season": "spring",
-      "label": "2026年春の定例会",
-      "fromDate": "",
-      "toDate": "",
+      "label": "令和8年第1回定例会（3月）",
+      "fromDate": "2026-03-11",
+      "toDate": "2026-03-13",
       "planned": false,
       "materials": {
         "meeting": {
-          "state": "identified",
-          "note": "対象時期に関係する資料の掲載箇所を確認。会期の確定は未了。"
+          "state": "verified",
+          "note": "公式の本会議録目次と本文で会期を確認。"
         },
         "activity": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "本会議録目次と本文で一般質問７人の登壇を確認。"
         },
         "text": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "公式本会議録と議会だよりを収録。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "本会議で採決した発議１件と町長提出26議案を確認。第26号は最終日に追加。"
         },
         "votes": {
-          "state": "identified",
-          "note": "対象資料の案内を確認。項目の取込・照合範囲は未確定。"
+          "state": "verified",
+          "note": "第37号４頁の27件・216欄。２件の議長裁決と１欄の斜線を保持。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "風布区の給水、通園制度、出生時支援金、過疎計画と議員発議、学校設計の予算。"
         }
       },
       "sources": [
         {
-          "label": "3月定例会・議会だより37号",
+          "label": "長瀞町議会だより第37号",
           "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/04/gikaidayori37.pdf"
         },
         {
-          "label": "会期資料　第7回議会定例会",
-          "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/04/R7-7.pdf"
+          "label": "議決結果・記名表決（第37号４頁）",
+          "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/04/gikaidayori37.pdf#page=4"
+        },
+        {
+          "label": "町公式の会議録索引",
+          "url": "https://www.town.nagatoro.saitama.jp/nagatorochougikai/%e4%bc%9a%e8%ad%b0%e9%8c%b2/"
+        },
+        {
+          "label": "公式の定例会会議録PDF",
+          "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf"
         }
       ]
     },
     {
       "place": "長瀞町",
       "season": "summer",
-      "label": "2026年初夏の定例会",
-      "fromDate": "",
-      "toDate": "",
+      "label": "令和8年第2回定例会（6月）",
+      "fromDate": "2026-06-11",
+      "toDate": "2026-06-11",
       "planned": false,
       "materials": {
         "meeting": {
-          "state": "identified",
-          "note": "対象資料の案内を確認。項目の取込・照合範囲は未確定。"
+          "state": "verified",
+          "note": "公式の本会議録目次と本文で会期を確認。"
         },
         "activity": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "本会議録目次と本文で一般質問７人の登壇を確認。"
         },
         "text": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "公式本会議録と議会だよりを収録。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "本会議録の議案第27～46号・20件の採決結果を確認。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "第38号４頁の個別７件・56欄。農業委員の13議案は紙面の記名表で１行に集約。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "風布区の要綱改正、桜の保全、学校設計の選定方法・財源についての一般質問。"
         }
       },
       "sources": [
         {
-          "label": "6月定例会・議会だより38号",
+          "label": "長瀞町議会だより第38号",
           "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/gikaidayori38.pdf"
+        },
+        {
+          "label": "議決結果・記名表決（第38号４頁）",
+          "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/gikaidayori38.pdf#page=4"
+        },
+        {
+          "label": "町公式の会議録索引",
+          "url": "https://www.town.nagatoro.saitama.jp/nagatorochougikai/%e4%bc%9a%e8%ad%b0%e9%8c%b2/"
+        },
+        {
+          "label": "公式の定例会会議録PDF",
+          "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/09/a44d0a483c989d24a206dc636fbee91f.pdf"
         }
       ]
     },
     {
       "place": "長瀞町",
       "season": "fall",
-      "label": "2026年秋の定例会",
+      "label": "令和8年第5回定例会（9月）",
       "fromDate": "2026-09-08",
-      "toDate": "2026-09-10",
+      "toDate": "",
       "planned": false,
       "materials": {
         "meeting": {
-          "state": "verified",
-          "note": "議会だより第39号４頁に第５回定例会は９月８～10日と明記。"
+          "state": "partial",
+          "note": "第39号２頁本文は９月８～９日、４頁の表は９月８～10日。開会日を確認し、閉会日は確認中。"
         },
         "activity": {
           "state": "partial",
-          "note": "この時期の掲載項目 7件。通告・目次・本文の別は活動の出典に表示。"
+          "note": "第39号で７人の一般質問を掲載。"
         },
         "text": {
           "state": "partial",
-          "note": "議会だより第39号４～６頁の一般質問７人・15問答を話者別に照合。"
+          "note": "議会だより第39号４～６頁の一般質問７人・15問答。掲載の会期は２頁本文が９月８～９日、４頁表が９月８～10日。正式会議録は確認中。"
         },
         "decisions": {
           "state": "partial",
-          "note": "議会だよりの表に掲載された15行を照合。個別の議案番号がない行は紙面の行で示した。"
+          "note": "第39号４頁の定例会欄15行。個別議案番号と採決日は確認中。"
         },
         "votes": {
           "state": "partial",
-          "note": "原表の15行の記名欄を照合し、議長の表決不参加と原表の除斥を保持。"
+          "note": "第39号４頁の15件・120欄。議長不参加15欄を保持。"
         },
         "policy": {
           "state": "partial",
-          "note": "小中一貫校での意見公募、設計の優先交渉権者選定、新井利朗議員の質疑を収録。"
+          "note": "学校施設の複合化、北桜通りの維持、ハザードマップ、特定乳児等通園支援事業の基準。"
         }
       },
       "sources": [
         {
-          "label": "9月定例会・議会だより39号",
+          "label": "長瀞町議会だより第39号",
           "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf"
+        },
+        {
+          "label": "議決結果・記名表決（第39号４頁）",
+          "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4"
+        },
+        {
+          "label": "町公式の会議録索引",
+          "url": "https://www.town.nagatoro.saitama.jp/nagatorochougikai/%e4%bc%9a%e8%ad%b0%e9%8c%b2/"
         }
       ]
     },
@@ -102498,6 +102526,1107 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.ogose.saitama.jp/material/files/group/12/R0806_kekka.pdf",
       "resultURL": "https://www.town.ogose.saitama.jp/material/files/group/12/R0806_kekka.pdf",
       "resultLocator": "議決番号34"
+    },
+    {
+      "place": "長瀞町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-11",
+      "number": "発議案第1号",
+      "title": "鈴木日出男氏の公職選挙法違反の調査に関する決議",
+      "result": "否決",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=65",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=68",
+      "resultLocator": "本会議録 PDF 68頁・採決",
+      "voteNote": "可否同数のため関口雅敬議長が裁決。記名表にある議長欄の印は裁決を示す。",
+      "sourceTitle": "本会議録 PDF 65頁・発議案と提出者・賛成者",
+      "names": [
+        "村田徹也"
+      ],
+      "proposalRole": "発議者",
+      "proposalSupporters": [
+        "中川博介"
+      ],
+      "votes": {
+        "中川博介": "賛成",
+        "村田武彦": "反対",
+        "近藤一美": "反対",
+        "野原隆男": "欠席",
+        "村田徹也": "賛成",
+        "関口雅敬": "議長裁決（反対）",
+        "大島瑠美子": "反対",
+        "新井利朗": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/04/gikaidayori37.pdf#page=4"
+    },
+    {
+      "place": "長瀞町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-11",
+      "number": "議案第1号",
+      "title": "専決処分の承認を求めることについて(令和7年度長瀞町一般会計補正予算(第8号))",
+      "result": "承認",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=68",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=70",
+      "resultLocator": "本会議録 PDF 70頁・採決",
+      "votes": {
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "欠席",
+        "村田徹也": "賛成",
+        "関口雅敬": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/04/gikaidayori37.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 68頁・町長提出第１～25号の一括上程"
+    },
+    {
+      "place": "長瀞町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-11",
+      "number": "議案第2号",
+      "title": "長瀞町長の給与の特例に関する条例",
+      "result": "可決",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=68",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=74",
+      "resultLocator": "本会議録 PDF 74頁・採決",
+      "voteNote": "可否同数のため関口雅敬議長が裁決。記名表にある議長欄の印は裁決を示す。",
+      "votes": {
+        "中川博介": "反対",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "欠席",
+        "村田徹也": "反対",
+        "関口雅敬": "議長裁決（賛成）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "反対"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/04/gikaidayori37.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 68頁・町長提出第１～25号の一括上程"
+    },
+    {
+      "place": "長瀞町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-11",
+      "number": "議案第3号",
+      "title": "長瀞町乳児等通園支援事業の設備及び運営に関する基準を定める条例",
+      "result": "可決",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=68",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=77",
+      "resultLocator": "本会議録 PDF 77頁・採決",
+      "votes": {
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "欠席",
+        "村田徹也": "賛成",
+        "関口雅敬": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/04/gikaidayori37.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 68頁・町長提出第１～25号の一括上程"
+    },
+    {
+      "place": "長瀞町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-11",
+      "number": "議案第4号",
+      "title": "議会議員の議員報酬及び費用弁償に関する条例の一部を改正する条例",
+      "result": "可決",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=68",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=79",
+      "resultLocator": "本会議録 PDF 79頁・採決",
+      "votes": {
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "欠席",
+        "村田徹也": "賛成",
+        "関口雅敬": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/04/gikaidayori37.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 68頁・町長提出第１～25号の一括上程"
+    },
+    {
+      "place": "長瀞町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-11",
+      "number": "議案第5号",
+      "title": "町長等の諸給与条例等の一部を改正する条例",
+      "result": "可決",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=68",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=81",
+      "resultLocator": "本会議録 PDF 81頁・採決",
+      "votes": {
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "欠席",
+        "村田徹也": "賛成",
+        "関口雅敬": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/04/gikaidayori37.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 68頁・町長提出第１～25号の一括上程"
+    },
+    {
+      "place": "長瀞町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-11",
+      "number": "議案第6号",
+      "title": "職員の給与に関する条例等の一部を改正する条例",
+      "result": "可決",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=68",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=84",
+      "resultLocator": "本会議録 PDF 84頁・採決",
+      "votes": {
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "欠席",
+        "村田徹也": "賛成",
+        "関口雅敬": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/04/gikaidayori37.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 68頁・町長提出第１～25号の一括上程"
+    },
+    {
+      "place": "長瀞町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-11",
+      "number": "議案第7号",
+      "title": "長瀞町会計年度任用職員の給与及び費用弁償に関する条例等の一部を改正する条例",
+      "result": "可決",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=68",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=86",
+      "resultLocator": "本会議録 PDF 86頁・採決",
+      "votes": {
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "欠席",
+        "村田徹也": "賛成",
+        "関口雅敬": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/04/gikaidayori37.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 68頁・町長提出第１～25号の一括上程"
+    },
+    {
+      "place": "長瀞町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-11",
+      "number": "議案第8号",
+      "title": "長瀞町税条例の一部を改正する条例",
+      "result": "可決",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=68",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=87",
+      "resultLocator": "本会議録 PDF 87頁・採決",
+      "votes": {
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "欠席",
+        "村田徹也": "賛成",
+        "関口雅敬": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/04/gikaidayori37.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 68頁・町長提出第１～25号の一括上程"
+    },
+    {
+      "place": "長瀞町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-12",
+      "number": "議案第9号",
+      "title": "長瀞町国民健康保険税条例の一部を改正する条例",
+      "result": "可決",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=68",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=92",
+      "resultLocator": "本会議録 PDF 92頁・採決",
+      "votes": {
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "賛成",
+        "村田徹也": "賛成",
+        "関口雅敬": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/04/gikaidayori37.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 68頁・町長提出第１～25号の一括上程"
+    },
+    {
+      "place": "長瀞町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-12",
+      "number": "議案第10号",
+      "title": "長瀞町子育て支援金支給条例の一部を改正する条例",
+      "result": "可決",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=68",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=94",
+      "resultLocator": "本会議録 PDF 94頁・採決",
+      "votes": {
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "賛成",
+        "村田徹也": "賛成",
+        "関口雅敬": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/04/gikaidayori37.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 68頁・町長提出第１～25号の一括上程"
+    },
+    {
+      "place": "長瀞町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-12",
+      "number": "議案第11号",
+      "title": "長瀞町後期高齢者医療に関する条例の一部を改正する条例",
+      "result": "可決",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=68",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=95",
+      "resultLocator": "本会議録 PDF 95頁・採決",
+      "votes": {
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "賛成",
+        "村田徹也": "賛成",
+        "関口雅敬": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/04/gikaidayori37.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 68頁・町長提出第１～25号の一括上程"
+    },
+    {
+      "place": "長瀞町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-12",
+      "number": "議案第12号",
+      "title": "長瀞町介護保険条例の一部を改正する条例",
+      "result": "可決",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=68",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=97",
+      "resultLocator": "本会議録 PDF 97頁・採決",
+      "votes": {
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "賛成",
+        "村田徹也": "賛成",
+        "関口雅敬": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/04/gikaidayori37.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 68頁・町長提出第１～25号の一括上程"
+    },
+    {
+      "place": "長瀞町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-12",
+      "number": "議案第13号",
+      "title": "長瀞町消防団員の定数、任免、給与、服務等に関する条例の一部を改正する条例",
+      "result": "可決",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=68",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=99",
+      "resultLocator": "本会議録 PDF 99頁・採決",
+      "votes": {
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "賛成",
+        "村田徹也": "賛成",
+        "関口雅敬": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/04/gikaidayori37.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 68頁・町長提出第１～25号の一括上程"
+    },
+    {
+      "place": "長瀞町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-12",
+      "number": "議案第14号",
+      "title": "令和7年度長瀞町一般会計補正予算(第9号)",
+      "result": "可決",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=68",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=104",
+      "resultLocator": "本会議録 PDF 104頁・採決",
+      "votes": {
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "賛成",
+        "村田徹也": "賛成",
+        "関口雅敬": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/04/gikaidayori37.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 68頁・町長提出第１～25号の一括上程"
+    },
+    {
+      "place": "長瀞町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-12",
+      "number": "議案第15号",
+      "title": "令和7年度長瀞町国民健康保険特別会計補正予算(第2号)",
+      "result": "可決",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=68",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=105",
+      "resultLocator": "本会議録 PDF 105頁・採決",
+      "votes": {
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "賛成",
+        "村田徹也": "賛成",
+        "関口雅敬": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/04/gikaidayori37.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 68頁・町長提出第１～25号の一括上程"
+    },
+    {
+      "place": "長瀞町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-12",
+      "number": "議案第16号",
+      "title": "令和7年度長瀞町介護保険特別会計補正予算(第3号)",
+      "result": "可決",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=68",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=107",
+      "resultLocator": "本会議録 PDF 107頁・採決",
+      "votes": {
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "賛成",
+        "村田徹也": "賛成",
+        "関口雅敬": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/04/gikaidayori37.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 68頁・町長提出第１～25号の一括上程"
+    },
+    {
+      "place": "長瀞町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-12",
+      "number": "議案第17号",
+      "title": "令和7年度長瀞町後期高齢者医療特別会計補正予算(第3号)",
+      "result": "可決",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=68",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=108",
+      "resultLocator": "本会議録 PDF 108頁・採決",
+      "votes": {
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "賛成",
+        "村田徹也": "賛成",
+        "関口雅敬": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/04/gikaidayori37.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 68頁・町長提出第１～25号の一括上程"
+    },
+    {
+      "place": "長瀞町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-12",
+      "number": "議案第18号",
+      "title": "令和8年度長瀞町一般会計予算",
+      "result": "可決",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=68",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=161",
+      "resultLocator": "本会議録 PDF 161頁・採決",
+      "votes": {
+        "中川博介": "反対",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "賛成",
+        "村田徹也": "反対",
+        "関口雅敬": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "反対"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/04/gikaidayori37.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 68頁・町長提出第１～25号の一括上程"
+    },
+    {
+      "place": "長瀞町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-12",
+      "number": "議案第19号",
+      "title": "令和8年度長瀞町国民健康保険特別会計予算",
+      "result": "可決",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=68",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=163",
+      "resultLocator": "本会議録 PDF 163頁・採決",
+      "votes": {
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "賛成",
+        "村田徹也": "賛成",
+        "関口雅敬": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/04/gikaidayori37.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 68頁・町長提出第１～25号の一括上程"
+    },
+    {
+      "place": "長瀞町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-12",
+      "number": "議案第20号",
+      "title": "令和8年度長瀞町介護保険特別会計予算",
+      "result": "可決",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=68",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=166",
+      "resultLocator": "本会議録 PDF 166頁・採決",
+      "voteNote": "議会だより原表の新井利朗議員欄は斜線。会議録166頁には異議なしで原案可決とあり、斜線の理由は確認できない。",
+      "votes": {
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "賛成",
+        "村田徹也": "賛成",
+        "関口雅敬": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "斜線（原表）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/04/gikaidayori37.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 68頁・町長提出第１～25号の一括上程"
+    },
+    {
+      "place": "長瀞町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-13",
+      "number": "議案第21号",
+      "title": "令和8年度長瀞町後期高齢者医療特別会計予算",
+      "result": "可決",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=68",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=172",
+      "resultLocator": "本会議録 PDF 172頁・採決",
+      "votes": {
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "賛成",
+        "村田徹也": "賛成",
+        "関口雅敬": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/04/gikaidayori37.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 68頁・町長提出第１～25号の一括上程"
+    },
+    {
+      "place": "長瀞町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-13",
+      "number": "議案第22号",
+      "title": "工事請負変更契約の締結について",
+      "result": "可決",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=68",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=175",
+      "resultLocator": "本会議録 PDF 175頁・採決",
+      "votes": {
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "賛成",
+        "村田徹也": "賛成",
+        "関口雅敬": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/04/gikaidayori37.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 68頁・町長提出第１～25号の一括上程"
+    },
+    {
+      "place": "長瀞町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-13",
+      "number": "議案第23号",
+      "title": "ちちぶ定住自立圏形成協定書の変更について",
+      "result": "可決",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=68",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=177",
+      "resultLocator": "本会議録 PDF 177頁・採決",
+      "votes": {
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "賛成",
+        "村田徹也": "賛成",
+        "関口雅敬": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/04/gikaidayori37.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 68頁・町長提出第１～25号の一括上程"
+    },
+    {
+      "place": "長瀞町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-13",
+      "number": "議案第24号",
+      "title": "長瀞町過疎地域持続的発展計画について",
+      "result": "可決",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=68",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=184",
+      "resultLocator": "本会議録 PDF 184頁・採決",
+      "votes": {
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "賛成",
+        "村田徹也": "賛成",
+        "関口雅敬": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/04/gikaidayori37.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 68頁・町長提出第１～25号の一括上程"
+    },
+    {
+      "place": "長瀞町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-13",
+      "number": "議案第25号",
+      "title": "長瀞町道路線の変更について",
+      "result": "可決",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=68",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=185",
+      "resultLocator": "本会議録 PDF 185頁・採決",
+      "votes": {
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "賛成",
+        "村田徹也": "賛成",
+        "関口雅敬": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/04/gikaidayori37.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 68頁・町長提出第１～25号の一括上程"
+    },
+    {
+      "place": "長瀞町",
+      "season": "spring",
+      "session": "令和8年第1回定例会（3月）",
+      "date": "2026-03-13",
+      "number": "議案第26号",
+      "title": "長瀞町監査委員の選任について",
+      "result": "同意",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=185",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/1bb2875f2e261711c14f16243a956307.pdf#page=191",
+      "resultLocator": "本会議録 PDF 191頁・採決",
+      "votes": {
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "賛成",
+        "村田徹也": "反対",
+        "関口雅敬": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "反対"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/04/gikaidayori37.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 185頁・監査委員の選任・町長の提案理由"
+    },
+    {
+      "place": "長瀞町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "date": "2026-06-11",
+      "number": "議案第27号",
+      "title": "専決処分の承認を求めることについて(長瀞町税条例の一部を改正する条例)",
+      "result": "承認",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/09/a44d0a483c989d24a206dc636fbee91f.pdf#page=58",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/09/a44d0a483c989d24a206dc636fbee91f.pdf#page=62",
+      "resultLocator": "本会議録 PDF 62頁・採決",
+      "votes": {
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "賛成",
+        "村田徹也": "賛成",
+        "関口雅敬": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/gikaidayori38.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 58頁・町長提出第27～46号の一括上程"
+    },
+    {
+      "place": "長瀞町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "date": "2026-06-11",
+      "number": "議案第28号",
+      "title": "専決処分の承認を求めることについて(長瀞町国民健康保険税条例の一部を改正する条例)",
+      "result": "承認",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/09/a44d0a483c989d24a206dc636fbee91f.pdf#page=58",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/09/a44d0a483c989d24a206dc636fbee91f.pdf#page=64",
+      "resultLocator": "本会議録 PDF 64頁・採決",
+      "votes": {
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "賛成",
+        "村田徹也": "賛成",
+        "関口雅敬": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/gikaidayori38.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 58頁・町長提出第27～46号の一括上程"
+    },
+    {
+      "place": "長瀞町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "date": "2026-06-11",
+      "number": "議案第29号",
+      "title": "長瀞町印鑑条例の一部を改正する条例",
+      "result": "可決",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/09/a44d0a483c989d24a206dc636fbee91f.pdf#page=58",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/09/a44d0a483c989d24a206dc636fbee91f.pdf#page=65",
+      "resultLocator": "本会議録 PDF 65頁・採決",
+      "votes": {
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "賛成",
+        "村田徹也": "賛成",
+        "関口雅敬": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/gikaidayori38.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 58頁・町長提出第27～46号の一括上程"
+    },
+    {
+      "place": "長瀞町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "date": "2026-06-11",
+      "number": "議案第30号",
+      "title": "令和8年度長瀞町一般会計補正予算(第1号)",
+      "result": "可決",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/09/a44d0a483c989d24a206dc636fbee91f.pdf#page=58",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/09/a44d0a483c989d24a206dc636fbee91f.pdf#page=69",
+      "resultLocator": "本会議録 PDF 69頁・採決",
+      "votes": {
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "賛成",
+        "村田徹也": "賛成",
+        "関口雅敬": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/gikaidayori38.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 58頁・町長提出第27～46号の一括上程"
+    },
+    {
+      "place": "長瀞町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "date": "2026-06-11",
+      "number": "議案第31号",
+      "title": "令和8年度長瀞町国民健康保険特別会計補正予算(第1号)",
+      "result": "可決",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/09/a44d0a483c989d24a206dc636fbee91f.pdf#page=58",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/09/a44d0a483c989d24a206dc636fbee91f.pdf#page=70",
+      "resultLocator": "本会議録 PDF 70頁・採決",
+      "votes": {
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "賛成",
+        "村田徹也": "賛成",
+        "関口雅敬": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/gikaidayori38.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 58頁・町長提出第27～46号の一括上程"
+    },
+    {
+      "place": "長瀞町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "date": "2026-06-11",
+      "number": "議案第32号",
+      "title": "令和8年度長瀞町介護保険特別会計補正予算(第1号)",
+      "result": "可決",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/09/a44d0a483c989d24a206dc636fbee91f.pdf#page=58",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/09/a44d0a483c989d24a206dc636fbee91f.pdf#page=71",
+      "resultLocator": "本会議録 PDF 71頁・採決",
+      "votes": {
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "賛成",
+        "村田徹也": "賛成",
+        "関口雅敬": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/gikaidayori38.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 58頁・町長提出第27～46号の一括上程"
+    },
+    {
+      "place": "長瀞町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "date": "2026-06-11",
+      "number": "議案第33号",
+      "title": "長瀞町農業委員会委員の任命について",
+      "result": "同意",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/09/a44d0a483c989d24a206dc636fbee91f.pdf#page=58",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/09/a44d0a483c989d24a206dc636fbee91f.pdf#page=74",
+      "resultLocator": "本会議録 PDF 74頁・採決",
+      "voteNote": "会議録でこの議案の同意を確認。議会だより第38号４頁の記名欄は第33～45号を１行にまとめて掲載。",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/gikaidayori38.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 58頁・町長提出第27～46号の一括上程"
+    },
+    {
+      "place": "長瀞町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "date": "2026-06-11",
+      "number": "議案第34号",
+      "title": "長瀞町農業委員会委員の任命について",
+      "result": "同意",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/09/a44d0a483c989d24a206dc636fbee91f.pdf#page=58",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/09/a44d0a483c989d24a206dc636fbee91f.pdf#page=74",
+      "resultLocator": "本会議録 PDF 74頁・採決",
+      "voteNote": "会議録でこの議案の同意を確認。議会だより第38号４頁の記名欄は第33～45号を１行にまとめて掲載。",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/gikaidayori38.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 58頁・町長提出第27～46号の一括上程"
+    },
+    {
+      "place": "長瀞町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "date": "2026-06-11",
+      "number": "議案第35号",
+      "title": "長瀞町農業委員会委員の任命について",
+      "result": "同意",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/09/a44d0a483c989d24a206dc636fbee91f.pdf#page=58",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/09/a44d0a483c989d24a206dc636fbee91f.pdf#page=74",
+      "resultLocator": "本会議録 PDF 74頁・採決",
+      "voteNote": "会議録でこの議案の同意を確認。議会だより第38号４頁の記名欄は第33～45号を１行にまとめて掲載。",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/gikaidayori38.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 58頁・町長提出第27～46号の一括上程"
+    },
+    {
+      "place": "長瀞町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "date": "2026-06-11",
+      "number": "議案第36号",
+      "title": "長瀞町農業委員会委員の任命について",
+      "result": "同意",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/09/a44d0a483c989d24a206dc636fbee91f.pdf#page=58",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/09/a44d0a483c989d24a206dc636fbee91f.pdf#page=74",
+      "resultLocator": "本会議録 PDF 74頁・採決",
+      "voteNote": "会議録でこの議案の同意を確認。議会だより第38号４頁の記名欄は第33～45号を１行にまとめて掲載。",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/gikaidayori38.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 58頁・町長提出第27～46号の一括上程"
+    },
+    {
+      "place": "長瀞町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "date": "2026-06-11",
+      "number": "議案第37号",
+      "title": "長瀞町農業委員会委員の任命について",
+      "result": "同意",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/09/a44d0a483c989d24a206dc636fbee91f.pdf#page=58",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/09/a44d0a483c989d24a206dc636fbee91f.pdf#page=75",
+      "resultLocator": "本会議録 PDF 75頁・採決",
+      "voteNote": "会議録でこの議案の同意を確認。議会だより第38号４頁の記名欄は第33～45号を１行にまとめて掲載。",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/gikaidayori38.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 58頁・町長提出第27～46号の一括上程"
+    },
+    {
+      "place": "長瀞町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "date": "2026-06-11",
+      "number": "議案第38号",
+      "title": "長瀞町農業委員会委員の任命について",
+      "result": "同意",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/09/a44d0a483c989d24a206dc636fbee91f.pdf#page=58",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/09/a44d0a483c989d24a206dc636fbee91f.pdf#page=75",
+      "resultLocator": "本会議録 PDF 75頁・採決",
+      "voteNote": "会議録でこの議案の同意を確認。議会だより第38号４頁の記名欄は第33～45号を１行にまとめて掲載。",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/gikaidayori38.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 58頁・町長提出第27～46号の一括上程"
+    },
+    {
+      "place": "長瀞町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "date": "2026-06-11",
+      "number": "議案第39号",
+      "title": "長瀞町農業委員会委員の任命について",
+      "result": "同意",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/09/a44d0a483c989d24a206dc636fbee91f.pdf#page=58",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/09/a44d0a483c989d24a206dc636fbee91f.pdf#page=75",
+      "resultLocator": "本会議録 PDF 75頁・採決",
+      "voteNote": "会議録でこの議案の同意を確認。議会だより第38号４頁の記名欄は第33～45号を１行にまとめて掲載。",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/gikaidayori38.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 58頁・町長提出第27～46号の一括上程"
+    },
+    {
+      "place": "長瀞町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "date": "2026-06-11",
+      "number": "議案第40号",
+      "title": "長瀞町農業委員会委員の任命について",
+      "result": "同意",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/09/a44d0a483c989d24a206dc636fbee91f.pdf#page=58",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/09/a44d0a483c989d24a206dc636fbee91f.pdf#page=75",
+      "resultLocator": "本会議録 PDF 75頁・採決",
+      "voteNote": "会議録でこの議案の同意を確認。議会だより第38号４頁の記名欄は第33～45号を１行にまとめて掲載。",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/gikaidayori38.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 58頁・町長提出第27～46号の一括上程"
+    },
+    {
+      "place": "長瀞町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "date": "2026-06-11",
+      "number": "議案第41号",
+      "title": "長瀞町農業委員会委員の任命について",
+      "result": "同意",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/09/a44d0a483c989d24a206dc636fbee91f.pdf#page=58",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/09/a44d0a483c989d24a206dc636fbee91f.pdf#page=76",
+      "resultLocator": "本会議録 PDF 76頁・採決",
+      "voteNote": "会議録でこの議案の同意を確認。議会だより第38号４頁の記名欄は第33～45号を１行にまとめて掲載。",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/gikaidayori38.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 58頁・町長提出第27～46号の一括上程"
+    },
+    {
+      "place": "長瀞町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "date": "2026-06-11",
+      "number": "議案第42号",
+      "title": "長瀞町農業委員会委員の任命について",
+      "result": "同意",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/09/a44d0a483c989d24a206dc636fbee91f.pdf#page=58",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/09/a44d0a483c989d24a206dc636fbee91f.pdf#page=76",
+      "resultLocator": "本会議録 PDF 76頁・採決",
+      "voteNote": "会議録でこの議案の同意を確認。議会だより第38号４頁の記名欄は第33～45号を１行にまとめて掲載。",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/gikaidayori38.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 58頁・町長提出第27～46号の一括上程"
+    },
+    {
+      "place": "長瀞町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "date": "2026-06-11",
+      "number": "議案第43号",
+      "title": "長瀞町農業委員会委員の任命について",
+      "result": "同意",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/09/a44d0a483c989d24a206dc636fbee91f.pdf#page=58",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/09/a44d0a483c989d24a206dc636fbee91f.pdf#page=76",
+      "resultLocator": "本会議録 PDF 76頁・採決",
+      "voteNote": "会議録でこの議案の同意を確認。議会だより第38号４頁の記名欄は第33～45号を１行にまとめて掲載。",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/gikaidayori38.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 58頁・町長提出第27～46号の一括上程"
+    },
+    {
+      "place": "長瀞町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "date": "2026-06-11",
+      "number": "議案第44号",
+      "title": "長瀞町農業委員会委員の任命について",
+      "result": "同意",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/09/a44d0a483c989d24a206dc636fbee91f.pdf#page=58",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/09/a44d0a483c989d24a206dc636fbee91f.pdf#page=76",
+      "resultLocator": "本会議録 PDF 76頁・採決",
+      "voteNote": "会議録でこの議案の同意を確認。議会だより第38号４頁の記名欄は第33～45号を１行にまとめて掲載。",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/gikaidayori38.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 58頁・町長提出第27～46号の一括上程"
+    },
+    {
+      "place": "長瀞町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "date": "2026-06-11",
+      "number": "議案第45号",
+      "title": "長瀞町農業委員会委員の任命について",
+      "result": "同意",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/09/a44d0a483c989d24a206dc636fbee91f.pdf#page=58",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/09/a44d0a483c989d24a206dc636fbee91f.pdf#page=77",
+      "resultLocator": "本会議録 PDF 77頁・採決",
+      "voteNote": "会議録でこの議案の同意を確認。議会だより第38号４頁の記名欄は第33～45号を１行にまとめて掲載。",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/gikaidayori38.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 58頁・町長提出第27～46号の一括上程"
+    },
+    {
+      "place": "長瀞町",
+      "season": "summer",
+      "session": "令和8年第2回定例会（6月）",
+      "date": "2026-06-11",
+      "number": "議案第46号",
+      "title": "長瀞町固定資産評価審査委員会委員の選任について",
+      "result": "同意",
+      "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/09/a44d0a483c989d24a206dc636fbee91f.pdf#page=58",
+      "resultURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/09/a44d0a483c989d24a206dc636fbee91f.pdf#page=77",
+      "resultLocator": "本会議録 PDF 77頁・採決",
+      "votes": {
+        "中川博介": "賛成",
+        "村田武彦": "賛成",
+        "近藤一美": "賛成",
+        "野原隆男": "賛成",
+        "村田徹也": "賛成",
+        "関口雅敬": "議長（表決不参加）",
+        "大島瑠美子": "賛成",
+        "新井利朗": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/gikaidayori38.pdf#page=4",
+      "proposer": "長瀞町長（鈴木日出男）",
+      "sourceTitle": "本会議録 PDF 58頁・町長提出第27～46号の一括上程"
     }
   ],
   "policy": [
