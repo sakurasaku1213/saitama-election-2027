@@ -987,7 +987,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "partial",
-          "note": "議会だより第130号の一般質問17人・40問答を収録し、質問日を録画と公式通告で照合。"
+          "note": "議会だよりの一般質問17人・40問答を収録。公式録画の一般質問17人を４日分照合。紙面は正式会議録を12月に発行予定と案内。 公式録画の機械文字起こし一般質問4本を収録。"
         },
         "decisions": {
           "state": "verified",
@@ -2075,7 +2075,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "partial",
-          "note": "議会だより14人・87問答を整理し、公式録画・一般質問の日程と対応させた。"
+          "note": "議会だよりの一般質問14人・87問答と公式録画４日14人を照合。正式会議録は確認中。 公式録画の機械文字起こし一般質問2本を収録。"
         },
         "decisions": {
           "state": "verified",
@@ -4195,7 +4195,7 @@ GIKAI.coverage2026 = {
         },
         "policy": {
           "state": "partial",
-          "note": "北朝霞駅西口ロータリーについて、予算の修正動議と採決、工事契約と市の工事案内を収録。"
+          "note": "北朝霞駅西口ロータリーについて、予算の修正動議と採決、工事契約と市の工事案内を収録。 ４市共用火葬場の設置基本計画を収録。"
         }
       },
       "sources": [
@@ -4210,6 +4210,10 @@ GIKAI.coverage2026 = {
         {
           "label": "議員別表決を掲載した公式議案審議結果表",
           "url": "https://www.city.asaka.lg.jp/uploaded/attachment/112612.pdf"
+        },
+        {
+          "label": "４市共用火葬場の設置基本計画",
+          "url": "https://www.city.asaka.lg.jp/uploaded/attachment/113540.pdf"
         }
       ]
     },
@@ -4339,7 +4343,7 @@ GIKAI.coverage2026 = {
         },
         "policy": {
           "state": "partial",
-          "note": "雨水対策、生活道路の安全、公共施設使用料、学童保育料の４事例を収録。"
+          "note": "雨水対策、生活道路の安全、公共施設使用料、学童保育料の４事例を収録。 ４市共用火葬場計画素案への意見募集結果を収録。"
         }
       },
       "sources": [
@@ -4370,6 +4374,10 @@ GIKAI.coverage2026 = {
         {
           "label": "秋の公式議決日・結果一覧",
           "url": "https://www.city.shiki.lg.jp/uploaded/attachment/24417.pdf"
+        },
+        {
+          "label": "４市共用火葬場計画素案への意見募集結果",
+          "url": "https://www.city.shiki.lg.jp/uploaded/attachment/24901.pdf"
         }
       ]
     },
@@ -4543,7 +4551,7 @@ GIKAI.coverage2026 = {
         },
         "policy": {
           "state": "partial",
-          "note": "中学校給食追加補助、趣旨採択、監査後の検証等。"
+          "note": "中学校給食追加補助、趣旨採択、監査後の検証等。 ９月17日全員協議会・火葬場基本計画素案の質疑を収録。"
         }
       },
       "sources": [
@@ -4578,6 +4586,10 @@ GIKAI.coverage2026 = {
         {
           "label": "議会だより第134号",
           "url": "https://www.city.wako.lg.jp/_res/projects/default_project/_page_/001/013/556/r81101dayori.pdf"
+        },
+        {
+          "label": "９月17日全員協議会・火葬場基本計画素案の質疑",
+          "url": "https://www.city.wako.lg.jp/_res/projects/default_project/_page_/001/013/110/1117.5.pdf"
         }
       ]
     },
@@ -4689,21 +4701,21 @@ GIKAI.coverage2026 = {
       "place": "新座市",
       "season": "fall",
       "label": "2026年秋の定例会",
-      "fromDate": "",
-      "toDate": "",
+      "fromDate": "2026-08-27",
+      "toDate": "2026-09-28",
       "planned": false,
       "materials": {
         "meeting": {
-          "state": "identified",
-          "note": "対象時期に関係する資料の掲載箇所を確認。会期の確定は未了。"
+          "state": "verified",
+          "note": "市の議案審議結果に、第３回定例会の会期８月27日～９月28日が記載されている。"
         },
         "activity": {
           "state": "partial",
           "note": "この時期の掲載項目 53件。通告・目次・本文の別は活動の出典に表示。"
         },
         "text": {
-          "state": "pending",
-          "note": "議会だより第238号の質問・答弁要旨はPDF７頁を収録。原音照合と正式会議録は確認中。 公式録画の機械文字起こし一般質問11本を収録。"
+          "state": "partial",
+          "note": "議会だより第238号の原本５～11頁から、一般質問25人の74問答を収録。質問日を公式録画目録と照合。公式録画の機械文字起こしは一般質問12本。正式会議録と原音照合は確認中。"
         },
         "decisions": {
           "state": "verified",
@@ -4714,8 +4726,8 @@ GIKAI.coverage2026 = {
           "note": "原表の34件の記名表決を収録。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "共用火葬場設置基本計画の策定を収録。"
         }
       },
       "sources": [
@@ -4734,6 +4746,18 @@ GIKAI.coverage2026 = {
         {
           "url": "https://www.city.niiza.lg.jp/site/singikekka/reiwa8nendai3kai.html",
           "label": "公式議案等審議結果と記名表決"
+        },
+        {
+          "label": "議会だより第238号・質問と答弁の紙面",
+          "url": "https://www.city.niiza.lg.jp/uploaded/attachment/74879.pdf#page=5"
+        },
+        {
+          "label": "秋の公式録画・一般質問25人",
+          "url": "https://niiza-city.stream.jfit.co.jp/?tpl=gikai_days_list&gikai_id=96"
+        },
+        {
+          "label": "共用火葬場設置基本計画の策定",
+          "url": "https://www.city.niiza.lg.jp/soshiki/7/kasouba-keikaku.html"
         }
       ]
     },
@@ -10275,7 +10299,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "partial",
-          "note": "秋の正式会議録は2026年11月26日の年別目録で未確認。一般質問の機械文字起こしと予算書等の公式資料を収録。"
+          "note": "秋の正式会議録は2026年11月26日の年別目録で未確認。公式録画一覧で一般質問11人を確認し、機械文字起こし８本を収録。秋の補正予算書２点、辞職勧告決議原文、決算審査を踏まえた予算提言書も収録。"
         },
         "decisions": {
           "state": "partial",
@@ -10431,7 +10455,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "identified",
-          "note": "対象時期の会議録または索引の掲載先を確認。本文の全件照合は未了。"
+          "note": "公式録画一覧で一般質問12人を確認し、機械文字起こし７本を収録。議会だよりの質問・答弁要旨も収録。正式会議録は確認中。"
         },
         "decisions": {
           "state": "verified",

@@ -5791,6 +5791,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "a19e267564e1c9d9fe19",
+      "place": "上里町",
+      "season": "fall",
+      "date": "2026-09-07",
+      "title": "飯塚賢治議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/speech.html?council_id=47&schedule_id=2&playlist_id=4&speaker_id=1&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "飯塚賢治"
+      ]
+    },
+    {
       "id": "e739a349b4332b74950f",
       "place": "上里町",
       "season": "fall",
@@ -11931,6 +11945,24 @@ GIKAI.questionText = {
       "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
       "speakers": [
         "鎌田泰春"
+      ]
+    },
+    {
+      "id": "da0dd90c79d540bd7e19",
+      "place": "和光市",
+      "season": "fall",
+      "date": "2026-09-17",
+      "title": "９月17日全員協議会記録・朝霞地区４市共用火葬場の基本計画素案（全13頁）",
+      "kind": "全員協議会の会議記録（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.wako.lg.jp/_res/projects/default_project/_page_/001/013/110/1117.5.pdf",
+      "note": "全員協議会での説明と質疑。本会議の一般質問や採決とは別の資料です。PDF１頁の表紙を含む物理頁番号。",
+      "speakers": [
+        "赤松祐造",
+        "片山義久",
+        "齋藤幸子",
+        "富澤啓二",
+        "内山恵子"
       ]
     },
     {
@@ -25128,6 +25160,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "5852e1a575960788cb70",
+      "place": "寄居町",
+      "season": "fall",
+      "date": "2026-09-16",
+      "title": "鈴木詠子議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/speech.html?council_id=39&schedule_id=3&playlist_id=2&speaker_id=8&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "鈴木詠子"
+      ]
+    },
+    {
       "id": "7b4e01d8f247b28cc5d4",
       "place": "富士見市",
       "season": "spring",
@@ -32581,6 +32627,18 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "bdedb653fd375a33565b",
+      "place": "志木市",
+      "season": "fall",
+      "date": "2026-10-31",
+      "title": "朝霞地区４市共用火葬場の基本計画素案・意見募集結果",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.shiki.lg.jp/uploaded/attachment/24901.pdf",
+      "note": "志木市が掲載した４市の意見募集結果。日付は募集期間の最終日。表の項目と対応関係は原本を参照。",
+      "speakers": []
+    },
+    {
       "id": "c20d96b5ef7dc5596927",
       "place": "戸田市",
       "season": "spring",
@@ -34310,12 +34368,38 @@ GIKAI.questionText = {
       "place": "新座市",
       "season": "fall",
       "date": "2026-09",
-      "title": "市議会だより 令和8年第3回定例会 No238 議会だより（2026年11月25日発行号） （別ウィンドウ・PDFファイル・3.71MB）",
+      "title": "にいざ市議会だより第238号・一般質問25人74問答（原本５～11頁）",
       "url": "https://www.city.niiza.lg.jp/uploaded/attachment/74879.pdf",
-      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "kind": "議会だよりの質問・答弁（紙面要約）",
       "scope": "summary",
-      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。 OCRの確認警告があるPDF 1、2、3、4、5、6、8、10、11、12頁を除外しています。",
-      "speakers": []
+      "note": "11月25日発行の議会だより。原紙面５～11頁に掲載された25人の74問答を要約し、質問日は公式録画目録に合わせた。先に収録したPDF７頁のOCRも併録。その他の頁のOCRは照合中。 10・11頁の市長報告のうち、共用火葬場計画の掲載要旨も収録。",
+      "speakers": [
+        "池田貞雄",
+        "嶋野加代",
+        "上田美小枝",
+        "助川昇",
+        "鈴木秀一",
+        "野中弥生",
+        "堀内博史",
+        "谷地田庸子",
+        "鈴木明子",
+        "伊藤智砂子",
+        "片山敏子",
+        "伊藤信太郎",
+        "笠原進",
+        "小野由美子",
+        "小野大輔",
+        "山口歩",
+        "田口訓子",
+        "佐藤重忠",
+        "島田久仁代",
+        "黒田実樹",
+        "石島陽子",
+        "川村よしひさ",
+        "白井忠雄",
+        "よねはしゆうた",
+        "高邑朋矢"
+      ]
     },
     {
       "id": "a8c80d817527b0dc9ab9",
@@ -34469,6 +34553,20 @@ GIKAI.questionText = {
       "url": "https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1879",
       "speakers": [
         "片山敏子"
+      ]
+    },
+    {
+      "id": "37bea73ec44d14b65cdd",
+      "place": "新座市",
+      "season": "fall",
+      "date": "2026-09-11",
+      "title": "鈴木明子議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1877",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "鈴木明子"
       ]
     },
     {
@@ -35934,6 +36032,18 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "1a9f25ca3616d573ee27",
+      "place": "朝霞市",
+      "season": "fall",
+      "date": "2026-11-20",
+      "title": "朝霞地区４市共用火葬場設置基本計画（令和８年11月・全57頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.asaka.lg.jp/uploaded/attachment/113540.pdf",
+      "note": "発行月は2026年11月。日付は朝霞市の公表ページ更新日。工程表はPDF47頁（従来方式）と57頁（DBO方式）で各前提を確認できます。図表は原PDFを参照。",
+      "speakers": []
+    },
+    {
       "id": "595a9f09d3dd7af59a21",
       "place": "本庄市",
       "season": "spring",
@@ -37314,6 +37424,20 @@ GIKAI.questionText = {
       "url": "https://smart.discussvision.net/smart/tenant/higashimatsuyama/WebView/rd/speech.html?council_id=56&schedule_id=3&playlist_id=1&speaker_id=35&target_year=2026",
       "speakers": [
         "横田正芳"
+      ]
+    },
+    {
+      "id": "4ce3ab0fe4ae63e4f5d0",
+      "place": "東松山市",
+      "season": "fall",
+      "date": "2026-09-11",
+      "title": "高田正人議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/higashimatsuyama/WebView/rd/speech.html?council_id=56&schedule_id=3&playlist_id=2&speaker_id=10&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "高田正人"
       ]
     },
     {
@@ -45060,6 +45184,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "117f0423cdac3d1e330b",
+      "place": "行田市",
+      "season": "fall",
+      "date": "2026-09-03",
+      "title": "香川宏行議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/gyoda/WebView/rd/speech.html?council_id=47&schedule_id=3&playlist_id=4&speaker_id=18&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "香川宏行"
+      ]
+    },
+    {
       "id": "863b676a8b1025cec7ee",
       "place": "越生町",
       "season": "spring",
@@ -48584,7 +48722,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/gyoda/WebView/rd/council_1.html",
-        "note": "議会だよりの一般質問17人・40問答を収録。公式録画の一般質問17人を４日分照合。紙面は正式会議録を12月に発行予定と案内。 公式録画の機械文字起こしを1件収録。 公式録画の機械文字起こしを3件収録。"
+        "note": "議会だよりの一般質問17人・40問答を収録。公式録画の一般質問17人を４日分照合。紙面は正式会議録を12月に発行予定と案内。 公式録画の機械文字起こし一般質問4本を収録。"
       }
     },
     {
@@ -48746,7 +48884,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/higashimatsuyama/WebView/rd/council.html",
-        "note": "議会だよりの一般質問14人・87問答と公式録画４日14人を照合。正式会議録は確認中。 公式録画の機械文字起こしを1件収録。"
+        "note": "議会だよりの一般質問14人・87問答と公式録画４日14人を照合。正式会議録は確認中。 公式録画の機械文字起こし一般質問2本を収録。"
       }
     },
     {
@@ -49151,7 +49289,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://niiza-city.stream.jfit.co.jp/?tpl=gikai_days_list&gikai_id=96",
-        "note": "議会だより第238号の質問・答弁要旨はPDF７頁を収録。原音照合と正式会議録は確認中。 公式録画の機械文字起こし一般質問11本を収録。"
+        "note": "議会だより第238号の原本５～11頁から、一般質問25人の74問答を収録。質問日を公式録画目録と照合。公式録画の機械文字起こしは一般質問12本。正式会議録と原音照合は確認中。"
       }
     },
     {
@@ -50033,7 +50171,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/council.html?year=2026&council_id=47",
-        "note": "公式録画一覧の一般質問11人のうち、7人の映像音声を機械文字起こしとして収録。正式会議録は確認中。 秋の補正予算書２点、町長への辞職勧告決議原文、決算審査を踏まえた予算提言書も収録。"
+        "note": "秋の正式会議録は2026年11月26日の年別目録で未確認。公式録画一覧で一般質問11人を確認し、機械文字起こし８本を収録。秋の補正予算書２点、辞職勧告決議原文、決算審査を踏まえた予算提言書も収録。"
       }
     },
     {
@@ -50060,7 +50198,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/council.html?year=2026&council_id=39",
-        "note": "公式録画一覧の一般質問12人のうち、6人の映像音声を機械文字起こしとして収録。正式会議録は確認中。議会だよりの質問・答弁要旨も収録。"
+        "note": "公式録画一覧で一般質問12人を確認し、機械文字起こし７本を収録。議会だよりの質問・答弁要旨も収録。正式会議録は確認中。"
       }
     },
     {
