@@ -487,7 +487,7 @@ for (const doc of questionDocs) {
   assert.ok(doc.title && doc.kind);
   assert.ok(["minutes", "fullQA", "summary", "recording", "notice"].includes(doc.scope));
   if (doc.scope === "notice") {
-    assert.ok(["一般質問通告（公式資料）", "議案質疑通告（公式資料・OCR）"].includes(doc.kind) && doc.note);
+    assert.ok(["一般質問通告（公式資料）", "議案質疑通告（公式資料・OCR）", "議案質疑・一般質問通告（公式資料）"].includes(doc.kind) && doc.note);
   }
   if (doc.scope === "recording") {
     assert.match(doc.kind, /機械文字起こし|公開自動字幕/);
