@@ -18381,3 +18381,761 @@ GIKAI.cases.push(...[
     "note": "調査を提案した事実、審議と採決を確認。個別の行為の有無や処分を認定する資料は確認していない。"
   }
 ]);
+
+GIKAI.cases.push(...[
+  {
+    "place": "蓮田市",
+    "title": "黒浜保育園の休園方針、再質問と転園支援の補正、附帯決議",
+    "topic": "子育て・公立保育",
+    "actors": [
+      "関根守男",
+      "諸根善昭",
+      "湯谷百合子",
+      "深田康孝",
+      "関根香織",
+      "中里幸一",
+      "高橋健一郎",
+      "蓮田市",
+      "蓮田市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-06-29",
+        "stage": "６月の一般質問で老朽化対策と建替えを確認",
+        "actor": "関根守男、蓮田市",
+        "detail": "関根議員が現園の老朽化対策と総合的な子育て支援施設への建替えを求めた。市は個別施設計画に基づき必要な対応を継続すると答弁。",
+        "url": "https://ssp.kaigiroku.net/tenant/hasuda/SpMinuteView.html?tenant_id=51&council_id=410&schedule_id=4",
+        "sourceTitle": "蓮田市議会・06月29日－一般質問－03号",
+        "archiveId": "028ecb25aeff9b51c939",
+        "blocks": [
+          35,
+          37,
+          39,
+          41,
+          47,
+          49
+        ],
+        "memberActions": [
+          {
+            "name": "関根守男",
+            "detail": "維持管理の方針を質し、新たな場所への建替えを要望した。",
+            "blocks": [
+              35,
+              39,
+              47
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-09-17",
+        "stage": "９月に休園の経緯と保育の継続を再質疑",
+        "actor": "諸根善昭、蓮田市",
+        "detail": "市は方針の経緯を説明し、休園に伴う移行の課題を議論。園の廃止に必要となる条例改正の認識も答弁した。",
+        "url": "https://ssp.kaigiroku.net/tenant/hasuda/SpMinuteView.html?tenant_id=51&council_id=413&schedule_id=4",
+        "sourceTitle": "蓮田市議会・09月17日－一般質問－03号",
+        "archiveId": "976835e7852354d9e1fa",
+        "blocks": [
+          404,
+          406,
+          408,
+          418,
+          493,
+          495,
+          497,
+          499
+        ],
+        "memberActions": [
+          {
+            "name": "諸根善昭",
+            "detail": "休園の必要性、保育環境の維持、園の存続と建替えについて質問した。",
+            "blocks": [
+              404,
+              408,
+              493,
+              497
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-10-01",
+        "stage": "転園に伴う物品購入補助を含む補正を可決",
+        "actor": "湯谷百合子、深田康孝、関根守男、諸根善昭、蓮田市議会",
+        "detail": "補正の民間保育園等補助146万8,000円。市は通園かばん・制服・スモックを補助対象として説明した。休園の経緯や支援の公平性に賛否の討論があった。",
+        "url": "https://ssp.kaigiroku.net/tenant/hasuda/SpMinuteView.html?tenant_id=51&council_id=413&schedule_id=7",
+        "sourceTitle": "蓮田市議会・蓮田市  令和　８年　　９月　定例会  10月01日－委員長報告・討論・採決－06号",
+        "archiveId": "67a328c940c27c22e71f",
+        "blocks": [
+          76,
+          89,
+          91,
+          107,
+          109,
+          111,
+          117,
+          118
+        ],
+        "billNumber": "議案第78号",
+        "memberActions": [
+          {
+            "name": "湯谷百合子",
+            "detail": "休園の経緯や市立園と転園先との違いを質し、補正に反対討論した。",
+            "blocks": [
+              76,
+              107
+            ]
+          },
+          {
+            "name": "深田康孝",
+            "detail": "補助対象物品と価格、別の園に転園する場合の公平性を質した。",
+            "blocks": [
+              89
+            ]
+          },
+          {
+            "name": "関根守男",
+            "detail": "休園方針の決め方を批判した上で、保護者の負担を軽減する補正に賛成討論した。",
+            "blocks": [
+              109
+            ]
+          },
+          {
+            "name": "諸根善昭",
+            "detail": "負担軽減の目的に触れた上で、休園方針を前提とする本案に反対した。",
+            "blocks": [
+              111
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-10-01",
+        "stage": "転園児童と保護者への公平な支援を求める附帯決議を提出",
+        "actor": "関根香織、中里幸一、高橋健一郎",
+        "detail": "児童・保護者の意見を聞き、新たな負担が生じる児童・保護者へ公平な予算執行を求めた。",
+        "url": "https://ssp.kaigiroku.net/tenant/hasuda/SpMinuteView.html?tenant_id=51&council_id=413&schedule_id=7",
+        "sourceTitle": "蓮田市議会・提出原文の朗読",
+        "memberActions": [
+          {
+            "name": "関根香織",
+            "detail": "児童・保護者の意見を聞き、新たな負担が生じる児童・保護者へ公平な予算執行を求めた。"
+          },
+          {
+            "name": "中里幸一",
+            "detail": "本会議で朗読された提出原文に共同提出者として記載。"
+          },
+          {
+            "name": "高橋健一郎",
+            "detail": "本会議で朗読された提出原文に共同提出者として記載。"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-01",
+        "stage": "附帯決議を可決",
+        "actor": "関根香織、蓮田市議会",
+        "detail": "起立総員で可決。公式表決の原表では４人の退席を記載。",
+        "url": "https://ssp.kaigiroku.net/tenant/hasuda/SpMinuteView.html?tenant_id=51&council_id=413&schedule_id=7",
+        "sourceTitle": "蓮田市議会・蓮田市  令和　８年　　９月　定例会  10月01日－委員長報告・討論・採決－06号",
+        "archiveId": "67a328c940c27c22e71f",
+        "blocks": [
+          126,
+          138,
+          139
+        ],
+        "billNumber": "議第4号議案",
+        "memberActions": [
+          {
+            "name": "関根香織",
+            "detail": "提出した附帯決議案を本会議で読み上げた。",
+            "blocks": [
+              126
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-11",
+        "stage": "市の施設案内で休園予定を確認",
+        "actor": "蓮田市",
+        "detail": "黒浜保育園は2027年４月１日から休園予定と市の施設一覧に表示。",
+        "url": "https://www.city.hasuda.saitama.jp/kodomo/kosodate/hoikuen/teiin.html",
+        "sourceTitle": "蓮田市・保育所等の案内"
+      }
+    ],
+    "note": "休園予定、転園負担の補正と附帯決議を確認。実際の転園・交付、代替の保育体制は確認待ち。"
+  },
+  {
+    "place": "蓮田市",
+    "title": "小学校給食費の負担軽減と中学校の食材費補助を確認",
+    "topic": "教育・子育て",
+    "actors": [
+      "関根香織",
+      "蓮田市",
+      "蓮田市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-09",
+        "stage": "小学校と中学校の給食費、給食の質について一般質問",
+        "actor": "関根香織、蓮田市",
+        "detail": "小学校は保護者からの徴収を行わずに始める方針。中学校は食品の質・量を維持するため、生徒１人当たり月380円の補助を予算に計上すると答弁。",
+        "url": "https://ssp.kaigiroku.net/tenant/hasuda/SpMinuteView.html?tenant_id=51&council_id=407&schedule_id=5",
+        "sourceTitle": "蓮田市議会・03月09日－一般質問－04号",
+        "archiveId": "afb4135bd17a21ea9ad3",
+        "blocks": [
+          45,
+          47,
+          58,
+          60,
+          62,
+          64,
+          66,
+          68,
+          78,
+          80,
+          82,
+          84
+        ],
+        "memberActions": [
+          {
+            "name": "関根香織",
+            "detail": "国支援の基準額を超える場合の保護者負担、給食を食べない児童への対応、中学校での補助と無償化を質した。",
+            "blocks": [
+              45,
+              58,
+              62,
+              66,
+              78,
+              82
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-03-17",
+        "stage": "2026年度一般会計予算を可決",
+        "actor": "蓮田市議会",
+        "detail": "議会は一般会計予算を可決。市の当初予算は給食業務経費を計上した。",
+        "url": "https://www.city.hasuda.saitama.jp/gikai/shise/shigikai/giketsukekka/h29/0803giketukekka.html",
+        "sourceTitle": "蓮田市議会・公式結果",
+        "billNumber": "議案第22号"
+      },
+      {
+        "date": "2026-04",
+        "stage": "市が年度予算で給食費の支援を案内",
+        "actor": "蓮田市",
+        "detail": "市報の予算特集は小学校給食費の全額補助と、中学校の給食食材購入費の一部補助を掲載。",
+        "url": "https://www.city.hasuda.saitama.jp/koho/shise/koho/hasuda/pdf/r8/documents/0804all.pdf",
+        "sourceTitle": "広報はすだ４月号・予算特集"
+      }
+    ],
+    "note": "議決・市の事業案内を確認。中学校給食費の全面無償化、年度内の支出実績は確認待ち。"
+  },
+  {
+    "place": "蓮田市",
+    "title": "市議会の議員定数を20人から18人へ、提案・討論と次回選挙適用",
+    "topic": "議会運営・定数",
+    "actors": [
+      "関根香織",
+      "菊池義人",
+      "齋藤齊",
+      "中里幸一",
+      "近藤純枝",
+      "豊嶋遥",
+      "高橋健一郎",
+      "勝浦敦",
+      "関根守男",
+      "榎本菜保",
+      "諸根善昭",
+      "深田康孝",
+      "齋藤昌司",
+      "秦邦雄",
+      "蓮田市",
+      "蓮田市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-07-08",
+        "stage": "20人から18人とする条例案を提出",
+        "actor": "関根香織、菊池義人、齋藤齊、中里幸一、近藤純枝、豊嶋遥、高橋健一郎、勝浦敦、関根守男",
+        "detail": "定数を20人から18人に改め、施行後初めて告示される一般選挙から適用する条例案を提出した。",
+        "url": "https://ssp.kaigiroku.net/tenant/hasuda/SpMinuteView.html?tenant_id=51&council_id=410&schedule_id=7",
+        "sourceTitle": "蓮田市議会・提出原文の朗読",
+        "memberActions": [
+          {
+            "name": "関根香織",
+            "detail": "定数を20人から18人に改め、施行後初めて告示される一般選挙から適用する条例案を提出した。"
+          },
+          {
+            "name": "菊池義人",
+            "detail": "本会議で朗読された提出原文に共同提出者として記載。"
+          },
+          {
+            "name": "齋藤齊",
+            "detail": "本会議で朗読された提出原文に共同提出者として記載。"
+          },
+          {
+            "name": "中里幸一",
+            "detail": "本会議で朗読された提出原文に共同提出者として記載。"
+          },
+          {
+            "name": "近藤純枝",
+            "detail": "本会議で朗読された提出原文に共同提出者として記載。"
+          },
+          {
+            "name": "豊嶋遥",
+            "detail": "本会議で朗読された提出原文に共同提出者として記載。"
+          },
+          {
+            "name": "高橋健一郎",
+            "detail": "本会議で朗読された提出原文に共同提出者として記載。"
+          },
+          {
+            "name": "勝浦敦",
+            "detail": "本会議で朗読された提出原文に共同提出者として記載。"
+          },
+          {
+            "name": "関根守男",
+            "detail": "本会議で朗読された提出原文に共同提出者として記載。"
+          }
+        ]
+      },
+      {
+        "date": "2026-07-08",
+        "stage": "定数改正案を質疑・討論して可決",
+        "actor": "関根香織、榎本菜保、諸根善昭、深田康孝、齋藤昌司、秦邦雄、蓮田市議会",
+        "detail": "市民の意見の扱い、議員１人当たり人口、少数の住民の意見や新たな立候補への影響を議論。本会議で賛成多数により可決。",
+        "url": "https://ssp.kaigiroku.net/tenant/hasuda/SpMinuteView.html?tenant_id=51&council_id=410&schedule_id=7",
+        "sourceTitle": "蓮田市議会・蓮田市  令和　８年　　６月　定例会  07月08日－委員長報告・討論・採決－06号",
+        "archiveId": "2cddfb59f42830c87cf6",
+        "blocks": [
+          66,
+          71,
+          73,
+          75,
+          83,
+          85,
+          105,
+          107,
+          109,
+          113,
+          114
+        ],
+        "billNumber": "議第3号議案",
+        "memberActions": [
+          {
+            "name": "関根香織",
+            "detail": "提出案を朗読し、議会での検討と議員有志のアンケートに関する質疑に答えた。",
+            "blocks": [
+              66,
+              73,
+              85
+            ]
+          },
+          {
+            "name": "榎本菜保",
+            "detail": "市民の意見の把握方法と人数を減らす根拠を質した。",
+            "blocks": [
+              71,
+              75
+            ]
+          },
+          {
+            "name": "諸根善昭",
+            "detail": "立候補や少数の住民の意見に与える影響を質した。",
+            "blocks": [
+              83
+            ]
+          },
+          {
+            "name": "深田康孝",
+            "detail": "必要性や市民への説明について指摘し、反対討論した。",
+            "blocks": [
+              105
+            ]
+          },
+          {
+            "name": "齋藤昌司",
+            "detail": "市の定数の推移に触れ、改正案に賛成討論した。",
+            "blocks": [
+              107
+            ]
+          },
+          {
+            "name": "秦邦雄",
+            "detail": "条例による議員定数の決定に言及し、賛成討論した。",
+            "blocks": [
+              109
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-08",
+        "stage": "議会だよりが次回一般選挙からの適用を掲載",
+        "actor": "蓮田市議会",
+        "detail": "第138号は次回一般選挙から定数18人と記載した。",
+        "url": "https://www.city.hasuda.saitama.jp/gikai/shise/shigikai/dayori/documents/138-all.pdf",
+        "sourceTitle": "はすだ市議会だより第138号・表紙"
+      },
+      {
+        "date": "2026-11-17",
+        "stage": "当期の定数と現員数を公式名簿で確認",
+        "actor": "蓮田市議会",
+        "detail": "現職の定数は20人、現員19人。定数変更は次回一般選挙からの適用。",
+        "url": "https://www.city.hasuda.saitama.jp/gikai/shise/shigikai/ginmebo/giinmeibo3103.html",
+        "sourceTitle": "蓮田市議会・現職の公式名簿"
+      }
+    ],
+    "note": "条例可決と適用時期を確認。次回一般選挙は確認待ち。"
+  },
+  {
+    "place": "蓮田市",
+    "title": "公共下水道使用料の見直し、審議会答申から条例可決と新料金の案内",
+    "topic": "下水道・使用料",
+    "actors": [
+      "湯谷百合子",
+      "榎本菜保",
+      "山田孝夫",
+      "関根守男",
+      "蓮田市",
+      "蓮田市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-18",
+        "stage": "上下水道事業審議会が改定について答申",
+        "actor": "蓮田市",
+        "detail": "使用料の見直しについて審議会会長が市長に答申書を提出。",
+        "url": "https://www.city.hasuda.saitama.jp/gesui/singikaitousin.html",
+        "sourceTitle": "蓮田市・下水道使用料改定の答申"
+      },
+      {
+        "date": "2026-10-01",
+        "stage": "使用料改正を討論し条例案を可決",
+        "actor": "湯谷百合子、榎本菜保、山田孝夫、関根守男、蓮田市議会",
+        "detail": "委員長の審査報告を経て、利用者負担や経営の持続性を論点に賛否を討論。条例案は賛成多数で可決。",
+        "url": "https://ssp.kaigiroku.net/tenant/hasuda/SpMinuteView.html?tenant_id=51&council_id=413&schedule_id=7",
+        "sourceTitle": "蓮田市議会・蓮田市  令和　８年　　９月　定例会  10月01日－委員長報告・討論・採決－06号",
+        "archiveId": "67a328c940c27c22e71f",
+        "blocks": [
+          16,
+          24,
+          26,
+          28,
+          37,
+          38
+        ],
+        "billNumber": "議案第61号",
+        "memberActions": [
+          {
+            "name": "湯谷百合子",
+            "detail": "建設経済委員長として、利用者負担や改定内容の審査を報告した。",
+            "blocks": [
+              16
+            ]
+          },
+          {
+            "name": "榎本菜保",
+            "detail": "使用料条例と関連補正予算に反対討論した。",
+            "blocks": [
+              24
+            ]
+          },
+          {
+            "name": "山田孝夫",
+            "detail": "使用料条例改正案に賛成討論した。",
+            "blocks": [
+              26
+            ]
+          },
+          {
+            "name": "関根守男",
+            "detail": "使用料条例改正案に賛成討論した。",
+            "blocks": [
+              28
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-10-02",
+        "stage": "市が新料金と2027年４月の適用を案内",
+        "actor": "蓮田市",
+        "detail": "市は2027年４月１日からの改定と、審議会答申や全員協議会への報告を含む経緯を公表。",
+        "url": "https://www.city.hasuda.saitama.jp/gesui/machi/suido/gesuido/shiyouryoukaiteir9.html",
+        "sourceTitle": "蓮田市・下水道使用料の改定案内"
+      }
+    ],
+    "note": "答申、条例議決と市の利用者向け案内を確認。実際の新料金の適用は2027年４月予定。"
+  },
+  {
+    "place": "蓮田市",
+    "title": "非核三原則の堅持を求める意見書、議員の共同提出から国への送付",
+    "topic": "意見書・議会",
+    "actors": [
+      "関根守男",
+      "高橋健一郎",
+      "秦邦雄",
+      "榎本菜保",
+      "中里幸一",
+      "木佐木照男",
+      "蓮田市",
+      "蓮田市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-07-08",
+        "stage": "非核三原則の堅持を求める意見書案を提出",
+        "actor": "関根守男、高橋健一郎、秦邦雄、榎本菜保、中里幸一",
+        "detail": "非核三原則を堅持するよう国に求める意見書を共同提出した。",
+        "url": "https://ssp.kaigiroku.net/tenant/hasuda/SpMinuteView.html?tenant_id=51&council_id=410&schedule_id=7",
+        "sourceTitle": "蓮田市議会・提出原文の朗読",
+        "memberActions": [
+          {
+            "name": "関根守男",
+            "detail": "非核三原則を堅持するよう国に求める意見書を共同提出した。"
+          },
+          {
+            "name": "高橋健一郎",
+            "detail": "本会議で朗読された提出原文に共同提出者として記載。"
+          },
+          {
+            "name": "秦邦雄",
+            "detail": "本会議で朗読された提出原文に共同提出者として記載。"
+          },
+          {
+            "name": "榎本菜保",
+            "detail": "本会議で朗読された提出原文に共同提出者として記載。"
+          },
+          {
+            "name": "中里幸一",
+            "detail": "本会議で朗読された提出原文に共同提出者として記載。"
+          }
+        ]
+      },
+      {
+        "date": "2026-07-08",
+        "stage": "意見書を本会議で可決",
+        "actor": "関根守男、蓮田市議会",
+        "detail": "提出者が案文を説明し、起立総員で原案可決。",
+        "url": "https://ssp.kaigiroku.net/tenant/hasuda/SpMinuteView.html?tenant_id=51&council_id=410&schedule_id=7",
+        "sourceTitle": "蓮田市議会・蓮田市  令和　８年　　６月　定例会  07月08日－委員長報告・討論・採決－06号",
+        "archiveId": "2cddfb59f42830c87cf6",
+        "blocks": [
+          64,
+          112,
+          113,
+          114
+        ],
+        "billNumber": "議第2号議案",
+        "memberActions": [
+          {
+            "name": "関根守男",
+            "detail": "共同提出した意見書の案文を読み上げた。",
+            "blocks": [
+              64
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-08-28",
+        "stage": "議長が関係行政庁等への提出済みを報告",
+        "actor": "木佐木照男、蓮田市議会",
+        "detail": "衆参両院議長、内閣総理大臣をはじめとする関係行政庁へ提出したと報告。",
+        "url": "https://ssp.kaigiroku.net/tenant/hasuda/SpMinuteView.html?tenant_id=51&council_id=413&schedule_id=2",
+        "sourceTitle": "蓮田市議会・蓮田市  令和　８年　　９月　定例会  08月28日－議案説明－01号",
+        "archiveId": "b3b01629bf1c2fd62a3a",
+        "blocks": [
+          12
+        ],
+        "memberActions": [
+          {
+            "name": "木佐木照男",
+            "detail": "可決した意見書の提出済みを本会議で報告した。",
+            "blocks": [
+              12
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "提出、議決、議長による提出済み報告を確認。国の対応は確認待ち。"
+  },
+  {
+    "place": "蓮田市",
+    "title": "国民健康保険税の改定、賛否の討論と新年度の保険税率",
+    "topic": "国民健康保険・税",
+    "actors": [
+      "榎本菜保",
+      "関根守男",
+      "蓮田市",
+      "蓮田市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-17",
+        "stage": "国保税条例改正を賛否の討論後に可決",
+        "actor": "榎本菜保、関根守男、蓮田市議会",
+        "detail": "県内税水準への段階的対応や被保険者の負担を議論。本会議は賛成多数で可決。",
+        "url": "https://ssp.kaigiroku.net/tenant/hasuda/SpMinuteView.html?tenant_id=51&council_id=407&schedule_id=7",
+        "sourceTitle": "蓮田市議会・蓮田市  令和　８年　　３月　定例会  03月17日－委員長報告・討論・採決－06号",
+        "archiveId": "755b297acf1cfc1714b9",
+        "blocks": [
+          24,
+          26,
+          38,
+          39
+        ],
+        "billNumber": "議案第16号",
+        "memberActions": [
+          {
+            "name": "榎本菜保",
+            "detail": "税負担の増加に触れ、国保税条例改正に反対討論した。",
+            "blocks": [
+              24
+            ]
+          },
+          {
+            "name": "関根守男",
+            "detail": "税率の段階的な見直しと制度の変更を説明し、賛成討論した。",
+            "blocks": [
+              26
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-06",
+        "stage": "市が2026年度の税率変更と納税通知の予定を案内",
+        "actor": "蓮田市",
+        "detail": "市の広報６月号が税率・課税限度額変更と、７月中旬の納税通知書発送予定を掲載。",
+        "url": "https://www.city.hasuda.saitama.jp/koho/shise/koho/hasuda/text/202606/0806osrsmnsi.html",
+        "sourceTitle": "広報はすだ６月号・国民健康保険"
+      }
+    ],
+    "note": "税率改定の議決と公表を確認。個別の賦課額は加入区分と世帯状況ごとに決まる。"
+  },
+  {
+    "place": "蓮田市",
+    "title": "議会手続のオンライン化に対応する会議規則の改正",
+    "topic": "議会運営・会議規則",
+    "actors": [
+      "榎本菜保",
+      "高橋健一郎",
+      "秦邦雄",
+      "中里幸一",
+      "関根香織",
+      "蓮田市",
+      "蓮田市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-03-17",
+        "stage": "オンライン手続に関する会議規則改正を共同提出",
+        "actor": "榎本菜保、高橋健一郎、秦邦雄、中里幸一、関根香織",
+        "detail": "会議規則の字句や運用を整理し、各手続のオンライン化に対応する規定を設ける規則案を共同提出。",
+        "url": "https://ssp.kaigiroku.net/tenant/hasuda/SpMinuteView.html?tenant_id=51&council_id=407&schedule_id=7",
+        "sourceTitle": "蓮田市議会・提出原文の朗読",
+        "memberActions": [
+          {
+            "name": "榎本菜保",
+            "detail": "会議規則の字句や運用を整理し、各手続のオンライン化に対応する規定を設ける規則案を共同提出。"
+          },
+          {
+            "name": "高橋健一郎",
+            "detail": "本会議で朗読された提出原文に共同提出者として記載。"
+          },
+          {
+            "name": "秦邦雄",
+            "detail": "本会議で朗読された提出原文に共同提出者として記載。"
+          },
+          {
+            "name": "中里幸一",
+            "detail": "本会議で朗読された提出原文に共同提出者として記載。"
+          },
+          {
+            "name": "関根香織",
+            "detail": "本会議で朗読された提出原文に共同提出者として記載。"
+          }
+        ]
+      },
+      {
+        "date": "2026-03-17",
+        "stage": "委員会付託を省略し規則改正を可決",
+        "actor": "榎本菜保、蓮田市議会",
+        "detail": "条例・規則案の説明後、会議規則改正を起立総員で可決。案文では４月１日施行。",
+        "url": "https://ssp.kaigiroku.net/tenant/hasuda/SpMinuteView.html?tenant_id=51&council_id=407&schedule_id=7",
+        "sourceTitle": "蓮田市議会・蓮田市  令和　８年　　３月　定例会  03月17日－委員長報告・討論・採決－06号",
+        "archiveId": "755b297acf1cfc1714b9",
+        "blocks": [
+          57,
+          63,
+          64,
+          69,
+          70
+        ],
+        "billNumber": "議第1号議案",
+        "memberActions": [
+          {
+            "name": "榎本菜保",
+            "detail": "共同提出者を代表して改正内容と施行日を説明した。",
+            "blocks": [
+              57
+            ]
+          }
+        ]
+      }
+    ],
+    "note": "規則改正の議決を確認。対象手続の稼働開始や利用実績は確認待ち。"
+  },
+  {
+    "place": "蓮田市",
+    "title": "物価高対策として水道基本料金等の減額を延長",
+    "topic": "物価高・水道",
+    "actors": [
+      "秦邦雄",
+      "蓮田市",
+      "蓮田市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-02-24",
+        "stage": "物価高支援の内容と時期を質疑して補正を可決",
+        "actor": "秦邦雄、蓮田市",
+        "detail": "市は商品券事業と水道基本料金の減額措置等を説明。一般会計補正を賛成多数で可決。",
+        "url": "https://ssp.kaigiroku.net/tenant/hasuda/SpMinuteView.html?tenant_id=51&council_id=407&schedule_id=3",
+        "sourceTitle": "蓮田市議会・蓮田市  令和　８年　　３月　定例会  02月24日－議案質疑－02号",
+        "archiveId": "2614440c903b634abfa5",
+        "blocks": [
+          38,
+          40,
+          69,
+          70
+        ],
+        "billNumber": "議案第6号",
+        "memberActions": [
+          {
+            "name": "秦邦雄",
+            "detail": "物価高支援のうち、商品券の選定理由や事業時期について再質疑した。",
+            "blocks": [
+              38
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-04",
+        "stage": "水道料金の減額を４月検針分以降にも延長",
+        "actor": "蓮田市",
+        "detail": "市は基本料金とメーター使用料の全額免除を、２～３月検針分に加えて４～11月検針分にも実施すると案内した。",
+        "url": "https://www.city.hasuda.saitama.jp/suido/machi/suidou/suidouryoukinngenngaku.html",
+        "sourceTitle": "蓮田市・水道料金の減額案内"
+      }
+    ],
+    "note": "補正と実施時期を確認。減額額の総計と家計への影響は確認待ち。"
+  }
+]);

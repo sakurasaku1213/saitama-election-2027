@@ -38925,6 +38925,42 @@ GIKAI.questionText = {
       "speakers": []
     },
     {
+      "id": "6bfa7bbd1598e23c330f",
+      "place": "蓮田市",
+      "season": "spring",
+      "date": "2026-02-17",
+      "title": "令和 ８年 ３月 定例会 02月17日－目次",
+      "kind": "公式会議録の付録（HTML）",
+      "scope": "summary",
+      "url": "https://ssp.kaigiroku.net/tenant/hasuda/SpMinuteView.html?tenant_id=51&council_id=407&schedule_id=1",
+      "note": "市の会議録目録に掲載された付録。表示日は対象会期の開会日または閉会日。",
+      "speakers": []
+    },
+    {
+      "id": "1279abedb3ee54727601",
+      "place": "蓮田市",
+      "season": "spring",
+      "date": "2026-02-17",
+      "title": "令和 ８年 ３月定例会 一般質問 一般質問通告書",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "url": "https://ssp.kaigiroku.net/tenant/hasuda/SpMinuteView.html?tenant_id=51&council_id=408&schedule_id=1",
+      "note": "市議会の公式通告。表示日は対象会期の初日。発言の実施と答弁は日別会議録で確認できます。",
+      "speakers": []
+    },
+    {
+      "id": "a2589bee9e298b4da331",
+      "place": "蓮田市",
+      "season": "spring",
+      "date": "2026-02-17",
+      "title": "令和8年3月定例会 一般質問通告（公式PDF）",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "url": "https://www.city.hasuda.saitama.jp/gikai/shise/shigikai/ippanshitsumon/documents/0803ippansitumon.pdf",
+      "note": "市議会の公式通告。表示日は対象会期の初日。",
+      "speakers": []
+    },
+    {
       "id": "a7ba15c96e14a07efd6f",
       "place": "蓮田市",
       "season": "spring",
@@ -38945,7 +38981,9 @@ GIKAI.questionText = {
       "url": "https://ssp.kaigiroku.net/tenant/hasuda/SpMinuteView.html?tenant_id=51&council_id=407&schedule_id=3",
       "kind": "公式会議録（HTML）",
       "scope": "minutes",
-      "speakers": [],
+      "speakers": [
+        "秦邦雄"
+      ],
       "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
     },
     {
@@ -39078,6 +39116,18 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "9d82262b3123e550f33b",
+      "place": "蓮田市",
+      "season": "spring",
+      "date": "2026-03-17",
+      "title": "令和 ８年 ３月定例会 議案等の処理結果 議案処理結果",
+      "kind": "公式会議録の付録（HTML）",
+      "scope": "summary",
+      "url": "https://ssp.kaigiroku.net/tenant/hasuda/SpMinuteView.html?tenant_id=51&council_id=409&schedule_id=1",
+      "note": "市の会議録目録に掲載された付録。表示日は対象会期の開会日または閉会日。",
+      "speakers": []
+    },
+    {
       "id": "755b297acf1cfc1714b9",
       "place": "蓮田市",
       "season": "spring",
@@ -39086,8 +39136,59 @@ GIKAI.questionText = {
       "url": "https://ssp.kaigiroku.net/tenant/hasuda/SpMinuteView.html?tenant_id=51&council_id=407&schedule_id=7",
       "kind": "公式会議録（HTML）",
       "scope": "minutes",
-      "speakers": [],
+      "speakers": [
+        "榎本菜保",
+        "関根守男"
+      ],
       "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
+    },
+    {
+      "id": "36e3cdcc351cb0ae9f8e",
+      "place": "蓮田市",
+      "season": "spring",
+      "date": "2026-05",
+      "title": "はすだ市議会だより第137号",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "url": "https://www.city.hasuda.saitama.jp/gikai/shise/shigikai/dayori/documents/0803sigikaidayori.pdf",
+      "note": "公式紙面の全頁のOCRを収録。 原画像との照合候補頁 15、16。該当頁の固有名詞・数値等は原紙面を確認。",
+      "speakers": []
+    },
+    {
+      "id": "61c3140c8206f0cf1333",
+      "place": "蓮田市",
+      "season": "summer",
+      "date": "2026-06-16",
+      "title": "令和 ８年 ６月 定例会 06月16日－目次",
+      "kind": "公式会議録の付録（HTML）",
+      "scope": "summary",
+      "url": "https://ssp.kaigiroku.net/tenant/hasuda/SpMinuteView.html?tenant_id=51&council_id=410&schedule_id=1",
+      "note": "市の会議録目録に掲載された付録。表示日は対象会期の開会日または閉会日。",
+      "speakers": []
+    },
+    {
+      "id": "f9aae77b44058f419649",
+      "place": "蓮田市",
+      "season": "summer",
+      "date": "2026-06-16",
+      "title": "令和 ８年 ６月定例会 一般質問 一般質問通告書",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "url": "https://ssp.kaigiroku.net/tenant/hasuda/SpMinuteView.html?tenant_id=51&council_id=411&schedule_id=1",
+      "note": "市議会の公式通告。表示日は対象会期の初日。発言の実施と答弁は日別会議録で確認できます。",
+      "speakers": []
+    },
+    {
+      "id": "c3522243cb0bc5d20ff7",
+      "place": "蓮田市",
+      "season": "summer",
+      "date": "2026-06-16",
+      "title": "令和8年6月定例会 一般質問通告（公式PDF）",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "url": "https://www.city.hasuda.saitama.jp/gikai/shise/shigikai/ippanshitsumon/documents/0806ippansitumon_1.pdf",
+      "note": "市議会の公式通告。表示日は対象会期の初日。",
+      "speakers": []
     },
     {
       "id": "77424a3b2046f5fdc20b",
@@ -39207,6 +39308,18 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "c8a0eece5f212023345f",
+      "place": "蓮田市",
+      "season": "summer",
+      "date": "2026-07-08",
+      "title": "令和 ８年 ６月定例会 議案等の処理結果 議案処理結果",
+      "kind": "公式会議録の付録（HTML）",
+      "scope": "summary",
+      "url": "https://ssp.kaigiroku.net/tenant/hasuda/SpMinuteView.html?tenant_id=51&council_id=412&schedule_id=1",
+      "note": "市の会議録目録に掲載された付録。表示日は対象会期の開会日または閉会日。",
+      "speakers": []
+    },
+    {
       "id": "2cddfb59f42830c87cf6",
       "place": "蓮田市",
       "season": "summer",
@@ -39215,8 +39328,64 @@ GIKAI.questionText = {
       "url": "https://ssp.kaigiroku.net/tenant/hasuda/SpMinuteView.html?tenant_id=51&council_id=410&schedule_id=7",
       "kind": "公式会議録（HTML）",
       "scope": "minutes",
-      "speakers": [],
+      "speakers": [
+        "榎本菜保",
+        "深田康孝",
+        "秦邦雄",
+        "諸根善昭",
+        "関根守男",
+        "関根香織",
+        "齋藤昌司"
+      ],
       "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
+    },
+    {
+      "id": "503fcb912dbe01c247aa",
+      "place": "蓮田市",
+      "season": "summer",
+      "date": "2026-08",
+      "title": "はすだ市議会だより第138号",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "url": "https://www.city.hasuda.saitama.jp/gikai/shise/shigikai/dayori/documents/138-all.pdf",
+      "note": "公式紙面の全頁のOCRを収録。 原画像との照合候補頁 13、16。該当頁の固有名詞・数値等は原紙面を確認。",
+      "speakers": []
+    },
+    {
+      "id": "2aa2cfcc3b963de79a0d",
+      "place": "蓮田市",
+      "season": "fall",
+      "date": "2026-08-28",
+      "title": "令和 ８年 ９月 定例会 08月28日－目次",
+      "kind": "公式会議録の付録（HTML）",
+      "scope": "summary",
+      "url": "https://ssp.kaigiroku.net/tenant/hasuda/SpMinuteView.html?tenant_id=51&council_id=413&schedule_id=1",
+      "note": "市の会議録目録に掲載された付録。表示日は対象会期の開会日または閉会日。",
+      "speakers": []
+    },
+    {
+      "id": "6d807ec1008c1ef62db0",
+      "place": "蓮田市",
+      "season": "fall",
+      "date": "2026-08-28",
+      "title": "令和 ８年 ９月定例会 一般質問 一般質問通告書",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "url": "https://ssp.kaigiroku.net/tenant/hasuda/SpMinuteView.html?tenant_id=51&council_id=414&schedule_id=1",
+      "note": "市議会の公式通告。表示日は対象会期の初日。発言の実施と答弁は日別会議録で確認できます。",
+      "speakers": []
+    },
+    {
+      "id": "c00fce5bf1fda72a3aa0",
+      "place": "蓮田市",
+      "season": "fall",
+      "date": "2026-08-28",
+      "title": "令和8年9月定例会 一般質問通告（公式PDF）",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "url": "https://www.city.hasuda.saitama.jp/gikai/shise/shigikai/ippanshitsumon/documents/0809ippansitumon.pdf",
+      "note": "市議会の公式通告。表示日は対象会期の初日。",
+      "speakers": []
     },
     {
       "id": "b3b01629bf1c2fd62a3a",
@@ -39227,7 +39396,9 @@ GIKAI.questionText = {
       "url": "https://ssp.kaigiroku.net/tenant/hasuda/SpMinuteView.html?tenant_id=51&council_id=413&schedule_id=2",
       "kind": "公式会議録（HTML）",
       "scope": "minutes",
-      "speakers": [],
+      "speakers": [
+        "木佐木照男"
+      ],
       "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
     },
     {
@@ -39313,6 +39484,18 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "53e8b413d35b5a7c75e0",
+      "place": "蓮田市",
+      "season": "fall",
+      "date": "2026-10-01",
+      "title": "令和 ８年 ９月定例会 議案等の処理結果 議案処理結果",
+      "kind": "公式会議録の付録（HTML）",
+      "scope": "summary",
+      "url": "https://ssp.kaigiroku.net/tenant/hasuda/SpMinuteView.html?tenant_id=51&council_id=415&schedule_id=1",
+      "note": "市の会議録目録に掲載された付録。表示日は対象会期の開会日または閉会日。",
+      "speakers": []
+    },
+    {
       "id": "67a328c940c27c22e71f",
       "place": "蓮田市",
       "season": "fall",
@@ -39321,8 +39504,28 @@ GIKAI.questionText = {
       "url": "https://ssp.kaigiroku.net/tenant/hasuda/SpMinuteView.html?tenant_id=51&council_id=413&schedule_id=7",
       "kind": "公式会議録（HTML）",
       "scope": "minutes",
-      "speakers": [],
+      "speakers": [
+        "山田孝夫",
+        "榎本菜保",
+        "深田康孝",
+        "湯谷百合子",
+        "諸根善昭",
+        "関根守男",
+        "関根香織"
+      ],
       "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
+    },
+    {
+      "id": "20c565093421eef179ee",
+      "place": "蓮田市",
+      "season": "fall",
+      "date": "2026-11",
+      "title": "はすだ市議会だより第139号",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "url": "https://www.city.hasuda.saitama.jp/gikai/shise/shigikai/dayori/documents/0809sigikaidayori.pdf",
+      "note": "公式紙面の全頁のOCRを収録。 原画像との照合候補頁 18。該当頁の固有名詞・数値等は原紙面を確認。",
+      "speakers": []
     },
     {
       "id": "8a19a62b616df446038e",
@@ -44502,7 +44705,7 @@ GIKAI.questionText = {
       "season": "spring",
       "material": {
         "state": "verified",
-        "note": "公式目次と照合した本会議の日別会議録6資料を収録。公式一覧の委員会6資料も収録。",
+        "note": "現行の公式本会議録６日分、委員会６日分、目次等の付録、公式通告と議会だより第137号を収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/hasuda/SpMinuteBrowse.html?tenant_id=51&view_years=2026"
       }
     },
@@ -44511,7 +44714,7 @@ GIKAI.questionText = {
       "season": "summer",
       "material": {
         "state": "verified",
-        "note": "公式目次と照合した本会議の日別会議録6資料を収録。公式一覧の委員会3資料も収録。",
+        "note": "現行の公式本会議録６日分、委員会３日分、目次等の付録、公式通告と議会だより第138号を収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/hasuda/SpMinuteBrowse.html?tenant_id=51&view_years=2026"
       }
     },
@@ -44520,7 +44723,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "verified",
-        "note": "公式目次と照合した本会議の日別会議録6資料を収録。",
+        "note": "現行の公式本会議録６日分、委員長報告の掲載がある本会議録に加え、目次等の付録、公式通告と議会だより第139号を収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/hasuda/SpMinuteBrowse.html?tenant_id=51&view_years=2026"
       }
     },
