@@ -27545,7 +27545,7 @@ GIKAI.questionText = {
       "title": "令和8年9月定例会 請願の審査結果（県議会時報）",
       "kind": "請願審査結果（公式PDF・照合要約）",
       "scope": "supporting",
-      "note": "県議会時報第302号50頁の集計表と請願別表を原本で照合。表示日は本会議での採決日。",
+      "note": "県議会時報第302号50頁の集計表と請願別表を原本で照合。表示日は本会議での採決日。 末尾にこの分冊の公式PDFの全頁を追加。冒頭の照合要約は該当箇所への参照として維持。",
       "speakers": []
     },
     {
@@ -27557,7 +27557,7 @@ GIKAI.questionText = {
       "title": "令和8年9月定例会の経過（県議会時報の請願関係）",
       "kind": "議事概要（公式PDF・照合要約）",
       "scope": "supporting",
-      "note": "県議会時報第302号７～８頁の請願関係箇所を原本で照合。表示日は本会議での採決日。",
+      "note": "県議会時報第302号７～８頁の請願関係箇所を原本で照合。表示日は本会議での採決日。 末尾にこの分冊の公式PDFの全頁を追加。冒頭の照合要約は該当箇所への参照として維持。",
       "speakers": []
     },
     {
@@ -41379,7 +41379,7 @@ GIKAI.questionText = {
       "kind": "会議・政策の関連資料（公式PDF・OCR）",
       "scope": "supporting",
       "url": "https://www.vill.higashichichibu.saitama.jp/uploaded/attachment/6427.pdf",
-      "note": "表示は村議会の議決日。16・17頁の学校教育共通経費の減額は原画像と照合。 文字層・OCRから頁順に転記。図表は原PDFで確認できます。 19～23頁を原PDFの文字層から追加。PDF 1・11～12頁も原PDFの文字層から追加。PDF 3～8頁の文字層とOCRを追加。収支合計、債務負担行為の限度額などは原画像を照合。PDF 2・9～10・13～15・18頁は文字・表の確認中。",
+      "note": "表示は村議会の議決日。16・17頁の学校教育共通経費の減額は原画像と照合。 文字層・OCRから頁順に転記。図表は原PDFで確認できます。 19～23頁を原PDFの文字層から追加。PDF 1・11～12頁も原PDFの文字層から追加。PDF 3～8頁の文字層とOCRを追加。収支合計、債務負担行為の限度額などは原画像を照合。PDF 9～10・13～15・18頁は文字・表の確認中。 原画像を照合し、物理２頁には文字・表がないことを確認。",
       "speakers": []
     },
     {
@@ -41391,7 +41391,7 @@ GIKAI.questionText = {
       "kind": "会議・政策の関連資料（公式PDF・OCR）",
       "scope": "supporting",
       "url": "https://www.vill.higashichichibu.saitama.jp/uploaded/attachment/6429.pdf",
-      "note": "表示は村議会の議決日。 文字層・OCRから頁順に転記。図表は原PDFで確認できます。 PDF 2・4～8頁は文字・表の確認中。",
+      "note": "表示は村議会の議決日。 文字層・OCRから頁順に転記。図表は原PDFで確認できます。 PDF 4～8頁は文字・表の確認中。 原画像を照合し、物理２頁には文字・表がないことを確認。",
       "speakers": []
     },
     {
@@ -41403,7 +41403,7 @@ GIKAI.questionText = {
       "kind": "会議・政策の関連資料（公式PDF・OCR）",
       "scope": "supporting",
       "url": "https://www.vill.higashichichibu.saitama.jp/uploaded/attachment/6428.pdf",
-      "note": "表示は村議会の議決日。 文字層・OCRから頁順に転記。図表は原PDFで確認できます。 PDF 2・5～7頁は文字・表の確認中。",
+      "note": "表示は村議会の議決日。 文字層・OCRから頁順に転記。図表は原PDFで確認できます。 PDF 5～7頁は文字・表の確認中。 原画像を照合し、物理２頁には文字・表がないことを確認。",
       "speakers": []
     },
     {
@@ -41415,7 +41415,7 @@ GIKAI.questionText = {
       "kind": "会議・政策の関連資料（公式PDF・OCR）",
       "scope": "supporting",
       "url": "https://www.vill.higashichichibu.saitama.jp/uploaded/attachment/6426.pdf",
-      "note": "表示は村議会の議決日。 文字層・OCRから頁順に転記。図表は原PDFで確認できます。 PDF 2・4～6頁は文字・表の確認中。",
+      "note": "表示は村議会の議決日。 文字層・OCRから頁順に転記。図表は原PDFで確認できます。 PDF 4～6頁は文字・表の確認中。 原画像を照合し、物理２頁には文字・表がないことを確認。",
       "speakers": []
     },
     {
@@ -54916,7 +54916,7 @@ GIKAI.questionText = {
       "kind": "会議・政策の関連資料（公式PDF・OCR）",
       "scope": "supporting",
       "url": "https://www.city.warabi.saitama.jp/_res/projects/default_project/_page_/001/012/672/r8.9hosei.pdf",
-      "note": "日付は５補正予算議案の議決日。 原本の頁順で文字層・OCRを収録。 PDF 1～2・4～6・10～11・14～19・22～23・26～27・29～31・34～36・38・40～41・44・47～49・52～53・56～57頁は数値・表の並びを確認中。原PDFへのリンクを掲載。",
+      "note": "日付は５補正予算議案の議決日。 原本の頁順で文字層・OCRを収録。 PDF 1・4～6・10～11・14～19・22～23・26～27・29～31・34～36・38・40～41・44・47～49・52～53・56～57頁は数値・表の並びを確認中。原PDFへのリンクを掲載。 原画像を照合し、物理２頁には文字・表がないことを確認。",
       "speakers": []
     },
     {
@@ -55284,6 +55284,198 @@ GIKAI.questionText = {
       "speakers": [
         "佐藤将行"
       ]
+    },
+    {
+      "id": "305ef0d42c43b8d316db",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-11-25",
+      "title": "埼玉県議会時報第302号・表紙",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/290282/302_000_hyoushi.pdf",
+      "note": "日付は県議会時報の発行日。県公表の分冊PDFの頁順で文字層を収録。",
+      "speakers": []
+    },
+    {
+      "id": "0398a19da6fae2a404d5",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-11-25",
+      "title": "埼玉県議会時報第302号・目次・9月定例会のあらまし",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/290282/302_000_mokuji-aramashi.pdf",
+      "note": "日付は県議会時報の発行日。県公表の分冊PDFの頁順で文字層を収録。",
+      "speakers": []
+    },
+    {
+      "id": "8a7069a27b79d6732192",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-11-25",
+      "title": "埼玉県議会時報第302号・9月定例会会期日程",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/290282/302_001_kaikinittei.pdf",
+      "note": "日付は県議会時報の発行日。県公表の分冊PDFの頁順で文字層を収録。",
+      "speakers": []
+    },
+    {
+      "id": "485864d6f3c6b8425c2e",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-11-25",
+      "title": "埼玉県議会時報第302号・議席一覧表・会派構成・正副議長・委員会委員名簿",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/290282/302_010-013_giseki-iinkaimeibo.pdf",
+      "note": "日付は県議会時報の発行日。県公表の分冊PDFの頁順で文字層を収録。",
+      "speakers": []
+    },
+    {
+      "id": "34d4befe8ae0f820b603",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-11-25",
+      "title": "埼玉県議会時報第302号・知事提案説明",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/290282/302_013-014_chijiteiansetsumei.pdf",
+      "note": "日付は県議会時報の発行日。県公表の分冊PDFの頁順で文字層を収録。",
+      "speakers": []
+    },
+    {
+      "id": "5b21d58011f5c9679a07",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-11-25",
+      "title": "埼玉県議会時報第302号・説明者一覧",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/290282/302_015_setsumeishaichiran.pdf",
+      "note": "日付は県議会時報の発行日。県公表の分冊PDFの頁順で文字層を収録。",
+      "speakers": []
+    },
+    {
+      "id": "e7f819b4a3fc9da08cfe",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-11-25",
+      "title": "埼玉県議会時報第302号・質疑質問",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/290282/302_015-021_shitsugishitsumon.pdf",
+      "note": "日付は県議会時報の発行日。県公表の分冊PDFの頁順で文字層を収録。",
+      "speakers": []
+    },
+    {
+      "id": "5521ba7c1662752a739d",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-11-25",
+      "title": "埼玉県議会時報第302号・委員長報告",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/290282/302_021-032_iinchouhoukoku.pdf",
+      "note": "日付は県議会時報の発行日。県公表の分冊PDFの頁順で文字層を収録。",
+      "speakers": []
+    },
+    {
+      "id": "e1d3db38349c10900eac",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-11-25",
+      "title": "埼玉県議会時報第302号・議案の審議結果（知事提出議案）",
+      "kind": "議案審査の参考資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/290282/302_033-035_giannoshingikekka-chiji.pdf",
+      "note": "日付は県議会時報の発行日。県公表の分冊PDFの頁順で文字層を収録。",
+      "speakers": []
+    },
+    {
+      "id": "ce8544edf629199402ca",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-11-25",
+      "title": "埼玉県議会時報第302号・議案の審議結果（議員提出議案）",
+      "kind": "議案審査の参考資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/290282/302_036-048_giannoshingikekka-giin.pdf",
+      "note": "日付は県議会時報の発行日。県公表の分冊PDFの頁順で文字層を収録。",
+      "speakers": []
+    },
+    {
+      "id": "c493aeddf4541fabf5d0",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-11-25",
+      "title": "埼玉県議会時報第302号・処分要求、動議",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/290282/302_048-049_shobunyoukyuu-dougi.pdf",
+      "note": "日付は県議会時報の発行日。県公表の分冊PDFの頁順で文字層を収録。",
+      "speakers": []
+    },
+    {
+      "id": "5c7e062f7c283ced25d4",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-11-25",
+      "title": "埼玉県議会時報第302号・陳情受付状況",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/290282/302_051_chinjou.pdf",
+      "note": "日付は県議会時報の発行日。県公表の分冊PDFの頁順で文字層を収録。",
+      "speakers": []
+    },
+    {
+      "id": "cf89e1341c7c96de8d60",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-11-25",
+      "title": "埼玉県議会時報第302号・閉会中における特定事件一覧表",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/290282/302_052_tokuteijikenichiran.pdf",
+      "note": "日付は県議会時報の発行日。県公表の分冊PDFの頁順で文字層を収録。",
+      "speakers": []
+    },
+    {
+      "id": "151c58c2693000419cea",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-11-25",
+      "title": "埼玉県議会時報第302号・閉会中の委員会活動",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/290282/302_053-076_iinkaikatsudou2.pdf",
+      "note": "日付は県議会時報の発行日。県公表の分冊PDFの頁順で文字層を収録。",
+      "speakers": []
+    },
+    {
+      "id": "2810a34a8e536000d4ad",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-11-25",
+      "title": "埼玉県議会時報第302号・議会日誌",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/290282/302_076_gikainisshi.pdf",
+      "note": "日付は県議会時報の発行日。県公表の分冊PDFの頁順で文字層を収録。",
+      "speakers": []
+    },
+    {
+      "id": "838af28f45432aaab63a",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-11-25",
+      "title": "埼玉県議会時報第302号・請願案内・傍聴案内",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/290282/302_077_seigan-bouchou.pdf",
+      "note": "日付は県議会時報の発行日。県公表の分冊PDFの頁順で文字層を収録。",
+      "speakers": []
     }
   ],
   "coverage": [
