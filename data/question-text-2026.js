@@ -54508,6 +54508,18 @@ GIKAI.questionText = {
       "url": "https://www.city.warabi.saitama.jp/_res/projects/default_project/_page_/001/013/260/7youchi.pdf",
       "note": "日付は市公式掲載日。一般会計決算書の分割版は掲載元から確認できる。 原PDFの文字層を頁順に収録。",
       "speakers": []
+    },
+    {
+      "id": "797718ab74d6eacc75e2",
+      "place": "寄居町",
+      "season": "fall",
+      "date": "2026-09-28",
+      "title": "本会議　決算審議　第４款 衛生費（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/speech.html?council_id=39&schedule_id=5&playlist_id=4&speaker_id=0&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 当日の本会議の議事録画。分割された録画を含む。発言者と発言区間は原映像でご確認ください。",
+      "speakers": []
     }
   ],
   "coverage": [
@@ -56143,7 +56155,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/council.html?year=2026&council_id=39",
-        "note": "公式録画一覧で一般質問12人を確認。議会だよりの質問・答弁要旨も収録。正式会議録は確認中。 公式録画の機械文字起こし一般質問12本・議事3本を収録。"
+        "note": "公式録画一覧で一般質問12人を確認。議会だよりの質問・答弁要旨も収録。正式会議録は確認中。 公式録画の機械文字起こし一般質問12本・議事4本を収録。"
       }
     },
     {
