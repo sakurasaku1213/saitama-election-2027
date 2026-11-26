@@ -57751,6 +57751,48 @@ GIKAI.questionText = {
       "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-3gi19go.pdf",
       "note": "年月は提出対象の定例会。公表された冊子・別冊の原本。",
       "speakers": []
+    },
+    {
+      "id": "0bf5a6cbae38b5c7c8e3",
+      "place": "羽生市",
+      "season": "fall",
+      "date": "2026-09-16",
+      "title": "昆佳子議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/hanyu/WebView/rd/speech.html?council_id=55&schedule_id=3&playlist_id=4&speaker_id=28&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "昆佳子"
+      ]
+    },
+    {
+      "id": "fbc5774d6c06db8119e9",
+      "place": "羽生市",
+      "season": "fall",
+      "date": "2026-09-18",
+      "title": "中島直樹議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/hanyu/WebView/rd/speech.html?council_id=55&schedule_id=5&playlist_id=2&speaker_id=19&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "中島直樹"
+      ]
+    },
+    {
+      "id": "b944968f3feb638b6fa9",
+      "place": "羽生市",
+      "season": "fall",
+      "date": "2026-09-18",
+      "title": "野中一城議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/hanyu/WebView/rd/speech.html?council_id=55&schedule_id=5&playlist_id=3&speaker_id=15&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "野中一城"
+      ]
     }
   ],
   "coverage": [
@@ -58152,7 +58194,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "第256号の一般質問12人・39問答、議案質疑10問答、その他の見出しと補足17件を収録。公式通告８頁、一般質問12本と議案質疑14本の公式録画を照合。正式会議録は確認中。 公式録画の機械文字起こし一般質問6本・議案質疑14本を収録。",
+        "note": "第256号の一般質問12人・39問答、議案質疑10問答、その他の見出しと補足17件を収録。公式通告８頁、一般質問12本と議案質疑14本の公式録画を照合。正式会議録は確認中。 公式録画の機械文字起こし一般質問9本・議案質疑14本を収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/hanyu/SpMinuteBrowse.html?tenant_id=159&view_years=2026"
       }
     },
