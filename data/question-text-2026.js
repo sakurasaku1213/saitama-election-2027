@@ -59097,23 +59097,11 @@ GIKAI.questionText = {
       "place": "熊谷市",
       "season": "fall",
       "date": "2026-09",
-      "title": "熊谷市 ９月定例会 議員提出議案",
+      "title": "熊谷市 議員提出議案第９号（９月定例会）",
       "kind": "議案・動議の提出原文（公式資料・OCR）",
       "scope": "supporting",
       "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/786/0809gitei.pdf",
       "note": "市議会が公表したPDF。原PDFの文字層を収録。 本文の簡体字は日本語の字形に直した。",
-      "speakers": []
-    },
-    {
-      "id": "9962a23b00a6e3998b7e",
-      "place": "上里町",
-      "season": "fall",
-      "date": "2026-09",
-      "title": "上里町 ９月定例会 一般質問通告（３）",
-      "kind": "一般質問通告（公式資料）",
-      "scope": "notice",
-      "url": "https://www.town.kamisato.saitama.jp/secure/16049/ippanshitumon3.pdf",
-      "note": "町議会が公表した事前の通告。原PDFの文字層を収録。 本文の簡体字は日本語の字形に直した。",
       "speakers": []
     }
   ],
