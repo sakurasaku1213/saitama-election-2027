@@ -9419,7 +9419,8 @@ GIKAI.questionText = {
         "川内雅人",
         "戸張光枝",
         "武藤倫雄",
-        "藤原義春"
+        "藤原義春",
+        "上野尚德"
       ]
     },
     {
@@ -54519,6 +54520,42 @@ GIKAI.questionText = {
       "scope": "recording",
       "url": "https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/speech.html?council_id=39&schedule_id=5&playlist_id=4&speaker_id=0&target_year=2026",
       "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 当日の本会議の議事録画。分割された録画を含む。発言者と発言区間は原映像でご確認ください。",
+      "speakers": []
+    },
+    {
+      "id": "300f2955445513307802",
+      "place": "伊奈町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "伊奈町 議決原表 令和8年3月議案処理結果一覧",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-3kekka.pdf",
+      "note": "年月は対象会期。２頁は原表の氏名列・賛否・日付・件名を照合して表として転記。 原本の頁順で文字を収録。",
+      "speakers": []
+    },
+    {
+      "id": "e9b740c8087348b9e63e",
+      "place": "伊奈町",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "伊奈町 議決原表 令和８年６月議案処理結果一覧",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-6kekka.pdf",
+      "note": "年月は対象会期。 原本の頁順で文字を収録。",
+      "speakers": []
+    },
+    {
+      "id": "77e7b5c2eccfb84acf2c",
+      "place": "伊奈町",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "伊奈町 議決原表 令和８年９月議案処理結果一覧",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-9kekka.pdf",
+      "note": "年月は対象会期。 原本の頁順で文字を収録。",
       "speakers": []
     }
   ],
