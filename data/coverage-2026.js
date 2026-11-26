@@ -1670,8 +1670,8 @@ GIKAI.coverage2026 = {
           "note": "市公式の議案審議結果一覧表の議案50件、修正案2件、請願1件、議員提出議案1件を議決日・件名・結果で照合。"
         },
         "votes": {
-          "state": "identified",
-          "note": "市公式の個人別審議結果一覧（PDF）の掲載を確認。個人別の賛否は未収録。"
+          "state": "verified",
+          "note": "市公式の議員別審議結果（PDF）から、賛否が分かれた14件の議員24人の賛否を収録し、全会一致の40件は「議長及び欠席議員を除く全議員が賛成」と注記。収録済みの議決と番号・件名・結果を照合。"
         },
         "policy": {
           "state": "partial",
@@ -1686,6 +1686,10 @@ GIKAI.coverage2026 = {
         {
           "label": "市公式の定例会情報・議案審議結果一覧表",
           "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html"
+        },
+        {
+          "label": "令和8年第1回加須市議会定例会 議員別審議結果",
+          "url": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf"
         }
       ]
     },
@@ -7071,7 +7075,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "partial",
-          "note": "第211号の一般質問14人・17主題・26問答と、委員会・決算の17問答、討論14件などを原紙面と照合。一般質問通告23頁と議案質疑通告21頁、９月16～18日の公式録画14人。正式会議録は議会だより第211号によると12月上旬提供予定。 公式録画の機械文字起こし一般質問11本を収録。"
+          "note": "第211号の一般質問14人・17主題・26問答と、委員会・決算の17問答、討論14件などを原紙面と照合。一般質問通告23頁と議案質疑通告21頁、９月16～18日の公式録画14人。正式会議録は議会だより第211号によると12月上旬提供予定。 公式録画の機械文字起こし一般質問12本を収録。"
         },
         "decisions": {
           "state": "verified",
@@ -8330,8 +8334,8 @@ GIKAI.coverage2026 = {
           "note": "対象資料の案内を確認。項目の取込・照合範囲は未確定。"
         },
         "decisions": {
-          "state": "partial",
-          "note": "令和8年度一般会計予算の議決を本会議録で照合。"
+          "state": "verified",
+          "note": "公式本会議録の採決の記述から同意1件、承認1件、発議5件、議案20件を収録し、議事日程の表決対象と照合。日付欄は会期の年月（一般会計予算は議決日）。"
         },
         "votes": {
           "state": "pending",
@@ -143708,9 +143712,9 @@ GIKAI.coverage2026 = {
       "title": "令和7年度伊奈町一般会計補正予算(第13号)",
       "date": "2026-03-18",
       "result": "原案可決",
-      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-3kekka.pdf#page=2",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-3gi8go.pdf#page=1",
       "resultURL": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-3kekka.pdf#page=2",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式議案書の該当頁",
       "voteType": "記名",
       "voteURL": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-3kekka.pdf#page=2",
       "votes": {
@@ -143730,7 +143734,8 @@ GIKAI.coverage2026 = {
         "仲島雄大": "賛成",
         "冨井篤弥": "賛成",
         "川内雅人": "賛成"
-      }
+      },
+      "sourceTitle": "伊奈町議会 第8号議案の提出原文"
     },
     {
       "place": "伊奈町",
@@ -144033,9 +144038,9 @@ GIKAI.coverage2026 = {
       "title": "令和8年度伊奈町後期高齢者医療特別会計予算",
       "date": "2026-03-18",
       "result": "原案可決",
-      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-3kekka.pdf#page=2",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-3gi18go.pdf#page=3",
       "resultURL": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-3kekka.pdf#page=2",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式議案書の該当頁",
       "voteType": "記名",
       "voteURL": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-3kekka.pdf#page=2",
       "votes": {
@@ -144055,7 +144060,8 @@ GIKAI.coverage2026 = {
         "仲島雄大": "賛成",
         "冨井篤弥": "賛成",
         "川内雅人": "賛成"
-      }
+      },
+      "sourceTitle": "伊奈町議会 第18号議案の提出原文"
     },
     {
       "place": "伊奈町",
@@ -144709,9 +144715,9 @@ GIKAI.coverage2026 = {
       "title": "専決処分の承認を求めることについて(伊奈町国民健康保険税条例の一部を改正する条例)",
       "date": "2026-06-04",
       "result": "承認",
-      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-6kekka.pdf#page=2",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-06gi48go.pdf#page=1",
       "resultURL": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-6kekka.pdf#page=2",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式議案書の該当頁",
       "voteType": "記名",
       "voteURL": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-6kekka.pdf#page=2",
       "votes": {
@@ -144731,7 +144737,8 @@ GIKAI.coverage2026 = {
         "仲島雄大": "賛成",
         "冨井篤弥": "賛成",
         "川内雅人": "賛成"
-      }
+      },
+      "sourceTitle": "伊奈町議会 第48号議案の提出原文"
     },
     {
       "place": "伊奈町",
@@ -147303,7 +147310,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長及び欠席議員を除く）が賛成した議案」。欠席者の氏名は表に記載なし。"
     },
     {
       "place": "加須市",
@@ -147316,7 +147325,36 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "votes": {
+        "山本仁美": "賛成",
+        "内田昇": "賛成",
+        "原田悟": "賛成",
+        "中島正和": "欠席",
+        "赤坂和洋": "賛成",
+        "竹内政雄": "議長（表決不参加）",
+        "新井好一": "賛成",
+        "小坂裕": "賛成",
+        "栗原智之": "賛成",
+        "高橋一夫": "賛成",
+        "宮崎智司": "賛成",
+        "山下雄希": "賛成",
+        "金子正則": "賛成",
+        "齋藤理史": "賛成",
+        "田中良夫": "賛成",
+        "森本寿子": "賛成",
+        "池田年美": "賛成",
+        "大内清心": "賛成",
+        "中條恵子": "賛成",
+        "松本幸子": "反対",
+        "佐伯由恵": "反対",
+        "及川和子": "反対",
+        "野中芳子": "賛成",
+        "宮代翔太": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、〇賛成・●反対）。表中の「-」は欠席として収録（表題の注記「議長及び欠席議員を除く」による）。"
     },
     {
       "place": "加須市",
@@ -147329,7 +147367,36 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "votes": {
+        "山本仁美": "賛成",
+        "内田昇": "賛成",
+        "原田悟": "賛成",
+        "中島正和": "欠席",
+        "赤坂和洋": "賛成",
+        "竹内政雄": "議長（表決不参加）",
+        "新井好一": "賛成",
+        "小坂裕": "賛成",
+        "栗原智之": "賛成",
+        "高橋一夫": "賛成",
+        "宮崎智司": "賛成",
+        "山下雄希": "賛成",
+        "金子正則": "賛成",
+        "齋藤理史": "賛成",
+        "田中良夫": "賛成",
+        "森本寿子": "賛成",
+        "池田年美": "賛成",
+        "大内清心": "賛成",
+        "中條恵子": "賛成",
+        "松本幸子": "反対",
+        "佐伯由恵": "反対",
+        "及川和子": "反対",
+        "野中芳子": "賛成",
+        "宮代翔太": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、〇賛成・●反対）。表中の「-」は欠席として収録（表題の注記「議長及び欠席議員を除く」による）。"
     },
     {
       "place": "加須市",
@@ -147342,7 +147409,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長及び欠席議員を除く）が賛成した議案」。欠席者の氏名は表に記載なし。"
     },
     {
       "place": "加須市",
@@ -147355,7 +147424,36 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "votes": {
+        "山本仁美": "賛成",
+        "内田昇": "賛成",
+        "原田悟": "賛成",
+        "中島正和": "欠席",
+        "赤坂和洋": "賛成",
+        "竹内政雄": "議長（表決不参加）",
+        "新井好一": "賛成",
+        "小坂裕": "賛成",
+        "栗原智之": "賛成",
+        "高橋一夫": "賛成",
+        "宮崎智司": "賛成",
+        "山下雄希": "賛成",
+        "金子正則": "賛成",
+        "齋藤理史": "賛成",
+        "田中良夫": "賛成",
+        "森本寿子": "賛成",
+        "池田年美": "賛成",
+        "大内清心": "賛成",
+        "中條恵子": "賛成",
+        "松本幸子": "反対",
+        "佐伯由恵": "反対",
+        "及川和子": "反対",
+        "野中芳子": "賛成",
+        "宮代翔太": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、〇賛成・●反対）。表中の「-」は欠席として収録（表題の注記「議長及び欠席議員を除く」による）。"
     },
     {
       "place": "加須市",
@@ -147368,7 +147466,36 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "votes": {
+        "山本仁美": "賛成",
+        "内田昇": "賛成",
+        "原田悟": "賛成",
+        "中島正和": "欠席",
+        "赤坂和洋": "賛成",
+        "竹内政雄": "議長（表決不参加）",
+        "新井好一": "賛成",
+        "小坂裕": "賛成",
+        "栗原智之": "賛成",
+        "高橋一夫": "賛成",
+        "宮崎智司": "賛成",
+        "山下雄希": "賛成",
+        "金子正則": "賛成",
+        "齋藤理史": "賛成",
+        "田中良夫": "賛成",
+        "森本寿子": "賛成",
+        "池田年美": "賛成",
+        "大内清心": "賛成",
+        "中條恵子": "賛成",
+        "松本幸子": "反対",
+        "佐伯由恵": "反対",
+        "及川和子": "反対",
+        "野中芳子": "賛成",
+        "宮代翔太": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、〇賛成・●反対）。表中の「-」は欠席として収録（表題の注記「議長及び欠席議員を除く」による）。"
     },
     {
       "place": "加須市",
@@ -147381,7 +147508,36 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "votes": {
+        "山本仁美": "賛成",
+        "内田昇": "賛成",
+        "原田悟": "賛成",
+        "中島正和": "欠席",
+        "赤坂和洋": "賛成",
+        "竹内政雄": "議長（表決不参加）",
+        "新井好一": "賛成",
+        "小坂裕": "賛成",
+        "栗原智之": "賛成",
+        "高橋一夫": "賛成",
+        "宮崎智司": "賛成",
+        "山下雄希": "賛成",
+        "金子正則": "賛成",
+        "齋藤理史": "賛成",
+        "田中良夫": "賛成",
+        "森本寿子": "賛成",
+        "池田年美": "賛成",
+        "大内清心": "賛成",
+        "中條恵子": "賛成",
+        "松本幸子": "反対",
+        "佐伯由恵": "反対",
+        "及川和子": "反対",
+        "野中芳子": "賛成",
+        "宮代翔太": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、〇賛成・●反対）。表中の「-」は欠席として収録（表題の注記「議長及び欠席議員を除く」による）。"
     },
     {
       "place": "加須市",
@@ -147394,7 +147550,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長及び欠席議員を除く）が賛成した議案」。欠席者の氏名は表に記載なし。"
     },
     {
       "place": "加須市",
@@ -147407,7 +147565,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長及び欠席議員を除く）が賛成した議案」。欠席者の氏名は表に記載なし。"
     },
     {
       "place": "加須市",
@@ -147420,7 +147580,36 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "votes": {
+        "山本仁美": "賛成",
+        "内田昇": "賛成",
+        "原田悟": "賛成",
+        "中島正和": "欠席",
+        "赤坂和洋": "賛成",
+        "竹内政雄": "議長（表決不参加）",
+        "新井好一": "賛成",
+        "小坂裕": "賛成",
+        "栗原智之": "賛成",
+        "高橋一夫": "賛成",
+        "宮崎智司": "賛成",
+        "山下雄希": "賛成",
+        "金子正則": "賛成",
+        "齋藤理史": "賛成",
+        "田中良夫": "賛成",
+        "森本寿子": "賛成",
+        "池田年美": "賛成",
+        "大内清心": "賛成",
+        "中條恵子": "賛成",
+        "松本幸子": "反対",
+        "佐伯由恵": "反対",
+        "及川和子": "反対",
+        "野中芳子": "賛成",
+        "宮代翔太": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、〇賛成・●反対）。表中の「-」は欠席として収録（表題の注記「議長及び欠席議員を除く」による）。"
     },
     {
       "place": "加須市",
@@ -147433,7 +147622,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長及び欠席議員を除く）が賛成した議案」。欠席者の氏名は表に記載なし。"
     },
     {
       "place": "加須市",
@@ -147446,7 +147637,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長及び欠席議員を除く）が賛成した議案」。欠席者の氏名は表に記載なし。"
     },
     {
       "place": "加須市",
@@ -147459,7 +147652,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長及び欠席議員を除く）が賛成した議案」。欠席者の氏名は表に記載なし。"
     },
     {
       "place": "加須市",
@@ -147472,7 +147667,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長及び欠席議員を除く）が賛成した議案」。欠席者の氏名は表に記載なし。"
     },
     {
       "place": "加須市",
@@ -147485,7 +147682,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長及び欠席議員を除く）が賛成した議案」。欠席者の氏名は表に記載なし。"
     },
     {
       "place": "加須市",
@@ -147498,7 +147697,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長及び欠席議員を除く）が賛成した議案」。欠席者の氏名は表に記載なし。"
     },
     {
       "place": "加須市",
@@ -147511,7 +147712,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長及び欠席議員を除く）が賛成した議案」。欠席者の氏名は表に記載なし。"
     },
     {
       "place": "加須市",
@@ -147524,7 +147727,36 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "votes": {
+        "山本仁美": "賛成",
+        "内田昇": "欠席",
+        "原田悟": "賛成",
+        "中島正和": "賛成",
+        "赤坂和洋": "欠席",
+        "竹内政雄": "議長（表決不参加）",
+        "新井好一": "賛成",
+        "小坂裕": "反対",
+        "栗原智之": "賛成",
+        "高橋一夫": "賛成",
+        "宮崎智司": "賛成",
+        "山下雄希": "賛成",
+        "金子正則": "賛成",
+        "齋藤理史": "賛成",
+        "田中良夫": "賛成",
+        "森本寿子": "賛成",
+        "池田年美": "賛成",
+        "大内清心": "賛成",
+        "中條恵子": "賛成",
+        "松本幸子": "反対",
+        "佐伯由恵": "反対",
+        "及川和子": "反対",
+        "野中芳子": "賛成",
+        "宮代翔太": "反対"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、〇賛成・●反対）。表中の「-」は欠席として収録（表題の注記「議長及び欠席議員を除く」による）。"
     },
     {
       "place": "加須市",
@@ -147537,7 +147769,36 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "votes": {
+        "山本仁美": "賛成",
+        "内田昇": "欠席",
+        "原田悟": "賛成",
+        "中島正和": "賛成",
+        "赤坂和洋": "欠席",
+        "竹内政雄": "議長（表決不参加）",
+        "新井好一": "賛成",
+        "小坂裕": "賛成",
+        "栗原智之": "賛成",
+        "高橋一夫": "賛成",
+        "宮崎智司": "賛成",
+        "山下雄希": "賛成",
+        "金子正則": "賛成",
+        "齋藤理史": "賛成",
+        "田中良夫": "賛成",
+        "森本寿子": "賛成",
+        "池田年美": "賛成",
+        "大内清心": "賛成",
+        "中條恵子": "賛成",
+        "松本幸子": "反対",
+        "佐伯由恵": "反対",
+        "及川和子": "反対",
+        "野中芳子": "賛成",
+        "宮代翔太": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、〇賛成・●反対）。表中の「-」は欠席として収録（表題の注記「議長及び欠席議員を除く」による）。"
     },
     {
       "place": "加須市",
@@ -147550,7 +147811,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長及び欠席議員を除く）が賛成した議案」。欠席者の氏名は表に記載なし。"
     },
     {
       "place": "加須市",
@@ -147563,7 +147826,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長及び欠席議員を除く）が賛成した議案」。欠席者の氏名は表に記載なし。"
     },
     {
       "place": "加須市",
@@ -147576,7 +147841,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長及び欠席議員を除く）が賛成した議案」。欠席者の氏名は表に記載なし。"
     },
     {
       "place": "加須市",
@@ -147589,7 +147856,36 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "votes": {
+        "山本仁美": "賛成",
+        "内田昇": "賛成",
+        "原田悟": "賛成",
+        "中島正和": "欠席",
+        "赤坂和洋": "賛成",
+        "竹内政雄": "議長（表決不参加）",
+        "新井好一": "賛成",
+        "小坂裕": "賛成",
+        "栗原智之": "賛成",
+        "高橋一夫": "賛成",
+        "宮崎智司": "賛成",
+        "山下雄希": "賛成",
+        "金子正則": "賛成",
+        "齋藤理史": "賛成",
+        "田中良夫": "賛成",
+        "森本寿子": "賛成",
+        "池田年美": "賛成",
+        "大内清心": "賛成",
+        "中條恵子": "賛成",
+        "松本幸子": "反対",
+        "佐伯由恵": "反対",
+        "及川和子": "反対",
+        "野中芳子": "賛成",
+        "宮代翔太": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、〇賛成・●反対）。表中の「-」は欠席として収録（表題の注記「議長及び欠席議員を除く」による）。"
     },
     {
       "place": "加須市",
@@ -147602,7 +147898,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長及び欠席議員を除く）が賛成した議案」。欠席者の氏名は表に記載なし。"
     },
     {
       "place": "加須市",
@@ -147615,7 +147913,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長及び欠席議員を除く）が賛成した議案」。欠席者の氏名は表に記載なし。"
     },
     {
       "place": "加須市",
@@ -147628,7 +147928,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長及び欠席議員を除く）が賛成した議案」。欠席者の氏名は表に記載なし。"
     },
     {
       "place": "加須市",
@@ -147641,7 +147943,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長及び欠席議員を除く）が賛成した議案」。欠席者の氏名は表に記載なし。"
     },
     {
       "place": "加須市",
@@ -147654,7 +147958,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長及び欠席議員を除く）が賛成した議案」。欠席者の氏名は表に記載なし。"
     },
     {
       "place": "加須市",
@@ -147667,7 +147973,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長及び欠席議員を除く）が賛成した議案」。欠席者の氏名は表に記載なし。"
     },
     {
       "place": "加須市",
@@ -147680,7 +147988,36 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "votes": {
+        "山本仁美": "賛成",
+        "内田昇": "賛成",
+        "原田悟": "賛成",
+        "中島正和": "欠席",
+        "赤坂和洋": "賛成",
+        "竹内政雄": "議長（表決不参加）",
+        "新井好一": "賛成",
+        "小坂裕": "賛成",
+        "栗原智之": "賛成",
+        "高橋一夫": "賛成",
+        "宮崎智司": "賛成",
+        "山下雄希": "賛成",
+        "金子正則": "賛成",
+        "齋藤理史": "賛成",
+        "田中良夫": "賛成",
+        "森本寿子": "賛成",
+        "池田年美": "賛成",
+        "大内清心": "賛成",
+        "中條恵子": "賛成",
+        "松本幸子": "反対",
+        "佐伯由恵": "反対",
+        "及川和子": "反対",
+        "野中芳子": "賛成",
+        "宮代翔太": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、〇賛成・●反対）。表中の「-」は欠席として収録（表題の注記「議長及び欠席議員を除く」による）。"
     },
     {
       "place": "加須市",
@@ -147693,7 +148030,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長及び欠席議員を除く）が賛成した議案」。欠席者の氏名は表に記載なし。"
     },
     {
       "place": "加須市",
@@ -147706,7 +148045,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長及び欠席議員を除く）が賛成した議案」。欠席者の氏名は表に記載なし。"
     },
     {
       "place": "加須市",
@@ -147719,7 +148060,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長及び欠席議員を除く）が賛成した議案」。欠席者の氏名は表に記載なし。"
     },
     {
       "place": "加須市",
@@ -147732,7 +148075,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長及び欠席議員を除く）が賛成した議案」。欠席者の氏名は表に記載なし。"
     },
     {
       "place": "加須市",
@@ -147745,7 +148090,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長及び欠席議員を除く）が賛成した議案」。欠席者の氏名は表に記載なし。"
     },
     {
       "place": "加須市",
@@ -147758,7 +148105,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長及び欠席議員を除く）が賛成した議案」。欠席者の氏名は表に記載なし。"
     },
     {
       "place": "加須市",
@@ -147771,7 +148120,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長及び欠席議員を除く）が賛成した議案」。欠席者の氏名は表に記載なし。"
     },
     {
       "place": "加須市",
@@ -147784,7 +148135,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長及び欠席議員を除く）が賛成した議案」。欠席者の氏名は表に記載なし。"
     },
     {
       "place": "加須市",
@@ -147797,7 +148150,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長及び欠席議員を除く）が賛成した議案」。欠席者の氏名は表に記載なし。"
     },
     {
       "place": "加須市",
@@ -147810,7 +148165,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長及び欠席議員を除く）が賛成した議案」。欠席者の氏名は表に記載なし。"
     },
     {
       "place": "加須市",
@@ -147823,7 +148180,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長及び欠席議員を除く）が賛成した議案」。欠席者の氏名は表に記載なし。"
     },
     {
       "place": "加須市",
@@ -147836,7 +148195,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長及び欠席議員を除く）が賛成した議案」。欠席者の氏名は表に記載なし。"
     },
     {
       "place": "加須市",
@@ -147849,7 +148210,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長及び欠席議員を除く）が賛成した議案」。欠席者の氏名は表に記載なし。"
     },
     {
       "place": "加須市",
@@ -147862,7 +148225,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長及び欠席議員を除く）が賛成した議案」。欠席者の氏名は表に記載なし。"
     },
     {
       "place": "加須市",
@@ -147875,7 +148240,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長及び欠席議員を除く）が賛成した議案」。欠席者の氏名は表に記載なし。"
     },
     {
       "place": "加須市",
@@ -147888,7 +148255,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長及び欠席議員を除く）が賛成した議案」。欠席者の氏名は表に記載なし。"
     },
     {
       "place": "加須市",
@@ -147901,7 +148270,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長及び欠席議員を除く）が賛成した議案」。欠席者の氏名は表に記載なし。"
     },
     {
       "place": "加須市",
@@ -147914,7 +148285,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長及び欠席議員を除く）が賛成した議案」。欠席者の氏名は表に記載なし。"
     },
     {
       "place": "加須市",
@@ -147927,7 +148300,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長及び欠席議員を除く）が賛成した議案」。欠席者の氏名は表に記載なし。"
     },
     {
       "place": "加須市",
@@ -147940,7 +148315,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長及び欠席議員を除く）が賛成した議案」。欠席者の氏名は表に記載なし。"
     },
     {
       "place": "加須市",
@@ -147952,7 +148329,36 @@ GIKAI.coverage2026 = {
       "result": "否決",
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
-      "sourceTitle": "市公式の議案審議結果一覧表"
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "votes": {
+        "山本仁美": "反対",
+        "内田昇": "反対",
+        "原田悟": "反対",
+        "中島正和": "欠席",
+        "赤坂和洋": "反対",
+        "竹内政雄": "議長（表決不参加）",
+        "新井好一": "反対",
+        "小坂裕": "反対",
+        "栗原智之": "反対",
+        "高橋一夫": "反対",
+        "宮崎智司": "反対",
+        "山下雄希": "反対",
+        "金子正則": "反対",
+        "齋藤理史": "反対",
+        "田中良夫": "反対",
+        "森本寿子": "反対",
+        "池田年美": "反対",
+        "大内清心": "反対",
+        "中條恵子": "反対",
+        "松本幸子": "賛成",
+        "佐伯由恵": "賛成",
+        "及川和子": "賛成",
+        "野中芳子": "反対",
+        "宮代翔太": "反対"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、〇賛成・●反対）。表中の「-」は欠席として収録（表題の注記「議長及び欠席議員を除く」による）。"
     },
     {
       "place": "加須市",
@@ -147964,7 +148370,36 @@ GIKAI.coverage2026 = {
       "result": "否決",
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
-      "sourceTitle": "市公式の議案審議結果一覧表"
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "votes": {
+        "山本仁美": "反対",
+        "内田昇": "反対",
+        "原田悟": "反対",
+        "中島正和": "欠席",
+        "赤坂和洋": "反対",
+        "竹内政雄": "議長（表決不参加）",
+        "新井好一": "反対",
+        "小坂裕": "反対",
+        "栗原智之": "反対",
+        "高橋一夫": "反対",
+        "宮崎智司": "反対",
+        "山下雄希": "反対",
+        "金子正則": "反対",
+        "齋藤理史": "反対",
+        "田中良夫": "反対",
+        "森本寿子": "反対",
+        "池田年美": "反対",
+        "大内清心": "反対",
+        "中條恵子": "反対",
+        "松本幸子": "賛成",
+        "佐伯由恵": "賛成",
+        "及川和子": "賛成",
+        "野中芳子": "反対",
+        "宮代翔太": "反対"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、〇賛成・●反対）。表中の「-」は欠席として収録（表題の注記「議長及び欠席議員を除く」による）。"
     },
     {
       "place": "加須市",
@@ -147976,7 +148411,36 @@ GIKAI.coverage2026 = {
       "result": "不採択",
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
-      "sourceTitle": "市公式の議案審議結果一覧表"
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "votes": {
+        "山本仁美": "反対",
+        "内田昇": "反対",
+        "原田悟": "反対",
+        "中島正和": "欠席",
+        "赤坂和洋": "反対",
+        "竹内政雄": "議長（表決不参加）",
+        "新井好一": "反対",
+        "小坂裕": "反対",
+        "栗原智之": "反対",
+        "高橋一夫": "反対",
+        "宮崎智司": "反対",
+        "山下雄希": "反対",
+        "金子正則": "反対",
+        "齋藤理史": "反対",
+        "田中良夫": "反対",
+        "森本寿子": "反対",
+        "池田年美": "反対",
+        "大内清心": "反対",
+        "中條恵子": "反対",
+        "松本幸子": "反対",
+        "佐伯由恵": "反対",
+        "及川和子": "反対",
+        "野中芳子": "趣旨採択に賛成",
+        "宮代翔太": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、〇賛成・●反対）。表中の「-」は欠席として収録（表題の注記「議長及び欠席議員を除く」による）。「趣旨」は請願の趣旨採択に賛成の立場（表の注記による）。"
     },
     {
       "place": "加須市",
@@ -147988,7 +148452,36 @@ GIKAI.coverage2026 = {
       "result": "原案否決",
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
-      "sourceTitle": "市公式の議案審議結果一覧表"
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "votes": {
+        "山本仁美": "反対",
+        "内田昇": "反対",
+        "原田悟": "反対",
+        "中島正和": "欠席",
+        "赤坂和洋": "反対",
+        "竹内政雄": "議長（表決不参加）",
+        "新井好一": "反対",
+        "小坂裕": "反対",
+        "栗原智之": "反対",
+        "高橋一夫": "反対",
+        "宮崎智司": "反対",
+        "山下雄希": "反対",
+        "金子正則": "反対",
+        "齋藤理史": "反対",
+        "田中良夫": "反対",
+        "森本寿子": "反対",
+        "池田年美": "反対",
+        "大内清心": "反対",
+        "中條恵子": "反対",
+        "松本幸子": "賛成",
+        "佐伯由恵": "賛成",
+        "及川和子": "賛成",
+        "野中芳子": "賛成",
+        "宮代翔太": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
+      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、〇賛成・●反対）。表中の「-」は欠席として収録（表題の注記「議長及び欠席議員を除く」による）。"
     },
     {
       "place": "加須市",
@@ -151807,6 +152300,370 @@ GIKAI.coverage2026 = {
       "proposalSupporters": [
         "黒沢武"
       ]
+    },
+    {
+      "place": "嵐山町",
+      "season": "spring",
+      "session": "令和8年第1回嵐山町議会定例会",
+      "date": "2026-03",
+      "number": "同意第1号",
+      "title": "嵐山町教育委員会教育長の任命につき同意を求めることについて",
+      "result": "同意",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "sourceTitle": "公式本会議録（PDF）の採決の記述",
+      "resultLocator": "本会議録の採決の記述「よって、同意第1号嵐山町教育委員会教育長の任命につき同意を求めることについては、これに同意することに決しました」",
+      "sourceType": "公式本会議録"
+    },
+    {
+      "place": "嵐山町",
+      "season": "spring",
+      "session": "令和8年第1回嵐山町議会定例会",
+      "date": "2026-03",
+      "number": "承認第1号",
+      "title": "専決処分の承認を求めることについて(令和7年度嵐山町一般会計補正予算(第5号))",
+      "result": "承認",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "sourceTitle": "公式本会議録（PDF）の採決の記述",
+      "resultLocator": "本会議録の採決の記述「よって、本案は承認されました」",
+      "sourceType": "公式本会議録"
+    },
+    {
+      "place": "嵐山町",
+      "season": "spring",
+      "session": "令和8年第1回嵐山町議会定例会",
+      "date": "2026-03",
+      "number": "発議第1号",
+      "title": "有機フッ素化合物(PFAS)による汚染対策および土壌・製品規制の強化を求める意見書の提出について",
+      "result": "否決",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "sourceTitle": "公式本会議録（PDF）の採決の記述",
+      "resultLocator": "本会議録の採決の記述「よって、本案は否決されました」",
+      "sourceType": "公式本会議録"
+    },
+    {
+      "place": "嵐山町",
+      "season": "spring",
+      "session": "令和8年第1回嵐山町議会定例会",
+      "date": "2026-03",
+      "number": "発議第2号",
+      "title": "太陽光発電パネルのリサイクル義務化を求める意見書の提出について",
+      "result": "否決",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "sourceTitle": "公式本会議録（PDF）の採決の記述",
+      "resultLocator": "本会議録の採決の記述「よって、本案は否決されました」",
+      "sourceType": "公式本会議録"
+    },
+    {
+      "place": "嵐山町",
+      "season": "spring",
+      "session": "令和8年第1回嵐山町議会定例会",
+      "date": "2026-03",
+      "number": "発議第3号",
+      "title": "児童の性的搾取根絶と女性支援法に基づく風営法規制強化を求める意見書の提出について",
+      "result": "否決",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "sourceTitle": "公式本会議録（PDF）の採決の記述",
+      "resultLocator": "本会議録の採決の記述「よって、本案は否決されました」",
+      "sourceType": "公式本会議録"
+    },
+    {
+      "place": "嵐山町",
+      "season": "spring",
+      "session": "令和8年第1回嵐山町議会定例会",
+      "date": "2026-03",
+      "number": "発議第4号",
+      "title": "スパイ防止法制定に反対する意見書の提出について",
+      "result": "否決",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "sourceTitle": "公式本会議録（PDF）の採決の記述",
+      "resultLocator": "本会議録の採決の記述「よって、本案は否決されました」",
+      "sourceType": "公式本会議録"
+    },
+    {
+      "place": "嵐山町",
+      "season": "spring",
+      "session": "令和8年第1回嵐山町議会定例会",
+      "date": "2026-03",
+      "number": "発議第5号",
+      "title": "イランに対する攻撃の即時停止と外交による平和的解決を求める意見書の提出について",
+      "result": "否決",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "sourceTitle": "公式本会議録（PDF）の採決の記述",
+      "resultLocator": "本会議録の採決の記述「よって、本案は否決されました」",
+      "sourceType": "公式本会議録"
+    },
+    {
+      "place": "嵐山町",
+      "season": "spring",
+      "session": "令和8年第1回嵐山町議会定例会",
+      "date": "2026-03",
+      "number": "議案第1号",
+      "title": "嵐山町乳児等通園支援事業手数料条例を制定することについて",
+      "result": "原案可決",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "sourceTitle": "公式本会議録（PDF）の採決の記述",
+      "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
+      "sourceType": "公式本会議録"
+    },
+    {
+      "place": "嵐山町",
+      "season": "spring",
+      "session": "令和8年第1回嵐山町議会定例会",
+      "date": "2026-03",
+      "number": "議案第2号",
+      "title": "嵐山町一般職員の給与に関する条例の一部を改正することについて",
+      "result": "原案可決",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "sourceTitle": "公式本会議録（PDF）の採決の記述",
+      "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
+      "sourceType": "公式本会議録"
+    },
+    {
+      "place": "嵐山町",
+      "season": "spring",
+      "session": "令和8年第1回嵐山町議会定例会",
+      "date": "2026-03",
+      "number": "議案第3号",
+      "title": "嵐山町行政手続条例の一部を改正することについて",
+      "result": "原案可決",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "sourceTitle": "公式本会議録（PDF）の採決の記述",
+      "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
+      "sourceType": "公式本会議録"
+    },
+    {
+      "place": "嵐山町",
+      "season": "spring",
+      "session": "令和8年第1回嵐山町議会定例会",
+      "date": "2026-03",
+      "number": "議案第4号",
+      "title": "嵐山町国民健康保険税条例の一部を改正することについて",
+      "result": "原案可決",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "sourceTitle": "公式本会議録（PDF）の採決の記述",
+      "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
+      "sourceType": "公式本会議録"
+    },
+    {
+      "place": "嵐山町",
+      "season": "spring",
+      "session": "令和8年第1回嵐山町議会定例会",
+      "date": "2026-03",
+      "number": "議案第5号",
+      "title": "嵐山町重度心身障害者医療費支給に関する条例の一部を改正することについて",
+      "result": "原案可決",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "sourceTitle": "公式本会議録（PDF）の採決の記述",
+      "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
+      "sourceType": "公式本会議録"
+    },
+    {
+      "place": "嵐山町",
+      "season": "spring",
+      "session": "令和8年第1回嵐山町議会定例会",
+      "date": "2026-03",
+      "number": "議案第6号",
+      "title": "令和7年度嵐山町一般会計補正予算(第6号)議定について",
+      "result": "原案可決",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "sourceTitle": "公式本会議録（PDF）の採決の記述",
+      "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
+      "sourceType": "公式本会議録"
+    },
+    {
+      "place": "嵐山町",
+      "season": "spring",
+      "session": "令和8年第1回嵐山町議会定例会",
+      "date": "2026-03",
+      "number": "議案第7号",
+      "title": "令和7年度嵐山町国民健康保険特別会計補正予算(第4号)議定について",
+      "result": "原案可決",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "sourceTitle": "公式本会議録（PDF）の採決の記述",
+      "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
+      "sourceType": "公式本会議録"
+    },
+    {
+      "place": "嵐山町",
+      "season": "spring",
+      "session": "令和8年第1回嵐山町議会定例会",
+      "date": "2026-03",
+      "number": "議案第8号",
+      "title": "令和7年度嵐山町水道事業会計補正予算(第4号)議定について",
+      "result": "原案可決",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "sourceTitle": "公式本会議録（PDF）の採決の記述",
+      "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
+      "sourceType": "公式本会議録"
+    },
+    {
+      "place": "嵐山町",
+      "season": "spring",
+      "session": "令和8年第1回嵐山町議会定例会",
+      "date": "2026-03",
+      "number": "議案第9号",
+      "title": "令和7年度嵐山町下水道事業会計補正予算(第3号)議定について",
+      "result": "原案可決",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "sourceTitle": "公式本会議録（PDF）の採決の記述",
+      "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
+      "sourceType": "公式本会議録"
+    },
+    {
+      "place": "嵐山町",
+      "season": "spring",
+      "session": "令和8年第1回嵐山町議会定例会",
+      "date": "2026-03",
+      "number": "議案第11号",
+      "title": "令和8年度嵐山町国民健康保険特別会計予算議定について",
+      "result": "原案可決",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "sourceTitle": "公式本会議録（PDF）の採決の記述",
+      "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
+      "sourceType": "公式本会議録"
+    },
+    {
+      "place": "嵐山町",
+      "season": "spring",
+      "session": "令和8年第1回嵐山町議会定例会",
+      "date": "2026-03",
+      "number": "議案第12号",
+      "title": "令和8年度嵐山町後期高齢者医療特別会計予算議定について",
+      "result": "原案可決",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "sourceTitle": "公式本会議録（PDF）の採決の記述",
+      "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
+      "sourceType": "公式本会議録"
+    },
+    {
+      "place": "嵐山町",
+      "season": "spring",
+      "session": "令和8年第1回嵐山町議会定例会",
+      "date": "2026-03",
+      "number": "議案第13号",
+      "title": "令和8年度嵐山町介護保険特別会計予算議定について",
+      "result": "原案可決",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "sourceTitle": "公式本会議録（PDF）の採決の記述",
+      "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
+      "sourceType": "公式本会議録"
+    },
+    {
+      "place": "嵐山町",
+      "season": "spring",
+      "session": "令和8年第1回嵐山町議会定例会",
+      "date": "2026-03",
+      "number": "議案第14号",
+      "title": "令和8年度嵐山町水道事業会計予算議定について",
+      "result": "原案可決",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "sourceTitle": "公式本会議録（PDF）の採決の記述",
+      "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
+      "sourceType": "公式本会議録"
+    },
+    {
+      "place": "嵐山町",
+      "season": "spring",
+      "session": "令和8年第1回嵐山町議会定例会",
+      "date": "2026-03",
+      "number": "議案第15号",
+      "title": "令和8年度嵐山町下水道事業会計予算議定について",
+      "result": "原案可決",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "sourceTitle": "公式本会議録（PDF）の採決の記述",
+      "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
+      "sourceType": "公式本会議録"
+    },
+    {
+      "place": "嵐山町",
+      "season": "spring",
+      "session": "令和8年第1回嵐山町議会定例会",
+      "date": "2026-03",
+      "number": "議案第16号",
+      "title": "第6次嵐山町総合振興計画を改訂することについて",
+      "result": "原案可決",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "sourceTitle": "公式本会議録（PDF）の採決の記述",
+      "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
+      "sourceType": "公式本会議録"
+    },
+    {
+      "place": "嵐山町",
+      "season": "spring",
+      "session": "令和8年第1回嵐山町議会定例会",
+      "date": "2026-03",
+      "number": "議案第17号",
+      "title": "公の施設の指定管理者の指定について(嵐山町子育てステーション嵐丸ひろば)",
+      "result": "原案可決",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "sourceTitle": "公式本会議録（PDF）の採決の記述",
+      "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
+      "sourceType": "公式本会議録"
+    },
+    {
+      "place": "嵐山町",
+      "season": "spring",
+      "session": "令和8年第1回嵐山町議会定例会",
+      "date": "2026-03",
+      "number": "議案第18号",
+      "title": "公の施設の指定管理者の指定について(嵐山町千年の苑手芸施設)",
+      "result": "原案可決",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "sourceTitle": "公式本会議録（PDF）の採決の記述",
+      "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
+      "sourceType": "公式本会議録"
+    },
+    {
+      "place": "嵐山町",
+      "season": "spring",
+      "session": "令和8年第1回嵐山町議会定例会",
+      "date": "2026-03",
+      "number": "議案第19号",
+      "title": "公の施設の指定管理者の指定について(嵐山町地域活力創出拠点施設)",
+      "result": "原案可決",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "sourceTitle": "公式本会議録（PDF）の採決の記述",
+      "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
+      "sourceType": "公式本会議録"
+    },
+    {
+      "place": "嵐山町",
+      "season": "spring",
+      "session": "令和8年第1回嵐山町議会定例会",
+      "date": "2026-03",
+      "number": "議案第20号",
+      "title": "町道路線を認定することについて",
+      "result": "原案可決",
+      "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
+      "sourceTitle": "公式本会議録（PDF）の採決の記述",
+      "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
+      "sourceType": "公式本会議録"
     }
   ],
   "policy": [

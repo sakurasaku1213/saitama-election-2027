@@ -57028,7 +57028,7 @@ GIKAI.questionText = {
       "kind": "議会だよりの質問・答弁要旨（OCR）",
       "scope": "summary",
       "url": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/11/ogano-gikai-85.pdf",
-      "note": "町議会発行の全10頁をOCR収録。表示日は紙面の発行日（町の掲載は11月26日）。審議結果、決算・議案の討論、一般質問６人の項目と５人の要旨（岩田議員の要旨は紙面に掲載なし）。原画像との照合候補頁：1、7。７頁の賛否表は原画像で照合し、議決データに転記。",
+      "note": "町議会発行の全10頁をOCR収録。表示日は紙面の発行日（町の掲載は11月26日）。審議結果、決算・議案の討論、一般質問６人の項目と５人の要旨（岩田議員の要旨は紙面に掲載なし）。原画像との照合候補頁：1、7。７頁の賛否表は原画像で照合し、議決データに転記。８〜10頁の要旨は縦組みの段組をOCRしたため、本文の行の並びが質問者の間で入れ替わる箇所があります（質問者５人は原画像で確認）。",
       "speakers": [
         "出浦正夫",
         "岩田和幸",
@@ -57036,6 +57036,68 @@ GIKAI.questionText = {
         "猪野茂",
         "髙橋耕也",
         "黒沢武"
+      ]
+    },
+    {
+      "id": "f3cd6983098945d18a0b",
+      "place": "伊奈町",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "伊奈町 第48号議案（令和8年6月定例会）",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-06gi48go.pdf",
+      "note": "年月は提出対象の定例会。公表された冊子・別冊の原本。",
+      "speakers": []
+    },
+    {
+      "id": "ba50888d5bfe4e04244b",
+      "place": "伊奈町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "伊奈町 第8号議案（令和8年3月定例会）",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-3gi8go.pdf",
+      "note": "年月は提出対象の定例会。公表された冊子・別冊の原本。",
+      "speakers": []
+    },
+    {
+      "id": "8973bfd7d6f811cae600",
+      "place": "伊奈町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "伊奈町 第18号議案（令和8年3月定例会）",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-3gi18go.pdf",
+      "note": "年月は提出対象の定例会。公表された冊子・別冊の原本。",
+      "speakers": []
+    },
+    {
+      "id": "80828f39340b16dff2c8",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-30",
+      "title": "蕨市 令和７年度 一般会計決算書",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.warabi.saitama.jp/_res/projects/default_project/_page_/001/013/260/7ippan.pdf",
+      "note": "日付は市公式掲載日。一般会計決算書の分割版は掲載元から確認できる。 正規ルーターの文字層・OCRを頁順に収録。",
+      "speakers": []
+    },
+    {
+      "id": "9e449fedb21277be8e4a",
+      "place": "吉川市",
+      "season": "fall",
+      "date": "2026-09-18",
+      "title": "戸田馨議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://yoshikawa.gijiroku.com/g07_Video_View.asp?SrchID=1270",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "戸田馨"
       ]
     }
   ],
@@ -58086,7 +58148,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "第211号の一般質問14人・17主題・26問答と、委員会・決算の17問答、討論14件などを原紙面と照合。一般質問通告23頁と議案質疑通告21頁、９月16～18日の公式録画14人。正式会議録は議会だより第211号によると12月上旬提供予定。 公式録画の機械文字起こし一般質問11本を収録。",
+        "note": "第211号の一般質問14人・17主題・26問答と、委員会・決算の17問答、討論14件などを原紙面と照合。一般質問通告23頁と議案質疑通告21頁、９月16～18日の公式録画14人。正式会議録は議会だより第211号によると12月上旬提供予定。 公式録画の機械文字起こし一般質問12本を収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/yoshikawa/SpMinuteBrowse.html?tenant_id=230&view_years=2026"
       }
     },
