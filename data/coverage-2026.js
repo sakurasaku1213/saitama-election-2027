@@ -1718,8 +1718,8 @@ GIKAI.coverage2026 = {
           "note": "市公式の議案審議結果一覧表の議案18件、請願3件を議決日・件名・結果で照合。"
         },
         "votes": {
-          "state": "identified",
-          "note": "市公式の個人別審議結果一覧（PDF）の掲載を確認。個人別の賛否は未収録。"
+          "state": "verified",
+          "note": "市公式の議員別審議結果（画像PDF）から、賛否が分かれた10件の議員25人欄の賛否を収録（照合役２組の独立読取が全行一致）。全議員（議長を除く）が賛成した11件は注記。"
         },
         "policy": {
           "state": "partial",
@@ -1734,6 +1734,10 @@ GIKAI.coverage2026 = {
         {
           "label": "市公式の定例会情報・議案審議結果一覧表",
           "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html"
+        },
+        {
+          "label": "令和8年第2回加須市議会定例会 議員別審議結果",
+          "url": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_2_teireikai_sinngikekkaitirann_0626_1700.pdf"
         }
       ]
     },
@@ -153725,7 +153729,37 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "votes": {
+        "山本仁美": "賛成",
+        "内田昇": "賛成",
+        "原田悟": "賛成",
+        "中島正和": "賛成",
+        "赤坂和洋": "賛成",
+        "竹内政雄": "賛成",
+        "新井好一": "賛成",
+        "小坂裕": "賛成",
+        "栗原智之": "賛成",
+        "高橋一夫": "賛成",
+        "宮崎智司": "賛成",
+        "山下雄希": "賛成",
+        "金子正則": "議長（表決不参加）",
+        "齋藤理史": "賛成",
+        "田中良夫": "賛成",
+        "森本寿子": "賛成",
+        "池田年美": "賛成",
+        "大内清心": "賛成",
+        "中條恵子": "賛成",
+        "松本幸子": "反対",
+        "佐伯由恵": "反対",
+        "及川和子": "反対",
+        "野中芳子": "賛成",
+        "宮代翔太": "賛成",
+        "池田裕美子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_2_teireikai_sinngikekkaitirann_0626_1700.pdf",
+      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、○賛成・●反対）。議長は表決に加わらず。"
     },
     {
       "place": "加須市",
@@ -153738,7 +153772,37 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "votes": {
+        "山本仁美": "反対",
+        "内田昇": "賛成",
+        "原田悟": "賛成",
+        "中島正和": "賛成",
+        "赤坂和洋": "賛成",
+        "竹内政雄": "賛成",
+        "新井好一": "反対",
+        "小坂裕": "賛成",
+        "栗原智之": "賛成",
+        "高橋一夫": "賛成",
+        "宮崎智司": "賛成",
+        "山下雄希": "賛成",
+        "金子正則": "議長（表決不参加）",
+        "齋藤理史": "賛成",
+        "田中良夫": "賛成",
+        "森本寿子": "賛成",
+        "池田年美": "賛成",
+        "大内清心": "賛成",
+        "中條恵子": "賛成",
+        "松本幸子": "反対",
+        "佐伯由恵": "反対",
+        "及川和子": "反対",
+        "野中芳子": "賛成",
+        "宮代翔太": "賛成",
+        "池田裕美子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_2_teireikai_sinngikekkaitirann_0626_1700.pdf",
+      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、○賛成・●反対）。議長は表決に加わらず。"
     },
     {
       "place": "加須市",
@@ -153751,7 +153815,37 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "votes": {
+        "山本仁美": "反対",
+        "内田昇": "賛成",
+        "原田悟": "賛成",
+        "中島正和": "賛成",
+        "赤坂和洋": "賛成",
+        "竹内政雄": "賛成",
+        "新井好一": "反対",
+        "小坂裕": "賛成",
+        "栗原智之": "賛成",
+        "高橋一夫": "賛成",
+        "宮崎智司": "賛成",
+        "山下雄希": "賛成",
+        "金子正則": "議長（表決不参加）",
+        "齋藤理史": "賛成",
+        "田中良夫": "賛成",
+        "森本寿子": "賛成",
+        "池田年美": "賛成",
+        "大内清心": "賛成",
+        "中條恵子": "賛成",
+        "松本幸子": "反対",
+        "佐伯由恵": "反対",
+        "及川和子": "反対",
+        "野中芳子": "賛成",
+        "宮代翔太": "賛成",
+        "池田裕美子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_2_teireikai_sinngikekkaitirann_0626_1700.pdf",
+      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、○賛成・●反対）。議長は表決に加わらず。"
     },
     {
       "place": "加須市",
@@ -153764,7 +153858,37 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "votes": {
+        "山本仁美": "賛成",
+        "内田昇": "賛成",
+        "原田悟": "賛成",
+        "中島正和": "賛成",
+        "赤坂和洋": "賛成",
+        "竹内政雄": "賛成",
+        "新井好一": "賛成",
+        "小坂裕": "賛成",
+        "栗原智之": "賛成",
+        "高橋一夫": "賛成",
+        "宮崎智司": "賛成",
+        "山下雄希": "賛成",
+        "金子正則": "議長（表決不参加）",
+        "齋藤理史": "賛成",
+        "田中良夫": "賛成",
+        "森本寿子": "賛成",
+        "池田年美": "賛成",
+        "大内清心": "賛成",
+        "中條恵子": "賛成",
+        "松本幸子": "反対",
+        "佐伯由恵": "反対",
+        "及川和子": "反対",
+        "野中芳子": "賛成",
+        "宮代翔太": "賛成",
+        "池田裕美子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_2_teireikai_sinngikekkaitirann_0626_1700.pdf",
+      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、○賛成・●反対）。議長は表決に加わらず。"
     },
     {
       "place": "加須市",
@@ -153777,7 +153901,37 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "votes": {
+        "山本仁美": "反対",
+        "内田昇": "賛成",
+        "原田悟": "賛成",
+        "中島正和": "賛成",
+        "赤坂和洋": "賛成",
+        "竹内政雄": "賛成",
+        "新井好一": "反対",
+        "小坂裕": "賛成",
+        "栗原智之": "賛成",
+        "高橋一夫": "賛成",
+        "宮崎智司": "賛成",
+        "山下雄希": "賛成",
+        "金子正則": "議長（表決不参加）",
+        "齋藤理史": "賛成",
+        "田中良夫": "賛成",
+        "森本寿子": "賛成",
+        "池田年美": "賛成",
+        "大内清心": "賛成",
+        "中條恵子": "賛成",
+        "松本幸子": "反対",
+        "佐伯由恵": "反対",
+        "及川和子": "反対",
+        "野中芳子": "賛成",
+        "宮代翔太": "賛成",
+        "池田裕美子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_2_teireikai_sinngikekkaitirann_0626_1700.pdf",
+      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、○賛成・●反対）。議長は表決に加わらず。"
     },
     {
       "place": "加須市",
@@ -153790,7 +153944,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_2_teireikai_sinngikekkaitirann_0626_1700.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長を除く）が賛成した議案」。"
     },
     {
       "place": "加須市",
@@ -153803,7 +153959,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_2_teireikai_sinngikekkaitirann_0626_1700.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長を除く）が賛成した議案」。"
     },
     {
       "place": "加須市",
@@ -153816,7 +153974,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_2_teireikai_sinngikekkaitirann_0626_1700.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長を除く）が賛成した議案」。"
     },
     {
       "place": "加須市",
@@ -153829,7 +153989,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_2_teireikai_sinngikekkaitirann_0626_1700.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長を除く）が賛成した議案」。"
     },
     {
       "place": "加須市",
@@ -153842,7 +154004,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_2_teireikai_sinngikekkaitirann_0626_1700.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長を除く）が賛成した議案」。"
     },
     {
       "place": "加須市",
@@ -153855,7 +154019,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_2_teireikai_sinngikekkaitirann_0626_1700.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長を除く）が賛成した議案」。"
     },
     {
       "place": "加須市",
@@ -153868,7 +154034,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_2_teireikai_sinngikekkaitirann_0626_1700.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長を除く）が賛成した議案」。"
     },
     {
       "place": "加須市",
@@ -153881,7 +154049,37 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "votes": {
+        "山本仁美": "賛成",
+        "内田昇": "賛成",
+        "原田悟": "賛成",
+        "中島正和": "賛成",
+        "赤坂和洋": "賛成",
+        "竹内政雄": "賛成",
+        "新井好一": "賛成",
+        "小坂裕": "賛成",
+        "栗原智之": "賛成",
+        "高橋一夫": "賛成",
+        "宮崎智司": "賛成",
+        "山下雄希": "賛成",
+        "金子正則": "議長（表決不参加）",
+        "齋藤理史": "賛成",
+        "田中良夫": "賛成",
+        "森本寿子": "賛成",
+        "池田年美": "賛成",
+        "大内清心": "賛成",
+        "中條恵子": "賛成",
+        "松本幸子": "賛成",
+        "佐伯由恵": "賛成",
+        "及川和子": "賛成",
+        "野中芳子": "賛成",
+        "宮代翔太": "賛成",
+        "池田裕美子": "反対"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_2_teireikai_sinngikekkaitirann_0626_1700.pdf",
+      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、○賛成・●反対）。議長は表決に加わらず。"
     },
     {
       "place": "加須市",
@@ -153894,7 +154092,37 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "votes": {
+        "山本仁美": "賛成",
+        "内田昇": "賛成",
+        "原田悟": "賛成",
+        "中島正和": "賛成",
+        "赤坂和洋": "賛成",
+        "竹内政雄": "賛成",
+        "新井好一": "賛成",
+        "小坂裕": "賛成",
+        "栗原智之": "賛成",
+        "高橋一夫": "賛成",
+        "宮崎智司": "賛成",
+        "山下雄希": "賛成",
+        "金子正則": "議長（表決不参加）",
+        "齋藤理史": "賛成",
+        "田中良夫": "賛成",
+        "森本寿子": "賛成",
+        "池田年美": "賛成",
+        "大内清心": "賛成",
+        "中條恵子": "賛成",
+        "松本幸子": "賛成",
+        "佐伯由恵": "賛成",
+        "及川和子": "賛成",
+        "野中芳子": "賛成",
+        "宮代翔太": "賛成",
+        "池田裕美子": "反対"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_2_teireikai_sinngikekkaitirann_0626_1700.pdf",
+      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、○賛成・●反対）。議長は表決に加わらず。"
     },
     {
       "place": "加須市",
@@ -153907,7 +154135,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_2_teireikai_sinngikekkaitirann_0626_1700.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長を除く）が賛成した議案」。"
     },
     {
       "place": "加須市",
@@ -153920,7 +154150,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_2_teireikai_sinngikekkaitirann_0626_1700.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長を除く）が賛成した議案」。"
     },
     {
       "place": "加須市",
@@ -153933,7 +154165,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_2_teireikai_sinngikekkaitirann_0626_1700.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長を除く）が賛成した議案」。"
     },
     {
       "place": "加須市",
@@ -153946,7 +154180,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
       "sourceTitle": "市公式の議案審議結果一覧表",
-      "proposer": "加須市長"
+      "proposer": "加須市長",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_2_teireikai_sinngikekkaitirann_0626_1700.pdf",
+      "voteNote": "市公式の議員別審議結果で「全議員（議長を除く）が賛成した議案」。"
     },
     {
       "place": "加須市",
@@ -153958,7 +154194,37 @@ GIKAI.coverage2026 = {
       "result": "採択",
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
-      "sourceTitle": "市公式の議案審議結果一覧表"
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "votes": {
+        "山本仁美": "賛成",
+        "内田昇": "賛成",
+        "原田悟": "賛成",
+        "中島正和": "賛成",
+        "赤坂和洋": "賛成",
+        "竹内政雄": "賛成",
+        "新井好一": "賛成",
+        "小坂裕": "賛成",
+        "栗原智之": "賛成",
+        "高橋一夫": "賛成",
+        "宮崎智司": "賛成",
+        "山下雄希": "賛成",
+        "金子正則": "議長（表決不参加）",
+        "齋藤理史": "賛成",
+        "田中良夫": "賛成",
+        "森本寿子": "賛成",
+        "池田年美": "賛成",
+        "大内清心": "賛成",
+        "中條恵子": "賛成",
+        "松本幸子": "反対",
+        "佐伯由恵": "反対",
+        "及川和子": "反対",
+        "野中芳子": "賛成",
+        "宮代翔太": "反対",
+        "池田裕美子": "趣旨採択に賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_2_teireikai_sinngikekkaitirann_0626_1700.pdf",
+      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、○賛成・●反対）。議長は表決に加わらず。「趣旨」は採択・不採択ではなく趣旨採択とすることに賛成の立場（表の注記）。"
     },
     {
       "place": "加須市",
@@ -153970,7 +154236,37 @@ GIKAI.coverage2026 = {
       "result": "趣旨採択",
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
-      "sourceTitle": "市公式の議案審議結果一覧表"
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "votes": {
+        "山本仁美": "賛成",
+        "内田昇": "賛成",
+        "原田悟": "賛成",
+        "中島正和": "賛成",
+        "赤坂和洋": "賛成",
+        "竹内政雄": "賛成",
+        "新井好一": "賛成",
+        "小坂裕": "賛成",
+        "栗原智之": "賛成",
+        "高橋一夫": "賛成",
+        "宮崎智司": "賛成",
+        "山下雄希": "賛成",
+        "金子正則": "議長（表決不参加）",
+        "齋藤理史": "賛成",
+        "田中良夫": "賛成",
+        "森本寿子": "賛成",
+        "池田年美": "賛成",
+        "大内清心": "賛成",
+        "中條恵子": "賛成",
+        "松本幸子": "反対（「採択」とする立場）",
+        "佐伯由恵": "反対（「採択」とする立場）",
+        "及川和子": "反対（「採択」とする立場）",
+        "野中芳子": "反対（「採択」とする立場）",
+        "宮代翔太": "賛成",
+        "池田裕美子": "反対（「採択」とする立場）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_2_teireikai_sinngikekkaitirann_0626_1700.pdf",
+      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、○賛成・●反対）。議長は表決に加わらず。「●※」は趣旨採択ではなく採択とすることに賛成の立場（表の注記）。"
     },
     {
       "place": "加須市",
@@ -153982,7 +154278,37 @@ GIKAI.coverage2026 = {
       "result": "不採択",
       "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
       "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
-      "sourceTitle": "市公式の議案審議結果一覧表"
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "votes": {
+        "山本仁美": "反対",
+        "内田昇": "反対",
+        "原田悟": "反対",
+        "中島正和": "反対",
+        "赤坂和洋": "反対",
+        "竹内政雄": "反対",
+        "新井好一": "反対",
+        "小坂裕": "反対",
+        "栗原智之": "反対",
+        "高橋一夫": "反対",
+        "宮崎智司": "反対",
+        "山下雄希": "反対",
+        "金子正則": "議長（表決不参加）",
+        "齋藤理史": "反対",
+        "田中良夫": "反対",
+        "森本寿子": "反対",
+        "池田年美": "反対",
+        "大内清心": "反対",
+        "中條恵子": "反対",
+        "松本幸子": "反対",
+        "佐伯由恵": "反対",
+        "及川和子": "反対",
+        "野中芳子": "賛成",
+        "宮代翔太": "賛成",
+        "池田裕美子": "趣旨採択に賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_2_teireikai_sinngikekkaitirann_0626_1700.pdf",
+      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、○賛成・●反対）。議長は表決に加わらず。「趣旨」は採択・不採択ではなく趣旨採択とすることに賛成の立場（表の注記）。"
     },
     {
       "place": "日高市",
