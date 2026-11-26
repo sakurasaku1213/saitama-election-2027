@@ -663,7 +663,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "notFound",
-          "note": "議会だよりの一般質問19人の問答と４常任委員会の質疑を収録。公式録画目録は９月10日に７人、11・14日に各６人。正式会議録と原音照合は確認中。 公式録画の機械文字起こし一般質問13本を収録。"
+          "note": "議会だよりの一般質問19人の問答と４常任委員会の質疑を収録。公式録画目録は９月10日に７人、11・14日に各６人。正式会議録と原音照合は確認中。 公式録画の機械文字起こし一般質問14本を収録。"
         },
         "decisions": {
           "state": "verified",
@@ -9970,6 +9970,10 @@ GIKAI.coverage2026 = {
         {
           "label": "定例会の議決結果表",
           "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf"
+        },
+        {
+          "label": "予算説明書・総括表の公式掲載一覧",
+          "url": "https://www.town.saitama-misato.lg.jp/0000001650.html"
         }
       ]
     },
@@ -10022,6 +10026,10 @@ GIKAI.coverage2026 = {
         {
           "label": "定例会の議決結果表",
           "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/R8.6kekka.pdf"
+        },
+        {
+          "label": "予算説明書・総括表の公式掲載一覧",
+          "url": "https://www.town.saitama-misato.lg.jp/0000001650.html"
         }
       ]
     },
@@ -10090,6 +10098,10 @@ GIKAI.coverage2026 = {
         {
           "label": "第４回小学校建設検討委員会・概要録",
           "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000000/253/R8.4_gaiyouroku.pdf"
+        },
+        {
+          "label": "予算説明書・総括表の公式掲載一覧",
+          "url": "https://www.town.saitama-misato.lg.jp/0000001650.html"
         }
       ]
     },
@@ -10142,6 +10154,14 @@ GIKAI.coverage2026 = {
         {
           "label": "議決を確認した公式本会議録",
           "url": "https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteView.html?tenant_id=73&council_id=95&schedule_id=5"
+        },
+        {
+          "label": "予算説明書・総括表の公式掲載一覧",
+          "url": "https://www.town.kamikawa.saitama.jp/soshiki/sougouseisaku/zaisei/yosan/6282.html"
+        },
+        {
+          "label": "予算説明書・総括表の公式掲載一覧",
+          "url": "https://www.town.kamikawa.saitama.jp/soshiki/sougouseisaku/zaisei/yosan/6917.html"
         }
       ]
     },
@@ -10190,6 +10210,10 @@ GIKAI.coverage2026 = {
         {
           "label": "議決を確認した公式本会議録",
           "url": "https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteView.html?tenant_id=73&council_id=96&schedule_id=3"
+        },
+        {
+          "label": "予算説明書・総括表の公式掲載一覧",
+          "url": "https://www.town.kamikawa.saitama.jp/soshiki/sougouseisaku/zaisei/yosan/6917.html"
         }
       ]
     },

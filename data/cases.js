@@ -512,6 +512,7 @@ GIKAI.cases.push(
         detail: "町は９月17日議決として一般会計補正予算（第４号）を公表した。歳出の事項別明細書に、水道事業会計への補助金1,540万3,000円が計上されている。",
         url: "https://www.town.kamikawa.saitama.jp/material/files/group/3/r08_ippan_meisaisyo_hosei4.pdf#page=9",
         sourceTitle: "神川町 ９月補正予算（第４号）事項別明細書 PDF９頁",
+        archiveId: "3d453079ae105df1020c", blocks: [9],
       },
       {
         date: "2026-09-18", stage: "10～11月分の延長を案内", actor: "神川町",
@@ -1390,7 +1391,11 @@ GIKAI.cases.push(
         "detail": "町議会は令和８年度一般会計予算を原案可決した。町の予算説明書は統合整備事業の設計監理業務に３億6,549万5,000円、スクールバス運行計画策定に471万9,000円を記載。",
         "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1650/R8yosannsyo.pdf#page=86",
         "sourceTitle": "美里町 令和８年度予算に関する説明書86頁",
-        "billNumber": "議案第1号"
+        "billNumber": "議案第1号",
+        "archiveId": "53edbb74430e40389d5f",
+        "blocks": [
+          86
+        ]
       },
       {
         "date": "2026-03-27",
@@ -1433,6 +1438,19 @@ GIKAI.cases.push(
         "sourceTitle": "第３回建設検討委員会概要録２～４頁"
       },
       {
+        "date": "2026-09-18",
+        "stage": "統合整備事業の解体撤去費4,862万円を補正で予算化",
+        "actor": "美里町議会、美里町",
+        "detail": "町議会は令和８年度一般会計補正予算（第４号）を原案可決。町の予算説明書では小学校統合整備事業の解体撤去工事費に4,862万円を追加し、財源の内訳を地方債4,860万円と一般財源２万円としている。",
+        "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1650/R0809_2.pdf#page=6",
+        "sourceTitle": "美里町 令和８年度９月追加補正予算説明書 PDF６頁",
+        "billNumber": "議案第29号",
+        "archiveId": "44fe245aa638a949553e",
+        "blocks": [
+          6
+        ]
+      },
+      {
         "date": "2026-10-26",
         "actor": "美里町",
         "stage": "北棟・南棟を鉄骨造に変える案を会議資料に提示",
@@ -1440,7 +1458,9 @@ GIKAI.cases.push(
         "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000000/253/R8.4_kensetsukentou_kaigi_.pdf#page=2",
         "sourceTitle": "第４回建設検討委員会の会議資料 PDF２頁",
         "archiveId": "bfbfb20fd14f24db5530",
-        "blocks": [2]
+        "blocks": [
+          2
+        ]
       },
       {
         "date": "2026-10-26",
@@ -1450,9 +1470,21 @@ GIKAI.cases.push(
         "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000000/253/R8.4_gaiyouroku.pdf#page=2",
         "sourceTitle": "第４回建設検討委員会概要録１～３頁・議事（１）",
         "archiveId": "af19f26b9edcba2e429a",
-        "blocks": [1, 2, 3],
+        "blocks": [
+          1,
+          2,
+          3
+        ],
         "memberActions": [
-          { "name": "櫻沢保", "blocks": [1, 2, 3], "detail": "委員長として構造変更案の説明と質疑を進行し、質疑終了後に承認を確認した。" }
+          {
+            "name": "櫻沢保",
+            "blocks": [
+              1,
+              2,
+              3
+            ],
+            "detail": "委員長として構造変更案の説明と質疑を進行し、質疑終了後に承認を確認した。"
+          }
         ]
       },
       {
@@ -1463,9 +1495,20 @@ GIKAI.cases.push(
         "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000000/253/R8.4_gaiyouroku.pdf#page=3",
         "sourceTitle": "第４回建設検討委員会概要録３～４頁・議事（２）",
         "archiveId": "af19f26b9edcba2e429a",
-        "blocks": [3, 4],
+        "blocks": [
+          3,
+          4
+        ],
         "memberActions": [
-          { "name": "櫻沢保", "blocks": [1, 3, 4], "detail": "委員長として給食納品場所追加案の説明と質疑を進行し、質疑終了後に承認を確認した。" }
+          {
+            "name": "櫻沢保",
+            "blocks": [
+              1,
+              3,
+              4
+            ],
+            "detail": "委員長として給食納品場所追加案の説明と質疑を進行し、質疑終了後に承認を確認した。"
+          }
         ]
       },
       {
@@ -1476,7 +1519,9 @@ GIKAI.cases.push(
         "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000000/253/R8.4_gaiyouroku.pdf#page=4",
         "sourceTitle": "第４回建設検討委員会概要録４頁・議事（３）",
         "archiveId": "af19f26b9edcba2e429a",
-        "blocks": [4]
+        "blocks": [
+          4
+        ]
       },
       {
         "date": "2026-11-25",
