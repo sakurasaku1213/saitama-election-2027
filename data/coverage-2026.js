@@ -63532,7 +63532,9 @@ GIKAI.coverage2026 = {
         "小野由美子": "賛成"
       },
       "proposer": "市長",
-      "voteNote": "原表は賛成25、反対0。"
+      "voteNote": "原表は賛成25、反対0。",
+      "date": "2026-09-24",
+      "dateSource": "議決日は公式録画（9月24日の本会議、https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1894）の機械文字起こしにある採決の宣告で確認（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "新座市",
@@ -63575,7 +63577,9 @@ GIKAI.coverage2026 = {
         "小野由美子": "賛成"
       },
       "proposer": "市長",
-      "voteNote": "原表は賛成25、反対0。"
+      "voteNote": "原表は賛成25、反対0。",
+      "date": "2026-09-24",
+      "dateSource": "議決日は公式録画（9月24日の本会議、https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1894）の機械文字起こしにある採決の宣告で確認（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "新座市",
@@ -63618,7 +63622,9 @@ GIKAI.coverage2026 = {
         "小野由美子": "賛成"
       },
       "proposer": "市長",
-      "voteNote": "原表は賛成25、反対0。"
+      "voteNote": "原表は賛成25、反対0。",
+      "date": "2026-09-24",
+      "dateSource": "議決日は公式録画（9月24日の本会議、https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1894）の機械文字起こしにある採決の宣告で確認（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "新座市",
@@ -63661,7 +63667,9 @@ GIKAI.coverage2026 = {
         "小野由美子": "賛成"
       },
       "proposer": "市長",
-      "voteNote": "原表は賛成25、反対0。"
+      "voteNote": "原表は賛成25、反対0。",
+      "date": "2026-09-24",
+      "dateSource": "議決日は公式録画（9月24日の本会議、https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1894）の機械文字起こしにある採決の宣告で確認（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "新座市",
@@ -63704,7 +63712,9 @@ GIKAI.coverage2026 = {
         "小野由美子": "反対"
       },
       "proposer": "市長",
-      "voteNote": "原表は賛成18、反対7。"
+      "voteNote": "原表は賛成18、反対7。",
+      "date": "2026-09-24",
+      "dateSource": "議決日は公式録画（9月24日の本会議、https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1894）の機械文字起こしにある採決の宣告で確認（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "新座市",
@@ -63747,7 +63757,9 @@ GIKAI.coverage2026 = {
         "小野由美子": "反対"
       },
       "proposer": "市長",
-      "voteNote": "原表は賛成18、反対7。"
+      "voteNote": "原表は賛成18、反対7。",
+      "date": "2026-09-24",
+      "dateSource": "議決日は公式録画（9月24日の本会議、https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1894）の機械文字起こしにある採決の宣告で確認（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "新座市",
@@ -63790,7 +63802,9 @@ GIKAI.coverage2026 = {
         "小野由美子": "賛成"
       },
       "proposer": "市長",
-      "voteNote": "原表は賛成25、反対0。"
+      "voteNote": "原表は賛成25、反対0。",
+      "date": "2026-09-24",
+      "dateSource": "議決日は公式録画（9月24日の本会議、https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1894）の機械文字起こしにある採決の宣告で確認（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "新座市",
@@ -63833,7 +63847,9 @@ GIKAI.coverage2026 = {
         "小野由美子": "賛成"
       },
       "proposer": "市長",
-      "voteNote": "原表は賛成25、反対0。"
+      "voteNote": "原表は賛成25、反対0。",
+      "date": "2026-09-24",
+      "dateSource": "議決日は公式録画（9月24日の本会議、https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1894）の機械文字起こしにある採決の宣告で確認（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "新座市",
@@ -63876,7 +63892,9 @@ GIKAI.coverage2026 = {
         "小野由美子": "賛成"
       },
       "proposer": "市長",
-      "voteNote": "原表は賛成25、反対0。"
+      "voteNote": "原表は賛成25、反対0。",
+      "date": "2026-08-27",
+      "dateSource": "議決日は公式録画（8月27日の本会議、https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1865）の機械文字起こしにある採決の宣告で確認（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "新座市",
@@ -63919,7 +63937,9 @@ GIKAI.coverage2026 = {
         "小野由美子": "反対"
       },
       "proposer": "市長",
-      "voteNote": "原表は賛成18、反対7。"
+      "voteNote": "原表は賛成18、反対7。",
+      "date": "2026-09-24",
+      "dateSource": "議決日は公式録画（9月24日の本会議、https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1894）の機械文字起こしにある採決の宣告で確認（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "新座市",
@@ -63962,7 +63982,9 @@ GIKAI.coverage2026 = {
         "小野由美子": "賛成"
       },
       "proposer": "市長",
-      "voteNote": "原表は賛成25、反対0。"
+      "voteNote": "原表は賛成25、反対0。",
+      "date": "2026-09-24",
+      "dateSource": "議決日は公式録画（9月24日の本会議、https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1894）の機械文字起こしにある採決の宣告で確認（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "新座市",
@@ -64005,7 +64027,9 @@ GIKAI.coverage2026 = {
         "小野由美子": "賛成"
       },
       "proposer": "市長",
-      "voteNote": "原表は賛成25、反対0。"
+      "voteNote": "原表は賛成25、反対0。",
+      "date": "2026-09-24",
+      "dateSource": "議決日は公式録画（9月24日の本会議、https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1894）の機械文字起こしにある採決の宣告で確認（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "新座市",
@@ -64048,7 +64072,9 @@ GIKAI.coverage2026 = {
         "小野由美子": "賛成"
       },
       "proposer": "市長",
-      "voteNote": "原表は賛成25、反対0。"
+      "voteNote": "原表は賛成25、反対0。",
+      "date": "2026-09-24",
+      "dateSource": "議決日は公式録画（9月24日の本会議、https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1894）の機械文字起こしにある採決の宣告で確認（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "新座市",
@@ -64091,7 +64117,9 @@ GIKAI.coverage2026 = {
         "小野由美子": "反対"
       },
       "proposer": "市長",
-      "voteNote": "原表は賛成18、反対7。"
+      "voteNote": "原表は賛成18、反対7。",
+      "date": "2026-09-25",
+      "dateSource": "議決日は公式録画（9月25日の本会議、https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1895）の機械文字起こしにある採決の宣告で確認（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "新座市",
@@ -64134,7 +64162,9 @@ GIKAI.coverage2026 = {
         "小野由美子": "反対"
       },
       "proposer": "市長",
-      "voteNote": "原表は賛成18、反対7。"
+      "voteNote": "原表は賛成18、反対7。",
+      "date": "2026-09-25",
+      "dateSource": "議決日は公式録画（9月25日の本会議、https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1895）の機械文字起こしにある採決の宣告で確認（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "新座市",
@@ -64177,7 +64207,9 @@ GIKAI.coverage2026 = {
         "小野由美子": "賛成"
       },
       "proposer": "市長",
-      "voteNote": "原表は賛成23、反対2。"
+      "voteNote": "原表は賛成23、反対2。",
+      "date": "2026-09-25",
+      "dateSource": "議決日は公式録画（9月25日の本会議、https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1895）の機械文字起こしにある採決の宣告で確認（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "新座市",
@@ -64220,7 +64252,9 @@ GIKAI.coverage2026 = {
         "小野由美子": "反対"
       },
       "proposer": "市長",
-      "voteNote": "原表は賛成18、反対7。"
+      "voteNote": "原表は賛成18、反対7。",
+      "date": "2026-09-25",
+      "dateSource": "議決日は公式録画（9月25日の本会議、https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1895）の機械文字起こしにある採決の宣告で確認（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "新座市",
@@ -64263,7 +64297,9 @@ GIKAI.coverage2026 = {
         "小野由美子": "賛成"
       },
       "proposer": "市長",
-      "voteNote": "原表は賛成25、反対0。"
+      "voteNote": "原表は賛成25、反対0。",
+      "date": "2026-09-25",
+      "dateSource": "議決日は公式録画（9月25日の本会議、https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1895）の機械文字起こしにある採決の宣告で確認（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "新座市",
@@ -64306,7 +64342,9 @@ GIKAI.coverage2026 = {
         "小野由美子": "賛成"
       },
       "proposer": "市長",
-      "voteNote": "原表は賛成25、反対0。"
+      "voteNote": "原表は賛成25、反対0。",
+      "date": "2026-09-25",
+      "dateSource": "議決日は公式録画（9月25日の本会議、https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1895）の機械文字起こしにある採決の宣告で確認（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "新座市",
@@ -64349,7 +64387,9 @@ GIKAI.coverage2026 = {
         "小野由美子": "賛成"
       },
       "proposer": "市長",
-      "voteNote": "原表は賛成25、反対0。"
+      "voteNote": "原表は賛成25、反対0。",
+      "date": "2026-09-25",
+      "dateSource": "議決日は公式録画（9月25日の本会議、https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1895）の機械文字起こしにある採決の宣告で確認（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "新座市",
@@ -64392,7 +64432,9 @@ GIKAI.coverage2026 = {
         "小野由美子": "賛成"
       },
       "proposer": "市長",
-      "voteNote": "原表は賛成25、反対0。"
+      "voteNote": "原表は賛成25、反対0。",
+      "date": "2026-09-25",
+      "dateSource": "議決日は公式録画（9月25日の本会議、https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1895）の機械文字起こしにある採決の宣告で確認。文字起こしでは番号が「85」と聞き取られているが、件名（工事請負契約の締結・大和田小学校屋内運動場改築工事）から議案第80号と判断（第85号は市道路線の廃止で、同日に委員長報告どおり可決の宣告が別にある）（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "新座市",
@@ -64435,7 +64477,9 @@ GIKAI.coverage2026 = {
         "小野由美子": "賛成"
       },
       "proposer": "市長",
-      "voteNote": "原表は賛成25、反対0。"
+      "voteNote": "原表は賛成25、反対0。",
+      "date": "2026-09-25",
+      "dateSource": "議決日は公式録画（9月25日の本会議、https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1895）の機械文字起こしにある採決の宣告で確認（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "新座市",
@@ -64478,7 +64522,9 @@ GIKAI.coverage2026 = {
         "小野由美子": "賛成"
       },
       "proposer": "市長",
-      "voteNote": "原表は賛成25、反対0。"
+      "voteNote": "原表は賛成25、反対0。",
+      "date": "2026-09-25",
+      "dateSource": "議決日は公式録画（9月25日の本会議、https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1895）の機械文字起こしにある採決の宣告で確認（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "新座市",
@@ -64521,7 +64567,9 @@ GIKAI.coverage2026 = {
         "小野由美子": "賛成"
       },
       "proposer": "市長",
-      "voteNote": "原表は賛成25、反対0。"
+      "voteNote": "原表は賛成25、反対0。",
+      "date": "2026-09-25",
+      "dateSource": "議決日は公式録画（9月25日の本会議、https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1895）の機械文字起こしにある採決の宣告で確認（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "新座市",
@@ -64564,7 +64612,9 @@ GIKAI.coverage2026 = {
         "小野由美子": "賛成"
       },
       "proposer": "市長",
-      "voteNote": "原表は賛成25、反対0。"
+      "voteNote": "原表は賛成25、反対0。",
+      "date": "2026-09-25",
+      "dateSource": "議決日は公式録画（9月25日の本会議、https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1895）の機械文字起こしにある採決の宣告で確認（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "新座市",
@@ -64607,7 +64657,9 @@ GIKAI.coverage2026 = {
         "小野由美子": "賛成"
       },
       "proposer": "市長",
-      "voteNote": "原表は賛成25、反対0。"
+      "voteNote": "原表は賛成25、反対0。",
+      "date": "2026-09-25",
+      "dateSource": "議決日は公式録画（9月25日の本会議、https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1895）の機械文字起こしにある採決の宣告で確認（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "新座市",
@@ -64650,7 +64702,9 @@ GIKAI.coverage2026 = {
         "小野由美子": "賛成"
       },
       "proposer": "市長",
-      "voteNote": "原表は賛成25、反対0。"
+      "voteNote": "原表は賛成25、反対0。",
+      "date": "2026-09-25",
+      "dateSource": "議決日は公式録画（9月25日の本会議、https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1895）の機械文字起こしにある採決の宣告で確認（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "新座市",
@@ -64693,7 +64747,9 @@ GIKAI.coverage2026 = {
         "小野由美子": "賛成"
       },
       "proposer": "市長",
-      "voteNote": "原表は賛成25、反対0。"
+      "voteNote": "原表は賛成25、反対0。",
+      "date": "2026-09-28",
+      "dateSource": "議決日は公式録画（9月28日の本会議、https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1896）の機械文字起こしにある採決の宣告で確認（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "新座市",
@@ -64911,7 +64967,9 @@ GIKAI.coverage2026 = {
         "黒田実樹": "賛成",
         "小野由美子": "賛成"
       },
-      "voteNote": "原表は賛成7、反対18。陳情本体と趣旨採択を求める動議は別の採決。"
+      "voteNote": "原表は賛成7、反対18。陳情本体と趣旨採択を求める動議は別の採決。",
+      "date": "2026-08-27",
+      "dateSource": "議決日は公式録画（8月27日の本会議、https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1865）の機械文字起こしにある採決の宣告で確認（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "新座市",
@@ -64953,7 +65011,9 @@ GIKAI.coverage2026 = {
         "黒田実樹": "反対",
         "小野由美子": "反対"
       },
-      "voteNote": "原表は賛成12、反対13。陳情本体と趣旨採択を求める動議は別の採決。"
+      "voteNote": "原表は賛成12、反対13。陳情本体と趣旨採択を求める動議は別の採決。",
+      "date": "2026-08-27",
+      "dateSource": "議決日は公式録画（8月27日の本会議、https://niiza-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1865）の機械文字起こしにある採決の宣告で確認。文字起こしは「趣旨採択」を「否決採択」、「動議」を「同意」と聞き取っている（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "白岡市",
