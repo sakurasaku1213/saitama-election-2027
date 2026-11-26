@@ -2762,8 +2762,8 @@ GIKAI.coverage2026 = {
           "note": "議決結果 15件を収録。対象資料・頁は各議案に表示。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "議会だより No.82 12頁の議員別の賛否を、照合役２組の独立読取の一致と原画像で確認し、採決のあった議決15件のうち6件に収録（全会一致等の注記のみ9件）。"
         },
         "policy": {
           "state": "partial",
@@ -2814,6 +2814,10 @@ GIKAI.coverage2026 = {
         {
           "label": "鴻巣市議会の常任委員会会議録",
           "url": "https://www.city.kounosu.saitama.jp/site/gikai/42049.html"
+        },
+        {
+          "label": "鴻巣市 議会だより No.82 12頁",
+          "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf"
         }
       ]
     },
@@ -2842,8 +2846,8 @@ GIKAI.coverage2026 = {
           "note": "議決結果 6件を収録。対象資料・頁は各議案に表示。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "議会だより No.83 ８頁の議員別の賛否を、照合役２組の独立読取の一致と原画像で確認し、採決のあった議決6件のうち4件に収録（全会一致等の注記のみ2件）。"
         },
         "policy": {
           "state": "partial",
@@ -2886,6 +2890,10 @@ GIKAI.coverage2026 = {
         {
           "label": "鴻巣市議会の常任委員会会議録",
           "url": "https://www.city.kounosu.saitama.jp/site/gikai/42049.html"
+        },
+        {
+          "label": "鴻巣市 議会だより No.83 ８頁",
+          "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27700.pdf"
         }
       ]
     },
@@ -2914,8 +2922,8 @@ GIKAI.coverage2026 = {
           "note": "公式議決結果の34件を件名・議決日・結果で照合。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "議会だより No.84 ７頁の議員別の賛否を、照合役２組の独立読取の一致と原画像で確認し、採決のあった議決34件のうち16件に収録（全会一致等の注記のみ18件）。"
         },
         "policy": {
           "state": "partial",
@@ -2942,6 +2950,10 @@ GIKAI.coverage2026 = {
         {
           "label": "９月３日の本会議録",
           "url": "https://ssp.kaigiroku.net/tenant/kounosu/SpMinuteView.html?tenant_id=85&council_id=433&schedule_id=3"
+        },
+        {
+          "label": "鴻巣市 議会だより No.84 ７頁",
+          "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28862.pdf"
         }
       ]
     },
@@ -4438,8 +4450,8 @@ GIKAI.coverage2026 = {
           "note": "議決結果 32件を収録。対象資料・頁は各議案に表示。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "議会だより No.212 10頁の議員別の賛否を、照合役２組の独立読取の一致と原画像で確認し、採決のあった議決43件のうち6件に収録（全会一致等の注記のみ9件）。"
         },
         "policy": {
           "state": "partial",
@@ -4486,8 +4498,8 @@ GIKAI.coverage2026 = {
           "note": "議決結果 10件を収録。対象資料・頁は各議案に表示。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "議会だより No.213 11頁の議員別の賛否を、照合役２組の独立読取の一致と原画像で確認し、採決のあった議決17件のうち2件に収録。"
         },
         "policy": {
           "state": "partial",
@@ -4506,6 +4518,10 @@ GIKAI.coverage2026 = {
         {
           "label": "志木市議会6月定例会の議案等一覧・審議結果",
           "url": "https://www.city.shiki.lg.jp/uploaded/attachment/23644.pdf"
+        },
+        {
+          "label": "志木市 議会だより No.213 11頁",
+          "url": "https://www.city.shiki.lg.jp/uploaded/attachment/23645.pdf"
         }
       ]
     },
@@ -6822,8 +6838,8 @@ GIKAI.coverage2026 = {
           "note": "公式の審議結果の議案25件を議決日・件名・結果で照合。"
         },
         "votes": {
-          "state": "identified",
-          "note": "公式審議結果は議決結果のみ。全員・多数・少数の別を注記に表示。個人別の賛否は未収録。"
+          "state": "verified",
+          "note": "議会だより No.131 ２頁・議会だより No.131 ３頁の議員別の賛否を、照合役２組の独立読取の一致と原画像で確認し、採決のあった議決25件のうち25件に収録。"
         },
         "policy": {
           "state": "partial",
@@ -6838,6 +6854,14 @@ GIKAI.coverage2026 = {
         {
           "label": "公式の審議結果",
           "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf"
+        },
+        {
+          "label": "日高市 議会だより No.131 ２頁",
+          "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R805-2.pdf"
+        },
+        {
+          "label": "日高市 議会だより No.131 ３頁",
+          "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R805-3.pdf"
         }
       ]
     },
@@ -6866,8 +6890,8 @@ GIKAI.coverage2026 = {
           "note": "公式の審議結果の議案8件、請願2件を議決日・件名・結果で照合。"
         },
         "votes": {
-          "state": "identified",
-          "note": "公式審議結果は議決結果のみ。全員・多数・少数の別を注記に表示。個人別の賛否は未収録。"
+          "state": "verified",
+          "note": "議会だより No.132 ２頁の議員別の賛否を、照合役２組の独立読取の一致と原画像で確認し、採決のあった議決10件のうち10件に収録。"
         },
         "policy": {
           "state": "partial",
@@ -6882,6 +6906,10 @@ GIKAI.coverage2026 = {
         {
           "label": "公式の審議結果",
           "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R0803shinngikekka.pdf"
+        },
+        {
+          "label": "日高市 議会だより No.132 ２頁",
+          "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R808-2.pdf"
         }
       ]
     },
@@ -7374,8 +7402,8 @@ GIKAI.coverage2026 = {
           "note": "公式原表にある23件を収録。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "議会だより No.231 ７頁の議員別の賛否を、照合役２組の独立読取の一致と原画像で確認し、採決のあった議決23件のうち23件に収録。"
         },
         "policy": {
           "state": "partial",
@@ -7390,6 +7418,10 @@ GIKAI.coverage2026 = {
         {
           "url": "https://www.city.shiraoka.lg.jp/soshiki/gikaijimukyoku/5/R8teireikai-joho/9165.html",
           "label": "市議会の定例会日程・議決結果"
+        },
+        {
+          "label": "白岡市 議会だより No.231 ７頁",
+          "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/P7-231.pdf"
         }
       ]
     },
@@ -7418,8 +7450,8 @@ GIKAI.coverage2026 = {
           "note": "公式原表にある34件を収録。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "議会だより No.232 ３頁の議員別の賛否を、照合役２組の独立読取の一致と原画像で確認し、採決のあった議決29件のうち29件に収録。"
         },
         "policy": {
           "state": "partial",
@@ -7434,6 +7466,10 @@ GIKAI.coverage2026 = {
         {
           "url": "https://www.city.shiraoka.lg.jp/soshiki/gikaijimukyoku/5/R8teireikai-joho/9165.html",
           "label": "市議会の定例会日程・議決結果"
+        },
+        {
+          "label": "白岡市 議会だより No.232 ３頁",
+          "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/P3-232.pdf"
         }
       ]
     },
@@ -7462,8 +7498,8 @@ GIKAI.coverage2026 = {
           "note": "公式原表にある21件を収録。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "議会だより No.233 16頁の議員別の賛否を、照合役２組の独立読取の一致と原画像で確認し、採決のあった議決20件のうち20件に収録。"
         },
         "policy": {
           "state": "partial",
@@ -7478,6 +7514,10 @@ GIKAI.coverage2026 = {
         {
           "url": "https://www.city.shiraoka.lg.jp/soshiki/gikaijimukyoku/5/R8teireikai-joho/9165.html",
           "label": "市議会の定例会日程・議決結果"
+        },
+        {
+          "label": "白岡市 議会だより No.233 16頁",
+          "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/P16-233.pdf"
         }
       ]
     },
@@ -8206,8 +8246,8 @@ GIKAI.coverage2026 = {
           "note": "公式本会議録の採決の記述から発議1件、請願1件、議案23件を収録し、議事日程の表決対象と照合。日付欄は会期の年月。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "議会だより No.161の議員別の賛否を、照合役２組の独立読取の一致と原画像で確認し、採決のあった議決25件のうち11件に収録（全会一致等の注記のみ14件）。"
         },
         "policy": {
           "state": "partial",
@@ -8222,6 +8262,10 @@ GIKAI.coverage2026 = {
         {
           "label": "3月定例会の会議録PDF",
           "url": "https://www.town.namegawa.saitama.jp/material/files/group/12/R0803Teireikai.pdf"
+        },
+        {
+          "label": "滑川町 議会だより No.161",
+          "url": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf"
         }
       ]
     },
@@ -8250,8 +8294,8 @@ GIKAI.coverage2026 = {
           "note": "公式本会議録の採決の記述から議案3件を収録し、議事日程の表決対象と照合。日付欄は会期の年月。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "議会だより No.162の議員別の賛否を、照合役２組の独立読取の一致と原画像で確認し、採決のあった議決3件のうち3件に収録。"
         },
         "policy": {
           "state": "partial",
@@ -8266,6 +8310,10 @@ GIKAI.coverage2026 = {
         {
           "label": "6月定例会の会議録PDF",
           "url": "https://www.town.namegawa.saitama.jp/material/files/group/12/R0806Teireikai.pdf"
+        },
+        {
+          "label": "滑川町 議会だより No.162",
+          "url": "https://www.town.namegawa.saitama.jp/material/files/group/12/gikaidayori162.pdf"
         }
       ]
     },
@@ -8342,8 +8390,8 @@ GIKAI.coverage2026 = {
           "note": "公式本会議録の採決の記述から同意1件、承認1件、発議5件、議案20件を収録し、議事日程の表決対象と照合。日付欄は会期の年月（一般会計予算は議決日）。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "議会だより No.202の議員別の賛否を、照合役２組の独立読取の一致と原画像で確認し、採決のあった議決27件のうち12件に収録。"
         },
         "policy": {
           "state": "partial",
@@ -8362,6 +8410,10 @@ GIKAI.coverage2026 = {
         {
           "label": "３月17日の当初予算議決",
           "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf#page=303"
+        },
+        {
+          "label": "嵐山町 議会だより No.202",
+          "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7894/gikaidayori202.pdf"
         }
       ]
     },
@@ -9522,8 +9574,8 @@ GIKAI.coverage2026 = {
           "note": "公式の審議結果表に掲載された26行を、件名・結果・掲載箇所で照合。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "議会だより No.57の議員別の賛否を、照合役２組の独立読取の一致と原画像で確認し、採決のあった議決26件のうち26件に収録。"
         },
         "policy": {
           "state": "partial",
@@ -9542,6 +9594,10 @@ GIKAI.coverage2026 = {
         {
           "label": "議決結果の原典",
           "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf"
+        },
+        {
+          "label": "皆野町 議会だより No.57",
+          "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf"
         }
       ]
     },
@@ -9570,8 +9626,8 @@ GIKAI.coverage2026 = {
           "note": "公式の審議結果表に掲載された18行を、件名・結果・掲載箇所で照合。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "議会だより No.58の議員別の賛否を、照合役２組の独立読取の一致と原画像で確認し、採決のあった議決18件のうち18件に収録。"
         },
         "policy": {
           "state": "partial",
@@ -9598,6 +9654,10 @@ GIKAI.coverage2026 = {
         {
           "label": "本格運行の案内",
           "url": "https://www.town.minano.saitama.jp/section/soumu/50366/"
+        },
+        {
+          "label": "皆野町 議会だより No.58",
+          "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/444d68095e7ac4022e19a7a99e18b9bb.pdf"
         }
       ]
     },
@@ -10210,8 +10270,8 @@ GIKAI.coverage2026 = {
           "note": "公式結果表の23件を原表の議案番号・議決番号・議決日・結果で照合。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "議会だより No.153 ８頁の議員別の賛否を、照合役２組の独立読取の一致と原画像で確認し、採決のあった議決23件のうち23件に収録。"
         },
         "policy": {
           "state": "partial",
@@ -10238,6 +10298,10 @@ GIKAI.coverage2026 = {
         {
           "label": "予算説明書・総括表の公式掲載一覧",
           "url": "https://www.town.saitama-misato.lg.jp/0000001650.html"
+        },
+        {
+          "label": "美里町 議会だより No.153 ８頁",
+          "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000002/2629/No153_P08-09.pdf"
         }
       ]
     },
@@ -10266,8 +10330,8 @@ GIKAI.coverage2026 = {
           "note": "公式結果表の9件を原表の議案番号・議決番号・議決日・結果で照合。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "議会だより No.154 ４頁の議員別の賛否を、照合役２組の独立読取の一致と原画像で確認し、採決のあった議決9件のうち8件に収録。"
         },
         "policy": {
           "state": "partial",
@@ -10294,6 +10358,10 @@ GIKAI.coverage2026 = {
         {
           "label": "予算説明書・総括表の公式掲載一覧",
           "url": "https://www.town.saitama-misato.lg.jp/0000001650.html"
+        },
+        {
+          "label": "美里町 議会だより No.154 ４頁",
+          "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000002/2629/No154_P04.pdf"
         }
       ]
     },
@@ -10394,8 +10462,8 @@ GIKAI.coverage2026 = {
           "note": "公式本会議録の、採決結果または報告終結が記された40件を照合。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "議会だより No.82の議員別の賛否を、照合役２組の独立読取の一致と原画像で確認し、採決のあった議決40件のうち5件に収録。"
         },
         "policy": {
           "state": "partial",
@@ -10426,6 +10494,10 @@ GIKAI.coverage2026 = {
         {
           "label": "予算説明書・総括表の公式掲載一覧",
           "url": "https://www.town.kamikawa.saitama.jp/soshiki/sougouseisaku/zaisei/yosan/6917.html"
+        },
+        {
+          "label": "神川町 議会だより No.82",
+          "url": "https://www.town.kamikawa.saitama.jp/material/files/group/18/gikaidayori82.pdf"
         }
       ]
     },
@@ -10894,8 +10966,8 @@ GIKAI.coverage2026 = {
           "note": "公式審議結果一覧の全28行を番号・件名・結果で照合。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "議会だより No.138の議員別の賛否を、照合役２組の独立読取の一致と原画像で確認し、採決のあった議決28件のうち28件に収録。"
         },
         "policy": {
           "state": "partial",
@@ -10914,6 +10986,10 @@ GIKAI.coverage2026 = {
         {
           "label": "公式審議結果一覧",
           "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf"
+        },
+        {
+          "label": "宮代町 議会だより No.138",
+          "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf"
         }
       ]
     },
@@ -10942,8 +11018,8 @@ GIKAI.coverage2026 = {
           "note": "公式審議結果一覧の全37行を番号・件名・結果で照合。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "議会だより No.139の議員別の賛否を、照合役２組の独立読取の一致と原画像で確認し、採決のあった議決37件のうち37件に収録。"
         },
         "policy": {
           "state": "partial",
@@ -10958,6 +11034,10 @@ GIKAI.coverage2026 = {
         {
           "label": "公式審議結果一覧",
           "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf"
+        },
+        {
+          "label": "宮代町 議会だより No.139",
+          "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf"
         }
       ]
     },
@@ -11046,8 +11126,8 @@ GIKAI.coverage2026 = {
           "note": "町公式の議決結果の諮問1件、議案24件、意見書案1件を議決日・件名・議決番号・結果で照合。"
         },
         "votes": {
-          "state": "identified",
-          "note": "公式の議決結果は結果のみ。個人別の賛否は未収録。"
+          "state": "partial",
+          "note": "議会だより No.131 議員別表決結果一覧の議員別の賛否を、照合役２組の独立読取の一致と原画像で確認し、採決のあった議決26件のうち8件に収録（全会一致等の注記のみ17件）。"
         },
         "policy": {
           "state": "partial",
@@ -11066,6 +11146,10 @@ GIKAI.coverage2026 = {
         {
           "label": "公式の議決結果",
           "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf"
+        },
+        {
+          "label": "杉戸町 議会だより No.131 議員別表決結果一覧",
+          "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17016.pdf"
         }
       ]
     },
@@ -11094,8 +11178,8 @@ GIKAI.coverage2026 = {
           "note": "町公式の議決結果の議案10件を議決日・件名・議決番号・結果で照合。"
         },
         "votes": {
-          "state": "identified",
-          "note": "公式の議決結果は結果のみ。個人別の賛否は未収録。"
+          "state": "verified",
+          "note": "議会だより No.132 議員別表決結果一覧の議員別の賛否を、照合役２組の独立読取の一致と原画像で確認し、採決のあった議決10件のうち10件に収録。"
         },
         "policy": {
           "state": "partial",
@@ -11114,6 +11198,10 @@ GIKAI.coverage2026 = {
         {
           "label": "公式の議決結果",
           "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17314.pdf"
+        },
+        {
+          "label": "杉戸町 議会だより No.132 議員別表決結果一覧",
+          "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17539.pdf"
         }
       ]
     },
@@ -11210,8 +11298,8 @@ GIKAI.coverage2026 = {
           "note": "公式の審議結果の議案19件、発議3件を議決日・件名・結果で照合。"
         },
         "votes": {
-          "state": "identified",
-          "note": "公式審議結果は議決結果のみ。個人別の賛否は未収録。"
+          "state": "verified",
+          "note": "議会だより133号 ７頁の議員別の賛否を、照合役２組の独立読取の一致と原画像で確認し、採決のあった議決22件のうち22件に収録。"
         },
         "policy": {
           "state": "partial",
@@ -11230,6 +11318,10 @@ GIKAI.coverage2026 = {
         {
           "label": "公式の審議結果",
           "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf"
+        },
+        {
+          "label": "松伏町 議会だより133号 ７頁",
+          "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2588/133P7.pdf"
         }
       ]
     },
@@ -11258,8 +11350,8 @@ GIKAI.coverage2026 = {
           "note": "公式の審議結果の議案8件、発議3件を議決日・件名・結果で照合。"
         },
         "votes": {
-          "state": "identified",
-          "note": "公式審議結果は議決結果のみ。個人別の賛否は未収録。"
+          "state": "verified",
+          "note": "議会だより134号 ６頁の議員別の賛否を、照合役２組の独立読取の一致と原画像で確認し、採決のあった議決11件のうち11件に収録。"
         },
         "policy": {
           "state": "partial",
@@ -11282,6 +11374,10 @@ GIKAI.coverage2026 = {
         {
           "label": "公式の審議結果",
           "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf"
+        },
+        {
+          "label": "松伏町 議会だより134号 ６頁",
+          "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2884/gikaidayori134_P6.pdf"
         }
       ]
     },
@@ -12756,7 +12852,9 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=2",
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=2",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
+      "voteNote": "議会だより No.82 12頁：紙面の「次の議案は全会一致で同意・可決されました」欄に掲載（議員別の記号なし）。"
     },
     {
       "place": "鴻巣市",
@@ -12768,7 +12866,9 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=2",
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=2",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
+      "voteNote": "議会だより No.82 12頁：紙面の「次の議案は全会一致で同意・可決されました」欄に掲載（議員別の記号なし）。"
     },
     {
       "place": "鴻巣市",
@@ -12780,7 +12880,9 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=2",
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=2",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
+      "voteNote": "議会だより No.82 12頁：紙面の「次の議案は全会一致で同意・可決されました」欄に掲載（議員別の記号なし）。"
     },
     {
       "place": "鴻巣市",
@@ -12792,7 +12894,36 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=2",
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=2",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "votes": {
+        "小泉晋史": "賛成",
+        "藤村孝志": "賛成",
+        "中西耕二郎": "賛成",
+        "高橋亜紀": "賛成",
+        "後藤耕佑": "賛成",
+        "芝嵜和好": "賛成",
+        "田中克美": "賛成",
+        "金子雄一": "賛成",
+        "古山大輔": "賛成",
+        "潮田幸子": "賛成",
+        "橋本稔": "議長（表決不参加）",
+        "川﨑葉子": "賛成",
+        "茂利博之": "賛成",
+        "秋谷修": "賛成",
+        "大塚佳之": "賛成",
+        "坂本国広": "賛成",
+        "金澤孝太郎": "賛成",
+        "織田京子": "賛成",
+        "市ノ川徳宏": "賛成",
+        "竹田悦子": "反対",
+        "諏訪三津枝": "反対",
+        "西尾綾子": "反対",
+        "矢島洋文": "賛成",
+        "羽鳥健": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
+      "voteNote": "議会だより No.82 12頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。"
     },
     {
       "place": "鴻巣市",
@@ -12804,7 +12935,36 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=2",
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=2",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "votes": {
+        "小泉晋史": "賛成",
+        "藤村孝志": "賛成",
+        "中西耕二郎": "賛成",
+        "高橋亜紀": "賛成",
+        "後藤耕佑": "賛成",
+        "芝嵜和好": "賛成",
+        "田中克美": "賛成",
+        "金子雄一": "賛成",
+        "古山大輔": "賛成",
+        "潮田幸子": "賛成",
+        "橋本稔": "議長（表決不参加）",
+        "川﨑葉子": "賛成",
+        "茂利博之": "賛成",
+        "秋谷修": "賛成",
+        "大塚佳之": "賛成",
+        "坂本国広": "賛成",
+        "金澤孝太郎": "賛成",
+        "織田京子": "賛成",
+        "市ノ川徳宏": "賛成",
+        "竹田悦子": "反対",
+        "諏訪三津枝": "反対",
+        "西尾綾子": "反対",
+        "矢島洋文": "賛成",
+        "羽鳥健": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
+      "voteNote": "議会だより No.82 12頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。"
     },
     {
       "place": "鴻巣市",
@@ -12816,7 +12976,36 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=2",
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=2",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "votes": {
+        "小泉晋史": "賛成",
+        "藤村孝志": "賛成",
+        "中西耕二郎": "賛成",
+        "高橋亜紀": "賛成",
+        "後藤耕佑": "賛成",
+        "芝嵜和好": "賛成",
+        "田中克美": "賛成",
+        "金子雄一": "賛成",
+        "古山大輔": "賛成",
+        "潮田幸子": "賛成",
+        "橋本稔": "議長（表決不参加）",
+        "川﨑葉子": "賛成",
+        "茂利博之": "賛成",
+        "秋谷修": "賛成",
+        "大塚佳之": "賛成",
+        "坂本国広": "賛成",
+        "金澤孝太郎": "賛成",
+        "織田京子": "賛成",
+        "市ノ川徳宏": "賛成",
+        "竹田悦子": "反対",
+        "諏訪三津枝": "反対",
+        "西尾綾子": "反対",
+        "矢島洋文": "賛成",
+        "羽鳥健": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
+      "voteNote": "議会だより No.82 12頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。"
     },
     {
       "place": "鴻巣市",
@@ -12828,7 +13017,9 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=2",
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=2",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
+      "voteNote": "議会だより No.82 12頁：紙面の「次の議案は全会一致で同意・可決されました」欄に掲載（議員別の記号なし）。"
     },
     {
       "place": "鴻巣市",
@@ -12840,7 +13031,36 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=1",
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "votes": {
+        "小泉晋史": "賛成",
+        "藤村孝志": "賛成",
+        "中西耕二郎": "賛成",
+        "高橋亜紀": "賛成",
+        "後藤耕佑": "賛成",
+        "芝嵜和好": "賛成",
+        "田中克美": "賛成",
+        "金子雄一": "賛成",
+        "古山大輔": "賛成",
+        "潮田幸子": "賛成",
+        "橋本稔": "議長（表決不参加）",
+        "川﨑葉子": "賛成",
+        "茂利博之": "賛成",
+        "秋谷修": "賛成",
+        "大塚佳之": "賛成",
+        "坂本国広": "賛成",
+        "金澤孝太郎": "賛成",
+        "織田京子": "賛成",
+        "市ノ川徳宏": "賛成",
+        "竹田悦子": "反対",
+        "諏訪三津枝": "反対",
+        "西尾綾子": "反対",
+        "矢島洋文": "賛成",
+        "羽鳥健": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
+      "voteNote": "議会だより No.82 12頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。"
     },
     {
       "place": "鴻巣市",
@@ -12852,7 +13072,36 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=1",
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "votes": {
+        "小泉晋史": "賛成",
+        "藤村孝志": "賛成",
+        "中西耕二郎": "賛成",
+        "高橋亜紀": "賛成",
+        "後藤耕佑": "賛成",
+        "芝嵜和好": "賛成",
+        "田中克美": "賛成",
+        "金子雄一": "賛成",
+        "古山大輔": "賛成",
+        "潮田幸子": "賛成",
+        "橋本稔": "議長（表決不参加）",
+        "川﨑葉子": "賛成",
+        "茂利博之": "賛成",
+        "秋谷修": "賛成",
+        "大塚佳之": "賛成",
+        "坂本国広": "賛成",
+        "金澤孝太郎": "賛成",
+        "織田京子": "賛成",
+        "市ノ川徳宏": "賛成",
+        "竹田悦子": "反対",
+        "諏訪三津枝": "反対",
+        "西尾綾子": "反対",
+        "矢島洋文": "賛成",
+        "羽鳥健": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
+      "voteNote": "議会だより No.82 12頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。"
     },
     {
       "place": "鴻巣市",
@@ -12864,7 +13113,9 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=1",
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
+      "voteNote": "議会だより No.82 12頁：紙面の「次の議案は全会一致で同意・可決されました」欄に掲載（議員別の記号なし）。"
     },
     {
       "place": "鴻巣市",
@@ -12876,7 +13127,9 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=1",
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
+      "voteNote": "議会だより No.82 12頁：紙面の「次の議案は全会一致で同意・可決されました」欄に掲載（議員別の記号なし）。"
     },
     {
       "place": "鴻巣市",
@@ -12888,7 +13141,36 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=1",
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "votes": {
+        "小泉晋史": "賛成",
+        "藤村孝志": "賛成",
+        "中西耕二郎": "賛成",
+        "高橋亜紀": "賛成",
+        "後藤耕佑": "賛成",
+        "芝嵜和好": "賛成",
+        "田中克美": "賛成",
+        "金子雄一": "賛成",
+        "古山大輔": "賛成",
+        "潮田幸子": "賛成",
+        "橋本稔": "議長（表決不参加）",
+        "川﨑葉子": "賛成",
+        "茂利博之": "賛成",
+        "秋谷修": "賛成",
+        "大塚佳之": "賛成",
+        "坂本国広": "賛成",
+        "金澤孝太郎": "賛成",
+        "織田京子": "賛成",
+        "市ノ川徳宏": "賛成",
+        "竹田悦子": "反対",
+        "諏訪三津枝": "反対",
+        "西尾綾子": "反対",
+        "矢島洋文": "賛成",
+        "羽鳥健": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
+      "voteNote": "議会だより No.82 12頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。"
     },
     {
       "place": "鴻巣市",
@@ -12900,7 +13182,9 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=1",
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
+      "voteNote": "議会だより No.82 12頁：紙面の「次の議案は全会一致で同意・可決されました」欄に掲載（議員別の記号なし）。"
     },
     {
       "place": "鴻巣市",
@@ -12912,7 +13196,9 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=1",
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
+      "voteNote": "議会だより No.82 12頁：紙面の「次の議案は全会一致で同意・可決されました」欄に掲載（議員別の記号なし）。"
     },
     {
       "place": "鴻巣市",
@@ -12924,7 +13210,9 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=1",
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
+      "voteNote": "議会だより No.82 12頁：紙面の「次の議案は全会一致で同意・可決されました」欄に掲載（議員別の記号なし）。"
     },
     {
       "place": "鴻巣市",
@@ -12936,7 +13224,9 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27116.pdf#page=1",
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27116.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27700.pdf",
+      "voteNote": "議会だより No.83 ８頁：紙面の「次の議案は全会一致で承認・可決・同意されました」欄に掲載（議員別の記号なし）。"
     },
     {
       "place": "鴻巣市",
@@ -12948,7 +13238,36 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27116.pdf#page=1",
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27116.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "votes": {
+        "中西耕二郎": "賛成",
+        "小泉晋史": "賛成",
+        "藤村孝志": "賛成",
+        "高橋亜紀": "賛成",
+        "後藤耕佑": "賛成",
+        "古山大輔": "賛成",
+        "田中克美": "賛成",
+        "金子雄一": "賛成",
+        "芝嵜和好": "賛成",
+        "橋本稔": "賛成",
+        "潮田幸子": "賛成",
+        "川﨑葉子": "議長（表決不参加）",
+        "茂利博之": "賛成",
+        "秋谷修": "賛成",
+        "大塚佳之": "賛成",
+        "坂本国広": "賛成",
+        "金澤孝太郎": "賛成",
+        "織田京子": "賛成",
+        "市ノ川徳宏": "賛成",
+        "竹田悦子": "賛成",
+        "諏訪三津枝": "賛成",
+        "西尾綾子": "反対",
+        "矢島洋文": "賛成",
+        "羽鳥健": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27700.pdf",
+      "voteNote": "議会だより No.83 ８頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。"
     },
     {
       "place": "鴻巣市",
@@ -12960,7 +13279,36 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27116.pdf#page=1",
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27116.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "votes": {
+        "中西耕二郎": "賛成",
+        "小泉晋史": "賛成",
+        "藤村孝志": "賛成",
+        "高橋亜紀": "賛成",
+        "後藤耕佑": "賛成",
+        "古山大輔": "賛成",
+        "田中克美": "賛成",
+        "金子雄一": "賛成",
+        "芝嵜和好": "賛成",
+        "橋本稔": "賛成",
+        "潮田幸子": "賛成",
+        "川﨑葉子": "議長（表決不参加）",
+        "茂利博之": "賛成",
+        "秋谷修": "賛成",
+        "大塚佳之": "賛成",
+        "坂本国広": "賛成",
+        "金澤孝太郎": "賛成",
+        "織田京子": "賛成",
+        "市ノ川徳宏": "賛成",
+        "竹田悦子": "反対",
+        "諏訪三津枝": "反対",
+        "西尾綾子": "反対",
+        "矢島洋文": "賛成",
+        "羽鳥健": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27700.pdf",
+      "voteNote": "議会だより No.83 ８頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。"
     },
     {
       "place": "鴻巣市",
@@ -12972,7 +13320,9 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27116.pdf#page=1",
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27116.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27700.pdf",
+      "voteNote": "議会だより No.83 ８頁：紙面の「次の議案は全会一致で承認・可決・同意されました」欄に掲載（議員別の記号なし）。"
     },
     {
       "place": "鴻巣市",
@@ -12984,7 +13334,36 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27116.pdf#page=1",
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27116.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "votes": {
+        "中西耕二郎": "賛成",
+        "小泉晋史": "賛成",
+        "藤村孝志": "賛成",
+        "高橋亜紀": "賛成",
+        "後藤耕佑": "賛成",
+        "古山大輔": "賛成",
+        "田中克美": "賛成",
+        "金子雄一": "賛成",
+        "芝嵜和好": "賛成",
+        "橋本稔": "賛成",
+        "潮田幸子": "賛成",
+        "川﨑葉子": "議長（表決不参加）",
+        "茂利博之": "賛成",
+        "秋谷修": "賛成",
+        "大塚佳之": "賛成",
+        "坂本国広": "賛成",
+        "金澤孝太郎": "賛成",
+        "織田京子": "賛成",
+        "市ノ川徳宏": "賛成",
+        "竹田悦子": "反対",
+        "諏訪三津枝": "反対",
+        "西尾綾子": "反対",
+        "矢島洋文": "賛成",
+        "羽鳥健": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27700.pdf",
+      "voteNote": "議会だより No.83 ８頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。"
     },
     {
       "place": "鴻巣市",
@@ -12996,7 +13375,36 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27116.pdf#page=1",
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27116.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "votes": {
+        "中西耕二郎": "賛成",
+        "小泉晋史": "賛成",
+        "藤村孝志": "賛成",
+        "高橋亜紀": "賛成",
+        "後藤耕佑": "賛成",
+        "古山大輔": "賛成",
+        "田中克美": "賛成",
+        "金子雄一": "賛成",
+        "芝嵜和好": "賛成",
+        "橋本稔": "賛成",
+        "潮田幸子": "賛成",
+        "川﨑葉子": "議長（表決不参加）",
+        "茂利博之": "賛成",
+        "秋谷修": "賛成",
+        "大塚佳之": "賛成",
+        "坂本国広": "賛成",
+        "金澤孝太郎": "賛成",
+        "織田京子": "賛成",
+        "市ノ川徳宏": "賛成",
+        "竹田悦子": "反対",
+        "諏訪三津枝": "反対",
+        "西尾綾子": "反対",
+        "矢島洋文": "賛成",
+        "羽鳥健": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27700.pdf",
+      "voteNote": "議会だより No.83 ８頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。"
     },
     {
       "place": "志木市",
@@ -13010,7 +13418,8 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.shiki.lg.jp/uploaded/attachment/22165.pdf#page=2",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "志木市議会の公式一覧2頁・第22行",
-      "voteNote": "公式一覧の採決状況は全会一致。"
+      "voteNote": "公式一覧の採決状況は全会一致。 議会だより No.212 10頁：紙面の審議結果表で採決の状況が「全会一致」（議員別の記号なし）。",
+      "voteURL": "https://www.city.shiki.lg.jp/uploaded/attachment/22519.pdf#page=3"
     },
     {
       "place": "志木市",
@@ -13024,7 +13433,8 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.shiki.lg.jp/uploaded/attachment/22165.pdf#page=2",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "志木市議会の公式一覧2頁・第20行",
-      "voteNote": "公式一覧の採決状況は全会一致。"
+      "voteNote": "公式一覧の採決状況は全会一致。 議会だより No.212 10頁：紙面の審議結果表で採決の状況が「全会一致」（議員別の記号なし）。",
+      "voteURL": "https://www.city.shiki.lg.jp/uploaded/attachment/22519.pdf#page=3"
     },
     {
       "place": "志木市",
@@ -13038,7 +13448,8 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.shiki.lg.jp/uploaded/attachment/22165.pdf#page=2",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "志木市議会の公式一覧2頁・第21行",
-      "voteNote": "公式一覧の採決状況は全会一致。"
+      "voteNote": "公式一覧の採決状況は全会一致。 議会だより No.212 10頁：紙面の審議結果表で採決の状況が「全会一致」（議員別の記号なし）。",
+      "voteURL": "https://www.city.shiki.lg.jp/uploaded/attachment/22519.pdf#page=3"
     },
     {
       "place": "志木市",
@@ -13052,7 +13463,25 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.shiki.lg.jp/uploaded/attachment/22165.pdf#page=2",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "志木市議会の公式一覧2頁・第8行",
-      "voteNote": "公式一覧の採決状況は賛成多数。"
+      "voteNote": "公式一覧の採決状況は賛成多数。 議会だより No.212 10頁の議員別の賛否（賛成・反対を語で表示 ※11番 今村弘志議員は議長のため表決に加わらず）。",
+      "votes": {
+        "吉澤富美夫": "賛成",
+        "阿部竜一": "賛成",
+        "小池真由美": "賛成",
+        "古谷孝": "賛成",
+        "上野琢磨": "反対",
+        "高山優太": "賛成",
+        "岡島貴弘": "賛成",
+        "天田いづみ": "賛成",
+        "中村智紀": "賛成",
+        "田畑寛治": "賛成",
+        "今村弘志": "議長（表決不参加）",
+        "安藤圭介": "賛成",
+        "河野芳徳": "賛成",
+        "鈴木潔": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiki.lg.jp/uploaded/attachment/22519.pdf#page=3"
     },
     {
       "place": "志木市",
@@ -13066,7 +13495,8 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.shiki.lg.jp/uploaded/attachment/22165.pdf#page=2",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "志木市議会の公式一覧2頁・第7行",
-      "voteNote": "公式一覧の採決状況は全会一致。"
+      "voteNote": "公式一覧の採決状況は全会一致。 議会だより No.212 10頁：紙面の審議結果表で採決の状況が「全会一致」（議員別の記号なし）。",
+      "voteURL": "https://www.city.shiki.lg.jp/uploaded/attachment/22519.pdf#page=3"
     },
     {
       "place": "志木市",
@@ -13080,7 +13510,8 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.shiki.lg.jp/uploaded/attachment/22165.pdf#page=2",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "志木市議会の公式一覧2頁・第6行",
-      "voteNote": "公式一覧の採決状況は全会一致。"
+      "voteNote": "公式一覧の採決状況は全会一致。 議会だより No.212 10頁：紙面の審議結果表で採決の状況が「全会一致」（議員別の記号なし）。",
+      "voteURL": "https://www.city.shiki.lg.jp/uploaded/attachment/22519.pdf#page=3"
     },
     {
       "place": "志木市",
@@ -13094,7 +13525,8 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.shiki.lg.jp/uploaded/attachment/22165.pdf#page=2",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "志木市議会の公式一覧2頁・第5行",
-      "voteNote": "公式一覧の採決状況は全会一致。"
+      "voteNote": "公式一覧の採決状況は全会一致。 議会だより No.212 10頁：紙面の審議結果表で採決の状況が「全会一致」（議員別の記号なし）。",
+      "voteURL": "https://www.city.shiki.lg.jp/uploaded/attachment/22519.pdf#page=3"
     },
     {
       "place": "志木市",
@@ -13108,7 +13540,8 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.shiki.lg.jp/uploaded/attachment/22165.pdf#page=2",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "志木市議会の公式一覧2頁・第4行",
-      "voteNote": "公式一覧の採決状況は全会一致。"
+      "voteNote": "公式一覧の採決状況は全会一致。 議会だより No.212 10頁：紙面の審議結果表で採決の状況が「全会一致」（議員別の記号なし）。",
+      "voteURL": "https://www.city.shiki.lg.jp/uploaded/attachment/22519.pdf#page=3"
     },
     {
       "place": "志木市",
@@ -13122,7 +13555,8 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.shiki.lg.jp/uploaded/attachment/22165.pdf#page=1",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "志木市議会の公式一覧1頁・第10行",
-      "voteNote": "公式一覧の採決状況は全会一致。"
+      "voteNote": "公式一覧の採決状況は全会一致。 議会だより No.212 10頁：紙面の審議結果表で採決の状況が「全会一致」（議員別の記号なし）。",
+      "voteURL": "https://www.city.shiki.lg.jp/uploaded/attachment/22519.pdf#page=3"
     },
     {
       "place": "志木市",
@@ -13136,7 +13570,8 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.shiki.lg.jp/uploaded/attachment/22165.pdf#page=1",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "志木市議会の公式一覧1頁・第9行",
-      "voteNote": "公式一覧の採決状況は全会一致。"
+      "voteNote": "公式一覧の採決状況は全会一致。 議会だより No.212 10頁：紙面の審議結果表で採決の状況が「全会一致」（議員別の記号なし）。",
+      "voteURL": "https://www.city.shiki.lg.jp/uploaded/attachment/22519.pdf#page=3"
     },
     {
       "place": "志木市",
@@ -13178,7 +13613,25 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.shiki.lg.jp/uploaded/attachment/22165.pdf#page=2",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "志木市議会の公式一覧2頁・第1行",
-      "voteNote": "公式一覧の採決状況は賛成多数。"
+      "voteNote": "公式一覧の採決状況は賛成多数。 議会だより No.212 10頁の議員別の賛否（賛成・反対を語で表示 ※11番 今村弘志議員は議長のため表決に加わらず）。",
+      "votes": {
+        "吉澤富美夫": "賛成",
+        "阿部竜一": "賛成",
+        "小池真由美": "賛成",
+        "古谷孝": "反対",
+        "上野琢磨": "反対",
+        "高山優太": "賛成",
+        "岡島貴弘": "賛成",
+        "天田いづみ": "賛成",
+        "中村智紀": "反対",
+        "田畑寛治": "賛成",
+        "今村弘志": "議長（表決不参加）",
+        "安藤圭介": "賛成",
+        "河野芳徳": "賛成",
+        "鈴木潔": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiki.lg.jp/uploaded/attachment/22519.pdf#page=3"
     },
     {
       "place": "志木市",
@@ -13206,7 +13659,25 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.shiki.lg.jp/uploaded/attachment/22165.pdf#page=1",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "志木市議会の公式一覧1頁・第20行",
-      "voteNote": "公式一覧の採決状況は賛成多数。"
+      "voteNote": "公式一覧の採決状況は賛成多数。 議会だより No.212 10頁の議員別の賛否（賛成・反対を語で表示 ※11番 今村弘志議員は議長のため表決に加わらず）。",
+      "votes": {
+        "吉澤富美夫": "賛成",
+        "阿部竜一": "賛成",
+        "小池真由美": "賛成",
+        "古谷孝": "反対",
+        "上野琢磨": "反対",
+        "高山優太": "賛成",
+        "岡島貴弘": "賛成",
+        "天田いづみ": "賛成",
+        "中村智紀": "賛成",
+        "田畑寛治": "賛成",
+        "今村弘志": "議長（表決不参加）",
+        "安藤圭介": "賛成",
+        "河野芳徳": "賛成",
+        "鈴木潔": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiki.lg.jp/uploaded/attachment/22519.pdf#page=3"
     },
     {
       "place": "志木市",
@@ -13262,7 +13733,25 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.shiki.lg.jp/uploaded/attachment/22165.pdf#page=1",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "志木市議会の公式一覧1頁・第15行",
-      "voteNote": "公式一覧の採決状況は賛成多数。"
+      "voteNote": "公式一覧の採決状況は賛成多数。 議会だより No.212 10頁の議員別の賛否（賛成・反対を語で表示 ※11番 今村弘志議員は議長のため表決に加わらず）。",
+      "votes": {
+        "吉澤富美夫": "賛成",
+        "阿部竜一": "賛成",
+        "小池真由美": "賛成",
+        "古谷孝": "賛成",
+        "上野琢磨": "反対",
+        "高山優太": "賛成",
+        "岡島貴弘": "賛成",
+        "天田いづみ": "賛成",
+        "中村智紀": "賛成",
+        "田畑寛治": "賛成",
+        "今村弘志": "議長（表決不参加）",
+        "安藤圭介": "賛成",
+        "河野芳徳": "賛成",
+        "鈴木潔": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiki.lg.jp/uploaded/attachment/22519.pdf#page=3"
     },
     {
       "place": "志木市",
@@ -13388,7 +13877,25 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.shiki.lg.jp/uploaded/attachment/22165.pdf#page=2",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "志木市議会の公式一覧2頁・第14行",
-      "voteNote": "公式一覧の採決状況は賛成多数。"
+      "voteNote": "公式一覧の採決状況は賛成多数。 議会だより No.212 10頁の議員別の賛否（賛成・反対を語で表示 ※11番 今村弘志議員は議長のため表決に加わらず）。",
+      "votes": {
+        "吉澤富美夫": "賛成",
+        "阿部竜一": "賛成",
+        "小池真由美": "賛成",
+        "古谷孝": "反対",
+        "上野琢磨": "賛成",
+        "高山優太": "賛成",
+        "岡島貴弘": "賛成",
+        "天田いづみ": "賛成",
+        "中村智紀": "賛成",
+        "田畑寛治": "賛成",
+        "今村弘志": "議長（表決不参加）",
+        "安藤圭介": "賛成",
+        "河野芳徳": "賛成",
+        "鈴木潔": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiki.lg.jp/uploaded/attachment/22519.pdf#page=3"
     },
     {
       "place": "志木市",
@@ -13402,7 +13909,25 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.shiki.lg.jp/uploaded/attachment/22165.pdf#page=2",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "志木市議会の公式一覧2頁・第13行",
-      "voteNote": "公式一覧の採決状況は賛成多数。"
+      "voteNote": "公式一覧の採決状況は賛成多数。 議会だより No.212 10頁の議員別の賛否（賛成・反対を語で表示 ※11番 今村弘志議員は議長のため表決に加わらず）。",
+      "votes": {
+        "吉澤富美夫": "賛成",
+        "阿部竜一": "賛成",
+        "小池真由美": "賛成",
+        "古谷孝": "反対",
+        "上野琢磨": "反対",
+        "高山優太": "賛成",
+        "岡島貴弘": "賛成",
+        "天田いづみ": "賛成",
+        "中村智紀": "反対",
+        "田畑寛治": "賛成",
+        "今村弘志": "議長（表決不参加）",
+        "安藤圭介": "賛成",
+        "河野芳徳": "賛成",
+        "鈴木潔": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiki.lg.jp/uploaded/attachment/22519.pdf#page=3"
     },
     {
       "place": "志木市",
@@ -13556,7 +14081,25 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.shiki.lg.jp/uploaded/attachment/23308.pdf#page=1",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "志木市議会の公式一覧1頁・第6行",
-      "voteNote": "公式一覧の採決状況は賛成多数。"
+      "voteNote": "公式一覧の採決状況は賛成多数。 議会だより No.213 11頁の議員別の賛否（賛成・反対を語で表示 ※10番 吉澤富美夫議員は議長のため表決に加わらず）。",
+      "votes": {
+        "今村弘志": "賛成",
+        "阿部竜一": "賛成",
+        "小池真由美": "賛成",
+        "古谷孝": "反対",
+        "上野琢磨": "反対",
+        "高山優太": "賛成",
+        "岡島貴弘": "賛成",
+        "天田いづみ": "賛成",
+        "中村智紀": "反対",
+        "吉澤富美夫": "議長（表決不参加）",
+        "田畑寛治": "賛成",
+        "安藤圭介": "賛成",
+        "河野芳徳": "賛成",
+        "鈴木潔": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiki.lg.jp/uploaded/attachment/23645.pdf"
     },
     {
       "place": "志木市",
@@ -20361,7 +20904,9 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "議決結果表1頁・議決番号59",
-      "proposer": "鴻巣市長"
+      "proposer": "鴻巣市長",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28862.pdf",
+      "voteNote": "議会だより No.84 ７頁：紙面の「次の議案は全会一致で同意・可決・認定されました」欄に掲載（議員別の記号なし）。"
     },
     {
       "place": "鴻巣市",
@@ -20375,7 +20920,9 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "議決結果表1頁・議決番号60",
-      "proposer": "鴻巣市長"
+      "proposer": "鴻巣市長",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28862.pdf",
+      "voteNote": "議会だより No.84 ７頁：紙面の「次の議案は全会一致で同意・可決・認定されました」欄に掲載（議員別の記号なし）。"
     },
     {
       "place": "鴻巣市",
@@ -20389,7 +20936,36 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "議決結果表1頁・議決番号61",
-      "proposer": "鴻巣市長"
+      "proposer": "鴻巣市長",
+      "votes": {
+        "中西耕二郎": "賛成",
+        "小泉晋史": "賛成",
+        "藤村孝志": "賛成",
+        "高橋亜紀": "賛成",
+        "後藤耕佑": "賛成",
+        "古山大輔": "賛成",
+        "田中克美": "賛成",
+        "金子雄一": "賛成",
+        "芝嵜和好": "賛成",
+        "橋本稔": "賛成",
+        "潮田幸子": "賛成",
+        "川﨑葉子": "議長（表決不参加）",
+        "茂利博之": "賛成",
+        "秋谷修": "賛成",
+        "大塚佳之": "賛成",
+        "坂本国広": "賛成",
+        "金澤孝太郎": "賛成",
+        "織田京子": "賛成",
+        "市ノ川徳宏": "賛成",
+        "竹田悦子": "賛成",
+        "諏訪三津枝": "賛成",
+        "西尾綾子": "反対",
+        "矢島洋文": "賛成",
+        "羽鳥健": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28862.pdf",
+      "voteNote": "議会だより No.84 ７頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。"
     },
     {
       "place": "鴻巣市",
@@ -20403,7 +20979,36 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "議決結果表1頁・議決番号62",
-      "proposer": "鴻巣市長"
+      "proposer": "鴻巣市長",
+      "votes": {
+        "中西耕二郎": "賛成",
+        "小泉晋史": "賛成",
+        "藤村孝志": "賛成",
+        "高橋亜紀": "賛成",
+        "後藤耕佑": "賛成",
+        "古山大輔": "賛成",
+        "田中克美": "賛成",
+        "金子雄一": "賛成",
+        "芝嵜和好": "賛成",
+        "橋本稔": "賛成",
+        "潮田幸子": "賛成",
+        "川﨑葉子": "議長（表決不参加）",
+        "茂利博之": "賛成",
+        "秋谷修": "賛成",
+        "大塚佳之": "賛成",
+        "坂本国広": "賛成",
+        "金澤孝太郎": "賛成",
+        "織田京子": "賛成",
+        "市ノ川徳宏": "賛成",
+        "竹田悦子": "賛成",
+        "諏訪三津枝": "賛成",
+        "西尾綾子": "反対",
+        "矢島洋文": "賛成",
+        "羽鳥健": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28862.pdf",
+      "voteNote": "議会だより No.84 ７頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。"
     },
     {
       "place": "鴻巣市",
@@ -20418,7 +21023,8 @@ GIKAI.coverage2026 = {
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "議決結果表1頁・議決番号63",
       "proposer": "鴻巣市長",
-      "voteNote": "本会議録の採決は起立全員。"
+      "voteNote": "本会議録の採決は起立全員。 議会だより No.84 ７頁：紙面の「次の議案は全会一致で同意・可決・認定されました」欄に掲載（議員別の記号なし）。",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28862.pdf"
     },
     {
       "place": "鴻巣市",
@@ -20433,7 +21039,8 @@ GIKAI.coverage2026 = {
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "議決結果表1頁・議決番号64",
       "proposer": "鴻巣市長",
-      "voteNote": "本会議録の採決は起立全員。"
+      "voteNote": "本会議録の採決は起立全員。 議会だより No.84 ７頁：紙面の「次の議案は全会一致で同意・可決・認定されました」欄に掲載（議員別の記号なし）。",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28862.pdf"
     },
     {
       "place": "鴻巣市",
@@ -20447,7 +21054,9 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "議決結果表1頁・議決番号65",
-      "proposer": "鴻巣市長"
+      "proposer": "鴻巣市長",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28862.pdf",
+      "voteNote": "議会だより No.84 ７頁：紙面の「次の議案は全会一致で同意・可決・認定されました」欄に掲載（議員別の記号なし）。"
     },
     {
       "place": "鴻巣市",
@@ -20461,7 +21070,36 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "議決結果表1頁・議決番号66",
-      "proposer": "鴻巣市長"
+      "proposer": "鴻巣市長",
+      "votes": {
+        "中西耕二郎": "賛成",
+        "小泉晋史": "賛成",
+        "藤村孝志": "賛成",
+        "高橋亜紀": "賛成",
+        "後藤耕佑": "賛成",
+        "古山大輔": "賛成",
+        "田中克美": "賛成",
+        "金子雄一": "賛成",
+        "芝嵜和好": "賛成",
+        "橋本稔": "賛成",
+        "潮田幸子": "賛成",
+        "川﨑葉子": "議長（表決不参加）",
+        "茂利博之": "賛成",
+        "秋谷修": "賛成",
+        "大塚佳之": "賛成",
+        "坂本国広": "賛成",
+        "金澤孝太郎": "賛成",
+        "織田京子": "賛成",
+        "市ノ川徳宏": "賛成",
+        "竹田悦子": "反対",
+        "諏訪三津枝": "反対",
+        "西尾綾子": "反対",
+        "矢島洋文": "欠席",
+        "羽鳥健": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28862.pdf",
+      "voteNote": "議会だより No.84 ７頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。"
     },
     {
       "place": "鴻巣市",
@@ -20475,7 +21113,9 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "議決結果表1頁・議決番号67",
-      "proposer": "鴻巣市長"
+      "proposer": "鴻巣市長",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28862.pdf",
+      "voteNote": "議会だより No.84 ７頁：紙面の「次の議案は全会一致で同意・可決・認定されました」欄に掲載（議員別の記号なし）。"
     },
     {
       "place": "鴻巣市",
@@ -20489,7 +21129,9 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "議決結果表1頁・議決番号68",
-      "proposer": "鴻巣市長"
+      "proposer": "鴻巣市長",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28862.pdf",
+      "voteNote": "議会だより No.84 ７頁：紙面の「次の議案は全会一致で同意・可決・認定されました」欄に掲載（議員別の記号なし）。"
     },
     {
       "place": "鴻巣市",
@@ -20503,7 +21145,9 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "議決結果表1頁・議決番号69",
-      "proposer": "鴻巣市長"
+      "proposer": "鴻巣市長",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28862.pdf",
+      "voteNote": "議会だより No.84 ７頁：紙面の「次の議案は全会一致で同意・可決・認定されました」欄に掲載（議員別の記号なし）。"
     },
     {
       "place": "鴻巣市",
@@ -20517,7 +21161,36 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "議決結果表1頁・議決番号70",
-      "proposer": "鴻巣市長"
+      "proposer": "鴻巣市長",
+      "votes": {
+        "中西耕二郎": "賛成",
+        "小泉晋史": "賛成",
+        "藤村孝志": "賛成",
+        "高橋亜紀": "賛成",
+        "後藤耕佑": "賛成",
+        "古山大輔": "賛成",
+        "田中克美": "賛成",
+        "金子雄一": "賛成",
+        "芝嵜和好": "賛成",
+        "橋本稔": "賛成",
+        "潮田幸子": "賛成",
+        "川﨑葉子": "議長（表決不参加）",
+        "茂利博之": "賛成",
+        "秋谷修": "賛成",
+        "大塚佳之": "賛成",
+        "坂本国広": "賛成",
+        "金澤孝太郎": "賛成",
+        "織田京子": "賛成",
+        "市ノ川徳宏": "賛成",
+        "竹田悦子": "反対",
+        "諏訪三津枝": "反対",
+        "西尾綾子": "反対",
+        "矢島洋文": "欠席",
+        "羽鳥健": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28862.pdf",
+      "voteNote": "議会だより No.84 ７頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。"
     },
     {
       "place": "鴻巣市",
@@ -20531,7 +21204,9 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "議決結果表1頁・議決番号71",
-      "proposer": "鴻巣市長"
+      "proposer": "鴻巣市長",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28862.pdf",
+      "voteNote": "議会だより No.84 ７頁：紙面の「次の議案は全会一致で同意・可決・認定されました」欄に掲載（議員別の記号なし）。"
     },
     {
       "place": "鴻巣市",
@@ -20545,7 +21220,9 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "議決結果表1頁・議決番号72",
-      "proposer": "鴻巣市長"
+      "proposer": "鴻巣市長",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28862.pdf",
+      "voteNote": "議会だより No.84 ７頁：紙面の「次の議案は全会一致で同意・可決・認定されました」欄に掲載（議員別の記号なし）。"
     },
     {
       "place": "鴻巣市",
@@ -20559,7 +21236,36 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "議決結果表1頁・議決番号73",
-      "proposer": "鴻巣市長"
+      "proposer": "鴻巣市長",
+      "votes": {
+        "中西耕二郎": "賛成",
+        "小泉晋史": "賛成",
+        "藤村孝志": "賛成",
+        "高橋亜紀": "賛成",
+        "後藤耕佑": "賛成",
+        "古山大輔": "賛成",
+        "田中克美": "賛成",
+        "金子雄一": "賛成",
+        "芝嵜和好": "賛成",
+        "橋本稔": "賛成",
+        "潮田幸子": "賛成",
+        "川﨑葉子": "議長（表決不参加）",
+        "茂利博之": "賛成",
+        "秋谷修": "賛成",
+        "大塚佳之": "賛成",
+        "坂本国広": "賛成",
+        "金澤孝太郎": "賛成",
+        "織田京子": "賛成",
+        "市ノ川徳宏": "賛成",
+        "竹田悦子": "反対",
+        "諏訪三津枝": "反対",
+        "西尾綾子": "反対",
+        "矢島洋文": "欠席",
+        "羽鳥健": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28862.pdf",
+      "voteNote": "議会だより No.84 ７頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。"
     },
     {
       "place": "鴻巣市",
@@ -20573,7 +21279,9 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "議決結果表1頁・議決番号74",
-      "proposer": "鴻巣市長"
+      "proposer": "鴻巣市長",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28862.pdf",
+      "voteNote": "議会だより No.84 ７頁：紙面の「次の議案は全会一致で同意・可決・認定されました」欄に掲載（議員別の記号なし）。"
     },
     {
       "place": "鴻巣市",
@@ -20587,7 +21295,9 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "議決結果表1頁・議決番号75",
-      "proposer": "鴻巣市長"
+      "proposer": "鴻巣市長",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28862.pdf",
+      "voteNote": "議会だより No.84 ７頁：紙面の「次の議案は全会一致で同意・可決・認定されました」欄に掲載（議員別の記号なし）。"
     },
     {
       "place": "鴻巣市",
@@ -20601,7 +21311,9 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "議決結果表1頁・議決番号76",
-      "proposer": "鴻巣市長"
+      "proposer": "鴻巣市長",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28862.pdf",
+      "voteNote": "議会だより No.84 ７頁：紙面の「次の議案は全会一致で同意・可決・認定されました」欄に掲載（議員別の記号なし）。"
     },
     {
       "place": "鴻巣市",
@@ -20615,7 +21327,9 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "議決結果表1頁・議決番号77",
-      "proposer": "鴻巣市長"
+      "proposer": "鴻巣市長",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28862.pdf",
+      "voteNote": "議会だより No.84 ７頁：紙面の「次の議案は全会一致で同意・可決・認定されました」欄に掲載（議員別の記号なし）。"
     },
     {
       "place": "鴻巣市",
@@ -20629,7 +21343,9 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "議決結果表1頁・議決番号78",
-      "proposer": "鴻巣市長"
+      "proposer": "鴻巣市長",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28862.pdf",
+      "voteNote": "議会だより No.84 ７頁：紙面の「次の議案は全会一致で同意・可決・認定されました」欄に掲載（議員別の記号なし）。"
     },
     {
       "place": "鴻巣市",
@@ -20643,7 +21359,36 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "議決結果表1頁・議決番号79",
-      "proposer": "鴻巣市長"
+      "proposer": "鴻巣市長",
+      "votes": {
+        "中西耕二郎": "賛成",
+        "小泉晋史": "賛成",
+        "藤村孝志": "賛成",
+        "高橋亜紀": "賛成",
+        "後藤耕佑": "賛成",
+        "古山大輔": "賛成",
+        "田中克美": "賛成",
+        "金子雄一": "賛成",
+        "芝嵜和好": "賛成",
+        "橋本稔": "賛成",
+        "潮田幸子": "賛成",
+        "川﨑葉子": "議長（表決不参加）",
+        "茂利博之": "賛成",
+        "秋谷修": "賛成",
+        "大塚佳之": "賛成",
+        "坂本国広": "賛成",
+        "金澤孝太郎": "賛成",
+        "織田京子": "賛成",
+        "市ノ川徳宏": "賛成",
+        "竹田悦子": "反対",
+        "諏訪三津枝": "反対",
+        "西尾綾子": "反対",
+        "矢島洋文": "欠席",
+        "羽鳥健": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28862.pdf",
+      "voteNote": "議会だより No.84 ７頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。"
     },
     {
       "place": "鴻巣市",
@@ -20657,7 +21402,36 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=1",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "議決結果表1頁・議決番号80",
-      "proposer": "鴻巣市長"
+      "proposer": "鴻巣市長",
+      "votes": {
+        "中西耕二郎": "賛成",
+        "小泉晋史": "賛成",
+        "藤村孝志": "賛成",
+        "高橋亜紀": "賛成",
+        "後藤耕佑": "賛成",
+        "古山大輔": "賛成",
+        "田中克美": "賛成",
+        "金子雄一": "賛成",
+        "芝嵜和好": "賛成",
+        "橋本稔": "賛成",
+        "潮田幸子": "賛成",
+        "川﨑葉子": "議長（表決不参加）",
+        "茂利博之": "賛成",
+        "秋谷修": "賛成",
+        "大塚佳之": "賛成",
+        "坂本国広": "賛成",
+        "金澤孝太郎": "賛成",
+        "織田京子": "賛成",
+        "市ノ川徳宏": "賛成",
+        "竹田悦子": "反対",
+        "諏訪三津枝": "反対",
+        "西尾綾子": "反対",
+        "矢島洋文": "欠席",
+        "羽鳥健": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28862.pdf",
+      "voteNote": "議会だより No.84 ７頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。"
     },
     {
       "place": "鴻巣市",
@@ -20671,7 +21445,36 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=2",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "議決結果表2頁・議決番号81",
-      "proposer": "鴻巣市長"
+      "proposer": "鴻巣市長",
+      "votes": {
+        "中西耕二郎": "賛成",
+        "小泉晋史": "賛成",
+        "藤村孝志": "賛成",
+        "高橋亜紀": "賛成",
+        "後藤耕佑": "賛成",
+        "古山大輔": "賛成",
+        "田中克美": "賛成",
+        "金子雄一": "賛成",
+        "芝嵜和好": "賛成",
+        "橋本稔": "賛成",
+        "潮田幸子": "賛成",
+        "川﨑葉子": "議長（表決不参加）",
+        "茂利博之": "賛成",
+        "秋谷修": "賛成",
+        "大塚佳之": "賛成",
+        "坂本国広": "賛成",
+        "金澤孝太郎": "賛成",
+        "織田京子": "賛成",
+        "市ノ川徳宏": "賛成",
+        "竹田悦子": "賛成",
+        "諏訪三津枝": "賛成",
+        "西尾綾子": "反対",
+        "矢島洋文": "欠席",
+        "羽鳥健": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28862.pdf",
+      "voteNote": "議会だより No.84 ７頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。"
     },
     {
       "place": "鴻巣市",
@@ -20685,7 +21488,9 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=2",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "議決結果表2頁・議決番号82",
-      "proposer": "鴻巣市長"
+      "proposer": "鴻巣市長",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28862.pdf",
+      "voteNote": "議会だより No.84 ７頁：紙面の「次の議案は全会一致で同意・可決・認定されました」欄に掲載（議員別の記号なし）。"
     },
     {
       "place": "鴻巣市",
@@ -20699,7 +21504,9 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=2",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "議決結果表2頁・議決番号83",
-      "proposer": "鴻巣市長"
+      "proposer": "鴻巣市長",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28862.pdf",
+      "voteNote": "議会だより No.84 ７頁：紙面の「次の議案は全会一致で同意・可決・認定されました」欄に掲載（議員別の記号なし）。"
     },
     {
       "place": "鴻巣市",
@@ -20713,7 +21520,36 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=2",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "議決結果表2頁・議決番号84",
-      "proposer": "鴻巣市長"
+      "proposer": "鴻巣市長",
+      "votes": {
+        "中西耕二郎": "賛成",
+        "小泉晋史": "賛成",
+        "藤村孝志": "賛成",
+        "高橋亜紀": "賛成",
+        "後藤耕佑": "賛成",
+        "古山大輔": "賛成",
+        "田中克美": "賛成",
+        "金子雄一": "賛成",
+        "芝嵜和好": "賛成",
+        "橋本稔": "賛成",
+        "潮田幸子": "賛成",
+        "川﨑葉子": "議長（表決不参加）",
+        "茂利博之": "賛成",
+        "秋谷修": "賛成",
+        "大塚佳之": "賛成",
+        "坂本国広": "賛成",
+        "金澤孝太郎": "賛成",
+        "織田京子": "賛成",
+        "市ノ川徳宏": "賛成",
+        "竹田悦子": "反対",
+        "諏訪三津枝": "反対",
+        "西尾綾子": "反対",
+        "矢島洋文": "欠席",
+        "羽鳥健": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28862.pdf",
+      "voteNote": "議会だより No.84 ７頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。"
     },
     {
       "place": "鴻巣市",
@@ -20727,7 +21563,36 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=2",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "議決結果表2頁・議決番号85",
-      "proposer": "鴻巣市長"
+      "proposer": "鴻巣市長",
+      "votes": {
+        "中西耕二郎": "賛成",
+        "小泉晋史": "賛成",
+        "藤村孝志": "賛成",
+        "高橋亜紀": "賛成",
+        "後藤耕佑": "賛成",
+        "古山大輔": "賛成",
+        "田中克美": "賛成",
+        "金子雄一": "賛成",
+        "芝嵜和好": "賛成",
+        "橋本稔": "賛成",
+        "潮田幸子": "賛成",
+        "川﨑葉子": "議長（表決不参加）",
+        "茂利博之": "賛成",
+        "秋谷修": "賛成",
+        "大塚佳之": "賛成",
+        "坂本国広": "賛成",
+        "金澤孝太郎": "賛成",
+        "織田京子": "賛成",
+        "市ノ川徳宏": "賛成",
+        "竹田悦子": "反対",
+        "諏訪三津枝": "反対",
+        "西尾綾子": "反対",
+        "矢島洋文": "欠席",
+        "羽鳥健": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28862.pdf",
+      "voteNote": "議会だより No.84 ７頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。"
     },
     {
       "place": "鴻巣市",
@@ -20741,7 +21606,36 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=2",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "議決結果表2頁・議決番号86",
-      "proposer": "鴻巣市長"
+      "proposer": "鴻巣市長",
+      "votes": {
+        "中西耕二郎": "賛成",
+        "小泉晋史": "賛成",
+        "藤村孝志": "賛成",
+        "高橋亜紀": "賛成",
+        "後藤耕佑": "賛成",
+        "古山大輔": "賛成",
+        "田中克美": "賛成",
+        "金子雄一": "賛成",
+        "芝嵜和好": "賛成",
+        "橋本稔": "賛成",
+        "潮田幸子": "賛成",
+        "川﨑葉子": "議長（表決不参加）",
+        "茂利博之": "賛成",
+        "秋谷修": "賛成",
+        "大塚佳之": "賛成",
+        "坂本国広": "賛成",
+        "金澤孝太郎": "賛成",
+        "織田京子": "賛成",
+        "市ノ川徳宏": "賛成",
+        "竹田悦子": "反対",
+        "諏訪三津枝": "反対",
+        "西尾綾子": "反対",
+        "矢島洋文": "欠席",
+        "羽鳥健": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28862.pdf",
+      "voteNote": "議会だより No.84 ７頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。"
     },
     {
       "place": "鴻巣市",
@@ -20755,7 +21649,9 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=2",
       "sourceType": "公式議決結果の該当頁",
       "resultLocator": "議決結果表2頁・議決番号87",
-      "proposer": "鴻巣市長"
+      "proposer": "鴻巣市長",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28862.pdf",
+      "voteNote": "議会だより No.84 ７頁：紙面の「次の議案は全会一致で同意・可決・認定されました」欄に掲載（議員別の記号なし）。"
     },
     {
       "place": "鴻巣市",
@@ -20768,7 +21664,36 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=2",
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=2",
       "sourceType": "公式議決結果の該当頁",
-      "resultLocator": "議決結果表2頁・議決番号88"
+      "resultLocator": "議決結果表2頁・議決番号88",
+      "votes": {
+        "中西耕二郎": "賛成",
+        "小泉晋史": "賛成",
+        "藤村孝志": "賛成",
+        "高橋亜紀": "賛成",
+        "後藤耕佑": "賛成",
+        "古山大輔": "棄権",
+        "田中克美": "棄権",
+        "金子雄一": "棄権",
+        "芝嵜和好": "棄権",
+        "橋本稔": "賛成",
+        "潮田幸子": "賛成",
+        "川﨑葉子": "議長（表決不参加）",
+        "茂利博之": "賛成",
+        "秋谷修": "賛成",
+        "大塚佳之": "賛成",
+        "坂本国広": "賛成",
+        "金澤孝太郎": "賛成",
+        "織田京子": "賛成",
+        "市ノ川徳宏": "賛成",
+        "竹田悦子": "賛成",
+        "諏訪三津枝": "賛成",
+        "西尾綾子": "賛成",
+        "矢島洋文": "欠席",
+        "羽鳥健": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28862.pdf",
+      "voteNote": "議会だより No.84 ７頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。"
     },
     {
       "place": "鴻巣市",
@@ -20781,7 +21706,36 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=2",
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=2",
       "sourceType": "公式議決結果の該当頁",
-      "resultLocator": "議決結果表2頁・議決番号89"
+      "resultLocator": "議決結果表2頁・議決番号89",
+      "votes": {
+        "中西耕二郎": "賛成",
+        "小泉晋史": "賛成",
+        "藤村孝志": "賛成",
+        "高橋亜紀": "賛成",
+        "後藤耕佑": "賛成",
+        "古山大輔": "棄権",
+        "田中克美": "棄権",
+        "金子雄一": "棄権",
+        "芝嵜和好": "棄権",
+        "橋本稔": "賛成",
+        "潮田幸子": "賛成",
+        "川﨑葉子": "議長（表決不参加）",
+        "茂利博之": "賛成",
+        "秋谷修": "賛成",
+        "大塚佳之": "賛成",
+        "坂本国広": "賛成",
+        "金澤孝太郎": "賛成",
+        "織田京子": "賛成",
+        "市ノ川徳宏": "賛成",
+        "竹田悦子": "賛成",
+        "諏訪三津枝": "賛成",
+        "西尾綾子": "賛成",
+        "矢島洋文": "欠席",
+        "羽鳥健": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28862.pdf",
+      "voteNote": "議会だより No.84 ７頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。"
     },
     {
       "place": "鴻巣市",
@@ -20794,7 +21748,36 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=2",
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=2",
       "sourceType": "公式議決結果の該当頁",
-      "resultLocator": "議決結果表2頁・議決番号90"
+      "resultLocator": "議決結果表2頁・議決番号90",
+      "votes": {
+        "中西耕二郎": "反対",
+        "小泉晋史": "反対",
+        "藤村孝志": "反対",
+        "高橋亜紀": "反対",
+        "後藤耕佑": "反対",
+        "古山大輔": "反対",
+        "田中克美": "反対",
+        "金子雄一": "反対",
+        "芝嵜和好": "反対",
+        "橋本稔": "反対",
+        "潮田幸子": "反対",
+        "川﨑葉子": "議長（表決不参加）",
+        "茂利博之": "反対",
+        "秋谷修": "反対",
+        "大塚佳之": "反対",
+        "坂本国広": "反対",
+        "金澤孝太郎": "反対",
+        "織田京子": "反対",
+        "市ノ川徳宏": "反対",
+        "竹田悦子": "賛成",
+        "諏訪三津枝": "賛成",
+        "西尾綾子": "賛成",
+        "矢島洋文": "欠席",
+        "羽鳥健": "棄権"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28862.pdf",
+      "voteNote": "議会だより No.84 ７頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。"
     },
     {
       "place": "鴻巣市",
@@ -20807,7 +21790,36 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=2",
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=2",
       "sourceType": "公式議決結果の該当頁",
-      "resultLocator": "議決結果表2頁・議決番号91"
+      "resultLocator": "議決結果表2頁・議決番号91",
+      "votes": {
+        "中西耕二郎": "賛成",
+        "小泉晋史": "賛成",
+        "藤村孝志": "賛成",
+        "高橋亜紀": "賛成",
+        "後藤耕佑": "賛成",
+        "古山大輔": "棄権",
+        "田中克美": "棄権",
+        "金子雄一": "棄権",
+        "芝嵜和好": "棄権",
+        "橋本稔": "賛成",
+        "潮田幸子": "賛成",
+        "川﨑葉子": "議長（表決不参加）",
+        "茂利博之": "賛成",
+        "秋谷修": "賛成",
+        "大塚佳之": "棄権",
+        "坂本国広": "賛成",
+        "金澤孝太郎": "賛成",
+        "織田京子": "賛成",
+        "市ノ川徳宏": "賛成",
+        "竹田悦子": "賛成",
+        "諏訪三津枝": "賛成",
+        "西尾綾子": "賛成",
+        "矢島洋文": "欠席",
+        "羽鳥健": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28862.pdf",
+      "voteNote": "議会だより No.84 ７頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。"
     },
     {
       "place": "鴻巣市",
@@ -20820,7 +21832,36 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=2",
       "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28494.pdf#page=2",
       "sourceType": "公式議決結果の該当頁",
-      "resultLocator": "議決結果表2頁・議決番号92"
+      "resultLocator": "議決結果表2頁・議決番号92",
+      "votes": {
+        "中西耕二郎": "賛成",
+        "小泉晋史": "賛成",
+        "藤村孝志": "賛成",
+        "高橋亜紀": "賛成",
+        "後藤耕佑": "賛成",
+        "古山大輔": "棄権",
+        "田中克美": "棄権",
+        "金子雄一": "棄権",
+        "芝嵜和好": "棄権",
+        "橋本稔": "賛成",
+        "潮田幸子": "賛成",
+        "川﨑葉子": "議長（表決不参加）",
+        "茂利博之": "賛成",
+        "秋谷修": "賛成",
+        "大塚佳之": "棄権",
+        "坂本国広": "賛成",
+        "金澤孝太郎": "賛成",
+        "織田京子": "賛成",
+        "市ノ川徳宏": "賛成",
+        "竹田悦子": "賛成",
+        "諏訪三津枝": "賛成",
+        "西尾綾子": "賛成",
+        "矢島洋文": "欠席",
+        "羽鳥健": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28862.pdf",
+      "voteNote": "議会だより No.84 ７頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。"
     },
     {
       "place": "嵐山町",
@@ -21481,7 +22522,23 @@ GIKAI.coverage2026 = {
       "proposer": "嵐山町長",
       "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf#page=303",
       "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf#page=303",
-      "voteNote": "本会議録の採決は起立多数。"
+      "voteNote": "本会議録の採決は起立多数。 議会だより No.202の議員別の賛否（●（賛成）×（反対）。網掛けは討論を行った議員。議長は賛否表明をしない）。",
+      "votes": {
+        "佐藤弘美": "賛成",
+        "橋本将": "賛成",
+        "宮本大裕": "賛成",
+        "小林智": "賛成",
+        "藤野和美": "賛成",
+        "吉本秀二": "賛成",
+        "森一人": "賛成",
+        "青柳賢治": "賛成",
+        "畠山美幸": "賛成",
+        "川口浩史": "反対",
+        "渋谷登美子": "反対",
+        "犾守勝義": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7894/gikaidayori202.pdf#page=4"
     },
     {
       "place": "川島町",
@@ -23508,7 +24565,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "number": "議案第1号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "賛成",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
     },
     {
       "place": "皆野町",
@@ -23519,7 +24593,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "number": "議案第2号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "賛成",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
     },
     {
       "place": "皆野町",
@@ -23530,7 +24621,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "number": "議案第3号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "賛成",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
     },
     {
       "place": "皆野町",
@@ -23541,7 +24649,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "number": "議案第4号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "賛成",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
     },
     {
       "place": "皆野町",
@@ -23552,7 +24677,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "number": "議案第5号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "賛成",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
     },
     {
       "place": "皆野町",
@@ -23563,7 +24705,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "number": "議案第6号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "賛成",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
     },
     {
       "place": "皆野町",
@@ -23574,7 +24733,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "number": "議案第7号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "賛成",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
     },
     {
       "place": "皆野町",
@@ -23585,7 +24761,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "number": "議案第8号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "賛成",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
     },
     {
       "place": "皆野町",
@@ -23596,7 +24789,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "number": "議案第9号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "賛成",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
     },
     {
       "place": "皆野町",
@@ -23607,7 +24817,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "number": "議案第10号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "反対",
+        "黒澤広治": "賛成",
+        "大塚鉄也": "賛成",
+        "常山知子": "反対",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "反対",
+        "宮原睦夫": "賛成",
+        "林太平": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
     },
     {
       "place": "皆野町",
@@ -23618,7 +24845,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "number": "議案第11号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "賛成",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
     },
     {
       "place": "皆野町",
@@ -23629,7 +24873,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "number": "議案第12号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "賛成",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
     },
     {
       "place": "皆野町",
@@ -23640,7 +24901,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "number": "議案第13号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "賛成",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
     },
     {
       "place": "皆野町",
@@ -23651,7 +24929,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "number": "議案第14号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "賛成",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
     },
     {
       "place": "皆野町",
@@ -23662,7 +24957,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "number": "議案第15号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "賛成",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
     },
     {
       "place": "皆野町",
@@ -23673,7 +24985,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "number": "議案第16号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "賛成",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
     },
     {
       "place": "皆野町",
@@ -23684,7 +25013,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "number": "議案第17号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "賛成",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
     },
     {
       "place": "皆野町",
@@ -23695,7 +25041,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "number": "議案第18号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "賛成",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
     },
     {
       "place": "皆野町",
@@ -23706,7 +25069,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "number": "議案第19号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "賛成",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
     },
     {
       "place": "皆野町",
@@ -23717,7 +25097,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "number": "議案第20号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "賛成",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
     },
     {
       "place": "皆野町",
@@ -23728,7 +25125,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "number": "議案第21号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "賛成",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
     },
     {
       "place": "皆野町",
@@ -23739,7 +25153,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "number": "議案第22号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "賛成",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
     },
     {
       "place": "皆野町",
@@ -23750,7 +25181,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "number": "議案第23号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "賛成",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
     },
     {
       "place": "皆野町",
@@ -23761,7 +25209,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "number": "議案第24号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "賛成",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
     },
     {
       "place": "皆野町",
@@ -23772,7 +25237,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "number": "承認第1号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "賛成",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
     },
     {
       "place": "皆野町",
@@ -23783,7 +25265,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=1",
       "number": "承認第2号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "賛成",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
     },
     {
       "place": "皆野町",
@@ -23795,7 +25294,24 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
       "number": "議案第25号",
       "date": "2026-06-10",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "賛成",
+        "大塚鉄也": "賛成",
+        "常山知子": "反対",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "反対",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/444d68095e7ac4022e19a7a99e18b9bb.pdf#page=3",
+      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
     },
     {
       "place": "皆野町",
@@ -23806,7 +25322,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
       "number": "議案第26号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "賛成",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/444d68095e7ac4022e19a7a99e18b9bb.pdf#page=3",
+      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
     },
     {
       "place": "皆野町",
@@ -23817,7 +25350,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
       "number": "議案第27号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "賛成",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "反対",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/444d68095e7ac4022e19a7a99e18b9bb.pdf#page=3",
+      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
     },
     {
       "place": "皆野町",
@@ -23828,7 +25378,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
       "number": "議案第28号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "賛成",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/444d68095e7ac4022e19a7a99e18b9bb.pdf#page=3",
+      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
     },
     {
       "place": "皆野町",
@@ -23839,7 +25406,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
       "number": "議案第29号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "賛成",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/444d68095e7ac4022e19a7a99e18b9bb.pdf#page=3",
+      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
     },
     {
       "place": "皆野町",
@@ -23850,7 +25434,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
       "number": "議案第30号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "賛成",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/444d68095e7ac4022e19a7a99e18b9bb.pdf#page=3",
+      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
     },
     {
       "place": "皆野町",
@@ -23861,7 +25462,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
       "number": "議案第31号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "賛成",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/444d68095e7ac4022e19a7a99e18b9bb.pdf#page=3",
+      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
     },
     {
       "place": "皆野町",
@@ -23872,7 +25490,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
       "number": "議案第32号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "賛成",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/444d68095e7ac4022e19a7a99e18b9bb.pdf#page=3",
+      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
     },
     {
       "place": "皆野町",
@@ -23883,7 +25518,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
       "number": "議案第33号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "賛成",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/444d68095e7ac4022e19a7a99e18b9bb.pdf#page=3",
+      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
     },
     {
       "place": "皆野町",
@@ -23894,7 +25546,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
       "number": "議案第34号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "賛成",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/444d68095e7ac4022e19a7a99e18b9bb.pdf#page=3",
+      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
     },
     {
       "place": "皆野町",
@@ -23905,7 +25574,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
       "number": "議案第35号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "賛成",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/444d68095e7ac4022e19a7a99e18b9bb.pdf#page=3",
+      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
     },
     {
       "place": "皆野町",
@@ -23916,7 +25602,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
       "number": "承認第3号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "賛成",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/444d68095e7ac4022e19a7a99e18b9bb.pdf#page=3",
+      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
     },
     {
       "place": "皆野町",
@@ -23927,7 +25630,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
       "number": "承認第4号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "賛成",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/444d68095e7ac4022e19a7a99e18b9bb.pdf#page=3",
+      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
     },
     {
       "place": "皆野町",
@@ -23938,7 +25658,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
       "number": "承認第5号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "賛成",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/444d68095e7ac4022e19a7a99e18b9bb.pdf#page=3",
+      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
     },
     {
       "place": "皆野町",
@@ -23949,7 +25686,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
       "number": "同意第1号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "賛成",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/444d68095e7ac4022e19a7a99e18b9bb.pdf#page=3",
+      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
     },
     {
       "place": "皆野町",
@@ -23960,7 +25714,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
       "number": "同意第2号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "賛成",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/444d68095e7ac4022e19a7a99e18b9bb.pdf#page=3",
+      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
     },
     {
       "place": "皆野町",
@@ -23971,7 +25742,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
       "number": "同意第3号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "賛成",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/444d68095e7ac4022e19a7a99e18b9bb.pdf#page=3",
+      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
     },
     {
       "place": "皆野町",
@@ -23982,7 +25770,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
       "resultURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2010/11/04259ec65dfdcf6b3718571b24020cd2-4.pdf#page=2",
       "number": "同意第4号",
-      "proposer": "皆野町長"
+      "proposer": "皆野町長",
+      "votes": {
+        "新井健司": "賛成",
+        "倉林郁雄": "賛成",
+        "黒澤広治": "賛成",
+        "大塚鉄也": "賛成",
+        "常山知子": "賛成",
+        "若林光雄": "賛成",
+        "新井達男": "賛成",
+        "林豊": "賛成",
+        "四方田実": "賛成",
+        "内海勝男": "賛成",
+        "宮原睦夫": "賛成",
+        "林太平": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/444d68095e7ac4022e19a7a99e18b9bb.pdf#page=3",
+      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
     },
     {
       "place": "皆野町",
@@ -25915,7 +27720,22 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
       "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
-      "resultLocator": "公式結果表1頁・議決番号18"
+      "resultLocator": "公式結果表1頁・議決番号18",
+      "votes": {
+        "フジタルイジ": "賛成",
+        "田島國利": "賛成",
+        "新井英行": "賛成",
+        "堀越賢司": "反対",
+        "大島輝雄": "賛成",
+        "田端恵美子": "賛成",
+        "橋場倖男": "賛成",
+        "櫻沢克幸": "賛成",
+        "根本孝代": "賛成",
+        "櫻沢保": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000002/2629/No153_P08-09.pdf#page=1",
+      "voteNote": "議会だより No.153 ８頁の議員別の賛否（〇は賛成の議員、×は反対の議員、ーは議長のため採決に加わっていません）。"
     },
     {
       "place": "美里町",
@@ -25927,7 +27747,22 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
       "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
-      "resultLocator": "公式結果表1頁・議決番号19"
+      "resultLocator": "公式結果表1頁・議決番号19",
+      "votes": {
+        "フジタルイジ": "賛成",
+        "田島國利": "賛成",
+        "新井英行": "賛成",
+        "堀越賢司": "反対",
+        "大島輝雄": "賛成",
+        "田端恵美子": "賛成",
+        "橋場倖男": "賛成",
+        "櫻沢克幸": "賛成",
+        "根本孝代": "賛成",
+        "櫻沢保": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000002/2629/No153_P08-09.pdf#page=1",
+      "voteNote": "議会だより No.153 ８頁の議員別の賛否（〇は賛成の議員、×は反対の議員、ーは議長のため採決に加わっていません）。"
     },
     {
       "place": "美里町",
@@ -25939,7 +27774,22 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
       "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
-      "resultLocator": "公式結果表1頁・議決番号20"
+      "resultLocator": "公式結果表1頁・議決番号20",
+      "votes": {
+        "フジタルイジ": "賛成",
+        "田島國利": "賛成",
+        "新井英行": "賛成",
+        "堀越賢司": "反対",
+        "大島輝雄": "賛成",
+        "田端恵美子": "賛成",
+        "橋場倖男": "賛成",
+        "櫻沢克幸": "賛成",
+        "根本孝代": "賛成",
+        "櫻沢保": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000002/2629/No153_P08-09.pdf#page=1",
+      "voteNote": "議会だより No.153 ８頁の議員別の賛否（〇は賛成の議員、×は反対の議員、ーは議長のため採決に加わっていません）。"
     },
     {
       "place": "美里町",
@@ -25951,7 +27801,22 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
       "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
-      "resultLocator": "公式結果表1頁・議決番号21"
+      "resultLocator": "公式結果表1頁・議決番号21",
+      "votes": {
+        "フジタルイジ": "賛成",
+        "田島國利": "賛成",
+        "新井英行": "賛成",
+        "堀越賢司": "反対",
+        "大島輝雄": "賛成",
+        "田端恵美子": "賛成",
+        "橋場倖男": "賛成",
+        "櫻沢克幸": "賛成",
+        "根本孝代": "賛成",
+        "櫻沢保": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000002/2629/No153_P08-09.pdf#page=1",
+      "voteNote": "議会だより No.153 ８頁の議員別の賛否（〇は賛成の議員、×は反対の議員、ーは議長のため採決に加わっていません）。"
     },
     {
       "place": "美里町",
@@ -25963,7 +27828,22 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
       "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
-      "resultLocator": "公式結果表1頁・議決番号22"
+      "resultLocator": "公式結果表1頁・議決番号22",
+      "votes": {
+        "フジタルイジ": "賛成",
+        "田島國利": "賛成",
+        "新井英行": "賛成",
+        "堀越賢司": "反対",
+        "大島輝雄": "賛成",
+        "田端恵美子": "賛成",
+        "橋場倖男": "賛成",
+        "櫻沢克幸": "賛成",
+        "根本孝代": "賛成",
+        "櫻沢保": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000002/2629/No153_P08-09.pdf#page=1",
+      "voteNote": "議会だより No.153 ８頁の議員別の賛否（〇は賛成の議員、×は反対の議員、ーは議長のため採決に加わっていません）。"
     },
     {
       "place": "美里町",
@@ -25975,7 +27855,22 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
       "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
-      "resultLocator": "公式結果表1頁・議決番号23"
+      "resultLocator": "公式結果表1頁・議決番号23",
+      "votes": {
+        "フジタルイジ": "賛成",
+        "田島國利": "賛成",
+        "新井英行": "賛成",
+        "堀越賢司": "反対",
+        "大島輝雄": "賛成",
+        "田端恵美子": "賛成",
+        "橋場倖男": "賛成",
+        "櫻沢克幸": "賛成",
+        "根本孝代": "賛成",
+        "櫻沢保": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000002/2629/No153_P08-09.pdf#page=1",
+      "voteNote": "議会だより No.153 ８頁の議員別の賛否（〇は賛成の議員、×は反対の議員、ーは議長のため採決に加わっていません）。"
     },
     {
       "place": "美里町",
@@ -25987,7 +27882,22 @@ GIKAI.coverage2026 = {
       "result": "原案承認",
       "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
       "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
-      "resultLocator": "公式結果表1頁・議決番号1"
+      "resultLocator": "公式結果表1頁・議決番号1",
+      "votes": {
+        "フジタルイジ": "賛成",
+        "田島國利": "賛成",
+        "新井英行": "賛成",
+        "堀越賢司": "賛成",
+        "大島輝雄": "賛成",
+        "田端恵美子": "賛成",
+        "橋場倖男": "賛成",
+        "櫻沢克幸": "賛成",
+        "根本孝代": "賛成",
+        "櫻沢保": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000002/2629/No153_P08-09.pdf#page=1",
+      "voteNote": "議会だより No.153 ８頁の議員別の賛否（〇は賛成の議員、×は反対の議員、ーは議長のため採決に加わっていません）。"
     },
     {
       "place": "美里町",
@@ -25999,7 +27909,22 @@ GIKAI.coverage2026 = {
       "result": "原案承認",
       "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
       "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
-      "resultLocator": "公式結果表1頁・議決番号2"
+      "resultLocator": "公式結果表1頁・議決番号2",
+      "votes": {
+        "フジタルイジ": "賛成",
+        "田島國利": "賛成",
+        "新井英行": "賛成",
+        "堀越賢司": "賛成",
+        "大島輝雄": "賛成",
+        "田端恵美子": "賛成",
+        "橋場倖男": "賛成",
+        "櫻沢克幸": "賛成",
+        "根本孝代": "賛成",
+        "櫻沢保": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000002/2629/No153_P08-09.pdf#page=1",
+      "voteNote": "議会だより No.153 ８頁の議員別の賛否（〇は賛成の議員、×は反対の議員、ーは議長のため採決に加わっていません）。"
     },
     {
       "place": "美里町",
@@ -26011,7 +27936,22 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
       "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
-      "resultLocator": "公式結果表1頁・議決番号3"
+      "resultLocator": "公式結果表1頁・議決番号3",
+      "votes": {
+        "フジタルイジ": "賛成",
+        "田島國利": "賛成",
+        "新井英行": "賛成",
+        "堀越賢司": "賛成",
+        "大島輝雄": "賛成",
+        "田端恵美子": "賛成",
+        "橋場倖男": "賛成",
+        "櫻沢克幸": "賛成",
+        "根本孝代": "賛成",
+        "櫻沢保": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000002/2629/No153_P08-09.pdf#page=1",
+      "voteNote": "議会だより No.153 ８頁の議員別の賛否（〇は賛成の議員、×は反対の議員、ーは議長のため採決に加わっていません）。"
     },
     {
       "place": "美里町",
@@ -26023,7 +27963,22 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
       "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
-      "resultLocator": "公式結果表1頁・議決番号4"
+      "resultLocator": "公式結果表1頁・議決番号4",
+      "votes": {
+        "フジタルイジ": "賛成",
+        "田島國利": "賛成",
+        "新井英行": "賛成",
+        "堀越賢司": "賛成",
+        "大島輝雄": "賛成",
+        "田端恵美子": "賛成",
+        "橋場倖男": "賛成",
+        "櫻沢克幸": "賛成",
+        "根本孝代": "賛成",
+        "櫻沢保": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000002/2629/No153_P08-09.pdf#page=1",
+      "voteNote": "議会だより No.153 ８頁の議員別の賛否（〇は賛成の議員、×は反対の議員、ーは議長のため採決に加わっていません）。"
     },
     {
       "place": "美里町",
@@ -26035,7 +27990,22 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
       "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
-      "resultLocator": "公式結果表1頁・議決番号5"
+      "resultLocator": "公式結果表1頁・議決番号5",
+      "votes": {
+        "フジタルイジ": "賛成",
+        "田島國利": "賛成",
+        "新井英行": "賛成",
+        "堀越賢司": "賛成",
+        "大島輝雄": "賛成",
+        "田端恵美子": "賛成",
+        "橋場倖男": "賛成",
+        "櫻沢克幸": "賛成",
+        "根本孝代": "賛成",
+        "櫻沢保": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000002/2629/No153_P08-09.pdf#page=1",
+      "voteNote": "議会だより No.153 ８頁の議員別の賛否（〇は賛成の議員、×は反対の議員、ーは議長のため採決に加わっていません）。"
     },
     {
       "place": "美里町",
@@ -26047,7 +28017,22 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
       "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
-      "resultLocator": "公式結果表1頁・議決番号6"
+      "resultLocator": "公式結果表1頁・議決番号6",
+      "votes": {
+        "フジタルイジ": "賛成",
+        "田島國利": "賛成",
+        "新井英行": "賛成",
+        "堀越賢司": "賛成",
+        "大島輝雄": "賛成",
+        "田端恵美子": "賛成",
+        "橋場倖男": "賛成",
+        "櫻沢克幸": "賛成",
+        "根本孝代": "賛成",
+        "櫻沢保": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000002/2629/No153_P08-09.pdf#page=1",
+      "voteNote": "議会だより No.153 ８頁の議員別の賛否（〇は賛成の議員、×は反対の議員、ーは議長のため採決に加わっていません）。"
     },
     {
       "place": "美里町",
@@ -26059,7 +28044,22 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
       "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
-      "resultLocator": "公式結果表1頁・議決番号7"
+      "resultLocator": "公式結果表1頁・議決番号7",
+      "votes": {
+        "フジタルイジ": "賛成",
+        "田島國利": "賛成",
+        "新井英行": "賛成",
+        "堀越賢司": "賛成",
+        "大島輝雄": "賛成",
+        "田端恵美子": "賛成",
+        "橋場倖男": "賛成",
+        "櫻沢克幸": "賛成",
+        "根本孝代": "賛成",
+        "櫻沢保": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000002/2629/No153_P08-09.pdf#page=1",
+      "voteNote": "議会だより No.153 ８頁の議員別の賛否（〇は賛成の議員、×は反対の議員、ーは議長のため採決に加わっていません）。"
     },
     {
       "place": "美里町",
@@ -26071,7 +28071,22 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
       "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=1",
-      "resultLocator": "公式結果表1頁・議決番号8"
+      "resultLocator": "公式結果表1頁・議決番号8",
+      "votes": {
+        "フジタルイジ": "賛成",
+        "田島國利": "賛成",
+        "新井英行": "賛成",
+        "堀越賢司": "賛成",
+        "大島輝雄": "賛成",
+        "田端恵美子": "賛成",
+        "橋場倖男": "賛成",
+        "櫻沢克幸": "賛成",
+        "根本孝代": "賛成",
+        "櫻沢保": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000002/2629/No153_P08-09.pdf#page=1",
+      "voteNote": "議会だより No.153 ８頁の議員別の賛否（〇は賛成の議員、×は反対の議員、ーは議長のため採決に加わっていません）。"
     },
     {
       "place": "美里町",
@@ -26083,7 +28098,22 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=2",
       "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=2",
-      "resultLocator": "公式結果表2頁・議決番号11"
+      "resultLocator": "公式結果表2頁・議決番号11",
+      "votes": {
+        "フジタルイジ": "賛成",
+        "田島國利": "賛成",
+        "新井英行": "賛成",
+        "堀越賢司": "賛成",
+        "大島輝雄": "賛成",
+        "田端恵美子": "賛成",
+        "橋場倖男": "賛成",
+        "櫻沢克幸": "賛成",
+        "根本孝代": "賛成",
+        "櫻沢保": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000002/2629/No153_P08-09.pdf#page=1",
+      "voteNote": "議会だより No.153 ８頁の議員別の賛否（〇は賛成の議員、×は反対の議員、ーは議長のため採決に加わっていません）。"
     },
     {
       "place": "美里町",
@@ -26095,7 +28125,22 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=2",
       "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=2",
-      "resultLocator": "公式結果表2頁・議決番号12"
+      "resultLocator": "公式結果表2頁・議決番号12",
+      "votes": {
+        "フジタルイジ": "賛成",
+        "田島國利": "賛成",
+        "新井英行": "賛成",
+        "堀越賢司": "賛成",
+        "大島輝雄": "賛成",
+        "田端恵美子": "賛成",
+        "橋場倖男": "賛成",
+        "櫻沢克幸": "賛成",
+        "根本孝代": "賛成",
+        "櫻沢保": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000002/2629/No153_P08-09.pdf#page=1",
+      "voteNote": "議会だより No.153 ８頁の議員別の賛否（〇は賛成の議員、×は反対の議員、ーは議長のため採決に加わっていません）。"
     },
     {
       "place": "美里町",
@@ -26107,7 +28152,22 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=2",
       "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=2",
-      "resultLocator": "公式結果表2頁・議決番号13"
+      "resultLocator": "公式結果表2頁・議決番号13",
+      "votes": {
+        "フジタルイジ": "賛成",
+        "田島國利": "賛成",
+        "新井英行": "賛成",
+        "堀越賢司": "反対",
+        "大島輝雄": "賛成",
+        "田端恵美子": "賛成",
+        "橋場倖男": "賛成",
+        "櫻沢克幸": "賛成",
+        "根本孝代": "賛成",
+        "櫻沢保": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000002/2629/No153_P08-09.pdf#page=1",
+      "voteNote": "議会だより No.153 ８頁の議員別の賛否（〇は賛成の議員、×は反対の議員、ーは議長のため採決に加わっていません）。"
     },
     {
       "place": "美里町",
@@ -26119,7 +28179,22 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=2",
       "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=2",
-      "resultLocator": "公式結果表2頁・議決番号14"
+      "resultLocator": "公式結果表2頁・議決番号14",
+      "votes": {
+        "フジタルイジ": "賛成",
+        "田島國利": "賛成",
+        "新井英行": "賛成",
+        "堀越賢司": "賛成",
+        "大島輝雄": "賛成",
+        "田端恵美子": "賛成",
+        "橋場倖男": "賛成",
+        "櫻沢克幸": "賛成",
+        "根本孝代": "賛成",
+        "櫻沢保": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000002/2629/No153_P08-09.pdf#page=1",
+      "voteNote": "議会だより No.153 ８頁の議員別の賛否（〇は賛成の議員、×は反対の議員、ーは議長のため採決に加わっていません）。"
     },
     {
       "place": "美里町",
@@ -26131,7 +28206,22 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=2",
       "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=2",
-      "resultLocator": "公式結果表2頁・議決番号15"
+      "resultLocator": "公式結果表2頁・議決番号15",
+      "votes": {
+        "フジタルイジ": "賛成",
+        "田島國利": "賛成",
+        "新井英行": "賛成",
+        "堀越賢司": "賛成",
+        "大島輝雄": "賛成",
+        "田端恵美子": "賛成",
+        "橋場倖男": "賛成",
+        "櫻沢克幸": "賛成",
+        "根本孝代": "賛成",
+        "櫻沢保": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000002/2629/No153_P08-09.pdf#page=1",
+      "voteNote": "議会だより No.153 ８頁の議員別の賛否（〇は賛成の議員、×は反対の議員、ーは議長のため採決に加わっていません）。"
     },
     {
       "place": "美里町",
@@ -26143,7 +28233,22 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=2",
       "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=2",
-      "resultLocator": "公式結果表2頁・議決番号16"
+      "resultLocator": "公式結果表2頁・議決番号16",
+      "votes": {
+        "フジタルイジ": "賛成",
+        "田島國利": "賛成",
+        "新井英行": "賛成",
+        "堀越賢司": "賛成",
+        "大島輝雄": "賛成",
+        "田端恵美子": "賛成",
+        "橋場倖男": "賛成",
+        "櫻沢克幸": "賛成",
+        "根本孝代": "賛成",
+        "櫻沢保": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000002/2629/No153_P08-09.pdf#page=1",
+      "voteNote": "議会だより No.153 ８頁の議員別の賛否（〇は賛成の議員、×は反対の議員、ーは議長のため採決に加わっていません）。"
     },
     {
       "place": "美里町",
@@ -26155,7 +28260,22 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=2",
       "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=2",
-      "resultLocator": "公式結果表2頁・議決番号17"
+      "resultLocator": "公式結果表2頁・議決番号17",
+      "votes": {
+        "フジタルイジ": "賛成",
+        "田島國利": "賛成",
+        "新井英行": "賛成",
+        "堀越賢司": "賛成",
+        "大島輝雄": "賛成",
+        "田端恵美子": "賛成",
+        "橋場倖男": "賛成",
+        "櫻沢克幸": "賛成",
+        "根本孝代": "賛成",
+        "櫻沢保": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000002/2629/No153_P08-09.pdf#page=1",
+      "voteNote": "議会だより No.153 ８頁の議員別の賛否（〇は賛成の議員、×は反対の議員、ーは議長のため採決に加わっていません）。"
     },
     {
       "place": "美里町",
@@ -26167,7 +28287,22 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=2",
       "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=2",
-      "resultLocator": "公式結果表2頁・議決番号10"
+      "resultLocator": "公式結果表2頁・議決番号10",
+      "votes": {
+        "フジタルイジ": "賛成",
+        "田島國利": "賛成",
+        "新井英行": "賛成",
+        "堀越賢司": "賛成",
+        "大島輝雄": "賛成",
+        "田端恵美子": "賛成",
+        "橋場倖男": "賛成",
+        "櫻沢克幸": "賛成",
+        "根本孝代": "賛成",
+        "櫻沢保": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000002/2629/No153_P08-09.pdf#page=1",
+      "voteNote": "議会だより No.153 ８頁の議員別の賛否（〇は賛成の議員、×は反対の議員、ーは議長のため採決に加わっていません）。"
     },
     {
       "place": "美里町",
@@ -26179,7 +28314,22 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=2",
       "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/r8.3kekka.pdf#page=2",
-      "resultLocator": "公式結果表2頁・議決番号9"
+      "resultLocator": "公式結果表2頁・議決番号9",
+      "votes": {
+        "フジタルイジ": "反対",
+        "田島國利": "反対",
+        "新井英行": "賛成",
+        "堀越賢司": "賛成",
+        "大島輝雄": "賛成",
+        "田端恵美子": "反対",
+        "橋場倖男": "賛成",
+        "櫻沢克幸": "賛成",
+        "根本孝代": "賛成",
+        "櫻沢保": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000002/2629/No153_P08-09.pdf#page=1",
+      "voteNote": "議会だより No.153 ８頁の議員別の賛否（〇は賛成の議員、×は反対の議員、ーは議長のため採決に加わっていません）。"
     },
     {
       "place": "美里町",
@@ -26191,7 +28341,22 @@ GIKAI.coverage2026 = {
       "result": "原案承認",
       "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/R8.6kekka.pdf#page=1",
       "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/R8.6kekka.pdf#page=1",
-      "resultLocator": "公式結果表1頁・議決番号24"
+      "resultLocator": "公式結果表1頁・議決番号24",
+      "votes": {
+        "フジタルイジ": "賛成",
+        "田島國利": "欠席",
+        "新井英行": "賛成",
+        "堀越賢司": "賛成",
+        "田端恵美子": "賛成",
+        "大島輝雄": "賛成",
+        "橋場倖男": "賛成",
+        "櫻沢克幸": "賛成",
+        "根本孝代": "賛成",
+        "櫻沢保": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000002/2629/No154_P04.pdf",
+      "voteNote": "議会だより No.154 ４頁の議員別の賛否（〇は賛成の議員、×は反対の議員、欠は欠席の議員、ーは議長のため採決に加わっていませんが、可は同数により採決）。"
     },
     {
       "place": "美里町",
@@ -26203,7 +28368,22 @@ GIKAI.coverage2026 = {
       "result": "原案承認",
       "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/R8.6kekka.pdf#page=1",
       "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/R8.6kekka.pdf#page=1",
-      "resultLocator": "公式結果表1頁・議決番号25"
+      "resultLocator": "公式結果表1頁・議決番号25",
+      "votes": {
+        "フジタルイジ": "賛成",
+        "田島國利": "欠席",
+        "新井英行": "賛成",
+        "堀越賢司": "賛成",
+        "田端恵美子": "賛成",
+        "大島輝雄": "賛成",
+        "橋場倖男": "賛成",
+        "櫻沢克幸": "賛成",
+        "根本孝代": "賛成",
+        "櫻沢保": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000002/2629/No154_P04.pdf",
+      "voteNote": "議会だより No.154 ４頁の議員別の賛否（〇は賛成の議員、×は反対の議員、欠は欠席の議員、ーは議長のため採決に加わっていませんが、可は同数により採決）。"
     },
     {
       "place": "美里町",
@@ -26215,7 +28395,22 @@ GIKAI.coverage2026 = {
       "result": "原案承認",
       "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/R8.6kekka.pdf#page=1",
       "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/R8.6kekka.pdf#page=1",
-      "resultLocator": "公式結果表1頁・議決番号26"
+      "resultLocator": "公式結果表1頁・議決番号26",
+      "votes": {
+        "フジタルイジ": "賛成",
+        "田島國利": "欠席",
+        "新井英行": "賛成",
+        "堀越賢司": "賛成",
+        "田端恵美子": "賛成",
+        "大島輝雄": "賛成",
+        "橋場倖男": "賛成",
+        "櫻沢克幸": "賛成",
+        "根本孝代": "賛成",
+        "櫻沢保": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000002/2629/No154_P04.pdf",
+      "voteNote": "議会だより No.154 ４頁の議員別の賛否（〇は賛成の議員、×は反対の議員、欠は欠席の議員、ーは議長のため採決に加わっていませんが、可は同数により採決）。"
     },
     {
       "place": "美里町",
@@ -26227,7 +28422,22 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/R8.6kekka.pdf#page=1",
       "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/R8.6kekka.pdf#page=1",
-      "resultLocator": "公式結果表1頁・議決番号29"
+      "resultLocator": "公式結果表1頁・議決番号29",
+      "votes": {
+        "フジタルイジ": "賛成",
+        "田島國利": "欠席",
+        "新井英行": "賛成",
+        "堀越賢司": "賛成",
+        "田端恵美子": "賛成",
+        "大島輝雄": "賛成",
+        "橋場倖男": "賛成",
+        "櫻沢克幸": "賛成",
+        "根本孝代": "賛成",
+        "櫻沢保": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000002/2629/No154_P04.pdf",
+      "voteNote": "議会だより No.154 ４頁の議員別の賛否（〇は賛成の議員、×は反対の議員、欠は欠席の議員、ーは議長のため採決に加わっていませんが、可は同数により採決）。"
     },
     {
       "place": "美里町",
@@ -26239,7 +28449,22 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/R8.6kekka.pdf#page=1",
       "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/R8.6kekka.pdf#page=1",
-      "resultLocator": "公式結果表1頁・議決番号30"
+      "resultLocator": "公式結果表1頁・議決番号30",
+      "votes": {
+        "フジタルイジ": "賛成",
+        "田島國利": "欠席",
+        "新井英行": "賛成",
+        "堀越賢司": "賛成",
+        "田端恵美子": "賛成",
+        "大島輝雄": "賛成",
+        "橋場倖男": "賛成",
+        "櫻沢克幸": "賛成",
+        "根本孝代": "賛成",
+        "櫻沢保": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000002/2629/No154_P04.pdf",
+      "voteNote": "議会だより No.154 ４頁の議員別の賛否（〇は賛成の議員、×は反対の議員、欠は欠席の議員、ーは議長のため採決に加わっていませんが、可は同数により採決）。"
     },
     {
       "place": "美里町",
@@ -26251,7 +28476,22 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/R8.6kekka.pdf#page=1",
       "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/R8.6kekka.pdf#page=1",
-      "resultLocator": "公式結果表1頁・議決番号31"
+      "resultLocator": "公式結果表1頁・議決番号31",
+      "votes": {
+        "フジタルイジ": "賛成",
+        "田島國利": "欠席",
+        "新井英行": "賛成",
+        "堀越賢司": "反対",
+        "田端恵美子": "賛成",
+        "大島輝雄": "賛成",
+        "橋場倖男": "賛成",
+        "櫻沢克幸": "賛成",
+        "根本孝代": "賛成",
+        "櫻沢保": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000002/2629/No154_P04.pdf",
+      "voteNote": "議会だより No.154 ４頁の議員別の賛否（〇は賛成の議員、×は反対の議員、欠は欠席の議員、ーは議長のため採決に加わっていませんが、可は同数により採決）。"
     },
     {
       "place": "美里町",
@@ -26263,7 +28503,22 @@ GIKAI.coverage2026 = {
       "result": "原案同意",
       "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/R8.6kekka.pdf#page=1",
       "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/R8.6kekka.pdf#page=1",
-      "resultLocator": "公式結果表1頁・議決番号27"
+      "resultLocator": "公式結果表1頁・議決番号27",
+      "votes": {
+        "フジタルイジ": "賛成",
+        "田島國利": "欠席",
+        "新井英行": "賛成",
+        "堀越賢司": "賛成",
+        "田端恵美子": "賛成",
+        "大島輝雄": "賛成",
+        "橋場倖男": "賛成",
+        "櫻沢克幸": "賛成",
+        "根本孝代": "賛成",
+        "櫻沢保": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000002/2629/No154_P04.pdf",
+      "voteNote": "議会だより No.154 ４頁の議員別の賛否（〇は賛成の議員、×は反対の議員、欠は欠席の議員、ーは議長のため採決に加わっていませんが、可は同数により採決）。"
     },
     {
       "place": "美里町",
@@ -26275,7 +28530,22 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/R8.6kekka.pdf#page=1",
       "resultURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000001/1225/R8.6kekka.pdf#page=1",
-      "resultLocator": "公式結果表1頁・議決番号32"
+      "resultLocator": "公式結果表1頁・議決番号32",
+      "votes": {
+        "フジタルイジ": "賛成",
+        "田島國利": "欠席",
+        "新井英行": "賛成",
+        "堀越賢司": "賛成",
+        "田端恵美子": "賛成",
+        "大島輝雄": "賛成",
+        "橋場倖男": "賛成",
+        "櫻沢克幸": "賛成",
+        "根本孝代": "賛成",
+        "櫻沢保": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.saitama-misato.lg.jp/cmsfiles/contents/0000002/2629/No154_P04.pdf",
+      "voteNote": "議会だより No.154 ４頁の議員別の賛否（〇は賛成の議員、×は反対の議員、欠は欠席の議員、ーは議長のため採決に加わっていませんが、可は同数により採決）。"
     },
     {
       "place": "美里町",
@@ -32280,7 +34550,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteView.html?tenant_id=73&council_id=95&schedule_id=5",
       "sourceType": "公式本会議録",
       "resultLocator": "3月18日本会議録・議案第4号",
-      "voteNote": "起立多数。"
+      "voteNote": "起立多数。 議会だより No.82の議員別の賛否（賛成:○ 反対:× ※赤羽奈保子議長（議事進行）は採決に加わらない）。",
+      "votes": {
+        "剣持真菜美": "賛成",
+        "新井太一": "賛成",
+        "四方田繁男": "賛成",
+        "林部葉月": "賛成",
+        "福島康弘": "賛成",
+        "川浦雅子": "反対",
+        "野口弘吉": "賛成",
+        "坂本貴佳": "賛成",
+        "堀川光宣": "賛成",
+        "赤羽奈保子": "議長（表決不参加）",
+        "坂田弘": "賛成",
+        "柴崎愛子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.kamikawa.saitama.jp/material/files/group/18/gikaidayori82.pdf#page=11"
     },
     {
       "place": "神川町",
@@ -32448,7 +34734,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteView.html?tenant_id=73&council_id=95&schedule_id=5",
       "sourceType": "公式本会議録",
       "resultLocator": "3月18日本会議録・議案第16号",
-      "voteNote": "起立多数。"
+      "voteNote": "起立多数。 議会だより No.82の議員別の賛否（賛成:○ 反対:× ※赤羽奈保子議長（議事進行）は採決に加わらない）。",
+      "votes": {
+        "剣持真菜美": "賛成",
+        "新井太一": "賛成",
+        "四方田繁男": "賛成",
+        "林部葉月": "賛成",
+        "福島康弘": "賛成",
+        "川浦雅子": "反対",
+        "野口弘吉": "賛成",
+        "坂本貴佳": "賛成",
+        "堀川光宣": "賛成",
+        "赤羽奈保子": "議長（表決不参加）",
+        "坂田弘": "賛成",
+        "柴崎愛子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.kamikawa.saitama.jp/material/files/group/18/gikaidayori82.pdf#page=11"
     },
     {
       "place": "神川町",
@@ -32462,7 +34764,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteView.html?tenant_id=73&council_id=95&schedule_id=5",
       "sourceType": "公式本会議録",
       "resultLocator": "3月18日本会議録・議案第17号",
-      "voteNote": "起立多数。"
+      "voteNote": "起立多数。 議会だより No.82の議員別の賛否（賛成:○ 反対:× ※赤羽奈保子議長（議事進行）は採決に加わらない）。",
+      "votes": {
+        "剣持真菜美": "賛成",
+        "新井太一": "賛成",
+        "四方田繁男": "賛成",
+        "林部葉月": "賛成",
+        "福島康弘": "賛成",
+        "川浦雅子": "反対",
+        "野口弘吉": "賛成",
+        "坂本貴佳": "賛成",
+        "堀川光宣": "賛成",
+        "赤羽奈保子": "議長（表決不参加）",
+        "坂田弘": "賛成",
+        "柴崎愛子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.kamikawa.saitama.jp/material/files/group/18/gikaidayori82.pdf#page=11"
     },
     {
       "place": "神川町",
@@ -32476,7 +34794,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteView.html?tenant_id=73&council_id=95&schedule_id=5",
       "sourceType": "公式本会議録",
       "resultLocator": "3月18日本会議録・議案第18号",
-      "voteNote": "起立多数。"
+      "voteNote": "起立多数。 議会だより No.82の議員別の賛否（賛成:○ 反対:× ※赤羽奈保子議長（議事進行）は採決に加わらない）。",
+      "votes": {
+        "剣持真菜美": "賛成",
+        "新井太一": "賛成",
+        "四方田繁男": "賛成",
+        "林部葉月": "賛成",
+        "福島康弘": "賛成",
+        "川浦雅子": "反対",
+        "野口弘吉": "賛成",
+        "坂本貴佳": "賛成",
+        "堀川光宣": "賛成",
+        "赤羽奈保子": "議長（表決不参加）",
+        "坂田弘": "賛成",
+        "柴崎愛子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.kamikawa.saitama.jp/material/files/group/18/gikaidayori82.pdf#page=11"
     },
     {
       "place": "神川町",
@@ -32490,7 +34824,23 @@ GIKAI.coverage2026 = {
       "resultURL": "https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteView.html?tenant_id=73&council_id=95&schedule_id=5",
       "sourceType": "公式本会議録",
       "resultLocator": "3月18日本会議録・議案第19号",
-      "voteNote": "起立多数。"
+      "voteNote": "起立多数。 議会だより No.82の議員別の賛否（賛成:○ 反対:× ※赤羽奈保子議長（議事進行）は採決に加わらない）。",
+      "votes": {
+        "剣持真菜美": "賛成",
+        "新井太一": "賛成",
+        "四方田繁男": "賛成",
+        "林部葉月": "賛成",
+        "福島康弘": "賛成",
+        "川浦雅子": "反対",
+        "野口弘吉": "賛成",
+        "坂本貴佳": "賛成",
+        "堀川光宣": "賛成",
+        "赤羽奈保子": "議長（表決不参加）",
+        "坂田弘": "賛成",
+        "柴崎愛子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.kamikawa.saitama.jp/material/files/group/18/gikaidayori82.pdf#page=11"
     },
     {
       "place": "神川町",
@@ -62439,7 +64789,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=1",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=1",
       "resultLocator": "公式議決結果一覧 1頁・議案第2号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "賛成",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P7-231.pdf",
+      "voteNote": "議会だより No.231 ７頁の議員別の賛否（○：賛成 ×：反対 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -62452,7 +64825,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=1",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=1",
       "resultLocator": "公式議決結果一覧 1頁・議案第3号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "賛成",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P7-231.pdf",
+      "voteNote": "議会だより No.231 ７頁の議員別の賛否（○：賛成 ×：反対 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -62465,7 +64861,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=1",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=1",
       "resultLocator": "公式議決結果一覧 1頁・議案第4号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "賛成",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P7-231.pdf",
+      "voteNote": "議会だより No.231 ７頁の議員別の賛否（○：賛成 ×：反対 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -62478,7 +64897,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=1",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=1",
       "resultLocator": "公式議決結果一覧 1頁・議案第5号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "賛成",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P7-231.pdf",
+      "voteNote": "議会だより No.231 ７頁の議員別の賛否（○：賛成 ×：反対 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -62491,7 +64933,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=1",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=1",
       "resultLocator": "公式議決結果一覧 1頁・議案第6号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "賛成",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P7-231.pdf",
+      "voteNote": "議会だより No.231 ７頁の議員別の賛否（○：賛成 ×：反対 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -62504,7 +64969,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=1",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=1",
       "resultLocator": "公式議決結果一覧 1頁・議案第7号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "賛成",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P7-231.pdf",
+      "voteNote": "議会だより No.231 ７頁の議員別の賛否（○：賛成 ×：反対 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -62517,7 +65005,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=1",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=1",
       "resultLocator": "公式議決結果一覧 1頁・議案第8号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "賛成",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P7-231.pdf",
+      "voteNote": "議会だより No.231 ７頁の議員別の賛否（○：賛成 ×：反対 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -62530,7 +65041,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=1",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=1",
       "resultLocator": "公式議決結果一覧 1頁・議案第9号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "賛成",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P7-231.pdf",
+      "voteNote": "議会だより No.231 ７頁の議員別の賛否（○：賛成 ×：反対 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -62543,7 +65077,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=1",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=1",
       "resultLocator": "公式議決結果一覧 1頁・議案第10号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "賛成",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P7-231.pdf",
+      "voteNote": "議会だより No.231 ７頁の議員別の賛否（○：賛成 ×：反対 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -62556,7 +65113,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=1",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=1",
       "resultLocator": "公式議決結果一覧 1頁・議案第11号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "賛成",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P7-231.pdf",
+      "voteNote": "議会だより No.231 ７頁の議員別の賛否（○：賛成 ×：反対 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -62569,7 +65149,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=1",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=1",
       "resultLocator": "公式議決結果一覧 1頁・議案第12号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "賛成",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P7-231.pdf",
+      "voteNote": "議会だより No.231 ７頁の議員別の賛否（○：賛成 ×：反対 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -62582,7 +65185,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=1",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=1",
       "resultLocator": "公式議決結果一覧 1頁・議案第13号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "賛成",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P7-231.pdf",
+      "voteNote": "議会だより No.231 ７頁の議員別の賛否（○：賛成 ×：反対 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -62595,7 +65221,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=1",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=1",
       "resultLocator": "公式議決結果一覧 1頁・議案第14号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "賛成",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P7-231.pdf",
+      "voteNote": "議会だより No.231 ７頁の議員別の賛否（○：賛成 ×：反対 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -62608,7 +65257,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=1",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=1",
       "resultLocator": "公式議決結果一覧 1頁・議案第15号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "賛成",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P7-231.pdf",
+      "voteNote": "議会だより No.231 ７頁の議員別の賛否（○：賛成 ×：反対 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -62621,7 +65293,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=1",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=1",
       "resultLocator": "公式議決結果一覧 1頁・議案第16号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "賛成",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P7-231.pdf",
+      "voteNote": "議会だより No.231 ７頁の議員別の賛否（○：賛成 ×：反対 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -62634,7 +65329,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=1",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=1",
       "resultLocator": "公式議決結果一覧 1頁・議案第17号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "賛成",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P7-231.pdf",
+      "voteNote": "議会だより No.231 ７頁の議員別の賛否（○：賛成 ×：反対 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -62647,7 +65365,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=1",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=1",
       "resultLocator": "公式議決結果一覧 1頁・議案第18号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "賛成",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P7-231.pdf",
+      "voteNote": "議会だより No.231 ７頁の議員別の賛否（○：賛成 ×：反対 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -62660,7 +65401,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=1",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=1",
       "resultLocator": "公式議決結果一覧 1頁・議案第19号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "賛成",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P7-231.pdf",
+      "voteNote": "議会だより No.231 ７頁の議員別の賛否（○：賛成 ×：反対 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -62673,7 +65437,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=2",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=2",
       "resultLocator": "公式議決結果一覧 2頁・議案第20号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "賛成",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P7-231.pdf",
+      "voteNote": "議会だより No.231 ７頁の議員別の賛否（○：賛成 ×：反対 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -62686,7 +65473,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=2",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=2",
       "resultLocator": "公式議決結果一覧 2頁・議案第21号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "賛成",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P7-231.pdf",
+      "voteNote": "議会だより No.231 ７頁の議員別の賛否（○：賛成 ×：反対 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -62699,7 +65509,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=2",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=2",
       "resultLocator": "公式議決結果一覧 2頁・議案第22号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "賛成",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P7-231.pdf",
+      "voteNote": "議会だより No.231 ７頁の議員別の賛否（○：賛成 ×：反対 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -62712,7 +65545,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=2",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=2",
       "resultLocator": "公式議決結果一覧 2頁・議案第23号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "賛成",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P7-231.pdf",
+      "voteNote": "議会だより No.231 ７頁の議員別の賛否（○：賛成 ×：反対 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -62725,7 +65581,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=2",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R803-giketsukekka-080318.pdf#page=2",
       "resultLocator": "公式議決結果一覧 2頁・議案第24号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "反対",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "反対",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "賛成",
+        "大島勉": "反対",
+        "黒須大一郎": "反対",
+        "江原浩之": "反対",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P7-231.pdf",
+      "voteNote": "議会だより No.231 ７頁の議員別の賛否（○：賛成 ×：反対 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -62803,7 +65682,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=1",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=1",
       "resultLocator": "公式議決結果一覧 1頁・議案第25号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "欠席",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P3-232.pdf",
+      "voteNote": "議会だより No.232 ３頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -62816,7 +65718,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=1",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=1",
       "resultLocator": "公式議決結果一覧 1頁・議案第26号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "欠席",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P3-232.pdf",
+      "voteNote": "議会だより No.232 ３頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -62829,7 +65754,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=1",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=1",
       "resultLocator": "公式議決結果一覧 1頁・議案第27号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "欠席",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P3-232.pdf",
+      "voteNote": "議会だより No.232 ３頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -62842,7 +65790,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=1",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=1",
       "resultLocator": "公式議決結果一覧 1頁・議案第28号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "欠席",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P3-232.pdf",
+      "voteNote": "議会だより No.232 ３頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -62855,7 +65826,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=1",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=1",
       "resultLocator": "公式議決結果一覧 1頁・議案第29号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "欠席",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P3-232.pdf",
+      "voteNote": "議会だより No.232 ３頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -62868,7 +65862,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=1",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=1",
       "resultLocator": "公式議決結果一覧 1頁・議案第30号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "欠席",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P3-232.pdf",
+      "voteNote": "議会だより No.232 ３頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -62881,7 +65898,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=1",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=1",
       "resultLocator": "公式議決結果一覧 1頁・議案第31号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "欠席",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P3-232.pdf",
+      "voteNote": "議会だより No.232 ３頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -62894,7 +65934,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=1",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=1",
       "resultLocator": "公式議決結果一覧 1頁・議案第32号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "欠席",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P3-232.pdf",
+      "voteNote": "議会だより No.232 ３頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -62907,7 +65970,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=1",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=1",
       "resultLocator": "公式議決結果一覧 1頁・議案第33号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "欠席",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P3-232.pdf",
+      "voteNote": "議会だより No.232 ３頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -62920,7 +66006,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=1",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=1",
       "resultLocator": "公式議決結果一覧 1頁・議案第34号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "欠席",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P3-232.pdf",
+      "voteNote": "議会だより No.232 ３頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -62933,7 +66042,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=1",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=1",
       "resultLocator": "公式議決結果一覧 1頁・議案第35号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "欠席",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P3-232.pdf",
+      "voteNote": "議会だより No.232 ３頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -62946,7 +66078,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=2",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=2",
       "resultLocator": "公式議決結果一覧 2頁・議案第36号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "欠席",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P3-232.pdf",
+      "voteNote": "議会だより No.232 ３頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -62959,7 +66114,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=2",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=2",
       "resultLocator": "公式議決結果一覧 2頁・議案第37号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "欠席",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P3-232.pdf",
+      "voteNote": "議会だより No.232 ３頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -62972,7 +66150,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=2",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=2",
       "resultLocator": "公式議決結果一覧 2頁・議案第38号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "欠席",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P3-232.pdf",
+      "voteNote": "議会だより No.232 ３頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -62985,7 +66186,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=2",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=2",
       "resultLocator": "公式議決結果一覧 2頁・議案第39号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "欠席",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P3-232.pdf",
+      "voteNote": "議会だより No.232 ３頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -62998,7 +66222,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=2",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=2",
       "resultLocator": "公式議決結果一覧 2頁・議案第40号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "欠席",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P3-232.pdf",
+      "voteNote": "議会だより No.232 ３頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -63011,7 +66258,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=2",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=2",
       "resultLocator": "公式議決結果一覧 2頁・議案第41号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "欠席",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P3-232.pdf",
+      "voteNote": "議会だより No.232 ３頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -63024,7 +66294,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=2",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=2",
       "resultLocator": "公式議決結果一覧 2頁・議案第42号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "欠席",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P3-232.pdf",
+      "voteNote": "議会だより No.232 ３頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -63037,7 +66330,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=2",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=2",
       "resultLocator": "公式議決結果一覧 2頁・議案第43号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "欠席",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P3-232.pdf",
+      "voteNote": "議会だより No.232 ３頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -63050,7 +66366,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=2",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=2",
       "resultLocator": "公式議決結果一覧 2頁・議案第44号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "欠席",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P3-232.pdf",
+      "voteNote": "議会だより No.232 ３頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -63063,7 +66402,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=2",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=2",
       "resultLocator": "公式議決結果一覧 2頁・議案第45号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "欠席",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P3-232.pdf",
+      "voteNote": "議会だより No.232 ３頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -63076,7 +66438,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=2",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=2",
       "resultLocator": "公式議決結果一覧 2頁・議案第46号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "欠席",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P3-232.pdf",
+      "voteNote": "議会だより No.232 ３頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -63089,7 +66474,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=2",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=2",
       "resultLocator": "公式議決結果一覧 2頁・議案第47号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "欠席",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P3-232.pdf",
+      "voteNote": "議会だより No.232 ３頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -63102,7 +66510,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=2",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=2",
       "resultLocator": "公式議決結果一覧 2頁・議案第48号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "欠席",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P3-232.pdf",
+      "voteNote": "議会だより No.232 ３頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -63115,7 +66546,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=2",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=2",
       "resultLocator": "公式議決結果一覧 2頁・議案第49号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "欠席",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P3-232.pdf",
+      "voteNote": "議会だより No.232 ３頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -63128,7 +66582,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=2",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=2",
       "resultLocator": "公式議決結果一覧 2頁・議案第50号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "欠席",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P3-232.pdf",
+      "voteNote": "議会だより No.232 ３頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -63141,7 +66618,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=2",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=2",
       "resultLocator": "公式議決結果一覧 2頁・議案第51号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "欠席",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P3-232.pdf",
+      "voteNote": "議会だより No.232 ３頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -63154,7 +66654,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=2",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R806-giketsukekka-0625.pdf#page=2",
       "resultLocator": "公式議決結果一覧 2頁・議案第52号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "欠席",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P3-232.pdf",
+      "voteNote": "議会だより No.232 ３頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -63175,7 +66698,30 @@ GIKAI.coverage2026 = {
         "江原浩之",
         "浜口清志"
       ],
-      "sourceTitle": "決議案の原本・提出者と賛成者"
+      "sourceTitle": "決議案の原本・提出者と賛成者",
+      "votes": {
+        "寺戸睦子": "反対",
+        "尾嶋一雄": "反対",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "反対",
+        "浜口清志": "賛成",
+        "和賀正義": "反対",
+        "野々口眞由美": "反対",
+        "石渡征浩": "反対",
+        "斎藤信治": "反対",
+        "加藤一生": "反対",
+        "松本栄一": "賛成",
+        "中山廣子": "反対",
+        "菱沼あゆ美": "反対",
+        "遠藤誠": "欠席",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P3-232.pdf",
+      "voteNote": "議会だより No.232 ３頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -63201,7 +66747,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R809-giketsukekka-0925.pdf#page=1",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R809-giketsukekka-0925.pdf#page=1",
       "resultLocator": "公式議決結果一覧 1頁・議案第55号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "賛成",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P16-233.pdf",
+      "voteNote": "議会だより No.233 16頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -63214,7 +66783,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R809-giketsukekka-0925.pdf#page=1",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R809-giketsukekka-0925.pdf#page=1",
       "resultLocator": "公式議決結果一覧 1頁・議案第56号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "賛成",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P16-233.pdf",
+      "voteNote": "議会だより No.233 16頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -63227,7 +66819,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R809-giketsukekka-0925.pdf#page=1",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R809-giketsukekka-0925.pdf#page=1",
       "resultLocator": "公式議決結果一覧 1頁・議案第57号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "賛成",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P16-233.pdf",
+      "voteNote": "議会だより No.233 16頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -63240,7 +66855,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R809-giketsukekka-0925.pdf#page=1",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R809-giketsukekka-0925.pdf#page=1",
       "resultLocator": "公式議決結果一覧 1頁・議案第58号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "反対",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "賛成",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P16-233.pdf",
+      "voteNote": "議会だより No.233 16頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -63253,7 +66891,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R809-giketsukekka-0925.pdf#page=1",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R809-giketsukekka-0925.pdf#page=1",
       "resultLocator": "公式議決結果一覧 1頁・議案第59号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "賛成",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P16-233.pdf",
+      "voteNote": "議会だより No.233 16頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -63266,7 +66927,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R809-giketsukekka-0925.pdf#page=1",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R809-giketsukekka-0925.pdf#page=1",
       "resultLocator": "公式議決結果一覧 1頁・議案第60号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "賛成",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P16-233.pdf",
+      "voteNote": "議会だより No.233 16頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -63279,7 +66963,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R809-giketsukekka-0925.pdf#page=1",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R809-giketsukekka-0925.pdf#page=1",
       "resultLocator": "公式議決結果一覧 1頁・議案第61号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "賛成",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P16-233.pdf",
+      "voteNote": "議会だより No.233 16頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -63292,7 +66999,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R809-giketsukekka-0925.pdf#page=1",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R809-giketsukekka-0925.pdf#page=1",
       "resultLocator": "公式議決結果一覧 1頁・議案第62号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "賛成",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P16-233.pdf",
+      "voteNote": "議会だより No.233 16頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -63305,7 +67035,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R809-giketsukekka-0925.pdf#page=1",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R809-giketsukekka-0925.pdf#page=1",
       "resultLocator": "公式議決結果一覧 1頁・議案第63号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "賛成",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P16-233.pdf",
+      "voteNote": "議会だより No.233 16頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -63318,7 +67071,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R809-giketsukekka-0925.pdf#page=1",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R809-giketsukekka-0925.pdf#page=1",
       "resultLocator": "公式議決結果一覧 1頁・議案第64号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "賛成",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P16-233.pdf",
+      "voteNote": "議会だより No.233 16頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -63331,7 +67107,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R809-giketsukekka-0925.pdf#page=1",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R809-giketsukekka-0925.pdf#page=1",
       "resultLocator": "公式議決結果一覧 1頁・議案第65号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "賛成",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P16-233.pdf",
+      "voteNote": "議会だより No.233 16頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -63344,7 +67143,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R809-giketsukekka-0925.pdf#page=1",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R809-giketsukekka-0925.pdf#page=1",
       "resultLocator": "公式議決結果一覧 1頁・議案第66号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "賛成",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P16-233.pdf",
+      "voteNote": "議会だより No.233 16頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -63357,7 +67179,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R809-giketsukekka-0925.pdf#page=1",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R809-giketsukekka-0925.pdf#page=1",
       "resultLocator": "公式議決結果一覧 1頁・議案第67号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "賛成",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P16-233.pdf",
+      "voteNote": "議会だより No.233 16頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -63370,7 +67215,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R809-giketsukekka-0925.pdf#page=1",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R809-giketsukekka-0925.pdf#page=1",
       "resultLocator": "公式議決結果一覧 1頁・議案第68号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "賛成",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P16-233.pdf",
+      "voteNote": "議会だより No.233 16頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -63383,7 +67251,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R809-giketsukekka-0925.pdf#page=1",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R809-giketsukekka-0925.pdf#page=1",
       "resultLocator": "公式議決結果一覧 1頁・議案第69号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "反対",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "賛成",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P16-233.pdf",
+      "voteNote": "議会だより No.233 16頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -63396,7 +67287,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R809-giketsukekka-0925.pdf#page=2",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R809-giketsukekka-0925.pdf#page=2",
       "resultLocator": "公式議決結果一覧 2頁・議案第70号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "反対",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "賛成",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P16-233.pdf",
+      "voteNote": "議会だより No.233 16頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -63409,7 +67323,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R809-giketsukekka-0925.pdf#page=2",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R809-giketsukekka-0925.pdf#page=2",
       "resultLocator": "公式議決結果一覧 2頁・議案第71号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "賛成",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P16-233.pdf",
+      "voteNote": "議会だより No.233 16頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -63422,7 +67359,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R809-giketsukekka-0925.pdf#page=2",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R809-giketsukekka-0925.pdf#page=2",
       "resultLocator": "公式議決結果一覧 2頁・議案第72号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "賛成",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P16-233.pdf",
+      "voteNote": "議会だより No.233 16頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -63435,7 +67395,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R809-giketsukekka-0925.pdf#page=2",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R809-giketsukekka-0925.pdf#page=2",
       "resultLocator": "公式議決結果一覧 2頁・議案第73号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "賛成",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P16-233.pdf",
+      "voteNote": "議会だより No.233 16頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "白岡市",
@@ -63448,7 +67431,30 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/R809-giketsukekka-0925.pdf#page=2",
       "resultURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/R809-giketsukekka-0925.pdf#page=2",
       "resultLocator": "公式議決結果一覧 2頁・議案第74号",
-      "proposer": "市長"
+      "proposer": "市長",
+      "votes": {
+        "寺戸睦子": "賛成",
+        "尾嶋一雄": "賛成",
+        "嶋田友一郎": "賛成",
+        "細井藤夫": "賛成",
+        "浜口清志": "賛成",
+        "和賀正義": "賛成",
+        "野々口眞由美": "賛成",
+        "石渡征浩": "賛成",
+        "斎藤信治": "賛成",
+        "加藤一生": "賛成",
+        "松本栄一": "賛成",
+        "中山廣子": "賛成",
+        "菱沼あゆ美": "賛成",
+        "遠藤誠": "賛成",
+        "大島勉": "賛成",
+        "黒須大一郎": "賛成",
+        "江原浩之": "賛成",
+        "中川幸廣": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiraoka.lg.jp/material/files/group/28/P16-233.pdf",
+      "voteNote": "議会だより No.233 16頁の議員別の賛否（○：賛成 ×：反対 欠：欠席 ー：表決なし ※18番 中川幸廣議員は議長のため採決に加わらず）。"
     },
     {
       "place": "寄居町",
@@ -67250,7 +71256,25 @@ GIKAI.coverage2026 = {
       "url": "https://www.city.shiki.lg.jp/uploaded/attachment/23308.pdf#page=1",
       "resultURL": "https://www.city.shiki.lg.jp/uploaded/attachment/23308.pdf#page=1",
       "resultLocator": "志木市議会の公式一覧1頁・第17行",
-      "voteNote": "公式一覧の採決状況は賛成多数。"
+      "voteNote": "公式一覧の採決状況は賛成多数。 議会だより No.213 11頁の議員別の賛否（賛成・反対を語で表示 ※10番 吉澤富美夫議員は議長のため表決に加わらず）。",
+      "votes": {
+        "今村弘志": "賛成",
+        "阿部竜一": "賛成",
+        "小池真由美": "賛成",
+        "古谷孝": "賛成",
+        "上野琢磨": "賛成",
+        "高山優太": "賛成",
+        "岡島貴弘": "反対",
+        "天田いづみ": "賛成",
+        "中村智紀": "賛成",
+        "吉澤富美夫": "議長（表決不参加）",
+        "田畑寛治": "反対",
+        "安藤圭介": "反対",
+        "河野芳徳": "反対",
+        "鈴木潔": "反対"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.shiki.lg.jp/uploaded/attachment/23645.pdf"
     },
     {
       "place": "志木市",
@@ -82884,7 +86908,25 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=1",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=1",
       "resultLocator": "公式審議結果PDF1頁・1行目",
-      "number": "議案第3号"
+      "number": "議案第3号",
+      "votes": {
+        "佐藤将行": "賛成",
+        "野原洋子": "賛成",
+        "福澤和美": "賛成",
+        "丸山妙子": "賛成",
+        "丸藤栄一": "賛成",
+        "小島あけみ": "賛成",
+        "泉伸一郎": "賛成",
+        "塚村香織": "賛成",
+        "鈴木次男": "賛成",
+        "合川泰治": "賛成",
+        "土渕保美": "賛成",
+        "田島正徳": "賛成",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
     },
     {
       "place": "宮代町",
@@ -82895,7 +86937,25 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=1",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=1",
       "resultLocator": "公式審議結果PDF1頁・2行目",
-      "number": "議案第4号"
+      "number": "議案第4号",
+      "votes": {
+        "佐藤将行": "賛成",
+        "野原洋子": "賛成",
+        "福澤和美": "賛成",
+        "丸山妙子": "賛成",
+        "丸藤栄一": "賛成",
+        "小島あけみ": "賛成",
+        "泉伸一郎": "賛成",
+        "塚村香織": "賛成",
+        "鈴木次男": "賛成",
+        "合川泰治": "賛成",
+        "土渕保美": "賛成",
+        "田島正徳": "賛成",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
     },
     {
       "place": "宮代町",
@@ -82906,7 +86966,25 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=1",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=1",
       "resultLocator": "公式審議結果PDF1頁・3行目",
-      "number": "議案第5号"
+      "number": "議案第5号",
+      "votes": {
+        "佐藤将行": "賛成",
+        "野原洋子": "賛成",
+        "福澤和美": "賛成",
+        "丸山妙子": "賛成",
+        "丸藤栄一": "賛成",
+        "小島あけみ": "賛成",
+        "泉伸一郎": "賛成",
+        "塚村香織": "賛成",
+        "鈴木次男": "賛成",
+        "合川泰治": "賛成",
+        "土渕保美": "賛成",
+        "田島正徳": "賛成",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
     },
     {
       "place": "宮代町",
@@ -82917,7 +86995,25 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=1",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=1",
       "resultLocator": "公式審議結果PDF1頁・4行目",
-      "number": "議案第6号"
+      "number": "議案第6号",
+      "votes": {
+        "佐藤将行": "反対",
+        "野原洋子": "反対",
+        "福澤和美": "賛成",
+        "丸山妙子": "賛成",
+        "丸藤栄一": "反対",
+        "小島あけみ": "賛成",
+        "泉伸一郎": "賛成",
+        "塚村香織": "賛成",
+        "鈴木次男": "賛成",
+        "合川泰治": "賛成",
+        "土渕保美": "賛成",
+        "田島正徳": "賛成",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
     },
     {
       "place": "宮代町",
@@ -82928,7 +87024,25 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=1",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=1",
       "resultLocator": "公式審議結果PDF1頁・5行目",
-      "number": "議案第7号"
+      "number": "議案第7号",
+      "votes": {
+        "佐藤将行": "反対",
+        "野原洋子": "賛成",
+        "福澤和美": "賛成",
+        "丸山妙子": "賛成",
+        "丸藤栄一": "賛成",
+        "小島あけみ": "賛成",
+        "泉伸一郎": "賛成",
+        "塚村香織": "賛成",
+        "鈴木次男": "賛成",
+        "合川泰治": "賛成",
+        "土渕保美": "賛成",
+        "田島正徳": "賛成",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
     },
     {
       "place": "宮代町",
@@ -82939,7 +87053,25 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=1",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=1",
       "resultLocator": "公式審議結果PDF1頁・6行目",
-      "number": "議案第8号"
+      "number": "議案第8号",
+      "votes": {
+        "佐藤将行": "賛成",
+        "野原洋子": "賛成",
+        "福澤和美": "賛成",
+        "丸山妙子": "賛成",
+        "丸藤栄一": "賛成",
+        "小島あけみ": "賛成",
+        "泉伸一郎": "賛成",
+        "塚村香織": "賛成",
+        "鈴木次男": "賛成",
+        "合川泰治": "賛成",
+        "土渕保美": "賛成",
+        "田島正徳": "賛成",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
     },
     {
       "place": "宮代町",
@@ -82950,7 +87082,25 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=1",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=1",
       "resultLocator": "公式審議結果PDF1頁・7行目",
-      "number": "議案第9号"
+      "number": "議案第9号",
+      "votes": {
+        "佐藤将行": "反対",
+        "野原洋子": "賛成",
+        "福澤和美": "賛成",
+        "丸山妙子": "賛成",
+        "丸藤栄一": "反対",
+        "小島あけみ": "賛成",
+        "泉伸一郎": "賛成",
+        "塚村香織": "賛成",
+        "鈴木次男": "賛成",
+        "合川泰治": "賛成",
+        "土渕保美": "賛成",
+        "田島正徳": "賛成",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
     },
     {
       "place": "宮代町",
@@ -82961,7 +87111,25 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=1",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=1",
       "resultLocator": "公式審議結果PDF1頁・8行目",
-      "number": "議案第10号"
+      "number": "議案第10号",
+      "votes": {
+        "佐藤将行": "賛成",
+        "野原洋子": "反対",
+        "福澤和美": "賛成",
+        "丸山妙子": "賛成",
+        "丸藤栄一": "賛成",
+        "小島あけみ": "賛成",
+        "泉伸一郎": "賛成",
+        "塚村香織": "賛成",
+        "鈴木次男": "賛成",
+        "合川泰治": "賛成",
+        "土渕保美": "賛成",
+        "田島正徳": "賛成",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
     },
     {
       "place": "宮代町",
@@ -82972,7 +87140,25 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=1",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=1",
       "resultLocator": "公式審議結果PDF1頁・9行目",
-      "number": "議案第11号"
+      "number": "議案第11号",
+      "votes": {
+        "佐藤将行": "反対",
+        "野原洋子": "賛成",
+        "福澤和美": "賛成",
+        "丸山妙子": "賛成",
+        "丸藤栄一": "反対",
+        "小島あけみ": "賛成",
+        "泉伸一郎": "賛成",
+        "塚村香織": "賛成",
+        "鈴木次男": "賛成",
+        "合川泰治": "賛成",
+        "土渕保美": "賛成",
+        "田島正徳": "賛成",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
     },
     {
       "place": "宮代町",
@@ -82983,7 +87169,25 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=1",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=1",
       "resultLocator": "公式審議結果PDF1頁・10行目",
-      "number": "議案第12号"
+      "number": "議案第12号",
+      "votes": {
+        "佐藤将行": "反対",
+        "野原洋子": "反対",
+        "福澤和美": "賛成",
+        "丸山妙子": "賛成",
+        "丸藤栄一": "反対",
+        "小島あけみ": "賛成",
+        "泉伸一郎": "賛成",
+        "塚村香織": "賛成",
+        "鈴木次男": "賛成",
+        "合川泰治": "賛成",
+        "土渕保美": "賛成",
+        "田島正徳": "賛成",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
     },
     {
       "place": "宮代町",
@@ -82994,7 +87198,25 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=1",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=1",
       "resultLocator": "公式審議結果PDF1頁・11行目",
-      "number": "議案第13号"
+      "number": "議案第13号",
+      "votes": {
+        "佐藤将行": "賛成",
+        "野原洋子": "賛成",
+        "福澤和美": "賛成",
+        "丸山妙子": "賛成",
+        "丸藤栄一": "賛成",
+        "小島あけみ": "賛成",
+        "泉伸一郎": "賛成",
+        "塚村香織": "賛成",
+        "鈴木次男": "賛成",
+        "合川泰治": "賛成",
+        "土渕保美": "賛成",
+        "田島正徳": "賛成",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
     },
     {
       "place": "宮代町",
@@ -83005,7 +87227,25 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=1",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=1",
       "resultLocator": "公式審議結果PDF1頁・12行目",
-      "number": "議案第14号"
+      "number": "議案第14号",
+      "votes": {
+        "佐藤将行": "賛成",
+        "野原洋子": "賛成",
+        "福澤和美": "賛成",
+        "丸山妙子": "賛成",
+        "丸藤栄一": "賛成",
+        "小島あけみ": "賛成",
+        "泉伸一郎": "賛成",
+        "塚村香織": "賛成",
+        "鈴木次男": "賛成",
+        "合川泰治": "賛成",
+        "土渕保美": "賛成",
+        "田島正徳": "賛成",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
     },
     {
       "place": "宮代町",
@@ -83016,7 +87256,25 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=1",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=1",
       "resultLocator": "公式審議結果PDF1頁・13行目",
-      "number": "議案第15号"
+      "number": "議案第15号",
+      "votes": {
+        "佐藤将行": "表決に加わらず",
+        "野原洋子": "賛成",
+        "福澤和美": "賛成",
+        "丸山妙子": "賛成",
+        "丸藤栄一": "賛成",
+        "小島あけみ": "賛成",
+        "泉伸一郎": "賛成",
+        "塚村香織": "賛成",
+        "鈴木次男": "賛成",
+        "合川泰治": "賛成",
+        "土渕保美": "賛成",
+        "田島正徳": "賛成",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
     },
     {
       "place": "宮代町",
@@ -83027,7 +87285,25 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=1",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=1",
       "resultLocator": "公式審議結果PDF1頁・14行目",
-      "number": "議案第16号"
+      "number": "議案第16号",
+      "votes": {
+        "佐藤将行": "賛成",
+        "野原洋子": "賛成",
+        "福澤和美": "賛成",
+        "丸山妙子": "賛成",
+        "丸藤栄一": "賛成",
+        "小島あけみ": "賛成",
+        "泉伸一郎": "賛成",
+        "塚村香織": "賛成",
+        "鈴木次男": "賛成",
+        "合川泰治": "賛成",
+        "土渕保美": "賛成",
+        "田島正徳": "賛成",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
     },
     {
       "place": "宮代町",
@@ -83038,7 +87314,25 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=1",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=1",
       "resultLocator": "公式審議結果PDF1頁・15行目",
-      "number": "議案第17号"
+      "number": "議案第17号",
+      "votes": {
+        "佐藤将行": "賛成",
+        "野原洋子": "賛成",
+        "福澤和美": "賛成",
+        "丸山妙子": "賛成",
+        "丸藤栄一": "賛成",
+        "小島あけみ": "賛成",
+        "泉伸一郎": "賛成",
+        "塚村香織": "賛成",
+        "鈴木次男": "賛成",
+        "合川泰治": "賛成",
+        "土渕保美": "賛成",
+        "田島正徳": "賛成",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
     },
     {
       "place": "宮代町",
@@ -83049,7 +87343,25 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=1",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=1",
       "resultLocator": "公式審議結果PDF1頁・16行目",
-      "number": "議案第18号"
+      "number": "議案第18号",
+      "votes": {
+        "佐藤将行": "賛成",
+        "野原洋子": "賛成",
+        "福澤和美": "賛成",
+        "丸山妙子": "賛成",
+        "丸藤栄一": "賛成",
+        "小島あけみ": "賛成",
+        "泉伸一郎": "賛成",
+        "塚村香織": "賛成",
+        "鈴木次男": "賛成",
+        "合川泰治": "賛成",
+        "土渕保美": "賛成",
+        "田島正徳": "賛成",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
     },
     {
       "place": "宮代町",
@@ -83060,7 +87372,25 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=1",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=1",
       "resultLocator": "公式審議結果PDF1頁・17行目",
-      "number": "議案第19号"
+      "number": "議案第19号",
+      "votes": {
+        "佐藤将行": "賛成",
+        "野原洋子": "賛成",
+        "福澤和美": "賛成",
+        "丸山妙子": "賛成",
+        "丸藤栄一": "賛成",
+        "小島あけみ": "賛成",
+        "泉伸一郎": "賛成",
+        "塚村香織": "賛成",
+        "鈴木次男": "賛成",
+        "合川泰治": "賛成",
+        "土渕保美": "賛成",
+        "田島正徳": "賛成",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
     },
     {
       "place": "宮代町",
@@ -83071,7 +87401,25 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=1",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=1",
       "resultLocator": "公式審議結果PDF1頁・18行目",
-      "number": "議案第20号"
+      "number": "議案第20号",
+      "votes": {
+        "佐藤将行": "賛成",
+        "野原洋子": "賛成",
+        "福澤和美": "賛成",
+        "丸山妙子": "賛成",
+        "丸藤栄一": "賛成",
+        "小島あけみ": "賛成",
+        "泉伸一郎": "賛成",
+        "塚村香織": "賛成",
+        "鈴木次男": "賛成",
+        "合川泰治": "賛成",
+        "土渕保美": "賛成",
+        "田島正徳": "賛成",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
     },
     {
       "place": "宮代町",
@@ -83082,7 +87430,25 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=1",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=1",
       "resultLocator": "公式審議結果PDF1頁・19行目",
-      "number": "議案第21号"
+      "number": "議案第21号",
+      "votes": {
+        "佐藤将行": "賛成",
+        "野原洋子": "賛成",
+        "福澤和美": "賛成",
+        "丸山妙子": "賛成",
+        "丸藤栄一": "賛成",
+        "小島あけみ": "賛成",
+        "泉伸一郎": "賛成",
+        "塚村香織": "賛成",
+        "鈴木次男": "賛成",
+        "合川泰治": "賛成",
+        "土渕保美": "賛成",
+        "田島正徳": "賛成",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
     },
     {
       "place": "宮代町",
@@ -83093,7 +87459,25 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=1",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=1",
       "resultLocator": "公式審議結果PDF1頁・20行目",
-      "number": "議案第22号"
+      "number": "議案第22号",
+      "votes": {
+        "佐藤将行": "反対",
+        "野原洋子": "賛成",
+        "福澤和美": "賛成",
+        "丸山妙子": "賛成",
+        "丸藤栄一": "反対",
+        "小島あけみ": "賛成",
+        "泉伸一郎": "賛成",
+        "塚村香織": "賛成",
+        "鈴木次男": "賛成",
+        "合川泰治": "賛成",
+        "土渕保美": "賛成",
+        "田島正徳": "賛成",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
     },
     {
       "place": "宮代町",
@@ -83104,7 +87488,25 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=2",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=2",
       "resultLocator": "公式審議結果PDF2頁・1行目",
-      "number": "議案第23号"
+      "number": "議案第23号",
+      "votes": {
+        "佐藤将行": "反対",
+        "野原洋子": "反対",
+        "福澤和美": "賛成",
+        "丸山妙子": "賛成",
+        "丸藤栄一": "反対",
+        "小島あけみ": "賛成",
+        "泉伸一郎": "賛成",
+        "塚村香織": "賛成",
+        "鈴木次男": "賛成",
+        "合川泰治": "賛成",
+        "土渕保美": "賛成",
+        "田島正徳": "賛成",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
     },
     {
       "place": "宮代町",
@@ -83115,7 +87517,25 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=2",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=2",
       "resultLocator": "公式審議結果PDF2頁・2行目",
-      "number": "議案第24号"
+      "number": "議案第24号",
+      "votes": {
+        "佐藤将行": "反対",
+        "野原洋子": "反対",
+        "福澤和美": "賛成",
+        "丸山妙子": "賛成",
+        "丸藤栄一": "反対",
+        "小島あけみ": "賛成",
+        "泉伸一郎": "賛成",
+        "塚村香織": "賛成",
+        "鈴木次男": "賛成",
+        "合川泰治": "賛成",
+        "土渕保美": "賛成",
+        "田島正徳": "賛成",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
     },
     {
       "place": "宮代町",
@@ -83126,7 +87546,25 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=2",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=2",
       "resultLocator": "公式審議結果PDF2頁・3行目",
-      "number": "議案第25号"
+      "number": "議案第25号",
+      "votes": {
+        "佐藤将行": "反対",
+        "野原洋子": "反対",
+        "福澤和美": "賛成",
+        "丸山妙子": "賛成",
+        "丸藤栄一": "反対",
+        "小島あけみ": "賛成",
+        "泉伸一郎": "賛成",
+        "塚村香織": "賛成",
+        "鈴木次男": "賛成",
+        "合川泰治": "賛成",
+        "土渕保美": "賛成",
+        "田島正徳": "賛成",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
     },
     {
       "place": "宮代町",
@@ -83137,7 +87575,25 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=2",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=2",
       "resultLocator": "公式審議結果PDF2頁・4行目",
-      "number": "議案第26号"
+      "number": "議案第26号",
+      "votes": {
+        "佐藤将行": "反対",
+        "野原洋子": "賛成",
+        "福澤和美": "賛成",
+        "丸山妙子": "賛成",
+        "丸藤栄一": "反対",
+        "小島あけみ": "賛成",
+        "泉伸一郎": "賛成",
+        "塚村香織": "賛成",
+        "鈴木次男": "賛成",
+        "合川泰治": "賛成",
+        "土渕保美": "賛成",
+        "田島正徳": "賛成",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
     },
     {
       "place": "宮代町",
@@ -83148,7 +87604,25 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=2",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=2",
       "resultLocator": "公式審議結果PDF2頁・5行目",
-      "number": "議案第27号"
+      "number": "議案第27号",
+      "votes": {
+        "佐藤将行": "反対",
+        "野原洋子": "賛成",
+        "福澤和美": "賛成",
+        "丸山妙子": "賛成",
+        "丸藤栄一": "反対",
+        "小島あけみ": "賛成",
+        "泉伸一郎": "賛成",
+        "塚村香織": "賛成",
+        "鈴木次男": "賛成",
+        "合川泰治": "賛成",
+        "土渕保美": "賛成",
+        "田島正徳": "賛成",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
     },
     {
       "place": "宮代町",
@@ -83159,7 +87633,25 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=2",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=2",
       "resultLocator": "公式審議結果PDF2頁・6行目",
-      "number": "議案第28号"
+      "number": "議案第28号",
+      "votes": {
+        "佐藤将行": "反対",
+        "野原洋子": "賛成",
+        "福澤和美": "賛成",
+        "丸山妙子": "賛成",
+        "丸藤栄一": "賛成",
+        "小島あけみ": "賛成",
+        "泉伸一郎": "賛成",
+        "塚村香織": "賛成",
+        "鈴木次男": "賛成",
+        "合川泰治": "賛成",
+        "土渕保美": "賛成",
+        "田島正徳": "賛成",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
     },
     {
       "place": "宮代町",
@@ -83170,7 +87662,25 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=2",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=2",
       "resultLocator": "公式審議結果PDF2頁・7行目",
-      "number": "意見書第1号"
+      "number": "意見書第1号",
+      "votes": {
+        "佐藤将行": "反対",
+        "野原洋子": "賛成",
+        "福澤和美": "賛成",
+        "丸山妙子": "反対",
+        "丸藤栄一": "反対",
+        "小島あけみ": "賛成",
+        "泉伸一郎": "賛成",
+        "塚村香織": "反対",
+        "鈴木次男": "賛成",
+        "合川泰治": "賛成",
+        "土渕保美": "反対",
+        "田島正徳": "反対",
+        "川野武志": "議長裁決（反対）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
     },
     {
       "place": "宮代町",
@@ -83181,7 +87691,25 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=2",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000025/25813/080326shingikekka.pdf#page=2",
       "resultLocator": "公式審議結果PDF2頁・8行目",
-      "number": "請願第1号"
+      "number": "請願第1号",
+      "votes": {
+        "佐藤将行": "賛成",
+        "野原洋子": "反対",
+        "福澤和美": "反対",
+        "丸山妙子": "反対",
+        "丸藤栄一": "賛成",
+        "小島あけみ": "反対",
+        "泉伸一郎": "反対",
+        "塚村香織": "反対",
+        "鈴木次男": "反対",
+        "合川泰治": "反対",
+        "土渕保美": "反対",
+        "田島正徳": "反対",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
     },
     {
       "place": "宮代町",
@@ -83191,7 +87719,25 @@ GIKAI.coverage2026 = {
       "result": "否決",
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
-      "resultLocator": "公式審議結果PDF1頁・1行目"
+      "resultLocator": "公式審議結果PDF1頁・1行目",
+      "votes": {
+        "佐藤将行": "賛成",
+        "野原洋子": "反対",
+        "福澤和美": "反対",
+        "丸山妙子": "反対",
+        "丸藤栄一": "反対",
+        "小島あけみ": "反対",
+        "泉伸一郎": "議長職務代行（表決不参加）",
+        "塚村香織": "反対",
+        "鈴木次男": "反対",
+        "合川泰治": "反対",
+        "土渕保美": "欠席",
+        "田島正徳": "反対",
+        "川野武志": "除斥"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
     },
     {
       "place": "宮代町",
@@ -83201,7 +87747,25 @@ GIKAI.coverage2026 = {
       "result": "否決",
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
-      "resultLocator": "公式審議結果PDF1頁・2行目"
+      "resultLocator": "公式審議結果PDF1頁・2行目",
+      "votes": {
+        "佐藤将行": "賛成",
+        "野原洋子": "反対",
+        "福澤和美": "反対",
+        "丸山妙子": "反対",
+        "丸藤栄一": "反対",
+        "小島あけみ": "反対",
+        "泉伸一郎": "議長職務代行（表決不参加）",
+        "塚村香織": "反対",
+        "鈴木次男": "反対",
+        "合川泰治": "反対",
+        "土渕保美": "欠席",
+        "田島正徳": "反対",
+        "川野武志": "除斥"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
     },
     {
       "place": "宮代町",
@@ -83211,7 +87775,25 @@ GIKAI.coverage2026 = {
       "result": "否決",
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
-      "resultLocator": "公式審議結果PDF1頁・3行目"
+      "resultLocator": "公式審議結果PDF1頁・3行目",
+      "votes": {
+        "佐藤将行": "賛成",
+        "野原洋子": "反対",
+        "福澤和美": "反対",
+        "丸山妙子": "反対",
+        "丸藤栄一": "反対",
+        "小島あけみ": "反対",
+        "泉伸一郎": "議長職務代行（表決不参加）",
+        "塚村香織": "反対",
+        "鈴木次男": "反対",
+        "合川泰治": "反対",
+        "土渕保美": "欠席",
+        "田島正徳": "反対",
+        "川野武志": "除斥"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
     },
     {
       "place": "宮代町",
@@ -83221,7 +87803,25 @@ GIKAI.coverage2026 = {
       "result": "否決",
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
-      "resultLocator": "公式審議結果PDF1頁・4行目"
+      "resultLocator": "公式審議結果PDF1頁・4行目",
+      "votes": {
+        "佐藤将行": "賛成",
+        "野原洋子": "反対",
+        "福澤和美": "反対",
+        "丸山妙子": "除斥",
+        "丸藤栄一": "反対",
+        "小島あけみ": "反対",
+        "泉伸一郎": "反対",
+        "塚村香織": "反対",
+        "鈴木次男": "反対",
+        "合川泰治": "反対",
+        "土渕保美": "欠席",
+        "田島正徳": "反対",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
     },
     {
       "place": "宮代町",
@@ -83231,7 +87831,25 @@ GIKAI.coverage2026 = {
       "result": "否決",
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
-      "resultLocator": "公式審議結果PDF1頁・5行目"
+      "resultLocator": "公式審議結果PDF1頁・5行目",
+      "votes": {
+        "佐藤将行": "賛成",
+        "野原洋子": "反対",
+        "福澤和美": "反対",
+        "丸山妙子": "反対",
+        "丸藤栄一": "反対",
+        "小島あけみ": "反対",
+        "泉伸一郎": "反対",
+        "塚村香織": "反対",
+        "鈴木次男": "反対",
+        "合川泰治": "反対",
+        "土渕保美": "欠席",
+        "田島正徳": "反対",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
     },
     {
       "place": "宮代町",
@@ -83241,7 +87859,25 @@ GIKAI.coverage2026 = {
       "result": "否決",
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
-      "resultLocator": "公式審議結果PDF1頁・6行目"
+      "resultLocator": "公式審議結果PDF1頁・6行目",
+      "votes": {
+        "佐藤将行": "賛成",
+        "野原洋子": "反対",
+        "福澤和美": "反対",
+        "丸山妙子": "反対",
+        "丸藤栄一": "反対",
+        "小島あけみ": "反対",
+        "泉伸一郎": "議長職務代行（表決不参加）",
+        "塚村香織": "反対",
+        "鈴木次男": "反対",
+        "合川泰治": "反対",
+        "土渕保美": "欠席",
+        "田島正徳": "反対",
+        "川野武志": "除斥"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
     },
     {
       "place": "宮代町",
@@ -83251,7 +87887,25 @@ GIKAI.coverage2026 = {
       "result": "否決",
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
-      "resultLocator": "公式審議結果PDF1頁・7行目"
+      "resultLocator": "公式審議結果PDF1頁・7行目",
+      "votes": {
+        "佐藤将行": "賛成",
+        "野原洋子": "反対",
+        "福澤和美": "反対",
+        "丸山妙子": "反対",
+        "丸藤栄一": "反対",
+        "小島あけみ": "反対",
+        "泉伸一郎": "議長職務代行（表決不参加）",
+        "塚村香織": "反対",
+        "鈴木次男": "反対",
+        "合川泰治": "反対",
+        "土渕保美": "欠席",
+        "田島正徳": "反対",
+        "川野武志": "除斥"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
     },
     {
       "place": "宮代町",
@@ -83261,7 +87915,25 @@ GIKAI.coverage2026 = {
       "result": "否決",
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
-      "resultLocator": "公式審議結果PDF1頁・8行目"
+      "resultLocator": "公式審議結果PDF1頁・8行目",
+      "votes": {
+        "佐藤将行": "賛成",
+        "野原洋子": "反対",
+        "福澤和美": "反対",
+        "丸山妙子": "反対",
+        "丸藤栄一": "反対",
+        "小島あけみ": "反対",
+        "泉伸一郎": "議長職務代行（表決不参加）",
+        "塚村香織": "反対",
+        "鈴木次男": "反対",
+        "合川泰治": "反対",
+        "土渕保美": "欠席",
+        "田島正徳": "反対",
+        "川野武志": "除斥"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
     },
     {
       "place": "宮代町",
@@ -83271,7 +87943,25 @@ GIKAI.coverage2026 = {
       "result": "否決",
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
-      "resultLocator": "公式審議結果PDF1頁・9行目"
+      "resultLocator": "公式審議結果PDF1頁・9行目",
+      "votes": {
+        "佐藤将行": "賛成",
+        "野原洋子": "反対",
+        "福澤和美": "反対",
+        "丸山妙子": "反対",
+        "丸藤栄一": "反対",
+        "小島あけみ": "反対",
+        "泉伸一郎": "反対",
+        "塚村香織": "反対",
+        "鈴木次男": "反対",
+        "合川泰治": "反対",
+        "土渕保美": "欠席",
+        "田島正徳": "反対",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
     },
     {
       "place": "宮代町",
@@ -83281,7 +87971,25 @@ GIKAI.coverage2026 = {
       "result": "否決",
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
-      "resultLocator": "公式審議結果PDF1頁・10行目"
+      "resultLocator": "公式審議結果PDF1頁・10行目",
+      "votes": {
+        "佐藤将行": "賛成",
+        "野原洋子": "反対",
+        "福澤和美": "反対",
+        "丸山妙子": "反対",
+        "丸藤栄一": "反対",
+        "小島あけみ": "反対",
+        "泉伸一郎": "議長職務代行（表決不参加）",
+        "塚村香織": "反対",
+        "鈴木次男": "反対",
+        "合川泰治": "反対",
+        "土渕保美": "欠席",
+        "田島正徳": "反対",
+        "川野武志": "除斥"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
     },
     {
       "place": "宮代町",
@@ -83291,7 +87999,25 @@ GIKAI.coverage2026 = {
       "result": "否決",
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
-      "resultLocator": "公式審議結果PDF1頁・11行目"
+      "resultLocator": "公式審議結果PDF1頁・11行目",
+      "votes": {
+        "佐藤将行": "賛成",
+        "野原洋子": "反対",
+        "福澤和美": "反対",
+        "丸山妙子": "除斥",
+        "丸藤栄一": "反対",
+        "小島あけみ": "反対",
+        "泉伸一郎": "反対",
+        "塚村香織": "反対",
+        "鈴木次男": "反対",
+        "合川泰治": "反対",
+        "土渕保美": "欠席",
+        "田島正徳": "反対",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
     },
     {
       "place": "宮代町",
@@ -83301,7 +88027,25 @@ GIKAI.coverage2026 = {
       "result": "否決",
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
-      "resultLocator": "公式審議結果PDF1頁・12行目"
+      "resultLocator": "公式審議結果PDF1頁・12行目",
+      "votes": {
+        "佐藤将行": "賛成",
+        "野原洋子": "反対",
+        "福澤和美": "反対",
+        "丸山妙子": "反対",
+        "丸藤栄一": "反対",
+        "小島あけみ": "反対",
+        "泉伸一郎": "反対",
+        "塚村香織": "除斥",
+        "鈴木次男": "反対",
+        "合川泰治": "反対",
+        "土渕保美": "欠席",
+        "田島正徳": "反対",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
     },
     {
       "place": "宮代町",
@@ -83311,7 +88055,25 @@ GIKAI.coverage2026 = {
       "result": "否決",
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
-      "resultLocator": "公式審議結果PDF1頁・13行目"
+      "resultLocator": "公式審議結果PDF1頁・13行目",
+      "votes": {
+        "佐藤将行": "賛成",
+        "野原洋子": "反対",
+        "福澤和美": "反対",
+        "丸山妙子": "反対",
+        "丸藤栄一": "反対",
+        "小島あけみ": "反対",
+        "泉伸一郎": "反対",
+        "塚村香織": "除斥",
+        "鈴木次男": "反対",
+        "合川泰治": "反対",
+        "土渕保美": "欠席",
+        "田島正徳": "反対",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
     },
     {
       "place": "宮代町",
@@ -83321,7 +88083,25 @@ GIKAI.coverage2026 = {
       "result": "否決",
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
-      "resultLocator": "公式審議結果PDF1頁・14行目"
+      "resultLocator": "公式審議結果PDF1頁・14行目",
+      "votes": {
+        "佐藤将行": "賛成",
+        "野原洋子": "反対",
+        "福澤和美": "反対",
+        "丸山妙子": "反対",
+        "丸藤栄一": "反対",
+        "小島あけみ": "反対",
+        "泉伸一郎": "反対",
+        "塚村香織": "除斥",
+        "鈴木次男": "反対",
+        "合川泰治": "反対",
+        "土渕保美": "欠席",
+        "田島正徳": "反対",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
     },
     {
       "place": "宮代町",
@@ -83331,7 +88111,25 @@ GIKAI.coverage2026 = {
       "result": "否決",
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
-      "resultLocator": "公式審議結果PDF1頁・15行目"
+      "resultLocator": "公式審議結果PDF1頁・15行目",
+      "votes": {
+        "佐藤将行": "賛成",
+        "野原洋子": "反対",
+        "福澤和美": "反対",
+        "丸山妙子": "反対",
+        "丸藤栄一": "反対",
+        "小島あけみ": "反対",
+        "泉伸一郎": "議長職務代行（表決不参加）",
+        "塚村香織": "反対",
+        "鈴木次男": "反対",
+        "合川泰治": "反対",
+        "土渕保美": "欠席",
+        "田島正徳": "反対",
+        "川野武志": "除斥"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
     },
     {
       "place": "宮代町",
@@ -83341,7 +88139,25 @@ GIKAI.coverage2026 = {
       "result": "否決",
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
-      "resultLocator": "公式審議結果PDF1頁・16行目"
+      "resultLocator": "公式審議結果PDF1頁・16行目",
+      "votes": {
+        "佐藤将行": "賛成",
+        "野原洋子": "反対",
+        "福澤和美": "反対",
+        "丸山妙子": "反対",
+        "丸藤栄一": "反対",
+        "小島あけみ": "反対",
+        "泉伸一郎": "議長職務代行（表決不参加）",
+        "塚村香織": "反対",
+        "鈴木次男": "反対",
+        "合川泰治": "反対",
+        "土渕保美": "欠席",
+        "田島正徳": "反対",
+        "川野武志": "除斥"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
     },
     {
       "place": "宮代町",
@@ -83351,7 +88167,25 @@ GIKAI.coverage2026 = {
       "result": "否決",
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
-      "resultLocator": "公式審議結果PDF1頁・17行目"
+      "resultLocator": "公式審議結果PDF1頁・17行目",
+      "votes": {
+        "佐藤将行": "賛成",
+        "野原洋子": "反対",
+        "福澤和美": "反対",
+        "丸山妙子": "反対",
+        "丸藤栄一": "反対",
+        "小島あけみ": "反対",
+        "泉伸一郎": "除斥",
+        "塚村香織": "反対",
+        "鈴木次男": "反対",
+        "合川泰治": "反対",
+        "土渕保美": "欠席",
+        "田島正徳": "反対",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
     },
     {
       "place": "宮代町",
@@ -83361,7 +88195,25 @@ GIKAI.coverage2026 = {
       "result": "否決",
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
-      "resultLocator": "公式審議結果PDF1頁・18行目"
+      "resultLocator": "公式審議結果PDF1頁・18行目",
+      "votes": {
+        "佐藤将行": "賛成",
+        "野原洋子": "反対",
+        "福澤和美": "反対",
+        "丸山妙子": "反対",
+        "丸藤栄一": "反対",
+        "小島あけみ": "反対",
+        "泉伸一郎": "議長職務代行（表決不参加）",
+        "塚村香織": "反対",
+        "鈴木次男": "反対",
+        "合川泰治": "反対",
+        "土渕保美": "欠席",
+        "田島正徳": "反対",
+        "川野武志": "除斥"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
     },
     {
       "place": "宮代町",
@@ -83371,7 +88223,25 @@ GIKAI.coverage2026 = {
       "result": "否決",
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
-      "resultLocator": "公式審議結果PDF1頁・19行目"
+      "resultLocator": "公式審議結果PDF1頁・19行目",
+      "votes": {
+        "佐藤将行": "賛成",
+        "野原洋子": "反対",
+        "福澤和美": "反対",
+        "丸山妙子": "反対",
+        "丸藤栄一": "反対",
+        "小島あけみ": "反対",
+        "泉伸一郎": "除斥",
+        "塚村香織": "反対",
+        "鈴木次男": "反対",
+        "合川泰治": "反対",
+        "土渕保美": "欠席",
+        "田島正徳": "反対",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
     },
     {
       "place": "宮代町",
@@ -83381,7 +88251,25 @@ GIKAI.coverage2026 = {
       "result": "懲罰決定",
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
-      "resultLocator": "公式審議結果PDF1頁・20行目"
+      "resultLocator": "公式審議結果PDF1頁・20行目",
+      "votes": {
+        "佐藤将行": "除斥",
+        "野原洋子": "賛成",
+        "福澤和美": "賛成",
+        "丸山妙子": "賛成",
+        "丸藤栄一": "賛成",
+        "小島あけみ": "賛成",
+        "泉伸一郎": "賛成",
+        "塚村香織": "賛成",
+        "鈴木次男": "賛成",
+        "合川泰治": "賛成",
+        "土渕保美": "賛成",
+        "田島正徳": "賛成",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
     },
     {
       "place": "宮代町",
@@ -83392,7 +88280,25 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
       "resultLocator": "公式審議結果PDF1頁・21行目",
-      "number": "議案第29号"
+      "number": "議案第29号",
+      "votes": {
+        "佐藤将行": "反対",
+        "野原洋子": "賛成",
+        "福澤和美": "賛成",
+        "丸山妙子": "賛成",
+        "丸藤栄一": "反対",
+        "小島あけみ": "賛成",
+        "泉伸一郎": "賛成",
+        "塚村香織": "賛成",
+        "鈴木次男": "賛成",
+        "合川泰治": "賛成",
+        "土渕保美": "賛成",
+        "田島正徳": "賛成",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
     },
     {
       "place": "宮代町",
@@ -83403,7 +88309,25 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
       "resultLocator": "公式審議結果PDF1頁・22行目",
-      "number": "議案第30号"
+      "number": "議案第30号",
+      "votes": {
+        "佐藤将行": "賛成",
+        "野原洋子": "賛成",
+        "福澤和美": "賛成",
+        "丸山妙子": "賛成",
+        "丸藤栄一": "賛成",
+        "小島あけみ": "賛成",
+        "泉伸一郎": "賛成",
+        "塚村香織": "賛成",
+        "鈴木次男": "賛成",
+        "合川泰治": "賛成",
+        "土渕保美": "賛成",
+        "田島正徳": "賛成",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
     },
     {
       "place": "宮代町",
@@ -83414,7 +88338,25 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=1",
       "resultLocator": "公式審議結果PDF1頁・23行目",
-      "number": "議案第31号"
+      "number": "議案第31号",
+      "votes": {
+        "佐藤将行": "反対",
+        "野原洋子": "反対",
+        "福澤和美": "賛成",
+        "丸山妙子": "賛成",
+        "丸藤栄一": "反対",
+        "小島あけみ": "賛成",
+        "泉伸一郎": "賛成",
+        "塚村香織": "賛成",
+        "鈴木次男": "賛成",
+        "合川泰治": "賛成",
+        "土渕保美": "賛成",
+        "田島正徳": "賛成",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
     },
     {
       "place": "宮代町",
@@ -83425,7 +88367,25 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=2",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=2",
       "resultLocator": "公式審議結果PDF2頁・1行目",
-      "number": "議案第32号"
+      "number": "議案第32号",
+      "votes": {
+        "佐藤将行": "反対",
+        "野原洋子": "賛成",
+        "福澤和美": "賛成",
+        "丸山妙子": "賛成",
+        "丸藤栄一": "賛成",
+        "小島あけみ": "賛成",
+        "泉伸一郎": "賛成",
+        "塚村香織": "賛成",
+        "鈴木次男": "賛成",
+        "合川泰治": "賛成",
+        "土渕保美": "賛成",
+        "田島正徳": "賛成",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
     },
     {
       "place": "宮代町",
@@ -83436,7 +88396,25 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=2",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=2",
       "resultLocator": "公式審議結果PDF2頁・2行目",
-      "number": "議案第33号"
+      "number": "議案第33号",
+      "votes": {
+        "佐藤将行": "反対",
+        "野原洋子": "賛成",
+        "福澤和美": "賛成",
+        "丸山妙子": "賛成",
+        "丸藤栄一": "反対",
+        "小島あけみ": "賛成",
+        "泉伸一郎": "賛成",
+        "塚村香織": "賛成",
+        "鈴木次男": "賛成",
+        "合川泰治": "賛成",
+        "土渕保美": "賛成",
+        "田島正徳": "賛成",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
     },
     {
       "place": "宮代町",
@@ -83447,7 +88425,25 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=2",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=2",
       "resultLocator": "公式審議結果PDF2頁・3行目",
-      "number": "議案第34号"
+      "number": "議案第34号",
+      "votes": {
+        "佐藤将行": "反対",
+        "野原洋子": "反対",
+        "福澤和美": "賛成",
+        "丸山妙子": "賛成",
+        "丸藤栄一": "反対",
+        "小島あけみ": "賛成",
+        "泉伸一郎": "賛成",
+        "塚村香織": "賛成",
+        "鈴木次男": "賛成",
+        "合川泰治": "賛成",
+        "土渕保美": "賛成",
+        "田島正徳": "賛成",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
     },
     {
       "place": "宮代町",
@@ -83459,7 +88455,25 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=2",
       "resultLocator": "公式審議結果PDF2頁・4行目",
       "number": "議案第35号",
-      "date": "2026-06-10"
+      "date": "2026-06-10",
+      "votes": {
+        "佐藤将行": "賛成",
+        "野原洋子": "賛成",
+        "福澤和美": "賛成",
+        "丸山妙子": "賛成",
+        "丸藤栄一": "賛成",
+        "小島あけみ": "賛成",
+        "泉伸一郎": "賛成",
+        "塚村香織": "賛成",
+        "鈴木次男": "賛成",
+        "合川泰治": "賛成",
+        "土渕保美": "賛成",
+        "田島正徳": "賛成",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
     },
     {
       "place": "宮代町",
@@ -83470,7 +88484,25 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=2",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=2",
       "resultLocator": "公式審議結果PDF2頁・5行目",
-      "number": "議案第36号"
+      "number": "議案第36号",
+      "votes": {
+        "佐藤将行": "反対",
+        "野原洋子": "賛成",
+        "福澤和美": "賛成",
+        "丸山妙子": "賛成",
+        "丸藤栄一": "賛成",
+        "小島あけみ": "賛成",
+        "泉伸一郎": "賛成",
+        "塚村香織": "賛成",
+        "鈴木次男": "賛成",
+        "合川泰治": "賛成",
+        "土渕保美": "賛成",
+        "田島正徳": "賛成",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
     },
     {
       "place": "宮代町",
@@ -83481,7 +88513,25 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=2",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=2",
       "resultLocator": "公式審議結果PDF2頁・6行目",
-      "number": "議案第37号"
+      "number": "議案第37号",
+      "votes": {
+        "佐藤将行": "反対",
+        "野原洋子": "賛成",
+        "福澤和美": "賛成",
+        "丸山妙子": "賛成",
+        "丸藤栄一": "賛成",
+        "小島あけみ": "賛成",
+        "泉伸一郎": "賛成",
+        "塚村香織": "賛成",
+        "鈴木次男": "賛成",
+        "合川泰治": "賛成",
+        "土渕保美": "賛成",
+        "田島正徳": "賛成",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
     },
     {
       "place": "宮代町",
@@ -83492,7 +88542,25 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=2",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=2",
       "resultLocator": "公式審議結果PDF2頁・7行目",
-      "number": "議案第38号"
+      "number": "議案第38号",
+      "votes": {
+        "佐藤将行": "反対",
+        "野原洋子": "賛成",
+        "福澤和美": "賛成",
+        "丸山妙子": "賛成",
+        "丸藤栄一": "賛成",
+        "小島あけみ": "賛成",
+        "泉伸一郎": "賛成",
+        "塚村香織": "賛成",
+        "鈴木次男": "賛成",
+        "合川泰治": "賛成",
+        "土渕保美": "賛成",
+        "田島正徳": "賛成",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
     },
     {
       "place": "宮代町",
@@ -83504,7 +88572,25 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=2",
       "resultLocator": "公式審議結果PDF2頁・8行目",
       "number": "議案第39号",
-      "date": "2026-06-10"
+      "date": "2026-06-10",
+      "votes": {
+        "佐藤将行": "賛成",
+        "野原洋子": "賛成",
+        "福澤和美": "賛成",
+        "丸山妙子": "賛成",
+        "丸藤栄一": "賛成",
+        "小島あけみ": "賛成",
+        "泉伸一郎": "賛成",
+        "塚村香織": "賛成",
+        "鈴木次男": "賛成",
+        "合川泰治": "賛成",
+        "土渕保美": "賛成",
+        "田島正徳": "賛成",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
     },
     {
       "place": "宮代町",
@@ -83515,7 +88601,25 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=2",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=2",
       "resultLocator": "公式審議結果PDF2頁・9行目",
-      "number": "議案第40号"
+      "number": "議案第40号",
+      "votes": {
+        "佐藤将行": "賛成",
+        "野原洋子": "賛成",
+        "福澤和美": "賛成",
+        "丸山妙子": "賛成",
+        "丸藤栄一": "賛成",
+        "小島あけみ": "賛成",
+        "泉伸一郎": "賛成",
+        "塚村香織": "賛成",
+        "鈴木次男": "賛成",
+        "合川泰治": "賛成",
+        "土渕保美": "賛成",
+        "田島正徳": "賛成",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
     },
     {
       "place": "宮代町",
@@ -83526,7 +88630,25 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=2",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=2",
       "resultLocator": "公式審議結果PDF2頁・10行目",
-      "number": "議案第41号"
+      "number": "議案第41号",
+      "votes": {
+        "佐藤将行": "賛成",
+        "野原洋子": "賛成",
+        "福澤和美": "賛成",
+        "丸山妙子": "賛成",
+        "丸藤栄一": "賛成",
+        "小島あけみ": "賛成",
+        "泉伸一郎": "賛成",
+        "塚村香織": "賛成",
+        "鈴木次男": "賛成",
+        "合川泰治": "賛成",
+        "土渕保美": "賛成",
+        "田島正徳": "賛成",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
     },
     {
       "place": "宮代町",
@@ -83537,7 +88659,25 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=2",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=2",
       "resultLocator": "公式審議結果PDF2頁・11行目",
-      "number": "議案第42号"
+      "number": "議案第42号",
+      "votes": {
+        "佐藤将行": "賛成",
+        "野原洋子": "賛成",
+        "福澤和美": "賛成",
+        "丸山妙子": "賛成",
+        "丸藤栄一": "賛成",
+        "小島あけみ": "賛成",
+        "泉伸一郎": "賛成",
+        "塚村香織": "賛成",
+        "鈴木次男": "賛成",
+        "合川泰治": "賛成",
+        "土渕保美": "賛成",
+        "田島正徳": "賛成",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
     },
     {
       "place": "宮代町",
@@ -83548,7 +88688,25 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=2",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=2",
       "resultLocator": "公式審議結果PDF2頁・12行目",
-      "number": "議員議案第2号"
+      "number": "議員議案第2号",
+      "votes": {
+        "佐藤将行": "賛成",
+        "野原洋子": "賛成",
+        "福澤和美": "賛成",
+        "丸山妙子": "賛成",
+        "丸藤栄一": "賛成",
+        "小島あけみ": "賛成",
+        "泉伸一郎": "賛成",
+        "塚村香織": "賛成",
+        "鈴木次男": "賛成",
+        "合川泰治": "賛成",
+        "土渕保美": "賛成",
+        "田島正徳": "賛成",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
     },
     {
       "place": "宮代町",
@@ -83558,7 +88716,25 @@ GIKAI.coverage2026 = {
       "result": "否決",
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=2",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=2",
-      "resultLocator": "公式審議結果PDF2頁・13行目"
+      "resultLocator": "公式審議結果PDF2頁・13行目",
+      "votes": {
+        "佐藤将行": "賛成",
+        "野原洋子": "反対",
+        "福澤和美": "反対",
+        "丸山妙子": "反対",
+        "丸藤栄一": "反対",
+        "小島あけみ": "反対",
+        "泉伸一郎": "議長職務代行（表決不参加）",
+        "塚村香織": "反対",
+        "鈴木次男": "反対",
+        "合川泰治": "反対",
+        "土渕保美": "反対",
+        "田島正徳": "反対",
+        "川野武志": "除斥"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
     },
     {
       "place": "宮代町",
@@ -83568,7 +88744,25 @@ GIKAI.coverage2026 = {
       "result": "否決",
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=2",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26319/080610shingikekka2-1.pdf#page=2",
-      "resultLocator": "公式審議結果PDF2頁・14行目"
+      "resultLocator": "公式審議結果PDF2頁・14行目",
+      "votes": {
+        "佐藤将行": "賛成",
+        "野原洋子": "除斥",
+        "福澤和美": "反対",
+        "丸山妙子": "反対",
+        "丸藤栄一": "反対",
+        "小島あけみ": "反対",
+        "泉伸一郎": "反対",
+        "塚村香織": "反対",
+        "鈴木次男": "反対",
+        "合川泰治": "反対",
+        "土渕保美": "反対",
+        "田島正徳": "反対",
+        "川野武志": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
     },
     {
       "place": "宮代町",
@@ -148779,7 +153973,27 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
       "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
-      "voteNote": "原表の議決結果欄の表記は「全員」。"
+      "voteNote": "原表の議決結果欄の表記は「全員」。 議会だより No.131 ２頁の議員別の賛否（○…賛成 ×…反対）。",
+      "votes": {
+        "山田一繁": "賛成",
+        "横尾貴文": "賛成",
+        "鈴木健夫": "賛成",
+        "三木伸也": "賛成",
+        "森崎成喜": "賛成",
+        "小谷野五成": "賛成",
+        "和田貴弘": "賛成",
+        "金子博": "議長（表決不参加）",
+        "新井均": "賛成",
+        "加藤大輔": "賛成",
+        "大澤博行": "賛成",
+        "加藤将伍": "賛成",
+        "近藤沙織": "賛成",
+        "佐藤真": "賛成",
+        "成田奈緒子": "賛成",
+        "城所美奈子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R805-2.pdf"
     },
     {
       "place": "日高市",
@@ -148791,7 +154005,27 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
       "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
-      "voteNote": "原表の議決結果欄の表記は「全員」。"
+      "voteNote": "原表の議決結果欄の表記は「全員」。 議会だより No.131 ２頁の議員別の賛否（○…賛成 ×…反対）。",
+      "votes": {
+        "山田一繁": "賛成",
+        "横尾貴文": "賛成",
+        "鈴木健夫": "賛成",
+        "三木伸也": "賛成",
+        "森崎成喜": "賛成",
+        "小谷野五成": "賛成",
+        "和田貴弘": "賛成",
+        "金子博": "議長（表決不参加）",
+        "新井均": "賛成",
+        "加藤大輔": "賛成",
+        "大澤博行": "賛成",
+        "加藤将伍": "賛成",
+        "近藤沙織": "賛成",
+        "佐藤真": "賛成",
+        "成田奈緒子": "賛成",
+        "城所美奈子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R805-2.pdf"
     },
     {
       "place": "日高市",
@@ -148803,7 +154037,27 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
       "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
-      "voteNote": "原表の議決結果欄の表記は「全員」。"
+      "voteNote": "原表の議決結果欄の表記は「全員」。 議会だより No.131 ２頁の議員別の賛否（○…賛成 ×…反対）。",
+      "votes": {
+        "山田一繁": "賛成",
+        "横尾貴文": "賛成",
+        "鈴木健夫": "賛成",
+        "三木伸也": "賛成",
+        "森崎成喜": "賛成",
+        "小谷野五成": "賛成",
+        "和田貴弘": "賛成",
+        "金子博": "議長（表決不参加）",
+        "新井均": "賛成",
+        "加藤大輔": "賛成",
+        "大澤博行": "賛成",
+        "加藤将伍": "賛成",
+        "近藤沙織": "賛成",
+        "佐藤真": "賛成",
+        "成田奈緒子": "賛成",
+        "城所美奈子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R805-2.pdf"
     },
     {
       "place": "日高市",
@@ -148815,7 +154069,27 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
       "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
-      "voteNote": "原表の議決結果欄の表記は「全員」。"
+      "voteNote": "原表の議決結果欄の表記は「全員」。 議会だより No.131 ２頁の議員別の賛否（○…賛成 ×…反対）。",
+      "votes": {
+        "山田一繁": "賛成",
+        "横尾貴文": "賛成",
+        "鈴木健夫": "賛成",
+        "三木伸也": "賛成",
+        "森崎成喜": "賛成",
+        "小谷野五成": "賛成",
+        "和田貴弘": "賛成",
+        "金子博": "議長（表決不参加）",
+        "新井均": "賛成",
+        "加藤大輔": "賛成",
+        "大澤博行": "賛成",
+        "加藤将伍": "賛成",
+        "近藤沙織": "賛成",
+        "佐藤真": "賛成",
+        "成田奈緒子": "賛成",
+        "城所美奈子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R805-2.pdf"
     },
     {
       "place": "日高市",
@@ -148827,7 +154101,27 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
       "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
-      "voteNote": "原表の議決結果欄の表記は「多数」。"
+      "voteNote": "原表の議決結果欄の表記は「多数」。 議会だより No.131 ２頁の議員別の賛否（○…賛成 ×…反対）。",
+      "votes": {
+        "山田一繁": "賛成",
+        "横尾貴文": "賛成",
+        "鈴木健夫": "賛成",
+        "三木伸也": "賛成",
+        "森崎成喜": "賛成",
+        "小谷野五成": "賛成",
+        "和田貴弘": "賛成",
+        "金子博": "議長（表決不参加）",
+        "新井均": "賛成",
+        "加藤大輔": "賛成",
+        "大澤博行": "賛成",
+        "加藤将伍": "賛成",
+        "近藤沙織": "賛成",
+        "佐藤真": "賛成",
+        "成田奈緒子": "賛成",
+        "城所美奈子": "反対"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R805-2.pdf"
     },
     {
       "place": "日高市",
@@ -148839,7 +154133,27 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
       "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
-      "voteNote": "原表の議決結果欄の表記は「多数」。"
+      "voteNote": "原表の議決結果欄の表記は「多数」。 議会だより No.131 ２頁の議員別の賛否（○…賛成 ×…反対）。",
+      "votes": {
+        "山田一繁": "賛成",
+        "横尾貴文": "賛成",
+        "鈴木健夫": "賛成",
+        "三木伸也": "賛成",
+        "森崎成喜": "賛成",
+        "小谷野五成": "賛成",
+        "和田貴弘": "賛成",
+        "金子博": "議長（表決不参加）",
+        "新井均": "賛成",
+        "加藤大輔": "賛成",
+        "大澤博行": "賛成",
+        "加藤将伍": "賛成",
+        "近藤沙織": "賛成",
+        "佐藤真": "反対",
+        "成田奈緒子": "賛成",
+        "城所美奈子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R805-2.pdf"
     },
     {
       "place": "日高市",
@@ -148851,7 +154165,27 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
       "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
-      "voteNote": "原表の議決結果欄の表記は「多数」。"
+      "voteNote": "原表の議決結果欄の表記は「多数」。 議会だより No.131 ２頁の議員別の賛否（○…賛成 ×…反対）。",
+      "votes": {
+        "山田一繁": "賛成",
+        "横尾貴文": "賛成",
+        "鈴木健夫": "賛成",
+        "三木伸也": "賛成",
+        "森崎成喜": "賛成",
+        "小谷野五成": "賛成",
+        "和田貴弘": "賛成",
+        "金子博": "議長（表決不参加）",
+        "新井均": "賛成",
+        "加藤大輔": "賛成",
+        "大澤博行": "賛成",
+        "加藤将伍": "賛成",
+        "近藤沙織": "賛成",
+        "佐藤真": "反対",
+        "成田奈緒子": "賛成",
+        "城所美奈子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R805-2.pdf"
     },
     {
       "place": "日高市",
@@ -148863,7 +154197,27 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
       "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
-      "voteNote": "原表の議決結果欄の表記は「多数」。"
+      "voteNote": "原表の議決結果欄の表記は「多数」。 議会だより No.131 ２頁の議員別の賛否（○…賛成 ×…反対）。",
+      "votes": {
+        "山田一繁": "賛成",
+        "横尾貴文": "賛成",
+        "鈴木健夫": "賛成",
+        "三木伸也": "賛成",
+        "森崎成喜": "賛成",
+        "小谷野五成": "賛成",
+        "和田貴弘": "賛成",
+        "金子博": "議長（表決不参加）",
+        "新井均": "賛成",
+        "加藤大輔": "賛成",
+        "大澤博行": "賛成",
+        "加藤将伍": "賛成",
+        "近藤沙織": "賛成",
+        "佐藤真": "反対",
+        "成田奈緒子": "賛成",
+        "城所美奈子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R805-2.pdf"
     },
     {
       "place": "日高市",
@@ -148875,7 +154229,27 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
       "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
-      "voteNote": "原表の議決結果欄の表記は「全員」。"
+      "voteNote": "原表の議決結果欄の表記は「全員」。 議会だより No.131 ２頁の議員別の賛否（○…賛成 ×…反対）。",
+      "votes": {
+        "山田一繁": "賛成",
+        "横尾貴文": "賛成",
+        "鈴木健夫": "賛成",
+        "三木伸也": "賛成",
+        "森崎成喜": "賛成",
+        "小谷野五成": "賛成",
+        "和田貴弘": "賛成",
+        "金子博": "議長（表決不参加）",
+        "新井均": "賛成",
+        "加藤大輔": "賛成",
+        "大澤博行": "賛成",
+        "加藤将伍": "賛成",
+        "近藤沙織": "賛成",
+        "佐藤真": "賛成",
+        "成田奈緒子": "賛成",
+        "城所美奈子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R805-2.pdf"
     },
     {
       "place": "日高市",
@@ -148887,7 +154261,27 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
       "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
-      "voteNote": "原表の議決結果欄の表記は「全員」。"
+      "voteNote": "原表の議決結果欄の表記は「全員」。 議会だより No.131 ２頁の議員別の賛否（○…賛成 ×…反対）。",
+      "votes": {
+        "山田一繁": "賛成",
+        "横尾貴文": "賛成",
+        "鈴木健夫": "賛成",
+        "三木伸也": "賛成",
+        "森崎成喜": "賛成",
+        "小谷野五成": "賛成",
+        "和田貴弘": "賛成",
+        "金子博": "議長（表決不参加）",
+        "新井均": "賛成",
+        "加藤大輔": "賛成",
+        "大澤博行": "賛成",
+        "加藤将伍": "賛成",
+        "近藤沙織": "賛成",
+        "佐藤真": "賛成",
+        "成田奈緒子": "賛成",
+        "城所美奈子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R805-2.pdf"
     },
     {
       "place": "日高市",
@@ -148899,7 +154293,27 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
       "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
-      "voteNote": "原表の議決結果欄の表記は「全員」。"
+      "voteNote": "原表の議決結果欄の表記は「全員」。 議会だより No.131 ２頁の議員別の賛否（○…賛成 ×…反対）。",
+      "votes": {
+        "山田一繁": "賛成",
+        "横尾貴文": "賛成",
+        "鈴木健夫": "賛成",
+        "三木伸也": "賛成",
+        "森崎成喜": "賛成",
+        "小谷野五成": "賛成",
+        "和田貴弘": "賛成",
+        "金子博": "議長（表決不参加）",
+        "新井均": "賛成",
+        "加藤大輔": "賛成",
+        "大澤博行": "賛成",
+        "加藤将伍": "賛成",
+        "近藤沙織": "賛成",
+        "佐藤真": "賛成",
+        "成田奈緒子": "賛成",
+        "城所美奈子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R805-2.pdf"
     },
     {
       "place": "日高市",
@@ -148911,7 +154325,27 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
       "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
-      "voteNote": "原表の議決結果欄の表記は「多数」。"
+      "voteNote": "原表の議決結果欄の表記は「多数」。 議会だより No.131 ２頁の議員別の賛否（○…賛成 ×…反対）。",
+      "votes": {
+        "山田一繁": "賛成",
+        "横尾貴文": "賛成",
+        "鈴木健夫": "賛成",
+        "三木伸也": "賛成",
+        "森崎成喜": "賛成",
+        "小谷野五成": "賛成",
+        "和田貴弘": "賛成",
+        "金子博": "議長（表決不参加）",
+        "新井均": "賛成",
+        "加藤大輔": "賛成",
+        "大澤博行": "賛成",
+        "加藤将伍": "賛成",
+        "近藤沙織": "賛成",
+        "佐藤真": "賛成",
+        "成田奈緒子": "賛成",
+        "城所美奈子": "反対"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R805-2.pdf"
     },
     {
       "place": "日高市",
@@ -148923,7 +154357,27 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
       "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
-      "voteNote": "原表の議決結果欄の表記は「全員」。"
+      "voteNote": "原表の議決結果欄の表記は「全員」。 議会だより No.131 ２頁の議員別の賛否（○…賛成 ×…反対）。",
+      "votes": {
+        "山田一繁": "賛成",
+        "横尾貴文": "賛成",
+        "鈴木健夫": "賛成",
+        "三木伸也": "賛成",
+        "森崎成喜": "賛成",
+        "小谷野五成": "賛成",
+        "和田貴弘": "賛成",
+        "金子博": "議長（表決不参加）",
+        "新井均": "賛成",
+        "加藤大輔": "賛成",
+        "大澤博行": "賛成",
+        "加藤将伍": "賛成",
+        "近藤沙織": "賛成",
+        "佐藤真": "賛成",
+        "成田奈緒子": "賛成",
+        "城所美奈子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R805-2.pdf"
     },
     {
       "place": "日高市",
@@ -148935,7 +154389,27 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
       "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
-      "voteNote": "原表の議決結果欄の表記は「全員」。"
+      "voteNote": "原表の議決結果欄の表記は「全員」。 議会だより No.131 ２頁の議員別の賛否（○…賛成 ×…反対）。",
+      "votes": {
+        "山田一繁": "賛成",
+        "横尾貴文": "賛成",
+        "鈴木健夫": "賛成",
+        "三木伸也": "賛成",
+        "森崎成喜": "賛成",
+        "小谷野五成": "賛成",
+        "和田貴弘": "賛成",
+        "金子博": "議長（表決不参加）",
+        "新井均": "賛成",
+        "加藤大輔": "賛成",
+        "大澤博行": "賛成",
+        "加藤将伍": "賛成",
+        "近藤沙織": "賛成",
+        "佐藤真": "賛成",
+        "成田奈緒子": "賛成",
+        "城所美奈子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R805-2.pdf"
     },
     {
       "place": "日高市",
@@ -148947,7 +154421,27 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
       "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
-      "voteNote": "原表の議決結果欄の表記は「全員」。"
+      "voteNote": "原表の議決結果欄の表記は「全員」。 議会だより No.131 ２頁の議員別の賛否（○…賛成 ×…反対）。",
+      "votes": {
+        "山田一繁": "賛成",
+        "横尾貴文": "賛成",
+        "鈴木健夫": "賛成",
+        "三木伸也": "賛成",
+        "森崎成喜": "賛成",
+        "小谷野五成": "賛成",
+        "和田貴弘": "賛成",
+        "金子博": "議長（表決不参加）",
+        "新井均": "賛成",
+        "加藤大輔": "賛成",
+        "大澤博行": "賛成",
+        "加藤将伍": "賛成",
+        "近藤沙織": "賛成",
+        "佐藤真": "賛成",
+        "成田奈緒子": "賛成",
+        "城所美奈子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R805-2.pdf"
     },
     {
       "place": "日高市",
@@ -148959,7 +154453,27 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
       "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
-      "voteNote": "原表の議決結果欄の表記は「全員」。"
+      "voteNote": "原表の議決結果欄の表記は「全員」。 議会だより No.131 ２頁の議員別の賛否（○…賛成 ×…反対）。",
+      "votes": {
+        "山田一繁": "賛成",
+        "横尾貴文": "賛成",
+        "鈴木健夫": "賛成",
+        "三木伸也": "賛成",
+        "森崎成喜": "賛成",
+        "小谷野五成": "賛成",
+        "和田貴弘": "賛成",
+        "金子博": "議長（表決不参加）",
+        "新井均": "賛成",
+        "加藤大輔": "賛成",
+        "大澤博行": "賛成",
+        "加藤将伍": "賛成",
+        "近藤沙織": "賛成",
+        "佐藤真": "賛成",
+        "成田奈緒子": "賛成",
+        "城所美奈子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R805-2.pdf"
     },
     {
       "place": "日高市",
@@ -148971,7 +154485,27 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
       "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
-      "voteNote": "原表の議決結果欄の表記は「全員」。"
+      "voteNote": "原表の議決結果欄の表記は「全員」。 議会だより No.131 ２頁の議員別の賛否（○…賛成 ×…反対）。",
+      "votes": {
+        "山田一繁": "賛成",
+        "横尾貴文": "賛成",
+        "鈴木健夫": "賛成",
+        "三木伸也": "賛成",
+        "森崎成喜": "賛成",
+        "小谷野五成": "賛成",
+        "和田貴弘": "賛成",
+        "金子博": "議長（表決不参加）",
+        "新井均": "賛成",
+        "加藤大輔": "賛成",
+        "大澤博行": "賛成",
+        "加藤将伍": "賛成",
+        "近藤沙織": "賛成",
+        "佐藤真": "賛成",
+        "成田奈緒子": "賛成",
+        "城所美奈子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R805-2.pdf"
     },
     {
       "place": "日高市",
@@ -148983,7 +154517,27 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
       "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
-      "voteNote": "原表の議決結果欄の表記は「全員」。"
+      "voteNote": "原表の議決結果欄の表記は「全員」。 議会だより No.131 ２頁の議員別の賛否（○…賛成 ×…反対）。",
+      "votes": {
+        "山田一繁": "賛成",
+        "横尾貴文": "賛成",
+        "鈴木健夫": "賛成",
+        "三木伸也": "賛成",
+        "森崎成喜": "賛成",
+        "小谷野五成": "賛成",
+        "和田貴弘": "賛成",
+        "金子博": "議長（表決不参加）",
+        "新井均": "賛成",
+        "加藤大輔": "賛成",
+        "大澤博行": "賛成",
+        "加藤将伍": "賛成",
+        "近藤沙織": "賛成",
+        "佐藤真": "賛成",
+        "成田奈緒子": "賛成",
+        "城所美奈子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R805-2.pdf"
     },
     {
       "place": "日高市",
@@ -148995,7 +154549,27 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
       "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
-      "voteNote": "原表の議決結果欄の表記は「全員」。"
+      "voteNote": "原表の議決結果欄の表記は「全員」。 議会だより No.131 ３頁の議員別の賛否（○…賛成 ×…反対（同じ表の続き））。",
+      "votes": {
+        "山田一繁": "賛成",
+        "横尾貴文": "賛成",
+        "鈴木健夫": "賛成",
+        "三木伸也": "賛成",
+        "森崎成喜": "賛成",
+        "小谷野五成": "賛成",
+        "和田貴弘": "賛成",
+        "金子博": "議長（表決不参加）",
+        "新井均": "賛成",
+        "加藤大輔": "賛成",
+        "大澤博行": "賛成",
+        "加藤将伍": "賛成",
+        "近藤沙織": "賛成",
+        "佐藤真": "賛成",
+        "成田奈緒子": "賛成",
+        "城所美奈子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R805-3.pdf"
     },
     {
       "place": "日高市",
@@ -149007,7 +154581,27 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
       "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
-      "voteNote": "原表の議決結果欄の表記は「全員」。"
+      "voteNote": "原表の議決結果欄の表記は「全員」。 議会だより No.131 ３頁の議員別の賛否（○…賛成 ×…反対（同じ表の続き））。",
+      "votes": {
+        "山田一繁": "賛成",
+        "横尾貴文": "賛成",
+        "鈴木健夫": "賛成",
+        "三木伸也": "賛成",
+        "森崎成喜": "賛成",
+        "小谷野五成": "賛成",
+        "和田貴弘": "賛成",
+        "金子博": "議長（表決不参加）",
+        "新井均": "賛成",
+        "加藤大輔": "賛成",
+        "大澤博行": "賛成",
+        "加藤将伍": "賛成",
+        "近藤沙織": "賛成",
+        "佐藤真": "賛成",
+        "成田奈緒子": "賛成",
+        "城所美奈子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R805-3.pdf"
     },
     {
       "place": "日高市",
@@ -149019,7 +154613,27 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
       "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
-      "voteNote": "原表の議決結果欄の表記は「多数」。"
+      "voteNote": "原表の議決結果欄の表記は「多数」。 議会だより No.131 ３頁の議員別の賛否（○…賛成 ×…反対（同じ表の続き））。",
+      "votes": {
+        "山田一繁": "賛成",
+        "横尾貴文": "賛成",
+        "鈴木健夫": "賛成",
+        "三木伸也": "賛成",
+        "森崎成喜": "賛成",
+        "小谷野五成": "賛成",
+        "和田貴弘": "賛成",
+        "金子博": "議長（表決不参加）",
+        "新井均": "賛成",
+        "加藤大輔": "賛成",
+        "大澤博行": "賛成",
+        "加藤将伍": "賛成",
+        "近藤沙織": "賛成",
+        "佐藤真": "反対",
+        "成田奈緒子": "賛成",
+        "城所美奈子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R805-3.pdf"
     },
     {
       "place": "日高市",
@@ -149031,7 +154645,27 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
       "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
-      "voteNote": "原表の議決結果欄の表記は「全員」。"
+      "voteNote": "原表の議決結果欄の表記は「全員」。 議会だより No.131 ３頁の議員別の賛否（○…賛成 ×…反対（同じ表の続き））。",
+      "votes": {
+        "山田一繁": "賛成",
+        "横尾貴文": "賛成",
+        "鈴木健夫": "賛成",
+        "三木伸也": "賛成",
+        "森崎成喜": "賛成",
+        "小谷野五成": "賛成",
+        "和田貴弘": "賛成",
+        "金子博": "議長（表決不参加）",
+        "新井均": "賛成",
+        "加藤大輔": "賛成",
+        "大澤博行": "賛成",
+        "加藤将伍": "賛成",
+        "近藤沙織": "賛成",
+        "佐藤真": "賛成",
+        "成田奈緒子": "賛成",
+        "城所美奈子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R805-3.pdf"
     },
     {
       "place": "日高市",
@@ -149043,7 +154677,27 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=2",
       "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=2",
-      "voteNote": "原表の議決結果欄の表記は「全員」。"
+      "voteNote": "原表の議決結果欄の表記は「全員」。 議会だより No.131 ３頁の議員別の賛否（○…賛成 ×…反対（同じ表の続き））。",
+      "votes": {
+        "山田一繁": "賛成",
+        "横尾貴文": "賛成",
+        "鈴木健夫": "賛成",
+        "三木伸也": "賛成",
+        "森崎成喜": "賛成",
+        "小谷野五成": "賛成",
+        "和田貴弘": "賛成",
+        "金子博": "議長（表決不参加）",
+        "新井均": "賛成",
+        "加藤大輔": "賛成",
+        "大澤博行": "賛成",
+        "加藤将伍": "賛成",
+        "近藤沙織": "賛成",
+        "佐藤真": "賛成",
+        "成田奈緒子": "賛成",
+        "城所美奈子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R805-3.pdf"
     },
     {
       "place": "日高市",
@@ -149055,7 +154709,27 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=2",
       "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=2",
-      "voteNote": "原表の議決結果欄の表記は「全員」。"
+      "voteNote": "原表の議決結果欄の表記は「全員」。 議会だより No.131 ３頁の議員別の賛否（○…賛成 ×…反対（同じ表の続き））。",
+      "votes": {
+        "山田一繁": "賛成",
+        "横尾貴文": "賛成",
+        "鈴木健夫": "賛成",
+        "三木伸也": "賛成",
+        "森崎成喜": "賛成",
+        "小谷野五成": "賛成",
+        "和田貴弘": "賛成",
+        "金子博": "議長（表決不参加）",
+        "新井均": "賛成",
+        "加藤大輔": "賛成",
+        "大澤博行": "賛成",
+        "加藤将伍": "賛成",
+        "近藤沙織": "賛成",
+        "佐藤真": "賛成",
+        "成田奈緒子": "賛成",
+        "城所美奈子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R805-3.pdf"
     },
     {
       "place": "日高市",
@@ -149067,7 +154741,27 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=2",
       "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=2",
-      "voteNote": "原表の議決結果欄の表記は「全員」。"
+      "voteNote": "原表の議決結果欄の表記は「全員」。 議会だより No.131 ３頁の議員別の賛否（○…賛成 ×…反対（同じ表の続き））。",
+      "votes": {
+        "山田一繁": "賛成",
+        "横尾貴文": "賛成",
+        "鈴木健夫": "賛成",
+        "三木伸也": "賛成",
+        "森崎成喜": "賛成",
+        "小谷野五成": "賛成",
+        "和田貴弘": "賛成",
+        "金子博": "議長（表決不参加）",
+        "新井均": "賛成",
+        "加藤大輔": "賛成",
+        "大澤博行": "賛成",
+        "加藤将伍": "賛成",
+        "近藤沙織": "賛成",
+        "佐藤真": "賛成",
+        "成田奈緒子": "賛成",
+        "城所美奈子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R805-3.pdf"
     },
     {
       "place": "日高市",
@@ -149079,7 +154773,27 @@ GIKAI.coverage2026 = {
       "result": "同意",
       "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R0803shinngikekka.pdf#page=1",
       "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R0803shinngikekka.pdf#page=1",
-      "voteNote": "原表の議決結果欄の表記は「全員」。"
+      "voteNote": "原表の議決結果欄の表記は「全員」。 議会だより No.132 ２頁の議員別の賛否（○…賛成 ×…反対）。",
+      "votes": {
+        "山田一繁": "賛成",
+        "横尾貴文": "賛成",
+        "鈴木健夫": "賛成",
+        "三木伸也": "賛成",
+        "森崎成喜": "賛成",
+        "小谷野五成": "賛成",
+        "和田貴弘": "議長（表決不参加）",
+        "金子博": "賛成",
+        "新井均": "賛成",
+        "加藤大輔": "賛成",
+        "大澤博行": "賛成",
+        "加藤将伍": "賛成",
+        "近藤沙織": "賛成",
+        "佐藤真": "賛成",
+        "成田奈緒子": "賛成",
+        "城所美奈子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R808-2.pdf"
     },
     {
       "place": "日高市",
@@ -149091,7 +154805,27 @@ GIKAI.coverage2026 = {
       "result": "承認",
       "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R0803shinngikekka.pdf#page=1",
       "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R0803shinngikekka.pdf#page=1",
-      "voteNote": "原表の議決結果欄の表記は「全員」。"
+      "voteNote": "原表の議決結果欄の表記は「全員」。 議会だより No.132 ２頁の議員別の賛否（○…賛成 ×…反対）。",
+      "votes": {
+        "山田一繁": "賛成",
+        "横尾貴文": "賛成",
+        "鈴木健夫": "賛成",
+        "三木伸也": "賛成",
+        "森崎成喜": "賛成",
+        "小谷野五成": "賛成",
+        "和田貴弘": "議長（表決不参加）",
+        "金子博": "賛成",
+        "新井均": "賛成",
+        "加藤大輔": "賛成",
+        "大澤博行": "賛成",
+        "加藤将伍": "賛成",
+        "近藤沙織": "賛成",
+        "佐藤真": "賛成",
+        "成田奈緒子": "賛成",
+        "城所美奈子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R808-2.pdf"
     },
     {
       "place": "日高市",
@@ -149103,7 +154837,27 @@ GIKAI.coverage2026 = {
       "result": "承認",
       "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R0803shinngikekka.pdf#page=1",
       "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R0803shinngikekka.pdf#page=1",
-      "voteNote": "原表の議決結果欄の表記は「全員」。"
+      "voteNote": "原表の議決結果欄の表記は「全員」。 議会だより No.132 ２頁の議員別の賛否（○…賛成 ×…反対）。",
+      "votes": {
+        "山田一繁": "賛成",
+        "横尾貴文": "賛成",
+        "鈴木健夫": "賛成",
+        "三木伸也": "賛成",
+        "森崎成喜": "賛成",
+        "小谷野五成": "賛成",
+        "和田貴弘": "議長（表決不参加）",
+        "金子博": "賛成",
+        "新井均": "賛成",
+        "加藤大輔": "賛成",
+        "大澤博行": "賛成",
+        "加藤将伍": "賛成",
+        "近藤沙織": "賛成",
+        "佐藤真": "賛成",
+        "成田奈緒子": "賛成",
+        "城所美奈子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R808-2.pdf"
     },
     {
       "place": "日高市",
@@ -149115,7 +154869,27 @@ GIKAI.coverage2026 = {
       "result": "承認",
       "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R0803shinngikekka.pdf#page=1",
       "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R0803shinngikekka.pdf#page=1",
-      "voteNote": "原表の議決結果欄の表記は「全員」。"
+      "voteNote": "原表の議決結果欄の表記は「全員」。 議会だより No.132 ２頁の議員別の賛否（○…賛成 ×…反対）。",
+      "votes": {
+        "山田一繁": "賛成",
+        "横尾貴文": "賛成",
+        "鈴木健夫": "賛成",
+        "三木伸也": "賛成",
+        "森崎成喜": "賛成",
+        "小谷野五成": "賛成",
+        "和田貴弘": "議長（表決不参加）",
+        "金子博": "賛成",
+        "新井均": "賛成",
+        "加藤大輔": "賛成",
+        "大澤博行": "賛成",
+        "加藤将伍": "賛成",
+        "近藤沙織": "賛成",
+        "佐藤真": "賛成",
+        "成田奈緒子": "賛成",
+        "城所美奈子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R808-2.pdf"
     },
     {
       "place": "日高市",
@@ -149127,7 +154901,27 @@ GIKAI.coverage2026 = {
       "result": "承認",
       "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R0803shinngikekka.pdf#page=1",
       "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R0803shinngikekka.pdf#page=1",
-      "voteNote": "原表の議決結果欄の表記は「多数」。"
+      "voteNote": "原表の議決結果欄の表記は「多数」。 議会だより No.132 ２頁の議員別の賛否（○…賛成 ×…反対）。",
+      "votes": {
+        "山田一繁": "賛成",
+        "横尾貴文": "賛成",
+        "鈴木健夫": "賛成",
+        "三木伸也": "賛成",
+        "森崎成喜": "賛成",
+        "小谷野五成": "賛成",
+        "和田貴弘": "議長（表決不参加）",
+        "金子博": "賛成",
+        "新井均": "賛成",
+        "加藤大輔": "賛成",
+        "大澤博行": "賛成",
+        "加藤将伍": "賛成",
+        "近藤沙織": "賛成",
+        "佐藤真": "反対",
+        "成田奈緒子": "賛成",
+        "城所美奈子": "反対"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R808-2.pdf"
     },
     {
       "place": "日高市",
@@ -149139,7 +154933,27 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R0803shinngikekka.pdf#page=1",
       "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R0803shinngikekka.pdf#page=1",
-      "voteNote": "原表の議決結果欄の表記は「全員」。"
+      "voteNote": "原表の議決結果欄の表記は「全員」。 議会だより No.132 ２頁の議員別の賛否（○…賛成 ×…反対）。",
+      "votes": {
+        "山田一繁": "賛成",
+        "横尾貴文": "賛成",
+        "鈴木健夫": "賛成",
+        "三木伸也": "賛成",
+        "森崎成喜": "賛成",
+        "小谷野五成": "賛成",
+        "和田貴弘": "議長（表決不参加）",
+        "金子博": "賛成",
+        "新井均": "賛成",
+        "加藤大輔": "賛成",
+        "大澤博行": "賛成",
+        "加藤将伍": "賛成",
+        "近藤沙織": "賛成",
+        "佐藤真": "賛成",
+        "成田奈緒子": "賛成",
+        "城所美奈子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R808-2.pdf"
     },
     {
       "place": "日高市",
@@ -149151,7 +154965,27 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R0803shinngikekka.pdf#page=1",
       "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R0803shinngikekka.pdf#page=1",
-      "voteNote": "原表の議決結果欄の表記は「全員」。"
+      "voteNote": "原表の議決結果欄の表記は「全員」。 議会だより No.132 ２頁の議員別の賛否（○…賛成 ×…反対）。",
+      "votes": {
+        "山田一繁": "賛成",
+        "横尾貴文": "賛成",
+        "鈴木健夫": "賛成",
+        "三木伸也": "賛成",
+        "森崎成喜": "賛成",
+        "小谷野五成": "賛成",
+        "和田貴弘": "議長（表決不参加）",
+        "金子博": "賛成",
+        "新井均": "賛成",
+        "加藤大輔": "賛成",
+        "大澤博行": "賛成",
+        "加藤将伍": "賛成",
+        "近藤沙織": "賛成",
+        "佐藤真": "賛成",
+        "成田奈緒子": "賛成",
+        "城所美奈子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R808-2.pdf"
     },
     {
       "place": "日高市",
@@ -149163,7 +154997,27 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R0803shinngikekka.pdf#page=1",
       "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R0803shinngikekka.pdf#page=1",
-      "voteNote": "原表の議決結果欄の表記は「全員」。"
+      "voteNote": "原表の議決結果欄の表記は「全員」。 議会だより No.132 ２頁の議員別の賛否（○…賛成 ×…反対）。",
+      "votes": {
+        "山田一繁": "賛成",
+        "横尾貴文": "賛成",
+        "鈴木健夫": "賛成",
+        "三木伸也": "賛成",
+        "森崎成喜": "賛成",
+        "小谷野五成": "賛成",
+        "和田貴弘": "議長（表決不参加）",
+        "金子博": "賛成",
+        "新井均": "賛成",
+        "加藤大輔": "賛成",
+        "大澤博行": "賛成",
+        "加藤将伍": "賛成",
+        "近藤沙織": "賛成",
+        "佐藤真": "賛成",
+        "成田奈緒子": "賛成",
+        "城所美奈子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R808-2.pdf"
     },
     {
       "place": "日高市",
@@ -149175,7 +155029,27 @@ GIKAI.coverage2026 = {
       "result": "不採択",
       "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R0803shinngikekka.pdf#page=1",
       "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R0803shinngikekka.pdf#page=1",
-      "voteNote": "原表の議決結果欄の表記は「少数」。"
+      "voteNote": "原表の議決結果欄の表記は「少数」。 議会だより No.132 ２頁の議員別の賛否（○…賛成 ×…反対）。",
+      "votes": {
+        "山田一繁": "反対",
+        "横尾貴文": "反対",
+        "鈴木健夫": "反対",
+        "三木伸也": "反対",
+        "森崎成喜": "反対",
+        "小谷野五成": "反対",
+        "和田貴弘": "議長（表決不参加）",
+        "金子博": "反対",
+        "新井均": "反対",
+        "加藤大輔": "反対",
+        "大澤博行": "反対",
+        "加藤将伍": "反対",
+        "近藤沙織": "反対",
+        "佐藤真": "反対",
+        "成田奈緒子": "賛成",
+        "城所美奈子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R808-2.pdf"
     },
     {
       "place": "日高市",
@@ -149187,7 +155061,27 @@ GIKAI.coverage2026 = {
       "result": "不採択",
       "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R0803shinngikekka.pdf#page=1",
       "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R0803shinngikekka.pdf#page=1",
-      "voteNote": "原表の議決結果欄の表記は「少数」。"
+      "voteNote": "原表の議決結果欄の表記は「少数」。 議会だより No.132 ２頁の議員別の賛否（○…賛成 ×…反対）。",
+      "votes": {
+        "山田一繁": "反対",
+        "横尾貴文": "反対",
+        "鈴木健夫": "反対",
+        "三木伸也": "反対",
+        "森崎成喜": "反対",
+        "小谷野五成": "反対",
+        "和田貴弘": "議長（表決不参加）",
+        "金子博": "反対",
+        "新井均": "反対",
+        "加藤大輔": "反対",
+        "大澤博行": "反対",
+        "加藤将伍": "反対",
+        "近藤沙織": "反対",
+        "佐藤真": "反対",
+        "成田奈緒子": "賛成",
+        "城所美奈子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R808-2.pdf"
     },
     {
       "place": "松伏町",
@@ -149200,7 +155094,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=1",
       "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=1",
       "resultLocator": "公式の議案件名等一覧表及び処理結果 1頁・議決第3号",
-      "proposer": "松伏町長"
+      "proposer": "松伏町長",
+      "votes": {
+        "平野千穂": "反対",
+        "吉田俊一": "反対",
+        "鈴木勉": "賛成",
+        "村上真由美": "賛成",
+        "川上力": "賛成",
+        "松岡高志": "賛成",
+        "砂川清時": "賛成",
+        "髙橋昭男": "賛成",
+        "長谷川真也": "賛成",
+        "増田秀雄": "賛成",
+        "福井和義": "賛成",
+        "佐藤永子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2588/133P7.pdf",
+      "voteNote": "議会だより133号 ７頁の議員別の賛否（○=賛成、●=反対、欠=欠席、◎=提出者）。"
     },
     {
       "place": "松伏町",
@@ -149213,7 +155124,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=1",
       "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=1",
       "resultLocator": "公式の議案件名等一覧表及び処理結果 1頁・議決第4号",
-      "proposer": "松伏町長"
+      "proposer": "松伏町長",
+      "votes": {
+        "平野千穂": "賛成",
+        "吉田俊一": "賛成",
+        "鈴木勉": "賛成",
+        "村上真由美": "賛成",
+        "川上力": "賛成",
+        "松岡高志": "賛成",
+        "砂川清時": "賛成",
+        "髙橋昭男": "賛成",
+        "長谷川真也": "賛成",
+        "増田秀雄": "賛成",
+        "福井和義": "賛成",
+        "佐藤永子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2588/133P7.pdf",
+      "voteNote": "議会だより133号 ７頁の議員別の賛否（○=賛成、●=反対、欠=欠席、◎=提出者）。"
     },
     {
       "place": "松伏町",
@@ -149226,7 +155154,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=1",
       "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=1",
       "resultLocator": "公式の議案件名等一覧表及び処理結果 1頁・議決第5号",
-      "proposer": "松伏町長"
+      "proposer": "松伏町長",
+      "votes": {
+        "平野千穂": "反対",
+        "吉田俊一": "反対",
+        "鈴木勉": "反対",
+        "村上真由美": "賛成",
+        "川上力": "賛成",
+        "松岡高志": "賛成",
+        "砂川清時": "賛成",
+        "髙橋昭男": "賛成",
+        "長谷川真也": "賛成",
+        "増田秀雄": "賛成",
+        "福井和義": "賛成",
+        "佐藤永子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2588/133P7.pdf",
+      "voteNote": "議会だより133号 ７頁の議員別の賛否（○=賛成、●=反対、欠=欠席、◎=提出者）。"
     },
     {
       "place": "松伏町",
@@ -149239,7 +155184,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=1",
       "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=1",
       "resultLocator": "公式の議案件名等一覧表及び処理結果 1頁・議決第6号",
-      "proposer": "松伏町長"
+      "proposer": "松伏町長",
+      "votes": {
+        "平野千穂": "賛成",
+        "吉田俊一": "賛成",
+        "鈴木勉": "賛成",
+        "村上真由美": "賛成",
+        "川上力": "賛成",
+        "松岡高志": "賛成",
+        "砂川清時": "賛成",
+        "髙橋昭男": "賛成",
+        "長谷川真也": "賛成",
+        "増田秀雄": "賛成",
+        "福井和義": "賛成",
+        "佐藤永子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2588/133P7.pdf",
+      "voteNote": "議会だより133号 ７頁の議員別の賛否（○=賛成、●=反対、欠=欠席、◎=提出者）。"
     },
     {
       "place": "松伏町",
@@ -149252,7 +155214,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=1",
       "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=1",
       "resultLocator": "公式の議案件名等一覧表及び処理結果 1頁・議決第7号",
-      "proposer": "松伏町長"
+      "proposer": "松伏町長",
+      "votes": {
+        "平野千穂": "賛成",
+        "吉田俊一": "賛成",
+        "鈴木勉": "賛成",
+        "村上真由美": "賛成",
+        "川上力": "賛成",
+        "松岡高志": "賛成",
+        "砂川清時": "賛成",
+        "髙橋昭男": "賛成",
+        "長谷川真也": "賛成",
+        "増田秀雄": "賛成",
+        "福井和義": "賛成",
+        "佐藤永子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2588/133P7.pdf",
+      "voteNote": "議会だより133号 ７頁の議員別の賛否（○=賛成、●=反対、欠=欠席、◎=提出者）。"
     },
     {
       "place": "松伏町",
@@ -149265,7 +155244,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=1",
       "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=1",
       "resultLocator": "公式の議案件名等一覧表及び処理結果 1頁・議決第8号",
-      "proposer": "松伏町長"
+      "proposer": "松伏町長",
+      "votes": {
+        "平野千穂": "賛成",
+        "吉田俊一": "賛成",
+        "鈴木勉": "賛成",
+        "村上真由美": "賛成",
+        "川上力": "賛成",
+        "松岡高志": "賛成",
+        "砂川清時": "賛成",
+        "髙橋昭男": "賛成",
+        "長谷川真也": "賛成",
+        "増田秀雄": "賛成",
+        "福井和義": "賛成",
+        "佐藤永子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2588/133P7.pdf",
+      "voteNote": "議会だより133号 ７頁の議員別の賛否（○=賛成、●=反対、欠=欠席、◎=提出者）。"
     },
     {
       "place": "松伏町",
@@ -149278,7 +155274,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=1",
       "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=1",
       "resultLocator": "公式の議案件名等一覧表及び処理結果 1頁・議決第9号",
-      "proposer": "松伏町長"
+      "proposer": "松伏町長",
+      "votes": {
+        "平野千穂": "賛成",
+        "吉田俊一": "賛成",
+        "鈴木勉": "賛成",
+        "村上真由美": "賛成",
+        "川上力": "賛成",
+        "松岡高志": "賛成",
+        "砂川清時": "賛成",
+        "髙橋昭男": "賛成",
+        "長谷川真也": "賛成",
+        "増田秀雄": "賛成",
+        "福井和義": "賛成",
+        "佐藤永子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2588/133P7.pdf",
+      "voteNote": "議会だより133号 ７頁の議員別の賛否（○=賛成、●=反対、欠=欠席、◎=提出者）。"
     },
     {
       "place": "松伏町",
@@ -149291,7 +155304,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=1",
       "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=1",
       "resultLocator": "公式の議案件名等一覧表及び処理結果 1頁・議決第10号",
-      "proposer": "松伏町長"
+      "proposer": "松伏町長",
+      "votes": {
+        "平野千穂": "反対",
+        "吉田俊一": "反対",
+        "鈴木勉": "賛成",
+        "村上真由美": "賛成",
+        "川上力": "賛成",
+        "松岡高志": "賛成",
+        "砂川清時": "賛成",
+        "髙橋昭男": "賛成",
+        "長谷川真也": "賛成",
+        "増田秀雄": "賛成",
+        "福井和義": "賛成",
+        "佐藤永子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2588/133P7.pdf",
+      "voteNote": "議会だより133号 ７頁の議員別の賛否（○=賛成、●=反対、欠=欠席、◎=提出者）。"
     },
     {
       "place": "松伏町",
@@ -149304,7 +155334,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=1",
       "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=1",
       "resultLocator": "公式の議案件名等一覧表及び処理結果 1頁・議決第11号",
-      "proposer": "松伏町長"
+      "proposer": "松伏町長",
+      "votes": {
+        "平野千穂": "賛成",
+        "吉田俊一": "賛成",
+        "鈴木勉": "賛成",
+        "村上真由美": "賛成",
+        "川上力": "賛成",
+        "松岡高志": "賛成",
+        "砂川清時": "賛成",
+        "髙橋昭男": "賛成",
+        "長谷川真也": "賛成",
+        "増田秀雄": "賛成",
+        "福井和義": "賛成",
+        "佐藤永子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2588/133P7.pdf",
+      "voteNote": "議会だより133号 ７頁の議員別の賛否（○=賛成、●=反対、欠=欠席、◎=提出者）。"
     },
     {
       "place": "松伏町",
@@ -149317,7 +155364,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=1",
       "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=1",
       "resultLocator": "公式の議案件名等一覧表及び処理結果 1頁・議決第12号",
-      "proposer": "松伏町長"
+      "proposer": "松伏町長",
+      "votes": {
+        "平野千穂": "賛成",
+        "吉田俊一": "賛成",
+        "鈴木勉": "賛成",
+        "村上真由美": "賛成",
+        "川上力": "賛成",
+        "松岡高志": "賛成",
+        "砂川清時": "賛成",
+        "髙橋昭男": "賛成",
+        "長谷川真也": "賛成",
+        "増田秀雄": "賛成",
+        "福井和義": "賛成",
+        "佐藤永子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2588/133P7.pdf",
+      "voteNote": "議会だより133号 ７頁の議員別の賛否（○=賛成、●=反対、欠=欠席、◎=提出者）。"
     },
     {
       "place": "松伏町",
@@ -149330,7 +155394,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
       "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
       "resultLocator": "公式の議案件名等一覧表及び処理結果 2頁・議決第13号",
-      "proposer": "松伏町長"
+      "proposer": "松伏町長",
+      "votes": {
+        "平野千穂": "賛成",
+        "吉田俊一": "賛成",
+        "鈴木勉": "賛成",
+        "村上真由美": "賛成",
+        "川上力": "賛成",
+        "松岡高志": "賛成",
+        "砂川清時": "賛成",
+        "髙橋昭男": "賛成",
+        "長谷川真也": "賛成",
+        "増田秀雄": "賛成",
+        "福井和義": "賛成",
+        "佐藤永子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2588/133P7.pdf",
+      "voteNote": "議会だより133号 ７頁の議員別の賛否（○=賛成、●=反対、欠=欠席、◎=提出者）。"
     },
     {
       "place": "松伏町",
@@ -149343,7 +155424,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
       "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
       "resultLocator": "公式の議案件名等一覧表及び処理結果 2頁・議決第14号",
-      "proposer": "松伏町長"
+      "proposer": "松伏町長",
+      "votes": {
+        "平野千穂": "賛成",
+        "吉田俊一": "賛成",
+        "鈴木勉": "賛成",
+        "村上真由美": "賛成",
+        "川上力": "賛成",
+        "松岡高志": "賛成",
+        "砂川清時": "賛成",
+        "髙橋昭男": "賛成",
+        "長谷川真也": "賛成",
+        "増田秀雄": "賛成",
+        "福井和義": "賛成",
+        "佐藤永子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2588/133P7.pdf",
+      "voteNote": "議会だより133号 ７頁の議員別の賛否（○=賛成、●=反対、欠=欠席、◎=提出者）。"
     },
     {
       "place": "松伏町",
@@ -149356,7 +155454,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
       "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
       "resultLocator": "公式の議案件名等一覧表及び処理結果 2頁・議決第15号",
-      "proposer": "松伏町長"
+      "proposer": "松伏町長",
+      "votes": {
+        "平野千穂": "賛成",
+        "吉田俊一": "賛成",
+        "鈴木勉": "賛成",
+        "村上真由美": "賛成",
+        "川上力": "賛成",
+        "松岡高志": "賛成",
+        "砂川清時": "賛成",
+        "髙橋昭男": "賛成",
+        "長谷川真也": "賛成",
+        "増田秀雄": "賛成",
+        "福井和義": "賛成",
+        "佐藤永子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2588/133P7.pdf",
+      "voteNote": "議会だより133号 ７頁の議員別の賛否（○=賛成、●=反対、欠=欠席、◎=提出者）。"
     },
     {
       "place": "松伏町",
@@ -149369,7 +155484,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
       "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
       "resultLocator": "公式の議案件名等一覧表及び処理結果 2頁・議決第17号",
-      "proposer": "松伏町長"
+      "proposer": "松伏町長",
+      "votes": {
+        "平野千穂": "賛成",
+        "吉田俊一": "賛成",
+        "鈴木勉": "欠席",
+        "村上真由美": "賛成",
+        "川上力": "賛成",
+        "松岡高志": "賛成",
+        "砂川清時": "賛成",
+        "髙橋昭男": "賛成",
+        "長谷川真也": "欠席",
+        "増田秀雄": "賛成",
+        "福井和義": "賛成",
+        "佐藤永子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2588/133P7.pdf",
+      "voteNote": "議会だより133号 ７頁の議員別の賛否（○=賛成、●=反対、欠=欠席、◎=提出者）。"
     },
     {
       "place": "松伏町",
@@ -149382,7 +155514,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
       "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
       "resultLocator": "公式の議案件名等一覧表及び処理結果 2頁・議決第18号",
-      "proposer": "松伏町長"
+      "proposer": "松伏町長",
+      "votes": {
+        "平野千穂": "反対",
+        "吉田俊一": "反対",
+        "鈴木勉": "欠席",
+        "村上真由美": "賛成",
+        "川上力": "賛成",
+        "松岡高志": "賛成",
+        "砂川清時": "賛成",
+        "髙橋昭男": "賛成",
+        "長谷川真也": "賛成",
+        "増田秀雄": "賛成",
+        "福井和義": "賛成",
+        "佐藤永子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2588/133P7.pdf",
+      "voteNote": "議会だより133号 ７頁の議員別の賛否（○=賛成、●=反対、欠=欠席、◎=提出者）。"
     },
     {
       "place": "松伏町",
@@ -149395,7 +155544,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
       "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
       "resultLocator": "公式の議案件名等一覧表及び処理結果 2頁・議決第19号",
-      "proposer": "松伏町長"
+      "proposer": "松伏町長",
+      "votes": {
+        "平野千穂": "反対",
+        "吉田俊一": "反対",
+        "鈴木勉": "欠席",
+        "村上真由美": "賛成",
+        "川上力": "賛成",
+        "松岡高志": "賛成",
+        "砂川清時": "賛成",
+        "髙橋昭男": "賛成",
+        "長谷川真也": "賛成",
+        "増田秀雄": "賛成",
+        "福井和義": "賛成",
+        "佐藤永子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2588/133P7.pdf",
+      "voteNote": "議会だより133号 ７頁の議員別の賛否（○=賛成、●=反対、欠=欠席、◎=提出者）。"
     },
     {
       "place": "松伏町",
@@ -149408,7 +155574,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
       "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
       "resultLocator": "公式の議案件名等一覧表及び処理結果 2頁・議決第20号",
-      "proposer": "松伏町長"
+      "proposer": "松伏町長",
+      "votes": {
+        "平野千穂": "反対",
+        "吉田俊一": "反対",
+        "鈴木勉": "欠席",
+        "村上真由美": "賛成",
+        "川上力": "賛成",
+        "松岡高志": "賛成",
+        "砂川清時": "賛成",
+        "髙橋昭男": "賛成",
+        "長谷川真也": "賛成",
+        "増田秀雄": "賛成",
+        "福井和義": "賛成",
+        "佐藤永子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2588/133P7.pdf",
+      "voteNote": "議会だより133号 ７頁の議員別の賛否（○=賛成、●=反対、欠=欠席、◎=提出者）。"
     },
     {
       "place": "松伏町",
@@ -149421,7 +155604,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
       "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
       "resultLocator": "公式の議案件名等一覧表及び処理結果 2頁・議決第21号",
-      "proposer": "松伏町長"
+      "proposer": "松伏町長",
+      "votes": {
+        "平野千穂": "賛成",
+        "吉田俊一": "賛成",
+        "鈴木勉": "欠席",
+        "村上真由美": "賛成",
+        "川上力": "賛成",
+        "松岡高志": "賛成",
+        "砂川清時": "賛成",
+        "髙橋昭男": "賛成",
+        "長谷川真也": "賛成",
+        "増田秀雄": "賛成",
+        "福井和義": "賛成",
+        "佐藤永子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2588/133P7.pdf",
+      "voteNote": "議会だより133号 ７頁の議員別の賛否（○=賛成、●=反対、欠=欠席、◎=提出者）。"
     },
     {
       "place": "松伏町",
@@ -149434,7 +155634,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
       "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
       "resultLocator": "公式の議案件名等一覧表及び処理結果 2頁・議決第22号",
-      "proposer": "松伏町長"
+      "proposer": "松伏町長",
+      "votes": {
+        "平野千穂": "賛成",
+        "吉田俊一": "賛成",
+        "鈴木勉": "欠席",
+        "村上真由美": "賛成",
+        "川上力": "賛成",
+        "松岡高志": "賛成",
+        "砂川清時": "賛成",
+        "髙橋昭男": "賛成",
+        "長谷川真也": "賛成",
+        "増田秀雄": "賛成",
+        "福井和義": "賛成",
+        "佐藤永子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2588/133P7.pdf",
+      "voteNote": "議会だより133号 ７頁の議員別の賛否（○=賛成、●=反対、欠=欠席、◎=提出者）。"
     },
     {
       "place": "松伏町",
@@ -149446,7 +155663,24 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
       "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
-      "resultLocator": "公式の議案件名等一覧表及び処理結果 2頁・議決第16号"
+      "resultLocator": "公式の議案件名等一覧表及び処理結果 2頁・議決第16号",
+      "votes": {
+        "平野千穂": "賛成",
+        "吉田俊一": "賛成",
+        "鈴木勉": "賛成",
+        "村上真由美": "賛成",
+        "川上力": "賛成",
+        "松岡高志": "賛成",
+        "砂川清時": "賛成",
+        "髙橋昭男": "賛成",
+        "長谷川真也": "賛成",
+        "増田秀雄": "賛成",
+        "福井和義": "賛成",
+        "佐藤永子": "提出者"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2588/133P7.pdf",
+      "voteNote": "議会だより133号 ７頁の議員別の賛否（○=賛成、●=反対、欠=欠席、◎=提出者）。"
     },
     {
       "place": "松伏町",
@@ -149458,7 +155692,24 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
       "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
-      "resultLocator": "公式の議案件名等一覧表及び処理結果 2頁・議決第23号"
+      "resultLocator": "公式の議案件名等一覧表及び処理結果 2頁・議決第23号",
+      "votes": {
+        "平野千穂": "賛成",
+        "吉田俊一": "賛成",
+        "鈴木勉": "欠席",
+        "村上真由美": "賛成",
+        "川上力": "賛成",
+        "松岡高志": "賛成",
+        "砂川清時": "賛成",
+        "髙橋昭男": "賛成",
+        "長谷川真也": "賛成",
+        "増田秀雄": "賛成",
+        "福井和義": "賛成",
+        "佐藤永子": "提出者"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2588/133P7.pdf",
+      "voteNote": "議会だより133号 ７頁の議員別の賛否（○=賛成、●=反対、欠=欠席、◎=提出者）。"
     },
     {
       "place": "松伏町",
@@ -149470,7 +155721,24 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
       "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
-      "resultLocator": "公式の議案件名等一覧表及び処理結果 2頁・議決第24号"
+      "resultLocator": "公式の議案件名等一覧表及び処理結果 2頁・議決第24号",
+      "votes": {
+        "平野千穂": "提出者",
+        "吉田俊一": "賛成",
+        "鈴木勉": "欠席",
+        "村上真由美": "賛成",
+        "川上力": "賛成",
+        "松岡高志": "賛成",
+        "砂川清時": "賛成",
+        "髙橋昭男": "賛成",
+        "長谷川真也": "賛成",
+        "増田秀雄": "賛成",
+        "福井和義": "賛成",
+        "佐藤永子": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2588/133P7.pdf",
+      "voteNote": "議会だより133号 ７頁の議員別の賛否（○=賛成、●=反対、欠=欠席、◎=提出者）。"
     },
     {
       "place": "松伏町",
@@ -149483,7 +155751,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf#page=1",
       "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf#page=1",
       "resultLocator": "公式の議案件名等一覧表及び処理結果 1頁・議決第26号",
-      "proposer": "松伏町長"
+      "proposer": "松伏町長",
+      "votes": {
+        "平野千穂": "賛成",
+        "吉田俊一": "賛成",
+        "鈴木勉": "賛成",
+        "長谷川真也": "賛成",
+        "増田秀雄": "反対",
+        "川上力": "除斥",
+        "田口義博": "賛成",
+        "松岡高志": "賛成",
+        "福井和義": "賛成",
+        "髙橋昭男": "反対",
+        "佐藤永子": "反対",
+        "村上真由美": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2884/gikaidayori134_P6.pdf",
+      "voteNote": "議会だより134号 ６頁の議員別の賛否（○＝賛成、●＝反対、退＝退席、欠＝欠席、除＝除斥、◎＝提出者）。"
     },
     {
       "place": "松伏町",
@@ -149496,7 +155781,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf#page=1",
       "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf#page=1",
       "resultLocator": "公式の議案件名等一覧表及び処理結果 1頁・議決第27号",
-      "proposer": "松伏町長"
+      "proposer": "松伏町長",
+      "votes": {
+        "平野千穂": "賛成",
+        "吉田俊一": "賛成",
+        "鈴木勉": "賛成",
+        "長谷川真也": "賛成",
+        "増田秀雄": "賛成",
+        "川上力": "賛成",
+        "田口義博": "賛成",
+        "松岡高志": "賛成",
+        "福井和義": "賛成",
+        "髙橋昭男": "賛成",
+        "佐藤永子": "賛成",
+        "村上真由美": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2884/gikaidayori134_P6.pdf",
+      "voteNote": "議会だより134号 ６頁の議員別の賛否（○＝賛成、●＝反対、退＝退席、欠＝欠席、除＝除斥、◎＝提出者）。"
     },
     {
       "place": "松伏町",
@@ -149509,7 +155811,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf#page=1",
       "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf#page=1",
       "resultLocator": "公式の議案件名等一覧表及び処理結果 1頁・議決第28号",
-      "proposer": "松伏町長"
+      "proposer": "松伏町長",
+      "votes": {
+        "平野千穂": "賛成",
+        "吉田俊一": "賛成",
+        "鈴木勉": "賛成",
+        "長谷川真也": "賛成",
+        "増田秀雄": "賛成",
+        "川上力": "賛成",
+        "田口義博": "賛成",
+        "松岡高志": "賛成",
+        "福井和義": "賛成",
+        "髙橋昭男": "賛成",
+        "佐藤永子": "賛成",
+        "村上真由美": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2884/gikaidayori134_P6.pdf",
+      "voteNote": "議会だより134号 ６頁の議員別の賛否（○＝賛成、●＝反対、退＝退席、欠＝欠席、除＝除斥、◎＝提出者）。"
     },
     {
       "place": "松伏町",
@@ -149522,7 +155841,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf#page=1",
       "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf#page=1",
       "resultLocator": "公式の議案件名等一覧表及び処理結果 1頁・議決第29号",
-      "proposer": "松伏町長"
+      "proposer": "松伏町長",
+      "votes": {
+        "平野千穂": "賛成",
+        "吉田俊一": "賛成",
+        "鈴木勉": "賛成",
+        "長谷川真也": "賛成",
+        "増田秀雄": "賛成",
+        "川上力": "賛成",
+        "田口義博": "賛成",
+        "松岡高志": "賛成",
+        "福井和義": "賛成",
+        "髙橋昭男": "賛成",
+        "佐藤永子": "賛成",
+        "村上真由美": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2884/gikaidayori134_P6.pdf",
+      "voteNote": "議会だより134号 ６頁の議員別の賛否（○＝賛成、●＝反対、退＝退席、欠＝欠席、除＝除斥、◎＝提出者）。"
     },
     {
       "place": "松伏町",
@@ -149535,7 +155871,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf#page=1",
       "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf#page=1",
       "resultLocator": "公式の議案件名等一覧表及び処理結果 1頁・議決第30号",
-      "proposer": "松伏町長"
+      "proposer": "松伏町長",
+      "votes": {
+        "平野千穂": "賛成",
+        "吉田俊一": "賛成",
+        "鈴木勉": "賛成",
+        "長谷川真也": "賛成",
+        "増田秀雄": "賛成",
+        "川上力": "賛成",
+        "田口義博": "賛成",
+        "松岡高志": "賛成",
+        "福井和義": "賛成",
+        "髙橋昭男": "賛成",
+        "佐藤永子": "賛成",
+        "村上真由美": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2884/gikaidayori134_P6.pdf",
+      "voteNote": "議会だより134号 ６頁の議員別の賛否（○＝賛成、●＝反対、退＝退席、欠＝欠席、除＝除斥、◎＝提出者）。"
     },
     {
       "place": "松伏町",
@@ -149548,7 +155901,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf#page=1",
       "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf#page=1",
       "resultLocator": "公式の議案件名等一覧表及び処理結果 1頁・議決第31号",
-      "proposer": "松伏町長"
+      "proposer": "松伏町長",
+      "votes": {
+        "平野千穂": "賛成",
+        "吉田俊一": "賛成",
+        "鈴木勉": "賛成",
+        "長谷川真也": "賛成",
+        "増田秀雄": "賛成",
+        "川上力": "賛成",
+        "田口義博": "賛成",
+        "松岡高志": "賛成",
+        "福井和義": "賛成",
+        "髙橋昭男": "賛成",
+        "佐藤永子": "賛成",
+        "村上真由美": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2884/gikaidayori134_P6.pdf",
+      "voteNote": "議会だより134号 ６頁の議員別の賛否（○＝賛成、●＝反対、退＝退席、欠＝欠席、除＝除斥、◎＝提出者）。"
     },
     {
       "place": "松伏町",
@@ -149561,7 +155931,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf#page=1",
       "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf#page=1",
       "resultLocator": "公式の議案件名等一覧表及び処理結果 1頁・議決第32号",
-      "proposer": "松伏町長"
+      "proposer": "松伏町長",
+      "votes": {
+        "平野千穂": "賛成",
+        "吉田俊一": "賛成",
+        "鈴木勉": "賛成",
+        "長谷川真也": "賛成",
+        "増田秀雄": "賛成",
+        "川上力": "賛成",
+        "田口義博": "賛成",
+        "松岡高志": "賛成",
+        "福井和義": "賛成",
+        "髙橋昭男": "賛成",
+        "佐藤永子": "賛成",
+        "村上真由美": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2884/gikaidayori134_P6.pdf",
+      "voteNote": "議会だより134号 ６頁の議員別の賛否（○＝賛成、●＝反対、退＝退席、欠＝欠席、除＝除斥、◎＝提出者）。"
     },
     {
       "place": "松伏町",
@@ -149574,7 +155961,24 @@ GIKAI.coverage2026 = {
       "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf#page=1",
       "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf#page=1",
       "resultLocator": "公式の議案件名等一覧表及び処理結果 1頁・議決第33号",
-      "proposer": "松伏町長"
+      "proposer": "松伏町長",
+      "votes": {
+        "平野千穂": "賛成",
+        "吉田俊一": "賛成",
+        "鈴木勉": "賛成",
+        "長谷川真也": "賛成",
+        "増田秀雄": "賛成",
+        "川上力": "賛成",
+        "田口義博": "賛成",
+        "松岡高志": "賛成",
+        "福井和義": "賛成",
+        "髙橋昭男": "賛成",
+        "佐藤永子": "賛成",
+        "村上真由美": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2884/gikaidayori134_P6.pdf",
+      "voteNote": "議会だより134号 ６頁の議員別の賛否（○＝賛成、●＝反対、退＝退席、欠＝欠席、除＝除斥、◎＝提出者）。"
     },
     {
       "place": "松伏町",
@@ -149586,7 +155990,24 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf#page=2",
       "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf#page=2",
-      "resultLocator": "公式の議案件名等一覧表及び処理結果 2頁・議決第34号"
+      "resultLocator": "公式の議案件名等一覧表及び処理結果 2頁・議決第34号",
+      "votes": {
+        "平野千穂": "賛成",
+        "吉田俊一": "賛成",
+        "鈴木勉": "賛成",
+        "長谷川真也": "賛成",
+        "増田秀雄": "賛成",
+        "川上力": "賛成",
+        "田口義博": "賛成",
+        "松岡高志": "賛成",
+        "福井和義": "賛成",
+        "髙橋昭男": "賛成",
+        "佐藤永子": "賛成",
+        "村上真由美": "提出者"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2884/gikaidayori134_P6.pdf",
+      "voteNote": "議会だより134号 ６頁の議員別の賛否（○＝賛成、●＝反対、退＝退席、欠＝欠席、除＝除斥、◎＝提出者）。"
     },
     {
       "place": "松伏町",
@@ -149598,7 +156019,24 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf#page=2",
       "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf#page=2",
-      "resultLocator": "公式の議案件名等一覧表及び処理結果 2頁・議決第35号"
+      "resultLocator": "公式の議案件名等一覧表及び処理結果 2頁・議決第35号",
+      "votes": {
+        "平野千穂": "提出者",
+        "吉田俊一": "賛成",
+        "鈴木勉": "賛成",
+        "長谷川真也": "賛成",
+        "増田秀雄": "賛成",
+        "川上力": "賛成",
+        "田口義博": "賛成",
+        "松岡高志": "賛成",
+        "福井和義": "賛成",
+        "髙橋昭男": "賛成",
+        "佐藤永子": "賛成",
+        "村上真由美": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2884/gikaidayori134_P6.pdf",
+      "voteNote": "議会だより134号 ６頁の議員別の賛否（○＝賛成、●＝反対、退＝退席、欠＝欠席、除＝除斥、◎＝提出者）。"
     },
     {
       "place": "松伏町",
@@ -149610,7 +156048,24 @@ GIKAI.coverage2026 = {
       "result": "否決",
       "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf#page=2",
       "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf#page=2",
-      "resultLocator": "公式の議案件名等一覧表及び処理結果 2頁・議決第36号"
+      "resultLocator": "公式の議案件名等一覧表及び処理結果 2頁・議決第36号",
+      "votes": {
+        "平野千穂": "賛成",
+        "吉田俊一": "提出者",
+        "鈴木勉": "賛成",
+        "長谷川真也": "反対",
+        "増田秀雄": "反対",
+        "川上力": "賛成",
+        "田口義博": "反対",
+        "松岡高志": "反対",
+        "福井和義": "反対",
+        "髙橋昭男": "反対",
+        "佐藤永子": "反対",
+        "村上真由美": "賛成"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2884/gikaidayori134_P6.pdf",
+      "voteNote": "議会だより134号 ６頁の議員別の賛否（○＝賛成、●＝反対、退＝退席、欠＝欠席、除＝除斥、◎＝提出者）。"
     },
     {
       "place": "杉戸町",
@@ -149622,7 +156077,9 @@ GIKAI.coverage2026 = {
       "result": "別段異議無",
       "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
       "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
-      "resultLocator": "公式議決結果1頁・1行目・諮問第1号"
+      "resultLocator": "公式議決結果1頁・1行目・諮問第1号",
+      "voteURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17016.pdf#page=19",
+      "voteNote": "議会だより No.131 議員別表決結果一覧：紙面の「全員賛成で可決」欄に掲載（議員別の記号なし）。"
     },
     {
       "place": "杉戸町",
@@ -149634,7 +156091,9 @@ GIKAI.coverage2026 = {
       "result": "同意",
       "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
       "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
-      "resultLocator": "公式議決結果1頁・2行目・議決第3号"
+      "resultLocator": "公式議決結果1頁・2行目・議決第3号",
+      "voteURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17016.pdf#page=19",
+      "voteNote": "議会だより No.131 議員別表決結果一覧：紙面の「全員賛成で可決」欄に掲載（議員別の記号なし）。"
     },
     {
       "place": "杉戸町",
@@ -149646,7 +156105,9 @@ GIKAI.coverage2026 = {
       "result": "承認",
       "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
       "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
-      "resultLocator": "公式議決結果1頁・3行目・議決第4号"
+      "resultLocator": "公式議決結果1頁・3行目・議決第4号",
+      "voteURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17016.pdf#page=19",
+      "voteNote": "議会だより No.131 議員別表決結果一覧：紙面の「全員賛成で可決」欄に掲載（議員別の記号なし）。"
     },
     {
       "place": "杉戸町",
@@ -149658,7 +156119,9 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
       "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
-      "resultLocator": "公式議決結果1頁・4行目・議決第5号"
+      "resultLocator": "公式議決結果1頁・4行目・議決第5号",
+      "voteURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17016.pdf#page=19",
+      "voteNote": "議会だより No.131 議員別表決結果一覧：紙面の「全員賛成で可決」欄に掲載（議員別の記号なし）。"
     },
     {
       "place": "杉戸町",
@@ -149670,7 +156133,9 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
       "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
-      "resultLocator": "公式議決結果1頁・5行目・議決第6号"
+      "resultLocator": "公式議決結果1頁・5行目・議決第6号",
+      "voteURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17016.pdf#page=19",
+      "voteNote": "議会だより No.131 議員別表決結果一覧：紙面の「全員賛成で可決」欄に掲載（議員別の記号なし）。"
     },
     {
       "place": "杉戸町",
@@ -149682,7 +156147,9 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
       "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
-      "resultLocator": "公式議決結果1頁・6行目・議決第7号"
+      "resultLocator": "公式議決結果1頁・6行目・議決第7号",
+      "voteURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17016.pdf#page=19",
+      "voteNote": "議会だより No.131 議員別表決結果一覧：紙面の「全員賛成で可決」欄に掲載（議員別の記号なし）。"
     },
     {
       "place": "杉戸町",
@@ -149694,7 +156161,9 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
       "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
-      "resultLocator": "公式議決結果1頁・7行目・議決第8号"
+      "resultLocator": "公式議決結果1頁・7行目・議決第8号",
+      "voteURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17016.pdf#page=19",
+      "voteNote": "議会だより No.131 議員別表決結果一覧：紙面の「全員賛成で可決」欄に掲載（議員別の記号なし）。"
     },
     {
       "place": "杉戸町",
@@ -149706,7 +156175,9 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
       "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
-      "resultLocator": "公式議決結果1頁・8行目・議決第9号"
+      "resultLocator": "公式議決結果1頁・8行目・議決第9号",
+      "voteURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17016.pdf#page=19",
+      "voteNote": "議会だより No.131 議員別表決結果一覧：紙面の「全員賛成で可決」欄に掲載（議員別の記号なし）。"
     },
     {
       "place": "杉戸町",
@@ -149718,7 +156189,9 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
       "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
-      "resultLocator": "公式議決結果1頁・9行目・議決第10号"
+      "resultLocator": "公式議決結果1頁・9行目・議決第10号",
+      "voteURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17016.pdf#page=19",
+      "voteNote": "議会だより No.131 議員別表決結果一覧：紙面の「全員賛成で可決」欄に掲載（議員別の記号なし）。"
     },
     {
       "place": "杉戸町",
@@ -149730,7 +156203,9 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
       "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
-      "resultLocator": "公式議決結果1頁・10行目・議決第11号"
+      "resultLocator": "公式議決結果1頁・10行目・議決第11号",
+      "voteURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17016.pdf#page=19",
+      "voteNote": "議会だより No.131 議員別表決結果一覧：紙面の「全員賛成で可決」欄に掲載（議員別の記号なし）。"
     },
     {
       "place": "杉戸町",
@@ -149742,7 +156217,9 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
       "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
-      "resultLocator": "公式議決結果1頁・11行目・議決第12号"
+      "resultLocator": "公式議決結果1頁・11行目・議決第12号",
+      "voteURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17016.pdf#page=19",
+      "voteNote": "議会だより No.131 議員別表決結果一覧：紙面の「全員賛成で可決」欄に掲載（議員別の記号なし）。"
     },
     {
       "place": "杉戸町",
@@ -149754,7 +156231,9 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
       "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
-      "resultLocator": "公式議決結果1頁・12行目・議決第13号"
+      "resultLocator": "公式議決結果1頁・12行目・議決第13号",
+      "voteURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17016.pdf#page=19",
+      "voteNote": "議会だより No.131 議員別表決結果一覧：紙面の「全員賛成で可決」欄に掲載（議員別の記号なし）。"
     },
     {
       "place": "杉戸町",
@@ -149766,7 +156245,9 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
       "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
-      "resultLocator": "公式議決結果1頁・13行目・議決第14号"
+      "resultLocator": "公式議決結果1頁・13行目・議決第14号",
+      "voteURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17016.pdf#page=19",
+      "voteNote": "議会だより No.131 議員別表決結果一覧：紙面の「全員賛成で可決」欄に掲載（議員別の記号なし）。"
     },
     {
       "place": "杉戸町",
@@ -149778,7 +156259,27 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
       "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
-      "resultLocator": "公式議決結果1頁・14行目・議決第15号"
+      "resultLocator": "公式議決結果1頁・14行目・議決第15号",
+      "votes": {
+        "野口俊彦": "賛成",
+        "浜田章一": "賛成",
+        "冨澤義之": "賛成",
+        "市毛大助": "賛成",
+        "原田壽々子": "賛成",
+        "大橋芳久": "賛成",
+        "北出惠造": "反対",
+        "江口栄子": "反対",
+        "平川忠良": "賛成",
+        "伊藤美佐子": "賛成",
+        "宮田雄一": "賛成",
+        "栗原偉憲": "賛成",
+        "久松祐樹": "反対",
+        "太田康之": "賛成",
+        "上田聡": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17016.pdf#page=19",
+      "voteNote": "議会だより No.131 議員別表決結果一覧の議員別の賛否（○…賛成 ×…反対 欠…欠席 除…除斥 棄…棄権 ※議長は表決に参加しないため「-」）。"
     },
     {
       "place": "杉戸町",
@@ -149816,7 +156317,27 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
       "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
-      "resultLocator": "公式議決結果1頁・16行目・議決第16号"
+      "resultLocator": "公式議決結果1頁・16行目・議決第16号",
+      "votes": {
+        "野口俊彦": "賛成",
+        "浜田章一": "賛成",
+        "冨澤義之": "賛成",
+        "市毛大助": "賛成",
+        "原田壽々子": "賛成",
+        "大橋芳久": "賛成",
+        "北出惠造": "反対",
+        "江口栄子": "反対",
+        "平川忠良": "賛成",
+        "伊藤美佐子": "賛成",
+        "宮田雄一": "賛成",
+        "栗原偉憲": "賛成",
+        "久松祐樹": "賛成",
+        "太田康之": "賛成",
+        "上田聡": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17016.pdf#page=19",
+      "voteNote": "議会だより No.131 議員別表決結果一覧の議員別の賛否（○…賛成 ×…反対 欠…欠席 除…除斥 棄…棄権 ※議長は表決に参加しないため「-」）。"
     },
     {
       "place": "杉戸町",
@@ -149828,7 +156349,27 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
       "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
-      "resultLocator": "公式議決結果1頁・17行目・議決第17号"
+      "resultLocator": "公式議決結果1頁・17行目・議決第17号",
+      "votes": {
+        "野口俊彦": "賛成",
+        "浜田章一": "賛成",
+        "冨澤義之": "賛成",
+        "市毛大助": "賛成",
+        "原田壽々子": "賛成",
+        "大橋芳久": "賛成",
+        "北出惠造": "反対",
+        "江口栄子": "反対",
+        "平川忠良": "賛成",
+        "伊藤美佐子": "賛成",
+        "宮田雄一": "賛成",
+        "栗原偉憲": "賛成",
+        "久松祐樹": "賛成",
+        "太田康之": "賛成",
+        "上田聡": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17016.pdf#page=19",
+      "voteNote": "議会だより No.131 議員別表決結果一覧の議員別の賛否（○…賛成 ×…反対 欠…欠席 除…除斥 棄…棄権 ※議長は表決に参加しないため「-」）。"
     },
     {
       "place": "杉戸町",
@@ -149840,7 +156381,27 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
       "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
-      "resultLocator": "公式議決結果1頁・18行目・議決第18号"
+      "resultLocator": "公式議決結果1頁・18行目・議決第18号",
+      "votes": {
+        "野口俊彦": "賛成",
+        "浜田章一": "賛成",
+        "冨澤義之": "賛成",
+        "市毛大助": "賛成",
+        "原田壽々子": "賛成",
+        "大橋芳久": "賛成",
+        "北出惠造": "反対",
+        "江口栄子": "反対",
+        "平川忠良": "賛成",
+        "伊藤美佐子": "賛成",
+        "宮田雄一": "賛成",
+        "栗原偉憲": "賛成",
+        "久松祐樹": "賛成",
+        "太田康之": "賛成",
+        "上田聡": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17016.pdf#page=19",
+      "voteNote": "議会だより No.131 議員別表決結果一覧の議員別の賛否（○…賛成 ×…反対 欠…欠席 除…除斥 棄…棄権 ※議長は表決に参加しないため「-」）。"
     },
     {
       "place": "杉戸町",
@@ -149852,7 +156413,27 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
       "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
-      "resultLocator": "公式議決結果1頁・19行目・議決第19号"
+      "resultLocator": "公式議決結果1頁・19行目・議決第19号",
+      "votes": {
+        "野口俊彦": "賛成",
+        "浜田章一": "賛成",
+        "冨澤義之": "賛成",
+        "市毛大助": "賛成",
+        "原田壽々子": "賛成",
+        "大橋芳久": "賛成",
+        "北出惠造": "反対",
+        "江口栄子": "反対",
+        "平川忠良": "賛成",
+        "伊藤美佐子": "賛成",
+        "宮田雄一": "賛成",
+        "栗原偉憲": "賛成",
+        "久松祐樹": "反対",
+        "太田康之": "賛成",
+        "上田聡": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17016.pdf#page=19",
+      "voteNote": "議会だより No.131 議員別表決結果一覧の議員別の賛否（○…賛成 ×…反対 欠…欠席 除…除斥 棄…棄権 ※議長は表決に参加しないため「-」）。"
     },
     {
       "place": "杉戸町",
@@ -149864,7 +156445,27 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
       "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
-      "resultLocator": "公式議決結果1頁・20行目・議決第20号"
+      "resultLocator": "公式議決結果1頁・20行目・議決第20号",
+      "votes": {
+        "野口俊彦": "賛成",
+        "浜田章一": "賛成",
+        "冨澤義之": "賛成",
+        "市毛大助": "賛成",
+        "原田壽々子": "賛成",
+        "大橋芳久": "賛成",
+        "北出惠造": "反対",
+        "江口栄子": "反対",
+        "平川忠良": "賛成",
+        "伊藤美佐子": "賛成",
+        "宮田雄一": "賛成",
+        "栗原偉憲": "賛成",
+        "久松祐樹": "賛成",
+        "太田康之": "賛成",
+        "上田聡": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17016.pdf#page=19",
+      "voteNote": "議会だより No.131 議員別表決結果一覧の議員別の賛否（○…賛成 ×…反対 欠…欠席 除…除斥 棄…棄権 ※議長は表決に参加しないため「-」）。"
     },
     {
       "place": "杉戸町",
@@ -149876,7 +156477,27 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
       "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
-      "resultLocator": "公式議決結果1頁・21行目・議決第21号"
+      "resultLocator": "公式議決結果1頁・21行目・議決第21号",
+      "votes": {
+        "野口俊彦": "賛成",
+        "浜田章一": "賛成",
+        "冨澤義之": "賛成",
+        "市毛大助": "賛成",
+        "原田壽々子": "賛成",
+        "大橋芳久": "賛成",
+        "北出惠造": "反対",
+        "江口栄子": "反対",
+        "平川忠良": "賛成",
+        "伊藤美佐子": "賛成",
+        "宮田雄一": "賛成",
+        "栗原偉憲": "賛成",
+        "久松祐樹": "賛成",
+        "太田康之": "賛成",
+        "上田聡": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17016.pdf#page=19",
+      "voteNote": "議会だより No.131 議員別表決結果一覧の議員別の賛否（○…賛成 ×…反対 欠…欠席 除…除斥 棄…棄権 ※議長は表決に参加しないため「-」）。"
     },
     {
       "place": "杉戸町",
@@ -149888,7 +156509,9 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=2",
       "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=2",
-      "resultLocator": "公式議決結果2頁・1行目・議決第22号"
+      "resultLocator": "公式議決結果2頁・1行目・議決第22号",
+      "voteURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17016.pdf#page=19",
+      "voteNote": "議会だより No.131 議員別表決結果一覧：紙面の「全員賛成で可決」欄に掲載（議員別の記号なし）。"
     },
     {
       "place": "杉戸町",
@@ -149900,7 +156523,9 @@ GIKAI.coverage2026 = {
       "result": "同意",
       "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=2",
       "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=2",
-      "resultLocator": "公式議決結果2頁・2行目・議決第23号"
+      "resultLocator": "公式議決結果2頁・2行目・議決第23号",
+      "voteURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17016.pdf#page=19",
+      "voteNote": "議会だより No.131 議員別表決結果一覧：紙面の「全員賛成で可決」欄に掲載（議員別の記号なし）。"
     },
     {
       "place": "杉戸町",
@@ -149912,7 +156537,9 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=2",
       "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=2",
-      "resultLocator": "公式議決結果2頁・3行目・議決第24号"
+      "resultLocator": "公式議決結果2頁・3行目・議決第24号",
+      "voteURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17016.pdf#page=19",
+      "voteNote": "議会だより No.131 議員別表決結果一覧：紙面の「全員賛成で可決」欄に掲載（議員別の記号なし）。"
     },
     {
       "place": "杉戸町",
@@ -149924,7 +156551,9 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=2",
       "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=2",
-      "resultLocator": "公式議決結果2頁・4行目・議決第25号"
+      "resultLocator": "公式議決結果2頁・4行目・議決第25号",
+      "voteURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17016.pdf#page=19",
+      "voteNote": "議会だより No.131 議員別表決結果一覧：紙面の「全員賛成で可決」欄に掲載（議員別の記号なし）。"
     },
     {
       "place": "杉戸町",
@@ -149936,7 +156565,27 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=2",
       "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=2",
-      "resultLocator": "公式議決結果2頁・5行目・意見書第1号"
+      "resultLocator": "公式議決結果2頁・5行目・意見書第1号",
+      "votes": {
+        "野口俊彦": "賛成",
+        "浜田章一": "賛成",
+        "冨澤義之": "賛成",
+        "市毛大助": "反対",
+        "原田壽々子": "賛成",
+        "大橋芳久": "賛成",
+        "北出惠造": "賛成",
+        "江口栄子": "賛成",
+        "平川忠良": "賛成",
+        "伊藤美佐子": "賛成",
+        "宮田雄一": "賛成",
+        "栗原偉憲": "賛成",
+        "久松祐樹": "賛成",
+        "太田康之": "賛成",
+        "上田聡": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17016.pdf#page=19",
+      "voteNote": "議会だより No.131 議員別表決結果一覧の議員別の賛否（○…賛成 ×…反対 欠…欠席 除…除斥 棄…棄権 ※議長は表決に参加しないため「-」）。"
     },
     {
       "place": "杉戸町",
@@ -149988,7 +156637,27 @@ GIKAI.coverage2026 = {
       "result": "承認",
       "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17314.pdf#page=1",
       "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17314.pdf#page=1",
-      "resultLocator": "公式議決結果1頁・2行目・議決第28号"
+      "resultLocator": "公式議決結果1頁・2行目・議決第28号",
+      "votes": {
+        "野口俊彦": "賛成",
+        "浜田章一": "賛成",
+        "冨澤義之": "賛成",
+        "市毛大助": "賛成",
+        "原田壽々子": "賛成",
+        "大橋芳久": "賛成",
+        "北出惠造": "反対",
+        "江口栄子": "反対",
+        "平川忠良": "賛成",
+        "伊藤美佐子": "賛成",
+        "宮田雄一": "賛成",
+        "栗原偉憲": "賛成",
+        "久松祐樹": "賛成",
+        "太田康之": "賛成",
+        "上田聡": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17539.pdf#page=15",
+      "voteNote": "議会だより No.132 議員別表決結果一覧の議員別の賛否（○…賛成 ×…反対 ※議長は表決に参加しないため「-」（第16号は特別多数議決のため議長も採決））。"
     },
     {
       "place": "杉戸町",
@@ -150000,7 +156669,27 @@ GIKAI.coverage2026 = {
       "result": "承認",
       "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17314.pdf#page=1",
       "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17314.pdf#page=1",
-      "resultLocator": "公式議決結果1頁・3行目・議決第29号"
+      "resultLocator": "公式議決結果1頁・3行目・議決第29号",
+      "votes": {
+        "野口俊彦": "賛成",
+        "浜田章一": "賛成",
+        "冨澤義之": "賛成",
+        "市毛大助": "賛成",
+        "原田壽々子": "賛成",
+        "大橋芳久": "賛成",
+        "北出惠造": "賛成",
+        "江口栄子": "賛成",
+        "平川忠良": "賛成",
+        "伊藤美佐子": "賛成",
+        "宮田雄一": "賛成",
+        "栗原偉憲": "賛成",
+        "久松祐樹": "賛成",
+        "太田康之": "賛成",
+        "上田聡": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17539.pdf#page=15",
+      "voteNote": "議会だより No.132 議員別表決結果一覧の議員別の賛否（○…賛成 ×…反対 ※議長は表決に参加しないため「-」（第16号は特別多数議決のため議長も採決））。"
     },
     {
       "place": "杉戸町",
@@ -150012,7 +156701,27 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17314.pdf#page=1",
       "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17314.pdf#page=1",
-      "resultLocator": "公式議決結果1頁・4行目・議決第30号"
+      "resultLocator": "公式議決結果1頁・4行目・議決第30号",
+      "votes": {
+        "野口俊彦": "賛成",
+        "浜田章一": "賛成",
+        "冨澤義之": "賛成",
+        "市毛大助": "賛成",
+        "原田壽々子": "賛成",
+        "大橋芳久": "賛成",
+        "北出惠造": "賛成",
+        "江口栄子": "賛成",
+        "平川忠良": "賛成",
+        "伊藤美佐子": "賛成",
+        "宮田雄一": "賛成",
+        "栗原偉憲": "賛成",
+        "久松祐樹": "賛成",
+        "太田康之": "賛成",
+        "上田聡": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17539.pdf#page=15",
+      "voteNote": "議会だより No.132 議員別表決結果一覧の議員別の賛否（○…賛成 ×…反対 ※議長は表決に参加しないため「-」（第16号は特別多数議決のため議長も採決））。"
     },
     {
       "place": "杉戸町",
@@ -150024,7 +156733,27 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17314.pdf#page=1",
       "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17314.pdf#page=1",
-      "resultLocator": "公式議決結果1頁・5行目・議決第31号"
+      "resultLocator": "公式議決結果1頁・5行目・議決第31号",
+      "votes": {
+        "野口俊彦": "賛成",
+        "浜田章一": "賛成",
+        "冨澤義之": "賛成",
+        "市毛大助": "賛成",
+        "原田壽々子": "賛成",
+        "大橋芳久": "賛成",
+        "北出惠造": "賛成",
+        "江口栄子": "賛成",
+        "平川忠良": "賛成",
+        "伊藤美佐子": "賛成",
+        "宮田雄一": "賛成",
+        "栗原偉憲": "賛成",
+        "久松祐樹": "賛成",
+        "太田康之": "賛成",
+        "上田聡": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17539.pdf#page=15",
+      "voteNote": "議会だより No.132 議員別表決結果一覧の議員別の賛否（○…賛成 ×…反対 ※議長は表決に参加しないため「-」（第16号は特別多数議決のため議長も採決））。"
     },
     {
       "place": "杉戸町",
@@ -150036,7 +156765,27 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17314.pdf#page=1",
       "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17314.pdf#page=1",
-      "resultLocator": "公式議決結果1頁・6行目・議決第32号"
+      "resultLocator": "公式議決結果1頁・6行目・議決第32号",
+      "votes": {
+        "野口俊彦": "賛成",
+        "浜田章一": "賛成",
+        "冨澤義之": "賛成",
+        "市毛大助": "賛成",
+        "原田壽々子": "賛成",
+        "大橋芳久": "賛成",
+        "北出惠造": "賛成",
+        "江口栄子": "賛成",
+        "平川忠良": "賛成",
+        "伊藤美佐子": "賛成",
+        "宮田雄一": "賛成",
+        "栗原偉憲": "賛成",
+        "久松祐樹": "賛成",
+        "太田康之": "賛成",
+        "上田聡": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17539.pdf#page=15",
+      "voteNote": "議会だより No.132 議員別表決結果一覧の議員別の賛否（○…賛成 ×…反対 ※議長は表決に参加しないため「-」（第16号は特別多数議決のため議長も採決））。"
     },
     {
       "place": "杉戸町",
@@ -150048,7 +156797,27 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17314.pdf#page=1",
       "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17314.pdf#page=1",
-      "resultLocator": "公式議決結果1頁・7行目・議決第33号"
+      "resultLocator": "公式議決結果1頁・7行目・議決第33号",
+      "votes": {
+        "野口俊彦": "賛成",
+        "浜田章一": "賛成",
+        "冨澤義之": "賛成",
+        "市毛大助": "賛成",
+        "原田壽々子": "賛成",
+        "大橋芳久": "賛成",
+        "北出惠造": "賛成",
+        "江口栄子": "賛成",
+        "平川忠良": "賛成",
+        "伊藤美佐子": "賛成",
+        "宮田雄一": "賛成",
+        "栗原偉憲": "賛成",
+        "久松祐樹": "賛成",
+        "太田康之": "賛成",
+        "上田聡": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17539.pdf#page=15",
+      "voteNote": "議会だより No.132 議員別表決結果一覧の議員別の賛否（○…賛成 ×…反対 ※議長は表決に参加しないため「-」（第16号は特別多数議決のため議長も採決））。"
     },
     {
       "place": "杉戸町",
@@ -150060,7 +156829,27 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17314.pdf#page=1",
       "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17314.pdf#page=1",
-      "resultLocator": "公式議決結果1頁・8行目・議決第34号"
+      "resultLocator": "公式議決結果1頁・8行目・議決第34号",
+      "votes": {
+        "野口俊彦": "賛成",
+        "浜田章一": "賛成",
+        "冨澤義之": "賛成",
+        "市毛大助": "賛成",
+        "原田壽々子": "賛成",
+        "大橋芳久": "賛成",
+        "北出惠造": "賛成",
+        "江口栄子": "賛成",
+        "平川忠良": "賛成",
+        "伊藤美佐子": "賛成",
+        "宮田雄一": "賛成",
+        "栗原偉憲": "賛成",
+        "久松祐樹": "賛成",
+        "太田康之": "賛成",
+        "上田聡": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17539.pdf#page=15",
+      "voteNote": "議会だより No.132 議員別表決結果一覧の議員別の賛否（○…賛成 ×…反対 ※議長は表決に参加しないため「-」（第16号は特別多数議決のため議長も採決））。"
     },
     {
       "place": "杉戸町",
@@ -150072,7 +156861,27 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17314.pdf#page=1",
       "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17314.pdf#page=1",
-      "resultLocator": "公式議決結果1頁・9行目・議決第35号"
+      "resultLocator": "公式議決結果1頁・9行目・議決第35号",
+      "votes": {
+        "野口俊彦": "賛成",
+        "浜田章一": "賛成",
+        "冨澤義之": "賛成",
+        "市毛大助": "賛成",
+        "原田壽々子": "賛成",
+        "大橋芳久": "賛成",
+        "北出惠造": "賛成",
+        "江口栄子": "賛成",
+        "平川忠良": "賛成",
+        "伊藤美佐子": "賛成",
+        "宮田雄一": "賛成",
+        "栗原偉憲": "賛成",
+        "久松祐樹": "賛成",
+        "太田康之": "賛成",
+        "上田聡": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17539.pdf#page=15",
+      "voteNote": "議会だより No.132 議員別表決結果一覧の議員別の賛否（○…賛成 ×…反対 ※議長は表決に参加しないため「-」（第16号は特別多数議決のため議長も採決））。議会だより第132号は件名を「令和８年度杉戸町介護保険特別会計補正予算（第１号）」と記載（町の議決結果の件名「後期高齢者医療特別会計補正予算（第１号）」と相違）。"
     },
     {
       "place": "杉戸町",
@@ -150084,7 +156893,27 @@ GIKAI.coverage2026 = {
       "result": "原案可決",
       "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17314.pdf#page=1",
       "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17314.pdf#page=1",
-      "resultLocator": "公式議決結果1頁・10行目・議決第36号"
+      "resultLocator": "公式議決結果1頁・10行目・議決第36号",
+      "votes": {
+        "野口俊彦": "賛成",
+        "浜田章一": "賛成",
+        "冨澤義之": "賛成",
+        "市毛大助": "賛成",
+        "原田壽々子": "賛成",
+        "大橋芳久": "賛成",
+        "北出惠造": "賛成",
+        "江口栄子": "賛成",
+        "平川忠良": "賛成",
+        "伊藤美佐子": "賛成",
+        "宮田雄一": "賛成",
+        "栗原偉憲": "賛成",
+        "久松祐樹": "賛成",
+        "太田康之": "賛成",
+        "上田聡": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17539.pdf#page=15",
+      "voteNote": "議会だより No.132 議員別表決結果一覧の議員別の賛否（○…賛成 ×…反対 ※議長は表決に参加しないため「-」（第16号は特別多数議決のため議長も採決））。"
     },
     {
       "place": "横瀬町",
@@ -151130,7 +157959,25 @@ GIKAI.coverage2026 = {
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、発議第1号は原案のとおり可決されました」",
       "sourceType": "公式本会議録",
-      "voteNote": "会議録の表決方法の表記は「賛成多数」。"
+      "voteNote": "会議録の表決方法の表記は「賛成多数」。 議会だより No.161の議員別の賛否（○は賛成 ×は反対 △は欠席 議長は賛否同数の場合のみ採決に参加）。",
+      "votes": {
+        "小澤実": "賛成",
+        "上野葉月": "賛成",
+        "瀬上邦久": "賛成",
+        "阿部弘明": "反対",
+        "西宮俊明": "賛成",
+        "北堀一廣": "賛成",
+        "松本幾雄": "欠席",
+        "赤沼正副": "賛成",
+        "原徹": "賛成",
+        "谷嶋稔": "賛成",
+        "中西文寿": "賛成",
+        "吉野正浩": "賛成",
+        "井上章": "賛成",
+        "内田敏雄": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
     },
     {
       "place": "滑川町",
@@ -151145,7 +157992,25 @@ GIKAI.coverage2026 = {
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、請願第1号は不採択とすることに決定」",
       "sourceType": "公式本会議録",
-      "voteNote": "会議録の表決方法の表記は「賛成多数」。"
+      "voteNote": "会議録の表決方法の表記は「賛成多数」。 議会だより No.161の議員別の賛否（○は賛成 ×は反対 △は欠席 議長は賛否同数の場合のみ採決に参加）。",
+      "votes": {
+        "小澤実": "反対",
+        "上野葉月": "賛成",
+        "瀬上邦久": "反対",
+        "阿部弘明": "賛成",
+        "西宮俊明": "反対",
+        "北堀一廣": "反対",
+        "松本幾雄": "欠席",
+        "赤沼正副": "反対",
+        "原徹": "反対",
+        "谷嶋稔": "反対",
+        "中西文寿": "賛成",
+        "吉野正浩": "反対",
+        "井上章": "反対",
+        "内田敏雄": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
     },
     {
       "place": "滑川町",
@@ -151160,7 +158025,8 @@ GIKAI.coverage2026 = {
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、議案第4号は原案のとおり可決、承認されました」",
       "sourceType": "公式本会議録",
-      "voteNote": "会議録の表記は「原案のとおり可決、承認されました」。会議録の表決方法の表記は「起立全員」。"
+      "voteNote": "会議録の表記は「原案のとおり可決、承認されました」。会議録の表決方法の表記は「起立全員」。 議会だより No.161：紙面の「全員賛成の議案」欄に掲載（議員別の記号なし）。",
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
     },
     {
       "place": "滑川町",
@@ -151175,7 +158041,8 @@ GIKAI.coverage2026 = {
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、議案第5号は原案のとおり可決されました」",
       "sourceType": "公式本会議録",
-      "voteNote": "会議録の表決方法の表記は「起立全員」。"
+      "voteNote": "会議録の表決方法の表記は「起立全員」。 議会だより No.161：紙面の「全員賛成の議案」欄に掲載（議員別の記号なし）。",
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
     },
     {
       "place": "滑川町",
@@ -151190,7 +158057,8 @@ GIKAI.coverage2026 = {
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、議案第6号は原案のとおり可決されました」",
       "sourceType": "公式本会議録",
-      "voteNote": "会議録の表決方法の表記は「起立全員」。"
+      "voteNote": "会議録の表決方法の表記は「起立全員」。 議会だより No.161：紙面の「全員賛成の議案」欄に掲載（議員別の記号なし）。",
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
     },
     {
       "place": "滑川町",
@@ -151205,7 +158073,8 @@ GIKAI.coverage2026 = {
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、議案第7号は原案のとおり可決されました」",
       "sourceType": "公式本会議録",
-      "voteNote": "会議録の表決方法の表記は「起立全員」。"
+      "voteNote": "会議録の表決方法の表記は「起立全員」。 議会だより No.161：紙面の「全員賛成の議案」欄に掲載（議員別の記号なし）。",
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
     },
     {
       "place": "滑川町",
@@ -151220,7 +158089,8 @@ GIKAI.coverage2026 = {
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、議案第8号は原案のとおり可決されました」",
       "sourceType": "公式本会議録",
-      "voteNote": "会議録の表決方法の表記は「賛成全員」。"
+      "voteNote": "会議録の表決方法の表記は「賛成全員」。 議会だより No.161：紙面の「全員賛成の議案」欄に掲載（議員別の記号なし）。",
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
     },
     {
       "place": "滑川町",
@@ -151235,7 +158105,25 @@ GIKAI.coverage2026 = {
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、議案第9号は原案のとおり可決されました」",
       "sourceType": "公式本会議録",
-      "voteNote": "会議録の表決方法の表記は「賛成多数」。"
+      "voteNote": "会議録の表決方法の表記は「賛成多数」。 議会だより No.161の議員別の賛否（○は賛成 ×は反対 △は欠席 議長は賛否同数の場合のみ採決に参加）。",
+      "votes": {
+        "小澤実": "賛成",
+        "上野葉月": "反対",
+        "瀬上邦久": "賛成",
+        "阿部弘明": "賛成",
+        "西宮俊明": "賛成",
+        "北堀一廣": "賛成",
+        "松本幾雄": "欠席",
+        "赤沼正副": "賛成",
+        "原徹": "賛成",
+        "谷嶋稔": "賛成",
+        "中西文寿": "賛成",
+        "吉野正浩": "賛成",
+        "井上章": "賛成",
+        "内田敏雄": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
     },
     {
       "place": "滑川町",
@@ -151250,7 +158138,25 @@ GIKAI.coverage2026 = {
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、議案第10号は原案のとおり可決されました」",
       "sourceType": "公式本会議録",
-      "voteNote": "会議録の表決方法の表記は「賛成多数」。"
+      "voteNote": "会議録の表決方法の表記は「賛成多数」。 議会だより No.161の議員別の賛否（○は賛成 ×は反対 △は欠席 議長は賛否同数の場合のみ採決に参加）。",
+      "votes": {
+        "小澤実": "賛成",
+        "上野葉月": "反対",
+        "瀬上邦久": "賛成",
+        "阿部弘明": "賛成",
+        "西宮俊明": "賛成",
+        "北堀一廣": "賛成",
+        "松本幾雄": "欠席",
+        "赤沼正副": "賛成",
+        "原徹": "賛成",
+        "谷嶋稔": "賛成",
+        "中西文寿": "賛成",
+        "吉野正浩": "賛成",
+        "井上章": "賛成",
+        "内田敏雄": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
     },
     {
       "place": "滑川町",
@@ -151265,7 +158171,8 @@ GIKAI.coverage2026 = {
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、議案第11号は原案のとおり可決されました」",
       "sourceType": "公式本会議録",
-      "voteNote": "会議録の表決方法の表記は「賛成全員」。"
+      "voteNote": "会議録の表決方法の表記は「賛成全員」。 議会だより No.161：紙面の「全員賛成の議案」欄に掲載（議員別の記号なし）。",
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
     },
     {
       "place": "滑川町",
@@ -151280,7 +158187,8 @@ GIKAI.coverage2026 = {
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、議案第12号は原案のとおり可決されました」",
       "sourceType": "公式本会議録",
-      "voteNote": "会議録の表決方法の表記は「起立全員」。"
+      "voteNote": "会議録の表決方法の表記は「起立全員」。 議会だより No.161：紙面の「全員賛成の議案」欄に掲載（議員別の記号なし）。",
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
     },
     {
       "place": "滑川町",
@@ -151295,7 +158203,8 @@ GIKAI.coverage2026 = {
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、議案第13号は原案のとおり可決されました」",
       "sourceType": "公式本会議録",
-      "voteNote": "会議録の表決方法の表記は「賛成全員」。"
+      "voteNote": "会議録の表決方法の表記は「賛成全員」。 議会だより No.161：紙面の「全員賛成の議案」欄に掲載（議員別の記号なし）。",
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
     },
     {
       "place": "滑川町",
@@ -151310,7 +158219,8 @@ GIKAI.coverage2026 = {
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、議案第14号は原案のとおり可決されました」",
       "sourceType": "公式本会議録",
-      "voteNote": "会議録の表決方法の表記は「賛成全員」。"
+      "voteNote": "会議録の表決方法の表記は「賛成全員」。 議会だより No.161：紙面の「全員賛成の議案」欄に掲載（議員別の記号なし）。",
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
     },
     {
       "place": "滑川町",
@@ -151325,7 +158235,8 @@ GIKAI.coverage2026 = {
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、議案第15号は原案のとおり可決されました」",
       "sourceType": "公式本会議録",
-      "voteNote": "会議録の表決方法の表記は「起立全員」。"
+      "voteNote": "会議録の表決方法の表記は「起立全員」。 議会だより No.161：紙面の「全員賛成の議案」欄に掲載（議員別の記号なし）。",
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
     },
     {
       "place": "滑川町",
@@ -151340,7 +158251,8 @@ GIKAI.coverage2026 = {
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、議案第16号は原案のとおり可決されました」",
       "sourceType": "公式本会議録",
-      "voteNote": "会議録の表決方法の表記は「賛成全員」。"
+      "voteNote": "会議録の表決方法の表記は「賛成全員」。 議会だより No.161：紙面の「全員賛成の議案」欄に掲載（議員別の記号なし）。",
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
     },
     {
       "place": "滑川町",
@@ -151355,7 +158267,25 @@ GIKAI.coverage2026 = {
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、議案第17号、議案第18号、議案第19号、議案第20号、議案第21号、議案第22号は委員長の報告のとおり可決され」",
       "sourceType": "公式本会議録",
-      "voteNote": "会議録の表決方法の表記は「賛成多数」。"
+      "voteNote": "会議録の表決方法の表記は「賛成多数」。 議会だより No.161の議員別の賛否（○は賛成 ×は反対 △は欠席 議長は賛否同数の場合のみ採決に参加）。",
+      "votes": {
+        "小澤実": "賛成",
+        "上野葉月": "反対",
+        "瀬上邦久": "賛成",
+        "阿部弘明": "反対",
+        "西宮俊明": "賛成",
+        "北堀一廣": "賛成",
+        "松本幾雄": "欠席",
+        "赤沼正副": "賛成",
+        "原徹": "賛成",
+        "谷嶋稔": "賛成",
+        "中西文寿": "賛成",
+        "吉野正浩": "賛成",
+        "井上章": "賛成",
+        "内田敏雄": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
     },
     {
       "place": "滑川町",
@@ -151370,7 +158300,25 @@ GIKAI.coverage2026 = {
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、議案第17号、議案第18号、議案第19号、議案第20号、議案第21号、議案第22号は委員長の報告のとおり可決され」",
       "sourceType": "公式本会議録",
-      "voteNote": "会議録の表決方法の表記は「賛成多数」。"
+      "voteNote": "会議録の表決方法の表記は「賛成多数」。 議会だより No.161の議員別の賛否（○は賛成 ×は反対 △は欠席 議長は賛否同数の場合のみ採決に参加）。",
+      "votes": {
+        "小澤実": "賛成",
+        "上野葉月": "反対",
+        "瀬上邦久": "賛成",
+        "阿部弘明": "反対",
+        "西宮俊明": "賛成",
+        "北堀一廣": "賛成",
+        "松本幾雄": "欠席",
+        "赤沼正副": "賛成",
+        "原徹": "賛成",
+        "谷嶋稔": "賛成",
+        "中西文寿": "賛成",
+        "吉野正浩": "賛成",
+        "井上章": "賛成",
+        "内田敏雄": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
     },
     {
       "place": "滑川町",
@@ -151385,7 +158333,25 @@ GIKAI.coverage2026 = {
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、議案第17号、議案第18号、議案第19号、議案第20号、議案第21号、議案第22号は委員長の報告のとおり可決され」",
       "sourceType": "公式本会議録",
-      "voteNote": "会議録の表決方法の表記は「賛成多数」。"
+      "voteNote": "会議録の表決方法の表記は「賛成多数」。 議会だより No.161の議員別の賛否（○は賛成 ×は反対 △は欠席 議長は賛否同数の場合のみ採決に参加）。",
+      "votes": {
+        "小澤実": "賛成",
+        "上野葉月": "反対",
+        "瀬上邦久": "賛成",
+        "阿部弘明": "反対",
+        "西宮俊明": "賛成",
+        "北堀一廣": "賛成",
+        "松本幾雄": "欠席",
+        "赤沼正副": "賛成",
+        "原徹": "賛成",
+        "谷嶋稔": "賛成",
+        "中西文寿": "賛成",
+        "吉野正浩": "賛成",
+        "井上章": "賛成",
+        "内田敏雄": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
     },
     {
       "place": "滑川町",
@@ -151400,7 +158366,25 @@ GIKAI.coverage2026 = {
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、議案第17号、議案第18号、議案第19号、議案第20号、議案第21号、議案第22号は委員長の報告のとおり可決され」",
       "sourceType": "公式本会議録",
-      "voteNote": "会議録の表決方法の表記は「賛成多数」。"
+      "voteNote": "会議録の表決方法の表記は「賛成多数」。 議会だより No.161の議員別の賛否（○は賛成 ×は反対 △は欠席 議長は賛否同数の場合のみ採決に参加）。",
+      "votes": {
+        "小澤実": "賛成",
+        "上野葉月": "反対",
+        "瀬上邦久": "賛成",
+        "阿部弘明": "反対",
+        "西宮俊明": "賛成",
+        "北堀一廣": "賛成",
+        "松本幾雄": "欠席",
+        "赤沼正副": "賛成",
+        "原徹": "賛成",
+        "谷嶋稔": "賛成",
+        "中西文寿": "賛成",
+        "吉野正浩": "賛成",
+        "井上章": "賛成",
+        "内田敏雄": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
     },
     {
       "place": "滑川町",
@@ -151415,7 +158399,25 @@ GIKAI.coverage2026 = {
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、議案第17号、議案第18号、議案第19号、議案第20号、議案第21号、議案第22号は委員長の報告のとおり可決され」",
       "sourceType": "公式本会議録",
-      "voteNote": "会議録の表決方法の表記は「賛成多数」。"
+      "voteNote": "会議録の表決方法の表記は「賛成多数」。 議会だより No.161の議員別の賛否（○は賛成 ×は反対 △は欠席 議長は賛否同数の場合のみ採決に参加）。",
+      "votes": {
+        "小澤実": "賛成",
+        "上野葉月": "反対",
+        "瀬上邦久": "賛成",
+        "阿部弘明": "反対",
+        "西宮俊明": "賛成",
+        "北堀一廣": "賛成",
+        "松本幾雄": "欠席",
+        "赤沼正副": "賛成",
+        "原徹": "賛成",
+        "谷嶋稔": "賛成",
+        "中西文寿": "賛成",
+        "吉野正浩": "賛成",
+        "井上章": "賛成",
+        "内田敏雄": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
     },
     {
       "place": "滑川町",
@@ -151430,7 +158432,25 @@ GIKAI.coverage2026 = {
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、議案第17号、議案第18号、議案第19号、議案第20号、議案第21号、議案第22号は委員長の報告のとおり可決され」",
       "sourceType": "公式本会議録",
-      "voteNote": "会議録の表決方法の表記は「賛成多数」。"
+      "voteNote": "会議録の表決方法の表記は「賛成多数」。 議会だより No.161の議員別の賛否（○は賛成 ×は反対 △は欠席 議長は賛否同数の場合のみ採決に参加）。",
+      "votes": {
+        "小澤実": "賛成",
+        "上野葉月": "反対",
+        "瀬上邦久": "賛成",
+        "阿部弘明": "反対",
+        "西宮俊明": "賛成",
+        "北堀一廣": "賛成",
+        "松本幾雄": "欠席",
+        "赤沼正副": "賛成",
+        "原徹": "賛成",
+        "谷嶋稔": "賛成",
+        "中西文寿": "賛成",
+        "吉野正浩": "賛成",
+        "井上章": "賛成",
+        "内田敏雄": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
     },
     {
       "place": "滑川町",
@@ -151445,7 +158465,8 @@ GIKAI.coverage2026 = {
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、議案第23号は原案のとおり可決されました」",
       "sourceType": "公式本会議録",
-      "voteNote": "会議録の表決方法の表記は「起立全員」。"
+      "voteNote": "会議録の表決方法の表記は「起立全員」。 議会だより No.161：紙面の「全員賛成の議案」欄に掲載（議員別の記号なし）。",
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
     },
     {
       "place": "滑川町",
@@ -151460,7 +158481,8 @@ GIKAI.coverage2026 = {
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、議案第24号は原案のとおり可決されました」",
       "sourceType": "公式本会議録",
-      "voteNote": "会議録の表決方法の表記は「賛成全員」。"
+      "voteNote": "会議録の表決方法の表記は「賛成全員」。 議会だより No.161：紙面の「全員賛成の議案」欄に掲載（議員別の記号なし）。",
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
     },
     {
       "place": "滑川町",
@@ -151475,7 +158497,8 @@ GIKAI.coverage2026 = {
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、議案第25号は原案のとおり可決されました」",
       "sourceType": "公式本会議録",
-      "voteNote": "会議録の表決方法の表記は「賛成全員」。"
+      "voteNote": "会議録の表決方法の表記は「賛成全員」。 議会だより No.161：紙面の「全員賛成の議案」欄に掲載（議員別の記号なし）。",
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
     },
     {
       "place": "滑川町",
@@ -151490,7 +158513,25 @@ GIKAI.coverage2026 = {
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、議案第26号は原案のとおり可決されました」",
       "sourceType": "公式本会議録",
-      "voteNote": "会議録の表決方法の表記は「賛成多数」。"
+      "voteNote": "会議録の表決方法の表記は「賛成多数」。 議会だより No.161の議員別の賛否（○は賛成 ×は反対 △は欠席 議長は賛否同数の場合のみ採決に参加）。",
+      "votes": {
+        "小澤実": "賛成",
+        "上野葉月": "賛成",
+        "瀬上邦久": "賛成",
+        "阿部弘明": "反対",
+        "西宮俊明": "賛成",
+        "北堀一廣": "賛成",
+        "松本幾雄": "欠席",
+        "赤沼正副": "賛成",
+        "原徹": "賛成",
+        "谷嶋稔": "賛成",
+        "中西文寿": "賛成",
+        "吉野正浩": "賛成",
+        "井上章": "賛成",
+        "内田敏雄": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
     },
     {
       "place": "滑川町",
@@ -151505,7 +158546,25 @@ GIKAI.coverage2026 = {
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、議案第27号は原案のとおり可決されました」",
       "sourceType": "公式本会議録",
-      "voteNote": "会議録の表決方法の表記は「賛成全員」。"
+      "voteNote": "会議録の表決方法の表記は「賛成全員」。 議会だより No.162の議員別の賛否（〇は賛成 ×は反対 議長は賛否同数の場合のみ採決に参加）。",
+      "votes": {
+        "小澤実": "賛成",
+        "上野葉月": "賛成",
+        "瀬上邦久": "賛成",
+        "阿部弘明": "賛成",
+        "西宮俊明": "賛成",
+        "北堀一廣": "賛成",
+        "松本幾雄": "賛成",
+        "赤沼正副": "賛成",
+        "原徹": "賛成",
+        "谷嶋稔": "賛成",
+        "中西文寿": "賛成",
+        "吉野正浩": "賛成",
+        "井上章": "賛成",
+        "内田敏雄": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/gikaidayori162.pdf#page=2"
     },
     {
       "place": "滑川町",
@@ -151520,7 +158579,25 @@ GIKAI.coverage2026 = {
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、議案第28号は原案のとおり可決されました」",
       "sourceType": "公式本会議録",
-      "voteNote": "会議録の表決方法の表記は「賛成多数」。"
+      "voteNote": "会議録の表決方法の表記は「賛成多数」。 議会だより No.162の議員別の賛否（〇は賛成 ×は反対 議長は賛否同数の場合のみ採決に参加）。",
+      "votes": {
+        "小澤実": "賛成",
+        "上野葉月": "反対",
+        "瀬上邦久": "賛成",
+        "阿部弘明": "反対",
+        "西宮俊明": "賛成",
+        "北堀一廣": "賛成",
+        "松本幾雄": "賛成",
+        "赤沼正副": "賛成",
+        "原徹": "賛成",
+        "谷嶋稔": "賛成",
+        "中西文寿": "賛成",
+        "吉野正浩": "賛成",
+        "井上章": "賛成",
+        "内田敏雄": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/gikaidayori162.pdf#page=2"
     },
     {
       "place": "滑川町",
@@ -151535,7 +158612,25 @@ GIKAI.coverage2026 = {
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、議案第29号は原案のとおり可決されました」",
       "sourceType": "公式本会議録",
-      "voteNote": "会議録の表決方法の表記は「賛成多数」。"
+      "voteNote": "会議録の表決方法の表記は「賛成多数」。 議会だより No.162の議員別の賛否（〇は賛成 ×は反対 議長は賛否同数の場合のみ採決に参加）。",
+      "votes": {
+        "小澤実": "賛成",
+        "上野葉月": "反対",
+        "瀬上邦久": "賛成",
+        "阿部弘明": "賛成",
+        "西宮俊明": "賛成",
+        "北堀一廣": "賛成",
+        "松本幾雄": "賛成",
+        "赤沼正副": "賛成",
+        "原徹": "賛成",
+        "谷嶋稔": "賛成",
+        "中西文寿": "賛成",
+        "吉野正浩": "賛成",
+        "井上章": "賛成",
+        "内田敏雄": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/gikaidayori162.pdf#page=2"
     },
     {
       "place": "嵐山町",
@@ -152357,7 +159452,24 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、本案は否決されました」",
-      "sourceType": "公式本会議録"
+      "sourceType": "公式本会議録",
+      "votes": {
+        "佐藤弘美": "反対",
+        "橋本将": "反対",
+        "宮本大裕": "反対",
+        "小林智": "反対",
+        "藤野和美": "賛成",
+        "吉本秀二": "反対",
+        "森一人": "反対",
+        "青柳賢治": "反対",
+        "畠山美幸": "反対",
+        "川口浩史": "賛成",
+        "渋谷登美子": "賛成",
+        "犾守勝義": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7894/gikaidayori202.pdf#page=4",
+      "voteNote": "議会だより No.202の議員別の賛否（●（賛成）×（反対）。網掛けは討論を行った議員。議長は賛否表明をしない）。"
     },
     {
       "place": "嵐山町",
@@ -152371,7 +159483,24 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、本案は否決されました」",
-      "sourceType": "公式本会議録"
+      "sourceType": "公式本会議録",
+      "votes": {
+        "佐藤弘美": "反対",
+        "橋本将": "賛成",
+        "宮本大裕": "反対",
+        "小林智": "反対",
+        "藤野和美": "賛成",
+        "吉本秀二": "反対",
+        "森一人": "反対",
+        "青柳賢治": "反対",
+        "畠山美幸": "反対",
+        "川口浩史": "賛成",
+        "渋谷登美子": "賛成",
+        "犾守勝義": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7894/gikaidayori202.pdf#page=4",
+      "voteNote": "議会だより No.202の議員別の賛否（●（賛成）×（反対）。網掛けは討論を行った議員。議長は賛否表明をしない）。"
     },
     {
       "place": "嵐山町",
@@ -152385,7 +159514,24 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、本案は否決されました」",
-      "sourceType": "公式本会議録"
+      "sourceType": "公式本会議録",
+      "votes": {
+        "佐藤弘美": "反対",
+        "橋本将": "賛成",
+        "宮本大裕": "反対",
+        "小林智": "反対",
+        "藤野和美": "賛成",
+        "吉本秀二": "反対",
+        "森一人": "反対",
+        "青柳賢治": "反対",
+        "畠山美幸": "反対",
+        "川口浩史": "賛成",
+        "渋谷登美子": "賛成",
+        "犾守勝義": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7894/gikaidayori202.pdf#page=4",
+      "voteNote": "議会だより No.202の議員別の賛否（●（賛成）×（反対）。網掛けは討論を行った議員。議長は賛否表明をしない）。"
     },
     {
       "place": "嵐山町",
@@ -152399,7 +159545,24 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、本案は否決されました」",
-      "sourceType": "公式本会議録"
+      "sourceType": "公式本会議録",
+      "votes": {
+        "佐藤弘美": "反対",
+        "橋本将": "反対",
+        "宮本大裕": "反対",
+        "小林智": "反対",
+        "藤野和美": "賛成",
+        "吉本秀二": "反対",
+        "森一人": "反対",
+        "青柳賢治": "反対",
+        "畠山美幸": "反対",
+        "川口浩史": "賛成",
+        "渋谷登美子": "賛成",
+        "犾守勝義": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7894/gikaidayori202.pdf#page=4",
+      "voteNote": "議会だより No.202の議員別の賛否（●（賛成）×（反対）。網掛けは討論を行った議員。議長は賛否表明をしない）。"
     },
     {
       "place": "嵐山町",
@@ -152413,7 +159576,24 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、本案は否決されました」",
-      "sourceType": "公式本会議録"
+      "sourceType": "公式本会議録",
+      "votes": {
+        "佐藤弘美": "反対",
+        "橋本将": "反対",
+        "宮本大裕": "反対",
+        "小林智": "反対",
+        "藤野和美": "賛成",
+        "吉本秀二": "反対",
+        "森一人": "反対",
+        "青柳賢治": "反対",
+        "畠山美幸": "反対",
+        "川口浩史": "賛成",
+        "渋谷登美子": "賛成",
+        "犾守勝義": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7894/gikaidayori202.pdf#page=4",
+      "voteNote": "議会だより No.202の議員別の賛否（●（賛成）×（反対）。網掛けは討論を行った議員。議長は賛否表明をしない）。"
     },
     {
       "place": "嵐山町",
@@ -152469,7 +159649,24 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
-      "sourceType": "公式本会議録"
+      "sourceType": "公式本会議録",
+      "votes": {
+        "佐藤弘美": "賛成",
+        "橋本将": "反対",
+        "宮本大裕": "賛成",
+        "小林智": "賛成",
+        "藤野和美": "反対",
+        "吉本秀二": "賛成",
+        "森一人": "賛成",
+        "青柳賢治": "賛成",
+        "畠山美幸": "賛成",
+        "川口浩史": "反対",
+        "渋谷登美子": "反対",
+        "犾守勝義": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7894/gikaidayori202.pdf#page=4",
+      "voteNote": "議会だより No.202の議員別の賛否（●（賛成）×（反対）。網掛けは討論を行った議員。議長は賛否表明をしない）。"
     },
     {
       "place": "嵐山町",
@@ -152553,7 +159750,24 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
-      "sourceType": "公式本会議録"
+      "sourceType": "公式本会議録",
+      "votes": {
+        "佐藤弘美": "賛成",
+        "橋本将": "賛成",
+        "宮本大裕": "賛成",
+        "小林智": "賛成",
+        "藤野和美": "反対",
+        "吉本秀二": "賛成",
+        "森一人": "賛成",
+        "青柳賢治": "賛成",
+        "畠山美幸": "賛成",
+        "川口浩史": "反対",
+        "渋谷登美子": "反対",
+        "犾守勝義": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7894/gikaidayori202.pdf#page=4",
+      "voteNote": "議会だより No.202の議員別の賛否（●（賛成）×（反対）。網掛けは討論を行った議員。議長は賛否表明をしない）。"
     },
     {
       "place": "嵐山町",
@@ -152567,7 +159781,24 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
-      "sourceType": "公式本会議録"
+      "sourceType": "公式本会議録",
+      "votes": {
+        "佐藤弘美": "賛成",
+        "橋本将": "賛成",
+        "宮本大裕": "賛成",
+        "小林智": "賛成",
+        "藤野和美": "反対",
+        "吉本秀二": "賛成",
+        "森一人": "賛成",
+        "青柳賢治": "賛成",
+        "畠山美幸": "賛成",
+        "川口浩史": "反対",
+        "渋谷登美子": "反対",
+        "犾守勝義": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7894/gikaidayori202.pdf#page=4",
+      "voteNote": "議会だより No.202の議員別の賛否（●（賛成）×（反対）。網掛けは討論を行った議員。議長は賛否表明をしない）。"
     },
     {
       "place": "嵐山町",
@@ -152595,7 +159826,24 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
-      "sourceType": "公式本会議録"
+      "sourceType": "公式本会議録",
+      "votes": {
+        "佐藤弘美": "賛成",
+        "橋本将": "賛成",
+        "宮本大裕": "賛成",
+        "小林智": "賛成",
+        "藤野和美": "反対",
+        "吉本秀二": "賛成",
+        "森一人": "賛成",
+        "青柳賢治": "賛成",
+        "畠山美幸": "賛成",
+        "川口浩史": "反対",
+        "渋谷登美子": "賛成",
+        "犾守勝義": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7894/gikaidayori202.pdf#page=4",
+      "voteNote": "議会だより No.202の議員別の賛否（●（賛成）×（反対）。網掛けは討論を行った議員。議長は賛否表明をしない）。"
     },
     {
       "place": "嵐山町",
@@ -152609,7 +159857,24 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
-      "sourceType": "公式本会議録"
+      "sourceType": "公式本会議録",
+      "votes": {
+        "佐藤弘美": "賛成",
+        "橋本将": "賛成",
+        "宮本大裕": "賛成",
+        "小林智": "賛成",
+        "藤野和美": "反対",
+        "吉本秀二": "賛成",
+        "森一人": "賛成",
+        "青柳賢治": "賛成",
+        "畠山美幸": "賛成",
+        "川口浩史": "反対",
+        "渋谷登美子": "賛成",
+        "犾守勝義": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7894/gikaidayori202.pdf#page=4",
+      "voteNote": "議会だより No.202の議員別の賛否（●（賛成）×（反対）。網掛けは討論を行った議員。議長は賛否表明をしない）。"
     },
     {
       "place": "嵐山町",
@@ -152623,7 +159888,24 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
-      "sourceType": "公式本会議録"
+      "sourceType": "公式本会議録",
+      "votes": {
+        "佐藤弘美": "賛成",
+        "橋本将": "賛成",
+        "宮本大裕": "賛成",
+        "小林智": "賛成",
+        "藤野和美": "賛成",
+        "吉本秀二": "賛成",
+        "森一人": "賛成",
+        "青柳賢治": "賛成",
+        "畠山美幸": "賛成",
+        "川口浩史": "反対",
+        "渋谷登美子": "賛成",
+        "犾守勝義": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7894/gikaidayori202.pdf#page=4",
+      "voteNote": "議会だより No.202の議員別の賛否（●（賛成）×（反対）。網掛けは討論を行った議員。議長は賛否表明をしない）。"
     },
     {
       "place": "嵐山町",
