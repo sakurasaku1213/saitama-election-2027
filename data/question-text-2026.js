@@ -57209,6 +57209,126 @@ GIKAI.questionText = {
       "url": "https://www.pref.saitama.lg.jp/documents/274057/yosetur8.pdf",
       "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。",
       "speakers": []
+    },
+    {
+      "id": "aa5fe83b4da206ba8de3",
+      "place": "伊奈町",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "伊奈町 第56号議案（令和８年９月定例会）",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-09gi56go.pdf",
+      "note": "年月は提出対象の定例会。公表された冊子・別冊の原本。 照合候補頁２～７頁を原画像と照合。３頁は２か所の文字を訂正（单位→単位、正額→補正額）、７頁は表の段が入れ替わっていたため原画像から書き起こした。",
+      "speakers": []
+    },
+    {
+      "id": "a50a484dad04618cace3",
+      "place": "伊奈町",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "伊奈町 第51号議案（令和8年6月定例会）",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-06gi51go.pdf",
+      "note": "年月は提出対象の定例会。公表された冊子・別冊の原本。 照合候補頁６・７頁を原画像と照合。６頁は１字を訂正（查→査）、７頁は署名欄の行の順が入れ替わっていたため原画像から書き起こした（印影は省略）。",
+      "speakers": []
+    },
+    {
+      "id": "ca1f91eb1c7ba2a9e812",
+      "place": "伊奈町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "伊奈町 第32号議案（令和8年3月定例会）",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-3gi32go.pdf",
+      "note": "年月は提出対象の定例会。公表された冊子・別冊の原本。 照合候補頁２頁（参考資料：令和７年度の第35号議案）を原画像と照合。異体字３か所を訂正し、印影の誤読４行を除いた。",
+      "speakers": []
+    },
+    {
+      "id": "f99ab5372836307fec7f",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "埼玉県 予算案（第1号）",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/283604/r806_yosan.pdf",
+      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。 照合候補頁３頁を原画像と照合（数値・名称とも一致）。",
+      "speakers": []
+    },
+    {
+      "id": "3b81d0b8a246397a5591",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "埼玉県 条例案",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/283604/r806_jourei.pdf",
+      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。 照合候補頁１・２・４・５頁を原画像と照合（数値は一致）。２頁・５頁の誤字各１字を訂正し、４頁は列の順が入れ替わっていたため原画像から書き起こした。縦書きの頁は句読点がOCRで欠けている。",
+      "speakers": []
+    },
+    {
+      "id": "c00fed36c1a371ba06c6",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "埼玉県 予算案",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/287591/r809_yosan.pdf",
+      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。 照合候補頁７～10・14・15頁を原画像と照合（数値は全て一致）。７頁の異体字１字を訂正し、地方債補正の表（10・15頁）は列の読み順が崩れていたため原画像から書き起こした。",
+      "speakers": []
+    },
+    {
+      "id": "1bfc91396269d89f9b48",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "埼玉県 条例案",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/287591/r809_jourei.pdf",
+      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。 照合候補頁１・10・12頁を原画像と照合（数値・地名は一致）。10頁の表は列の読み順が崩れていたため原画像から書き起こし、12頁は表の見出し（川口北警察署・川口市）が町名の列挙に紛れていたため列挙の前に移した。縦書きの頁は句読点がOCRで欠けている。",
+      "speakers": []
+    },
+    {
+      "id": "4e7605eac0591373a34e",
+      "place": "上里町",
+      "season": "fall",
+      "date": "2026-11",
+      "title": "広報かみさと11月号（No.690）・９月定例会で認定した令和７年度決算と、辞職勧告決議を受けた町長の談話（２～６頁）",
+      "url": "https://www.town.kamisato.saitama.jp/secure/15495/2026_11.pdf",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "note": "町の広報11月号の２～６頁。令和７年度歳入歳出決算の報告（９月定例会で認定）と、辞職勧告決議を受けた町長の談話（６頁、見出しは画像のため本文に含まない）。日付は広報の号の年月。原本の頁順で文字層またはOCRを収録。照合候補頁２・５頁は原画像と照合し（数値は全て一致）、異体字１字を訂正、挿絵の文字の誤読３行を除いた。",
+      "speakers": []
+    },
+    {
+      "id": "422688c1b28d3b1c6998",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02",
+      "title": "埼玉県 令和7年度2月補正予算案(第8号ほか)",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/279271/r802yosan_r7hosei.pdf",
+      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。 照合候補頁５・７・８・10・12・13・16・17頁を原画像と照合（数値は全て一致）。異体字等７か所を訂正し、地方債補正の表（12・13頁）は列の読み順が崩れていたため原画像から書き起こした。",
+      "speakers": []
+    },
+    {
+      "id": "b24861799fe277a76db1",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02",
+      "title": "埼玉県 条例案",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/279271/r802jyoureiann.pdf",
+      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。 照合候補頁５・20・23・24・26・32・45頁を原画像と照合。20・32頁は誤字を訂正（屋内総合プール、鶴ケ島市など）。５・23・24・26・45頁は表の欄と数値の対応や改正文の括弧の区切りがOCRで崩れていたため本文を収録せず、該当頁に原PDFを参照する旨を記した。縦書きの頁は句読点がOCRで欠けている。",
+      "speakers": []
     }
   ],
   "coverage": [
@@ -58818,7 +58938,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/council.html?year=2026&council_id=47",
-        "note": "秋の正式会議録は2026年11月26日の年別目録で未確認。公式録画一覧で一般質問11人を確認。秋の補正予算書２点、辞職勧告決議原文、決算審査を踏まえた予算提言書も収録。 公式録画の機械文字起こし一般質問11本を収録。"
+        "note": "秋の正式会議録は2026年11月26日の年別目録で未確認。公式録画一覧で一般質問11人を確認。秋の補正予算書２点、辞職勧告決議原文、決算審査を踏まえた予算提言書も収録。 公式録画の機械文字起こし一般質問11本を収録。 広報かみさと11月号の決算報告と、辞職勧告決議を受けた町長の談話（２～６頁）も収録。"
       }
     },
     {

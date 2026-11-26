@@ -10667,7 +10667,7 @@ GIKAI.coverage2026 = {
         },
         "policy": {
           "state": "partial",
-          "note": "教育長人事の事情聴取と辞職勧告決議、決算審査を踏まえた来年度予算提言を収録。"
+          "note": "教育長人事の事情聴取と辞職勧告決議、決算審査を踏まえた来年度予算提言を収録。 辞職勧告決議の後、町長が広報で給料減額の措置（10月２日可決と記載）を表明した段階を追加。"
         }
       },
       "sources": [
@@ -10686,6 +10686,10 @@ GIKAI.coverage2026 = {
         {
           "label": "９月補正予算書",
           "url": "https://www.town.kamisato.saitama.jp/7708.htm"
+        },
+        {
+          "label": "広報かみさと11月号（No.690）",
+          "url": "https://www.town.kamisato.saitama.jp/secure/15495/2026_11.pdf"
         }
       ]
     },
@@ -15014,9 +15018,9 @@ GIKAI.coverage2026 = {
       "title": "財産の取得について(町立小中学校学習用端末購入)",
       "number": "第51号議案",
       "result": "原案可決",
-      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-6kekka.pdf#page=2",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-06gi51go.pdf#page=1",
       "resultURL": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-6kekka.pdf#page=2",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式議案書の該当頁",
       "voteType": "記名",
       "voteURL": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-6kekka.pdf#page=2",
       "votes": {
@@ -15036,7 +15040,8 @@ GIKAI.coverage2026 = {
         "仲島雄大": "賛成",
         "冨井篤弥": "賛成",
         "川内雅人": "賛成"
-      }
+      },
+      "sourceTitle": "伊奈町議会 第51号議案の提出原文"
     },
     {
       "place": "伊奈町",
@@ -144490,9 +144495,9 @@ GIKAI.coverage2026 = {
       "title": "財産の取得の一部変更について(消防ポンプ自動車(CD-I型))",
       "date": "2026-03-18",
       "result": "原案可決",
-      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-3kekka.pdf#page=4",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-3gi32go.pdf#page=1",
       "resultURL": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-3kekka.pdf#page=4",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式議案書の該当頁",
       "voteType": "記名",
       "voteURL": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-3kekka.pdf#page=4",
       "votes": {
@@ -144512,7 +144517,8 @@ GIKAI.coverage2026 = {
         "仲島雄大": "賛成",
         "冨井篤弥": "賛成",
         "川内雅人": "賛成"
-      }
+      },
+      "sourceTitle": "伊奈町議会 第32号議案の提出原文"
     },
     {
       "place": "伊奈町",
@@ -144871,9 +144877,9 @@ GIKAI.coverage2026 = {
       "title": "令和8年度伊奈町中部特定土地区画整理事業特別会計補正予算(第1号)",
       "date": "2026-09-16",
       "result": "原案可決",
-      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-9kekka.pdf#page=1",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-09gi56go.pdf#page=1",
       "resultURL": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-9kekka.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式議案書の該当頁",
       "voteType": "記名",
       "voteURL": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-9kekka.pdf#page=1",
       "votes": {
@@ -144893,7 +144899,8 @@ GIKAI.coverage2026 = {
         "仲島雄大": "賛成",
         "冨井篤弥": "賛成",
         "川内雅人": "賛成"
-      }
+      },
+      "sourceTitle": "伊奈町議会 第56号議案の提出原文"
     },
     {
       "place": "伊奈町",
