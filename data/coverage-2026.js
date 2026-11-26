@@ -3687,7 +3687,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "partial",
-          "note": "議会だよりの一般質問22人27問答、常任委員会と予算決算分科会の25問答を収録。一般質問４日・22人の公式録画と照合。正式会議録は確認中。 公式録画の機械文字起こし一般質問3本を収録。"
+          "note": "議会だよりの一般質問22人27問答、常任委員会と予算決算分科会の25問答を収録。一般質問４日・22人の公式録画と照合。正式会議録は確認中。 公式録画の機械文字起こし一般質問3本・議案質疑・審議3本を収録。"
         },
         "decisions": {
           "state": "verified",
@@ -7075,7 +7075,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "partial",
-          "note": "第211号の一般質問14人・17主題・26問答と、委員会・決算の17問答、討論14件などを原紙面と照合。一般質問通告23頁と議案質疑通告21頁、９月16～18日の公式録画14人。正式会議録は議会だより第211号によると12月上旬提供予定。 公式録画の機械文字起こし一般質問12本を収録。"
+          "note": "第211号の一般質問14人・17主題・26問答と、委員会・決算の17問答、討論14件などを原紙面と照合。一般質問通告23頁と議案質疑通告21頁、９月16～18日の公式録画14人。正式会議録は議会だより第211号によると12月上旬提供予定。 公式録画の機械文字起こし一般質問13本を収録。"
         },
         "decisions": {
           "state": "verified",
@@ -10811,7 +10811,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "partial",
-          "note": "公式録画一覧で一般質問12人を確認。議会だよりの質問・答弁要旨も収録。正式会議録は確認中。 公式録画の機械文字起こし一般質問12本・議事12本を収録。 公式通告は12人・28頁。"
+          "note": "公式録画一覧で一般質問12人を確認。議会だよりの質問・答弁要旨も収録。正式会議録は確認中。 公式録画の機械文字起こし一般質問12本・議事13本を収録。 公式通告は12人・28頁。"
         },
         "decisions": {
           "state": "verified",
@@ -143974,9 +143974,9 @@ GIKAI.coverage2026 = {
       "title": "令和8年度伊奈町中部特定土地区画整理事業特別会計予算",
       "date": "2026-03-18",
       "result": "原案可決",
-      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-3kekka.pdf#page=2",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-3gi16go.pdf#page=3",
       "resultURL": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-3kekka.pdf#page=2",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式議案書の該当頁",
       "voteType": "記名",
       "voteURL": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-3kekka.pdf#page=2",
       "votes": {
@@ -143996,7 +143996,8 @@ GIKAI.coverage2026 = {
         "仲島雄大": "賛成",
         "冨井篤弥": "賛成",
         "川内雅人": "賛成"
-      }
+      },
+      "sourceTitle": "伊奈町議会 第16号議案の提出原文"
     },
     {
       "place": "伊奈町",
@@ -144006,9 +144007,9 @@ GIKAI.coverage2026 = {
       "title": "令和8年度伊奈町介護保険特別会計予算",
       "date": "2026-03-18",
       "result": "原案可決",
-      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-3kekka.pdf#page=2",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-3gi17go.pdf#page=3",
       "resultURL": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-3kekka.pdf#page=2",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式議案書の該当頁",
       "voteType": "記名",
       "voteURL": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-3kekka.pdf#page=2",
       "votes": {
@@ -144028,7 +144029,8 @@ GIKAI.coverage2026 = {
         "仲島雄大": "賛成",
         "冨井篤弥": "賛成",
         "川内雅人": "賛成"
-      }
+      },
+      "sourceTitle": "伊奈町議会 第17号議案の提出原文"
     },
     {
       "place": "伊奈町",
@@ -147354,7 +147356,7 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
-      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、〇賛成・●反対）。表中の「-」は欠席として収録（表題の注記「議長及び欠席議員を除く」による）。"
+      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、〇賛成・●反対）。表中の「-」は欠席（議決日の本会議録の欠席議員欄と一致）。"
     },
     {
       "place": "加須市",
@@ -147396,7 +147398,7 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
-      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、〇賛成・●反対）。表中の「-」は欠席として収録（表題の注記「議長及び欠席議員を除く」による）。"
+      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、〇賛成・●反対）。表中の「-」は欠席（議決日の本会議録の欠席議員欄と一致）。"
     },
     {
       "place": "加須市",
@@ -147453,7 +147455,7 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
-      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、〇賛成・●反対）。表中の「-」は欠席として収録（表題の注記「議長及び欠席議員を除く」による）。"
+      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、〇賛成・●反対）。表中の「-」は欠席（議決日の本会議録の欠席議員欄と一致）。"
     },
     {
       "place": "加須市",
@@ -147495,7 +147497,7 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
-      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、〇賛成・●反対）。表中の「-」は欠席として収録（表題の注記「議長及び欠席議員を除く」による）。"
+      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、〇賛成・●反対）。表中の「-」は欠席（議決日の本会議録の欠席議員欄と一致）。"
     },
     {
       "place": "加須市",
@@ -147537,7 +147539,7 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
-      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、〇賛成・●反対）。表中の「-」は欠席として収録（表題の注記「議長及び欠席議員を除く」による）。"
+      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、〇賛成・●反対）。表中の「-」は欠席（議決日の本会議録の欠席議員欄と一致）。"
     },
     {
       "place": "加須市",
@@ -147609,7 +147611,7 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
-      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、〇賛成・●反対）。表中の「-」は欠席として収録（表題の注記「議長及び欠席議員を除く」による）。"
+      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、〇賛成・●反対）。表中の「-」は欠席（議決日の本会議録の欠席議員欄と一致）。"
     },
     {
       "place": "加須市",
@@ -147756,7 +147758,7 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
-      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、〇賛成・●反対）。表中の「-」は欠席として収録（表題の注記「議長及び欠席議員を除く」による）。"
+      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、〇賛成・●反対）。表中の「-」は欠席（議決日の本会議録の欠席議員欄と一致）。"
     },
     {
       "place": "加須市",
@@ -147798,7 +147800,7 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
-      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、〇賛成・●反対）。表中の「-」は欠席として収録（表題の注記「議長及び欠席議員を除く」による）。"
+      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、〇賛成・●反対）。表中の「-」は欠席（議決日の本会議録の欠席議員欄と一致）。"
     },
     {
       "place": "加須市",
@@ -147885,7 +147887,7 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
-      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、〇賛成・●反対）。表中の「-」は欠席として収録（表題の注記「議長及び欠席議員を除く」による）。"
+      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、〇賛成・●反対）。表中の「-」は欠席（議決日の本会議録の欠席議員欄と一致）。"
     },
     {
       "place": "加須市",
@@ -148017,7 +148019,7 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
-      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、〇賛成・●反対）。表中の「-」は欠席として収録（表題の注記「議長及び欠席議員を除く」による）。"
+      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、〇賛成・●反対）。表中の「-」は欠席（議決日の本会議録の欠席議員欄と一致）。"
     },
     {
       "place": "加須市",
@@ -148358,7 +148360,7 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
-      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、〇賛成・●反対）。表中の「-」は欠席として収録（表題の注記「議長及び欠席議員を除く」による）。"
+      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、〇賛成・●反対）。表中の「-」は欠席（議決日の本会議録の欠席議員欄と一致）。"
     },
     {
       "place": "加須市",
@@ -148399,7 +148401,7 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
-      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、〇賛成・●反対）。表中の「-」は欠席として収録（表題の注記「議長及び欠席議員を除く」による）。"
+      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、〇賛成・●反対）。表中の「-」は欠席（議決日の本会議録の欠席議員欄と一致）。"
     },
     {
       "place": "加須市",
@@ -148440,7 +148442,7 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
-      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、〇賛成・●反対）。表中の「-」は欠席として収録（表題の注記「議長及び欠席議員を除く」による）。「趣旨」は請願の趣旨採択に賛成の立場（表の注記による）。"
+      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、〇賛成・●反対）。表中の「-」は欠席（議決日の本会議録の欠席議員欄と一致）。「趣旨」は請願の趣旨採択に賛成の立場（表の注記による）。"
     },
     {
       "place": "加須市",
@@ -148481,7 +148483,7 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
-      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、〇賛成・●反対）。表中の「-」は欠席として収録（表題の注記「議長及び欠席議員を除く」による）。"
+      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、〇賛成・●反対）。表中の「-」は欠席（議決日の本会議録の欠席議員欄と一致）。"
     },
     {
       "place": "加須市",

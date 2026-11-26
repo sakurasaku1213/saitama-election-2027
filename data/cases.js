@@ -1837,10 +1837,14 @@ GIKAI.cases.push(
         "date": "2026-03-18",
         "actor": "伊奈町議会",
         "stage": "本会議で第30号議案を原案可決",
-        "detail": "本会議録によると、第31号・第32号議案と一括して起立全員で原案可決した。議決原表では議長を除く15人が賛成。",
-        "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-3kekka.pdf#page=4",
-        "sourceTitle": "伊奈町議会 ３月定例会の議決・記名表決原表４頁",
-        "billNumber": "第30号議案"
+        "detail": "第30号議案を第31号・第32号議案と一括して採決し、起立全員で原案のとおり可決した。",
+        "url": "https://ssp.kaigiroku.net/tenant/inamachi/SpMinuteView.html?tenant_id=218&council_id=451&schedule_id=7",
+        "sourceTitle": "伊奈町議会・2026-03-18 本会議録（採決）",
+        "archiveId": "7d9fc6d0b06e03a42c95",
+        "blocks": [
+          49,
+          50
+        ]
       },
       {
         "date": "2026-06-04",
@@ -24317,6 +24321,7 @@ GIKAI.cases.push(...[
         "sourceTitle": "鶴ヶ島市議会・2026-03-06 予算決算常任委員会会議録",
         "archiveId": "0eec95e536277a83f572",
         "blocks": [
+          6,
           559,
           562
         ]
@@ -24622,9 +24627,10 @@ GIKAI.cases.push(...[
         "actor": "杉戸町議会",
         "detail": "反対・賛成の討論はなく、議案第34号　令和８年度杉戸町一般会計補正予算（第２号）を起立全員で原案のとおり可決した。訓練委託料を含む防災活動事業3,208万円が計上されている。",
         "url": "https://ssp.kaigiroku.net/tenant/sugito/SpMinuteView.html?tenant_id=78&council_id=266&schedule_id=6",
-        "sourceTitle": "杉戸町議会・2026-06-12 本会議録（採決）",
+        "sourceTitle": "杉戸町議会・2026-06-12 本会議録（質疑・採決）",
         "archiveId": "daf3e5441949ee26e9b8",
         "blocks": [
+          145,
           179
         ]
       },
@@ -24845,6 +24851,7 @@ GIKAI.cases.push(...[
         "sourceTitle": "松伏町議会・2026-06-15 本会議録（採決）",
         "archiveId": "0500ddc74cfc004da29f",
         "blocks": [
+          83,
           126
         ]
       },
@@ -26673,6 +26680,7 @@ GIKAI.cases.push(...[
         "sourceTitle": "飯能市議会・2026-09-09 本会議録（議案質疑）",
         "archiveId": "bb4b0d693d7123baad4d",
         "blocks": [
+          14,
           20,
           28
         ],

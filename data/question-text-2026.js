@@ -57099,6 +57099,116 @@ GIKAI.questionText = {
       "speakers": [
         "戸田馨"
       ]
+    },
+    {
+      "id": "7ef7b0d37cf257bc2f7a",
+      "place": "越谷市",
+      "season": "fall",
+      "date": "2026-09-11",
+      "title": "本会議　議案質疑（第56～101号）（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://koshigaya.gijiroku.com/g07_Video_View.asp?SrchID=2493",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 本会議の通し録画のため、発言者と発言区間は原映像でご確認ください。 公式録画目録の内容：議案審議市長提出第56号議案〜第101号議案の一括上程市長提出第56号議案〜第59号議案の質疑、委員会付託省略市長提出第60号議案〜第77号議案の質疑市長提出第78号議案の質疑（工藤秀次議員）（白川秀嗣議員）市長提出第79号議案の質疑（立澤貴明議員）市長提出第80号議案〜第84号議案の質疑市長提出第85号議案の質疑（武藤智議員）市長提出第86号議案〜第101号議案の質疑市長提出第60号議案〜第101号議案の委員会付託。",
+      "speakers": []
+    },
+    {
+      "id": "5f89cb39ac641d05a4fe",
+      "place": "越谷市",
+      "season": "fall",
+      "date": "2026-09-28",
+      "title": "本会議　議員提出第２号の審議（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://koshigaya.gijiroku.com/g07_Video_View.asp?SrchID=2533",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 本会議の通し録画のため、発言者と発言区間は原映像でご確認ください。 公式録画目録の内容：議案審議議員提出第2号議案の上程◇提案理由の説明（工藤秀次議員）議員提出第2号議案の質疑、委員会付託省略議員提出第2号議案の討論、採決。",
+      "speakers": []
+    },
+    {
+      "id": "8fb63b0a26bdeb924d01",
+      "place": "越谷市",
+      "season": "fall",
+      "date": "2026-09-28",
+      "title": "本会議　議員提出第３号の審議（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://koshigaya.gijiroku.com/g07_Video_View.asp?SrchID=2534",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 本会議の通し録画のため、発言者と発言区間は原映像でご確認ください。 公式録画目録の内容：議案審議議員提出第3号議案の上程◇提案理由の説明（大田ちひろ議員）議員提出第3号議案の質疑（小林成好議員）（伊藤治議員）委員会付託省略議員提出第3号議案の討論、採決。",
+      "speakers": []
+    },
+    {
+      "id": "328c8392f7765709c8fd",
+      "place": "寄居町",
+      "season": "fall",
+      "date": "2026-09-14",
+      "title": "本会議　議案審議（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/speech.html?council_id=39&schedule_id=1&playlist_id=1&speaker_id=0&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 当日の本会議の議事録画。分割された録画を含む。発言者と発言区間は原映像でご確認ください。 自動検査の確認候補時間帯を含みます。",
+      "speakers": []
+    },
+    {
+      "id": "c29c3048e275b930f6e6",
+      "place": "吉川市",
+      "season": "fall",
+      "date": "2026-09-17",
+      "title": "飯島正義議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://yoshikawa.gijiroku.com/g07_Video_View.asp?SrchID=1267",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "飯島正義"
+      ]
+    },
+    {
+      "id": "d8a9891d5942d3fd6745",
+      "place": "伊奈町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "伊奈町 第16号議案（令和8年3月定例会）",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-3gi16go.pdf",
+      "note": "年月は提出対象の定例会。公表された冊子・別冊の原本。",
+      "speakers": []
+    },
+    {
+      "id": "2d4d4aa41df1f5cbcea7",
+      "place": "伊奈町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "伊奈町 第17号議案（令和8年3月定例会）",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-3gi17go.pdf",
+      "note": "年月は提出対象の定例会。公表された冊子・別冊の原本。",
+      "speakers": []
+    },
+    {
+      "id": "bc9c5549ba204f55da47",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02",
+      "title": "埼玉県議会定例会議案（予算）（案）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/274057/gianr8.pdf",
+      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。",
+      "speakers": []
+    },
+    {
+      "id": "7df956cb0f1aae55c175",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02",
+      "title": "埼玉県議会提出予算説明書（案）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/274057/yosetur8.pdf",
+      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。",
+      "speakers": []
     }
   ],
   "coverage": [
@@ -57636,7 +57746,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://www.city.koshigaya.saitama.jp/gikai/dayori/2026/234-6-7.html",
-        "note": "議会だよりの一般質問22人27問答、常任委員会と予算決算分科会の25問答を収録。一般質問４日・22人の公式録画と照合。正式会議録は確認中。 公式録画の機械文字起こし一般質問3本を収録。"
+        "note": "議会だよりの一般質問22人27問答、常任委員会と予算決算分科会の25問答を収録。一般質問４日・22人の公式録画と照合。正式会議録は確認中。 公式録画の機械文字起こし一般質問3本・議案質疑・審議3本を収録。"
       }
     },
     {
@@ -58148,7 +58258,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "第211号の一般質問14人・17主題・26問答と、委員会・決算の17問答、討論14件などを原紙面と照合。一般質問通告23頁と議案質疑通告21頁、９月16～18日の公式録画14人。正式会議録は議会だより第211号によると12月上旬提供予定。 公式録画の機械文字起こし一般質問12本を収録。",
+        "note": "第211号の一般質問14人・17主題・26問答と、委員会・決算の17問答、討論14件などを原紙面と照合。一般質問通告23頁と議案質疑通告21頁、９月16～18日の公式録画14人。正式会議録は議会だより第211号によると12月上旬提供予定。 公式録画の機械文字起こし一般質問13本を収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/yoshikawa/SpMinuteBrowse.html?tenant_id=230&view_years=2026"
       }
     },
@@ -58735,7 +58845,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/council.html?year=2026&council_id=39",
-        "note": "公式録画一覧で一般質問12人を確認。議会だよりの質問・答弁要旨も収録。正式会議録は確認中。 公式録画の機械文字起こし一般質問12本・議事12本を収録。 公式通告は12人・28頁。"
+        "note": "公式録画一覧で一般質問12人を確認。議会だよりの質問・答弁要旨も収録。正式会議録は確認中。 公式録画の機械文字起こし一般質問12本・議事13本を収録。 公式通告は12人・28頁。"
       }
     },
     {
