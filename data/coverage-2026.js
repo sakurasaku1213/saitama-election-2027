@@ -24630,7 +24630,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
-      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。",
+      "date": "2026-03-06",
+      "dateSource": "議決日は公式本会議録（3月6日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "皆野町",
@@ -24658,7 +24660,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
-      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。",
+      "date": "2026-03-06",
+      "dateSource": "議決日は公式本会議録（3月6日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "皆野町",
@@ -24686,7 +24690,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
-      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。",
+      "date": "2026-03-06",
+      "dateSource": "議決日は公式本会議録（3月6日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "皆野町",
@@ -24714,7 +24720,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
-      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。",
+      "date": "2026-03-06",
+      "dateSource": "議決日は公式本会議録（3月6日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "皆野町",
@@ -24742,7 +24750,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
-      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。",
+      "date": "2026-03-06",
+      "dateSource": "議決日は公式本会議録（3月6日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "皆野町",
@@ -24770,7 +24780,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
-      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。",
+      "date": "2026-03-06",
+      "dateSource": "議決日は公式本会議録（3月6日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "皆野町",
@@ -24798,7 +24810,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
-      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。",
+      "date": "2026-03-06",
+      "dateSource": "議決日は公式本会議録（3月6日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "皆野町",
@@ -24826,7 +24840,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
-      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。",
+      "date": "2026-03-06",
+      "dateSource": "議決日は公式本会議録（3月6日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "皆野町",
@@ -24854,7 +24870,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
-      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。",
+      "date": "2026-03-06",
+      "dateSource": "議決日は公式本会議録（3月6日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "皆野町",
@@ -24882,7 +24900,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
-      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。",
+      "date": "2026-03-06",
+      "dateSource": "議決日は公式本会議録（3月6日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "皆野町",
@@ -24910,7 +24930,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
-      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。",
+      "date": "2026-03-06",
+      "dateSource": "議決日は公式本会議録（3月6日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "皆野町",
@@ -24938,7 +24960,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
-      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。",
+      "date": "2026-03-06",
+      "dateSource": "議決日は公式本会議録（3月6日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "皆野町",
@@ -24966,7 +24990,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
-      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。",
+      "date": "2026-03-06",
+      "dateSource": "議決日は公式本会議録（3月6日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "皆野町",
@@ -24994,7 +25020,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
-      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。",
+      "date": "2026-03-06",
+      "dateSource": "議決日は公式本会議録（3月6日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "皆野町",
@@ -25022,7 +25050,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
-      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。",
+      "date": "2026-03-06",
+      "dateSource": "議決日は公式本会議録（3月6日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "皆野町",
@@ -25050,7 +25080,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
-      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。",
+      "date": "2026-03-06",
+      "dateSource": "議決日は公式本会議録（3月6日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "皆野町",
@@ -25078,7 +25110,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
-      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。",
+      "date": "2026-03-09",
+      "dateSource": "議決日は公式本会議録（3月9日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "皆野町",
@@ -25106,7 +25140,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
-      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。",
+      "date": "2026-03-10",
+      "dateSource": "議決日は公式本会議録（3月10日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "皆野町",
@@ -25134,7 +25170,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
-      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。",
+      "date": "2026-03-10",
+      "dateSource": "議決日は公式本会議録（3月10日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "皆野町",
@@ -25162,7 +25200,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
-      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。",
+      "date": "2026-03-10",
+      "dateSource": "議決日は公式本会議録（3月10日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "皆野町",
@@ -25190,7 +25230,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
-      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。",
+      "date": "2026-03-10",
+      "dateSource": "議決日は公式本会議録（3月10日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "皆野町",
@@ -25218,7 +25260,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
-      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。",
+      "date": "2026-03-10",
+      "dateSource": "議決日は公式本会議録（3月10日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "皆野町",
@@ -25246,7 +25290,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
-      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。",
+      "date": "2026-03-10",
+      "dateSource": "議決日は公式本会議録（3月10日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "皆野町",
@@ -25274,7 +25320,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
-      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。",
+      "date": "2026-03-10",
+      "dateSource": "議決日は公式本会議録（3月10日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "皆野町",
@@ -25302,7 +25350,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
-      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。",
+      "date": "2026-03-10",
+      "dateSource": "議決日は公式本会議録（3月10日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "皆野町",
@@ -25330,7 +25380,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2012/05/bf605710cdfc8e94a868a6f06af1bf9e.pdf#page=5",
-      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
+      "voteNote": "議会だより No.57の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。",
+      "date": "2026-03-10",
+      "dateSource": "議決日は公式本会議録（3月10日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "皆野町",
@@ -25387,7 +25439,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/444d68095e7ac4022e19a7a99e18b9bb.pdf#page=3",
-      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
+      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。",
+      "date": "2026-06-10",
+      "dateSource": "議決日は公式本会議録（6月10日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "皆野町",
@@ -25415,7 +25469,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/444d68095e7ac4022e19a7a99e18b9bb.pdf#page=3",
-      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
+      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。",
+      "date": "2026-06-10",
+      "dateSource": "議決日は公式本会議録（6月10日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "皆野町",
@@ -25443,7 +25499,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/444d68095e7ac4022e19a7a99e18b9bb.pdf#page=3",
-      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
+      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。",
+      "date": "2026-06-10",
+      "dateSource": "議決日は公式本会議録（6月10日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "皆野町",
@@ -25471,7 +25529,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/444d68095e7ac4022e19a7a99e18b9bb.pdf#page=3",
-      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
+      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。",
+      "date": "2026-06-10",
+      "dateSource": "議決日は公式本会議録（6月10日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "皆野町",
@@ -25499,7 +25559,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/444d68095e7ac4022e19a7a99e18b9bb.pdf#page=3",
-      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
+      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。",
+      "date": "2026-06-10",
+      "dateSource": "議決日は公式本会議録（6月10日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "皆野町",
@@ -25527,7 +25589,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/444d68095e7ac4022e19a7a99e18b9bb.pdf#page=3",
-      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
+      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。",
+      "date": "2026-06-11",
+      "dateSource": "議決日は公式本会議録（6月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "皆野町",
@@ -25555,7 +25619,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/444d68095e7ac4022e19a7a99e18b9bb.pdf#page=3",
-      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
+      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。",
+      "date": "2026-06-11",
+      "dateSource": "議決日は公式本会議録（6月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "皆野町",
@@ -25583,7 +25649,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/444d68095e7ac4022e19a7a99e18b9bb.pdf#page=3",
-      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
+      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。",
+      "date": "2026-06-11",
+      "dateSource": "議決日は公式本会議録（6月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "皆野町",
@@ -25611,7 +25679,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/444d68095e7ac4022e19a7a99e18b9bb.pdf#page=3",
-      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
+      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。",
+      "date": "2026-06-11",
+      "dateSource": "議決日は公式本会議録（6月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "皆野町",
@@ -25639,7 +25709,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/444d68095e7ac4022e19a7a99e18b9bb.pdf#page=3",
-      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
+      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。",
+      "date": "2026-06-11",
+      "dateSource": "議決日は公式本会議録（6月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "皆野町",
@@ -25667,7 +25739,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/444d68095e7ac4022e19a7a99e18b9bb.pdf#page=3",
-      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
+      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。",
+      "date": "2026-06-11",
+      "dateSource": "議決日は公式本会議録（6月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "皆野町",
@@ -25695,7 +25769,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/444d68095e7ac4022e19a7a99e18b9bb.pdf#page=3",
-      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
+      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。",
+      "date": "2026-06-11",
+      "dateSource": "議決日は公式本会議録（6月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "皆野町",
@@ -25723,7 +25799,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/444d68095e7ac4022e19a7a99e18b9bb.pdf#page=3",
-      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
+      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。",
+      "date": "2026-06-11",
+      "dateSource": "議決日は公式本会議録（6月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "皆野町",
@@ -25751,7 +25829,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/444d68095e7ac4022e19a7a99e18b9bb.pdf#page=3",
-      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
+      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。",
+      "date": "2026-06-11",
+      "dateSource": "議決日は公式本会議録（6月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "皆野町",
@@ -25779,7 +25859,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/444d68095e7ac4022e19a7a99e18b9bb.pdf#page=3",
-      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
+      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。",
+      "date": "2026-06-11",
+      "dateSource": "議決日は公式本会議録（6月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "皆野町",
@@ -25807,7 +25889,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/444d68095e7ac4022e19a7a99e18b9bb.pdf#page=3",
-      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
+      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。",
+      "date": "2026-06-11",
+      "dateSource": "議決日は公式本会議録（6月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "皆野町",
@@ -25835,7 +25919,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/444d68095e7ac4022e19a7a99e18b9bb.pdf#page=3",
-      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。"
+      "voteNote": "議会だより No.58の議員別の賛否（○:賛成 ×:反対 議長は賛否同数の場合のみ参加）。",
+      "date": "2026-06-11",
+      "dateSource": "議決日は公式本会議録（6月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "皆野町",
@@ -157705,7 +157791,9 @@ GIKAI.coverage2026 = {
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/04/No.150.pdf#page=5",
       "voteNote": "個別の日付は原表に記載なし。",
-      "proposer": "横瀬町長"
+      "proposer": "横瀬町長",
+      "date": "2026-03-06",
+      "dateSource": "議決日は公式本会議録（3月6日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "横瀬町",
@@ -157733,7 +157821,9 @@ GIKAI.coverage2026 = {
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/04/No.150.pdf#page=5",
       "voteNote": "個別の日付は原表に記載なし。",
-      "proposer": "横瀬町長"
+      "proposer": "横瀬町長",
+      "date": "2026-03-06",
+      "dateSource": "議決日は公式本会議録（3月6日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "横瀬町",
@@ -157761,7 +157851,9 @@ GIKAI.coverage2026 = {
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/04/No.150.pdf#page=5",
       "voteNote": "個別の日付は原表に記載なし。",
-      "proposer": "横瀬町長"
+      "proposer": "横瀬町長",
+      "date": "2026-03-06",
+      "dateSource": "議決日は公式本会議録（3月6日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "横瀬町",
@@ -157789,7 +157881,9 @@ GIKAI.coverage2026 = {
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/04/No.150.pdf#page=5",
       "voteNote": "個別の日付は原表に記載なし。",
-      "proposer": "横瀬町長"
+      "proposer": "横瀬町長",
+      "date": "2026-03-06",
+      "dateSource": "議決日は公式本会議録（3月6日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "横瀬町",
@@ -157817,7 +157911,9 @@ GIKAI.coverage2026 = {
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/04/No.150.pdf#page=5",
       "voteNote": "個別の日付は原表に記載なし。",
-      "proposer": "横瀬町長"
+      "proposer": "横瀬町長",
+      "date": "2026-03-06",
+      "dateSource": "議決日は公式本会議録（3月6日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "横瀬町",
@@ -157845,7 +157941,9 @@ GIKAI.coverage2026 = {
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/04/No.150.pdf#page=5",
       "voteNote": "個別の日付は原表に記載なし。",
-      "proposer": "横瀬町長"
+      "proposer": "横瀬町長",
+      "date": "2026-03-06",
+      "dateSource": "議決日は公式本会議録（3月6日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "横瀬町",
@@ -157873,7 +157971,9 @@ GIKAI.coverage2026 = {
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/04/No.150.pdf#page=5",
       "voteNote": "個別の日付は原表に記載なし。",
-      "proposer": "横瀬町長"
+      "proposer": "横瀬町長",
+      "date": "2026-03-09",
+      "dateSource": "議決日は公式本会議録（3月9日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "横瀬町",
@@ -157901,7 +158001,9 @@ GIKAI.coverage2026 = {
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/04/No.150.pdf#page=5",
       "voteNote": "個別の日付は原表に記載なし。",
-      "proposer": "横瀬町長"
+      "proposer": "横瀬町長",
+      "date": "2026-03-09",
+      "dateSource": "議決日は公式本会議録（3月9日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "横瀬町",
@@ -157929,7 +158031,9 @@ GIKAI.coverage2026 = {
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/04/No.150.pdf#page=5",
       "voteNote": "個別の日付は原表に記載なし。",
-      "proposer": "横瀬町長"
+      "proposer": "横瀬町長",
+      "date": "2026-03-09",
+      "dateSource": "議決日は公式本会議録（3月9日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "横瀬町",
@@ -157957,7 +158061,9 @@ GIKAI.coverage2026 = {
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/04/No.150.pdf#page=5",
       "voteNote": "個別の日付は原表に記載なし。",
-      "proposer": "横瀬町長"
+      "proposer": "横瀬町長",
+      "date": "2026-03-09",
+      "dateSource": "議決日は公式本会議録（3月9日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "横瀬町",
@@ -157985,7 +158091,9 @@ GIKAI.coverage2026 = {
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/04/No.150.pdf#page=5",
       "voteNote": "個別の日付は原表に記載なし。",
-      "proposer": "横瀬町長"
+      "proposer": "横瀬町長",
+      "date": "2026-03-09",
+      "dateSource": "議決日は公式本会議録（3月9日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "横瀬町",
@@ -158013,7 +158121,9 @@ GIKAI.coverage2026 = {
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/04/No.150.pdf#page=5",
       "voteNote": "個別の日付は原表に記載なし。",
-      "proposer": "横瀬町長"
+      "proposer": "横瀬町長",
+      "date": "2026-03-09",
+      "dateSource": "議決日は公式本会議録（3月9日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "横瀬町",
@@ -158041,7 +158151,9 @@ GIKAI.coverage2026 = {
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/04/No.150.pdf#page=5",
       "voteNote": "個別の日付は原表に記載なし。",
-      "proposer": "横瀬町長"
+      "proposer": "横瀬町長",
+      "date": "2026-03-09",
+      "dateSource": "議決日は公式本会議録（3月9日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "横瀬町",
@@ -158069,7 +158181,9 @@ GIKAI.coverage2026 = {
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/04/No.150.pdf#page=5",
       "voteNote": "個別の日付は原表に記載なし。",
-      "proposer": "横瀬町長"
+      "proposer": "横瀬町長",
+      "date": "2026-03-09",
+      "dateSource": "議決日は公式本会議録（3月9日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "横瀬町",
@@ -158097,7 +158211,9 @@ GIKAI.coverage2026 = {
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/04/No.150.pdf#page=5",
       "voteNote": "個別の日付は原表に記載なし。",
-      "proposer": "横瀬町長"
+      "proposer": "横瀬町長",
+      "date": "2026-03-09",
+      "dateSource": "議決日は公式本会議録（3月9日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "横瀬町",
@@ -158125,7 +158241,9 @@ GIKAI.coverage2026 = {
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/04/No.150.pdf#page=5",
       "voteNote": "個別の日付は原表に記載なし。",
-      "proposer": "横瀬町長"
+      "proposer": "横瀬町長",
+      "date": "2026-03-09",
+      "dateSource": "議決日は公式本会議録（3月9日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "横瀬町",
@@ -158153,7 +158271,9 @@ GIKAI.coverage2026 = {
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/04/No.150.pdf#page=5",
       "voteNote": "個別の日付は原表に記載なし。",
-      "proposer": "横瀬町長"
+      "proposer": "横瀬町長",
+      "date": "2026-03-09",
+      "dateSource": "議決日は公式本会議録（3月9日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "横瀬町",
@@ -158181,7 +158301,9 @@ GIKAI.coverage2026 = {
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/04/No.150.pdf#page=5",
       "voteNote": "個別の日付は原表に記載なし。",
-      "proposer": "横瀬町長"
+      "proposer": "横瀬町長",
+      "date": "2026-03-10",
+      "dateSource": "議決日は公式本会議録（3月10日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "横瀬町",
@@ -158209,7 +158331,9 @@ GIKAI.coverage2026 = {
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/04/No.150.pdf#page=5",
       "voteNote": "個別の日付は原表に記載なし。",
-      "proposer": "横瀬町長"
+      "proposer": "横瀬町長",
+      "date": "2026-03-10",
+      "dateSource": "議決日は公式本会議録（3月10日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "横瀬町",
@@ -158237,7 +158361,9 @@ GIKAI.coverage2026 = {
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/04/No.150.pdf#page=5",
       "voteNote": "個別の日付は原表に記載なし。",
-      "proposer": "横瀬町長"
+      "proposer": "横瀬町長",
+      "date": "2026-03-10",
+      "dateSource": "議決日は公式本会議録（3月10日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "横瀬町",
@@ -158265,7 +158391,9 @@ GIKAI.coverage2026 = {
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/04/No.150.pdf#page=5",
       "voteNote": "個別の日付は原表に記載なし。",
-      "proposer": "横瀬町長"
+      "proposer": "横瀬町長",
+      "date": "2026-03-10",
+      "dateSource": "議決日は公式本会議録（3月10日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "横瀬町",
@@ -158293,7 +158421,9 @@ GIKAI.coverage2026 = {
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/04/No.150.pdf#page=5",
       "voteNote": "個別の日付は原表に記載なし。",
-      "proposer": "横瀬町長"
+      "proposer": "横瀬町長",
+      "date": "2026-03-10",
+      "dateSource": "議決日は公式本会議録（3月10日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "横瀬町",
@@ -158321,7 +158451,9 @@ GIKAI.coverage2026 = {
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/04/No.150.pdf#page=5",
       "voteNote": "個別の日付は原表に記載なし。",
-      "proposer": "横瀬町長"
+      "proposer": "横瀬町長",
+      "date": "2026-03-10",
+      "dateSource": "議決日は公式本会議録（3月10日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "横瀬町",
@@ -158348,7 +158480,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/04/No.150.pdf#page=5",
-      "voteNote": "個別の日付は原表に記載なし。"
+      "voteNote": "個別の日付は原表に記載なし。",
+      "date": "2026-03-10",
+      "dateSource": "議決日は公式本会議録（3月10日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "横瀬町",
@@ -158484,7 +158618,9 @@ GIKAI.coverage2026 = {
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/09/KC0727▶HP用_横瀬町151_8P（R8-6T）.pdf#page=4",
       "voteNote": "個別の日付は原表に記載なし。",
-      "proposer": "横瀬町長"
+      "proposer": "横瀬町長",
+      "date": "2026-06-11",
+      "dateSource": "議決日は公式本会議録（6月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "横瀬町",
@@ -158512,7 +158648,9 @@ GIKAI.coverage2026 = {
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/09/KC0727▶HP用_横瀬町151_8P（R8-6T）.pdf#page=4",
       "voteNote": "個別の日付は原表に記載なし。",
-      "proposer": "横瀬町長"
+      "proposer": "横瀬町長",
+      "date": "2026-06-11",
+      "dateSource": "議決日は公式本会議録（6月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "横瀬町",
@@ -158540,7 +158678,9 @@ GIKAI.coverage2026 = {
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/09/KC0727▶HP用_横瀬町151_8P（R8-6T）.pdf#page=4",
       "voteNote": "個別の日付は原表に記載なし。",
-      "proposer": "横瀬町長"
+      "proposer": "横瀬町長",
+      "date": "2026-06-11",
+      "dateSource": "議決日は公式本会議録（6月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "横瀬町",
@@ -158568,7 +158708,9 @@ GIKAI.coverage2026 = {
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/09/KC0727▶HP用_横瀬町151_8P（R8-6T）.pdf#page=4",
       "voteNote": "個別の日付は原表に記載なし。",
-      "proposer": "横瀬町長"
+      "proposer": "横瀬町長",
+      "date": "2026-06-11",
+      "dateSource": "議決日は公式本会議録（6月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "横瀬町",
@@ -158596,7 +158738,9 @@ GIKAI.coverage2026 = {
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/09/KC0727▶HP用_横瀬町151_8P（R8-6T）.pdf#page=4",
       "voteNote": "個別の日付は原表に記載なし。",
-      "proposer": "横瀬町長"
+      "proposer": "横瀬町長",
+      "date": "2026-06-11",
+      "dateSource": "議決日は公式本会議録（6月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "横瀬町",
@@ -158624,7 +158768,9 @@ GIKAI.coverage2026 = {
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/09/KC0727▶HP用_横瀬町151_8P（R8-6T）.pdf#page=4",
       "voteNote": "個別の日付は原表に記載なし。",
-      "proposer": "横瀬町長"
+      "proposer": "横瀬町長",
+      "date": "2026-06-11",
+      "dateSource": "議決日は公式本会議録（6月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "横瀬町",
@@ -158652,7 +158798,9 @@ GIKAI.coverage2026 = {
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/09/KC0727▶HP用_横瀬町151_8P（R8-6T）.pdf#page=4",
       "voteNote": "個別の日付は原表に記載なし。",
-      "proposer": "横瀬町長"
+      "proposer": "横瀬町長",
+      "date": "2026-06-11",
+      "dateSource": "議決日は公式本会議録（6月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "横瀬町",
@@ -158680,7 +158828,9 @@ GIKAI.coverage2026 = {
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/09/KC0727▶HP用_横瀬町151_8P（R8-6T）.pdf#page=4",
       "voteNote": "個別の日付は原表に記載なし。",
-      "proposer": "横瀬町長"
+      "proposer": "横瀬町長",
+      "date": "2026-06-11",
+      "dateSource": "議決日は公式本会議録（6月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "横瀬町",
@@ -158708,13 +158858,15 @@ GIKAI.coverage2026 = {
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/09/KC0727▶HP用_横瀬町151_8P（R8-6T）.pdf#page=4",
       "voteNote": "個別の日付は原表に記載なし。",
-      "proposer": "横瀬町長"
+      "proposer": "横瀬町長",
+      "date": "2026-06-11",
+      "dateSource": "議決日は公式本会議録（6月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "滑川町",
       "season": "spring",
       "session": "第251回滑川町議会３月定例会",
-      "date": "2026-03",
+      "date": "2026-03-11",
       "number": "発議第1号",
       "title": "滑川町議会基本条例の一部を改正する条例の制定について",
       "result": "原案可決",
@@ -158741,7 +158893,8 @@ GIKAI.coverage2026 = {
         "内田敏雄": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2",
+      "dateSource": "議決日は公式本会議録（3月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "滑川町",
@@ -158780,7 +158933,7 @@ GIKAI.coverage2026 = {
       "place": "滑川町",
       "season": "spring",
       "session": "第251回滑川町議会３月定例会",
-      "date": "2026-03",
+      "date": "2026-03-11",
       "number": "議案第4号",
       "title": "滑川町特定乳児等通園支援事業の運営に関する基準を定める条例の制定について",
       "result": "原案可決",
@@ -158790,13 +158943,14 @@ GIKAI.coverage2026 = {
       "resultLocator": "本会議録の採決の記述「よって、議案第4号は原案のとおり可決、承認されました」",
       "sourceType": "公式本会議録",
       "voteNote": "会議録の表記は「原案のとおり可決、承認されました」。会議録の表決方法の表記は「起立全員」。 議会だより No.161：紙面の「全員賛成の議案」欄に掲載（議員別の記号なし）。",
-      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2",
+      "dateSource": "議決日は公式本会議録（3月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "滑川町",
       "season": "spring",
       "session": "第251回滑川町議会３月定例会",
-      "date": "2026-03",
+      "date": "2026-03-11",
       "number": "議案第5号",
       "title": "滑川町議会議員及び滑川町長の選挙における選挙運動の公営に関する条例の一部を改正する条例の制定について",
       "result": "原案可決",
@@ -158806,13 +158960,14 @@ GIKAI.coverage2026 = {
       "resultLocator": "本会議録の採決の記述「よって、議案第5号は原案のとおり可決されました」",
       "sourceType": "公式本会議録",
       "voteNote": "会議録の表決方法の表記は「起立全員」。 議会だより No.161：紙面の「全員賛成の議案」欄に掲載（議員別の記号なし）。",
-      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2",
+      "dateSource": "議決日は公式本会議録（3月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "滑川町",
       "season": "spring",
       "session": "第251回滑川町議会３月定例会",
-      "date": "2026-03",
+      "date": "2026-03-11",
       "number": "議案第6号",
       "title": "滑川町行政手続条例の一部を改正する条例の制定について",
       "result": "原案可決",
@@ -158822,13 +158977,14 @@ GIKAI.coverage2026 = {
       "resultLocator": "本会議録の採決の記述「よって、議案第6号は原案のとおり可決されました」",
       "sourceType": "公式本会議録",
       "voteNote": "会議録の表決方法の表記は「起立全員」。 議会だより No.161：紙面の「全員賛成の議案」欄に掲載（議員別の記号なし）。",
-      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2",
+      "dateSource": "議決日は公式本会議録（3月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "滑川町",
       "season": "spring",
       "session": "第251回滑川町議会３月定例会",
-      "date": "2026-03",
+      "date": "2026-03-11",
       "number": "議案第7号",
       "title": "滑川町一般職職員の給与に関する条例の一部を改正する条例の制定について",
       "result": "原案可決",
@@ -158838,13 +158994,14 @@ GIKAI.coverage2026 = {
       "resultLocator": "本会議録の採決の記述「よって、議案第7号は原案のとおり可決されました」",
       "sourceType": "公式本会議録",
       "voteNote": "会議録の表決方法の表記は「起立全員」。 議会だより No.161：紙面の「全員賛成の議案」欄に掲載（議員別の記号なし）。",
-      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2",
+      "dateSource": "議決日は公式本会議録（3月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "滑川町",
       "season": "spring",
       "session": "第251回滑川町議会３月定例会",
-      "date": "2026-03",
+      "date": "2026-03-11",
       "number": "議案第8号",
       "title": "滑川町乳児等通園支援事業の設備及び運営に関する基準を定める条例の一部を改正する条例の制定について",
       "result": "原案可決",
@@ -158854,13 +159011,14 @@ GIKAI.coverage2026 = {
       "resultLocator": "本会議録の採決の記述「よって、議案第8号は原案のとおり可決されました」",
       "sourceType": "公式本会議録",
       "voteNote": "会議録の表決方法の表記は「賛成全員」。 議会だより No.161：紙面の「全員賛成の議案」欄に掲載（議員別の記号なし）。",
-      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2",
+      "dateSource": "議決日は公式本会議録（3月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "滑川町",
       "season": "spring",
       "session": "第251回滑川町議会３月定例会",
-      "date": "2026-03",
+      "date": "2026-03-11",
       "number": "議案第9号",
       "title": "滑川町企業誘致条例の一部を改正する条例の制定について",
       "result": "原案可決",
@@ -158887,13 +159045,14 @@ GIKAI.coverage2026 = {
         "内田敏雄": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2",
+      "dateSource": "議決日は公式本会議録（3月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "滑川町",
       "season": "spring",
       "session": "第251回滑川町議会３月定例会",
-      "date": "2026-03",
+      "date": "2026-03-11",
       "number": "議案第10号",
       "title": "第6次滑川町総合振興計画基本構想の策定について",
       "result": "原案可決",
@@ -158920,13 +159079,14 @@ GIKAI.coverage2026 = {
         "内田敏雄": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2",
+      "dateSource": "議決日は公式本会議録（3月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "滑川町",
       "season": "spring",
       "session": "第251回滑川町議会３月定例会",
-      "date": "2026-03",
+      "date": "2026-03-11",
       "number": "議案第11号",
       "title": "令和7年度滑川町一般会計補正予算(第8号)の議定について",
       "result": "原案可決",
@@ -158936,13 +159096,14 @@ GIKAI.coverage2026 = {
       "resultLocator": "本会議録の採決の記述「よって、議案第11号は原案のとおり可決されました」",
       "sourceType": "公式本会議録",
       "voteNote": "会議録の表決方法の表記は「賛成全員」。 議会だより No.161：紙面の「全員賛成の議案」欄に掲載（議員別の記号なし）。",
-      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2",
+      "dateSource": "議決日は公式本会議録（3月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "滑川町",
       "season": "spring",
       "session": "第251回滑川町議会３月定例会",
-      "date": "2026-03",
+      "date": "2026-03-11",
       "number": "議案第12号",
       "title": "令和7年度滑川町国民健康保険特別会計補正予算(第3号)の議定について",
       "result": "原案可決",
@@ -158952,13 +159113,14 @@ GIKAI.coverage2026 = {
       "resultLocator": "本会議録の採決の記述「よって、議案第12号は原案のとおり可決されました」",
       "sourceType": "公式本会議録",
       "voteNote": "会議録の表決方法の表記は「起立全員」。 議会だより No.161：紙面の「全員賛成の議案」欄に掲載（議員別の記号なし）。",
-      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2",
+      "dateSource": "議決日は公式本会議録（3月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "滑川町",
       "season": "spring",
       "session": "第251回滑川町議会３月定例会",
-      "date": "2026-03",
+      "date": "2026-03-11",
       "number": "議案第13号",
       "title": "令和7年度滑川町介護保険特別会計補正予算(第2号)の議定について",
       "result": "原案可決",
@@ -158968,13 +159130,14 @@ GIKAI.coverage2026 = {
       "resultLocator": "本会議録の採決の記述「よって、議案第13号は原案のとおり可決されました」",
       "sourceType": "公式本会議録",
       "voteNote": "会議録の表決方法の表記は「賛成全員」。 議会だより No.161：紙面の「全員賛成の議案」欄に掲載（議員別の記号なし）。",
-      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2",
+      "dateSource": "議決日は公式本会議録（3月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "滑川町",
       "season": "spring",
       "session": "第251回滑川町議会３月定例会",
-      "date": "2026-03",
+      "date": "2026-03-11",
       "number": "議案第14号",
       "title": "令和7年度滑川町後期高齢者医療特別会計補正予算(第2号)の議定について",
       "result": "原案可決",
@@ -158984,13 +159147,14 @@ GIKAI.coverage2026 = {
       "resultLocator": "本会議録の採決の記述「よって、議案第14号は原案のとおり可決されました」",
       "sourceType": "公式本会議録",
       "voteNote": "会議録の表決方法の表記は「賛成全員」。 議会だより No.161：紙面の「全員賛成の議案」欄に掲載（議員別の記号なし）。",
-      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2",
+      "dateSource": "議決日は公式本会議録（3月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "滑川町",
       "season": "spring",
       "session": "第251回滑川町議会３月定例会",
-      "date": "2026-03",
+      "date": "2026-03-11",
       "number": "議案第15号",
       "title": "令和7年度滑川町水道事業会計補正予算(第4号)の議定について",
       "result": "原案可決",
@@ -159000,13 +159164,14 @@ GIKAI.coverage2026 = {
       "resultLocator": "本会議録の採決の記述「よって、議案第15号は原案のとおり可決されました」",
       "sourceType": "公式本会議録",
       "voteNote": "会議録の表決方法の表記は「起立全員」。 議会だより No.161：紙面の「全員賛成の議案」欄に掲載（議員別の記号なし）。",
-      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2",
+      "dateSource": "議決日は公式本会議録（3月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "滑川町",
       "season": "spring",
       "session": "第251回滑川町議会３月定例会",
-      "date": "2026-03",
+      "date": "2026-03-11",
       "number": "議案第16号",
       "title": "令和7年度滑川町下水道事業会計補正予算(第4号)の議定について",
       "result": "原案可決",
@@ -159016,7 +159181,8 @@ GIKAI.coverage2026 = {
       "resultLocator": "本会議録の採決の記述「よって、議案第16号は原案のとおり可決されました」",
       "sourceType": "公式本会議録",
       "voteNote": "会議録の表決方法の表記は「賛成全員」。 議会だより No.161：紙面の「全員賛成の議案」欄に掲載（議員別の記号なし）。",
-      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2",
+      "dateSource": "議決日は公式本会議録（3月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "滑川町",
@@ -159187,7 +159353,7 @@ GIKAI.coverage2026 = {
       "place": "滑川町",
       "season": "spring",
       "session": "第251回滑川町議会３月定例会",
-      "date": "2026-03",
+      "date": "2026-03-11",
       "number": "議案第22号",
       "title": "令和8年度滑川町下水道事業会計予算の議定について",
       "result": "原案可決",
@@ -159214,13 +159380,14 @@ GIKAI.coverage2026 = {
         "内田敏雄": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2",
+      "dateSource": "議決日は公式本会議録（3月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "滑川町",
       "season": "spring",
       "session": "第251回滑川町議会３月定例会",
-      "date": "2026-03",
+      "date": "2026-03-11",
       "number": "議案第23号",
       "title": "指定管理者の指定について",
       "result": "原案可決",
@@ -159230,13 +159397,14 @@ GIKAI.coverage2026 = {
       "resultLocator": "本会議録の採決の記述「よって、議案第23号は原案のとおり可決されました」",
       "sourceType": "公式本会議録",
       "voteNote": "会議録の表決方法の表記は「起立全員」。 議会だより No.161：紙面の「全員賛成の議案」欄に掲載（議員別の記号なし）。",
-      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2",
+      "dateSource": "議決日は公式本会議録（3月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "滑川町",
       "season": "spring",
       "session": "第251回滑川町議会３月定例会",
-      "date": "2026-03",
+      "date": "2026-03-11",
       "number": "議案第24号",
       "title": "町道路線の廃止について",
       "result": "原案可決",
@@ -159246,13 +159414,14 @@ GIKAI.coverage2026 = {
       "resultLocator": "本会議録の採決の記述「よって、議案第24号は原案のとおり可決されました」",
       "sourceType": "公式本会議録",
       "voteNote": "会議録の表決方法の表記は「賛成全員」。 議会だより No.161：紙面の「全員賛成の議案」欄に掲載（議員別の記号なし）。",
-      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2",
+      "dateSource": "議決日は公式本会議録（3月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "滑川町",
       "season": "spring",
       "session": "第251回滑川町議会３月定例会",
-      "date": "2026-03",
+      "date": "2026-03-11",
       "number": "議案第25号",
       "title": "町道路線の認定について",
       "result": "原案可決",
@@ -159262,13 +159431,14 @@ GIKAI.coverage2026 = {
       "resultLocator": "本会議録の採決の記述「よって、議案第25号は原案のとおり可決されました」",
       "sourceType": "公式本会議録",
       "voteNote": "会議録の表決方法の表記は「賛成全員」。 議会だより No.161：紙面の「全員賛成の議案」欄に掲載（議員別の記号なし）。",
-      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2",
+      "dateSource": "議決日は公式本会議録（3月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "滑川町",
       "season": "spring",
       "session": "第251回滑川町議会３月定例会",
-      "date": "2026-03",
+      "date": "2026-03-11",
       "number": "議案第26号",
       "title": "滑川町国民健康保険税条例の一部を改正する条例の制定について",
       "result": "原案可決",
@@ -159295,13 +159465,14 @@ GIKAI.coverage2026 = {
         "内田敏雄": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2",
+      "dateSource": "議決日は公式本会議録（3月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "滑川町",
       "season": "summer",
       "session": "第252回滑川町議会６月定例会",
-      "date": "2026-06",
+      "date": "2026-06-05",
       "number": "議案第27号",
       "title": "専決処分の承認を求めることについて(滑川町税条例の一部を改正する条例)",
       "result": "原案可決",
@@ -159328,13 +159499,14 @@ GIKAI.coverage2026 = {
         "内田敏雄": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/gikaidayori162.pdf#page=2"
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/gikaidayori162.pdf#page=2",
+      "dateSource": "議決日は公式本会議録（6月5日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "滑川町",
       "season": "summer",
       "session": "第252回滑川町議会６月定例会",
-      "date": "2026-06",
+      "date": "2026-06-05",
       "number": "議案第28号",
       "title": "令和8年度滑川町一般会計補正予算(第1号)の議定について",
       "result": "原案可決",
@@ -159361,13 +159533,14 @@ GIKAI.coverage2026 = {
         "内田敏雄": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/gikaidayori162.pdf#page=2"
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/gikaidayori162.pdf#page=2",
+      "dateSource": "議決日は公式本会議録（6月5日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "滑川町",
       "season": "summer",
       "session": "第252回滑川町議会６月定例会",
-      "date": "2026-06",
+      "date": "2026-06-05",
       "number": "議案第29号",
       "title": "工事請負契約の締結について",
       "result": "原案可決",
@@ -159394,7 +159567,8 @@ GIKAI.coverage2026 = {
         "内田敏雄": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/gikaidayori162.pdf#page=2"
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/gikaidayori162.pdf#page=2",
+      "dateSource": "議決日は公式本会議録（6月5日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "嵐山町",
