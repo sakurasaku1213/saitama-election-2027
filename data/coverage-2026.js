@@ -686,8 +686,8 @@ GIKAI.coverage2026 = {
           "note": "この時期の掲載項目 33件。通告・目次・本文の別は活動の出典に表示。"
         },
         "text": {
-          "state": "notFound",
-          "note": "議会だよりの一般質問19人の問答と４常任委員会の質疑を収録。公式録画目録は９月10日に７人、11・14日に各６人。正式会議録と原音照合は確認中。 公式録画の機械文字起こし一般質問18本を収録。"
+          "state": "partial",
+          "note": "議会だよりの一般質問19人の問答と４常任委員会の質疑を収録。公式録画目録は９月10日に７人、11・14日に各６人。正式会議録と原音照合は確認中。 公式録画の機械文字起こし一般質問19人全員の分を収録。"
         },
         "decisions": {
           "state": "verified",
@@ -724,7 +724,7 @@ GIKAI.coverage2026 = {
           "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/785/0809kekka.pdf"
         },
         {
-          "label": "９月の公式録画・一般質問３日19人",
+          "label": "９月の公式一般質問録画一覧（19人）",
           "url": "https://kumagaya-city.stream.jfit.co.jp/?gikai_id=146&tpl=gikai_days_list"
         }
       ]
@@ -144031,9 +144031,9 @@ GIKAI.coverage2026 = {
       "title": "令和8年度伊奈町一般会計補正予算(第2号)",
       "date": "2026-06-19",
       "result": "原案可決",
-      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-6kekka.pdf#page=2",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-06gi49go.pdf#page=1",
       "resultURL": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-6kekka.pdf#page=2",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式議案書の該当頁",
       "voteType": "記名",
       "voteURL": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-6kekka.pdf#page=2",
       "votes": {
@@ -144053,7 +144053,8 @@ GIKAI.coverage2026 = {
         "仲島雄大": "賛成",
         "冨井篤弥": "賛成",
         "川内雅人": "賛成"
-      }
+      },
+      "sourceTitle": "伊奈町議会 第49号議案の提出原文"
     },
     {
       "place": "伊奈町",

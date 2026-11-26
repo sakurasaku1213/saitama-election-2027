@@ -56124,6 +56124,44 @@ GIKAI.questionText = {
       "url": "https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/speech.html?council_id=39&schedule_id=5&playlist_id=3&speaker_id=0&target_year=2026",
       "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 当日の本会議の議事録画。分割された録画を含む。発言者と発言区間は原映像でご確認ください。 自動検査の確認候補時間帯を含みます。",
       "speakers": []
+    },
+    {
+      "id": "939d8298dc063c16bd4f",
+      "place": "伊奈町",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "伊奈町 第49号議案（令和8年6月定例会）",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-06gi49go.pdf",
+      "note": "年月は提出対象の定例会。公表された冊子・別冊の原本。",
+      "speakers": []
+    },
+    {
+      "id": "07fa954d2a4d58d16629",
+      "place": "伊奈町",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "伊奈町 令和8年6月定例会議案",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-06gi.pdf",
+      "note": "年月は提出対象の定例会。公表された冊子・別冊の原本。",
+      "speakers": []
+    },
+    {
+      "id": "3a334880e821b658dafd",
+      "place": "熊谷市",
+      "season": "fall",
+      "date": "2026-09-14",
+      "title": "小島正泰議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://kumagaya-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1762",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "小島正泰"
+      ]
     }
   ],
   "coverage": [
@@ -56228,7 +56266,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "議会だよりの一般質問19人の問答と４常任委員会の質疑を収録。公式録画目録は９月10日に７人、11・14日に各６人。正式会議録と原音照合は確認中。 公式録画の機械文字起こし一般質問18本を収録。",
+        "note": "議会だよりの一般質問19人の問答と４常任委員会の質疑を収録。公式録画目録は９月10日に７人、11・14日に各６人。正式会議録と原音照合は確認中。 公式録画の機械文字起こし一般質問19人全員の分を収録。",
         "indexURL": "https://www.city.kumagaya.lg.jp/shisei/shigikai/1006977/1006955/1009174.html"
       }
     },
