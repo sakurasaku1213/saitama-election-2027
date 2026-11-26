@@ -54225,7 +54225,253 @@ GIKAI.questionText = {
       "scope": "minutes",
       "url": "https://toda.gijiroku.com/gikai/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&FMM=1&FDD=1&TYY=2026&TMM=12&TDD=31&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82X%8C%8E%92%E8%97%E1%89%EF%81%7C09%8C%8E18%93%FA-07%8D%86&KGNO=160&FINO=1310&UNID=K_R08091800071",
       "note": "市議会の公式目次にある日別本文を開議から終わりまで収録。",
+      "speakers": [
+        "浅生和英"
+      ]
+    },
+    {
+      "id": "0a662bd796d6b9fe11c0",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-08-25",
+      "title": "蕨市・第５回定例会提出案件総括表",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.warabi.saitama.jp/_res/projects/default_project/_page_/001/013/198/siryouc.pdf",
+      "note": "日付は記者会見資料の公開日。 原PDFの文字層を頁順に収録。",
       "speakers": []
+    },
+    {
+      "id": "71b72219810bef537c4d",
+      "place": "狭山市",
+      "season": "spring",
+      "date": "2026-03-17",
+      "title": "狭山市令和８年度当初予算・主な事業",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.sayama.saitama.jp/shisei/zaisei/yosan/r8yosansyo.files/R8juutenjigyou.pdf",
+      "note": "日付は当該会計の議決日。 原PDFの文字層を頁順に収録。",
+      "speakers": []
+    },
+    {
+      "id": "3ba7f21e3647df6c6617",
+      "place": "狭山市",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "狭山市一般会計補正予算書・説明書（第１号）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.sayama.saitama.jp/shisei/zaisei/yosan/r8yosansyo.files/R8ippan1.pdf",
+      "note": "日付は当該会計の議決日。 原PDFの文字層を頁順に収録。",
+      "speakers": []
+    },
+    {
+      "id": "019af50efbfc9c1fa40c",
+      "place": "狭山市",
+      "season": "summer",
+      "date": "2026-06-23",
+      "title": "狭山市介護保険特別会計補正予算書・説明書（第１号）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.sayama.saitama.jp/shisei/zaisei/yosan/r8yosansyo.files/R8kaigo1.pdf",
+      "note": "日付は当該会計の議決日。 原PDFの文字層を頁順に収録。",
+      "speakers": []
+    },
+    {
+      "id": "cb60c2959851a08bb9a7",
+      "place": "狭山市",
+      "season": "fall",
+      "date": "2026-09-30",
+      "title": "狭山市一般会計補正予算書・説明書（第２号）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.sayama.saitama.jp/shisei/zaisei/yosan/r8yosansyo.files/R8ippan2.pdf",
+      "note": "日付は当該会計の議決日。 原PDFの文字層を頁順に収録。",
+      "speakers": []
+    },
+    {
+      "id": "efb0aa17156223e0decd",
+      "place": "狭山市",
+      "season": "fall",
+      "date": "2026-09-30",
+      "title": "狭山市国民健康保険特別会計補正予算書・説明書（第１号）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.sayama.saitama.jp/shisei/zaisei/yosan/r8yosansyo.files/R8kokuho1.pdf",
+      "note": "日付は当該会計の議決日。 原PDFの文字層を頁順に収録。",
+      "speakers": []
+    },
+    {
+      "id": "f48069e0f5d34a9725d4",
+      "place": "狭山市",
+      "season": "fall",
+      "date": "2026-09-30",
+      "title": "狭山市介護保険特別会計補正予算書・説明書（第２号）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.sayama.saitama.jp/shisei/zaisei/yosan/r8yosansyo.files/R8kaigo2.pdf",
+      "note": "日付は当該会計の議決日。 原PDFの文字層を頁順に収録。",
+      "speakers": []
+    },
+    {
+      "id": "ab84bcc98ebfcba115af",
+      "place": "狭山市",
+      "season": "fall",
+      "date": "2026-09-30",
+      "title": "狭山市後期高齢者医療特別会計補正予算書・説明書（第１号）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.sayama.saitama.jp/shisei/zaisei/yosan/r8yosansyo.files/R8kouki1.pdf",
+      "note": "日付は当該会計の議決日。 原PDFの文字層を頁順に収録。",
+      "speakers": []
+    },
+    {
+      "id": "e746adeaf7e74f140449",
+      "place": "戸田市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "戸田市 【議案書】議案書（報告第14号～同第18号、議案第50号～同第61号）",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055622&fileId=f295f4a4df1746d18232e5d437e32473&fileName=No.6_%E4%BB%A4%E5%92%8C8%E5%B9%B49%E6%9C%88%E6%88%B8%E7%94%B0%E5%B8%82%E8%AD%B0%E4%BC%9A%E5%AE%9A%E4%BE%8B%E4%BC%9A%E8%AD%B0%E6%A1%88%E6%9B%B8.pdf",
+      "note": "年月は会期。 原PDFの文字層を頁順に収録。",
+      "speakers": []
+    },
+    {
+      "id": "6498d73af333625f0057",
+      "place": "戸田市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "戸田市 【補正予算書】一般・特別会計補正予算書（議案第58号～同第61号）",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055622&fileId=1d00f30b7c8d49ed8f7e3292d7ba8420&fileName=No.8_%E4%BB%A4%E5%92%8C8%E5%B9%B4%E5%BA%A6%E6%88%B8%E7%94%B0%E5%B8%82%E4%B8%80%E8%88%AC%E4%BC%9A%E8%A8%88%E3%83%BB%E7%89%B9%E5%88%A5%E4%BC%9A%E8%A8%88%E8%A3%9C%E6%AD%A3%E4%BA%88%E7%AE%97%E6%9B%B8.pdf",
+      "note": "年月は会期。 正規ルーターの文字層・OCRを頁順に収録。",
+      "speakers": []
+    },
+    {
+      "id": "3bd2653b59b40e40be02",
+      "place": "戸田市",
+      "season": "fall",
+      "date": "2026-09-08",
+      "title": "戸田市 【議案書】議案書（議会）(議提第９号～同第14号)",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055622&fileId=b2f5b7793b70475790d316b1c906910a&fileName=R8.9gian_giansyo_gikai.pdf",
+      "note": "日付はこの冊子の提出原文にある最も早い提出日。９・10・11・12号は９月８日、13・14号は９月10日。 原PDFの文字層を頁順に収録。",
+      "speakers": [
+        "浅生和英",
+        "河合ゆうすけ",
+        "本田哲",
+        "小金沢優",
+        "三浦のぶお",
+        "矢澤青河",
+        "斎藤直子",
+        "竹内正明",
+        "石川清明",
+        "酒井いくろう",
+        "榎本守明"
+      ]
+    },
+    {
+      "id": "b5289378f880acd30c8e",
+      "place": "戸田市",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "戸田市 【議案書】議案書(報告第2号～同第13号、議案第39号～同第43号)",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055201&fileId=011ff618f0e343d4b394d64f345e9ea6&fileName=gian_giansyoR0806.pdf",
+      "note": "年月は会期。 原PDFの文字層を頁順に収録。",
+      "speakers": []
+    },
+    {
+      "id": "42d1bbebc4c7fb0ce125",
+      "place": "戸田市",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "戸田市 【補正予算書】一般・特別会計予算書(議案第44号～同第46号)",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055201&fileId=eaddc557e86742d0a9d26fc075ab480e&fileName=hosei_ichitokuR0806.pdf",
+      "note": "年月は会期。 正規ルーターの文字層・OCRを頁順に収録。",
+      "speakers": []
+    },
+    {
+      "id": "85744d6a3b9452ebeffd",
+      "place": "戸田市",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "戸田市 【補正予算書】（追加）一般会計予算書(議案第47号)",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055201&fileId=72c285e3058d412fa9294c62a514331f&fileName=No.3_%E4%BB%A4%E5%92%8C8%E5%B9%B4%E5%BA%A6%E6%88%B8%E7%94%B0%E5%B8%82%E4%B8%80%E8%88%AC%E4%BC%9A%E8%A8%88%E8%A3%9C%E6%AD%A3%E4%BA%88%E7%AE%97%E6%9B%B8.pdf",
+      "note": "年月は会期。 正規ルーターの文字層・OCRを頁順に収録。",
+      "speakers": []
+    },
+    {
+      "id": "11f0653c7710e64ecc70",
+      "place": "戸田市",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "戸田市 【議案書】（追加）議案書(議案第48号、同第49号)",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055201&fileId=4c68653f544e45f9b49f7c3c55471ffa&fileName=No.4_%E4%BB%A4%E5%92%8C8%E5%B9%B46%E6%9C%88%E6%88%B8%E7%94%B0%E5%B8%82%E8%AD%B0%E4%BC%9A%E5%AE%9A%E4%BE%8B%E4%BC%9A%E8%AD%B0%E6%A1%88%E6%9B%B8.pdf",
+      "note": "年月は会期。 原PDFの文字層を頁順に収録。",
+      "speakers": []
+    },
+    {
+      "id": "4fe236fc0faee8352389",
+      "place": "戸田市",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "戸田市 【議案書】議案書（議会）(議提第３号～同第８号)",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055201&fileId=5f24159ec25040f183c9bdcb6126dd49&fileName=R8.6gian_giansyo_gikai.pdf",
+      "note": "年月は会期。 原PDFの文字層を頁順に収録。",
+      "speakers": []
+    },
+    {
+      "id": "17f2dd11d0ec75777786",
+      "place": "狭山市",
+      "season": "spring",
+      "date": "2026-02-13",
+      "title": "令和８年第２回狭山市定例教育委員会会議議事録",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.sayama.saitama.jp/kosodate/kyoikuiinkai/edumeeting.files/R8-2gijiroku.pdf",
+      "note": "日付は開催日。 原PDFの文字層を頁順に収録。",
+      "speakers": []
+    },
+    {
+      "id": "0f2782ad003996d8a2cf",
+      "place": "熊谷市",
+      "season": "fall",
+      "date": "2026-09-14",
+      "title": "小鮒賢二議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://kumagaya-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1766",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "小鮒賢二"
+      ]
+    },
+    {
+      "id": "41427c012778fa9d0deb",
+      "place": "宮代町",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "丸山妙子議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/miyashiro/WebView/rd/speech.html?council_id=32&schedule_id=4&playlist_id=5&speaker_id=2&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "丸山妙子"
+      ]
     }
   ],
   "coverage": [
@@ -54330,7 +54576,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "議会だよりの一般質問19人の問答と４常任委員会の質疑を収録。公式録画目録は９月10日に７人、11・14日に各６人。正式会議録と原音照合は確認中。 公式録画の機械文字起こし一般質問17本を収録。",
+        "note": "議会だよりの一般質問19人の問答と４常任委員会の質疑を収録。公式録画目録は９月10日に７人、11・14日に各６人。正式会議録と原音照合は確認中。 公式録画の機械文字起こし一般質問18本を収録。",
         "indexURL": "https://www.city.kumagaya.lg.jp/shisei/shigikai/1006977/1006955/1009174.html"
       }
     },
@@ -55887,7 +56133,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "verified",
-        "note": "公式会議録の本会議７日・目次を収録。一般質問３日・12議員は議長の終了宣告と録画目録を照合。議会だよりの要約と録画の機械文字起こしも収録。",
+        "note": "公式会議録の本会議７日・目次を収録。一般質問３日・12議員は議長の終了宣告と録画目録を照合。議会だよりの要約と録画の機械文字起こし6本も収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteBrowse.html?tenant_id=224&view_years=2026"
       }
     },

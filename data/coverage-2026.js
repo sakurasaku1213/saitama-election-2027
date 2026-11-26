@@ -663,7 +663,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "notFound",
-          "note": "議会だよりの一般質問19人の問答と４常任委員会の質疑を収録。公式録画目録は９月10日に７人、11・14日に各６人。正式会議録と原音照合は確認中。 公式録画の機械文字起こし一般質問17本を収録。"
+          "note": "議会だよりの一般質問19人の問答と４常任委員会の質疑を収録。公式録画目録は９月10日に７人、11・14日に各６人。正式会議録と原音照合は確認中。 公式録画の機械文字起こし一般質問18本を収録。"
         },
         "decisions": {
           "state": "verified",
@@ -2342,6 +2342,14 @@ GIKAI.coverage2026 = {
         {
           "label": "市議会の公式会期一覧",
           "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/index.html"
+        },
+        {
+          "label": "公式の予算・議案等の掲載元",
+          "url": "https://www.city.sayama.saitama.jp/shisei/zaisei/yosan/r8yosansyo.html"
+        },
+        {
+          "label": "公式の予算・議案等の掲載元",
+          "url": "https://www.city.sayama.saitama.jp/kosodate/kyoikuiinkai/edumeeting.html"
         }
       ]
     },
@@ -2390,6 +2398,10 @@ GIKAI.coverage2026 = {
         {
           "label": "市議会の公式会期一覧",
           "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/index.html"
+        },
+        {
+          "label": "公式の予算・議案等の掲載元",
+          "url": "https://www.city.sayama.saitama.jp/shisei/zaisei/yosan/r8yosansyo.html"
         }
       ]
     },
@@ -2454,6 +2466,10 @@ GIKAI.coverage2026 = {
         {
           "label": "市議会の公式会期一覧",
           "url": "https://www.city.sayama.saitama.jp/gikai/teireikai/index.html"
+        },
+        {
+          "label": "公式の予算・議案等の掲載元",
+          "url": "https://www.city.sayama.saitama.jp/shisei/zaisei/yosan/r8yosansyo.html"
         }
       ]
     },
@@ -3850,6 +3866,10 @@ GIKAI.coverage2026 = {
         {
           "label": "当会期の公式付録",
           "url": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82T%89%F1%92%E8%97%E1%89%EF%81%7C09%8C%8E29%93%FA-%95t%98^&HUID=126587&KGNO=627&FINO=1546&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0"
+        },
+        {
+          "label": "公式の予算・議案等の掲載元",
+          "url": "https://www.city.warabi.saitama.jp/shisei/mayor/1010102/1013198.html"
         }
       ]
     },
@@ -3938,6 +3958,10 @@ GIKAI.coverage2026 = {
         {
           "label": "議会の審議結果・議員別表決",
           "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/GD031/GD031_001?kaigi=000134"
+        },
+        {
+          "label": "公式の予算・議案等の掲載元",
+          "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/GD037/GD037_001?menu=000058&shiryo=000001"
         }
       ]
     },
@@ -3990,6 +4014,10 @@ GIKAI.coverage2026 = {
         {
           "label": "当会期の公式目次本文",
           "url": "https://toda.gijiroku.com/gikai/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&FMM=1&FDD=1&TYY=2026&TMM=12&TDD=31&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82X%8C%8E%92%E8%97%E1%89%EF%81%7C08%8C%8E24%93%FA-%96%DA%8E%9F&KGNO=160&FINO=1303&UNID=K_R08082400001"
+        },
+        {
+          "label": "公式の予算・議案等の掲載元",
+          "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/GD037/GD037_001?menu=000058&shiryo=000001"
         }
       ]
     },
@@ -10743,7 +10771,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "verified",
-          "note": "公式会議録の本会議７日・目次を収録。一般質問３日・12議員は議長の終了宣告と録画目録を照合。議会だよりの要約と録画の機械文字起こしも収録。"
+          "note": "公式会議録の本会議７日・目次を収録。一般質問３日・12議員は議長の終了宣告と録画目録を照合。議会だよりの要約と録画の機械文字起こし6本も収録。"
         },
         "decisions": {
           "state": "verified",
