@@ -3544,12 +3544,20 @@ GIKAI.coverage2026 = {
           "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/giketsu/files/gikaikekka80318.pdf"
         },
         {
-          "label": "議会の審議結果・議員別表決",
+          "label": "市公式・議案書と予算説明資料",
           "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/giketsu/gikaikekka0803.html"
         },
         {
           "label": "委員会審査の公式一覧",
           "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka803.html"
+        },
+        {
+          "label": "市公式・議案書と予算説明資料",
+          "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sityo/sityogian803.html"
+        },
+        {
+          "label": "市公式・議案書と予算説明資料",
+          "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/iinkai/iinkaigian803.html"
         }
       ]
     },
@@ -3604,12 +3612,28 @@ GIKAI.coverage2026 = {
           "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/giketsu/files/gikaikekka80618.pdf"
         },
         {
-          "label": "議会の審議結果・議員別表決",
+          "label": "市公式・議案書と予算説明資料",
           "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/giketsu/gikaikekka0806.html"
         },
         {
           "label": "委員会審査の公式一覧",
           "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka806.html"
+        },
+        {
+          "label": "市公式・議案書と予算説明資料",
+          "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sityo/sityogian806.html"
+        },
+        {
+          "label": "市公式・議案書と予算説明資料",
+          "url": "https://www.city.koshigaya.saitama.jp/kurashi_shisei/shisei/yosankessan/yosan/r08/r8hoseiyosan.html"
+        },
+        {
+          "label": "市公式・議案書と予算説明資料",
+          "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/giin/giingian806.html"
+        },
+        {
+          "label": "市公式・議案書と予算説明資料",
+          "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/iinkai/iinkaigian806.html"
         }
       ]
     },
@@ -3672,7 +3696,7 @@ GIKAI.coverage2026 = {
           "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/giketsu/files/gikaikekka80928.pdf"
         },
         {
-          "label": "議会の審議結果・議員別表決",
+          "label": "市公式・議案書と予算説明資料",
           "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/giketsu/gikaikekka0809.html"
         },
         {
@@ -3682,6 +3706,26 @@ GIKAI.coverage2026 = {
         {
           "label": "９月28日の採決の公式録画目録",
           "url": "https://koshigaya.gijiroku.com/g07_Video_Search.asp?Sflg=1&kaigi=58&NitteiID=646"
+        },
+        {
+          "label": "市公式・議案書と予算説明資料",
+          "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sityo/sityogian809.html"
+        },
+        {
+          "label": "市公式・議案書と予算説明資料",
+          "url": "https://www.city.koshigaya.saitama.jp/kurashi_shisei/shisei/yosankessan/yosan/r08/r8hoseiyosan.html"
+        },
+        {
+          "label": "市公式・議案書と予算説明資料",
+          "url": "https://www.city.koshigaya.saitama.jp/kurashi_shisei/shisei/koho/kisyakaiken/2025/kaiken0808.html"
+        },
+        {
+          "label": "市公式・議案書と予算説明資料",
+          "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/giin/giingian809.html"
+        },
+        {
+          "label": "市公式・議案書と予算説明資料",
+          "url": "https://www.city.koshigaya.saitama.jp/kurashi_shisei/kosodate/supotu/etc/sports-sisetsuryokinkaitei.html"
         }
       ]
     },
@@ -45103,7 +45147,11 @@ GIKAI.coverage2026 = {
         "大田ちひろ": "賛成"
       },
       "date": "2026-03-18",
-      "sourceTitle": "採決日の公式本会議録"
+      "sourceTitle": "採決日の公式本会議録",
+      "proposal": {
+        "archiveId": "97257c82b2376285bb3d",
+        "block": 1
+      }
     },
     {
       "place": "越谷市",
@@ -45153,7 +45201,11 @@ GIKAI.coverage2026 = {
         "大田ちひろ": "賛成"
       },
       "date": "2026-03-18",
-      "sourceTitle": "採決日の公式本会議録"
+      "sourceTitle": "採決日の公式本会議録",
+      "proposal": {
+        "archiveId": "97257c82b2376285bb3d",
+        "block": 2
+      }
     },
     {
       "place": "越谷市",
@@ -45203,7 +45255,11 @@ GIKAI.coverage2026 = {
         "大田ちひろ": "賛成"
       },
       "date": "2026-03-18",
-      "sourceTitle": "採決日の公式本会議録"
+      "sourceTitle": "採決日の公式本会議録",
+      "proposal": {
+        "archiveId": "97257c82b2376285bb3d",
+        "block": 3
+      }
     },
     {
       "place": "越谷市",
@@ -45255,7 +45311,11 @@ GIKAI.coverage2026 = {
       "date": "2026-03-18",
       "sourceTitle": "採決日の公式本会議録",
       "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka803.html",
-      "voteNote": "付託先は総務常任委員会。委員会の審査結果は「原案可決」。"
+      "voteNote": "付託先は総務常任委員会。委員会の審査結果は「原案可決」。",
+      "proposal": {
+        "archiveId": "97257c82b2376285bb3d",
+        "block": 4
+      }
     },
     {
       "place": "越谷市",
@@ -45307,7 +45367,11 @@ GIKAI.coverage2026 = {
       "date": "2026-03-18",
       "sourceTitle": "採決日の公式本会議録",
       "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka803.html",
-      "voteNote": "付託先は総務常任委員会。委員会の審査結果は「原案可決」。"
+      "voteNote": "付託先は総務常任委員会。委員会の審査結果は「原案可決」。",
+      "proposal": {
+        "archiveId": "97257c82b2376285bb3d",
+        "block": 5
+      }
     },
     {
       "place": "越谷市",
@@ -45359,7 +45423,11 @@ GIKAI.coverage2026 = {
       "date": "2026-03-18",
       "sourceTitle": "採決日の公式本会議録",
       "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka803.html",
-      "voteNote": "付託先は総務常任委員会。委員会の審査結果は「原案可決」。"
+      "voteNote": "付託先は総務常任委員会。委員会の審査結果は「原案可決」。",
+      "proposal": {
+        "archiveId": "97257c82b2376285bb3d",
+        "block": 6
+      }
     },
     {
       "place": "越谷市",
@@ -45411,7 +45479,11 @@ GIKAI.coverage2026 = {
       "date": "2026-03-18",
       "sourceTitle": "採決日の公式本会議録",
       "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka803.html",
-      "voteNote": "付託先は民生常任委員会。委員会の審査結果は「原案可決」。"
+      "voteNote": "付託先は民生常任委員会。委員会の審査結果は「原案可決」。",
+      "proposal": {
+        "archiveId": "97257c82b2376285bb3d",
+        "block": 7
+      }
     },
     {
       "place": "越谷市",
@@ -45463,7 +45535,11 @@ GIKAI.coverage2026 = {
       "date": "2026-03-18",
       "sourceTitle": "採決日の公式本会議録",
       "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka803.html",
-      "voteNote": "付託先は民生常任委員会。委員会の審査結果は「原案可決」。"
+      "voteNote": "付託先は民生常任委員会。委員会の審査結果は「原案可決」。",
+      "proposal": {
+        "archiveId": "97257c82b2376285bb3d",
+        "block": 8
+      }
     },
     {
       "place": "越谷市",
@@ -45515,7 +45591,11 @@ GIKAI.coverage2026 = {
       "date": "2026-03-18",
       "sourceTitle": "採決日の公式本会議録",
       "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka803.html",
-      "voteNote": "付託先は環境経済・建設常任委員会。委員会の審査結果は「原案可決」。"
+      "voteNote": "付託先は環境経済・建設常任委員会。委員会の審査結果は「原案可決」。",
+      "proposal": {
+        "archiveId": "97257c82b2376285bb3d",
+        "block": 9
+      }
     },
     {
       "place": "越谷市",
@@ -45567,7 +45647,11 @@ GIKAI.coverage2026 = {
       "date": "2026-03-18",
       "sourceTitle": "採決日の公式本会議録",
       "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka803.html",
-      "voteNote": "付託先は環境経済・建設常任委員会。委員会の審査結果は「原案可決」。"
+      "voteNote": "付託先は環境経済・建設常任委員会。委員会の審査結果は「原案可決」。",
+      "proposal": {
+        "archiveId": "97257c82b2376285bb3d",
+        "block": 10
+      }
     },
     {
       "place": "越谷市",
@@ -45619,7 +45703,11 @@ GIKAI.coverage2026 = {
       "date": "2026-03-18",
       "sourceTitle": "採決日の公式本会議録",
       "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka803.html",
-      "voteNote": "付託先は子ども・教育常任委員会。委員会の審査結果は「原案可決」。"
+      "voteNote": "付託先は子ども・教育常任委員会。委員会の審査結果は「原案可決」。",
+      "proposal": {
+        "archiveId": "97257c82b2376285bb3d",
+        "block": 11
+      }
     },
     {
       "place": "越谷市",
@@ -45671,7 +45759,11 @@ GIKAI.coverage2026 = {
       "date": "2026-03-18",
       "sourceTitle": "採決日の公式本会議録",
       "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka803.html",
-      "voteNote": "付託先は子ども・教育常任委員会。委員会の審査結果は「原案可決」。"
+      "voteNote": "付託先は子ども・教育常任委員会。委員会の審査結果は「原案可決」。",
+      "proposal": {
+        "archiveId": "97257c82b2376285bb3d",
+        "block": 12
+      }
     },
     {
       "place": "越谷市",
@@ -45723,7 +45815,11 @@ GIKAI.coverage2026 = {
       "date": "2026-03-18",
       "sourceTitle": "採決日の公式本会議録",
       "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka803.html",
-      "voteNote": "付託先は子ども・教育常任委員会。委員会の審査結果は「原案可決」。"
+      "voteNote": "付託先は子ども・教育常任委員会。委員会の審査結果は「原案可決」。",
+      "proposal": {
+        "archiveId": "97257c82b2376285bb3d",
+        "block": 13
+      }
     },
     {
       "place": "越谷市",
@@ -45775,7 +45871,11 @@ GIKAI.coverage2026 = {
       "date": "2026-03-18",
       "sourceTitle": "採決日の公式本会議録",
       "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka803.html",
-      "voteNote": "付託先は子ども・教育常任委員会。委員会の審査結果は「原案可決」。"
+      "voteNote": "付託先は子ども・教育常任委員会。委員会の審査結果は「原案可決」。",
+      "proposal": {
+        "archiveId": "97257c82b2376285bb3d",
+        "block": 14
+      }
     },
     {
       "place": "越谷市",
@@ -45827,7 +45927,11 @@ GIKAI.coverage2026 = {
       "date": "2026-03-18",
       "sourceTitle": "採決日の公式本会議録",
       "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka803.html",
-      "voteNote": "付託先は子ども・教育常任委員会。委員会の審査結果は「原案可決」。"
+      "voteNote": "付託先は子ども・教育常任委員会。委員会の審査結果は「原案可決」。",
+      "proposal": {
+        "archiveId": "97257c82b2376285bb3d",
+        "block": 15
+      }
     },
     {
       "place": "越谷市",
@@ -45879,7 +45983,11 @@ GIKAI.coverage2026 = {
       "date": "2026-03-18",
       "sourceTitle": "採決日の公式本会議録",
       "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka803.html",
-      "voteNote": "付託先は予算決算常任委員会。委員会の審査結果は「原案可決」。"
+      "voteNote": "付託先は予算決算常任委員会。委員会の審査結果は「原案可決」。",
+      "proposal": {
+        "archiveId": "97257c82b2376285bb3d",
+        "block": 16
+      }
     },
     {
       "place": "越谷市",
@@ -45931,7 +46039,11 @@ GIKAI.coverage2026 = {
       "date": "2026-03-18",
       "sourceTitle": "採決日の公式本会議録",
       "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka803.html",
-      "voteNote": "付託先は予算決算常任委員会。委員会の審査結果は「原案可決」。"
+      "voteNote": "付託先は予算決算常任委員会。委員会の審査結果は「原案可決」。",
+      "proposal": {
+        "archiveId": "97257c82b2376285bb3d",
+        "block": 17
+      }
     },
     {
       "place": "越谷市",
@@ -45983,7 +46095,11 @@ GIKAI.coverage2026 = {
       "date": "2026-03-18",
       "sourceTitle": "採決日の公式本会議録",
       "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka803.html",
-      "voteNote": "付託先は予算決算常任委員会。委員会の審査結果は「原案可決」。"
+      "voteNote": "付託先は予算決算常任委員会。委員会の審査結果は「原案可決」。",
+      "proposal": {
+        "archiveId": "97257c82b2376285bb3d",
+        "block": 18
+      }
     },
     {
       "place": "越谷市",
@@ -46035,7 +46151,11 @@ GIKAI.coverage2026 = {
       "date": "2026-03-18",
       "sourceTitle": "採決日の公式本会議録",
       "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka803.html",
-      "voteNote": "付託先は予算決算常任委員会。委員会の審査結果は「原案可決」。"
+      "voteNote": "付託先は予算決算常任委員会。委員会の審査結果は「原案可決」。",
+      "proposal": {
+        "archiveId": "97257c82b2376285bb3d",
+        "block": 19
+      }
     },
     {
       "place": "越谷市",
@@ -46087,7 +46207,11 @@ GIKAI.coverage2026 = {
       "date": "2026-03-18",
       "sourceTitle": "採決日の公式本会議録",
       "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka803.html",
-      "voteNote": "付託先は予算決算常任委員会。委員会の審査結果は「原案可決」。"
+      "voteNote": "付託先は予算決算常任委員会。委員会の審査結果は「原案可決」。",
+      "proposal": {
+        "archiveId": "97257c82b2376285bb3d",
+        "block": 20
+      }
     },
     {
       "place": "越谷市",
@@ -46139,7 +46263,11 @@ GIKAI.coverage2026 = {
       "date": "2026-03-18",
       "sourceTitle": "採決日の公式本会議録",
       "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka803.html",
-      "voteNote": "付託先は予算決算常任委員会。委員会の審査結果は「原案可決」。"
+      "voteNote": "付託先は予算決算常任委員会。委員会の審査結果は「原案可決」。",
+      "proposal": {
+        "archiveId": "97257c82b2376285bb3d",
+        "block": 21
+      }
     },
     {
       "place": "越谷市",
@@ -46191,7 +46319,11 @@ GIKAI.coverage2026 = {
       "date": "2026-03-18",
       "sourceTitle": "採決日の公式本会議録",
       "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka803.html",
-      "voteNote": "付託先は予算決算常任委員会。委員会の審査結果は「原案可決」。"
+      "voteNote": "付託先は予算決算常任委員会。委員会の審査結果は「原案可決」。",
+      "proposal": {
+        "archiveId": "97257c82b2376285bb3d",
+        "block": 22
+      }
     },
     {
       "place": "越谷市",
@@ -46243,7 +46375,11 @@ GIKAI.coverage2026 = {
       "date": "2026-03-18",
       "sourceTitle": "採決日の公式本会議録",
       "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka803.html",
-      "voteNote": "付託先は予算決算常任委員会。委員会の審査結果は「原案可決」。"
+      "voteNote": "付託先は予算決算常任委員会。委員会の審査結果は「原案可決」。",
+      "proposal": {
+        "archiveId": "97257c82b2376285bb3d",
+        "block": 23
+      }
     },
     {
       "place": "越谷市",
@@ -46295,7 +46431,11 @@ GIKAI.coverage2026 = {
       "date": "2026-03-18",
       "sourceTitle": "採決日の公式本会議録",
       "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka803.html",
-      "voteNote": "付託先は予算決算常任委員会。委員会の審査結果は「原案可決」。"
+      "voteNote": "付託先は予算決算常任委員会。委員会の審査結果は「原案可決」。",
+      "proposal": {
+        "archiveId": "97257c82b2376285bb3d",
+        "block": 24
+      }
     },
     {
       "place": "越谷市",
@@ -46347,7 +46487,11 @@ GIKAI.coverage2026 = {
       "date": "2026-03-18",
       "sourceTitle": "採決日の公式本会議録",
       "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka803.html",
-      "voteNote": "付託先は予算決算常任委員会。委員会の審査結果は「原案可決」。"
+      "voteNote": "付託先は予算決算常任委員会。委員会の審査結果は「原案可決」。",
+      "proposal": {
+        "archiveId": "97257c82b2376285bb3d",
+        "block": 25
+      }
     },
     {
       "place": "越谷市",
@@ -46399,7 +46543,11 @@ GIKAI.coverage2026 = {
       "date": "2026-03-18",
       "sourceTitle": "採決日の公式本会議録",
       "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka803.html",
-      "voteNote": "付託先は予算決算常任委員会。委員会の審査結果は「原案可決」。"
+      "voteNote": "付託先は予算決算常任委員会。委員会の審査結果は「原案可決」。",
+      "proposal": {
+        "archiveId": "97257c82b2376285bb3d",
+        "block": 26
+      }
     },
     {
       "place": "越谷市",
@@ -46451,7 +46599,11 @@ GIKAI.coverage2026 = {
       "date": "2026-03-18",
       "sourceTitle": "採決日の公式本会議録",
       "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka803.html",
-      "voteNote": "付託先は予算決算常任委員会。委員会の審査結果は「原案可決」。"
+      "voteNote": "付託先は予算決算常任委員会。委員会の審査結果は「原案可決」。",
+      "proposal": {
+        "archiveId": "97257c82b2376285bb3d",
+        "block": 27
+      }
     },
     {
       "place": "越谷市",
@@ -46503,7 +46655,11 @@ GIKAI.coverage2026 = {
       "date": "2026-03-18",
       "sourceTitle": "採決日の公式本会議録",
       "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka803.html",
-      "voteNote": "付託先は予算決算常任委員会。委員会の審査結果は「原案可決」。"
+      "voteNote": "付託先は予算決算常任委員会。委員会の審査結果は「原案可決」。",
+      "proposal": {
+        "archiveId": "97257c82b2376285bb3d",
+        "block": 28
+      }
     },
     {
       "place": "越谷市",
@@ -46555,7 +46711,11 @@ GIKAI.coverage2026 = {
       "date": "2026-03-18",
       "sourceTitle": "採決日の公式本会議録",
       "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka803.html",
-      "voteNote": "付託先は予算決算常任委員会。委員会の審査結果は「原案可決」。"
+      "voteNote": "付託先は予算決算常任委員会。委員会の審査結果は「原案可決」。",
+      "proposal": {
+        "archiveId": "97257c82b2376285bb3d",
+        "block": 29
+      }
     },
     {
       "place": "越谷市",
@@ -46607,7 +46767,11 @@ GIKAI.coverage2026 = {
       "date": "2026-03-18",
       "sourceTitle": "採決日の公式本会議録",
       "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka803.html",
-      "voteNote": "付託先は予算決算常任委員会。委員会の審査結果は「原案可決」。"
+      "voteNote": "付託先は予算決算常任委員会。委員会の審査結果は「原案可決」。",
+      "proposal": {
+        "archiveId": "97257c82b2376285bb3d",
+        "block": 30
+      }
     },
     {
       "place": "越谷市",
@@ -46659,7 +46823,11 @@ GIKAI.coverage2026 = {
       "date": "2026-03-18",
       "sourceTitle": "採決日の公式本会議録",
       "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka803.html",
-      "voteNote": "付託先は予算決算常任委員会。委員会の審査結果は「原案可決」。"
+      "voteNote": "付託先は予算決算常任委員会。委員会の審査結果は「原案可決」。",
+      "proposal": {
+        "archiveId": "97257c82b2376285bb3d",
+        "block": 31
+      }
     },
     {
       "place": "越谷市",
@@ -47777,7 +47945,11 @@ GIKAI.coverage2026 = {
       "date": "2026-06-18",
       "sourceTitle": "採決日の公式本会議録",
       "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka806.html",
-      "voteNote": "付託先は総務常任委員会。委員会の審査結果は「原案可決」。"
+      "voteNote": "付託先は総務常任委員会。委員会の審査結果は「原案可決」。",
+      "proposal": {
+        "archiveId": "e534dcf8ea1b1bd5477f",
+        "block": 1
+      }
     },
     {
       "place": "越谷市",
@@ -47829,7 +48001,11 @@ GIKAI.coverage2026 = {
       "date": "2026-06-18",
       "sourceTitle": "採決日の公式本会議録",
       "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka806.html",
-      "voteNote": "付託先は総務常任委員会。委員会の審査結果は「原案可決」。"
+      "voteNote": "付託先は総務常任委員会。委員会の審査結果は「原案可決」。",
+      "proposal": {
+        "archiveId": "e534dcf8ea1b1bd5477f",
+        "block": 2
+      }
     },
     {
       "place": "越谷市",
@@ -47881,7 +48057,11 @@ GIKAI.coverage2026 = {
       "date": "2026-06-18",
       "sourceTitle": "採決日の公式本会議録",
       "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka806.html",
-      "voteNote": "付託先は総務常任委員会。委員会の審査結果は「原案可決」。"
+      "voteNote": "付託先は総務常任委員会。委員会の審査結果は「原案可決」。",
+      "proposal": {
+        "archiveId": "e534dcf8ea1b1bd5477f",
+        "block": 3
+      }
     },
     {
       "place": "越谷市",
@@ -47933,7 +48113,11 @@ GIKAI.coverage2026 = {
       "date": "2026-06-18",
       "sourceTitle": "採決日の公式本会議録",
       "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka806.html",
-      "voteNote": "付託先は民生常任委員会。委員会の審査結果は「原案可決」。"
+      "voteNote": "付託先は民生常任委員会。委員会の審査結果は「原案可決」。",
+      "proposal": {
+        "archiveId": "e534dcf8ea1b1bd5477f",
+        "block": 4
+      }
     },
     {
       "place": "越谷市",
@@ -47985,7 +48169,11 @@ GIKAI.coverage2026 = {
       "date": "2026-06-18",
       "sourceTitle": "採決日の公式本会議録",
       "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka806.html",
-      "voteNote": "付託先は民生常任委員会。委員会の審査結果は「原案可決」。"
+      "voteNote": "付託先は民生常任委員会。委員会の審査結果は「原案可決」。",
+      "proposal": {
+        "archiveId": "e534dcf8ea1b1bd5477f",
+        "block": 5
+      }
     },
     {
       "place": "越谷市",
@@ -48037,7 +48225,11 @@ GIKAI.coverage2026 = {
       "date": "2026-06-18",
       "sourceTitle": "採決日の公式本会議録",
       "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka806.html",
-      "voteNote": "付託先は民生常任委員会。委員会の審査結果は「原案可決」。"
+      "voteNote": "付託先は民生常任委員会。委員会の審査結果は「原案可決」。",
+      "proposal": {
+        "archiveId": "e534dcf8ea1b1bd5477f",
+        "block": 6
+      }
     },
     {
       "place": "越谷市",
@@ -48089,7 +48281,11 @@ GIKAI.coverage2026 = {
       "date": "2026-06-18",
       "sourceTitle": "採決日の公式本会議録",
       "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka806.html",
-      "voteNote": "付託先は民生常任委員会。委員会の審査結果は「原案可決」。"
+      "voteNote": "付託先は民生常任委員会。委員会の審査結果は「原案可決」。",
+      "proposal": {
+        "archiveId": "e534dcf8ea1b1bd5477f",
+        "block": 7
+      }
     },
     {
       "place": "越谷市",
@@ -48141,7 +48337,11 @@ GIKAI.coverage2026 = {
       "date": "2026-06-18",
       "sourceTitle": "採決日の公式本会議録",
       "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka806.html",
-      "voteNote": "付託先は民生常任委員会。委員会の審査結果は「原案可決」。"
+      "voteNote": "付託先は民生常任委員会。委員会の審査結果は「原案可決」。",
+      "proposal": {
+        "archiveId": "e534dcf8ea1b1bd5477f",
+        "block": 8
+      }
     },
     {
       "place": "越谷市",
@@ -48193,7 +48393,11 @@ GIKAI.coverage2026 = {
       "date": "2026-06-18",
       "sourceTitle": "採決日の公式本会議録",
       "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka806.html",
-      "voteNote": "付託先は環境経済・建設常任委員会。委員会の審査結果は「原案可決」。"
+      "voteNote": "付託先は環境経済・建設常任委員会。委員会の審査結果は「原案可決」。",
+      "proposal": {
+        "archiveId": "e534dcf8ea1b1bd5477f",
+        "block": 9
+      }
     },
     {
       "place": "越谷市",
@@ -48245,7 +48449,11 @@ GIKAI.coverage2026 = {
       "date": "2026-06-18",
       "sourceTitle": "採決日の公式本会議録",
       "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka806.html",
-      "voteNote": "付託先は環境経済・建設常任委員会。委員会の審査結果は「原案可決」。"
+      "voteNote": "付託先は環境経済・建設常任委員会。委員会の審査結果は「原案可決」。",
+      "proposal": {
+        "archiveId": "e534dcf8ea1b1bd5477f",
+        "block": 10
+      }
     },
     {
       "place": "越谷市",
@@ -48297,7 +48505,11 @@ GIKAI.coverage2026 = {
       "date": "2026-06-18",
       "sourceTitle": "採決日の公式本会議録",
       "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka806.html",
-      "voteNote": "付託先はこども・教育常任委員会。委員会の審査結果は「原案可決」。"
+      "voteNote": "付託先はこども・教育常任委員会。委員会の審査結果は「原案可決」。",
+      "proposal": {
+        "archiveId": "e534dcf8ea1b1bd5477f",
+        "block": 11
+      }
     },
     {
       "place": "越谷市",
@@ -48349,7 +48561,11 @@ GIKAI.coverage2026 = {
       "date": "2026-06-18",
       "sourceTitle": "採決日の公式本会議録",
       "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka806.html",
-      "voteNote": "付託先は予算決算常任委員会。委員会の審査結果は「原案可決」。"
+      "voteNote": "付託先は予算決算常任委員会。委員会の審査結果は「原案可決」。",
+      "proposal": {
+        "archiveId": "e534dcf8ea1b1bd5477f",
+        "block": 12
+      }
     },
     {
       "place": "越谷市",
@@ -48401,7 +48617,11 @@ GIKAI.coverage2026 = {
       "date": "2026-06-18",
       "sourceTitle": "採決日の公式本会議録",
       "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka806.html",
-      "voteNote": "付託先は予算決算常任委員会。委員会の審査結果は「原案可決」。"
+      "voteNote": "付託先は予算決算常任委員会。委員会の審査結果は「原案可決」。",
+      "proposal": {
+        "archiveId": "e534dcf8ea1b1bd5477f",
+        "block": 13
+      }
     },
     {
       "place": "越谷市",
@@ -48453,7 +48673,11 @@ GIKAI.coverage2026 = {
       "date": "2026-06-18",
       "sourceTitle": "採決日の公式本会議録",
       "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka806.html",
-      "voteNote": "付託先は総務常任委員会。委員会の審査結果は「原案可決」。"
+      "voteNote": "付託先は総務常任委員会。委員会の審査結果は「原案可決」。",
+      "proposal": {
+        "archiveId": "e534dcf8ea1b1bd5477f",
+        "block": 14
+      }
     },
     {
       "place": "越谷市",
@@ -48505,7 +48729,11 @@ GIKAI.coverage2026 = {
       "date": "2026-06-18",
       "sourceTitle": "採決日の公式本会議録",
       "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka806.html",
-      "voteNote": "付託先は総務常任委員会。委員会の審査結果は「原案可決」。"
+      "voteNote": "付託先は総務常任委員会。委員会の審査結果は「原案可決」。",
+      "proposal": {
+        "archiveId": "e534dcf8ea1b1bd5477f",
+        "block": 15
+      }
     },
     {
       "place": "越谷市",
@@ -48557,7 +48785,11 @@ GIKAI.coverage2026 = {
       "date": "2026-06-18",
       "sourceTitle": "採決日の公式本会議録",
       "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka806.html",
-      "voteNote": "付託先は環境経済・建設常任委員会。委員会の審査結果は「原案可決」。"
+      "voteNote": "付託先は環境経済・建設常任委員会。委員会の審査結果は「原案可決」。",
+      "proposal": {
+        "archiveId": "e534dcf8ea1b1bd5477f",
+        "block": 16
+      }
     },
     {
       "place": "越谷市",
@@ -48609,7 +48841,11 @@ GIKAI.coverage2026 = {
       "date": "2026-06-18",
       "sourceTitle": "採決日の公式本会議録",
       "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka806.html",
-      "voteNote": "付託先は環境経済・建設常任委員会。委員会の審査結果は「原案可決」。"
+      "voteNote": "付託先は環境経済・建設常任委員会。委員会の審査結果は「原案可決」。",
+      "proposal": {
+        "archiveId": "e534dcf8ea1b1bd5477f",
+        "block": 17
+      }
     },
     {
       "place": "越谷市",
@@ -48659,7 +48895,11 @@ GIKAI.coverage2026 = {
         "大田ちひろ": "賛成"
       },
       "date": "2026-06-18",
-      "sourceTitle": "採決日の公式本会議録"
+      "sourceTitle": "採決日の公式本会議録",
+      "proposal": {
+        "archiveId": "e534dcf8ea1b1bd5477f",
+        "block": 18
+      }
     },
     {
       "place": "越谷市",
@@ -50645,7 +50885,11 @@ GIKAI.coverage2026 = {
       },
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
-      "voteNote": "９月28日の本会議録画の公式目録で採決を確認。"
+      "voteNote": "９月28日の本会議録画の公式目録で採決を確認。",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 1
+      }
     },
     {
       "place": "越谷市",
@@ -50696,7 +50940,11 @@ GIKAI.coverage2026 = {
       },
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
-      "voteNote": "９月28日の本会議録画の公式目録で採決を確認。"
+      "voteNote": "９月28日の本会議録画の公式目録で採決を確認。",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 2
+      }
     },
     {
       "place": "越谷市",
@@ -50747,7 +50995,11 @@ GIKAI.coverage2026 = {
       },
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
-      "voteNote": "９月28日の本会議録画の公式目録で採決を確認。"
+      "voteNote": "９月28日の本会議録画の公式目録で採決を確認。",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 3
+      }
     },
     {
       "place": "越谷市",
@@ -50798,7 +51050,11 @@ GIKAI.coverage2026 = {
       },
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
-      "voteNote": "９月28日の本会議録画の公式目録で採決を確認。"
+      "voteNote": "９月28日の本会議録画の公式目録で採決を確認。",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 4
+      }
     },
     {
       "place": "越谷市",
@@ -50850,7 +51106,11 @@ GIKAI.coverage2026 = {
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
       "voteNote": "９月28日の本会議録画の公式目録で採決を確認。付託先は総務常任委員会。委員会の審査結果は「原案可決」。",
-      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html"
+      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 5
+      }
     },
     {
       "place": "越谷市",
@@ -50902,7 +51162,11 @@ GIKAI.coverage2026 = {
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
       "voteNote": "９月28日の本会議録画の公式目録で採決を確認。付託先は総務常任委員会。委員会の審査結果は「原案可決」。",
-      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html"
+      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 6
+      }
     },
     {
       "place": "越谷市",
@@ -50954,7 +51218,11 @@ GIKAI.coverage2026 = {
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
       "voteNote": "９月28日の本会議録画の公式目録で採決を確認。付託先は総務常任委員会。委員会の審査結果は「原案可決」。",
-      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html"
+      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 7
+      }
     },
     {
       "place": "越谷市",
@@ -51006,7 +51274,11 @@ GIKAI.coverage2026 = {
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
       "voteNote": "９月28日の本会議録画の公式目録で採決を確認。付託先は総務常任委員会。委員会の審査結果は「原案可決」。",
-      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html"
+      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 8
+      }
     },
     {
       "place": "越谷市",
@@ -51058,7 +51330,11 @@ GIKAI.coverage2026 = {
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
       "voteNote": "９月28日の本会議録画の公式目録で採決を確認。付託先は民生常任委員会。委員会の審査結果は「原案可決」。",
-      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html"
+      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 9
+      }
     },
     {
       "place": "越谷市",
@@ -51110,7 +51386,11 @@ GIKAI.coverage2026 = {
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
       "voteNote": "９月28日の本会議録画の公式目録で採決を確認。付託先は民生常任委員会。委員会の審査結果は「原案可決」。",
-      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html"
+      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 10
+      }
     },
     {
       "place": "越谷市",
@@ -51162,7 +51442,11 @@ GIKAI.coverage2026 = {
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
       "voteNote": "９月28日の本会議録画の公式目録で採決を確認。付託先は民生常任委員会。委員会の審査結果は「原案可決」。",
-      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html"
+      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 11
+      }
     },
     {
       "place": "越谷市",
@@ -51214,7 +51498,11 @@ GIKAI.coverage2026 = {
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
       "voteNote": "９月28日の本会議録画の公式目録で採決を確認。付託先は民生常任委員会。委員会の審査結果は「原案可決」。",
-      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html"
+      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 12
+      }
     },
     {
       "place": "越谷市",
@@ -51266,7 +51554,11 @@ GIKAI.coverage2026 = {
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
       "voteNote": "９月28日の本会議録画の公式目録で採決を確認。付託先は民生常任委員会。委員会の審査結果は「原案可決」。",
-      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html"
+      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 13
+      }
     },
     {
       "place": "越谷市",
@@ -51318,7 +51610,11 @@ GIKAI.coverage2026 = {
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
       "voteNote": "９月28日の本会議録画の公式目録で採決を確認。付託先は民生常任委員会。委員会の審査結果は「原案可決」。",
-      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html"
+      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 14
+      }
     },
     {
       "place": "越谷市",
@@ -51370,7 +51666,11 @@ GIKAI.coverage2026 = {
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
       "voteNote": "９月28日の本会議録画の公式目録で採決を確認。付託先は民生常任委員会。委員会の審査結果は「原案可決」。",
-      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html"
+      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 15
+      }
     },
     {
       "place": "越谷市",
@@ -51422,7 +51722,11 @@ GIKAI.coverage2026 = {
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
       "voteNote": "９月28日の本会議録画の公式目録で採決を確認。付託先は民生常任委員会。委員会の審査結果は「原案可決」。",
-      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html"
+      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 16
+      }
     },
     {
       "place": "越谷市",
@@ -51474,7 +51778,11 @@ GIKAI.coverage2026 = {
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
       "voteNote": "９月28日の本会議録画の公式目録で採決を確認。付託先は民生常任委員会。委員会の審査結果は「原案可決」。",
-      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html"
+      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 17
+      }
     },
     {
       "place": "越谷市",
@@ -51526,7 +51834,11 @@ GIKAI.coverage2026 = {
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
       "voteNote": "９月28日の本会議録画の公式目録で採決を確認。付託先は環境経済・建設常任委員会。委員会の審査結果は「原案可決」。",
-      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html"
+      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 18
+      }
     },
     {
       "place": "越谷市",
@@ -51578,7 +51890,11 @@ GIKAI.coverage2026 = {
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
       "voteNote": "９月28日の本会議録画の公式目録で採決を確認。付託先は環境経済・建設常任委員会。委員会の審査結果は「原案可決」。",
-      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html"
+      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 19
+      }
     },
     {
       "place": "越谷市",
@@ -51630,7 +51946,11 @@ GIKAI.coverage2026 = {
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
       "voteNote": "９月28日の本会議録画の公式目録で採決を確認。付託先は環境経済・建設常任委員会。委員会の審査結果は「原案可決」。",
-      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html"
+      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 20
+      }
     },
     {
       "place": "越谷市",
@@ -51682,7 +52002,11 @@ GIKAI.coverage2026 = {
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
       "voteNote": "９月28日の本会議録画の公式目録で採決を確認。付託先はこども・教育常任委員会。委員会の審査結果は「原案可決」。",
-      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html"
+      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 21
+      }
     },
     {
       "place": "越谷市",
@@ -51734,7 +52058,11 @@ GIKAI.coverage2026 = {
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
       "voteNote": "９月28日の本会議録画の公式目録で採決を確認。付託先はこども・教育常任委員会。委員会の審査結果は「原案可決」。",
-      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html"
+      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 22
+      }
     },
     {
       "place": "越谷市",
@@ -51786,7 +52114,11 @@ GIKAI.coverage2026 = {
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
       "voteNote": "９月28日の本会議録画の公式目録で採決を確認。付託先はこども・教育常任委員会。委員会の審査結果は「原案可決」。",
-      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html"
+      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 23
+      }
     },
     {
       "place": "越谷市",
@@ -51838,7 +52170,11 @@ GIKAI.coverage2026 = {
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
       "voteNote": "９月28日の本会議録画の公式目録で採決を確認。付託先はこども・教育常任委員会。委員会の審査結果は「原案可決」。",
-      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html"
+      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 24
+      }
     },
     {
       "place": "越谷市",
@@ -51890,7 +52226,11 @@ GIKAI.coverage2026 = {
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
       "voteNote": "９月28日の本会議録画の公式目録で採決を確認。付託先はこども・教育常任委員会。委員会の審査結果は「原案可決」。",
-      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html"
+      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 25
+      }
     },
     {
       "place": "越谷市",
@@ -51942,7 +52282,11 @@ GIKAI.coverage2026 = {
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
       "voteNote": "９月28日の本会議録画の公式目録で採決を確認。付託先はこども・教育常任委員会。委員会の審査結果は「原案可決」。",
-      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html"
+      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 26
+      }
     },
     {
       "place": "越谷市",
@@ -51994,7 +52338,11 @@ GIKAI.coverage2026 = {
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
       "voteNote": "９月28日の本会議録画の公式目録で採決を確認。付託先はこども・教育常任委員会。委員会の審査結果は「原案可決」。",
-      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html"
+      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 27
+      }
     },
     {
       "place": "越谷市",
@@ -52046,7 +52394,11 @@ GIKAI.coverage2026 = {
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
       "voteNote": "９月28日の本会議録画の公式目録で採決を確認。付託先はこども・教育常任委員会。委員会の審査結果は「原案可決」。",
-      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html"
+      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 28
+      }
     },
     {
       "place": "越谷市",
@@ -52098,7 +52450,11 @@ GIKAI.coverage2026 = {
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
       "voteNote": "９月28日の本会議録画の公式目録で採決を確認。付託先は予算決算常任委員会。委員会の審査結果は「原案可決」。",
-      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html"
+      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 29
+      }
     },
     {
       "place": "越谷市",
@@ -52150,7 +52506,11 @@ GIKAI.coverage2026 = {
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
       "voteNote": "９月28日の本会議録画の公式目録で採決を確認。付託先は予算決算常任委員会。委員会の審査結果は「原案可決」。",
-      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html"
+      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 30
+      }
     },
     {
       "place": "越谷市",
@@ -52202,7 +52562,11 @@ GIKAI.coverage2026 = {
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
       "voteNote": "９月28日の本会議録画の公式目録で採決を確認。付託先は予算決算常任委員会。委員会の審査結果は「原案可決」。",
-      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html"
+      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 31
+      }
     },
     {
       "place": "越谷市",
@@ -52254,7 +52618,11 @@ GIKAI.coverage2026 = {
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
       "voteNote": "９月28日の本会議録画の公式目録で採決を確認。付託先は予算決算常任委員会。委員会の審査結果は「原案可決」。",
-      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html"
+      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 32
+      }
     },
     {
       "place": "越谷市",
@@ -52306,7 +52674,11 @@ GIKAI.coverage2026 = {
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
       "voteNote": "９月28日の本会議録画の公式目録で採決を確認。付託先は予算決算常任委員会。委員会の審査結果は「原案可決」。",
-      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html"
+      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 33
+      }
     },
     {
       "place": "越谷市",
@@ -52358,7 +52730,11 @@ GIKAI.coverage2026 = {
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
       "voteNote": "９月28日の本会議録画の公式目録で採決を確認。付託先は予算決算常任委員会。委員会の審査結果は「原案可決」。",
-      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html"
+      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 34
+      }
     },
     {
       "place": "越谷市",
@@ -52410,7 +52786,11 @@ GIKAI.coverage2026 = {
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
       "voteNote": "９月28日の本会議録画の公式目録で採決を確認。付託先は予算決算常任委員会。委員会の審査結果は「原案可決」。",
-      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html"
+      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 35
+      }
     },
     {
       "place": "越谷市",
@@ -52462,7 +52842,11 @@ GIKAI.coverage2026 = {
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
       "voteNote": "９月28日の本会議録画の公式目録で採決を確認。付託先は予算決算常任委員会。委員会の審査結果は「原案可決」。",
-      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html"
+      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 36
+      }
     },
     {
       "place": "越谷市",
@@ -52514,7 +52898,11 @@ GIKAI.coverage2026 = {
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
       "voteNote": "９月28日の本会議録画の公式目録で採決を確認。付託先は予算決算常任委員会。委員会の審査結果は「認定可決」。",
-      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html"
+      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 37
+      }
     },
     {
       "place": "越谷市",
@@ -52566,7 +52954,11 @@ GIKAI.coverage2026 = {
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
       "voteNote": "９月28日の本会議録画の公式目録で採決を確認。付託先は予算決算常任委員会。委員会の審査結果は「認定可決」。",
-      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html"
+      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 38
+      }
     },
     {
       "place": "越谷市",
@@ -52618,7 +53010,11 @@ GIKAI.coverage2026 = {
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
       "voteNote": "９月28日の本会議録画の公式目録で採決を確認。付託先は予算決算常任委員会。委員会の審査結果は「認定可決」。",
-      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html"
+      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 39
+      }
     },
     {
       "place": "越谷市",
@@ -52670,7 +53066,11 @@ GIKAI.coverage2026 = {
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
       "voteNote": "９月28日の本会議録画の公式目録で採決を確認。付託先は予算決算常任委員会。委員会の審査結果は「認定可決」。",
-      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html"
+      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 40
+      }
     },
     {
       "place": "越谷市",
@@ -52722,7 +53122,11 @@ GIKAI.coverage2026 = {
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
       "voteNote": "９月28日の本会議録画の公式目録で採決を確認。付託先は予算決算常任委員会。委員会の審査結果は「認定可決」。",
-      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html"
+      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 41
+      }
     },
     {
       "place": "越谷市",
@@ -52774,7 +53178,11 @@ GIKAI.coverage2026 = {
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
       "voteNote": "９月28日の本会議録画の公式目録で採決を確認。付託先は予算決算常任委員会。委員会の審査結果は「認定可決」。",
-      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html"
+      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 42
+      }
     },
     {
       "place": "越谷市",
@@ -52826,7 +53234,11 @@ GIKAI.coverage2026 = {
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
       "voteNote": "９月28日の本会議録画の公式目録で採決を確認。付託先は予算決算常任委員会。委員会の審査結果は「認定可決」。",
-      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html"
+      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 43
+      }
     },
     {
       "place": "越谷市",
@@ -52878,7 +53290,11 @@ GIKAI.coverage2026 = {
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
       "voteNote": "９月28日の本会議録画の公式目録で採決を確認。付託先は予算決算常任委員会。委員会の審査結果は「認定可決」。",
-      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html"
+      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 44
+      }
     },
     {
       "place": "越谷市",
@@ -52930,7 +53346,11 @@ GIKAI.coverage2026 = {
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
       "voteNote": "９月28日の本会議録画の公式目録で採決を確認。付託先は予算決算常任委員会。委員会の審査結果は「認定可決」。",
-      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html"
+      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 45
+      }
     },
     {
       "place": "越谷市",
@@ -52982,7 +53402,11 @@ GIKAI.coverage2026 = {
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
       "voteNote": "９月28日の本会議録画の公式目録で採決を確認。付託先は予算決算常任委員会。委員会の審査結果は「原案可決及び認定可決」。",
-      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html"
+      "committeeURL": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html",
+      "proposal": {
+        "archiveId": "45a770ceb20420d66592",
+        "block": 46
+      }
     },
     {
       "place": "越谷市",

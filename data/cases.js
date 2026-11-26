@@ -23668,3 +23668,64 @@ GIKAI.cases.push(...[
     "note": "継続審査と意見募集への回答公表まで確認。計画の最終議決と施策の実施は確認中。"
   }
 ]);
+
+GIKAI.cases.push({
+  "place": "越谷市",
+  "title": "体育施設の使用料改定で増収見込みと改修方針を審査し、新料金を公表",
+  "topic": "体育施設・使用料",
+  "actors": [
+    "越谷市",
+    "越谷市議会",
+    "民生常任委員会"
+  ],
+  "steps": [
+    {
+      "date": "2026-08-25",
+      "actor": "越谷市",
+      "stage": "体育館・屋外体育施設・市民プールの改定案を掲載",
+      "detail": "越谷市は、３種類の施設の使用料の見直しに伴う改正を、議案第68～70号として議案概要に掲載した。",
+      "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sityo/sityogian809.html",
+      "sourceTitle": "令和８年9月定例会 市長提出議案の件名と概要",
+      "archiveId": "45a770ceb20420d66592",
+      "blocks": [
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "date": "2026-09",
+      "actor": "民生常任委員会、越谷市",
+      "stage": "増収見込み、子ども料金、老朽施設の改修を審査",
+      "detail": "委員会は利用者の減少の見通し、子ども料金、施設改修を質した。市は合計約6,000万円の増収見込み、原則事前登録で適用する子ども料金、北体育館の大規模改修予定と他の体育館を優先順位に沿って改修する方針を説明した。",
+      "url": "https://www.city.koshigaya.saitama.jp/gikai/dayori/2026/234-4-5.html",
+      "sourceTitle": "越谷市議会だより234号・常任委員会と予算決算分科会の質疑（4〜5頁）",
+      "archiveId": "d60345ba15cda9f22d44",
+      "blocks": [
+        3
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "actor": "越谷市議会",
+      "stage": "３つの使用料改定条例を可決",
+      "detail": "本会議は体育館、屋外体育施設、市民プールの改正３件をそれぞれ賛成多数で原案可決した。",
+      "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/giketsu/files/gikaikekka80928.pdf#page=2",
+      "sourceTitle": "越谷市議会 ９月定例会の記名表決原表",
+      "billNumber": "議案第70号"
+    },
+    {
+      "date": "2026-11-16",
+      "actor": "越谷市",
+      "stage": "2027年４月からの料金表の案内を更新",
+      "detail": "市の現行案内は11月16日更新。2027年４月１日利用分からの新料金を掲載している。市民プールの温水プール１回の一般は400円から600円、児童・生徒は300円から450円、60歳以上は200円から300円。",
+      "url": "https://www.city.koshigaya.saitama.jp/kurashi_shisei/kosodate/supotu/etc/files/taiikushisetukaitei.pdf#page=2",
+      "sourceTitle": "越谷市の体育施設新旧料金一覧２頁",
+      "archiveId": "5b60fb829c662c3ec8ec",
+      "blocks": [
+        2
+      ]
+    }
+  ],
+  "note": "増収額は委員会答弁時点の見込み。改定後の利用・収入および体育館の改修実績は確認中。"
+});

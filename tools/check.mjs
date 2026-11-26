@@ -434,6 +434,12 @@ for (const bill of coverage.decisions) {
     validLink(url);
   }
   if (bill.committeeURL) validLink(bill.committeeURL);
+  if (bill.proposal) {
+    const doc = archivedQuestionDocs.get(bill.proposal.archiveId);
+    assert.ok(doc?.place === bill.place && doc.season === bill.season &&
+      doc.scope === "supporting" && doc.kind === "議案の提案理由（公式資料）", key);
+    assert.ok(Number.isSafeInteger(bill.proposal.block) && bill.proposal.block > 0, key);
+  }
   if (bill.proposalRole) assert.ok(bill.proposalRole === "発議者" && bill.names?.length, key);
   if (bill.proposalSupporters) {
     assert.ok(bill.names?.length && bill.proposalSupporters.length, key);

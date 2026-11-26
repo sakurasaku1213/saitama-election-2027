@@ -781,7 +781,11 @@
     const resultTitle = b.resultLocator || (separateVote ? "議決結果の原表" : "審議結果・表決の原表");
     const voteTitle = byGroup ? "会派等の表決の原表" : ballots.length ? "記名表決の原表" : "表決の注記の原表";
     const record = b.archiveId && D.questionText.documents.find((doc) => doc.id === b.archiveId);
-    const sources = `${proposalSource} ${link(b.resultURL, resultTitle)}
+    const proposal = b.proposal && D.questionText.documents.find((doc) => doc.id === b.proposal.archiveId);
+    const proposalText = proposal
+      ? link(proposal.url, "公式の議案概要") + archivedMinutes(b.place, proposal.date, proposal.id, [b.proposal.block])
+      : "";
+    const sources = `${proposalSource} ${proposalText} ${link(b.resultURL, resultTitle)}
       ${separateVote ? link(b.voteURL, voteTitle) : ""}
       ${b.committeeURL ? link(b.committeeURL, "委員会審査の公式一覧") : ""}
       ${b.voteConflictURL ? link(b.voteConflictURL, "採決を宣告した議長を確認できる会議録") : ""}
