@@ -2197,14 +2197,34 @@ GIKAI.cases.push(
         sourceTitle: "戸田市 窓口受付時間等の短縮案・意見募集",
       },
       {
-        date: "2026-09-10", stage: "受付短縮後の市民サービス維持を質す", actor: "辺見智子、戸田市",
-        detail: "議会だよりは、辺見議員が日中の来庁が難しい人やデジタルに不慣れな人への配慮を求めたと掲載した。市は、コンビニ交付等の効果検証、周知と代替手段の確保を進めると答えた。",
-        url: "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055902&fileId=dd82a10f1e594ab2aa76f45623067024&fileName=236_A3.pdf#page=7",
-        sourceTitle: "とだ議会だより第236号・紙面13頁",
-        archiveId: "177341ec1750dfb3e664",
-        memberActions: [
-          { name: "辺見智子", blocks: [21], detail: "受付短縮後も利用しやすい方法を質し、デジタルに不慣れな人への伴走支援と、確保した時間の対面サービスへの活用を求めた。" },
+        "date": "2026-09-10",
+        "stage": "受付短縮の影響と市民の意見を把握する方法を質す",
+        "actor": "辺見智子、戸田市",
+        "detail": "市は５月の本庁舎の利用調査で、短縮を予定する時間帯への来庁が全体の約89.5％だったと説明した。辺見議員は、試行中に利用者への影響や満足度を把握するよう求め、市はアンケートを含む意見収集方法を検討すると答えた。",
+        "url": "https://toda.gijiroku.com/gikai/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&FMM=1&FDD=1&TYY=2026&TMM=12&TDD=31&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82X%8C%8E%92%E8%97%E1%89%EF%81%7C09%8C%8E10%93%FA-04%8D%86&KGNO=160&FINO=1307&UNID=K_R08091000041",
+        "sourceTitle": "戸田市議会・2026-09-10 本会議録",
+        "archiveId": "819e387e3d3a3a456d83",
+        "blocks": [
+          286,
+          289,
+          292,
+          295,
+          316,
+          319,
+          322,
+          325
         ],
+        "memberActions": [
+          {
+            "name": "辺見智子",
+            "detail": "利用者の時間帯別の実態を確かめ、試行中に幅広い利用者の意見を把握するよう求めた。",
+            "blocks": [
+              292,
+              316,
+              322
+            ]
+          }
+        ]
       },
       {
         date: "2026-11-24", stage: "市が窓口の試行日程と検証方法を公表", actor: "戸田市",
@@ -16338,8 +16358,12 @@ GIKAI.cases.push(...[
         "stage": "設計の変更内容と救急受入れの実績を報告",
         "actor": "蕨市",
         "detail": "市長報告では８月１日から実施設計に着手。概算工事費は2億700万円減の約84億9,300万円。８月末時点の救急受入率は前年同時期54.2％から91.2％。",
-        "url": "https://www.city.warabi.saitama.jp/shisei/mayor/houkoku/1013223.html",
-        "sourceTitle": "蕨市・９月市長報告"
+        "url": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82T%89%F1%92%E8%97%E1%89%EF%81%7C09%8C%8E01%93%FA-01%8D%86&HUID=125631&KGNO=627&FINO=1540&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+        "sourceTitle": "蕨市議会・2026-09-01 本会議録",
+        "archiveId": "bc5f20ae68fc585275ff",
+        "blocks": [
+          13
+        ]
       }
     ],
     "note": "附帯決議の要請に対応する外部検証、設計の見直し、実施設計着手を確認。概算工事費と当初の概算事業費は対象範囲が異なる。開院、病院経営の長期改善は確認待ち。"
@@ -16537,22 +16561,58 @@ GIKAI.cases.push(...[
         ]
       },
       {
+        "date": "2026-09-07",
+        "actor": "前川やすえ、蕨市",
+        "stage": "増額の根拠と交付金の扱いを質疑",
+        "detail": "前川議員が蕨宿の交流拠点整備費を増額する理由と、交付決定後に増額を申請できるかを質した。市は人件費・輸送費の上昇や省エネ基準への対応などを説明した。",
+        "url": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82T%89%F1%92%E8%97%E1%89%EF%81%7C09%8C%8E07%93%FA-02%8D%86&HUID=125668&KGNO=627&FINO=1541&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+        "sourceTitle": "蕨市議会・2026-09-07 本会議録",
+        "archiveId": "23e706c29a5d1d978092",
+        "blocks": [
+          13,
+          14,
+          17
+        ],
+        "memberActions": [
+          {
+            "name": "前川やすえ",
+            "detail": "施設整備費の増額理由と交付金の追加申請の余地を質疑した。",
+            "blocks": [
+              13,
+              17
+            ]
+          }
+        ]
+      },
+      {
         "date": "2026-09-29",
         "stage": "設置と管理に関する条例を可決",
         "actor": "蕨市議会",
         "detail": "施設の業務、使用許可・使用料と指定管理者による運営を定める条例を可決。",
-        "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1701&Sflg=2&kword1=&kword2=",
-        "sourceTitle": "市議会・議案の提案理由と原文",
-        "billNumber": "議案第55号"
+        "url": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82T%89%F1%92%E8%97%E1%89%EF%81%7C09%8C%8E29%93%FA-06%8D%86&HUID=126507&KGNO=627&FINO=1545&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+        "sourceTitle": "蕨市議会・2026-09-29 本会議録",
+        "billNumber": "議案第55号",
+        "archiveId": "45c5ec45a60c201b3fed",
+        "blocks": [
+          14,
+          34,
+          35
+        ]
       },
       {
         "date": "2026-09-29",
         "stage": "仕様変更に伴う整備工事費の補正を可決",
         "actor": "蕨市議会",
         "detail": "一般会計補正には公共施設の仕様変更に伴う工事費増額が含まれる。",
-        "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1703&Sflg=2&kword1=&kword2=",
-        "sourceTitle": "市議会・議案の提案理由と原文",
-        "billNumber": "議案第57号"
+        "url": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82T%89%F1%92%E8%97%E1%89%EF%81%7C09%8C%8E29%93%FA-06%8D%86&HUID=126507&KGNO=627&FINO=1545&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+        "sourceTitle": "蕨市議会・2026-09-29 本会議録",
+        "billNumber": "議案第57号",
+        "archiveId": "45c5ec45a60c201b3fed",
+        "blocks": [
+          18,
+          36,
+          37
+        ]
       },
       {
         "date": "2026-10-01",
@@ -16610,8 +16670,12 @@ GIKAI.cases.push(...[
         "stage": "配布と８月からの利用を報告",
         "actor": "蕨市",
         "detail": "７月に配送し、８月１日に利用開始。８月６日から未受領分を窓口で交付。取扱店は市報告で420店以上。",
-        "url": "https://www.city.warabi.saitama.jp/shisei/mayor/houkoku/1013223.html",
-        "sourceTitle": "蕨市・９月市長報告"
+        "url": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82T%89%F1%92%E8%97%E1%89%EF%81%7C09%8C%8E01%93%FA-01%8D%86&HUID=125631&KGNO=627&FINO=1540&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+        "sourceTitle": "蕨市議会・2026-09-01 本会議録",
+        "archiveId": "bc5f20ae68fc585275ff",
+        "blocks": [
+          13
+        ]
       },
       {
         "date": "2026-10-31",
@@ -16779,9 +16843,14 @@ GIKAI.cases.push(...[
         "stage": "実施事業者の環境整備補助を含む補正を可決",
         "actor": "蕨市議会",
         "detail": "乳児等通園支援事業の実施事業者を対象とする環境整備補助を一般会計補正に計上。",
-        "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1703&Sflg=2&kword1=&kword2=",
-        "sourceTitle": "市議会・議案の提案理由と原文",
-        "billNumber": "議案第57号"
+        "url": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82T%89%F1%92%E8%97%E1%89%EF%81%7C09%8C%8E29%93%FA-06%8D%86&HUID=126507&KGNO=627&FINO=1545&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+        "sourceTitle": "蕨市議会・2026-09-29 本会議録",
+        "billNumber": "議案第57号",
+        "archiveId": "45c5ec45a60c201b3fed",
+        "blocks": [
+          36,
+          37
+        ]
       }
     ],
     "note": "利用案内と補正の議決を確認。施設ごとの利用実績や補助金の交付実績は確認待ち。"
@@ -16812,9 +16881,15 @@ GIKAI.cases.push(...[
         "stage": "避難所用の蓄電池20台の購入を可決",
         "actor": "蕨市議会",
         "detail": "７月29日に７社を指名した入札を実施し、契約金額は2,981万円。議案説明での納期は10月30日の予定。",
-        "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1709&Sflg=2&kword1=&kword2=",
-        "sourceTitle": "市議会・議案の提案理由と原文",
-        "billNumber": "議案第63号"
+        "url": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82T%89%F1%92%E8%97%E1%89%EF%81%7C09%8C%8E29%93%FA-06%8D%86&HUID=126507&KGNO=627&FINO=1545&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+        "sourceTitle": "蕨市議会・2026-09-29 本会議録",
+        "billNumber": "議案第63号",
+        "archiveId": "45c5ec45a60c201b3fed",
+        "blocks": [
+          16,
+          38,
+          39
+        ]
       }
     ],
     "note": "財産取得の議決を確認。20台の検収および個別の配置場所は確認待ち。"
@@ -16836,25 +16911,63 @@ GIKAI.cases.push(...[
         "stage": "陳情第３号を委員会に付託",
         "actor": "蕨市議会",
         "detail": "政府の条約署名・批准と、会議へのオブザーバー参加を求める意見書の提出を要望。",
-        "url": "https://warabi.gijiroku.com/gikai/g07_ChinjoView.asp?SrchID=65&Title=%93%FA%96%7B%90%AD%95%7B%82%C9%8Aj%95%BA%8A%ED%8B%D6%8E~%8F%F0%96%F1%82%C9%88%EA%93%FA%82%E0%91%81%82%A2%8F%90%96%BC%81A%94%E1%8Fy%82%F0%8B%81%82%DF%81A%8D%A1%94N%82P%82P%8C%8E%82%C9%8AJ%82%A9%82%EA%82%E9%97%5C%92%E8%82%CC%8D%C4%8C%9F%93%A2%89%EF%8Bc%82%C9%83I%83u%83U%81%5B%83o%81%5B%82%C6%82%B5%82%C4%8EQ%89%C1%82%F0%8B%81%82%DF%82%E9%88%D3%8C%A9%8F%91%82%CC%92%F1%8Fo%82%F0%8B%81%82%DF%82%E9%92%C2%8F%EE&kword1=&kword2=",
-        "sourceTitle": "蕨市議会・陳情の詳細"
+        "url": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82T%89%F1%92%E8%97%E1%89%EF%81%7C09%8C%8E01%93%FA-01%8D%86&HUID=125631&KGNO=627&FINO=1540&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+        "sourceTitle": "蕨市議会・2026-09-01 本会議録",
+        "archiveId": "bc5f20ae68fc585275ff",
+        "blocks": [
+          10
+        ]
       },
       {
         "date": "2026-09-29",
-        "stage": "３議員の討論を公式録画目録で確認",
+        "stage": "３議員が賛否の理由を討論",
         "actor": "鈴木慎乃助、鈴木智、小林利規",
-        "detail": "討論した３人の氏名は公式録画の目録に掲載されている。討論部分を録画で確認できる。",
-        "url": "https://warabi.gijiroku.com/g07_Video_View.asp?SrchID=2401",
-        "sourceTitle": "蕨市議会・討論と採決の公式録画"
+        "detail": "鈴木慎乃助議員は反対、鈴木智議員と小林利規議員は賛成の立場で、それぞれ陳情への意見を述べた。",
+        "url": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82T%89%F1%92%E8%97%E1%89%EF%81%7C09%8C%8E29%93%FA-06%8D%86&HUID=126507&KGNO=627&FINO=1545&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+        "sourceTitle": "蕨市議会・2026-09-29 本会議録",
+        "archiveId": "45c5ec45a60c201b3fed",
+        "blocks": [
+          26,
+          28,
+          30
+        ],
+        "memberActions": [
+          {
+            "name": "鈴木慎乃助",
+            "detail": "陳情第３号への反対討論を行った。",
+            "blocks": [
+              26
+            ]
+          },
+          {
+            "name": "鈴木智",
+            "detail": "陳情第３号への賛成討論を行った。",
+            "blocks": [
+              28
+            ]
+          },
+          {
+            "name": "小林利規",
+            "detail": "陳情第３号への賛成討論を行った。",
+            "blocks": [
+              30
+            ]
+          }
+        ]
       },
       {
         "date": "2026-09-29",
         "stage": "本会議で不採択",
         "actor": "蕨市議会",
         "detail": "市公式の議決結果は不採択。",
-        "url": "https://warabi.gijiroku.com/gikai/g07_ChinjoView.asp?SrchID=65&Title=%93%FA%96%7B%90%AD%95%7B%82%C9%8Aj%95%BA%8A%ED%8B%D6%8E~%8F%F0%96%F1%82%C9%88%EA%93%FA%82%E0%91%81%82%A2%8F%90%96%BC%81A%94%E1%8Fy%82%F0%8B%81%82%DF%81A%8D%A1%94N%82P%82P%8C%8E%82%C9%8AJ%82%A9%82%EA%82%E9%97%5C%92%E8%82%CC%8D%C4%8C%9F%93%A2%89%EF%8Bc%82%C9%83I%83u%83U%81%5B%83o%81%5B%82%C6%82%B5%82%C4%8EQ%89%C1%82%F0%8B%81%82%DF%82%E9%88%D3%8C%A9%8F%91%82%CC%92%F1%8Fo%82%F0%8B%81%82%DF%82%E9%92%C2%8F%EE&kword1=&kword2=",
-        "sourceTitle": "公式の陳情詳細と本文",
-        "billNumber": "陳情第3号"
+        "url": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82T%89%F1%92%E8%97%E1%89%EF%81%7C09%8C%8E29%93%FA-06%8D%86&HUID=126507&KGNO=627&FINO=1545&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+        "sourceTitle": "蕨市議会・2026-09-29 本会議録",
+        "billNumber": "陳情第3号",
+        "archiveId": "45c5ec45a60c201b3fed",
+        "blocks": [
+          32,
+          33
+        ]
       }
     ],
     "note": "議員の討論参加は録画目録、議会の結論は市の陳情審議結果を参照。"

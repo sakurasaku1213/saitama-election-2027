@@ -53984,6 +53984,248 @@ GIKAI.questionText = {
       "url": "https://ssp.kaigiroku.net/tenant/tsurugashima/SpMinuteView.html?tenant_id=42&council_id=370&schedule_id=7",
       "note": "公式の年度別目次と日付を照合。本文の区間は原典の区切りに対応。",
       "speakers": []
+    },
+    {
+      "id": "ad7dbd634070ae708b19",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "令和８年第５回定例会 目次",
+      "kind": "公式会議録の付録（HTML）",
+      "scope": "supporting",
+      "url": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82T%89%F1%92%E8%97%E1%89%EF%81%7C09%8C%8E01%93%FA-%96%DA%8E%9F&KGNO=627&FINO=1539&UNID=K_R08090100001",
+      "note": "市議会の公式HTML本文を収録。",
+      "speakers": []
+    },
+    {
+      "id": "bc5f20ae68fc585275ff",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "2026-09-01 本会議録",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "url": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82T%89%F1%92%E8%97%E1%89%EF%81%7C09%8C%8E01%93%FA-01%8D%86&HUID=125631&KGNO=627&FINO=1540&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "note": "市議会の公式目次にある日別本文を開議から終わりまで収録。",
+      "speakers": []
+    },
+    {
+      "id": "23e706c29a5d1d978092",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-07",
+      "title": "2026-09-07 本会議録",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "url": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82T%89%F1%92%E8%97%E1%89%EF%81%7C09%8C%8E07%93%FA-02%8D%86&HUID=125668&KGNO=627&FINO=1541&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "note": "市議会の公式目次にある日別本文を開議から終わりまで収録。",
+      "speakers": [
+        "前川やすえ"
+      ]
+    },
+    {
+      "id": "867693036e41f2a42396",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-17",
+      "title": "2026-09-17 本会議録",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "url": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82T%89%F1%92%E8%97%E1%89%EF%81%7C09%8C%8E17%93%FA-03%8D%86&HUID=125764&KGNO=627&FINO=1542&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "note": "市議会の公式目次にある日別本文。一般質問の登壇者は議長の指名と発言冒頭を照合。",
+      "speakers": [
+        "庄野航二",
+        "栃本よしかね",
+        "比企孝司",
+        "岡田みきお",
+        "矢嶋聡子"
+      ]
+    },
+    {
+      "id": "898d88f7cf562ca37acd",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-18",
+      "title": "2026-09-18 本会議録",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "url": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82T%89%F1%92%E8%97%E1%89%EF%81%7C09%8C%8E18%93%FA-04%8D%86&HUID=126025&KGNO=627&FINO=1543&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "note": "市議会の公式目次にある日別本文。一般質問の登壇者は議長の指名と発言冒頭を照合。",
+      "speakers": [
+        "本田てい子",
+        "宮下奈美",
+        "小林利規",
+        "大石幸一",
+        "鈴木慎乃助"
+      ]
+    },
+    {
+      "id": "8b709443174cd7ec429a",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-24",
+      "title": "2026-09-24 本会議録",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "url": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82T%89%F1%92%E8%97%E1%89%EF%81%7C09%8C%8E24%93%FA-05%8D%86&HUID=126227&KGNO=627&FINO=1544&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "note": "市議会の公式目次にある日別本文。一般質問の登壇者は議長の指名と発言冒頭を照合。",
+      "speakers": [
+        "鈴木智",
+        "山脇紀子",
+        "榎本和孝",
+        "金丸けんじ",
+        "前川やすえ"
+      ]
+    },
+    {
+      "id": "45c5ec45a60c201b3fed",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-29",
+      "title": "2026-09-29 本会議録",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "url": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82T%89%F1%92%E8%97%E1%89%EF%81%7C09%8C%8E29%93%FA-06%8D%86&HUID=126507&KGNO=627&FINO=1545&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "note": "市議会の公式目次にある日別本文を開議から終わりまで収録。",
+      "speakers": [
+        "鈴木慎乃助",
+        "鈴木智",
+        "小林利規"
+      ]
+    },
+    {
+      "id": "b56c3880a740b2d8ac90",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-29",
+      "title": "令和８年第５回定例会 付録",
+      "kind": "公式会議録の付録（HTML）",
+      "scope": "supporting",
+      "url": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82T%89%F1%92%E8%97%E1%89%EF%81%7C09%8C%8E29%93%FA-%95t%98^&HUID=126587&KGNO=627&FINO=1546&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0",
+      "note": "市議会の公式HTML本文を収録。",
+      "speakers": []
+    },
+    {
+      "id": "02ae9b97e19c17380fe3",
+      "place": "戸田市",
+      "season": "fall",
+      "date": "2026-08-24",
+      "title": "令和８年９月定例会 目次",
+      "kind": "公式会議録の付録（HTML）",
+      "scope": "supporting",
+      "url": "https://toda.gijiroku.com/gikai/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&FMM=1&FDD=1&TYY=2026&TMM=12&TDD=31&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82X%8C%8E%92%E8%97%E1%89%EF%81%7C08%8C%8E24%93%FA-%96%DA%8E%9F&KGNO=160&FINO=1303&UNID=K_R08082400001",
+      "note": "市議会の公式HTML本文を収録。",
+      "speakers": []
+    },
+    {
+      "id": "9c089b39e4bb99303d7e",
+      "place": "戸田市",
+      "season": "fall",
+      "date": "2026-08-24",
+      "title": "2026-08-24 本会議録",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "url": "https://toda.gijiroku.com/gikai/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&FMM=1&FDD=1&TYY=2026&TMM=12&TDD=31&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82X%8C%8E%92%E8%97%E1%89%EF%81%7C08%8C%8E24%93%FA-01%8D%86&KGNO=160&FINO=1304&UNID=K_R08082400011",
+      "note": "市議会の公式目次にある日別本文を開議から終わりまで収録。",
+      "speakers": []
+    },
+    {
+      "id": "0cd0963925ddb1fbb715",
+      "place": "戸田市",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "2026-09-01 本会議録",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "url": "https://toda.gijiroku.com/gikai/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&FMM=1&FDD=1&TYY=2026&TMM=12&TDD=31&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82X%8C%8E%92%E8%97%E1%89%EF%81%7C09%8C%8E01%93%FA-02%8D%86&KGNO=160&FINO=1305&UNID=K_R08090100021",
+      "note": "市議会の公式目次にある日別本文を開議から終わりまで収録。",
+      "speakers": []
+    },
+    {
+      "id": "83f0b42fe29368b6e063",
+      "place": "戸田市",
+      "season": "fall",
+      "date": "2026-09-09",
+      "title": "2026-09-09 本会議録",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "url": "https://toda.gijiroku.com/gikai/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&FMM=1&FDD=1&TYY=2026&TMM=12&TDD=31&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82X%8C%8E%92%E8%97%E1%89%EF%81%7C09%8C%8E09%93%FA-03%8D%86&KGNO=160&FINO=1306&UNID=K_R08090900031",
+      "note": "市議会の公式目次にある日別本文。一般質問の登壇者は議長の指名と発言冒頭を照合。",
+      "speakers": [
+        "そごう拓也",
+        "竹内正明",
+        "宮内そうこ",
+        "細田昌孝",
+        "佐藤太信",
+        "小山大輔"
+      ]
+    },
+    {
+      "id": "819e387e3d3a3a456d83",
+      "place": "戸田市",
+      "season": "fall",
+      "date": "2026-09-10",
+      "title": "2026-09-10 本会議録",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "url": "https://toda.gijiroku.com/gikai/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&FMM=1&FDD=1&TYY=2026&TMM=12&TDD=31&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82X%8C%8E%92%E8%97%E1%89%EF%81%7C09%8C%8E10%93%FA-04%8D%86&KGNO=160&FINO=1307&UNID=K_R08091000041",
+      "note": "市議会の公式目次にある日別本文。一般質問の登壇者は議長の指名と発言冒頭を照合。",
+      "speakers": [
+        "三浦のぶお",
+        "石川清明",
+        "小沼さゆり",
+        "野澤茂雅",
+        "浅生和英",
+        "辺見智子"
+      ]
+    },
+    {
+      "id": "17528d90f85b93079035",
+      "place": "戸田市",
+      "season": "fall",
+      "date": "2026-09-11",
+      "title": "2026-09-11 本会議録",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "url": "https://toda.gijiroku.com/gikai/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&FMM=1&FDD=1&TYY=2026&TMM=12&TDD=31&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82X%8C%8E%92%E8%97%E1%89%EF%81%7C09%8C%8E11%93%FA-05%8D%86&KGNO=160&FINO=1308&UNID=K_R08091100051",
+      "note": "市議会の公式目次にある日別本文。一般質問の登壇者は議長の指名と発言冒頭を照合。",
+      "speakers": [
+        "古屋としみつ",
+        "河合ゆうすけ",
+        "むとう葉子",
+        "花井あきこ",
+        "遠藤英樹",
+        "山屋佳代"
+      ]
+    },
+    {
+      "id": "335b0f487098ac00dbbc",
+      "place": "戸田市",
+      "season": "fall",
+      "date": "2026-09-14",
+      "title": "2026-09-14 本会議録",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "url": "https://toda.gijiroku.com/gikai/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&FMM=1&FDD=1&TYY=2026&TMM=12&TDD=31&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82X%8C%8E%92%E8%97%E1%89%EF%81%7C09%8C%8E14%93%FA-06%8D%86&KGNO=160&FINO=1309&UNID=K_R08091400061",
+      "note": "市議会の公式目次にある日別本文。一般質問の登壇者は議長の指名と発言冒頭を照合。",
+      "speakers": [
+        "本田哲",
+        "矢澤青河",
+        "小金沢優",
+        "酒井いくろう"
+      ]
+    },
+    {
+      "id": "558998f9fece9b3761cd",
+      "place": "戸田市",
+      "season": "fall",
+      "date": "2026-09-18",
+      "title": "2026-09-18 本会議録",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "url": "https://toda.gijiroku.com/gikai/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&FMM=1&FDD=1&TYY=2026&TMM=12&TDD=31&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82X%8C%8E%92%E8%97%E1%89%EF%81%7C09%8C%8E18%93%FA-07%8D%86&KGNO=160&FINO=1310&UNID=K_R08091800071",
+      "note": "市議会の公式目次にある日別本文を開議から終わりまで収録。",
+      "speakers": []
     }
   ],
   "coverage": [
@@ -54546,9 +54788,9 @@ GIKAI.questionText = {
       "place": "蕨市",
       "season": "fall",
       "material": {
-        "state": "partial",
-        "indexURL": "https://warabi.gijiroku.com/g07_Video_Search.asp?Sflg=1&kaigi=148",
-        "note": "一般質問15人と議事16本を機械文字起こしとして収録。正式会議録は確認中。"
+        "state": "verified",
+        "indexURL": "https://warabi.gijiroku.com/voices/g08v_view.asp?Sflg=11&FYY=2026&TYY=2026",
+        "note": "公式掲載目次の本会議録6日・目次を収録。一般質問15人の登壇と答弁を本文で確認。 会議録付録を収録。"
       }
     },
     {
@@ -54573,9 +54815,9 @@ GIKAI.questionText = {
       "place": "戸田市",
       "season": "fall",
       "material": {
-        "state": "partial",
-        "note": "議会だより第236号の一般質問22人・37主題と４常任委員会13組を収録。原音照合と正式会議録は確認中。 公式録画の機械文字起こし一般質問4本を収録。",
-        "indexURL": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/GD032/GD032_002?id=0000055902&menu=000047"
+        "state": "verified",
+        "indexURL": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/GD024/GD024_002?FYY=2026&TYY=2026&kubun=1&menu=000024",
+        "note": "公式掲載目次の本会議録7日・目次を収録。一般質問22人の登壇と答弁を本文で確認。"
       }
     },
     {

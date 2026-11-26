@@ -3795,11 +3795,11 @@ GIKAI.coverage2026 = {
         },
         "activity": {
           "state": "verified",
-          "note": "公式発言通告15人を収録。一般質問15人は発言者別の公式録画と照合。"
+          "note": "公式発言通告15人を収録。一般質問15人は発言者別の公式録画と照合。 日別の正式会議録で登壇と答弁も確認。"
         },
         "text": {
-          "state": "partial",
-          "note": "一般質問15人と本会議議事16本の機械文字起こしを収録。正式会議録は確認中。"
+          "state": "verified",
+          "note": "公式掲載目次の本会議録6日・目次を収録。一般質問15人の登壇と答弁を本文で確認。 会議録付録を収録。 一般質問・議事の録画文字起こしも参照可。"
         },
         "decisions": {
           "state": "verified",
@@ -3832,7 +3832,7 @@ GIKAI.coverage2026 = {
           "url": "https://warabi.gijiroku.com/gikai/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/09/01,2026/09/29,148&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2"
         },
         {
-          "label": "公式会議録目録",
+          "label": "公式会議録目次",
           "url": "https://warabi.gijiroku.com/voices/g08v_view.asp?Sflg=11&FYY=2026&TYY=2026"
         },
         {
@@ -3842,6 +3842,14 @@ GIKAI.coverage2026 = {
         {
           "label": "陳情審議結果と本文",
           "url": "https://warabi.gijiroku.com/gikai/g07_Chinjo.asp"
+        },
+        {
+          "label": "当会期の公式目次本文",
+          "url": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82T%89%F1%92%E8%97%E1%89%EF%81%7C09%8C%8E01%93%FA-%96%DA%8E%9F&KGNO=627&FINO=1539&UNID=K_R08090100001"
+        },
+        {
+          "label": "当会期の公式付録",
+          "url": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82T%89%F1%92%E8%97%E1%89%EF%81%7C09%8C%8E29%93%FA-%95t%98^&HUID=126587&KGNO=627&FINO=1546&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0"
         }
       ]
     },
@@ -3936,22 +3944,22 @@ GIKAI.coverage2026 = {
     {
       "place": "戸田市",
       "season": "fall",
-      "label": "2026年秋の定例会",
-      "fromDate": "",
-      "toDate": "",
+      "label": "令和8年9月定例会",
+      "fromDate": "2026-08-24",
+      "toDate": "2026-09-18",
       "planned": false,
       "materials": {
         "meeting": {
-          "state": "identified",
-          "note": "対象時期に関係する資料の掲載箇所を確認。会期の確定は未了。"
+          "state": "verified",
+          "note": "公式会議録の会期日程、開会と閉会に照合。"
         },
         "activity": {
           "state": "partial",
-          "note": "この時期の掲載項目 22件。通告・目次・本文の別は活動の出典に表示。"
+          "note": "この時期の掲載項目 22件。通告・目次・本文の別は活動の出典に表示。 日別の正式会議録で登壇と答弁も確認。"
         },
         "text": {
-          "state": "pending",
-          "note": "議会だより第236号の一般質問22人・37主題と４常任委員会13組を収録。原音照合と正式会議録は確認中。 公式録画の機械文字起こし一般質問4本を収録。"
+          "state": "verified",
+          "note": "公式掲載目次の本会議録7日・目次を収録。一般質問22人の登壇と答弁を本文で確認。 議会だよりと録画文字起こしも参照可。"
         },
         "decisions": {
           "state": "verified",
@@ -3974,6 +3982,14 @@ GIKAI.coverage2026 = {
         {
           "label": "議会の審議結果・議員別表決",
           "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/GD031/GD031_001?kaigi=000166"
+        },
+        {
+          "label": "公式会議録目次",
+          "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/GD024/GD024_002?FYY=2026&TYY=2026&kubun=1&menu=000024"
+        },
+        {
+          "label": "当会期の公式目次本文",
+          "url": "https://toda.gijiroku.com/gikai/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&FMM=1&FDD=1&TYY=2026&TMM=12&TDD=31&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82X%8C%8E%92%E8%97%E1%89%EF%81%7C08%8C%8E24%93%FA-%96%DA%8E%9F&KGNO=160&FINO=1303&UNID=K_R08082400001"
         }
       ]
     },
@@ -48017,7 +48033,13 @@ GIKAI.coverage2026 = {
       "resultLocator": "議会の公式原表 1頁・報告第14号",
       "date": "2026-08-24",
       "proposer": "市長",
-      "voteNote": "原表では「－」で、個人の賛否の記号は掲載されていない。原表の欠席は野澤茂雅。"
+      "voteNote": "原表では「－」で、個人の賛否の記号は掲載されていない。原表の欠席は野澤茂雅。",
+      "archiveId": "9c089b39e4bb99303d7e",
+      "blocks": [
+        55,
+        91,
+        92
+      ]
     },
     {
       "place": "戸田市",
@@ -48032,7 +48054,13 @@ GIKAI.coverage2026 = {
       "resultLocator": "議会の公式原表 1頁・報告第15号",
       "date": "2026-08-24",
       "proposer": "市長",
-      "voteNote": "原表では「－」で、個人の賛否の記号は掲載されていない。原表の欠席は野澤茂雅。"
+      "voteNote": "原表では「－」で、個人の賛否の記号は掲載されていない。原表の欠席は野澤茂雅。",
+      "archiveId": "9c089b39e4bb99303d7e",
+      "blocks": [
+        58,
+        91,
+        92
+      ]
     },
     {
       "place": "戸田市",
@@ -48047,7 +48075,13 @@ GIKAI.coverage2026 = {
       "resultLocator": "議会の公式原表 1頁・報告第16号",
       "date": "2026-08-24",
       "proposer": "市長",
-      "voteNote": "原表では「－」で、個人の賛否の記号は掲載されていない。原表の欠席は野澤茂雅。"
+      "voteNote": "原表では「－」で、個人の賛否の記号は掲載されていない。原表の欠席は野澤茂雅。",
+      "archiveId": "9c089b39e4bb99303d7e",
+      "blocks": [
+        58,
+        91,
+        92
+      ]
     },
     {
       "place": "戸田市",
@@ -48062,7 +48096,13 @@ GIKAI.coverage2026 = {
       "resultLocator": "議会の公式原表 1頁・報告第17号",
       "date": "2026-08-24",
       "proposer": "市長",
-      "voteNote": "原表では「－」で、個人の賛否の記号は掲載されていない。原表の欠席は野澤茂雅。"
+      "voteNote": "原表では「－」で、個人の賛否の記号は掲載されていない。原表の欠席は野澤茂雅。",
+      "archiveId": "9c089b39e4bb99303d7e",
+      "blocks": [
+        58,
+        91,
+        92
+      ]
     },
     {
       "place": "戸田市",
@@ -48077,7 +48117,13 @@ GIKAI.coverage2026 = {
       "resultLocator": "議会の公式原表 1頁・報告第18号",
       "date": "2026-08-24",
       "proposer": "市長",
-      "voteNote": "原表では「－」で、個人の賛否の記号は掲載されていない。原表の欠席は野澤茂雅。"
+      "voteNote": "原表では「－」で、個人の賛否の記号は掲載されていない。原表の欠席は野澤茂雅。",
+      "archiveId": "9c089b39e4bb99303d7e",
+      "blocks": [
+        58,
+        91,
+        92
+      ]
     },
     {
       "place": "戸田市",
@@ -48120,7 +48166,14 @@ GIKAI.coverage2026 = {
         "榎本守明": "賛成",
         "小金沢優": "賛成",
         "河合ゆうすけ": "賛成"
-      }
+      },
+      "archiveId": "558998f9fece9b3761cd",
+      "blocks": [
+        17,
+        25,
+        26,
+        27
+      ]
     },
     {
       "place": "戸田市",
@@ -48163,7 +48216,14 @@ GIKAI.coverage2026 = {
         "榎本守明": "賛成",
         "小金沢優": "賛成",
         "河合ゆうすけ": "賛成"
-      }
+      },
+      "archiveId": "558998f9fece9b3761cd",
+      "blocks": [
+        28,
+        30,
+        31,
+        32
+      ]
     },
     {
       "place": "戸田市",
@@ -48206,7 +48266,12 @@ GIKAI.coverage2026 = {
         "榎本守明": "賛成",
         "小金沢優": "賛成",
         "河合ゆうすけ": "賛成"
-      }
+      },
+      "archiveId": "558998f9fece9b3761cd",
+      "blocks": [
+        33,
+        34
+      ]
     },
     {
       "place": "戸田市",
@@ -48249,7 +48314,12 @@ GIKAI.coverage2026 = {
         "榎本守明": "賛成",
         "小金沢優": "賛成",
         "河合ゆうすけ": "賛成"
-      }
+      },
+      "archiveId": "558998f9fece9b3761cd",
+      "blocks": [
+        33,
+        34
+      ]
     },
     {
       "place": "戸田市",
@@ -48292,7 +48362,12 @@ GIKAI.coverage2026 = {
         "榎本守明": "賛成",
         "小金沢優": "賛成",
         "河合ゆうすけ": "賛成"
-      }
+      },
+      "archiveId": "558998f9fece9b3761cd",
+      "blocks": [
+        33,
+        34
+      ]
     },
     {
       "place": "戸田市",
@@ -48335,7 +48410,12 @@ GIKAI.coverage2026 = {
         "榎本守明": "賛成",
         "小金沢優": "賛成",
         "河合ゆうすけ": "賛成"
-      }
+      },
+      "archiveId": "558998f9fece9b3761cd",
+      "blocks": [
+        33,
+        34
+      ]
     },
     {
       "place": "戸田市",
@@ -48378,7 +48458,12 @@ GIKAI.coverage2026 = {
         "榎本守明": "賛成",
         "小金沢優": "賛成",
         "河合ゆうすけ": "賛成"
-      }
+      },
+      "archiveId": "558998f9fece9b3761cd",
+      "blocks": [
+        33,
+        34
+      ]
     },
     {
       "place": "戸田市",
@@ -48421,7 +48506,12 @@ GIKAI.coverage2026 = {
         "榎本守明": "賛成",
         "小金沢優": "賛成",
         "河合ゆうすけ": "賛成"
-      }
+      },
+      "archiveId": "558998f9fece9b3761cd",
+      "blocks": [
+        33,
+        34
+      ]
     },
     {
       "place": "戸田市",
@@ -48464,7 +48554,12 @@ GIKAI.coverage2026 = {
         "榎本守明": "賛成",
         "小金沢優": "賛成",
         "河合ゆうすけ": "賛成"
-      }
+      },
+      "archiveId": "558998f9fece9b3761cd",
+      "blocks": [
+        33,
+        34
+      ]
     },
     {
       "place": "戸田市",
@@ -48507,7 +48602,12 @@ GIKAI.coverage2026 = {
         "榎本守明": "賛成",
         "小金沢優": "賛成",
         "河合ゆうすけ": "賛成"
-      }
+      },
+      "archiveId": "558998f9fece9b3761cd",
+      "blocks": [
+        33,
+        34
+      ]
     },
     {
       "place": "戸田市",
@@ -48550,7 +48650,12 @@ GIKAI.coverage2026 = {
         "榎本守明": "賛成",
         "小金沢優": "賛成",
         "河合ゆうすけ": "賛成"
-      }
+      },
+      "archiveId": "558998f9fece9b3761cd",
+      "blocks": [
+        33,
+        34
+      ]
     },
     {
       "place": "戸田市",
@@ -48593,7 +48698,14 @@ GIKAI.coverage2026 = {
         "榎本守明": "賛成",
         "小金沢優": "賛成",
         "河合ゆうすけ": "賛成"
-      }
+      },
+      "archiveId": "558998f9fece9b3761cd",
+      "blocks": [
+        35,
+        39,
+        40,
+        41
+      ]
     },
     {
       "place": "戸田市",
@@ -48636,7 +48748,12 @@ GIKAI.coverage2026 = {
         "榎本守明": "賛成",
         "小金沢優": "賛成",
         "河合ゆうすけ": "賛成"
-      }
+      },
+      "archiveId": "558998f9fece9b3761cd",
+      "blocks": [
+        42,
+        43
+      ]
     },
     {
       "place": "戸田市",
@@ -48679,7 +48796,12 @@ GIKAI.coverage2026 = {
         "榎本守明": "賛成",
         "小金沢優": "賛成",
         "河合ゆうすけ": "賛成"
-      }
+      },
+      "archiveId": "558998f9fece9b3761cd",
+      "blocks": [
+        44,
+        45
+      ]
     },
     {
       "place": "戸田市",
@@ -48722,7 +48844,12 @@ GIKAI.coverage2026 = {
         "榎本守明": "賛成",
         "小金沢優": "賛成",
         "河合ゆうすけ": "賛成"
-      }
+      },
+      "archiveId": "558998f9fece9b3761cd",
+      "blocks": [
+        44,
+        45
+      ]
     },
     {
       "place": "戸田市",
@@ -48765,7 +48892,12 @@ GIKAI.coverage2026 = {
         "榎本守明": "賛成",
         "小金沢優": "賛成",
         "河合ゆうすけ": "賛成"
-      }
+      },
+      "archiveId": "558998f9fece9b3761cd",
+      "blocks": [
+        44,
+        45
+      ]
     },
     {
       "place": "戸田市",
@@ -48808,7 +48940,12 @@ GIKAI.coverage2026 = {
         "榎本守明": "賛成",
         "小金沢優": "賛成",
         "河合ゆうすけ": "賛成"
-      }
+      },
+      "archiveId": "558998f9fece9b3761cd",
+      "blocks": [
+        44,
+        45
+      ]
     },
     {
       "place": "戸田市",
@@ -48851,7 +48988,12 @@ GIKAI.coverage2026 = {
         "榎本守明": "賛成",
         "小金沢優": "賛成",
         "河合ゆうすけ": "賛成"
-      }
+      },
+      "archiveId": "558998f9fece9b3761cd",
+      "blocks": [
+        44,
+        45
+      ]
     },
     {
       "place": "戸田市",
@@ -48894,7 +49036,12 @@ GIKAI.coverage2026 = {
         "榎本守明": "賛成",
         "小金沢優": "賛成",
         "河合ゆうすけ": "賛成"
-      }
+      },
+      "archiveId": "558998f9fece9b3761cd",
+      "blocks": [
+        44,
+        45
+      ]
     },
     {
       "place": "戸田市",
@@ -48937,7 +49084,12 @@ GIKAI.coverage2026 = {
         "榎本守明": "賛成",
         "小金沢優": "賛成",
         "河合ゆうすけ": "賛成"
-      }
+      },
+      "archiveId": "558998f9fece9b3761cd",
+      "blocks": [
+        44,
+        45
+      ]
     },
     {
       "place": "戸田市",
@@ -48980,7 +49132,12 @@ GIKAI.coverage2026 = {
         "榎本守明": "賛成",
         "小金沢優": "賛成",
         "河合ゆうすけ": "賛成"
-      }
+      },
+      "archiveId": "558998f9fece9b3761cd",
+      "blocks": [
+        44,
+        45
+      ]
     },
     {
       "place": "戸田市",
@@ -49023,7 +49180,12 @@ GIKAI.coverage2026 = {
         "榎本守明": "賛成",
         "小金沢優": "賛成",
         "河合ゆうすけ": "賛成"
-      }
+      },
+      "archiveId": "558998f9fece9b3761cd",
+      "blocks": [
+        44,
+        45
+      ]
     },
     {
       "place": "戸田市",
@@ -49066,7 +49228,12 @@ GIKAI.coverage2026 = {
         "榎本守明": "賛成",
         "小金沢優": "賛成",
         "河合ゆうすけ": "賛成"
-      }
+      },
+      "archiveId": "558998f9fece9b3761cd",
+      "blocks": [
+        44,
+        45
+      ]
     },
     {
       "place": "戸田市",
@@ -49109,7 +49276,12 @@ GIKAI.coverage2026 = {
         "榎本守明": "賛成",
         "小金沢優": "賛成",
         "河合ゆうすけ": "賛成"
-      }
+      },
+      "archiveId": "558998f9fece9b3761cd",
+      "blocks": [
+        44,
+        45
+      ]
     },
     {
       "place": "戸田市",
@@ -49152,7 +49324,12 @@ GIKAI.coverage2026 = {
         "榎本守明": "賛成",
         "小金沢優": "賛成",
         "河合ゆうすけ": "賛成"
-      }
+      },
+      "archiveId": "558998f9fece9b3761cd",
+      "blocks": [
+        44,
+        45
+      ]
     },
     {
       "place": "戸田市",
@@ -49194,7 +49371,13 @@ GIKAI.coverage2026 = {
         "榎本守明": "賛成",
         "小金沢優": "賛成",
         "河合ゆうすけ": "賛成"
-      }
+      },
+      "archiveId": "558998f9fece9b3761cd",
+      "blocks": [
+        57,
+        80,
+        81
+      ]
     },
     {
       "place": "戸田市",
@@ -49236,7 +49419,13 @@ GIKAI.coverage2026 = {
         "榎本守明": "賛成",
         "小金沢優": "賛成",
         "河合ゆうすけ": "賛成"
-      }
+      },
+      "archiveId": "558998f9fece9b3761cd",
+      "blocks": [
+        57,
+        80,
+        81
+      ]
     },
     {
       "place": "戸田市",
@@ -49278,7 +49467,13 @@ GIKAI.coverage2026 = {
         "榎本守明": "賛成",
         "小金沢優": "賛成",
         "河合ゆうすけ": "賛成"
-      }
+      },
+      "archiveId": "558998f9fece9b3761cd",
+      "blocks": [
+        57,
+        80,
+        81
+      ]
     },
     {
       "place": "戸田市",
@@ -49320,7 +49515,13 @@ GIKAI.coverage2026 = {
         "榎本守明": "賛成",
         "小金沢優": "賛成",
         "河合ゆうすけ": "賛成"
-      }
+      },
+      "archiveId": "558998f9fece9b3761cd",
+      "blocks": [
+        57,
+        80,
+        81
+      ]
     },
     {
       "place": "戸田市",
@@ -49362,7 +49563,13 @@ GIKAI.coverage2026 = {
         "榎本守明": "賛成",
         "小金沢優": "賛成",
         "河合ゆうすけ": "賛成"
-      }
+      },
+      "archiveId": "558998f9fece9b3761cd",
+      "blocks": [
+        82,
+        83,
+        84
+      ]
     },
     {
       "place": "戸田市",
@@ -49404,7 +49611,15 @@ GIKAI.coverage2026 = {
         "榎本守明": "反対",
         "小金沢優": "賛成",
         "河合ゆうすけ": "反対"
-      }
+      },
+      "archiveId": "558998f9fece9b3761cd",
+      "blocks": [
+        85,
+        86,
+        87,
+        88,
+        89
+      ]
     },
     {
       "place": "戸田市",
@@ -49446,7 +49661,12 @@ GIKAI.coverage2026 = {
         "榎本守明": "反対",
         "小金沢優": "反対",
         "河合ゆうすけ": "賛成"
-      }
+      },
+      "archiveId": "9c089b39e4bb99303d7e",
+      "blocks": [
+        24,
+        28
+      ]
     },
     {
       "place": "戸田市",
@@ -49488,7 +49708,12 @@ GIKAI.coverage2026 = {
         "榎本守明": "賛成",
         "小金沢優": "賛成",
         "河合ゆうすけ": "賛成"
-      }
+      },
+      "archiveId": "9c089b39e4bb99303d7e",
+      "blocks": [
+        29,
+        30
+      ]
     },
     {
       "place": "戸田市",
@@ -49530,7 +49755,13 @@ GIKAI.coverage2026 = {
         "榎本守明": "反対",
         "小金沢優": "反対",
         "河合ゆうすけ": "反対"
-      }
+      },
+      "archiveId": "558998f9fece9b3761cd",
+      "blocks": [
+        47,
+        48,
+        49
+      ]
     },
     {
       "place": "戸田市",
@@ -49572,7 +49803,12 @@ GIKAI.coverage2026 = {
         "榎本守明": "賛成",
         "小金沢優": "賛成",
         "河合ゆうすけ": "賛成"
-      }
+      },
+      "archiveId": "558998f9fece9b3761cd",
+      "blocks": [
+        50,
+        51
+      ]
     },
     {
       "place": "戸田市",
@@ -49614,7 +49850,12 @@ GIKAI.coverage2026 = {
         "榎本守明": "賛成",
         "小金沢優": "賛成",
         "河合ゆうすけ": "賛成"
-      }
+      },
+      "archiveId": "558998f9fece9b3761cd",
+      "blocks": [
+        52,
+        53
+      ]
     },
     {
       "place": "越谷市",
@@ -122713,7 +122954,12 @@ GIKAI.coverage2026 = {
       "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1701&Sflg=2&kword1=&kword2=",
       "sourceTitle": "市議会・議案の提案理由と原文",
       "proposer": "蕨市長",
-      "voteNote": "公式議決番号58。"
+      "voteNote": "公式議決番号58。",
+      "archiveId": "45c5ec45a60c201b3fed",
+      "blocks": [
+        34,
+        35
+      ]
     },
     {
       "place": "蕨市",
@@ -122727,7 +122973,12 @@ GIKAI.coverage2026 = {
       "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1702&Sflg=2&kword1=&kword2=",
       "sourceTitle": "市議会・議案の提案理由と原文",
       "proposer": "蕨市長",
-      "voteNote": "公式議決番号59。"
+      "voteNote": "公式議決番号59。",
+      "archiveId": "45c5ec45a60c201b3fed",
+      "blocks": [
+        34,
+        35
+      ]
     },
     {
       "place": "蕨市",
@@ -122741,7 +122992,12 @@ GIKAI.coverage2026 = {
       "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1703&Sflg=2&kword1=&kword2=",
       "sourceTitle": "市議会・議案の提案理由と原文",
       "proposer": "蕨市長",
-      "voteNote": "公式議決番号60。"
+      "voteNote": "公式議決番号60。",
+      "archiveId": "45c5ec45a60c201b3fed",
+      "blocks": [
+        36,
+        37
+      ]
     },
     {
       "place": "蕨市",
@@ -122755,7 +123011,12 @@ GIKAI.coverage2026 = {
       "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1704&Sflg=2&kword1=&kword2=",
       "sourceTitle": "市議会・議案の提案理由と原文",
       "proposer": "蕨市長",
-      "voteNote": "公式議決番号61。"
+      "voteNote": "公式議決番号61。",
+      "archiveId": "45c5ec45a60c201b3fed",
+      "blocks": [
+        36,
+        37
+      ]
     },
     {
       "place": "蕨市",
@@ -122769,7 +123030,12 @@ GIKAI.coverage2026 = {
       "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1705&Sflg=2&kword1=&kword2=",
       "sourceTitle": "市議会・議案の提案理由と原文",
       "proposer": "蕨市長",
-      "voteNote": "公式議決番号62。"
+      "voteNote": "公式議決番号62。",
+      "archiveId": "45c5ec45a60c201b3fed",
+      "blocks": [
+        36,
+        37
+      ]
     },
     {
       "place": "蕨市",
@@ -122783,7 +123049,12 @@ GIKAI.coverage2026 = {
       "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1706&Sflg=2&kword1=&kword2=",
       "sourceTitle": "市議会・議案の提案理由と原文",
       "proposer": "蕨市長",
-      "voteNote": "公式議決番号63。"
+      "voteNote": "公式議決番号63。",
+      "archiveId": "45c5ec45a60c201b3fed",
+      "blocks": [
+        36,
+        37
+      ]
     },
     {
       "place": "蕨市",
@@ -122797,7 +123068,12 @@ GIKAI.coverage2026 = {
       "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1707&Sflg=2&kword1=&kword2=",
       "sourceTitle": "市議会・議案の提案理由と原文",
       "proposer": "蕨市長",
-      "voteNote": "公式議決番号64。"
+      "voteNote": "公式議決番号64。",
+      "archiveId": "45c5ec45a60c201b3fed",
+      "blocks": [
+        36,
+        37
+      ]
     },
     {
       "place": "蕨市",
@@ -122811,7 +123087,12 @@ GIKAI.coverage2026 = {
       "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1708&Sflg=2&kword1=&kword2=",
       "sourceTitle": "市議会・議案の提案理由と原文",
       "proposer": "蕨市長",
-      "voteNote": "公式議決番号57。"
+      "voteNote": "公式議決番号57。",
+      "archiveId": "23e706c29a5d1d978092",
+      "blocks": [
+        9,
+        10
+      ]
     },
     {
       "place": "蕨市",
@@ -122825,7 +123106,12 @@ GIKAI.coverage2026 = {
       "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1709&Sflg=2&kword1=&kword2=",
       "sourceTitle": "市議会・議案の提案理由と原文",
       "proposer": "蕨市長",
-      "voteNote": "公式議決番号65。"
+      "voteNote": "公式議決番号65。",
+      "archiveId": "45c5ec45a60c201b3fed",
+      "blocks": [
+        38,
+        39
+      ]
     },
     {
       "place": "蕨市",
@@ -122839,7 +123125,12 @@ GIKAI.coverage2026 = {
       "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1710&Sflg=2&kword1=&kword2=",
       "sourceTitle": "市議会・議案の提案理由と原文",
       "proposer": "蕨市長",
-      "voteNote": "公式議決番号1。"
+      "voteNote": "公式議決番号1。",
+      "archiveId": "45c5ec45a60c201b3fed",
+      "blocks": [
+        40,
+        41
+      ]
     },
     {
       "place": "蕨市",
@@ -122853,7 +123144,12 @@ GIKAI.coverage2026 = {
       "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1711&Sflg=2&kword1=&kword2=",
       "sourceTitle": "市議会・議案の提案理由と原文",
       "proposer": "蕨市長",
-      "voteNote": "公式議決番号2。"
+      "voteNote": "公式議決番号2。",
+      "archiveId": "45c5ec45a60c201b3fed",
+      "blocks": [
+        40,
+        41
+      ]
     },
     {
       "place": "蕨市",
@@ -122867,7 +123163,12 @@ GIKAI.coverage2026 = {
       "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1712&Sflg=2&kword1=&kword2=",
       "sourceTitle": "市議会・議案の提案理由と原文",
       "proposer": "蕨市長",
-      "voteNote": "公式議決番号3。"
+      "voteNote": "公式議決番号3。",
+      "archiveId": "45c5ec45a60c201b3fed",
+      "blocks": [
+        40,
+        41
+      ]
     },
     {
       "place": "蕨市",
@@ -122881,7 +123182,12 @@ GIKAI.coverage2026 = {
       "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1713&Sflg=2&kword1=&kword2=",
       "sourceTitle": "市議会・議案の提案理由と原文",
       "proposer": "蕨市長",
-      "voteNote": "公式議決番号4。"
+      "voteNote": "公式議決番号4。",
+      "archiveId": "45c5ec45a60c201b3fed",
+      "blocks": [
+        40,
+        41
+      ]
     },
     {
       "place": "蕨市",
@@ -122895,7 +123201,12 @@ GIKAI.coverage2026 = {
       "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1714&Sflg=2&kword1=&kword2=",
       "sourceTitle": "市議会・議案の提案理由と原文",
       "proposer": "蕨市長",
-      "voteNote": "公式議決番号5。"
+      "voteNote": "公式議決番号5。",
+      "archiveId": "45c5ec45a60c201b3fed",
+      "blocks": [
+        40,
+        41
+      ]
     },
     {
       "place": "蕨市",
@@ -122909,7 +123220,12 @@ GIKAI.coverage2026 = {
       "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1715&Sflg=2&kword1=&kword2=",
       "sourceTitle": "市議会・議案の提案理由と原文",
       "proposer": "蕨市長",
-      "voteNote": "公式議決番号6。"
+      "voteNote": "公式議決番号6。",
+      "archiveId": "45c5ec45a60c201b3fed",
+      "blocks": [
+        40,
+        41
+      ]
     },
     {
       "place": "蕨市",
@@ -122923,7 +123239,12 @@ GIKAI.coverage2026 = {
       "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1716&Sflg=2&kword1=&kword2=",
       "sourceTitle": "市議会・議案の提案理由と原文",
       "proposer": "蕨市長",
-      "voteNote": "公式議決番号7。"
+      "voteNote": "公式議決番号7。",
+      "archiveId": "45c5ec45a60c201b3fed",
+      "blocks": [
+        40,
+        41
+      ]
     },
     {
       "place": "蕨市",
@@ -122937,7 +123258,12 @@ GIKAI.coverage2026 = {
       "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1717&Sflg=2&kword1=&kword2=",
       "sourceTitle": "市議会・議案の提案理由と原文",
       "proposer": "蕨市長",
-      "voteNote": "公式議決番号8。"
+      "voteNote": "公式議決番号8。",
+      "archiveId": "45c5ec45a60c201b3fed",
+      "blocks": [
+        40,
+        41
+      ]
     },
     {
       "place": "蕨市",
@@ -122951,7 +123277,12 @@ GIKAI.coverage2026 = {
       "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1719&Sflg=2&kword1=&kword2=",
       "sourceTitle": "市議会・議案の提案理由と原文",
       "proposer": "蕨市長",
-      "voteNote": "公式議決番号9。"
+      "voteNote": "公式議決番号9。",
+      "archiveId": "45c5ec45a60c201b3fed",
+      "blocks": [
+        40,
+        41
+      ]
     },
     {
       "place": "蕨市",
@@ -122965,7 +123296,13 @@ GIKAI.coverage2026 = {
       "url": "https://warabi.gijiroku.com/gikai/g07_ChinjoView.asp?SrchID=65&Title=%93%FA%96%7B%90%AD%95%7B%82%C9%8Aj%95%BA%8A%ED%8B%D6%8E~%8F%F0%96%F1%82%C9%88%EA%93%FA%82%E0%91%81%82%A2%8F%90%96%BC%81A%94%E1%8Fy%82%F0%8B%81%82%DF%81A%8D%A1%94N%82P%82P%8C%8E%82%C9%8AJ%82%A9%82%EA%82%E9%97%5C%92%E8%82%CC%8D%C4%8C%9F%93%A2%89%EF%8Bc%82%C9%83I%83u%83U%81%5B%83o%81%5B%82%C6%82%B5%82%C4%8EQ%89%C1%82%F0%8B%81%82%DF%82%E9%88%D3%8C%A9%8F%91%82%CC%92%F1%8Fo%82%F0%8B%81%82%DF%82%E9%92%C2%8F%EE&kword1=&kword2=",
       "sourceTitle": "公式の陳情詳細と本文",
       "proposer": "陳情者",
-      "voteNote": "総務常任委員会に９月１日付託。最終日の討論・採決の公式録画を確認できる。"
+      "voteNote": "総務常任委員会に９月１日付託。最終日の討論・採決の公式録画を確認できる。",
+      "archiveId": "45c5ec45a60c201b3fed",
+      "blocks": [
+        25,
+        32,
+        33
+      ]
     },
     {
       "place": "深谷市",
