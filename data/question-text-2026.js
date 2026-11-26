@@ -1872,7 +1872,7 @@ GIKAI.questionText = {
       "kind": "議会だよりの質問・答弁要旨（OCR）",
       "scope": "summary",
       "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori81/tokigawagikai81_48MB.pdf",
-      "note": "町議会発行の全冊をOCR収録。表示日は紙面の発行日。審議結果と一般質問・答弁の要約を掲載。 前会期の臨時会記事も紙面に含まれます。",
+      "note": "町議会発行の全冊をOCR収録。表示日は紙面の発行日。審議結果と一般質問・答弁の要約を掲載。 前会期の臨時会記事も紙面に含まれます。 本文に混じっていた制御文字（表示されない記号）を除いた。",
       "speakers": []
     },
     {
@@ -1966,7 +1966,7 @@ GIKAI.questionText = {
       "kind": "議会だよりの質問・答弁要旨（OCR）",
       "scope": "summary",
       "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori82/tokigawagikai82.pdf",
-      "note": "町議会発行の全冊をOCR収録。表示日は紙面の発行日。審議結果と一般質問・答弁の要約を掲載。",
+      "note": "町議会発行の全冊をOCR収録。表示日は紙面の発行日。審議結果と一般質問・答弁の要約を掲載。 本文に混じっていた制御文字（表示されない記号）を除いた。",
       "speakers": []
     },
     {
@@ -2176,7 +2176,7 @@ GIKAI.questionText = {
       "kind": "議会だよりの質問・答弁要旨（OCR）",
       "scope": "summary",
       "url": "https://www.town.tokigawa.lg.jp/div/203010/pdf/gikaidayori83/tokigawagikai83.pdf",
-      "note": "町議会発行の全冊をOCR収録。表示日は紙面の発行日。審議結果と一般質問・答弁の要約を掲載。 秋の一般質問９人分。 原画像との照合候補頁 1。",
+      "note": "町議会発行の全冊をOCR収録。表示日は紙面の発行日。審議結果と一般質問・答弁の要約を掲載。 秋の一般質問９人分。 原画像との照合候補頁 1。 本文に混じっていた制御文字（表示されない記号）を除いた。",
       "speakers": [
         "田中紀吉",
         "神山由絵",
@@ -3004,7 +3004,7 @@ GIKAI.questionText = {
       "kind": "議会だよりの質問・答弁要旨（OCR）",
       "scope": "summary",
       "url": "https://www.city.fujimino.saitama.jp/material/files/group/35/82_all.pdf",
-      "note": "議会だより全頁のOCR。紙面の見開き番号に対応する物理頁を表示。",
+      "note": "議会だより全頁のOCR。紙面の見開き番号に対応する物理頁を表示。 本文に混じっていた制御文字（表示されない記号）を除いた。",
       "speakers": []
     },
     {
@@ -3467,7 +3467,7 @@ GIKAI.questionText = {
       "kind": "議会だよりの質問・答弁要旨（OCR）",
       "scope": "summary",
       "url": "https://www.city.fujimino.saitama.jp/material/files/group/35/83_all.pdf",
-      "note": "議会だより全頁のOCR。紙面の見開き番号に対応する物理頁を表示。",
+      "note": "議会だより全頁のOCR。紙面の見開き番号に対応する物理頁を表示。 本文に混じっていた制御文字（表示されない記号）を除いた。",
       "speakers": []
     },
     {
@@ -5711,7 +5711,7 @@ GIKAI.questionText = {
       "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/gikaidayori/documents/gikaidayori_202.pdf",
       "kind": "議会だよりの質問・答弁要旨（OCR）",
       "scope": "summary",
-      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。 本文に混じっていた制御文字（表示されない記号）を除いた。",
       "speakers": []
     },
     {
@@ -6338,7 +6338,7 @@ GIKAI.questionText = {
       "url": "https://www.city.misato.lg.jp/material/files/group/57/gikaidayori207.pdf",
       "kind": "議会だよりの質問・答弁（紙面要約）",
       "scope": "summary",
-      "note": "議員編集の一般質問15人15主題、議案・決算の14問答、補足13件を原紙面と照合。登壇日は公式録画一覧。原紙面OCR全16頁を併録。正式会議録は確認中。",
+      "note": "議員編集の一般質問15人15主題、議案・決算の14問答、補足13件を原紙面と照合。登壇日は公式録画一覧。原紙面OCR全16頁を併録。正式会議録は確認中。 本文に混じっていた制御文字（表示されない記号）を除いた。",
       "speakers": [
         "沖原優子",
         "西尾秀貴",
@@ -9390,7 +9390,7 @@ GIKAI.questionText = {
       "url": "https://inamachi.gsl-service.net/dayori/dayori213/dayori213.pdf",
       "kind": "議会だよりの質問・答弁要旨（OCR）",
       "scope": "summary",
-      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。 本文に混じっていた制御文字（表示されない記号）を除いた。",
       "speakers": []
     },
     {
@@ -12739,7 +12739,7 @@ GIKAI.questionText = {
       "url": "https://www.city.yoshikawa.saitama.jp/index.cfm/34,117448,c,html/117448/20261028-093511.pdf",
       "kind": "議会だよりの質問・答弁（紙面要約）",
       "scope": "summary",
-      "note": "秋の一般質問14人・17主題・26問答。委員会・決算の17問答、討論14件など補足39件と、原紙面OCR12頁を併録。質問日は公式通告・録画目録で照合。正式会議録は12月上旬提供予定と紙面に掲載。",
+      "note": "秋の一般質問14人・17主題・26問答。委員会・決算の17問答、討論14件など補足39件と、原紙面OCR12頁を併録。質問日は公式通告・録画目録で照合。正式会議録は12月上旬提供予定と紙面に掲載。 本文に混じっていた制御文字（表示されない記号）を除いた。",
       "speakers": [
         "降旗聡",
         "五十嵐惠千子",
@@ -13659,7 +13659,7 @@ GIKAI.questionText = {
       "url": "https://www.city.wako.lg.jp/_res/projects/default_project/_page_/001/013/556/2605dayori3.pdf",
       "kind": "議会だよりの質問・答弁要旨（OCR）",
       "scope": "summary",
-      "note": "公式PDF全4頁のOCR。",
+      "note": "公式PDF全4頁のOCR。 本文に混じっていた制御文字（表示されない記号）を除いた。",
       "speakers": []
     },
     {
@@ -13933,7 +13933,7 @@ GIKAI.questionText = {
       "url": "https://www.city.wako.lg.jp/_res/projects/default_project/_page_/001/013/556/2608gikaidayori.pdf",
       "kind": "議会だよりの質問・答弁要旨（OCR）",
       "scope": "summary",
-      "note": "公式PDF全4頁のOCR。",
+      "note": "公式PDF全4頁のOCR。 本文に混じっていた制御文字（表示されない記号）を除いた。",
       "speakers": []
     },
     {
@@ -13985,7 +13985,7 @@ GIKAI.questionText = {
       "url": "https://www.city.wako.lg.jp/_res/projects/default_project/_page_/001/013/556/r81101dayori.pdf",
       "kind": "議会だよりの質問・答弁要旨（OCR）",
       "scope": "summary",
-      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。 本文に混じっていた制御文字（表示されない記号）を除いた。",
       "speakers": []
     },
     {
@@ -14348,7 +14348,7 @@ GIKAI.questionText = {
       "url": "https://www.city.wako.lg.jp/_res/projects/default_project/_page_/001/013/556/r81101dayori.pdf",
       "kind": "議会だよりの質問・答弁要旨（OCR）",
       "scope": "summary",
-      "note": "公式PDF全4頁のOCR。",
+      "note": "公式PDF全4頁のOCR。 本文に混じっていた制御文字（表示されない記号）を除いた。",
       "speakers": []
     },
     {
@@ -35447,7 +35447,7 @@ GIKAI.questionText = {
       "kind": "議会だよりの質問・答弁要旨（OCR）",
       "scope": "summary",
       "url": "https://www.city.satte.lg.jp/material/files/group/31/dayori118.pdf",
-      "note": "幸手市議会の公式紙面を物理PDF頁ごとに収録。議員別表決は原紙面を照合。",
+      "note": "幸手市議会の公式紙面を物理PDF頁ごとに収録。議員別表決は原紙面を照合。 本文に混じっていた制御文字（表示されない記号）を除いた。",
       "speakers": []
     },
     {
@@ -35599,7 +35599,7 @@ GIKAI.questionText = {
       "kind": "議会だよりの質問・答弁要旨（OCR）",
       "scope": "summary",
       "url": "https://www.city.satte.lg.jp/material/files/group/31/gikai119.pdf",
-      "note": "幸手市議会の公式紙面を物理PDF頁ごとに収録。議員別表決は原紙面を照合。",
+      "note": "幸手市議会の公式紙面を物理PDF頁ごとに収録。議員別表決は原紙面を照合。 本文に混じっていた制御文字（表示されない記号）を除いた。",
       "speakers": []
     },
     {
@@ -36191,7 +36191,7 @@ GIKAI.questionText = {
       "url": "https://www.city.shiki.lg.jp/uploaded/attachment/24682.pdf",
       "kind": "議会だよりの質問・答弁（紙面要約）",
       "scope": "summary",
-      "note": "第214号の紙面３～８頁（分割PDF２～７頁）の一般質問12人の掲載問答と、その他の見出し26件を照合。発言日は公式録画目録と照合した。 原紙面の分割PDF全７頁のOCRを併録。",
+      "note": "第214号の紙面３～８頁（分割PDF２～７頁）の一般質問12人の掲載問答と、その他の見出し26件を照合。発言日は公式録画目録と照合した。 原紙面の分割PDF全７頁のOCRを併録。 本文に混じっていた制御文字（表示されない記号）を除いた。",
       "speakers": [
         "天田いづみ",
         "今村弘志",
@@ -39827,7 +39827,7 @@ GIKAI.questionText = {
       "scope": "summary",
       "kind": "議会だよりの質問・答弁要旨（OCR）",
       "indexURL": "https://www.city.honjo.lg.jp/soshiki/shigikai/gikai/shigikaidayori/reiwa8nenn/22054.html",
-      "note": "紙面16頁、見開きを含むPDF9頁のOCR転記。各頁見出しの番号はPDFの順。縦組み・表・要旨の順序や数字は原紙面を参照。",
+      "note": "紙面16頁、見開きを含むPDF9頁のOCR転記。各頁見出しの番号はPDFの順。縦組み・表・要旨の順序や数字は原紙面を参照。 本文に混じっていた制御文字（表示されない記号）を除いた。",
       "speakers": [
         "倉林益代",
         "冨田雅寿",
@@ -40193,7 +40193,7 @@ GIKAI.questionText = {
       "scope": "summary",
       "kind": "議会だよりの質問・答弁要旨（OCR）",
       "indexURL": "https://www.city.honjo.lg.jp/soshiki/shigikai/gikai/shigikaidayori/reiwa8nenn/22811.html",
-      "note": "紙面14頁、見開きを含むPDF8頁のOCR転記。各頁見出しの番号はPDFの順。縦組み・表・要旨の順序や数字は原紙面を参照。",
+      "note": "紙面14頁、見開きを含むPDF8頁のOCR転記。各頁見出しの番号はPDFの順。縦組み・表・要旨の順序や数字は原紙面を参照。 本文に混じっていた制御文字（表示されない記号）を除いた。",
       "speakers": [
         "広瀬伸一",
         "原史子",
@@ -40485,7 +40485,7 @@ GIKAI.questionText = {
       "url": "https://www.town.sugito.lg.jp/uploaded/attachment/18196.pdf",
       "kind": "議会だよりの質問・答弁（紙面要約）",
       "scope": "summary",
-      "note": "第133号の一般質問11人・44問答、決算・議案等の26問答と討論12欄を原紙面と照合。質問項目一覧のうち、紙面に答弁の掲載がない８項目も記載。発言日は公式録画目録と照合。 原紙面のOCR全18頁を併録。",
+      "note": "第133号の一般質問11人・44問答、決算・議案等の26問答と討論12欄を原紙面と照合。質問項目一覧のうち、紙面に答弁の掲載がない８項目も記載。発言日は公式録画目録と照合。 原紙面のOCR全18頁を併録。 本文に混じっていた制御文字（表示されない記号）を除いた。",
       "speakers": [
         "野口俊彦",
         "平川忠良",
@@ -41095,7 +41095,7 @@ GIKAI.questionText = {
       "url": "https://www.city.higashimatsuyama.lg.jp/uploaded/attachment/21055.pdf",
       "kind": "議会だよりの質問・答弁（紙面要約）",
       "scope": "summary",
-      "note": "９～15頁に掲載された一般質問14人・87問答を話者別に要約し、16頁の質問一覧も収録。日付は市の発言日程と公式録画で確認。",
+      "note": "９～15頁に掲載された一般質問14人・87問答を話者別に要約し、16頁の質問一覧も収録。日付は市の発言日程と公式録画で確認。 本文に混じっていた制御文字（表示されない記号）を除いた。",
       "speakers": [
         "横田正芳",
         "高田正人",
@@ -42462,7 +42462,7 @@ GIKAI.questionText = {
       "url": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/11/KC1026%E2%96%B6HP%E7%94%A8_%E6%A8%AA%E7%80%AC%E7%94%BA152_8P%EF%BC%88R8-9T%EF%BC%89-1.pdf",
       "kind": "議会だよりの質問・答弁（紙面要約）",
       "scope": "summary",
-      "note": "紙面６・７頁の一般質問６人・11問答を原紙面と照合。その他の見出しは２欄・４件。会期は９月10～11日。公式日程では一般質問を10日に予定し、６人全員の登壇は紙面で確認。発言日と正式会議録は確認中。 原紙面８頁のOCR転記も併録。",
+      "note": "紙面６・７頁の一般質問６人・11問答を原紙面と照合。その他の見出しは２欄・４件。会期は９月10～11日。公式日程では一般質問を10日に予定し、６人全員の登壇は紙面で確認。発言日と正式会議録は確認中。 原紙面８頁のOCR転記も併録。 本文に混じっていた制御文字（表示されない記号）を除いた。",
       "speakers": [
         "内藤純夫",
         "黒澤克久",
@@ -44822,7 +44822,7 @@ GIKAI.questionText = {
       "url": "https://www.city.sayama.saitama.jp/gikai/gikaidayori/dayoriR8.files/231.pdf",
       "kind": "議会だよりの質問・答弁（紙面要約）",
       "scope": "summary",
-      "note": "一般質問16人の44問答とその他の９見出し、議案質疑13組、決算討論２人、委員会の要望・活動を紙面と照合。一般質問の氏名・発言日は公式録画３日と照合。原紙面OCRも併録（OCRに確認警告がある案内の15頁を除く）。",
+      "note": "一般質問16人の44問答とその他の９見出し、議案質疑13組、決算討論２人、委員会の要望・活動を紙面と照合。一般質問の氏名・発言日は公式録画３日と照合。原紙面OCRも併録（OCRに確認警告がある案内の15頁を除く）。 本文に混じっていた制御文字（表示されない記号）を除いた。",
       "speakers": [
         "大沢えみ子",
         "酒井英男",
@@ -45443,7 +45443,7 @@ GIKAI.questionText = {
       "url": "https://www.city.shiraoka.lg.jp/material/files/group/28/P14-233.pdf",
       "kind": "議会だよりの質問・答弁要旨（OCR）",
       "scope": "summary",
-      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。 本文に混じっていた制御文字（表示されない記号）を除いた。",
       "speakers": [
         "大島勉"
       ]
@@ -46375,7 +46375,7 @@ GIKAI.questionText = {
       "scope": "summary",
       "kind": "議会だよりの質問・答弁要旨（OCR）",
       "indexURL": "https://www.city.chichibu.lg.jp/11783.html",
-      "note": "紙面全14頁のOCR転記。縦組みと図表の文字の順序・数字は原紙面を参照。議会だよりの一般質問欄は紙面による要約。",
+      "note": "紙面全14頁のOCR転記。縦組みと図表の文字の順序・数字は原紙面を参照。議会だよりの一般質問欄は紙面による要約。 本文に混じっていた制御文字（表示されない記号）を除いた。",
       "speakers": [
         "本橋貢",
         "小松穂波",
@@ -46557,7 +46557,7 @@ GIKAI.questionText = {
       "scope": "summary",
       "kind": "議会だよりの質問・答弁要旨（OCR）",
       "indexURL": "https://www.city.chichibu.lg.jp/11889.html",
-      "note": "紙面全14頁のOCR転記。縦組みと図表の文字の順序・数字は原紙面を参照。議会だよりの一般質問欄は紙面による要約。",
+      "note": "紙面全14頁のOCR転記。縦組みと図表の文字の順序・数字は原紙面を参照。議会だよりの一般質問欄は紙面による要約。 本文に混じっていた制御文字（表示されない記号）を除いた。",
       "speakers": [
         "黒澤秀之",
         "小松穂波",
@@ -46746,7 +46746,7 @@ GIKAI.questionText = {
       "scope": "summary",
       "kind": "議会だよりの質問・答弁要旨（OCR）",
       "indexURL": "https://www.city.chichibu.lg.jp/12042.html",
-      "note": "紙面全14頁のOCR転記。縦組みと図表の文字の順序・数字は原紙面を参照。議会だよりの一般質問欄は紙面による要約。",
+      "note": "紙面全14頁のOCR転記。縦組みと図表の文字の順序・数字は原紙面を参照。議会だよりの一般質問欄は紙面による要約。 本文に混じっていた制御文字（表示されない記号）を除いた。",
       "speakers": [
         "黒澤秀之",
         "原嶋日巳佳",
@@ -48991,7 +48991,7 @@ GIKAI.questionText = {
       "kind": "議会だよりの質問・答弁要旨（OCR）",
       "scope": "summary",
       "url": "https://www.city.hasuda.saitama.jp/gikai/shise/shigikai/dayori/documents/0803sigikaidayori.pdf",
-      "note": "公式紙面の全頁のOCRを収録。 原画像との照合候補頁 15、16。該当頁の固有名詞・数値等は原紙面を確認。",
+      "note": "公式紙面の全頁のOCRを収録。 原画像との照合候補頁 15、16。該当頁の固有名詞・数値等は原紙面を確認。 本文に混じっていた制御文字（表示されない記号）を除いた。",
       "speakers": []
     },
     {
@@ -49188,7 +49188,7 @@ GIKAI.questionText = {
       "kind": "議会だよりの質問・答弁要旨（OCR）",
       "scope": "summary",
       "url": "https://www.city.hasuda.saitama.jp/gikai/shise/shigikai/dayori/documents/138-all.pdf",
-      "note": "公式紙面の全頁のOCRを収録。 原画像との照合候補頁 13、16。該当頁の固有名詞・数値等は原紙面を確認。",
+      "note": "公式紙面の全頁のOCRを収録。 原画像との照合候補頁 13、16。該当頁の固有名詞・数値等は原紙面を確認。 本文に混じっていた制御文字（表示されない記号）を除いた。",
       "speakers": []
     },
     {
@@ -49364,7 +49364,7 @@ GIKAI.questionText = {
       "kind": "議会だよりの質問・答弁要旨（OCR）",
       "scope": "summary",
       "url": "https://www.city.hasuda.saitama.jp/gikai/shise/shigikai/dayori/documents/0809sigikaidayori.pdf",
-      "note": "公式紙面の全頁のOCRを収録。 原画像との照合候補頁 18。該当頁の固有名詞・数値等は原紙面を確認。",
+      "note": "公式紙面の全頁のOCRを収録。 原画像との照合候補頁 18。該当頁の固有名詞・数値等は原紙面を確認。 本文に混じっていた制御文字（表示されない記号）を除いた。",
       "speakers": []
     },
     {
@@ -49584,7 +49584,7 @@ GIKAI.questionText = {
       "kind": "議会だよりの質問・答弁要旨（OCR）",
       "scope": "summary",
       "url": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh79_234.pdf",
-      "note": "紙面版・全頁のOCR。",
+      "note": "紙面版・全頁のOCR。 本文に混じっていた制御文字（表示されない記号）を除いた。",
       "speakers": []
     },
     {
@@ -49751,7 +49751,7 @@ GIKAI.questionText = {
       "kind": "議会だよりの質問・答弁要旨（OCR）",
       "scope": "summary",
       "url": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh80_235.pdf",
-      "note": "紙面版・全頁のOCR。原画像との照合候補頁：13、14。同号の公式テキスト版も参照。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
+      "note": "紙面版・全頁のOCR。原画像との照合候補頁：13、14。同号の公式テキスト版も参照。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。 本文に混じっていた制御文字（表示されない記号）を除いた。",
       "speakers": []
     },
     {
@@ -51809,7 +51809,7 @@ GIKAI.questionText = {
         "大島瑠美子"
       ],
       "indexURL": "https://www.town.nagatoro.saitama.jp/nagatorochougikai/%e9%95%b7%e7%80%9e%e7%94%ba%e8%ad%b0%e4%bc%9a%e3%81%a0%e3%82%88%e3%82%8a/",
-      "note": "令和8年第1回定例会（3月）を扱う議会だより。一般質問７人、議決・予算等を掲載した原紙面８頁のOCR。"
+      "note": "令和8年第1回定例会（3月）を扱う議会だより。一般質問７人、議決・予算等を掲載した原紙面８頁のOCR。 本文に混じっていた制御文字（表示されない記号）を除いた。"
     },
     {
       "id": "36ad40af3b871179953c",
@@ -51850,7 +51850,7 @@ GIKAI.questionText = {
         "大島瑠美子"
       ],
       "indexURL": "https://www.town.nagatoro.saitama.jp/nagatorochougikai/%e9%95%b7%e7%80%9e%e7%94%ba%e8%ad%b0%e4%bc%9a%e3%81%a0%e3%82%88%e3%82%8a/",
-      "note": "令和8年第2回定例会（6月）を扱う議会だより。一般質問７人、議決・予算等を掲載した原紙面８頁のOCR。"
+      "note": "令和8年第2回定例会（6月）を扱う議会だより。一般質問７人、議決・予算等を掲載した原紙面８頁のOCR。 本文に混じっていた制御文字（表示されない記号）を除いた。"
     },
     {
       "id": "f90b2c1a871b04a81b44",
@@ -52396,7 +52396,7 @@ GIKAI.questionText = {
       "url": "https://www.town.hatoyama.saitama.jp/data/doc/1793346228_doc_63_0.pdf",
       "kind": "議会だよりの質問・答弁（紙面要約）",
       "scope": "summary",
-      "note": "一般質問９人34問答、決算審議10問答、総務産業委員会の所管調査３問答と意見書・討論、視察等を整理。質問日は公式音声目録。原紙面全16頁のOCRも併録。紙面６頁の「第２回」は同号８頁と公式日程の「第３回」を注記。",
+      "note": "一般質問９人34問答、決算審議10問答、総務産業委員会の所管調査３問答と意見書・討論、視察等を整理。質問日は公式音声目録。原紙面全16頁のOCRも併録。紙面６頁の「第２回」は同号８頁と公式日程の「第３回」を注記。 本文に混じっていた制御文字（表示されない記号）を除いた。",
       "speakers": [
         "日坂和久",
         "関根清隆",
@@ -53059,7 +53059,7 @@ GIKAI.questionText = {
       "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28860.pdf",
       "kind": "議会だよりの質問・答弁要旨（OCR）",
       "scope": "summary",
-      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。",
+      "note": "議会広報の質問・答弁要旨を含む資料。編集済みの紙面です。 本文に混じっていた制御文字（表示されない記号）を除いた。",
       "speakers": []
     },
     {
@@ -53580,7 +53580,7 @@ GIKAI.questionText = {
       "url": "https://www.city.tsurugashima.lg.jp/data/doc/1793248747_doc_318_0.pdf",
       "kind": "議会だよりの質問・答弁（紙面要約）",
       "scope": "summary",
-      "note": "一般質問14人の主要問答14組、決算審査８組、請願の委員会質疑３組、決算特集の紙面コメント15人。一般質問日は公式録画目録で照合し、PDF３～13頁の原紙面OCRも併録。",
+      "note": "一般質問14人の主要問答14組、決算審査８組、請願の委員会質疑３組、決算特集の紙面コメント15人。一般質問日は公式録画目録で照合し、PDF３～13頁の原紙面OCRも併録。 本文に混じっていた制御文字（表示されない記号）を除いた。",
       "speakers": [
         "瀧嶋正紀",
         "福島恵美",
@@ -57973,7 +57973,7 @@ GIKAI.questionText = {
       "kind": "公式会議録の付録（PDF・OCR）",
       "scope": "supporting",
       "url": "https://toda.gijiroku.com/gikai/voices/ctl/Picture/1/20260918/s_gian.pdf",
-      "note": "市議会の会議録システムが９月18日の付録に添付した巻末資料。原PDFの文字層・OCRを頁順に収録。 照合候補頁（９・12・13・18頁）を原画像と照合し、数値は一致。10・11頁は原PDFの文字層全体が独自の符号でルーターの文に数値が無かったため、強制OCRの文に差し替えた（数値を原画像と照合）。 本文の簡体字は日本語の字形に直した。",
+      "note": "市議会の会議録システムが９月18日の付録に添付した巻末資料。原PDFの文字層・OCRを頁順に収録。 照合候補頁（９・12・13・18頁）を原画像と照合し、数値は一致。10・11頁は原PDFの文字層全体が独自の符号でルーターの文に数値が無かったため、強制OCRの文に差し替えた（数値を原画像と照合）。 本文の簡体字は日本語の字形に直した。 本文に混じっていた制御文字（表示されない記号）を除いた。",
       "speakers": []
     },
     {
@@ -58009,7 +58009,7 @@ GIKAI.questionText = {
       "kind": "公式会議録の付録（PDF・OCR）",
       "scope": "supporting",
       "url": "https://toda.gijiroku.com/gikai/voices/ctl/Picture/1/20260918/nintei.pdf",
-      "note": "市議会の会議録システムが９月18日の付録に添付した巻末資料。原PDFの文字層・OCRを頁順に収録。 照合候補頁13頁を原画像と照合。83・96・97・102・105・107頁で減額の「△」が落ちていた11か所（照合候補頁に加え、増減・比較欄や△のあるOCR頁37頁を符号に絞って照合）、76頁の款番号「5」、18頁「高額療養費」・58頁「総務管理費」の欠字を原画像に合わせて直した。他の頁の文言は照合していない。 本文の簡体字は日本語の字形に直した。",
+      "note": "市議会の会議録システムが９月18日の付録に添付した巻末資料。原PDFの文字層・OCRを頁順に収録。 照合候補頁13頁を原画像と照合。83・96・97・102・105・107頁で減額の「△」が落ちていた11か所（照合候補頁に加え、増減・比較欄や△のあるOCR頁37頁を符号に絞って照合）、76頁の款番号「5」、18頁「高額療養費」・58頁「総務管理費」の欠字を原画像に合わせて直した。他の頁の文言は照合していない。 本文の簡体字は日本語の字形に直した。 81・82・84～90・93・95頁は原PDFの文字層が独自の符号で本文が判読できなかったため、強制OCRの文に差し替えた（原画像と照合し、93頁で落ちていた「△」７か所を直した）。",
       "speakers": []
     },
     {
