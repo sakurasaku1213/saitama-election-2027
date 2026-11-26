@@ -57855,6 +57855,102 @@ GIKAI.questionText = {
       "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sityo/files/zigyo_kessan_r7.pdf",
       "note": "年月は対応する定例会。 原本の頁順で文字層・OCRを収録。 原PDFの白紙を確認した頁はその旨を表示。 簡体字・異体字と「橋りよう」等の小書き・長音の誤読は全頁で直した。 照合候補頁のうち文字のある395頁から15頁（8・86・154・204・254・307・366・414・451・510・569・624・674・727・780頁）を全体に散らして原画像と照合し、数値と行の対応は全て一致。残り380頁は未照合（OCRのまま）。表の左右の欄（予算現額等と節別の支出済額）がOCR文では行ごとに入り混じる頁がある（抽出頁は合計の算式で対応を確認）。",
       "speakers": []
+    },
+    {
+      "id": "bf99ac6ed9e57b7221be",
+      "place": "越谷市",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "越谷市 令和7年度　病院事業会計補正予算書",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sityo/files/byouin_hosei803.pdf",
+      "note": "年月は対応する定例会。 原本の頁順で文字層・OCRを収録。 原PDFの白紙を確認した頁はその旨を表示。 簡体字・異体字と「橋りよう」等の小書き・長音の誤読は全頁で直した。 OCRルーターは白紙の2頁（8・18頁。印字されない頁番号の文字を白い矩形が覆い、描画は全面白）を「空の頁」として要確認とし ok=false としたが、他に指摘はなく照合候補頁はこれだけ。原画像で全面白を確認し、白紙頁と表示した。",
+      "speakers": []
+    },
+    {
+      "id": "6d98094329e50e98c4bd",
+      "place": "越谷市",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "越谷市 令和7年度　公共下水道事業会計補正予算書",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sityo/files/gesuidou_hosei803.pdf",
+      "note": "年月は対応する定例会。 原本の頁順で文字層・OCRを収録。 原PDFの白紙を確認した頁はその旨を表示。 簡体字・異体字と「橋りよう」等の小書き・長音の誤読は全頁で直した。 OCRルーターは白紙の3頁（8・12・22頁。印字されない頁番号の文字を白い矩形が覆い、描画は全面白）を「空の頁」として要確認とし ok=false としたが、他に指摘はなく照合候補頁はこれだけ。原画像で全面白を確認し、白紙頁と表示した。",
+      "speakers": []
+    },
+    {
+      "id": "cd2b8ccb9a834802874e",
+      "place": "越谷市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "越谷市 令和7年度　病院事業会計決算書",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sityo/files/byouin_kessan_r7.pdf",
+      "note": "年月は対応する定例会。 原本の頁順で文字層・OCRを収録。 原PDFの白紙を確認した頁はその旨を表示。 簡体字・異体字と「橋りよう」等の小書き・長音の誤読は全頁で直した。 OCRルーターは白紙の2頁（16・39頁。印字されない頁番号の文字を白い矩形が覆い、描画は全面白）を「空の頁」として要確認とし ok=false としたが、他に指摘はなく照合候補頁はこれだけ。原画像で全面白を確認し、白紙頁と表示した。",
+      "speakers": []
+    },
+    {
+      "id": "86a4543e65ea7ca8a47e",
+      "place": "越谷市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "越谷市 令和7年度　公共下水道事業会計決算書",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sityo/files/gesuidou_kessan_r7.pdf",
+      "note": "年月は対応する定例会。 原本の頁順で文字層・OCRを収録。 原PDFの白紙を確認した頁はその旨を表示。 簡体字・異体字と「橋りよう」等の小書き・長音の誤読は全頁で直した。 OCRルーターは白紙の2頁（8・16頁。印字されない頁番号の文字を白い矩形が覆い、描画は全面白）を「空の頁」として要確認とし ok=false としたが、他に指摘はなく照合候補頁はこれだけ。原画像で全面白を確認し、白紙頁と表示した。",
+      "speakers": []
+    },
+    {
+      "id": "6dc9a87005c68bbb0c07",
+      "place": "越谷市",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "越谷市 令和8年度　病院事業会計予算書",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sityo/files/byouin_yosan803.pdf",
+      "note": "年月は対応する定例会。 原本の頁順で文字層・OCRを収録。 原PDFの白紙を確認した頁はその旨を表示。 簡体字・異体字と「橋りよう」等の小書き・長音の誤読は全頁で直した。 OCRルーターは白紙の1頁（8頁。印字されない頁番号の文字を白い矩形が覆い、描画は全面白）を「空の頁」として要確認とし ok=false としたが、他に指摘はなく照合候補頁はこれだけ。原画像で全面白を確認し、白紙頁と表示した。",
+      "speakers": []
+    },
+    {
+      "id": "42fc98def3f4bf53ed64",
+      "place": "越谷市",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "越谷市 令和8年度　公共下水道事業会計予算書",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sityo/files/gesuidou_yosan803.pdf",
+      "note": "年月は対応する定例会。 原本の頁順で文字層・OCRを収録。 原PDFの白紙を確認した頁はその旨を表示。 簡体字・異体字と「橋りよう」等の小書き・長音の誤読は全頁で直した。 OCRルーターは白紙の1頁（25頁。印字されない頁番号の文字を白い矩形が覆い、描画は全面白）を「空の頁」として要確認とし ok=false としたが、他に指摘はなく照合候補頁はこれだけ。原画像で全面白を確認し、白紙頁と表示した。",
+      "speakers": []
+    },
+    {
+      "id": "3feda12ae9b5b8123f87",
+      "place": "越谷市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "越谷市 令和7年度一般会計・特別会計決算の概要",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.koshigaya.saitama.jp/kurashi_shisei/shisei/koho/kisyakaiken/2025/files/0808_04kessangaiyou.pdf",
+      "note": "年月は対応する定例会。 原本の頁順で文字層・OCRを収録。 原PDFの白紙を確認した頁はその旨を表示。 簡体字・異体字と「橋りよう」等の小書き・長音の誤読は全頁で直した。 OCRルーターは白紙の1頁（2頁。印字されない頁番号の文字を白い矩形が覆い、描画は全面白）を「空の頁」として要確認とし ok=false としたが、他に指摘はなく照合候補頁はこれだけ。原画像で全面白を確認し、白紙頁と表示した。既定の経路は paddle の異常終了で失敗したため strict 指定で実行（本文は文字層）。グラフ画像の中の文字は収録していない。",
+      "speakers": []
+    },
+    {
+      "id": "b8fcc79f5607d11baa1b",
+      "place": "伊奈町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "伊奈町 第14号議案（令和8年3月定例会）",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-3gi14go.pdf",
+      "note": "年月は提出対象の定例会。公表された冊子・別冊の原本。 照合候補頁51頁（「歳出」の扉頁、行の信頼度0.84）を原画像と照合し、OCR文と一致。１頁（表紙）はOCR文が「一般会計・特別会計」の一部を落としていたため、PDFの文字層と原画像に合わせて書き直した（他の頁の文字数は文字層と同等）。",
+      "speakers": []
     }
   ],
   "coverage": [
