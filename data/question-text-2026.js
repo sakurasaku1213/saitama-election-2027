@@ -54472,6 +54472,42 @@ GIKAI.questionText = {
       "speakers": [
         "丸山妙子"
       ]
+    },
+    {
+      "id": "a5ffa0ce5993ef368fde",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-30",
+      "title": "蕨市 令和７年度 国民健康保険特別会計決算書",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.warabi.saitama.jp/_res/projects/default_project/_page_/001/013/260/7kokuho.pdf",
+      "note": "日付は市公式掲載日。一般会計決算書の分割版は掲載元から確認できる。 正規ルーターの文字層・OCRを頁順に収録。",
+      "speakers": []
+    },
+    {
+      "id": "24b2b3bc55fb04989d84",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-30",
+      "title": "蕨市 令和７年度 蕨都市計画事業錦町土地区画整理事業特別会計決算書",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.warabi.saitama.jp/_res/projects/default_project/_page_/001/013/260/7nishiki.pdf",
+      "note": "日付は市公式掲載日。一般会計決算書の分割版は掲載元から確認できる。 原PDFの文字層を頁順に収録。",
+      "speakers": []
+    },
+    {
+      "id": "ce011bb25d82ba45db6d",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-30",
+      "title": "蕨市 令和７年度 公用地先行取得事業特別会計決算書",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.warabi.saitama.jp/_res/projects/default_project/_page_/001/013/260/7youchi.pdf",
+      "note": "日付は市公式掲載日。一般会計決算書の分割版は掲載元から確認できる。 原PDFの文字層を頁順に収録。",
+      "speakers": []
     }
   ],
   "coverage": [

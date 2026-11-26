@@ -3870,6 +3870,10 @@ GIKAI.coverage2026 = {
         {
           "label": "公式の予算・議案等の掲載元",
           "url": "https://www.city.warabi.saitama.jp/shisei/mayor/1010102/1013198.html"
+        },
+        {
+          "label": "令和７年度歳入歳出決算書",
+          "url": "https://www.city.warabi.saitama.jp/shisei/kaikei/kaikei/kessan/1013260.html"
         }
       ]
     },
