@@ -3726,6 +3726,10 @@ GIKAI.coverage2026 = {
         {
           "label": "議会だより公式テキスト版一覧",
           "url": "https://warabi.gijiroku.com/gikai/g07_shiryo5.asp"
+        },
+        {
+          "label": "市公式の予算・決算等の掲載元",
+          "url": "https://www.city.warabi.saitama.jp/shisei/zaisei/kouhyo/1012672.html"
         }
       ]
     },
@@ -3868,12 +3872,16 @@ GIKAI.coverage2026 = {
           "url": "https://warabi.gijiroku.com/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%91%E6%81@%82T%89%F1%92%E8%97%E1%89%EF%81%7C09%8C%8E29%93%FA-%95t%98^&HUID=126587&KGNO=627&FINO=1546&HATSUGENMODE=1&HYOUJIMODE=0&STYLE=0"
         },
         {
-          "label": "公式の予算・議案等の掲載元",
+          "label": "市公式の予算・決算等の掲載元",
           "url": "https://www.city.warabi.saitama.jp/shisei/mayor/1010102/1013198.html"
         },
         {
-          "label": "令和７年度歳入歳出決算書",
+          "label": "市公式の予算・決算等の掲載元",
           "url": "https://www.city.warabi.saitama.jp/shisei/kaikei/kaikei/kessan/1013260.html"
+        },
+        {
+          "label": "市公式の予算・決算等の掲載元",
+          "url": "https://www.city.warabi.saitama.jp/shisei/zaisei/kouhyo/1012672.html"
         }
       ]
     },

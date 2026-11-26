@@ -41378,7 +41378,7 @@ GIKAI.questionText = {
       "kind": "会議・政策の関連資料（公式PDF・OCR）",
       "scope": "supporting",
       "url": "https://www.vill.higashichichibu.saitama.jp/uploaded/attachment/6427.pdf",
-      "note": "表示は村議会の議決日。16・17頁の学校教育共通経費の減額は原画像と照合。 文字層・OCRから頁順に転記。図表は原PDFで確認できます。 19～23頁を原PDFの文字層から追加。PDF 1・11～12頁も原PDFの文字層から追加。PDF 2～10・13～15・18頁は文字・表の確認中。",
+      "note": "表示は村議会の議決日。16・17頁の学校教育共通経費の減額は原画像と照合。 文字層・OCRから頁順に転記。図表は原PDFで確認できます。 19～23頁を原PDFの文字層から追加。PDF 1・11～12頁も原PDFの文字層から追加。PDF 3～8頁の文字層とOCRを追加。収支合計、債務負担行為の限度額などは原画像を照合。PDF 2・9～10・13～15・18頁は文字・表の確認中。",
       "speakers": []
     },
     {
@@ -54868,6 +54868,54 @@ GIKAI.questionText = {
       "scope": "recording",
       "url": "https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/speech.html?council_id=39&schedule_id=6&playlist_id=2&speaker_id=0&target_year=2026",
       "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 当日の本会議の議事録画。分割された録画を含む。発言者と発言区間は原映像でご確認ください。 自動検査の確認候補時間帯を含みます。",
+      "speakers": []
+    },
+    {
+      "id": "454ccea54c4c78ee534e",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-30",
+      "title": "蕨市令和７年度後期高齢者医療特別会計決算書",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.warabi.saitama.jp/_res/projects/default_project/_page_/001/013/260/7kouki.pdf",
+      "note": "日付は市の公式掲載日。 原本の頁順で文字層・OCRを収録。",
+      "speakers": []
+    },
+    {
+      "id": "f7bf1af21518f7273899",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-08-25",
+      "title": "蕨市第５回定例会に先立つ定例記者会見・説明資料",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.warabi.saitama.jp/_res/projects/default_project/_page_/001/013/198/siryoua.pdf",
+      "note": "日付は記者会見日。 原本の頁順で文字層・OCRを収録。",
+      "speakers": []
+    },
+    {
+      "id": "e722d911c8f09ee2a3a0",
+      "place": "蕨市",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "蕨市令和８年度当初予算案・概要",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.warabi.saitama.jp/_res/projects/default_project/_page_/001/012/672/r8gaiyou.pdf",
+      "note": "年月は対象の３月定例会。２頁は原本の白紙。 原本の頁順で文字層・OCRを収録。",
+      "speakers": []
+    },
+    {
+      "id": "66cd3d03e36eaef9ab86",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-29",
+      "title": "蕨市令和８年度９月補正予算書",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.warabi.saitama.jp/_res/projects/default_project/_page_/001/012/672/r8.9hosei.pdf",
+      "note": "日付は５補正予算議案の議決日。 原本の頁順で文字層・OCRを収録。 PDF 1～2・4～6・10～11・14～19・22～23・26～27・29～31・34～36・38・40～41・44・47～49・52～53・56～57頁は数値・表の並びを確認中。原PDFへのリンクを掲載。",
       "speakers": []
     }
   ],
