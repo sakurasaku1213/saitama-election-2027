@@ -9019,6 +9019,9 @@ GIKAI.questionText = {
         "武藤倫雄",
         "青木久男",
         "高橋まゆみ"
+      ],
+      "relatedDocumentIds": [
+        "0045fdad1acfe1e84ad9"
       ]
     },
     {
@@ -9059,6 +9062,9 @@ GIKAI.questionText = {
         "藤原義春",
         "青木久男",
         "高橋まゆみ"
+      ],
+      "relatedDocumentIds": [
+        "4951db535f18ec1ba175"
       ]
     },
     {
@@ -9087,6 +9093,9 @@ GIKAI.questionText = {
         "藤原義春",
         "青木久男",
         "高橋まゆみ"
+      ],
+      "relatedDocumentIds": [
+        "eb5e0a20ba881f34afc4"
       ]
     },
     {
@@ -9107,6 +9116,9 @@ GIKAI.questionText = {
         "栗原惠子",
         "青木久男",
         "高橋まゆみ"
+      ],
+      "relatedDocumentIds": [
+        "11a79d5dd79ca0839ad5"
       ]
     },
     {
@@ -9127,6 +9139,9 @@ GIKAI.questionText = {
         "戸張光枝",
         "武藤倫雄",
         "藤原義春"
+      ],
+      "relatedDocumentIds": [
+        "5366a456542ea10e1f64"
       ]
     },
     {
@@ -9209,6 +9224,9 @@ GIKAI.questionText = {
         "木俣美千代",
         "武藤倫雄",
         "青木久男"
+      ],
+      "relatedDocumentIds": [
+        "b36a20bd698b2f072a4f"
       ]
     },
     {
@@ -9240,6 +9258,9 @@ GIKAI.questionText = {
         "山野智彦",
         "武藤倫雄",
         "藤原義春"
+      ],
+      "relatedDocumentIds": [
+        "125af692f054e4540567"
       ]
     },
     {
@@ -9261,6 +9282,9 @@ GIKAI.questionText = {
         "栗原惠子",
         "青木久男",
         "高橋まゆみ"
+      ],
+      "relatedDocumentIds": [
+        "c4de48c53a5e1ce28fa3"
       ]
     },
     {
@@ -9352,6 +9376,9 @@ GIKAI.questionText = {
         "武藤倫雄",
         "青木久男",
         "高橋まゆみ"
+      ],
+      "relatedDocumentIds": [
+        "e0415b68cd93cdbfb09a"
       ]
     },
     {
@@ -9381,6 +9408,9 @@ GIKAI.questionText = {
         "川内雅人",
         "武藤倫雄",
         "青木久男"
+      ],
+      "relatedDocumentIds": [
+        "733d71be26d287e39cc8"
       ]
     },
     {
@@ -9399,6 +9429,9 @@ GIKAI.questionText = {
         "木俣美千代",
         "栗原惠子",
         "高橋まゆみ"
+      ],
+      "relatedDocumentIds": [
+        "746345486669b2da3754"
       ]
     },
     {
@@ -9421,6 +9454,9 @@ GIKAI.questionText = {
         "武藤倫雄",
         "藤原義春",
         "上野尚德"
+      ],
+      "relatedDocumentIds": [
+        "135cc0a7d4f828dc826c"
       ]
     },
     {
@@ -54557,6 +54593,282 @@ GIKAI.questionText = {
       "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-9kekka.pdf",
       "note": "年月は対象会期。 原本の頁順で文字を収録。",
       "speakers": []
+    },
+    {
+      "id": "72e520a26938d4822587",
+      "place": "伊奈町",
+      "season": "fall",
+      "date": "2026-09-16",
+      "title": "伊奈町 第54号議案（令和８年９月定例会）",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-09gi54go.pdf",
+      "note": "日付は第54号議案の原案可決日。町議会の議案書別冊。",
+      "speakers": []
+    },
+    {
+      "id": "e21e81b63577611b714f",
+      "place": "伊奈町",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "伊奈町 第58号議案（令和８年９月定例会）",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-09gi58o.pdf",
+      "note": "年月は提出対象の定例会。公表された冊子・別冊の原本。",
+      "speakers": []
+    },
+    {
+      "id": "76a2157b958fec54053d",
+      "place": "伊奈町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "伊奈町 第7号議案（令和8年3月定例会）",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-3gi7go.pdf",
+      "note": "年月は提出対象の定例会。公表された冊子・別冊の原本。",
+      "speakers": []
+    },
+    {
+      "id": "e2774117f6a391b679c2",
+      "place": "伊奈町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "伊奈町 第33号議案（令和8年3月定例会）",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-3gi33go.pdf",
+      "note": "年月は提出対象の定例会。公表された冊子・別冊の原本。",
+      "speakers": []
+    },
+    {
+      "id": "5366a456542ea10e1f64",
+      "place": "伊奈町",
+      "season": "spring",
+      "date": "2026-03-06",
+      "title": "伊奈町 令和8年3月6日総務建設産業常任委員会会議録",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://inamachi.gsl-service.net/doc/2020100800025/file_contents/2026-0306soken.pdf",
+      "note": "日付は開催日。町議会が公開した委員会会議録のPDF版を収録。",
+      "speakers": [],
+      "relatedDocumentIds": [
+        "c7049b1225f7dacd2120"
+      ]
+    },
+    {
+      "id": "125af692f054e4540567",
+      "place": "伊奈町",
+      "season": "summer",
+      "date": "2026-06-09",
+      "title": "伊奈町 令和８年６月９日総務建設産業常任委員会会議録",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://inamachi.gsl-service.net/doc/2020100800025/file_contents/2026-0609soken.pdf",
+      "note": "日付は開催日。町議会が公開した委員会会議録のPDF版を収録。",
+      "speakers": [],
+      "relatedDocumentIds": [
+        "bb31240c92deabaed636"
+      ]
+    },
+    {
+      "id": "135cc0a7d4f828dc826c",
+      "place": "伊奈町",
+      "season": "fall",
+      "date": "2026-09-07",
+      "title": "伊奈町 令和８年９月７日総務建設産業常任委員会会議録",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://inamachi.gsl-service.net/doc/2020100800025/file_contents/2026-0907soken.pdf",
+      "note": "日付は開催日。町議会が公開した委員会会議録のPDF版を収録。",
+      "speakers": [],
+      "relatedDocumentIds": [
+        "c7cc3d6e299a494d8f58"
+      ]
+    },
+    {
+      "id": "11a79d5dd79ca0839ad5",
+      "place": "伊奈町",
+      "season": "spring",
+      "date": "2026-03-05",
+      "title": "伊奈町 令和8年3月5日文教民生常任委員会会議録",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://inamachi.gsl-service.net/doc/2020100800025/file_contents/2026-0305bunmin.pdf",
+      "note": "日付は開催日。町議会が公開した委員会会議録のPDF版を収録。",
+      "speakers": [],
+      "relatedDocumentIds": [
+        "db78601d9339c8555112"
+      ]
+    },
+    {
+      "id": "c4de48c53a5e1ce28fa3",
+      "place": "伊奈町",
+      "season": "summer",
+      "date": "2026-06-10",
+      "title": "伊奈町 令和８年６月１０日文教民生常任委員会会議録",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://inamachi.gsl-service.net/doc/2020100800025/file_contents/2026-0610bunmin.pdf",
+      "note": "日付は開催日。町議会が公開した委員会会議録のPDF版を収録。",
+      "speakers": [],
+      "relatedDocumentIds": [
+        "617944e689d6cb06e9ec"
+      ]
+    },
+    {
+      "id": "746345486669b2da3754",
+      "place": "伊奈町",
+      "season": "fall",
+      "date": "2026-09-04",
+      "title": "伊奈町 令和８年９月４日文教民生常任委員会会議録",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://inamachi.gsl-service.net/doc/2020100800025/file_contents/2026-0904bunmin.pdf",
+      "note": "日付は開催日。町議会が公開した委員会会議録のPDF版を収録。",
+      "speakers": [],
+      "relatedDocumentIds": [
+        "13e227473da20e776218"
+      ]
+    },
+    {
+      "id": "0045fdad1acfe1e84ad9",
+      "place": "伊奈町",
+      "season": "spring",
+      "date": "2026-02-25",
+      "title": "伊奈町 令和8年2月25日新庁舎建設特別委員会会議録",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://inamachi.gsl-service.net/doc/2020100800025/file_contents/2026-0225chosha.pdf",
+      "note": "日付は開催日。町議会が公開した委員会会議録のPDF版を収録。",
+      "speakers": [],
+      "relatedDocumentIds": [
+        "4e94a2f9721c3816cbda"
+      ]
+    },
+    {
+      "id": "b36a20bd698b2f072a4f",
+      "place": "伊奈町",
+      "season": "summer",
+      "date": "2026-06-04",
+      "title": "伊奈町 令和８年６月４日新庁舎建設特別委員会会議録",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://inamachi.gsl-service.net/doc/2020100800025/file_contents/2026-0604chosha.pdf",
+      "note": "日付は開催日。町議会が公開した委員会会議録のPDF版を収録。",
+      "speakers": [],
+      "relatedDocumentIds": [
+        "35105cf15cc03bf2ab54"
+      ]
+    },
+    {
+      "id": "e0415b68cd93cdbfb09a",
+      "place": "伊奈町",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "伊奈町 令和８年６月１９日新庁舎建設特別委員会会議録",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://inamachi.gsl-service.net/doc/2020100800025/file_contents/2026-0619chosha.pdf",
+      "note": "日付は開催日。町議会が公開した委員会会議録のPDF版を収録。",
+      "speakers": [],
+      "relatedDocumentIds": [
+        "7ca2a827392e5d9e4bdf"
+      ]
+    },
+    {
+      "id": "dd785272dbffe15c45f5",
+      "place": "伊奈町",
+      "season": "summer",
+      "date": "2026-07-15",
+      "title": "伊奈町 令和８年７月１５日新庁舎建設特別委員会会議録",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://inamachi.gsl-service.net/doc/2020100800025/file_contents/2026-0715chosha.pdf",
+      "note": "日付は開催日。町議会が公開した委員会会議録のPDF版を収録。 初夏会期後の新庁舎に関する調査。",
+      "speakers": []
+    },
+    {
+      "id": "733d71be26d287e39cc8",
+      "place": "伊奈町",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "伊奈町 令和８年９月１日新庁舎建設特別委員会会議録",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://inamachi.gsl-service.net/doc/2020100800025/file_contents/2026-0901chosha.pdf",
+      "note": "日付は開催日。町議会が公開した委員会会議録のPDF版を収録。",
+      "speakers": [],
+      "relatedDocumentIds": [
+        "7fbc0b5ebab0ca600541"
+      ]
+    },
+    {
+      "id": "26327f375aa094b24415",
+      "place": "伊奈町",
+      "season": "spring",
+      "date": "2026-02-25",
+      "title": "伊奈町 令和8年2月25日予算特別委員会会議録",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://inamachi.gsl-service.net/doc/2020100800025/file_contents/2026-0225yosan.pdf",
+      "note": "日付は開催日。町議会が公開した委員会会議録のPDF版を収録。",
+      "speakers": []
+    },
+    {
+      "id": "4951db535f18ec1ba175",
+      "place": "伊奈町",
+      "season": "spring",
+      "date": "2026-03-02",
+      "title": "伊奈町 令和8年3月2日予算特別委員会会議録",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://inamachi.gsl-service.net/doc/2020100800025/file_contents/2026-0302yosan.pdf",
+      "note": "日付は開催日。町議会が公開した委員会会議録のPDF版を収録。",
+      "speakers": [],
+      "relatedDocumentIds": [
+        "b620b7e7b8055b7d3249"
+      ]
+    },
+    {
+      "id": "eb5e0a20ba881f34afc4",
+      "place": "伊奈町",
+      "season": "spring",
+      "date": "2026-03-03",
+      "title": "伊奈町 令和8年3月3日予算特別委員会会議録",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://inamachi.gsl-service.net/doc/2020100800025/file_contents/2026-0303yosan.pdf",
+      "note": "日付は開催日。町議会が公開した委員会会議録のPDF版を収録。",
+      "speakers": [],
+      "relatedDocumentIds": [
+        "73a3378cdc4cbcbab21a"
+      ]
+    },
+    {
+      "id": "a2d8454d067b200b13a6",
+      "place": "伊奈町",
+      "season": "fall",
+      "date": "2026-11-25",
+      "title": "伊奈町 令和８年12月定例会初日 決算認定結果（PDF １頁）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-12-1kekka.pdf",
+      "note": "９月の決算継続審査７件の後続資料。12月定例会の初日の原表から決算認定を載せる１頁を収録。",
+      "speakers": []
+    },
+    {
+      "id": "51ec9c555c056bbee2fa",
+      "place": "寄居町",
+      "season": "fall",
+      "date": "2026-09-29",
+      "title": "本会議　決算審議　第６款 商工費（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/speech.html?council_id=39&schedule_id=6&playlist_id=2&speaker_id=0&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 当日の本会議の議事録画。分割された録画を含む。発言者と発言区間は原映像でご確認ください。 自動検査の確認候補時間帯を含みます。",
+      "speakers": []
     }
   ],
   "coverage": [
@@ -56192,7 +56504,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/council.html?year=2026&council_id=39",
-        "note": "公式録画一覧で一般質問12人を確認。議会だよりの質問・答弁要旨も収録。正式会議録は確認中。 公式録画の機械文字起こし一般質問12本・議事4本を収録。"
+        "note": "公式録画一覧で一般質問12人を確認。議会だよりの質問・答弁要旨も収録。正式会議録は確認中。 公式録画の機械文字起こし一般質問12本・議事5本を収録。"
       }
     },
     {

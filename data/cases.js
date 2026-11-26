@@ -23369,9 +23369,11 @@ GIKAI.cases.push(...[
         "date": "2026-09-16",
         "actor": "伊奈町議会",
         "stage": "運行費の債務負担行為を含む補正予算を可決",
-        "detail": "第54号の一般会計補正予算を原案可決した。委員会では令和９～11年度の運行経費を対象とする債務負担行為が説明された。",
-        "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-9kekka.pdf#page=1",
-        "sourceTitle": "伊奈町議会 ９月定例会・議案等処理結果一覧表",
+        "detail": "第54号の一般会計補正予算を原案可決した。予算書の債務負担行為の期間は令和８～11年度、限度額は1億4,628万2,000円。委員会では令和９～11年度の運行経費について説明があった。",
+        "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-09gi54go.pdf#page=6",
+        "sourceTitle": "伊奈町議会 第54号議案・補正予算書６頁",
+        "archiveId": "72e520a26938d4822587",
+        "blocks": [6],
         "billNumber": "第54号議案"
       },
       {
