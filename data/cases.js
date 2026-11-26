@@ -1854,6 +1854,10 @@ GIKAI.cases.push(
         "url": "https://ssp.kaigiroku.net/tenant/inamachi/SpMinuteView.html?tenant_id=218&council_id=454&schedule_id=1",
         "sourceTitle": "伊奈町議会 新庁舎建設特別委員会・発言順53・55・57",
         "archiveId": "35105cf15cc03bf2ab54",
+        "blocks": [
+          55,
+          57
+        ],
         "memberActions": [
           { "name": "木俣美千代", "blocks": [53, 55, 57], "detail": "資材の納入が遅れる例を挙げ、新庁舎工事の工程に支障がないかを尋ねた。" }
         ]
@@ -1866,6 +1870,13 @@ GIKAI.cases.push(
         "url": "https://ssp.kaigiroku.net/tenant/inamachi/SpMinuteView.html?tenant_id=218&council_id=459&schedule_id=1",
         "sourceTitle": "伊奈町議会 新庁舎建設特別委員会・発言順５～17",
         "archiveId": "7fbc0b5ebab0ca600541",
+        "blocks": [
+          7,
+          9,
+          13,
+          15,
+          17
+        ],
         "memberActions": [
           { "name": "武藤倫雄", "blocks": [7, 9, 13, 15, 17], "detail": "別棟を工事しながら本庁舎を使用する府中市の視察成果と、地元発注額に計上した職員宿舎の内容を尋ねた。" }
         ]
