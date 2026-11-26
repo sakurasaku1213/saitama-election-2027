@@ -57018,6 +57018,25 @@ GIKAI.questionText = {
       "url": "https://www.pref.saitama.lg.jp/documents/274057/r8_62gouyosetu.pdf",
       "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。",
       "speakers": []
+    },
+    {
+      "id": "f871047ee3bd20334231",
+      "place": "小鹿野町",
+      "season": "fall",
+      "date": "2026-11-01",
+      "title": "小鹿野町議会だより第85号（９月定例会）",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "url": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/11/ogano-gikai-85.pdf",
+      "note": "町議会発行の全10頁をOCR収録。表示日は紙面の発行日（町の掲載は11月26日）。審議結果、決算・議案の討論、一般質問６人の項目と５人の要旨（岩田議員の要旨は紙面に掲載なし）。原画像との照合候補頁：1、7。７頁の賛否表は原画像で照合し、議決データに転記。",
+      "speakers": [
+        "出浦正夫",
+        "岩田和幸",
+        "栗原勇雄",
+        "猪野茂",
+        "髙橋耕也",
+        "黒沢武"
+      ]
     }
   ],
   "coverage": [
@@ -58520,8 +58539,9 @@ GIKAI.questionText = {
       "place": "小鹿野町",
       "season": "fall",
       "material": {
-        "state": "notFound",
-        "note": "公式会議録一覧で令和８年の３月・６月定例会を確認。９月定例会の本文は掲載を確認できず。"
+        "state": "partial",
+        "indexURL": "https://www.town.ogano.lg.jp/ogano-assembly/ogano-gikai-dayori/",
+        "note": "議会だより第85号（11月１日発行）の一般質問６人の項目と５人の要旨、審議結果を収録。正式会議録は町の会議録一覧で確認中。"
       }
     },
     {
