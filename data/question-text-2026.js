@@ -56441,6 +56441,89 @@ GIKAI.questionText = {
         "久保鷹矢",
         "𠮷澤康広"
       ]
+    },
+    {
+      "id": "a6ea9cc139566b82a026",
+      "place": "伊奈町",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "伊奈町 第50号議案（令和8年6月定例会）",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-06gi50go.pdf",
+      "note": "年月は提出対象の定例会。公表された冊子・別冊の原本。",
+      "speakers": []
+    },
+    {
+      "id": "eb45c043e8744551937d",
+      "place": "伊奈町",
+      "season": "summer",
+      "date": "2026-06-19",
+      "title": "伊奈町 議第２号議案（令和８年６月定例会）",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-6gi2go.pdf",
+      "note": "日付は議案提出日。１頁の署名欄は原画像で確認し、氏名は町議会の記名表決表の表記で転記。２～３頁は意見書本文。",
+      "speakers": [
+        "仲島雄大",
+        "青木久男",
+        "栗原惠子",
+        "佐藤弘一",
+        "大沢淳",
+        "髙橋まゆみ",
+        "山野智彦",
+        "戸張光枝",
+        "冨井篤弥",
+        "川内雅人"
+      ]
+    },
+    {
+      "id": "7d29427fe3362b1839c8",
+      "place": "伊奈町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "伊奈町 第9号議案（令和8年3月定例会）",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-3gi9go.pdf",
+      "note": "年月は提出対象の定例会。公表された冊子・別冊の原本。",
+      "speakers": []
+    },
+    {
+      "id": "5c2efd9a01e5ce6aa0c7",
+      "place": "伊奈町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "伊奈町 第10号議案（令和8年3月定例会）",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-3gi10go.pdf",
+      "note": "年月は提出対象の定例会。公表された冊子・別冊の原本。",
+      "speakers": []
+    },
+    {
+      "id": "e4f04ee0b7c40d198f89",
+      "place": "伊奈町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "伊奈町 第12号議案（令和8年3月定例会）",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-3gi12go.pdf",
+      "note": "年月は提出対象の定例会。公表された冊子・別冊の原本。",
+      "speakers": []
+    },
+    {
+      "id": "3b15d5331a9568a6bd73",
+      "place": "伊奈町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "伊奈町 第35号議案（令和8年3月定例会）",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-3gi35go.pdf",
+      "note": "年月は提出対象の定例会。公表された冊子・別冊の原本。",
+      "speakers": []
     }
   ],
   "coverage": [

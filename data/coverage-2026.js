@@ -14974,9 +14974,9 @@ GIKAI.coverage2026 = {
       "title": "令和8年度伊奈町介護保険特別会計補正予算(第1号)",
       "number": "第50号議案",
       "result": "原案可決",
-      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-6kekka.pdf#page=2",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-06gi50go.pdf#page=1",
       "resultURL": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-6kekka.pdf#page=2",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式議案書の該当頁",
       "voteType": "記名",
       "voteURL": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-6kekka.pdf#page=2",
       "votes": {
@@ -14996,7 +14996,8 @@ GIKAI.coverage2026 = {
         "仲島雄大": "賛成",
         "冨井篤弥": "賛成",
         "川内雅人": "賛成"
-      }
+      },
+      "sourceTitle": "伊奈町議会 第50号議案の提出原文"
     },
     {
       "place": "伊奈町",
@@ -143430,9 +143431,9 @@ GIKAI.coverage2026 = {
       "title": "令和7年度伊奈町国民健康保険特別会計補正予算(第4号)",
       "date": "2026-03-18",
       "result": "原案可決",
-      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-3kekka.pdf#page=2",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-3gi9go.pdf#page=1",
       "resultURL": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-3kekka.pdf#page=2",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式議案書の該当頁",
       "voteType": "記名",
       "voteURL": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-3kekka.pdf#page=2",
       "votes": {
@@ -143452,7 +143453,8 @@ GIKAI.coverage2026 = {
         "仲島雄大": "賛成",
         "冨井篤弥": "賛成",
         "川内雅人": "賛成"
-      }
+      },
+      "sourceTitle": "伊奈町議会 第9号議案の提出原文"
     },
     {
       "place": "伊奈町",
@@ -143462,9 +143464,9 @@ GIKAI.coverage2026 = {
       "title": "令和7年度伊奈町中部特定土地区画整理事業特別会計補正予算(第3号)",
       "date": "2026-03-18",
       "result": "原案可決",
-      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-3kekka.pdf#page=2",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-3gi10go.pdf#page=1",
       "resultURL": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-3kekka.pdf#page=2",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式議案書の該当頁",
       "voteType": "記名",
       "voteURL": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-3kekka.pdf#page=2",
       "votes": {
@@ -143484,7 +143486,8 @@ GIKAI.coverage2026 = {
         "仲島雄大": "賛成",
         "冨井篤弥": "賛成",
         "川内雅人": "賛成"
-      }
+      },
+      "sourceTitle": "伊奈町議会 第10号議案の提出原文"
     },
     {
       "place": "伊奈町",
@@ -143526,9 +143529,9 @@ GIKAI.coverage2026 = {
       "title": "令和7年度伊奈町後期高齢者医療特別会計補正予算(第2号)",
       "date": "2026-03-18",
       "result": "原案可決",
-      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-3kekka.pdf#page=2",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-3gi12go.pdf#page=1",
       "resultURL": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-3kekka.pdf#page=2",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式議案書の該当頁",
       "voteType": "記名",
       "voteURL": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-3kekka.pdf#page=2",
       "votes": {
@@ -143548,7 +143551,8 @@ GIKAI.coverage2026 = {
         "仲島雄大": "賛成",
         "冨井篤弥": "賛成",
         "川内雅人": "賛成"
-      }
+      },
+      "sourceTitle": "伊奈町議会 第12号議案の提出原文"
     },
     {
       "place": "伊奈町",
@@ -144262,9 +144266,9 @@ GIKAI.coverage2026 = {
       "title": "令和8年度伊奈町一般会計補正予算(第1号)",
       "date": "2026-03-18",
       "result": "原案可決",
-      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-3kekka.pdf#page=4",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-3gi35go.pdf#page=1",
       "resultURL": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-3kekka.pdf#page=4",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式議案書の該当頁",
       "voteType": "記名",
       "voteURL": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-3kekka.pdf#page=4",
       "votes": {
@@ -144284,7 +144288,8 @@ GIKAI.coverage2026 = {
         "仲島雄大": "賛成",
         "冨井篤弥": "賛成",
         "川内雅人": "賛成"
-      }
+      },
+      "sourceTitle": "伊奈町議会 第35号議案の提出原文"
     },
     {
       "place": "伊奈町",
@@ -144456,9 +144461,9 @@ GIKAI.coverage2026 = {
       "title": "生徒の声を尊重した県立高等学校の在り方に関する意見書",
       "date": "2026-06-19",
       "result": "原案可決",
-      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-6kekka.pdf#page=2",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-6gi2go.pdf#page=1",
       "resultURL": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-6kekka.pdf#page=2",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式議案書の該当頁",
       "voteType": "記名",
       "voteURL": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-6kekka.pdf#page=2",
       "votes": {
@@ -144478,7 +144483,31 @@ GIKAI.coverage2026 = {
         "仲島雄大": "賛成",
         "冨井篤弥": "賛成",
         "川内雅人": "賛成"
-      }
+      },
+      "sourceTitle": "伊奈町議会 議第2号議案の提出原文",
+      "names": [
+        "仲島雄大"
+      ],
+      "proposalSupporters": [
+        "青木久男",
+        "栗原惠子",
+        "佐藤弘一",
+        "大沢淳",
+        "髙橋まゆみ",
+        "山野智彦",
+        "戸張光枝",
+        "冨井篤弥",
+        "川内雅人"
+      ],
+      "proposalSupporterLabel": "提出時の賛成者（議案書の署名欄）",
+      "archiveId": "f016d05fff4dc007d566",
+      "blocks": [
+        40,
+        43,
+        44,
+        48,
+        49
+      ]
     },
     {
       "place": "伊奈町",
