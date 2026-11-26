@@ -28591,6 +28591,18 @@ GIKAI.questionText = {
       "speakers": []
     },
     {
+      "id": "c77bab4c376e2f95e683",
+      "place": "寄居町",
+      "season": "fall",
+      "date": "2026-09-30",
+      "title": "本会議　決算審議　第１０款 災害復旧費 第１１款 公債費 第１２款 諸支出金 第１３款 予備費 総括（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/speech.html?council_id=39&schedule_id=7&playlist_id=1&speaker_id=0&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 当日の本会議の議事録画。分割された録画を含む。発言者と発言区間は原映像でご確認ください。",
+      "speakers": []
+    },
+    {
       "id": "7b4e01d8f247b28cc5d4",
       "place": "富士見市",
       "season": "spring",
@@ -41329,7 +41341,7 @@ GIKAI.questionText = {
       "kind": "会議・政策の関連資料（公式PDF・OCR）",
       "scope": "supporting",
       "url": "https://www.vill.higashichichibu.saitama.jp/uploaded/attachment/6427.pdf",
-      "note": "表示は村議会の議決日。16・17頁の学校教育共通経費の減額は原画像と照合。 文字層・OCRから頁順に転記。図表は原PDFで確認できます。 19～23頁を原PDFの文字層から追加。PDF 1～15・18頁は文字・表の確認中。",
+      "note": "表示は村議会の議決日。16・17頁の学校教育共通経費の減額は原画像と照合。 文字層・OCRから頁順に転記。図表は原PDFで確認できます。 19～23頁を原PDFの文字層から追加。PDF 1・11～12頁も原PDFの文字層から追加。PDF 2～10・13～15・18頁は文字・表の確認中。",
       "speakers": []
     },
     {
@@ -55593,7 +55605,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/council.html?year=2026&council_id=39",
-        "note": "公式録画一覧で一般質問12人を確認。議会だよりの質問・答弁要旨も収録。正式会議録は確認中。 公式録画の機械文字起こし一般質問12本・議事2本を収録。"
+        "note": "公式録画一覧で一般質問12人を確認。議会だよりの質問・答弁要旨も収録。正式会議録は確認中。 公式録画の機械文字起こし一般質問12本・議事3本を収録。"
       }
     },
     {
