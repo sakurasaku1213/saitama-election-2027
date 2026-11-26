@@ -51832,9 +51832,9 @@ GIKAI.coverage2026 = {
       "number": "報告第14号",
       "title": "令和７年度決算における健全化判断比率の報告について",
       "result": "報告",
-      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=1",
+      "url": "https://toda.gijiroku.com/gikai/voices/ctl/Picture/1/20260918/hokoku.pdf#page=1",
       "resultURL": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=1",
-      "sourceType": "公式議決結果",
+      "sourceType": "公式議案書の該当頁",
       "resultLocator": "議会の公式原表 1頁・報告第14号",
       "date": "2026-08-24",
       "proposer": "市長",
@@ -51844,7 +51844,8 @@ GIKAI.coverage2026 = {
         55,
         91,
         92
-      ]
+      ],
+      "sourceTitle": "戸田市議会 報告第14号の提出原文"
     },
     {
       "place": "戸田市",
@@ -51853,9 +51854,9 @@ GIKAI.coverage2026 = {
       "number": "報告第15号",
       "title": "令和７年度戸田市水道事業会計決算における資金不足比率の報告について",
       "result": "報告",
-      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=1",
+      "url": "https://toda.gijiroku.com/gikai/voices/ctl/Picture/1/20260918/hokoku.pdf#page=2",
       "resultURL": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=1",
-      "sourceType": "公式議決結果",
+      "sourceType": "公式議案書の該当頁",
       "resultLocator": "議会の公式原表 1頁・報告第15号",
       "date": "2026-08-24",
       "proposer": "市長",
@@ -51865,7 +51866,8 @@ GIKAI.coverage2026 = {
         58,
         91,
         92
-      ]
+      ],
+      "sourceTitle": "戸田市議会 報告第15号の提出原文"
     },
     {
       "place": "戸田市",
@@ -51874,9 +51876,9 @@ GIKAI.coverage2026 = {
       "number": "報告第16号",
       "title": "令和７年度戸田市下水道事業会計決算における資金不足比率の報告について",
       "result": "報告",
-      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=1",
+      "url": "https://toda.gijiroku.com/gikai/voices/ctl/Picture/1/20260918/hokoku.pdf#page=3",
       "resultURL": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=1",
-      "sourceType": "公式議決結果",
+      "sourceType": "公式議案書の該当頁",
       "resultLocator": "議会の公式原表 1頁・報告第16号",
       "date": "2026-08-24",
       "proposer": "市長",
@@ -51886,7 +51888,8 @@ GIKAI.coverage2026 = {
         58,
         91,
         92
-      ]
+      ],
+      "sourceTitle": "戸田市議会 報告第16号の提出原文"
     },
     {
       "place": "戸田市",
@@ -51895,9 +51898,9 @@ GIKAI.coverage2026 = {
       "number": "報告第17号",
       "title": "令和７年度戸田市水道事業会計継続費精算報告書の報告について",
       "result": "報告",
-      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=1",
+      "url": "https://toda.gijiroku.com/gikai/voices/ctl/Picture/1/20260918/hokoku.pdf#page=4",
       "resultURL": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=1",
-      "sourceType": "公式議決結果",
+      "sourceType": "公式議案書の該当頁",
       "resultLocator": "議会の公式原表 1頁・報告第17号",
       "date": "2026-08-24",
       "proposer": "市長",
@@ -51907,7 +51910,8 @@ GIKAI.coverage2026 = {
         58,
         91,
         92
-      ]
+      ],
+      "sourceTitle": "戸田市議会 報告第17号の提出原文"
     },
     {
       "place": "戸田市",
@@ -51916,9 +51920,9 @@ GIKAI.coverage2026 = {
       "number": "報告第18号",
       "title": "令和７年度戸田市下水道事業会計継続費精算報告書の報告について",
       "result": "報告",
-      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=1",
+      "url": "https://toda.gijiroku.com/gikai/voices/ctl/Picture/1/20260918/hokoku.pdf#page=5",
       "resultURL": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=1",
-      "sourceType": "公式議決結果",
+      "sourceType": "公式議案書の該当頁",
       "resultLocator": "議会の公式原表 1頁・報告第18号",
       "date": "2026-08-24",
       "proposer": "市長",
@@ -51928,7 +51932,8 @@ GIKAI.coverage2026 = {
         58,
         91,
         92
-      ]
+      ],
+      "sourceTitle": "戸田市議会 報告第18号の提出原文"
     },
     {
       "place": "戸田市",
@@ -51937,9 +51942,9 @@ GIKAI.coverage2026 = {
       "number": "認定第1号",
       "title": "令和７年度戸田市一般会計歳入歳出決算認定について",
       "result": "認定",
-      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=2",
+      "url": "https://toda.gijiroku.com/gikai/voices/ctl/Picture/1/20260918/nintei.pdf#page=1",
       "resultURL": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=2",
-      "sourceType": "公式議決結果",
+      "sourceType": "公式議案書の該当頁",
       "resultLocator": "議会の公式原表 2頁・認定第1号",
       "date": "2026-09-18",
       "proposer": "市長",
@@ -51978,7 +51983,8 @@ GIKAI.coverage2026 = {
         25,
         26,
         27
-      ]
+      ],
+      "sourceTitle": "戸田市議会 認定第1号の提出原文"
     },
     {
       "place": "戸田市",
@@ -51987,9 +51993,9 @@ GIKAI.coverage2026 = {
       "number": "認定第2号",
       "title": "令和７年度戸田市国民健康保険特別会計歳入歳出決算認定について",
       "result": "認定",
-      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=2",
+      "url": "https://toda.gijiroku.com/gikai/voices/ctl/Picture/1/20260918/nintei.pdf#page=15",
       "resultURL": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=2",
-      "sourceType": "公式議決結果",
+      "sourceType": "公式議案書の該当頁",
       "resultLocator": "議会の公式原表 2頁・認定第2号",
       "date": "2026-09-18",
       "proposer": "市長",
@@ -52028,7 +52034,8 @@ GIKAI.coverage2026 = {
         30,
         31,
         32
-      ]
+      ],
+      "sourceTitle": "戸田市議会 認定第2号の提出原文"
     },
     {
       "place": "戸田市",
@@ -52037,9 +52044,9 @@ GIKAI.coverage2026 = {
       "number": "認定第3号",
       "title": "令和７年度戸田市市民医療センター特別会計歳入歳出決算認定について",
       "result": "認定",
-      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=2",
+      "url": "https://toda.gijiroku.com/gikai/voices/ctl/Picture/1/20260918/nintei.pdf#page=23",
       "resultURL": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=2",
-      "sourceType": "公式議決結果",
+      "sourceType": "公式議案書の該当頁",
       "resultLocator": "議会の公式原表 2頁・認定第3号",
       "date": "2026-09-18",
       "proposer": "市長",
@@ -52076,7 +52083,8 @@ GIKAI.coverage2026 = {
       "blocks": [
         33,
         34
-      ]
+      ],
+      "sourceTitle": "戸田市議会 認定第3号の提出原文"
     },
     {
       "place": "戸田市",
@@ -52085,9 +52093,9 @@ GIKAI.coverage2026 = {
       "number": "認定第4号",
       "title": "令和７年度戸田市交通災害共済事業特別会計歳入歳出決算認定について",
       "result": "認定",
-      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=2",
+      "url": "https://toda.gijiroku.com/gikai/voices/ctl/Picture/1/20260918/nintei.pdf#page=29",
       "resultURL": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=2",
-      "sourceType": "公式議決結果",
+      "sourceType": "公式議案書の該当頁",
       "resultLocator": "議会の公式原表 2頁・認定第4号",
       "date": "2026-09-18",
       "proposer": "市長",
@@ -52124,7 +52132,8 @@ GIKAI.coverage2026 = {
       "blocks": [
         33,
         34
-      ]
+      ],
+      "sourceTitle": "戸田市議会 認定第4号の提出原文"
     },
     {
       "place": "戸田市",
@@ -52133,9 +52142,9 @@ GIKAI.coverage2026 = {
       "number": "認定第5号",
       "title": "令和７年度戸田市海外留学奨学事業特別会計歳入歳出決算認定について",
       "result": "認定",
-      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=2",
+      "url": "https://toda.gijiroku.com/gikai/voices/ctl/Picture/1/20260918/nintei.pdf#page=35",
       "resultURL": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=2",
-      "sourceType": "公式議決結果",
+      "sourceType": "公式議案書の該当頁",
       "resultLocator": "議会の公式原表 2頁・認定第5号",
       "date": "2026-09-18",
       "proposer": "市長",
@@ -52172,7 +52181,8 @@ GIKAI.coverage2026 = {
       "blocks": [
         33,
         34
-      ]
+      ],
+      "sourceTitle": "戸田市議会 認定第5号の提出原文"
     },
     {
       "place": "戸田市",
@@ -52181,9 +52191,9 @@ GIKAI.coverage2026 = {
       "number": "認定第6号",
       "title": "令和７年度戸田市火災共済事業特別会計歳入歳出決算認定について",
       "result": "認定",
-      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=2",
+      "url": "https://toda.gijiroku.com/gikai/voices/ctl/Picture/1/20260918/nintei.pdf#page=41",
       "resultURL": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=2",
-      "sourceType": "公式議決結果",
+      "sourceType": "公式議案書の該当頁",
       "resultLocator": "議会の公式原表 2頁・認定第6号",
       "date": "2026-09-18",
       "proposer": "市長",
@@ -52220,7 +52230,8 @@ GIKAI.coverage2026 = {
       "blocks": [
         33,
         34
-      ]
+      ],
+      "sourceTitle": "戸田市議会 認定第6号の提出原文"
     },
     {
       "place": "戸田市",
@@ -52229,9 +52240,9 @@ GIKAI.coverage2026 = {
       "number": "認定第7号",
       "title": "令和７年度戸田市新曽第一土地区画整理事業特別会計歳入歳出決算認定について",
       "result": "認定",
-      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=2",
+      "url": "https://toda.gijiroku.com/gikai/voices/ctl/Picture/1/20260918/nintei.pdf#page=47",
       "resultURL": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=2",
-      "sourceType": "公式議決結果",
+      "sourceType": "公式議案書の該当頁",
       "resultLocator": "議会の公式原表 2頁・認定第7号",
       "date": "2026-09-18",
       "proposer": "市長",
@@ -52268,7 +52279,8 @@ GIKAI.coverage2026 = {
       "blocks": [
         33,
         34
-      ]
+      ],
+      "sourceTitle": "戸田市議会 認定第7号の提出原文"
     },
     {
       "place": "戸田市",
@@ -52277,9 +52289,9 @@ GIKAI.coverage2026 = {
       "number": "認定第8号",
       "title": "令和７年度戸田市介護保険特別会計歳入歳出決算認定について",
       "result": "認定",
-      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=3",
+      "url": "https://toda.gijiroku.com/gikai/voices/ctl/Picture/1/20260918/nintei.pdf#page=53",
       "resultURL": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=3",
-      "sourceType": "公式議決結果",
+      "sourceType": "公式議案書の該当頁",
       "resultLocator": "議会の公式原表 3頁・認定第8号",
       "date": "2026-09-18",
       "proposer": "市長",
@@ -52316,7 +52328,8 @@ GIKAI.coverage2026 = {
       "blocks": [
         33,
         34
-      ]
+      ],
+      "sourceTitle": "戸田市議会 認定第8号の提出原文"
     },
     {
       "place": "戸田市",
@@ -52325,9 +52338,9 @@ GIKAI.coverage2026 = {
       "number": "認定第9号",
       "title": "令和７年度戸田市新曽第二土地区画整理事業特別会計歳入歳出決算認定について",
       "result": "認定",
-      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=3",
+      "url": "https://toda.gijiroku.com/gikai/voices/ctl/Picture/1/20260918/nintei.pdf#page=63",
       "resultURL": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=3",
-      "sourceType": "公式議決結果",
+      "sourceType": "公式議案書の該当頁",
       "resultLocator": "議会の公式原表 3頁・認定第9号",
       "date": "2026-09-18",
       "proposer": "市長",
@@ -52364,7 +52377,8 @@ GIKAI.coverage2026 = {
       "blocks": [
         33,
         34
-      ]
+      ],
+      "sourceTitle": "戸田市議会 認定第9号の提出原文"
     },
     {
       "place": "戸田市",
@@ -52373,9 +52387,9 @@ GIKAI.coverage2026 = {
       "number": "認定第10号",
       "title": "令和７年度戸田市後期高齢者医療特別会計歳入歳出決算認定について",
       "result": "認定",
-      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=3",
+      "url": "https://toda.gijiroku.com/gikai/voices/ctl/Picture/1/20260918/nintei.pdf#page=69",
       "resultURL": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=3",
-      "sourceType": "公式議決結果",
+      "sourceType": "公式議案書の該当頁",
       "resultLocator": "議会の公式原表 3頁・認定第10号",
       "date": "2026-09-18",
       "proposer": "市長",
@@ -52412,7 +52426,8 @@ GIKAI.coverage2026 = {
       "blocks": [
         33,
         34
-      ]
+      ],
+      "sourceTitle": "戸田市議会 認定第10号の提出原文"
     },
     {
       "place": "戸田市",
@@ -52421,9 +52436,9 @@ GIKAI.coverage2026 = {
       "number": "認定第11号",
       "title": "令和７年度戸田市在宅介護支援事業特別会計歳入歳出決算認定について",
       "result": "認定",
-      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=3",
+      "url": "https://toda.gijiroku.com/gikai/voices/ctl/Picture/1/20260918/nintei.pdf#page=75",
       "resultURL": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=3",
-      "sourceType": "公式議決結果",
+      "sourceType": "公式議案書の該当頁",
       "resultLocator": "議会の公式原表 3頁・認定第11号",
       "date": "2026-09-18",
       "proposer": "市長",
@@ -52460,7 +52475,8 @@ GIKAI.coverage2026 = {
       "blocks": [
         33,
         34
-      ]
+      ],
+      "sourceTitle": "戸田市議会 認定第11号の提出原文"
     },
     {
       "place": "戸田市",
@@ -52567,9 +52583,9 @@ GIKAI.coverage2026 = {
       "number": "議案第50号",
       "title": "戸田市認可地縁団体印鑑条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=3",
+      "url": "https://toda.gijiroku.com/gikai/voices/ctl/Picture/1/20260918/s_gian.pdf#page=1",
       "resultURL": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=3",
-      "sourceType": "公式議決結果",
+      "sourceType": "公式議案書の該当頁",
       "resultLocator": "議会の公式原表 3頁・議案第50号",
       "date": "2026-09-18",
       "proposer": "市長",
@@ -52606,7 +52622,8 @@ GIKAI.coverage2026 = {
       "blocks": [
         44,
         45
-      ]
+      ],
+      "sourceTitle": "戸田市議会 議案第50号の提出原文"
     },
     {
       "place": "戸田市",
@@ -52615,9 +52632,9 @@ GIKAI.coverage2026 = {
       "number": "議案第51号",
       "title": "戸田市廃棄物の減量及び適正処理に関する条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=4",
+      "url": "https://toda.gijiroku.com/gikai/voices/ctl/Picture/1/20260918/s_gian.pdf#page=2",
       "resultURL": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=4",
-      "sourceType": "公式議決結果",
+      "sourceType": "公式議案書の該当頁",
       "resultLocator": "議会の公式原表 4頁・議案第51号",
       "date": "2026-09-18",
       "proposer": "市長",
@@ -52654,7 +52671,8 @@ GIKAI.coverage2026 = {
       "blocks": [
         44,
         45
-      ]
+      ],
+      "sourceTitle": "戸田市議会 議案第51号の提出原文"
     },
     {
       "place": "戸田市",
@@ -52663,9 +52681,9 @@ GIKAI.coverage2026 = {
       "number": "議案第52号",
       "title": "戸田市都市景観条例の一部を改正する条例",
       "result": "原案可決",
-      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=4",
+      "url": "https://toda.gijiroku.com/gikai/voices/ctl/Picture/1/20260918/s_gian.pdf#page=3",
       "resultURL": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=4",
-      "sourceType": "公式議決結果",
+      "sourceType": "公式議案書の該当頁",
       "resultLocator": "議会の公式原表 4頁・議案第52号",
       "date": "2026-09-18",
       "proposer": "市長",
@@ -52702,7 +52720,8 @@ GIKAI.coverage2026 = {
       "blocks": [
         44,
         45
-      ]
+      ],
+      "sourceTitle": "戸田市議会 議案第52号の提出原文"
     },
     {
       "place": "戸田市",
@@ -52711,9 +52730,9 @@ GIKAI.coverage2026 = {
       "number": "議案第53号",
       "title": "庁舎外壁及び防水改修工事請負契約について",
       "result": "原案可決",
-      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=4",
+      "url": "https://toda.gijiroku.com/gikai/voices/ctl/Picture/1/20260918/s_gian.pdf#page=4",
       "resultURL": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=4",
-      "sourceType": "公式議決結果",
+      "sourceType": "公式議案書の該当頁",
       "resultLocator": "議会の公式原表 4頁・議案第53号",
       "date": "2026-09-18",
       "proposer": "市長",
@@ -52750,7 +52769,8 @@ GIKAI.coverage2026 = {
       "blocks": [
         44,
         45
-      ]
+      ],
+      "sourceTitle": "戸田市議会 議案第53号の提出原文"
     },
     {
       "place": "戸田市",
@@ -52759,9 +52779,9 @@ GIKAI.coverage2026 = {
       "number": "議案第54号",
       "title": "後谷住宅外装・設備改修工事請負契約について",
       "result": "原案可決",
-      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=4",
+      "url": "https://toda.gijiroku.com/gikai/voices/ctl/Picture/1/20260918/s_gian.pdf#page=5",
       "resultURL": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=4",
-      "sourceType": "公式議決結果",
+      "sourceType": "公式議案書の該当頁",
       "resultLocator": "議会の公式原表 4頁・議案第54号",
       "date": "2026-09-18",
       "proposer": "市長",
@@ -52798,7 +52818,8 @@ GIKAI.coverage2026 = {
       "blocks": [
         44,
         45
-      ]
+      ],
+      "sourceTitle": "戸田市議会 議案第54号の提出原文"
     },
     {
       "place": "戸田市",
@@ -52807,9 +52828,9 @@ GIKAI.coverage2026 = {
       "number": "議案第55号",
       "title": "訴訟の提起について",
       "result": "原案可決",
-      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=4",
+      "url": "https://toda.gijiroku.com/gikai/voices/ctl/Picture/1/20260918/s_gian.pdf#page=6",
       "resultURL": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=4",
-      "sourceType": "公式議決結果",
+      "sourceType": "公式議案書の該当頁",
       "resultLocator": "議会の公式原表 4頁・議案第55号",
       "date": "2026-09-18",
       "proposer": "市長",
@@ -52846,7 +52867,8 @@ GIKAI.coverage2026 = {
       "blocks": [
         44,
         45
-      ]
+      ],
+      "sourceTitle": "戸田市議会 議案第55号の提出原文"
     },
     {
       "place": "戸田市",
@@ -52855,9 +52877,9 @@ GIKAI.coverage2026 = {
       "number": "議案第56号",
       "title": "令和７年度戸田市水道事業会計未処分利益剰余金の処分について",
       "result": "原案可決",
-      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=4",
+      "url": "https://toda.gijiroku.com/gikai/voices/ctl/Picture/1/20260918/s_gian.pdf#page=7",
       "resultURL": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=4",
-      "sourceType": "公式議決結果",
+      "sourceType": "公式議案書の該当頁",
       "resultLocator": "議会の公式原表 4頁・議案第56号",
       "date": "2026-09-18",
       "proposer": "市長",
@@ -52894,7 +52916,8 @@ GIKAI.coverage2026 = {
       "blocks": [
         44,
         45
-      ]
+      ],
+      "sourceTitle": "戸田市議会 議案第56号の提出原文"
     },
     {
       "place": "戸田市",
@@ -52903,9 +52926,9 @@ GIKAI.coverage2026 = {
       "number": "議案第57号",
       "title": "令和７年度戸田市下水道事業会計未処分利益剰余金の処分について",
       "result": "原案可決",
-      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=4",
+      "url": "https://toda.gijiroku.com/gikai/voices/ctl/Picture/1/20260918/s_gian.pdf#page=8",
       "resultURL": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=4",
-      "sourceType": "公式議決結果",
+      "sourceType": "公式議案書の該当頁",
       "resultLocator": "議会の公式原表 4頁・議案第57号",
       "date": "2026-09-18",
       "proposer": "市長",
@@ -52942,7 +52965,8 @@ GIKAI.coverage2026 = {
       "blocks": [
         44,
         45
-      ]
+      ],
+      "sourceTitle": "戸田市議会 議案第57号の提出原文"
     },
     {
       "place": "戸田市",
@@ -52951,9 +52975,9 @@ GIKAI.coverage2026 = {
       "number": "議案第58号",
       "title": "令和８年度戸田市一般会計補正予算（第３号）",
       "result": "原案可決",
-      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=5",
+      "url": "https://toda.gijiroku.com/gikai/voices/ctl/Picture/1/20260918/s_gian.pdf#page=9",
       "resultURL": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=5",
-      "sourceType": "公式議決結果",
+      "sourceType": "公式議案書の該当頁",
       "resultLocator": "議会の公式原表 5頁・議案第58号",
       "date": "2026-09-18",
       "proposer": "市長",
@@ -52990,7 +53014,8 @@ GIKAI.coverage2026 = {
       "blocks": [
         44,
         45
-      ]
+      ],
+      "sourceTitle": "戸田市議会 議案第58号の提出原文"
     },
     {
       "place": "戸田市",
