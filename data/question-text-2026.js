@@ -59185,7 +59185,7 @@ GIKAI.questionText = {
       "kind": "陳情本文（公式PDF・AI画像書き起こし・２系統照合）",
       "scope": "supporting",
       "url": "https://www.city.wako.lg.jp/_res/projects/default_project/_page_/001/013/222/r80219tinjyo2-2.pdf",
-      "note": "市議会が公表した陳情書（スキャン）。AIが原PDFの画像から独立に２系統で書き起こして突き合わせ、OCR出力とも数字を照らした。原本の画質で判読できない字は推測せず「〓」と候補で示した（8字）。陳情者・署名者の氏名と署名は省略（住所等は市が黒塗り）。 同じPDF（SHA-256一致）は会期の審議結果ページにも掲載（https://www.city.wako.lg.jp/_res/projects/default_project/_page_/001/013/156/r80219tinjyo2-2.pdf）。",
+      "note": "市議会が公表した陳情書（スキャン）。AIが原PDFの画像から独立に２系統で書き起こして突き合わせ、OCR出力とも数字を照らした。原本の画質で判読できない字は推測せず「〓」と候補で示した（8字）。陳情者・署名者の氏名と署名は省略（住所等は市が黒塗り）。 同じPDF（SHA-256一致）は会期の審議結果ページにも掲載（https://www.city.wako.lg.jp/_res/projects/default_project/_page_/001/013/156/r80219tinjyo2-2.pdf）。 1頁の受付印の３字（事務局）は、同じ議会事務局の受付印が陳情第1号・第3号～第6号でいずれも「和光市議会事務局」と読めることと照らして確定した。",
       "speakers": []
     },
     {
