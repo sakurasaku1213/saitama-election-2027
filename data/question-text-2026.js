@@ -2138,7 +2138,7 @@ GIKAI.questionText = {
       "kind": "公式録画の機械文字起こし",
       "scope": "recording",
       "url": "https://smart.discussvision.net/smart/tenant/tokigawa/WebView/rd/speech.html?council_id=49&schedule_id=2&playlist_id=4&speaker_id=6&target_year=2026",
-      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 質問者名は公式録画の目録によります。",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 質問者名は公式録画の目録によります。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": [
         "神山俊"
       ]
@@ -2590,7 +2590,7 @@ GIKAI.questionText = {
       "kind": "議会だよりの質問・答弁要旨（OCR）",
       "scope": "summary",
       "url": "https://www.city.fujimino.saitama.jp/material/files/group/35/81_all_yoko.pdf",
-      "note": "議会だより全頁のOCR。紙面の見開き番号に対応する物理頁を表示。 原画像との照合候補頁 1、2、3、4、5、6、7、9、10。固有名詞・数値・段組は原紙面を確認。",
+      "note": "議会だより全頁のOCR。紙面の見開き番号に対応する物理頁を表示。 原画像との照合候補頁 1、2、3、4、5、6、7、9、10。固有名詞・数値・段組は原紙面を確認。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -3744,7 +3744,7 @@ GIKAI.questionText = {
       "kind": "会議・政策の関連資料（公式PDF・OCR）",
       "scope": "supporting",
       "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/07-11_ikensyo01_R8-2.pdf",
-      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -4413,7 +4413,7 @@ GIKAI.questionText = {
       "kind": "会議・政策の関連資料（公式PDF・OCR）",
       "scope": "supporting",
       "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/06-01_ikensyo05_R8-3.pdf",
-      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。 OCRの照合候補頁を表示。金額、表の配置や読み順は原PDFを確認してください。",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。 OCRの照合候補頁を表示。金額、表の配置や読み順は原PDFを確認してください。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -4605,7 +4605,7 @@ GIKAI.questionText = {
       "kind": "会議・政策の関連資料（公式PDF・OCR）",
       "scope": "supporting",
       "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/06-03_ikensyo07_R8-3.pdf",
-      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -5159,7 +5159,7 @@ GIKAI.questionText = {
       "kind": "会議・政策の関連資料（公式PDF・OCR）",
       "scope": "supporting",
       "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-23_nintei01-04_kessankansaikensyo_R8-4_e.pdf",
-      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。 OCRの照合候補頁を表示。金額、表の配置や読み順は原PDFを確認してください。",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。 OCRの照合候補頁を表示。金額、表の配置や読み順は原PDFを確認してください。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -5219,7 +5219,7 @@ GIKAI.questionText = {
       "kind": "会議・政策の関連資料（公式PDF・OCR）",
       "scope": "supporting",
       "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-03_houkoku09_R8-4_e.pdf",
-      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。 OCRの照合候補頁を表示。金額、表の配置や読み順は原PDFを確認してください。",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。 OCRの照合候補頁を表示。金額、表の配置や読み順は原PDFを確認してください。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -5243,7 +5243,7 @@ GIKAI.questionText = {
       "kind": "会議・政策の関連資料（公式PDF・OCR）",
       "scope": "supporting",
       "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-02_houkoku08_R8-4_e.pdf",
-      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。 OCRの照合候補頁を表示。金額、表の配置や読み順は原PDFを確認してください。",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。 OCRの照合候補頁を表示。金額、表の配置や読み順は原PDFを確認してください。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -5303,7 +5303,7 @@ GIKAI.questionText = {
       "kind": "会議・政策の関連資料（公式PDF・OCR）",
       "scope": "supporting",
       "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-04_houkoku10_R8-4_e.pdf",
-      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。 OCRの照合候補頁を表示。金額、表の配置や読み順は原PDFを確認してください。",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。 OCRの照合候補頁を表示。金額、表の配置や読み順は原PDFを確認してください。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -5315,7 +5315,7 @@ GIKAI.questionText = {
       "kind": "会議・政策の関連資料（公式PDF・OCR）",
       "scope": "supporting",
       "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-24_R7syuyounashisakunoseika_R8-4.pdf",
-      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。 原本で空白だった2頁も頁番号を保持。",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。 原本で空白だった2頁も頁番号を保持。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -5327,7 +5327,7 @@ GIKAI.questionText = {
       "kind": "会議・政策の関連資料（公式PDF・OCR）",
       "scope": "supporting",
       "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-27_kigyoukaikei_kessankansaikensyo_R8-4_e.pdf",
-      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。 OCRの照合候補頁を表示。金額、表の配置や読み順は原PDFを確認してください。",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。 OCRの照合候補頁を表示。金額、表の配置や読み順は原PDFを確認してください。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -5507,7 +5507,7 @@ GIKAI.questionText = {
       "kind": "会議・政策の関連資料（公式PDF・OCR）",
       "scope": "supporting",
       "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-09_gian40_kansen7gosenkeiyaku_R8-4_e.pdf",
-      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。 OCRの照合候補頁を表示。金額、表の配置や読み順は原PDFを確認してください。",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。 OCRの照合候補頁を表示。金額、表の配置や読み順は原PDFを確認してください。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -5543,7 +5543,7 @@ GIKAI.questionText = {
       "kind": "会議・政策の関連資料（公式PDF・OCR）",
       "scope": "supporting",
       "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/01-22-02_nintei01-04_kessansyo_R8-4.pdf",
-      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。 OCRの照合候補頁を表示。金額、表の配置や読み順は原PDFを確認してください。",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。 OCRの照合候補頁を表示。金額、表の配置や読み順は原PDFを確認してください。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -5699,7 +5699,7 @@ GIKAI.questionText = {
       "kind": "会議・政策の関連資料（公式PDF・OCR）",
       "scope": "supporting",
       "url": "https://www.town.saitama-miyoshi.lg.jp/gikai/shiryo/documents/nittei/07-08_ikensyo09_R8-4.pdf",
-      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。",
+      "note": "町の定例会資料にある公式PDF。PDFの物理頁番号を表示。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -6141,7 +6141,7 @@ GIKAI.questionText = {
       "kind": "会議・政策の関連資料（公式PDF・OCR）",
       "scope": "supporting",
       "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_6_houkokusyo_HPyou.pdf",
-      "note": "三郷市の公式提出議案一覧から取得。PDFの物理頁番号を使用しています。 自動検査の照合候補頁を明示しています。金額や表の対応は原PDFを確認してください。 空白頁12頁を原PDFで確認し、ページ番号を保持。",
+      "note": "三郷市の公式提出議案一覧から取得。PDFの物理頁番号を使用しています。 自動検査の照合候補頁を明示しています。金額や表の対応は原PDFを確認してください。 空白頁12頁を原PDFで確認し、ページ番号を保持。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -6177,7 +6177,7 @@ GIKAI.questionText = {
       "kind": "会議・政策の関連資料（公式PDF・OCR）",
       "scope": "supporting",
       "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_6_giannsannkou_HPyou.pdf",
-      "note": "三郷市の公式提出議案一覧から取得。PDFの物理頁番号を使用しています。 自動検査の照合候補頁を明示しています。金額や表の対応は原PDFを確認してください。 空白頁2頁を原PDFで確認し、ページ番号を保持。",
+      "note": "三郷市の公式提出議案一覧から取得。PDFの物理頁番号を使用しています。 自動検査の照合候補頁を明示しています。金額や表の対応は原PDFを確認してください。 空白頁2頁を原PDFで確認し、ページ番号を保持。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -6206,7 +6206,7 @@ GIKAI.questionText = {
       "kind": "会議・政策の関連資料（公式PDF・OCR）",
       "scope": "supporting",
       "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_6_giannsyo_HPyou.pdf",
-      "note": "三郷市の公式提出議案一覧から取得。PDFの物理頁番号を使用しています。 自動検査の照合候補頁を明示しています。金額や表の対応は原PDFを確認してください。 空白頁28頁を原PDFで確認し、ページ番号を保持。 印字の頁番号のみ、またはスキャン跡のみの頁は、原画像で確認した状態を表示。",
+      "note": "三郷市の公式提出議案一覧から取得。PDFの物理頁番号を使用しています。 自動検査の照合候補頁を明示しています。金額や表の対応は原PDFを確認してください。 空白頁28頁を原PDFで確認し、ページ番号を保持。 印字の頁番号のみ、またはスキャン跡のみの頁は、原画像で確認した状態を表示。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -6414,7 +6414,7 @@ GIKAI.questionText = {
       "kind": "会議・政策の関連資料（公式PDF・OCR）",
       "scope": "supporting",
       "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_kessansho.pdf",
-      "note": "三郷市の公式提出議案一覧から取得。PDFの物理頁番号を使用しています。 自動検査の照合候補頁を明示しています。金額や表の対応は原PDFを確認してください。 印字の頁番号のみ、またはスキャン跡のみの頁は、原画像で確認した状態を表示。 659～661頁は原PDFの文字層の数字が私用領域の符号だったため、強制OCRの文に差し替えた（数値は符号の解読値と照合）。",
+      "note": "三郷市の公式提出議案一覧から取得。PDFの物理頁番号を使用しています。 自動検査の照合候補頁を明示しています。金額や表の対応は原PDFを確認してください。 印字の頁番号のみ、またはスキャン跡のみの頁は、原画像で確認した状態を表示。 659～661頁は原PDFの文字層の数字が私用領域の符号だったため、強制OCRの文に差し替えた（数値は符号の解読値と照合し、日付・種類は３頁とも原画像で照合）。",
       "speakers": []
     },
     {
@@ -6450,7 +6450,7 @@ GIKAI.questionText = {
       "kind": "会議・政策の関連資料（公式PDF・OCR）",
       "scope": "supporting",
       "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_giansannkou2.pdf",
-      "note": "三郷市の公式提出議案一覧から取得。PDFの物理頁番号を使用しています。 自動検査の照合候補頁を明示しています。金額や表の対応は原PDFを確認してください。 空白頁2頁を原PDFで確認し、ページ番号を保持。",
+      "note": "三郷市の公式提出議案一覧から取得。PDFの物理頁番号を使用しています。 自動検査の照合候補頁を明示しています。金額や表の対応は原PDFを確認してください。 空白頁2頁を原PDFで確認し、ページ番号を保持。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -6542,7 +6542,7 @@ GIKAI.questionText = {
       "kind": "公式録画の機械文字起こし",
       "scope": "recording",
       "title": "西尾秀貴議員　一般質問（録画から）",
-      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "url": "https://smart.discussvision.net/smart/tenant/misato/WebView/rd/speech.html?council_id=16&schedule_id=4&playlist_id=7&speaker_id=31&target_year=2026",
       "speakers": [
         "西尾秀貴"
@@ -7976,7 +7976,7 @@ GIKAI.questionText = {
       "kind": "議案・動議の提出原文（公式資料・OCR）",
       "scope": "summary",
       "url": "https://www.town.kamisato.saitama.jp/secure/15349/9gatsu_hosei__ippan.pdf",
-      "note": "町の公式予算書をOCRで転記。表示日は原文の提出日。 原画像との照合候補頁 9、10、11、12、13、14、15、16、17、18、19、20、21。",
+      "note": "町の公式予算書をOCRで転記。表示日は原文の提出日。 原画像との照合候補頁 9、10、11、12、13、14、15、16、17、18、19、20、21。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -7988,7 +7988,7 @@ GIKAI.questionText = {
       "kind": "議案・動議の提出原文（公式資料・OCR）",
       "scope": "summary",
       "url": "https://www.town.kamisato.saitama.jp/secure/15349/9gatsu_hosei__kaigo.pdf",
-      "note": "町の公式予算書をOCRで転記。表示日は原文の提出日。 原画像との照合候補頁 6、7、8、9、10。",
+      "note": "町の公式予算書をOCRで転記。表示日は原文の提出日。 原画像との照合候補頁 6、7、8、9、10。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -10421,7 +10421,7 @@ GIKAI.questionText = {
       "kind": "公式録画の機械文字起こし",
       "scope": "recording",
       "url": "https://smart.discussvision.net/smart/tenant/yashio/WebView/rd/speech.html?council_id=15&schedule_id=3&playlist_id=3&speaker_id=10&target_year=2026",
-      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": [
         "池谷正"
       ]
@@ -11613,7 +11613,7 @@ GIKAI.questionText = {
       "kind": "議会だよりの質問・答弁要旨（OCR）",
       "scope": "summary",
       "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori136.pdf",
-      "note": "議会だよりの全頁をOCR。 原画像との照合候補頁 1、2、3、4、5、6、7、9、16。表決は原紙面を確認。",
+      "note": "議会だよりの全頁をOCR。 原画像との照合候補頁 1、2、3、4、5、6、7、9、16。表決は原紙面を確認。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -11918,7 +11918,7 @@ GIKAI.questionText = {
       "kind": "議会だよりの質問・答弁要旨（OCR）",
       "scope": "summary",
       "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori137.pdf",
-      "note": "議会だよりの全頁をOCR。 原画像との照合候補頁 4、6、9、16。表決は原紙面を確認。",
+      "note": "議会だよりの全頁をOCR。 原画像との照合候補頁 4、6、9、16。表決は原紙面を確認。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -12331,7 +12331,7 @@ GIKAI.questionText = {
       "kind": "議会だよりの質問・答弁要旨（OCR）",
       "scope": "summary",
       "url": "https://www.city.kitamoto.lg.jp/material/files/group/19/dayori138a.pdf",
-      "note": "議会だよりの全頁をOCR。 原画像との照合候補頁 1、2、3、4、7、9。表決は原紙面を確認。",
+      "note": "議会だよりの全頁をOCR。 原画像との照合候補頁 1、2、3、4、7、9。表決は原紙面を確認。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -12701,7 +12701,7 @@ GIKAI.questionText = {
         "岩崎小百合",
         "遠藤義法"
       ],
-      "note": "８月31日受付の事前通告全10頁。原紙面をもとに議案番号・通告者を付記。OCRの確認対象頁は3・7・8・9・10頁。表の空欄・詳細語句や数値は原PDFで確認。"
+      "note": "８月31日受付の事前通告全10頁。原紙面をもとに議案番号・通告者を付記。OCRの確認対象頁は3・7・8・9・10頁。表の空欄・詳細語句や数値は原PDFで確認。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。"
     },
     {
       "place": "吉川市",
@@ -13027,7 +13027,7 @@ GIKAI.questionText = {
       "url": "https://www.town.yoshimi.saitama.jp/material/files/group/3/gikai14.pdf",
       "kind": "議会だよりの質問・答弁（紙面要約）",
       "scope": "summary",
-      "note": "一般質問11人39問答と見出しのみ15項目、委員会質疑14組、議案質疑・討論等を原紙面と照合。一般質問日は公式録画目録。OCR検査で指摘のあったPDF１・13頁の原画像を確認し、13頁は照合した問答を収録。原紙面のOCRは４～12・14～16頁を併録。同じ紙面を公開する町公式の２URLは１資料に集約。",
+      "note": "一般質問11人39問答と見出しのみ15項目、委員会質疑14組、議案質疑・討論等を原紙面と照合。一般質問日は公式録画目録。OCR検査で指摘のあったPDF１・13頁の原画像を確認し、13頁は照合した問答を収録。原紙面のOCRは４～12・14～16頁を併録。同じ紙面を公開する町公式の２URLは１資料に集約。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": [
         "福井学",
         "尾﨑豊",
@@ -13224,7 +13224,7 @@ GIKAI.questionText = {
       "url": "https://www.city.wako.lg.jp/_res/projects/default_project/_page_/001/013/156/r803ippan.pdf",
       "kind": "一般質問通告（公式資料）",
       "scope": "notice",
-      "note": "公式PDF全18頁のOCR。通告は事前資料。実際の発言と答弁は本会議録で確認できます。人名・数値・段組は原本を確認してください。OCR要照合の頁：5、7、9、12、13、17、18。",
+      "note": "公式PDF全18頁のOCR。通告は事前資料。実際の発言と答弁は本会議録で確認できます。人名・数値・段組は原本を確認してください。OCR要照合の頁：5、7、9、12、13、17、18。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -13236,7 +13236,7 @@ GIKAI.questionText = {
       "url": "https://www.city.wako.lg.jp/_res/projects/default_project/_page_/001/013/156/r80219sisei.pdf",
       "kind": "施政方針に対する発言通告（公式資料・OCR）",
       "scope": "notice",
-      "note": "公式PDF全22頁のOCR。通告は事前資料。実際の発言と答弁は本会議録で確認できます。人名・数値・段組は原本を確認してください。OCR要照合の頁：2、15、20。",
+      "note": "公式PDF全22頁のOCR。通告は事前資料。実際の発言と答弁は本会議録で確認できます。人名・数値・段組は原本を確認してください。OCR要照合の頁：2、15、20。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -13248,7 +13248,7 @@ GIKAI.questionText = {
       "url": "https://www.city.wako.lg.jp/_res/projects/default_project/_page_/001/013/156/r80227giantukoku.pdf",
       "kind": "議案質疑通告（公式資料・OCR）",
       "scope": "notice",
-      "note": "公式PDF全5頁のOCR。通告は事前資料。実際の発言と答弁は本会議録で確認できます。人名・数値・段組は原本を確認してください。OCR要照合の頁：2、3、5。",
+      "note": "公式PDF全5頁のOCR。通告は事前資料。実際の発言と答弁は本会議録で確認できます。人名・数値・段組は原本を確認してください。OCR要照合の頁：2、3、5。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -13688,7 +13688,7 @@ GIKAI.questionText = {
       "url": "https://www.city.wako.lg.jp/_res/projects/default_project/_page_/001/013/599/26.6ippannshitsumonn.pdf",
       "kind": "一般質問通告（公式資料）",
       "scope": "notice",
-      "note": "公式PDF全20頁のOCR。通告は事前資料。実際の発言と答弁は本会議録で確認できます。人名・数値・段組は原本を確認してください。OCR要照合の頁：2、13、16、18、19、20。",
+      "note": "公式PDF全20頁のOCR。通告は事前資料。実際の発言と答弁は本会議録で確認できます。人名・数値・段組は原本を確認してください。OCR要照合の頁：2、13、16、18、19、20。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -13961,7 +13961,7 @@ GIKAI.questionText = {
       "url": "https://www.city.wako.lg.jp/_res/projects/default_project/_page_/001/013/980/r80827ippantukoku.pdf",
       "kind": "一般質問通告（公式資料）",
       "scope": "notice",
-      "note": "公式PDF全19頁のOCR。通告は事前資料。実際の発言と答弁は本会議録で確認できます。人名・数値・段組は原本を確認してください。OCR要照合の頁：2、4、5、8、10、11、14、15、17、18、19。",
+      "note": "公式PDF全19頁のOCR。通告は事前資料。実際の発言と答弁は本会議録で確認できます。人名・数値・段組は原本を確認してください。OCR要照合の頁：2、4、5、8、10、11、14、15、17、18、19。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -27979,7 +27979,7 @@ GIKAI.questionText = {
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27014/gikaidayori140.pdf",
       "kind": "議会だよりの質問・答弁（紙面要約）",
       "scope": "summary",
-      "note": "第140号の一般質問12人・47問答、会計・議案の質疑43問答、議員の討論14件を原紙面と照合して要約。一般質問の通告37項目のうち紙面未掲載は７項目。一般質問の個人別日付は公式録画目録で照合。 全頁の機械OCRには要確認頁があり、先行収録の２頁を併録。",
+      "note": "第140号の一般質問12人・47問答、会計・議案の質疑43問答、議員の討論14件を原紙面と照合して要約。一般質問の通告37項目のうち紙面未掲載は７項目。一般質問の個人別日付は公式録画目録で照合。 全頁の機械OCRには要確認頁があり、先行収録の２頁を併録。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": [
         "丸山妙子",
         "土渕保美",
@@ -28529,7 +28529,7 @@ GIKAI.questionText = {
       "kind": "公式録画の機械文字起こし",
       "scope": "recording",
       "url": "https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/speech.html?council_id=39&schedule_id=3&playlist_id=4&speaker_id=2&target_year=2026",
-      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": [
         "大澤博"
       ]
@@ -30387,7 +30387,7 @@ GIKAI.questionText = {
       "url": "https://www.city.fujimi.saitama.jp/shigikai/koukai/backnumber/gikaidayori2026.files/gikai209.pdf",
       "kind": "議会だよりの質問・答弁要旨（OCR）",
       "scope": "summary",
-      "note": "公式の議会だより全物理PDF4頁。複数の紙面を１PDF頁に配置した箇所があります。全４頁を画像からOCR。人名・金額・段組に要照合の箇所があります（原PDF1～4頁）。正確な紙面の表記と段組は原PDFに掲載。",
+      "note": "公式の議会だより全物理PDF4頁。複数の紙面を１PDF頁に配置した箇所があります。全４頁を画像からOCR。人名・金額・段組に要照合の箇所があります（原PDF1～4頁）。正確な紙面の表記と段組は原PDFに掲載。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -30810,7 +30810,7 @@ GIKAI.questionText = {
       "kind": "会議・政策の関連資料（公式PDF・OCR）",
       "scope": "supporting",
       "url": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/03/R8yosansyo.pdf",
-      "note": "日付は一般会計当初予算の議決日。 原本の頁順で文字層またはOCRを収録。図表の欄・単位は原PDFで確認できます。",
+      "note": "日付は一般会計当初予算の議決日。 原本の頁順で文字層またはOCRを収録。図表の欄・単位は原PDFで確認できます。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -31020,7 +31020,7 @@ GIKAI.questionText = {
       "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
       "kind": "公式会議録PDFのOCR転記",
       "scope": "minutes",
-      "note": "公式PDFの本文をローカルOCRで転記。頁番号はPDF内の位置です。原本を出典として表示します。 原PDFで私用領域の外字だった「𠮷」（つちよし。吉本秀二議員等）は「吉」と表示した。",
+      "note": "公式PDFの本文をローカルOCRで転記。頁番号はPDF内の位置です。原本を出典として表示します。 原PDFで私用領域（U+E0FD）に符号化されていた「吉」（吉本秀二議員等。原PDFの描画は「吉」の字形）は「吉」と表示した。",
       "speakers": [
         "佐藤弘美",
         "川口浩史",
@@ -31042,7 +31042,7 @@ GIKAI.questionText = {
       "kind": "公式会議録（特別委員会）",
       "scope": "minutes",
       "speakers": [],
-      "note": "公式PDFを照合し、表題から署名欄まで全248頁の本文を収録しました。 原PDFで私用領域の外字だった「𠮷」（つちよし。吉本秀二議員等）は「吉」と表示した。"
+      "note": "公式PDFを照合し、表題から署名欄まで全248頁の本文を収録しました。 原PDFで私用領域（U+E0FD）に符号化されていた「吉」（吉本秀二議員等。原PDFの描画は「吉」の字形）は「吉」と表示した。"
     },
     {
       "id": "37c7ecc8365b3f4d0e24",
@@ -31053,7 +31053,7 @@ GIKAI.questionText = {
       "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000008/8026/R0806T.pdf",
       "kind": "公式会議録PDFのOCR転記",
       "scope": "minutes",
-      "note": "公式PDFの本文をローカルOCRで転記。頁番号はPDF内の位置です。原本を出典として表示します。 原PDFで私用領域の外字だった「𠮷」（つちよし。吉本秀二議員等）は「吉」と表示した。",
+      "note": "公式PDFの本文をローカルOCRで転記。頁番号はPDF内の位置です。原本を出典として表示します。 原PDFで私用領域（U+E0FD）に符号化されていた「吉」（吉本秀二議員等。原PDFの描画は「吉」の字形）は「吉」と表示した。",
       "speakers": [
         "佐藤弘美",
         "宮本大裕",
@@ -32302,7 +32302,7 @@ GIKAI.questionText = {
       "kind": "一般質問通告（公式資料）",
       "scope": "notice",
       "url": "https://kawaguchi.gsl-service.net/doc/2014072300126/file_contents/202603tsuukokusho.pdf",
-      "note": "市議会の公式発言通告書。表示日は対象定例会の初日。議案審議と一般質問は内容に応じて収録。",
+      "note": "市議会の公式発言通告書。表示日は対象定例会の初日。議案審議と一般質問は内容に応じて収録。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -33906,7 +33906,7 @@ GIKAI.questionText = {
       "kind": "議案審査の参考資料（公式PDF・OCR）",
       "scope": "summary",
       "url": "https://www.city.kawaguchi.lg.jp/material/files/group/10/0809houkoku.pdf",
-      "note": "市・市議会の公式PDFをOCRで転記。表示日は対象定例会の初日。 原画像との照合候補頁 6。 原本の空白頁 4、8、12を確認し、元のPDF頁番号の位置に表示。 PDF６頁の表の「年割額」「地方債」「教育費」「社会教育費」「計」を原画像で照合し、OCRの５字を補正。",
+      "note": "市・市議会の公式PDFをOCRで転記。表示日は対象定例会の初日。 原画像との照合候補頁 6。 原本の空白頁 4、8、12を確認し、元のPDF頁番号の位置に表示。 PDF６頁の表の「年割額」「地方債」「教育費」「社会教育費」「計」を原画像で照合し、OCRの５字を補正。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -34136,7 +34136,7 @@ GIKAI.questionText = {
       "kind": "議事概要（公式資料）",
       "scope": "summary",
       "url": "https://www.city.kawaguchi.lg.jp/material/files/group/3/2026_11.pdf",
-      "note": "市が公表した公式PDFのOCR。表示日は公表日、案内ページの更新日または刊行月。 原画像との照合候補頁 3。",
+      "note": "市が公表した公式PDFのOCR。表示日は公表日、案内ページの更新日または刊行月。 原画像との照合候補頁 3。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -36280,7 +36280,7 @@ GIKAI.questionText = {
       "kind": "公式録画の機械文字起こし",
       "scope": "recording",
       "url": "https://smart.discussvision.net/smart/tenant/shiki/WebView/rd/speech.html?council_id=48&schedule_id=3&playlist_id=1&speaker_id=14&target_year=2026",
-      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": [
         "天田いづみ"
       ]
@@ -38031,7 +38031,7 @@ GIKAI.questionText = {
       "url": "https://www.city.niiza.lg.jp/uploaded/attachment/74879.pdf",
       "kind": "議会だよりの質問・答弁（紙面要約）",
       "scope": "summary",
-      "note": "11月25日発行の議会だより。原紙面５～11頁に掲載された25人の74問答を要約し、質問日は公式録画目録に合わせた。先に収録したPDF７頁のOCRも併録。その他の頁のOCRは照合中。 10・11頁の市長報告のうち、共用火葬場計画の掲載要旨も収録。",
+      "note": "11月25日発行の議会だより。原紙面５～11頁に掲載された25人の74問答を要約し、質問日は公式録画目録に合わせた。先に収録したPDF７頁のOCRも併録。その他の頁のOCRは照合中。 10・11頁の市長報告のうち、共用火葬場計画の掲載要旨も収録。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": [
         "池田貞雄",
         "嶋野加代",
@@ -38582,7 +38582,7 @@ GIKAI.questionText = {
       "kind": "公式録画の機械文字起こし",
       "scope": "recording",
       "url": "https://smart.discussvision.net/smart/tenant/hidaka/WebView/rd/speech.html?council_id=54&schedule_id=5&playlist_id=4&speaker_id=22&target_year=2026",
-      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": [
         "金子博"
       ]
@@ -41297,7 +41297,7 @@ GIKAI.questionText = {
       "kind": "会議・政策の関連資料（公式PDF・OCR）",
       "scope": "supporting",
       "url": "https://www.vill.higashichichibu.saitama.jp/uploaded/attachment/6343.pdf",
-      "note": "表示は村議会の議決日。 文字層・OCRから頁順に転記。図表は原PDFで確認できます。 PDF 5～8・10・12～24・26～30頁は文字・表の確認中。",
+      "note": "表示は村議会の議決日。 文字層・OCRから頁順に転記。図表は原PDFで確認できます。 PDF 5～8・10・12～24・26～30頁は文字・表の確認中。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -41403,7 +41403,7 @@ GIKAI.questionText = {
       "kind": "会議・政策の関連資料（公式PDF・OCR）",
       "scope": "supporting",
       "url": "https://www.vill.higashichichibu.saitama.jp/uploaded/attachment/6428.pdf",
-      "note": "表示は村議会の議決日。 文字層・OCRから頁順に転記。図表は原PDFで確認できます。 PDF 5～7頁は文字・表の確認中。 原画像を照合し、物理２頁には文字・表がないことを確認。",
+      "note": "表示は村議会の議決日。 文字層・OCRから頁順に転記。図表は原PDFで確認できます。 PDF 5～7頁は文字・表の確認中。 原画像を照合し、物理２頁には文字・表がないことを確認。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -42684,7 +42684,7 @@ GIKAI.questionText = {
       "url": "https://www.town.moroyama.saitama.jp/material/files/group/2/gikaidayori134.pdf",
       "kind": "議会だよりの質問・答弁（紙面要約）",
       "scope": "summary",
-      "note": "議員編集の紙面を原画像と照合。一般質問13人63問答、決算委員会15問答、議案審議９問答、討論・提出の要旨７件。質問日は公式通告と紙面・録画目録で確認。登壇動画による詳細な逐語録は確認中。原紙面OCR５頁も併録。",
+      "note": "議員編集の紙面を原画像と照合。一般質問13人63問答、決算委員会15問答、議案審議９問答、討論・提出の要旨７件。質問日は公式通告と紙面・録画目録で確認。登壇動画による詳細な逐語録は確認中。原紙面OCR５頁も併録。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": [
         "小峰明雄",
         "佐島啓晋",
@@ -47868,7 +47868,7 @@ GIKAI.questionText = {
       "kind": "会議・政策の関連資料（公式PDF・OCR）",
       "scope": "supporting",
       "url": "https://www.city.hanyu.lg.jp/docs/2026081900075/file_contents/20260941-45.pdf",
-      "note": "番号と件名は羽生市の公式提出議案一覧で照合。年月は会期の呼称。 原PDFの頁順。文字層・OCRからの転記。表や図は原PDFで確認できる。 ４頁の中扉は原画像で照合。",
+      "note": "番号と件名は羽生市の公式提出議案一覧で照合。年月は会期の呼称。 原PDFの頁順。文字層・OCRからの転記。表や図は原PDFで確認できる。 ４頁の中扉は原画像で照合。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -49751,7 +49751,7 @@ GIKAI.questionText = {
       "kind": "議会だよりの質問・答弁要旨（OCR）",
       "scope": "summary",
       "url": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh80_235.pdf",
-      "note": "紙面版・全頁のOCR。原画像との照合候補頁：13、14。同号の公式テキスト版も参照。",
+      "note": "紙面版・全頁のOCR。原画像との照合候補頁：13、14。同号の公式テキスト版も参照。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -49998,7 +49998,7 @@ GIKAI.questionText = {
       "kind": "公式録画の機械文字起こし",
       "scope": "recording",
       "title": "栃本よしかね議員　一般質問（録画から）",
-      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "url": "https://warabi.gijiroku.com/gikai/g07_Video_View.asp?SrchID=2380",
       "speakers": [
         "栃本よしかね"
@@ -51750,7 +51750,7 @@ GIKAI.questionText = {
       "kind": "公式録画の機械文字起こし",
       "scope": "recording",
       "title": "大野恭子議員　一般質問（録画から）",
-      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。",
+      "note": "掲載された録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。議員名は公式録画の一覧によります。本文の話者、固有名詞、数値、聞き取りにくい語は元の録画をご確認ください。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "url": "https://koshigaya.gijiroku.com/g07_Video_View.asp?SrchID=2463",
       "speakers": [
         "大野恭子"
@@ -54520,7 +54520,7 @@ GIKAI.questionText = {
       "kind": "会議・政策の関連資料（公式PDF・OCR）",
       "scope": "supporting",
       "url": "https://www.city.warabi.saitama.jp/_res/projects/default_project/_page_/001/013/260/7kokuho.pdf",
-      "note": "日付は市公式掲載日。一般会計決算書の分割版は掲載元から確認できる。 正規ルーターの文字層・OCRを頁順に収録。",
+      "note": "日付は市公式掲載日。一般会計決算書の分割版は掲載元から確認できる。 正規ルーターの文字層・OCRを頁順に収録。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -54880,7 +54880,7 @@ GIKAI.questionText = {
       "kind": "会議・政策の関連資料（公式PDF・OCR）",
       "scope": "supporting",
       "url": "https://www.city.warabi.saitama.jp/_res/projects/default_project/_page_/001/013/260/7kouki.pdf",
-      "note": "日付は市の公式掲載日。 原本の頁順で文字層・OCRを収録。",
+      "note": "日付は市の公式掲載日。 原本の頁順で文字層・OCRを収録。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -54916,7 +54916,7 @@ GIKAI.questionText = {
       "kind": "会議・政策の関連資料（公式PDF・OCR）",
       "scope": "supporting",
       "url": "https://www.city.warabi.saitama.jp/_res/projects/default_project/_page_/001/012/672/r8.9hosei.pdf",
-      "note": "日付は５補正予算議案の議決日。 原本の頁順で文字層・OCRを収録。 PDF 1・4～6・10～11・14～19・22～23・26～27・29～31・34～36・38・40～41・44・47～49・52～53・56～57頁は数値・表の並びを確認中。原PDFへのリンクを掲載。 原画像を照合し、物理２頁には文字・表がないことを確認。",
+      "note": "日付は５補正予算議案の議決日。 原本の頁順で文字層・OCRを収録。 PDF 1・4～6・10～11・14～19・22～23・26～27・29～31・34～36・38・40～41・44・47～49・52～53・56～57頁は数値・表の並びを確認中。原PDFへのリンクを掲載。 原画像を照合し、物理２頁には文字・表がないことを確認。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -55534,7 +55534,7 @@ GIKAI.questionText = {
       "kind": "議案・動議の提出原文（公式資料・OCR）",
       "scope": "supporting",
       "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-09gi.pdf",
-      "note": "日付は冊子の第69号議案に記載された提出日。令和８年９月定例会の町議会公表議案書を物理頁順に収録。",
+      "note": "日付は冊子の第69号議案に記載された提出日。令和８年９月定例会の町議会公表議案書を物理頁順に収録。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -56074,7 +56074,7 @@ GIKAI.questionText = {
       "kind": "会議・政策の関連資料（公式PDF・OCR）",
       "scope": "supporting",
       "url": "https://www.pref.saitama.lg.jp/documents/274057/12_toshisinsav2.pdf",
-      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。",
+      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -56721,7 +56721,7 @@ GIKAI.questionText = {
       "kind": "議案・動議の提出原文（公式資料・OCR）",
       "scope": "supporting",
       "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000054265&fileId=1f6fd96700744fe1b95a8cc923d983fd&fileName=gian_giansyo_tuika.pdf",
-      "note": "年月は会期。 正規ルーターの文字層・OCRを頁順に収録。",
+      "note": "年月は会期。 正規ルーターの文字層・OCRを頁順に収録。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -56932,7 +56932,7 @@ GIKAI.questionText = {
       "kind": "公式会議録の付録（PDF・OCR）",
       "scope": "supporting",
       "url": "https://toda.gijiroku.com/gikai/voices/ctl/Picture/1/20260311/sonota.pdf",
-      "note": "市議会の会議録システムが3月11日の付録に添付した巻末資料。正規ルーターの文字層・OCRを頁順に収録。",
+      "note": "市議会の会議録システムが3月11日の付録に添付した巻末資料。正規ルーターの文字層・OCRを頁順に収録。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -57028,7 +57028,7 @@ GIKAI.questionText = {
       "kind": "議会だよりの質問・答弁要旨（OCR）",
       "scope": "summary",
       "url": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/11/ogano-gikai-85.pdf",
-      "note": "町議会発行の全10頁をOCR収録。表示日は紙面の発行日（町の掲載は11月26日）。審議結果、決算・議案の討論、一般質問６人の項目と５人の要旨（岩田議員の要旨は紙面に掲載なし）。原画像との照合候補頁：1、7。７頁の賛否表は原画像で照合し、議決データに転記。８〜10頁の要旨は縦組みの段組をOCRしたため、本文の行の並びが質問者の間で入れ替わる箇所があります（質問者５人は原画像で確認）。",
+      "note": "町議会発行の全10頁をOCR収録。表示日は紙面の発行日（町の掲載は11月26日）。審議結果、決算・議案の討論、一般質問６人の項目と５人の要旨（岩田議員の要旨は紙面に掲載なし）。原画像との照合候補頁：1、7。７頁の賛否表は原画像で照合し、議決データに転記。８〜10頁の要旨は縦組みの段組をOCRしたため、本文の行の並びが質問者の間で入れ替わる箇所があります（質問者５人は原画像で確認）。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": [
         "出浦正夫",
         "岩田和幸",
@@ -57071,7 +57071,7 @@ GIKAI.questionText = {
       "kind": "議案・動議の提出原文（公式資料・OCR）",
       "scope": "supporting",
       "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-3gi18go.pdf",
-      "note": "年月は提出対象の定例会。公表された冊子・別冊の原本。",
+      "note": "年月は提出対象の定例会。公表された冊子・別冊の原本。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -57243,7 +57243,7 @@ GIKAI.questionText = {
       "kind": "議案・動議の提出原文（公式資料・OCR）",
       "scope": "supporting",
       "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-3gi32go.pdf",
-      "note": "年月は提出対象の定例会。公表された冊子・別冊の原本。 照合候補頁２頁（参考資料：令和７年度の第35号議案）を原画像と照合。異体字３か所を訂正し、印影の誤読４行を除いた。",
+      "note": "年月は提出対象の定例会。公表された冊子・別冊の原本。 照合候補頁２頁（参考資料：令和７年度の第35号議案）を原画像と照合。異体字３か所を訂正し、印影の誤読４行を除いた。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -57255,7 +57255,7 @@ GIKAI.questionText = {
       "kind": "議案・動議の提出原文（公式資料・OCR）",
       "scope": "supporting",
       "url": "https://www.pref.saitama.lg.jp/documents/283604/r806_yosan.pdf",
-      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。 照合候補頁３頁を原画像と照合（数値・名称とも一致）。",
+      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。 照合候補頁３頁を原画像と照合（数値・名称とも一致）。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -57315,7 +57315,7 @@ GIKAI.questionText = {
       "kind": "議案・動議の提出原文（公式資料・OCR）",
       "scope": "supporting",
       "url": "https://www.pref.saitama.lg.jp/documents/279271/r802yosan_r7hosei.pdf",
-      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。 照合候補頁５・７・８・10・12・13・16・17頁を原画像と照合（数値は全て一致）。異体字等７か所を訂正し、地方債補正の表（12・13頁）は列の読み順が崩れていたため原画像から書き起こした。",
+      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。 照合候補頁５・７・８・10・12・13・16・17頁を原画像と照合（数値は全て一致）。異体字等７か所を訂正し、地方債補正の表（12・13頁）は列の読み順が崩れていたため原画像から書き起こした。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -57327,7 +57327,7 @@ GIKAI.questionText = {
       "kind": "議案・動議の提出原文（公式資料・OCR）",
       "scope": "supporting",
       "url": "https://www.pref.saitama.lg.jp/documents/279271/r802jyoureiann.pdf",
-      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。 照合候補頁５・20・23・24・26・32・45頁を原画像と照合。20・32頁は誤字を訂正（屋内総合プール、鶴ケ島市など）。５・23・24・26・45頁は表の欄と数値の対応や改正文の括弧の区切りがOCRで崩れていたため本文を収録せず、該当頁に原PDFを参照する旨を記した。縦書きの頁は句読点がOCRで欠けている。",
+      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。 照合候補頁５・20・23・24・26・32・45頁を原画像と照合。20・32頁は誤字を訂正（屋内総合プール、鶴ケ島市など）。５・23・24・26・45頁は表の欄と数値の対応や改正文の括弧の区切りがOCRで崩れていたため本文を収録せず、該当頁に原PDFを参照する旨を記した。縦書きの頁は句読点がOCRで欠けている。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
@@ -57339,7 +57339,7 @@ GIKAI.questionText = {
       "kind": "議案・動議の提出原文（公式資料・OCR）",
       "scope": "supporting",
       "url": "https://www.pref.saitama.lg.jp/documents/279271/r802yosan_r8tousyo.pdf",
-      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。 照合候補46頁（２・12・14～18・36・37・40～49・51・52・54・58・61・62・65・68・70・72・73・75・77・81・83・84・86・87・89・91・97・101～103・108・112・113頁）を原画像と照合し、数値と行の対応は全て一致。簡体字・異体字（费・產・查など）は全頁で日本語の字形に直した。款・項の名称の一部の欠け（例：14頁「３ 民」は「３ 民生費」）、知事名の欠け、地方債の表で文の列が交互に並ぶ箇所はOCRのまま。数値は原PDFでも確認できます。",
+      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。 照合候補46頁（２・12・14～18・36・37・40～49・51・52・54・58・61・62・65・68・70・72・73・75・77・81・83・84・86・87・89・91・97・101～103・108・112・113頁）を原画像と照合し、数値と行の対応は全て一致。簡体字・異体字（费・產・查など）は全頁で日本語の字形に直した。款・項の名称の一部の欠け（例：14頁「３ 民」は「３ 民生費」）、知事名の欠け、地方債の表で文の列が交互に並ぶ箇所はOCRのまま。数値は原PDFでも確認できます。 本文に残っていた簡体字（OCR・PDF文字層・音声認識の誤り）は日本語の字形に直した。",
       "speakers": []
     },
     {
