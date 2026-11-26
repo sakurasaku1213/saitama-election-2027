@@ -57819,6 +57819,18 @@ GIKAI.questionText = {
       "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sityo/files/zigyo_hosei803.pdf",
       "note": "年月は対応する定例会。 原本の頁順で文字層・OCRを収録。 原PDFの白紙を確認した頁はその旨を表示。 簡体字・異体字と「橋りよう」等の小書き・長音の誤読は全頁で直した。 照合候補頁のうち文字のある46頁から12頁（4・8・12・17・21・25・29・32・36・40・45・52頁）を全体に散らして原画像と照合し、数値と行の対応は全て一致。残り34頁は未照合（OCRのまま）。",
       "speakers": []
+    },
+    {
+      "id": "96b422e29b3a4223bf23",
+      "place": "越谷市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "越谷市 令和7年度　一般会計・特別会計決算書",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sityo/files/kessan_r7.pdf",
+      "note": "年月は対応する定例会。 原本の頁順で文字層・OCRを収録。 原PDFの白紙を確認した頁はその旨を表示。 簡体字・異体字と「橋りよう」等の小書き・長音の誤読は全頁で直した。 照合候補頁のうち文字のある203頁から15頁（3・39・64・85・99・112・126・140・154・167・181・208・248・276・316頁）を全体に散らして原画像と照合し、数値と行の対応は全て一致。残り188頁は未照合（OCRのまま）。",
+      "speakers": []
     }
   ],
   "coverage": [
