@@ -12357,211 +12357,228 @@ GIKAI.coverage2026 = {
       "place": "飯能市",
       "season": "spring",
       "session": "令和8年3月定例会",
-      "date": "",
+      "date": "2026-03-25",
       "title": "市道路線の認定について(大字岩沢地内)",
       "number": "議案第28号",
       "result": "原案可決",
       "url": "https://www.city.hanno.lg.jp/material/files/group/45/sannpizyoukyou8-3.pdf#page=2",
       "resultURL": "https://www.city.hanno.lg.jp/material/files/group/45/sannpizyoukyou8-3.pdf#page=2",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "dateSource": "議決日は公式本会議録（3月25日）の採決の宣告で確認"
     },
     {
       "place": "飯能市",
       "season": "spring",
       "session": "令和8年3月定例会",
-      "date": "",
+      "date": "2026-03-25",
       "title": "市道路線の認定について(大字双柳地内)",
       "number": "議案第27号",
       "result": "原案可決",
       "url": "https://www.city.hanno.lg.jp/material/files/group/45/sannpizyoukyou8-3.pdf#page=2",
       "resultURL": "https://www.city.hanno.lg.jp/material/files/group/45/sannpizyoukyou8-3.pdf#page=2",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "dateSource": "議決日は公式本会議録（3月25日）の採決の宣告で確認"
     },
     {
       "place": "飯能市",
       "season": "spring",
       "session": "令和8年3月定例会",
-      "date": "",
+      "date": "2026-03-25",
       "title": "市道路線の認定について(大字双柳地内)",
       "number": "議案第26号",
       "result": "原案可決",
       "url": "https://www.city.hanno.lg.jp/material/files/group/45/sannpizyoukyou8-3.pdf#page=2",
       "resultURL": "https://www.city.hanno.lg.jp/material/files/group/45/sannpizyoukyou8-3.pdf#page=2",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "dateSource": "議決日は公式本会議録（3月25日）の採決の宣告で確認"
     },
     {
       "place": "飯能市",
       "season": "spring",
       "session": "令和8年3月定例会",
-      "date": "",
+      "date": "2026-03-25",
       "title": "市道路線の認定について(大字双柳地内)",
       "number": "議案第25号",
       "result": "原案可決",
       "url": "https://www.city.hanno.lg.jp/material/files/group/45/sannpizyoukyou8-3.pdf#page=2",
       "resultURL": "https://www.city.hanno.lg.jp/material/files/group/45/sannpizyoukyou8-3.pdf#page=2",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "dateSource": "議決日は公式本会議録（3月25日）の採決の宣告で確認"
     },
     {
       "place": "飯能市",
       "season": "spring",
       "session": "令和8年3月定例会",
-      "date": "",
+      "date": "2026-03-25",
       "title": "(第3号)",
       "number": "議案第24号",
       "result": "原案可決",
       "url": "https://www.city.hanno.lg.jp/material/files/group/45/sannpizyoukyou8-3.pdf#page=2",
       "resultURL": "https://www.city.hanno.lg.jp/material/files/group/45/sannpizyoukyou8-3.pdf#page=2",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "dateSource": "議決日は公式本会議録（3月25日）の採決の宣告で確認"
     },
     {
       "place": "飯能市",
       "season": "spring",
       "session": "令和8年3月定例会",
-      "date": "",
+      "date": "2026-03-25",
       "title": "補正予算(第2号)",
       "number": "議案第23号",
       "result": "原案可決",
       "url": "https://www.city.hanno.lg.jp/material/files/group/45/sannpizyoukyou8-3.pdf#page=2",
       "resultURL": "https://www.city.hanno.lg.jp/material/files/group/45/sannpizyoukyou8-3.pdf#page=2",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "dateSource": "議決日は公式本会議録（3月25日）の採決の宣告で確認"
     },
     {
       "place": "飯能市",
       "season": "spring",
       "session": "令和8年3月定例会",
-      "date": "",
+      "date": "2026-03-25",
       "title": "算(第3号)",
       "number": "議案第22号",
       "result": "原案可決",
       "url": "https://www.city.hanno.lg.jp/material/files/group/45/sannpizyoukyou8-3.pdf#page=2",
       "resultURL": "https://www.city.hanno.lg.jp/material/files/group/45/sannpizyoukyou8-3.pdf#page=2",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "dateSource": "議決日は公式本会議録（3月25日）の採決の宣告で確認"
     },
     {
       "place": "飯能市",
       "season": "spring",
       "session": "令和8年3月定例会",
-      "date": "",
+      "date": "2026-03-25",
       "title": "別会計補正予算(第3号)",
       "number": "議案第21号",
       "result": "原案可決",
       "url": "https://www.city.hanno.lg.jp/material/files/group/45/sannpizyoukyou8-3.pdf#page=1",
       "resultURL": "https://www.city.hanno.lg.jp/material/files/group/45/sannpizyoukyou8-3.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "dateSource": "議決日は公式本会議録（3月25日）の採決の宣告で確認"
     },
     {
       "place": "飯能市",
       "season": "spring",
       "session": "令和8年3月定例会",
-      "date": "",
+      "date": "2026-03-25",
       "title": "別会計補正予算(第3号)",
       "number": "議案第20号",
       "result": "原案可決",
       "url": "https://www.city.hanno.lg.jp/material/files/group/45/sannpizyoukyou8-3.pdf#page=1",
       "resultURL": "https://www.city.hanno.lg.jp/material/files/group/45/sannpizyoukyou8-3.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "dateSource": "議決日は公式本会議録（3月25日）の採決の宣告で確認"
     },
     {
       "place": "飯能市",
       "season": "spring",
       "session": "令和8年3月定例会",
-      "date": "",
+      "date": "2026-03-25",
       "title": "別会計補正予算(第3号)",
       "number": "議案第19号",
       "result": "原案可決",
       "url": "https://www.city.hanno.lg.jp/material/files/group/45/sannpizyoukyou8-3.pdf#page=1",
       "resultURL": "https://www.city.hanno.lg.jp/material/files/group/45/sannpizyoukyou8-3.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "dateSource": "議決日は公式本会議録（3月25日）の採決の宣告で確認"
     },
     {
       "place": "飯能市",
       "season": "spring",
       "session": "令和8年3月定例会",
-      "date": "",
+      "date": "2026-03-25",
       "title": "計補正予算(第3号)",
       "number": "議案第18号",
       "result": "原案可決",
       "url": "https://www.city.hanno.lg.jp/material/files/group/45/sannpizyoukyou8-3.pdf#page=1",
       "resultURL": "https://www.city.hanno.lg.jp/material/files/group/45/sannpizyoukyou8-3.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "dateSource": "議決日は公式本会議録（3月25日）の採決の宣告で確認"
     },
     {
       "place": "飯能市",
       "season": "spring",
       "session": "令和8年3月定例会",
-      "date": "",
+      "date": "2026-03-25",
       "title": "正予算(第3号)",
       "number": "議案第17号",
       "result": "原案可決",
       "url": "https://www.city.hanno.lg.jp/material/files/group/45/sannpizyoukyou8-3.pdf#page=1",
       "resultURL": "https://www.city.hanno.lg.jp/material/files/group/45/sannpizyoukyou8-3.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "dateSource": "議決日は公式本会議録（3月25日）の採決の宣告で確認"
     },
     {
       "place": "飯能市",
       "season": "spring",
       "session": "令和8年3月定例会",
-      "date": "",
+      "date": "2026-03-25",
       "title": "する基準を定める条例",
       "number": "議案第12号",
       "result": "原案可決",
       "url": "https://www.city.hanno.lg.jp/material/files/group/45/sannpizyoukyou8-3.pdf#page=1",
       "resultURL": "https://www.city.hanno.lg.jp/material/files/group/45/sannpizyoukyou8-3.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "dateSource": "議決日は公式本会議録（3月25日）の採決の宣告で確認"
     },
     {
       "place": "飯能市",
       "season": "spring",
       "session": "令和8年3月定例会",
-      "date": "",
+      "date": "2026-03-25",
       "title": "に関する条例の一部を改正する条例",
       "number": "議案第9号",
       "result": "原案可決",
       "url": "https://www.city.hanno.lg.jp/material/files/group/45/sannpizyoukyou8-3.pdf#page=1",
       "resultURL": "https://www.city.hanno.lg.jp/material/files/group/45/sannpizyoukyou8-3.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "dateSource": "議決日は公式本会議録（3月25日）の採決の宣告で確認"
     },
     {
       "place": "飯能市",
       "season": "spring",
       "session": "令和8年3月定例会",
-      "date": "",
+      "date": "2026-03-25",
       "title": "正する条例",
       "number": "議案第7号",
       "result": "原案可決",
       "url": "https://www.city.hanno.lg.jp/material/files/group/45/sannpizyoukyou8-3.pdf#page=1",
       "resultURL": "https://www.city.hanno.lg.jp/material/files/group/45/sannpizyoukyou8-3.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "dateSource": "議決日は公式本会議録（3月25日）の採決の宣告で確認"
     },
     {
       "place": "飯能市",
       "season": "spring",
       "session": "令和8年3月定例会",
-      "date": "",
+      "date": "2026-03-25",
       "title": "飯能市長等の給料の特例に関する条例",
       "number": "議案第6号",
       "result": "原案可決",
       "url": "https://www.city.hanno.lg.jp/material/files/group/45/sannpizyoukyou8-3.pdf#page=1",
       "resultURL": "https://www.city.hanno.lg.jp/material/files/group/45/sannpizyoukyou8-3.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "dateSource": "議決日は公式本会議録（3月25日）の採決の宣告で確認"
     },
     {
       "place": "飯能市",
       "season": "spring",
       "session": "令和8年3月定例会",
-      "date": "",
+      "date": "2026-03-25",
       "title": "飯能市行政手続条例の一部を改正する条例",
       "number": "議案第4号",
       "result": "原案可決",
       "url": "https://www.city.hanno.lg.jp/material/files/group/45/sannpizyoukyou8-3.pdf#page=1",
       "resultURL": "https://www.city.hanno.lg.jp/material/files/group/45/sannpizyoukyou8-3.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "dateSource": "議決日は公式本会議録（3月25日）の採決の宣告で確認"
     },
     {
       "place": "飯能市",
       "season": "spring",
       "session": "令和8年3月定例会",
-      "date": "",
+      "date": "2026-03-25",
       "title": "第6次飯能市総合振興計画基本構想について",
       "number": "議案第73号",
       "result": "原案可決",
@@ -12590,73 +12607,79 @@ GIKAI.coverage2026 = {
         "加涌弘貴": "賛成"
       },
       "voteType": "individual",
-      "voteURL": "https://www.city.hanno.lg.jp/material/files/group/45/sannpizyoukyou8-3.pdf#page=1"
+      "voteURL": "https://www.city.hanno.lg.jp/material/files/group/45/sannpizyoukyou8-3.pdf#page=1",
+      "dateSource": "議決日は公式本会議録（3月25日）の採決の宣告で確認"
     },
     {
       "place": "飯能市",
       "season": "summer",
       "session": "令和8年6月定例会",
-      "date": "",
+      "date": "2026-06-23",
       "title": "飯能市印鑑条例の一部を改正する条例",
       "number": "議案第55号",
       "result": "原案可決",
       "url": "https://www.city.hanno.lg.jp/material/files/group/45/86sannpi.pdf#page=1",
       "resultURL": "https://www.city.hanno.lg.jp/material/files/group/45/86sannpi.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "dateSource": "議決日は公式本会議録（6月23日）の採決の宣告で確認"
     },
     {
       "place": "飯能市",
       "season": "summer",
       "session": "令和8年6月定例会",
-      "date": "",
+      "date": "2026-06-23",
       "title": "算(第1号)",
       "number": "議案第53号",
       "result": "原案可決",
       "url": "https://www.city.hanno.lg.jp/material/files/group/45/86sannpi.pdf#page=1",
       "resultURL": "https://www.city.hanno.lg.jp/material/files/group/45/86sannpi.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "dateSource": "議決日は公式本会議録（6月23日）の採決の宣告で確認"
     },
     {
       "place": "飯能市",
       "season": "summer",
       "session": "令和8年6月定例会",
-      "date": "",
+      "date": "2026-06-23",
       "title": "別会計補正予算(第1号)",
       "number": "議案第52号",
       "result": "原案可決",
       "url": "https://www.city.hanno.lg.jp/material/files/group/45/86sannpi.pdf#page=1",
       "resultURL": "https://www.city.hanno.lg.jp/material/files/group/45/86sannpi.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "dateSource": "議決日は公式本会議録（6月23日）の採決の宣告で確認"
     },
     {
       "place": "飯能市",
       "season": "summer",
       "session": "令和8年6月定例会",
-      "date": "",
+      "date": "2026-06-23",
       "title": "別会計補正予算(第1号)",
       "number": "議案第51号",
       "result": "原案可決",
       "url": "https://www.city.hanno.lg.jp/material/files/group/45/86sannpi.pdf#page=1",
       "resultURL": "https://www.city.hanno.lg.jp/material/files/group/45/86sannpi.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "dateSource": "議決日は公式本会議録（6月23日）の採決の宣告で確認"
     },
     {
       "place": "飯能市",
       "season": "summer",
       "session": "令和8年6月定例会",
-      "date": "",
+      "date": "2026-06-23",
       "title": "計補正予算(第1号)",
       "number": "議案第50号",
       "result": "原案可決",
       "url": "https://www.city.hanno.lg.jp/material/files/group/45/86sannpi.pdf#page=1",
       "resultURL": "https://www.city.hanno.lg.jp/material/files/group/45/86sannpi.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "dateSource": "議決日は公式本会議録（6月23日）の採決の宣告で確認"
     },
     {
       "place": "飯能市",
       "season": "summer",
       "session": "令和8年6月定例会",
-      "date": "",
+      "date": "2026-06-23",
       "title": "飯能市税条例の一部を改正する条例",
       "number": "議案第44号",
       "result": "原案可決",
@@ -12685,145 +12708,157 @@ GIKAI.coverage2026 = {
         "加涌弘貴": "賛成"
       },
       "voteType": "individual",
-      "voteURL": "https://www.city.hanno.lg.jp/material/files/group/45/86sannpi.pdf#page=1"
+      "voteURL": "https://www.city.hanno.lg.jp/material/files/group/45/86sannpi.pdf#page=1",
+      "dateSource": "議決日は公式本会議録（6月23日）の採決の宣告で確認"
     },
     {
       "place": "飯能市",
       "season": "summer",
       "session": "令和8年6月定例会",
-      "date": "",
+      "date": "2026-06-23",
       "title": "理に関する条例",
       "number": "議案第43号",
       "result": "原案可決",
       "url": "https://www.city.hanno.lg.jp/material/files/group/45/86sannpi.pdf#page=1",
       "resultURL": "https://www.city.hanno.lg.jp/material/files/group/45/86sannpi.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "dateSource": "議決日は公式本会議録（6月23日）の採決の宣告で確認"
     },
     {
       "place": "飯能市",
       "season": "fall",
       "session": "令和8年9月定例会",
-      "date": "",
+      "date": "2026-09-29",
       "title": "余金の処分について",
       "number": "議案第83号",
       "result": "原案可決",
       "url": "https://www.city.hanno.lg.jp/material/files/group/45/0809giinnsannpi2.pdf#page=1",
       "resultURL": "https://www.city.hanno.lg.jp/material/files/group/45/0809giinnsannpi2.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "dateSource": "議決日は公式本会議録（9月29日）の採決の宣告で確認"
     },
     {
       "place": "飯能市",
       "season": "fall",
       "session": "令和8年9月定例会",
-      "date": "",
+      "date": "2026-09-29",
       "title": "市道路線の認定について(大字川寺地内)",
       "number": "議案第79号",
       "result": "原案可決",
       "url": "https://www.city.hanno.lg.jp/material/files/group/45/0809giinnsannpi2.pdf#page=1",
       "resultURL": "https://www.city.hanno.lg.jp/material/files/group/45/0809giinnsannpi2.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "dateSource": "議決日は公式本会議録（9月29日）の採決の宣告で確認"
     },
     {
       "place": "飯能市",
       "season": "fall",
       "session": "令和8年9月定例会",
-      "date": "",
+      "date": "2026-09-29",
       "title": "(第1号)",
       "number": "議案第77号",
       "result": "原案可決",
       "url": "https://www.city.hanno.lg.jp/material/files/group/45/0809giinnsannpi2.pdf#page=1",
       "resultURL": "https://www.city.hanno.lg.jp/material/files/group/45/0809giinnsannpi2.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "dateSource": "議決日は公式本会議録（9月29日）の採決の宣告で確認"
     },
     {
       "place": "飯能市",
       "season": "fall",
       "session": "令和8年9月定例会",
-      "date": "",
+      "date": "2026-09-29",
       "title": "補正予算(第1号)",
       "number": "議案第76号",
       "result": "原案可決",
       "url": "https://www.city.hanno.lg.jp/material/files/group/45/0809giinnsannpi2.pdf#page=1",
       "resultURL": "https://www.city.hanno.lg.jp/material/files/group/45/0809giinnsannpi2.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "dateSource": "議決日は公式本会議録（9月29日）の採決の宣告で確認"
     },
     {
       "place": "飯能市",
       "season": "fall",
       "session": "令和8年9月定例会",
-      "date": "",
+      "date": "2026-09-29",
       "title": "算(第2号)",
       "number": "議案第75号",
       "result": "原案可決",
       "url": "https://www.city.hanno.lg.jp/material/files/group/45/0809giinnsannpi2.pdf#page=1",
       "resultURL": "https://www.city.hanno.lg.jp/material/files/group/45/0809giinnsannpi2.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "dateSource": "議決日は公式本会議録（9月29日）の採決の宣告で確認"
     },
     {
       "place": "飯能市",
       "season": "fall",
       "session": "令和8年9月定例会",
-      "date": "",
+      "date": "2026-09-29",
       "title": "別会計補正予算(第2号)",
       "number": "議案第74号",
       "result": "原案可決",
       "url": "https://www.city.hanno.lg.jp/material/files/group/45/0809giinnsannpi2.pdf#page=1",
       "resultURL": "https://www.city.hanno.lg.jp/material/files/group/45/0809giinnsannpi2.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "dateSource": "議決日は公式本会議録（9月29日）の採決の宣告で確認"
     },
     {
       "place": "飯能市",
       "season": "fall",
       "session": "令和8年9月定例会",
-      "date": "",
+      "date": "2026-09-29",
       "title": "別会計補正予算(第1号)",
       "number": "議案第73号",
       "result": "原案可決",
       "url": "https://www.city.hanno.lg.jp/material/files/group/45/0809giinnsannpi2.pdf#page=1",
       "resultURL": "https://www.city.hanno.lg.jp/material/files/group/45/0809giinnsannpi2.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "dateSource": "議決日は公式本会議録（9月29日）の採決の宣告で確認"
     },
     {
       "place": "飯能市",
       "season": "fall",
       "session": "令和8年9月定例会",
-      "date": "",
+      "date": "2026-09-29",
       "title": "別会計補正予算(第2号)",
       "number": "議案第72号",
       "result": "原案可決",
       "url": "https://www.city.hanno.lg.jp/material/files/group/45/0809giinnsannpi2.pdf#page=1",
       "resultURL": "https://www.city.hanno.lg.jp/material/files/group/45/0809giinnsannpi2.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "dateSource": "議決日は公式本会議録（9月29日）の採決の宣告で確認"
     },
     {
       "place": "飯能市",
       "season": "fall",
       "session": "令和8年9月定例会",
-      "date": "",
+      "date": "2026-09-29",
       "title": "計補正予算(第2号)",
       "number": "議案第71号",
       "result": "原案可決",
       "url": "https://www.city.hanno.lg.jp/material/files/group/45/0809giinnsannpi2.pdf#page=1",
       "resultURL": "https://www.city.hanno.lg.jp/material/files/group/45/0809giinnsannpi2.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "dateSource": "議決日は公式本会議録（9月29日）の採決の宣告で確認"
     },
     {
       "place": "飯能市",
       "season": "fall",
       "session": "令和8年9月定例会",
-      "date": "",
+      "date": "2026-09-29",
       "title": "正予算(第1号)",
       "number": "議案第70号",
       "result": "原案可決",
       "url": "https://www.city.hanno.lg.jp/material/files/group/45/0809giinnsannpi2.pdf#page=1",
       "resultURL": "https://www.city.hanno.lg.jp/material/files/group/45/0809giinnsannpi2.pdf#page=1",
-      "sourceType": "公式議決結果の該当頁"
+      "sourceType": "公式議決結果の該当頁",
+      "dateSource": "議決日は公式本会議録（9月29日）の採決の宣告で確認"
     },
     {
       "place": "飯能市",
       "season": "fall",
       "session": "令和8年9月定例会",
-      "date": "",
+      "date": "2026-09-29",
       "title": "飯能市廃棄物の減量及び適正処理に関する条例の一部を改正する条例",
       "number": "議案第68号",
       "result": "原案可決",
@@ -12852,7 +12887,8 @@ GIKAI.coverage2026 = {
         "加涌弘貴": "賛成"
       },
       "voteType": "individual",
-      "voteURL": "https://www.city.hanno.lg.jp/material/files/group/45/0809giinnsannpi2.pdf#page=1"
+      "voteURL": "https://www.city.hanno.lg.jp/material/files/group/45/0809giinnsannpi2.pdf#page=1",
+      "dateSource": "議決日は公式本会議録（9月29日）の採決の宣告で確認"
     },
     {
       "place": "鴻巣市",
@@ -67540,7 +67576,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/27544.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。"
+      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。",
+      "date": "2026-02-24",
+      "dateSource": "議決日は公式本会議録（2月24日）の採決の宣告で確認"
     },
     {
       "place": "寄居町",
@@ -67573,7 +67611,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/27544.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。"
+      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。",
+      "date": "2026-02-24",
+      "dateSource": "議決日は公式本会議録（2月24日）の採決の宣告で確認"
     },
     {
       "place": "寄居町",
@@ -67606,7 +67646,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/27544.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。"
+      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。",
+      "date": "2026-02-24",
+      "dateSource": "議決日は公式本会議録（2月24日）の採決の宣告で確認"
     },
     {
       "place": "寄居町",
@@ -67674,7 +67716,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/27544.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。"
+      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。",
+      "date": "2026-03-19",
+      "dateSource": "議決日は公式本会議録（3月19日）の採決の宣告で確認"
     },
     {
       "place": "寄居町",
@@ -67707,7 +67751,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/27544.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。"
+      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。",
+      "date": "2026-03-19",
+      "dateSource": "議決日は公式本会議録（3月19日）の採決の宣告で確認"
     },
     {
       "place": "寄居町",
@@ -67775,7 +67821,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/27544.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面10頁の原表。賛成10人、反対2人。"
+      "voteNote": "議会だより紙面10頁の原表。賛成10人、反対2人。",
+      "date": "2026-03-19",
+      "dateSource": "議決日は公式本会議録（3月19日）の採決の宣告で確認"
     },
     {
       "place": "寄居町",
@@ -67808,7 +67856,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/27544.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面10頁の原表。賛成10人、反対2人。"
+      "voteNote": "議会だより紙面10頁の原表。賛成10人、反対2人。",
+      "date": "2026-03-19",
+      "dateSource": "議決日は公式本会議録（3月19日）の採決の宣告で確認"
     },
     {
       "place": "寄居町",
@@ -67841,7 +67891,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/27544.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面10頁の原表。賛成10人、反対2人。"
+      "voteNote": "議会だより紙面10頁の原表。賛成10人、反対2人。",
+      "date": "2026-03-19",
+      "dateSource": "議決日は公式本会議録（3月19日）の採決の宣告で確認"
     },
     {
       "place": "寄居町",
@@ -67874,7 +67926,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/27544.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。"
+      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。",
+      "date": "2026-03-19",
+      "dateSource": "議決日は公式本会議録（3月19日）の採決の宣告で確認"
     },
     {
       "place": "寄居町",
@@ -67907,7 +67961,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/27544.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。"
+      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。",
+      "date": "2026-03-19",
+      "dateSource": "議決日は公式本会議録（3月19日）の採決の宣告で確認"
     },
     {
       "place": "寄居町",
@@ -67940,7 +67996,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/27544.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。"
+      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。",
+      "date": "2026-02-25",
+      "dateSource": "議決日は公式本会議録（2月25日）の採決の宣告で確認"
     },
     {
       "place": "寄居町",
@@ -67973,7 +68031,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/27544.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。"
+      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。",
+      "date": "2026-02-25",
+      "dateSource": "議決日は公式本会議録（2月25日）の採決の宣告で確認"
     },
     {
       "place": "寄居町",
@@ -68006,7 +68066,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/27544.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。"
+      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。",
+      "date": "2026-03-19",
+      "dateSource": "議決日は公式本会議録（3月19日）の採決の宣告で確認"
     },
     {
       "place": "寄居町",
@@ -68039,7 +68101,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/27544.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面10頁の原表。賛成10人、反対2人。"
+      "voteNote": "議会だより紙面10頁の原表。賛成10人、反対2人。",
+      "date": "2026-03-19",
+      "dateSource": "議決日は公式本会議録（3月19日）の採決の宣告で確認"
     },
     {
       "place": "寄居町",
@@ -68072,7 +68136,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/27544.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。"
+      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。",
+      "date": "2026-03-19",
+      "dateSource": "議決日は公式本会議録（3月19日）の採決の宣告で確認"
     },
     {
       "place": "寄居町",
@@ -68105,7 +68171,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/27544.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。"
+      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。",
+      "date": "2026-03-19",
+      "dateSource": "議決日は公式本会議録（3月19日）の採決の宣告で確認"
     },
     {
       "place": "寄居町",
@@ -68138,7 +68206,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/27544.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。"
+      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。",
+      "date": "2026-02-25",
+      "dateSource": "議決日は公式本会議録（2月25日）の採決の宣告で確認"
     },
     {
       "place": "寄居町",
@@ -68171,7 +68241,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/27544.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。"
+      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。",
+      "date": "2026-03-19",
+      "dateSource": "議決日は公式本会議録（3月19日）の採決の宣告で確認"
     },
     {
       "place": "寄居町",
@@ -68204,7 +68276,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/27544.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。"
+      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。",
+      "date": "2026-03-19",
+      "dateSource": "議決日は公式本会議録（3月19日）の採決の宣告で確認"
     },
     {
       "place": "寄居町",
@@ -68237,7 +68311,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/27544.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面10頁の原表。賛成11人、反対0人。原表の注記どおり、議長の除斥により保泉副議長が議事進行。議会だよりの工事名 城南小学校建設工事（建築工事）。"
+      "voteNote": "議会だより紙面10頁の原表。賛成11人、反対0人。原表の注記どおり、議長の除斥により保泉副議長が議事進行。議会だよりの工事名 城南小学校建設工事（建築工事）。",
+      "date": "2026-03-19",
+      "dateSource": "議決日は公式本会議録（3月19日）の採決の宣告で確認"
     },
     {
       "place": "寄居町",
@@ -68270,7 +68346,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/27544.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。議会だよりの工事名 城南小学校建設工事（電気設備工事）。"
+      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。議会だよりの工事名 城南小学校建設工事（電気設備工事）。",
+      "date": "2026-03-19",
+      "dateSource": "議決日は公式本会議録（3月19日）の採決の宣告で確認"
     },
     {
       "place": "寄居町",
@@ -68303,7 +68381,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/27544.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。議会だよりの工事名 城南小学校建設工事（機械設備工事）。"
+      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。議会だよりの工事名 城南小学校建設工事（機械設備工事）。",
+      "date": "2026-03-19",
+      "dateSource": "議決日は公式本会議録（3月19日）の採決の宣告で確認"
     },
     {
       "place": "寄居町",
@@ -68336,7 +68416,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/27544.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。"
+      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。",
+      "date": "2026-02-25",
+      "dateSource": "議決日は公式本会議録（2月25日）の採決の宣告で確認"
     },
     {
       "place": "寄居町",
@@ -68369,7 +68451,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/27544.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。"
+      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。",
+      "date": "2026-03-19",
+      "dateSource": "議決日は公式本会議録（3月19日）の採決の宣告で確認"
     },
     {
       "place": "寄居町",
@@ -68402,7 +68486,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/27544.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。"
+      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。",
+      "date": "2026-03-19",
+      "dateSource": "議決日は公式本会議録（3月19日）の採決の宣告で確認"
     },
     {
       "place": "寄居町",
@@ -68435,7 +68521,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/27544.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。"
+      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。",
+      "date": "2026-03-19",
+      "dateSource": "議決日は公式本会議録（3月19日）の採決の宣告で確認"
     },
     {
       "place": "寄居町",
@@ -68468,7 +68556,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/27544.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。"
+      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。",
+      "date": "2026-03-19",
+      "dateSource": "議決日は公式本会議録（3月19日）の採決の宣告で確認"
     },
     {
       "place": "寄居町",
@@ -68532,7 +68622,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/28008.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面7頁の原表。賛成13人、反対0人。"
+      "voteNote": "議会だより紙面7頁の原表。賛成13人、反対0人。",
+      "date": "2026-06-02",
+      "dateSource": "議決日は公式本会議録（6月2日）の採決の宣告で確認"
     },
     {
       "place": "寄居町",
@@ -68564,7 +68656,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/28008.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面7頁の原表。賛成13人、反対0人。"
+      "voteNote": "議会だより紙面7頁の原表。賛成13人、反対0人。",
+      "date": "2026-06-02",
+      "dateSource": "議決日は公式本会議録（6月2日）の採決の宣告で確認"
     },
     {
       "place": "寄居町",
@@ -68628,7 +68722,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/28008.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面7頁の原表。賛成13人、反対0人。"
+      "voteNote": "議会だより紙面7頁の原表。賛成13人、反対0人。",
+      "date": "2026-06-02",
+      "dateSource": "議決日は公式本会議録（6月2日）の採決の宣告で確認"
     },
     {
       "place": "寄居町",
@@ -68660,7 +68756,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/28008.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面7頁の原表。賛成13人、反対0人。"
+      "voteNote": "議会だより紙面7頁の原表。賛成13人、反対0人。",
+      "date": "2026-06-02",
+      "dateSource": "議決日は公式本会議録（6月2日）の採決の宣告で確認"
     },
     {
       "place": "寄居町",
@@ -68692,7 +68790,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/28008.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面7頁の原表。賛成11人、反対2人。"
+      "voteNote": "議会だより紙面7頁の原表。賛成11人、反対2人。",
+      "date": "2026-06-02",
+      "dateSource": "議決日は公式本会議録（6月2日）の採決の宣告で確認"
     },
     {
       "place": "寄居町",
@@ -68724,7 +68824,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/28008.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面7頁の原表。賛成13人、反対0人。"
+      "voteNote": "議会だより紙面7頁の原表。賛成13人、反対0人。",
+      "date": "2026-06-02",
+      "dateSource": "議決日は公式本会議録（6月2日）の採決の宣告で確認"
     },
     {
       "place": "寄居町",
@@ -68756,7 +68858,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/28008.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面7頁の原表。賛成13人、反対0人。"
+      "voteNote": "議会だより紙面7頁の原表。賛成13人、反対0人。",
+      "date": "2026-06-02",
+      "dateSource": "議決日は公式本会議録（6月2日）の採決の宣告で確認"
     },
     {
       "place": "寄居町",
@@ -68788,7 +68892,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/28008.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面7頁の原表。賛成14人、反対0人。"
+      "voteNote": "議会だより紙面7頁の原表。賛成14人、反対0人。",
+      "date": "2026-06-19",
+      "dateSource": "議決日は公式本会議録（6月19日）の採決の宣告で確認"
     },
     {
       "place": "寄居町",
@@ -68854,7 +68960,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/28008.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面7頁の原表。賛成14人、反対0人。"
+      "voteNote": "議会だより紙面7頁の原表。賛成14人、反対0人。",
+      "date": "2026-06-19",
+      "dateSource": "議決日は公式本会議録（6月19日）の採決の宣告で確認"
     },
     {
       "place": "寄居町",
@@ -68886,7 +68994,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/28008.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面7頁の原表。賛成14人、反対0人。"
+      "voteNote": "議会だより紙面7頁の原表。賛成14人、反対0人。",
+      "date": "2026-06-19",
+      "dateSource": "議決日は公式本会議録（6月19日）の採決の宣告で確認"
     },
     {
       "place": "寄居町",
@@ -68918,7 +69028,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/28008.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面7頁の原表。賛成13人、反対0人。議会だよりの工事名 城南中学校改修工事 請負金額…2億9150万円請負業者…寄居・吉澤特定建設工事共同企業体 （ P.6に記事掲載）。"
+      "voteNote": "議会だより紙面7頁の原表。賛成13人、反対0人。議会だよりの工事名 城南中学校改修工事 請負金額…2億9150万円請負業者…寄居・吉澤特定建設工事共同企業体 （ P.6に記事掲載）。",
+      "date": "2026-06-19",
+      "dateSource": "議決日は公式本会議録（6月19日）の採決の宣告で確認"
     },
     {
       "place": "寄居町",
@@ -68950,7 +69062,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/28008.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面7頁の原表。賛成14人、反対0人。議会だよりの工事名 男衾中学校エレベーター棟増築等工事請負金額…2億３50万円 請負業者…寄居建設株式会社（ P.6に記事掲載）。"
+      "voteNote": "議会だより紙面7頁の原表。賛成14人、反対0人。議会だよりの工事名 男衾中学校エレベーター棟増築等工事請負金額…2億３50万円 請負業者…寄居建設株式会社（ P.6に記事掲載）。",
+      "date": "2026-06-19",
+      "dateSource": "議決日は公式本会議録（6月19日）の採決の宣告で確認"
     },
     {
       "place": "寄居町",
@@ -68982,7 +69096,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/28008.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面7頁の原表。賛成14人、反対0人。"
+      "voteNote": "議会だより紙面7頁の原表。賛成14人、反対0人。",
+      "date": "2026-06-19",
+      "dateSource": "議決日は公式本会議録（6月19日）の採決の宣告で確認"
     },
     {
       "place": "寄居町",
@@ -69014,7 +69130,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/28008.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面7頁の原表。賛成13人、反対0人。"
+      "voteNote": "議会だより紙面7頁の原表。賛成13人、反対0人。",
+      "date": "2026-06-19",
+      "dateSource": "議決日は公式本会議録（6月19日）の採決の宣告で確認"
     },
     {
       "place": "寄居町",
@@ -86979,7 +87097,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
-      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。",
+      "date": "2026-03-23",
+      "dateSource": "議決日は公式本会議録（3月23日）の採決の宣告で確認"
     },
     {
       "place": "宮代町",
@@ -87008,7 +87128,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
-      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。",
+      "date": "2026-03-23",
+      "dateSource": "議決日は公式本会議録（3月23日）の採決の宣告で確認"
     },
     {
       "place": "宮代町",
@@ -87066,7 +87188,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
-      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。",
+      "date": "2026-03-23",
+      "dateSource": "議決日は公式本会議録（3月23日）の採決の宣告で確認"
     },
     {
       "place": "宮代町",
@@ -87153,7 +87277,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
-      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。",
+      "date": "2026-03-23",
+      "dateSource": "議決日は公式本会議録（3月23日）の採決の宣告で確認"
     },
     {
       "place": "宮代町",
@@ -87182,7 +87308,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
-      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。",
+      "date": "2026-03-23",
+      "dateSource": "議決日は公式本会議録（3月23日）の採決の宣告で確認"
     },
     {
       "place": "宮代町",
@@ -87269,7 +87397,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
-      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。",
+      "date": "2026-03-23",
+      "dateSource": "議決日は公式本会議録（3月23日）の採決の宣告で確認"
     },
     {
       "place": "宮代町",
@@ -87298,7 +87428,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
-      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。",
+      "date": "2026-03-23",
+      "dateSource": "議決日は公式本会議録（3月23日）の採決の宣告で確認"
     },
     {
       "place": "宮代町",
@@ -87327,7 +87459,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
-      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。",
+      "date": "2026-03-23",
+      "dateSource": "議決日は公式本会議録（3月23日）の採決の宣告で確認"
     },
     {
       "place": "宮代町",
@@ -87385,7 +87519,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
-      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。",
+      "date": "2026-03-23",
+      "dateSource": "議決日は公式本会議録（3月23日）の採決の宣告で確認"
     },
     {
       "place": "宮代町",
@@ -87414,7 +87550,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
-      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。",
+      "date": "2026-03-23",
+      "dateSource": "議決日は公式本会議録（3月23日）の採決の宣告で確認"
     },
     {
       "place": "宮代町",
@@ -87530,7 +87668,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
-      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。",
+      "date": "2026-03-23",
+      "dateSource": "議決日は公式本会議録（3月23日）の採決の宣告で確認"
     },
     {
       "place": "宮代町",
@@ -87559,7 +87699,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
-      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。",
+      "date": "2026-03-26",
+      "dateSource": "議決日は公式本会議録（3月26日）の採決の宣告で確認"
     },
     {
       "place": "宮代町",
@@ -87588,7 +87730,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
-      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。",
+      "date": "2026-03-26",
+      "dateSource": "議決日は公式本会議録（3月26日）の採決の宣告で確認"
     },
     {
       "place": "宮代町",
@@ -87617,7 +87761,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
-      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。",
+      "date": "2026-03-26",
+      "dateSource": "議決日は公式本会議録（3月26日）の採決の宣告で確認"
     },
     {
       "place": "宮代町",
@@ -87646,7 +87792,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
-      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。",
+      "date": "2026-03-26",
+      "dateSource": "議決日は公式本会議録（3月26日）の採決の宣告で確認"
     },
     {
       "place": "宮代町",
@@ -87675,7 +87823,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
-      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。",
+      "date": "2026-03-26",
+      "dateSource": "議決日は公式本会議録（3月26日）の採決の宣告で確認"
     },
     {
       "place": "宮代町",
@@ -87704,7 +87854,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
-      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。",
+      "date": "2026-02-19",
+      "dateSource": "議決日は公式本会議録（2月19日）の採決の宣告で確認"
     },
     {
       "place": "宮代町",
@@ -87733,7 +87885,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
-      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。",
+      "date": "2026-03-26",
+      "dateSource": "議決日は公式本会議録（3月26日）の採決の宣告で確認"
     },
     {
       "place": "宮代町",
@@ -88351,7 +88505,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
-      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。",
+      "date": "2026-06-10",
+      "dateSource": "議決日は公式本会議録（6月10日）の採決の宣告で確認"
     },
     {
       "place": "宮代町",
@@ -88380,7 +88536,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
-      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。",
+      "date": "2026-06-10",
+      "dateSource": "議決日は公式本会議録（6月10日）の採決の宣告で確認"
     },
     {
       "place": "宮代町",
@@ -88409,7 +88567,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
-      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。",
+      "date": "2026-06-10",
+      "dateSource": "議決日は公式本会議録（6月10日）の採決の宣告で確認"
     },
     {
       "place": "宮代町",
@@ -88438,7 +88598,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
-      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。",
+      "date": "2026-06-10",
+      "dateSource": "議決日は公式本会議録（6月10日）の採決の宣告で確認"
     },
     {
       "place": "宮代町",
@@ -88467,7 +88629,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
-      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。",
+      "date": "2026-06-10",
+      "dateSource": "議決日は公式本会議録（6月10日）の採決の宣告で確認"
     },
     {
       "place": "宮代町",
@@ -88496,7 +88660,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
-      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。",
+      "date": "2026-06-10",
+      "dateSource": "議決日は公式本会議録（6月10日）の採決の宣告で確認"
     },
     {
       "place": "宮代町",
@@ -88555,7 +88721,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
-      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。",
+      "date": "2026-06-10",
+      "dateSource": "議決日は公式本会議録（6月10日）の採決の宣告で確認"
     },
     {
       "place": "宮代町",
@@ -88584,7 +88752,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
-      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。",
+      "date": "2026-06-10",
+      "dateSource": "議決日は公式本会議録（6月10日）の採決の宣告で確認"
     },
     {
       "place": "宮代町",
@@ -88613,7 +88783,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
-      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。",
+      "date": "2026-06-10",
+      "dateSource": "議決日は公式本会議録（6月10日）の採決の宣告で確認"
     },
     {
       "place": "宮代町",
@@ -88672,7 +88844,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
-      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。",
+      "date": "2026-06-10",
+      "dateSource": "議決日は公式本会議録（6月10日）の採決の宣告で確認"
     },
     {
       "place": "宮代町",
@@ -88701,7 +88875,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
-      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。",
+      "date": "2026-06-10",
+      "dateSource": "議決日は公式本会議録（6月10日）の採決の宣告で確認"
     },
     {
       "place": "宮代町",
@@ -88759,7 +88935,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26521/gikaidayori139.pdf#page=14",
-      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。"
+      "voteNote": "議会だより No.139の議員別の賛否（○:賛成 ●:反対 欠:欠席 除:除斥 ―:議長は表決に加わらない ※:議長交代のため泉伸一郎副議長は表決に加わらない）。",
+      "date": "2026-06-10",
+      "dateSource": "議決日は公式本会議録（6月10日）の採決の宣告で確認"
     },
     {
       "place": "宮代町",
