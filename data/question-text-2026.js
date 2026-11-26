@@ -61275,6 +61275,102 @@ GIKAI.questionText = {
       "url": "https://www.city.saitama.lg.jp/006/007/002/001/018/p127750_d/fil/R8-2_hosei-gaiyou.pdf",
       "note": "年月は会期。市町村が令和8年3月定例会の首長提出議案として公式サイトに掲載したPDF。原PDFの文字層・OCRを頁順に収録。 既定のOCR経路が失敗したため --profile strict の結果を用いた。照合候補の6・12・14頁は白紙、24頁は会計別の目次の表で文字は原画像どおり。 原PDFの白紙を確認した頁はその旨を表示。 本文の簡体字は日本語の字形に直した。",
       "speakers": []
+    },
+    {
+      "id": "f37ae52d8c79c3be7d52",
+      "place": "本庄市",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "本庄市 令和8年市長定例記者会見（2月分）・本庄市議会第1回定例会会期予定・議案一覧（令和8年3月定例会の提出議案）",
+      "kind": "議案審査の参考資料（公式PDF・AI画像書き起こし・２系統照合）",
+      "scope": "supporting",
+      "url": "https://www.city.honjo.lg.jp/material/files/group/1/mayor_teirei_r0802-1.pdf",
+      "note": "年月は会期。市町村が令和8年3月定例会の首長提出議案として公式サイトに掲載したPDF。 スキャンのため、AIが原PDFの画像から独立に２系統で書き起こして突き合わせた（数字は２系統で一致）。",
+      "speakers": []
+    },
+    {
+      "id": "98853134e287ce52766d",
+      "place": "本庄市",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "本庄市 令和8年市長定例記者会見（5月分）・本庄市議会第2回定例会会期予定・議案一覧（令和8年6月定例会の提出議案）",
+      "kind": "議案審査の参考資料（公式PDF・AI画像書き起こし・２系統照合）",
+      "scope": "supporting",
+      "url": "https://www.city.honjo.lg.jp/material/files/group/1/mayor_teirei_r0805-1.pdf",
+      "note": "年月は会期。市町村が令和8年6月定例会の首長提出議案として公式サイトに掲載したPDF。 スキャンのため、AIが原PDFの画像から独立に２系統で書き起こして突き合わせた（数字は２系統で一致）。読みが割れた字は推測せず〓と候補で示した（2字）。",
+      "speakers": []
+    },
+    {
+      "id": "933d7b37fcc7e12b6929",
+      "place": "本庄市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "本庄市 令和8年市長定例記者会見（8月分）・本庄市議会第3回定例会会期予定・議案一覧（令和8年9月定例会の提出議案）",
+      "kind": "議案審査の参考資料（公式PDF・AI画像書き起こし・２系統照合）",
+      "scope": "supporting",
+      "url": "https://www.city.honjo.lg.jp/material/files/group/1/mayor_teirei_r0808-1.pdf",
+      "note": "年月は会期。市町村が令和8年9月定例会の首長提出議案として公式サイトに掲載したPDF。 スキャンのため、AIが原PDFの画像から独立に２系統で書き起こして突き合わせた（数字は２系統で一致）。",
+      "speakers": []
+    },
+    {
+      "id": "41942d29fe24df90d1a6",
+      "place": "東松山市",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "東松山市 令和8年第2回東松山市議会定例会議案（表紙と目次）（令和8年6月定例会の提出議案）",
+      "kind": "議案審査の参考資料（公式PDF・AI画像書き起こし・２系統照合）",
+      "scope": "supporting",
+      "url": "https://www.city.higashimatsuyama.lg.jp/uploaded/attachment/19422.pdf",
+      "note": "年月は会期。市町村が令和8年6月定例会の首長提出議案として公式サイトに掲載したPDF。 スキャンのため、AIが原PDFの画像から独立に２系統で書き起こして突き合わせた（数字は２系統で一致）。",
+      "speakers": []
+    },
+    {
+      "id": "7b19c3edea6b7f5a8228",
+      "place": "東松山市",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "東松山市 令和8年第2回東松山市議会定例会議案参考資料（表紙と目次）（令和8年6月定例会の提出議案）",
+      "kind": "議案審査の参考資料（公式PDF・AI画像書き起こし・２系統照合）",
+      "scope": "supporting",
+      "url": "https://www.city.higashimatsuyama.lg.jp/uploaded/attachment/19423.pdf",
+      "note": "年月は会期。市町村が令和8年6月定例会の首長提出議案として公式サイトに掲載したPDF。 スキャンのため、AIが原PDFの画像から独立に２系統で書き起こして突き合わせた（数字は２系統で一致）。",
+      "speakers": []
+    },
+    {
+      "id": "0d5db92cb3d41254e8b5",
+      "place": "東松山市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "東松山市 令和8年第3回東松山市議会定例会議案参考資料（表紙と目次）（令和8年9月定例会の提出議案）",
+      "kind": "議案審査の参考資料（公式PDF・AI画像書き起こし・２系統照合）",
+      "scope": "supporting",
+      "url": "https://www.city.higashimatsuyama.lg.jp/uploaded/attachment/20408.pdf",
+      "note": "年月は会期。市町村が令和8年9月定例会の首長提出議案として公式サイトに掲載したPDF。 スキャンのため、AIが原PDFの画像から独立に２系統で書き起こして突き合わせた（数字は２系統で一致）。",
+      "speakers": []
+    },
+    {
+      "id": "5a4b723fe72b8266f617",
+      "place": "東松山市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "東松山市 令和8年第3回東松山市議会定例会議案（表紙と目次）（令和8年9月定例会の提出議案）",
+      "kind": "議案審査の参考資料（公式PDF・AI画像書き起こし・２系統照合）",
+      "scope": "supporting",
+      "url": "https://www.city.higashimatsuyama.lg.jp/uploaded/attachment/20407.pdf",
+      "note": "年月は会期。市町村が令和8年9月定例会の首長提出議案として公式サイトに掲載したPDF。 スキャンのため、AIが原PDFの画像から独立に２系統で書き起こして突き合わせた（数字は２系統で一致）。",
+      "speakers": []
+    },
+    {
+      "id": "3b01d64768f7c2ecf9ed",
+      "place": "上尾市",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "上尾市 別冊（補正予算書）：正誤表（令和7年度3月補正予算の概要（議案1～4号））【令和8年2月12日修正】（令和8年3月定例会の提出議案）",
+      "kind": "議案審査の参考資料（公式PDF・AI画像書き起こし・２系統照合）",
+      "scope": "supporting",
+      "url": "https://www.city.ageo.lg.jp/uploaded/attachment/116406.pdf",
+      "note": "年月は会期。市町村が令和8年3月定例会の首長提出議案として公式サイトに掲載したPDF。 スキャンのため、AIが原PDFの画像から独立に２系統で書き起こして突き合わせた（数字は２系統で一致）。",
+      "speakers": []
     }
   ],
   "coverage": [
