@@ -27952,6 +27952,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "15649bca76f4f7a6525f",
+      "place": "宮代町",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "泉伸一郎議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/miyashiro/WebView/rd/speech.html?council_id=32&schedule_id=4&playlist_id=4&speaker_id=16&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "泉伸一郎"
+      ]
+    },
+    {
       "id": "20971bd3127ca6918ef6",
       "place": "宮代町",
       "season": "fall",
@@ -43776,6 +43790,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "6edd831a49f261ca30ea",
+      "place": "熊谷市",
+      "season": "fall",
+      "date": "2026-09-14",
+      "title": "権田清志議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://kumagaya-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1763",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "権田清志"
+      ]
+    },
+    {
       "id": "36c4861ebb1ce70c80b6",
       "place": "狭山市",
       "season": "spring",
@@ -52798,7 +52826,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "議会だよりの一般質問19人の問答と４常任委員会の質疑を収録。公式録画目録は９月10日に７人、11・14日に各６人。正式会議録と原音照合は確認中。 公式録画の機械文字起こし一般質問9本を収録。",
+        "note": "議会だよりの一般質問19人の問答と４常任委員会の質疑を収録。公式録画目録は９月10日に７人、11・14日に各６人。正式会議録と原音照合は確認中。 公式録画の機械文字起こし一般質問10本を収録。",
         "indexURL": "https://www.city.kumagaya.lg.jp/shisei/shigikai/1006977/1006955/1009174.html"
       }
     },
@@ -54355,7 +54383,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "第140号の一般質問12人・47問答、会計・議案の質疑43問答、議員の討論14件を原紙面と照合して要約。一般質問の通告37項目のうち紙面未掲載は７項目。一般質問の個人別日付は公式録画目録で照合。 公式録画の機械文字起こし１人分を参考収録。原音照合と正式会議録は確認中。 公式録画の機械文字起こし一般質問4本を収録。",
+        "note": "第140号の一般質問12人・47問答、会計・議案の質疑43問答、議員の討論14件を原紙面と照合して要約。一般質問の通告37項目のうち紙面未掲載は７項目。一般質問の個人別日付は公式録画目録で照合。 公式録画の機械文字起こし１人分を参考収録。原音照合と正式会議録は確認中。 公式録画の機械文字起こし一般質問5本を収録。",
         "indexURL": "https://smart.discussvision.net/smart/tenant/miyashiro/WebView/rd/council.html?year=2026&council_id=32"
       }
     },
