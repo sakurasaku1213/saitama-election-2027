@@ -149297,9 +149297,9 @@ GIKAI.coverage2026 = {
       "title": "令和8年度伊奈町水道事業会計予算",
       "date": "2026-03-18",
       "result": "原案可決",
-      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-3kekka.pdf#page=3",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-3gi19go.pdf#page=2",
       "resultURL": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-3kekka.pdf#page=3",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式議案書の該当頁",
       "voteType": "記名",
       "voteURL": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-3kekka.pdf#page=3",
       "votes": {
@@ -149319,7 +149319,8 @@ GIKAI.coverage2026 = {
         "仲島雄大": "賛成",
         "冨井篤弥": "賛成",
         "川内雅人": "賛成"
-      }
+      },
+      "sourceTitle": "伊奈町議会 第19号議案の提出原文"
     },
     {
       "place": "伊奈町",
