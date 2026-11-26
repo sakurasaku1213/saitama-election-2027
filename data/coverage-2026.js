@@ -159574,7 +159574,7 @@ GIKAI.coverage2026 = {
       "place": "嵐山町",
       "season": "summer",
       "session": "令和8年第2回嵐山町議会定例会",
-      "date": "2026-06",
+      "date": "2026-06-11",
       "number": "同意第2号",
       "title": "嵐山町固定資産評価審査委員会委員の選任",
       "result": "同意",
@@ -159582,13 +159582,14 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000008/8026/R0806T.pdf",
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、同意第2号嵐山町固定資産評価審査委員会委員の選任につき同意を求めることについての件は、これに同意することに決しま」",
-      "sourceType": "公式本会議録"
+      "sourceType": "公式本会議録",
+      "dateSource": "議決日は公式本会議録（6月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "嵐山町",
       "season": "summer",
       "session": "令和8年第2回嵐山町議会定例会",
-      "date": "2026-06",
+      "date": "2026-06-04",
       "number": "承認第4号",
       "title": "専決処分の承認を求めることについて(令和8年度嵐山町一般会計補正予算(第2号))",
       "result": "承認",
@@ -159596,13 +159597,14 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000008/8026/R0806T.pdf",
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、本案は承認されました」",
-      "sourceType": "公式本会議録"
+      "sourceType": "公式本会議録",
+      "dateSource": "議決日は公式本会議録（6月4日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "嵐山町",
       "season": "summer",
       "session": "令和8年第2回嵐山町議会定例会",
-      "date": "2026-06",
+      "date": "2026-06-11",
       "number": "発委第1号",
       "title": "嵐山町議会個人情報保護条例施行規則の一部を改正する規則の提出について",
       "result": "原案可決",
@@ -159610,13 +159612,14 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000008/8026/R0806T.pdf",
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
-      "sourceType": "公式本会議録"
+      "sourceType": "公式本会議録",
+      "dateSource": "議決日は公式本会議録（6月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "嵐山町",
       "season": "summer",
       "session": "令和8年第2回嵐山町議会定例会",
-      "date": "2026-06",
+      "date": "2026-06-11",
       "number": "発委第2号",
       "title": "安全・安心な医療・介護の実現のための人材確保と処遇改善を求める意見書の提出について",
       "result": "原案可決",
@@ -159624,13 +159627,14 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000008/8026/R0806T.pdf",
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
-      "sourceType": "公式本会議録"
+      "sourceType": "公式本会議録",
+      "dateSource": "議決日は公式本会議録（6月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "嵐山町",
       "season": "summer",
       "session": "令和8年第2回嵐山町議会定例会",
-      "date": "2026-06",
+      "date": "2026-06-11",
       "number": "発議第6号",
       "title": "防衛装備移転三原則等の見直しに反対し、恒久平和主義を守ることを求める意見書の提出について",
       "result": "否決",
@@ -159655,13 +159659,14 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7956/203gikai_marked.pdf#page=2",
-      "voteNote": "議会だより No.203２頁の議員提出議案（賛否の分かれた議案）の表（●賛成・×反対。議長は賛否表明をしない）。"
+      "voteNote": "議会だより No.203２頁の議員提出議案（賛否の分かれた議案）の表（●賛成・×反対。議長は賛否表明をしない）。",
+      "dateSource": "議決日は公式本会議録（6月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "嵐山町",
       "season": "summer",
       "session": "令和8年第2回嵐山町議会定例会",
-      "date": "2026-06",
+      "date": "2026-06-11",
       "number": "発議第7号",
       "title": "高校、高等教育機関へ通学する障害をもつ学生の移動保障及び合理的配慮の推進に関する意見書の提出について",
       "result": "否決",
@@ -159686,13 +159691,14 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7956/203gikai_marked.pdf#page=2",
-      "voteNote": "議会だより No.203２頁の議員提出議案（賛否の分かれた議案）の表（●賛成・×反対。議長は賛否表明をしない）。"
+      "voteNote": "議会だより No.203２頁の議員提出議案（賛否の分かれた議案）の表（●賛成・×反対。議長は賛否表明をしない）。",
+      "dateSource": "議決日は公式本会議録（6月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "嵐山町",
       "season": "summer",
       "session": "令和8年第2回嵐山町議会定例会",
-      "date": "2026-06",
+      "date": "2026-06-11",
       "number": "発議第8号",
       "title": "ゲノム編集技術を応用した食品の情報提供及び表示に関する意見書の提出について",
       "result": "否決",
@@ -159717,13 +159723,14 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7956/203gikai_marked.pdf#page=2",
-      "voteNote": "議会だより No.203２頁の議員提出議案（賛否の分かれた議案）の表（●賛成・×反対。議長は賛否表明をしない）。"
+      "voteNote": "議会だより No.203２頁の議員提出議案（賛否の分かれた議案）の表（●賛成・×反対。議長は賛否表明をしない）。",
+      "dateSource": "議決日は公式本会議録（6月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "嵐山町",
       "season": "summer",
       "session": "令和8年第2回嵐山町議会定例会",
-      "date": "2026-06",
+      "date": "2026-06-11",
       "number": "発議第9号",
       "title": "地方自治体の特別職に対する産前産後休暇制度の整備を求める意見書の提出について",
       "result": "否決",
@@ -159748,13 +159755,14 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7956/203gikai_marked.pdf#page=2",
-      "voteNote": "議会だより No.203２頁の議員提出議案（賛否の分かれた議案）の表（●賛成・×反対。議長は賛否表明をしない）。"
+      "voteNote": "議会だより No.203２頁の議員提出議案（賛否の分かれた議案）の表（●賛成・×反対。議長は賛否表明をしない）。",
+      "dateSource": "議決日は公式本会議録（6月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "嵐山町",
       "season": "summer",
       "session": "令和8年第2回嵐山町議会定例会",
-      "date": "2026-06",
+      "date": "2026-06-11",
       "number": "発議第10号",
       "title": "教育基本法に違反すると認定したことに反対する意見書の提出について",
       "result": "否決",
@@ -159779,13 +159787,14 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7956/203gikai_marked.pdf#page=2",
-      "voteNote": "議会だより No.203２頁の議員提出議案（賛否の分かれた議案）の表（●賛成・×反対。議長は賛否表明をしない）。"
+      "voteNote": "議会だより No.203２頁の議員提出議案（賛否の分かれた議案）の表（●賛成・×反対。議長は賛否表明をしない）。",
+      "dateSource": "議決日は公式本会議録（6月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "嵐山町",
       "season": "summer",
       "session": "令和8年第2回嵐山町議会定例会",
-      "date": "2026-06",
+      "date": "2026-06-11",
       "number": "発議第11号",
       "title": "憲法改正に反対し、改憲発議を行わないことを求める意見書の提出について",
       "result": "否決",
@@ -159810,7 +159819,8 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7956/203gikai_marked.pdf#page=2",
-      "voteNote": "議会だより No.203２頁の議員提出議案（賛否の分かれた議案）の表（●賛成・×反対。議長は賛否表明をしない）。"
+      "voteNote": "議会だより No.203２頁の議員提出議案（賛否の分かれた議案）の表（●賛成・×反対。議長は賛否表明をしない）。",
+      "dateSource": "議決日は公式本会議録（6月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "嵐山町",
@@ -159830,7 +159840,7 @@ GIKAI.coverage2026 = {
       "place": "嵐山町",
       "season": "summer",
       "session": "令和8年第2回嵐山町議会定例会",
-      "date": "2026-06",
+      "date": "2026-06-04",
       "number": "議案第22号",
       "title": "嵐山町印鑑条例の一部を改正することについて",
       "result": "原案可決",
@@ -159838,13 +159848,14 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000008/8026/R0806T.pdf",
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
-      "sourceType": "公式本会議録"
+      "sourceType": "公式本会議録",
+      "dateSource": "議決日は公式本会議録（6月4日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "嵐山町",
       "season": "summer",
       "session": "令和8年第2回嵐山町議会定例会",
-      "date": "2026-06",
+      "date": "2026-06-11",
       "number": "議案第23号",
       "title": "嵐山町乳児等通園支援事業手数料条例の一部を改正することについて",
       "result": "原案可決",
@@ -159852,13 +159863,14 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000008/8026/R0806T.pdf",
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
-      "sourceType": "公式本会議録"
+      "sourceType": "公式本会議録",
+      "dateSource": "議決日は公式本会議録（6月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "嵐山町",
       "season": "summer",
       "session": "令和8年第2回嵐山町議会定例会",
-      "date": "2026-06",
+      "date": "2026-06-11",
       "number": "議案第24号",
       "title": "令和8年度嵐山町一般会計補正予算(第3号)議定について",
       "result": "原案可決",
@@ -159866,13 +159878,14 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000008/8026/R0806T.pdf",
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
-      "sourceType": "公式本会議録"
+      "sourceType": "公式本会議録",
+      "dateSource": "議決日は公式本会議録（6月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "嵐山町",
       "season": "summer",
       "session": "令和8年第2回嵐山町議会定例会",
-      "date": "2026-06",
+      "date": "2026-06-11",
       "number": "議案第25号",
       "title": "工事請負契約の締結について(防災行政無線(同報系)親局設備更新工事)",
       "result": "原案可決",
@@ -159880,13 +159893,14 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000008/8026/R0806T.pdf",
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
-      "sourceType": "公式本会議録"
+      "sourceType": "公式本会議録",
+      "dateSource": "議決日は公式本会議録（6月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "嵐山町",
       "season": "summer",
       "session": "令和8年第2回嵐山町議会定例会",
-      "date": "2026-06",
+      "date": "2026-06-11",
       "number": "議案第26号",
       "title": "工事請負契約の締結について(嵐山町B&G海洋センター体育館空調設備設置工事)",
       "result": "原案可決",
@@ -159894,7 +159908,8 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000008/8026/R0806T.pdf",
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
-      "sourceType": "公式本会議録"
+      "sourceType": "公式本会議録",
+      "dateSource": "議決日は公式本会議録（6月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "小鹿野町",
@@ -160484,7 +160499,7 @@ GIKAI.coverage2026 = {
       "place": "嵐山町",
       "season": "spring",
       "session": "令和8年第1回嵐山町議会定例会",
-      "date": "2026-03",
+      "date": "2026-03-17",
       "number": "発議第1号",
       "title": "有機フッ素化合物(PFAS)による汚染対策および土壌・製品規制の強化を求める意見書の提出について",
       "result": "否決",
@@ -160509,13 +160524,14 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7894/gikaidayori202.pdf#page=4",
-      "voteNote": "議会だより No.202の議員別の賛否（●（賛成）×（反対）。網掛けは討論を行った議員。議長は賛否表明をしない）。"
+      "voteNote": "議会だより No.202の議員別の賛否（●（賛成）×（反対）。網掛けは討論を行った議員。議長は賛否表明をしない）。",
+      "dateSource": "議決日は公式本会議録（3月17日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "嵐山町",
       "season": "spring",
       "session": "令和8年第1回嵐山町議会定例会",
-      "date": "2026-03",
+      "date": "2026-03-17",
       "number": "発議第2号",
       "title": "太陽光発電パネルのリサイクル義務化を求める意見書の提出について",
       "result": "否決",
@@ -160540,13 +160556,14 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7894/gikaidayori202.pdf#page=4",
-      "voteNote": "議会だより No.202の議員別の賛否（●（賛成）×（反対）。網掛けは討論を行った議員。議長は賛否表明をしない）。"
+      "voteNote": "議会だより No.202の議員別の賛否（●（賛成）×（反対）。網掛けは討論を行った議員。議長は賛否表明をしない）。",
+      "dateSource": "議決日は公式本会議録（3月17日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "嵐山町",
       "season": "spring",
       "session": "令和8年第1回嵐山町議会定例会",
-      "date": "2026-03",
+      "date": "2026-03-17",
       "number": "発議第3号",
       "title": "児童の性的搾取根絶と女性支援法に基づく風営法規制強化を求める意見書の提出について",
       "result": "否決",
@@ -160571,13 +160588,14 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7894/gikaidayori202.pdf#page=4",
-      "voteNote": "議会だより No.202の議員別の賛否（●（賛成）×（反対）。網掛けは討論を行った議員。議長は賛否表明をしない）。"
+      "voteNote": "議会だより No.202の議員別の賛否（●（賛成）×（反対）。網掛けは討論を行った議員。議長は賛否表明をしない）。",
+      "dateSource": "議決日は公式本会議録（3月17日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "嵐山町",
       "season": "spring",
       "session": "令和8年第1回嵐山町議会定例会",
-      "date": "2026-03",
+      "date": "2026-03-17",
       "number": "発議第4号",
       "title": "スパイ防止法制定に反対する意見書の提出について",
       "result": "否決",
@@ -160602,13 +160620,14 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7894/gikaidayori202.pdf#page=4",
-      "voteNote": "議会だより No.202の議員別の賛否（●（賛成）×（反対）。網掛けは討論を行った議員。議長は賛否表明をしない）。"
+      "voteNote": "議会だより No.202の議員別の賛否（●（賛成）×（反対）。網掛けは討論を行った議員。議長は賛否表明をしない）。",
+      "dateSource": "議決日は公式本会議録（3月17日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "嵐山町",
       "season": "spring",
       "session": "令和8年第1回嵐山町議会定例会",
-      "date": "2026-03",
+      "date": "2026-03-17",
       "number": "発議第5号",
       "title": "イランに対する攻撃の即時停止と外交による平和的解決を求める意見書の提出について",
       "result": "否決",
@@ -160633,7 +160652,8 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7894/gikaidayori202.pdf#page=4",
-      "voteNote": "議会だより No.202の議員別の賛否（●（賛成）×（反対）。網掛けは討論を行った議員。議長は賛否表明をしない）。"
+      "voteNote": "議会だより No.202の議員別の賛否（●（賛成）×（反対）。網掛けは討論を行った議員。議長は賛否表明をしない）。",
+      "dateSource": "議決日は公式本会議録（3月17日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "嵐山町",
@@ -160726,7 +160746,7 @@ GIKAI.coverage2026 = {
       "place": "嵐山町",
       "season": "spring",
       "session": "令和8年第1回嵐山町議会定例会",
-      "date": "2026-03",
+      "date": "2026-03-04",
       "number": "議案第6号",
       "title": "令和7年度嵐山町一般会計補正予算(第6号)議定について",
       "result": "原案可決",
@@ -160734,13 +160754,14 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
-      "sourceType": "公式本会議録"
+      "sourceType": "公式本会議録",
+      "dateSource": "議決日は公式本会議録（3月4日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "嵐山町",
       "season": "spring",
       "session": "令和8年第1回嵐山町議会定例会",
-      "date": "2026-03",
+      "date": "2026-03-04",
       "number": "議案第7号",
       "title": "令和7年度嵐山町国民健康保険特別会計補正予算(第4号)議定について",
       "result": "原案可決",
@@ -160748,13 +160769,14 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
-      "sourceType": "公式本会議録"
+      "sourceType": "公式本会議録",
+      "dateSource": "議決日は公式本会議録（3月4日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "嵐山町",
       "season": "spring",
       "session": "令和8年第1回嵐山町議会定例会",
-      "date": "2026-03",
+      "date": "2026-03-04",
       "number": "議案第8号",
       "title": "令和7年度嵐山町水道事業会計補正予算(第4号)議定について",
       "result": "原案可決",
@@ -160762,13 +160784,14 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
-      "sourceType": "公式本会議録"
+      "sourceType": "公式本会議録",
+      "dateSource": "議決日は公式本会議録（3月4日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "嵐山町",
       "season": "spring",
       "session": "令和8年第1回嵐山町議会定例会",
-      "date": "2026-03",
+      "date": "2026-03-04",
       "number": "議案第9号",
       "title": "令和7年度嵐山町下水道事業会計補正予算(第3号)議定について",
       "result": "原案可決",
@@ -160776,13 +160799,14 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
-      "sourceType": "公式本会議録"
+      "sourceType": "公式本会議録",
+      "dateSource": "議決日は公式本会議録（3月4日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "嵐山町",
       "season": "spring",
       "session": "令和8年第1回嵐山町議会定例会",
-      "date": "2026-03",
+      "date": "2026-03-17",
       "number": "議案第11号",
       "title": "令和8年度嵐山町国民健康保険特別会計予算議定について",
       "result": "原案可決",
@@ -160807,13 +160831,14 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7894/gikaidayori202.pdf#page=4",
-      "voteNote": "議会だより No.202の議員別の賛否（●（賛成）×（反対）。網掛けは討論を行った議員。議長は賛否表明をしない）。"
+      "voteNote": "議会だより No.202の議員別の賛否（●（賛成）×（反対）。網掛けは討論を行った議員。議長は賛否表明をしない）。",
+      "dateSource": "議決日は公式本会議録（3月17日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "嵐山町",
       "season": "spring",
       "session": "令和8年第1回嵐山町議会定例会",
-      "date": "2026-03",
+      "date": "2026-03-17",
       "number": "議案第12号",
       "title": "令和8年度嵐山町後期高齢者医療特別会計予算議定について",
       "result": "原案可決",
@@ -160838,13 +160863,14 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7894/gikaidayori202.pdf#page=4",
-      "voteNote": "議会だより No.202の議員別の賛否（●（賛成）×（反対）。網掛けは討論を行った議員。議長は賛否表明をしない）。"
+      "voteNote": "議会だより No.202の議員別の賛否（●（賛成）×（反対）。網掛けは討論を行った議員。議長は賛否表明をしない）。",
+      "dateSource": "議決日は公式本会議録（3月17日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "嵐山町",
       "season": "spring",
       "session": "令和8年第1回嵐山町議会定例会",
-      "date": "2026-03",
+      "date": "2026-03-17",
       "number": "議案第13号",
       "title": "令和8年度嵐山町介護保険特別会計予算議定について",
       "result": "原案可決",
@@ -160852,13 +160878,14 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
-      "sourceType": "公式本会議録"
+      "sourceType": "公式本会議録",
+      "dateSource": "議決日は公式本会議録（3月17日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "嵐山町",
       "season": "spring",
       "session": "令和8年第1回嵐山町議会定例会",
-      "date": "2026-03",
+      "date": "2026-03-17",
       "number": "議案第14号",
       "title": "令和8年度嵐山町水道事業会計予算議定について",
       "result": "原案可決",
@@ -160883,13 +160910,14 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7894/gikaidayori202.pdf#page=4",
-      "voteNote": "議会だより No.202の議員別の賛否（●（賛成）×（反対）。網掛けは討論を行った議員。議長は賛否表明をしない）。"
+      "voteNote": "議会だより No.202の議員別の賛否（●（賛成）×（反対）。網掛けは討論を行った議員。議長は賛否表明をしない）。",
+      "dateSource": "議決日は公式本会議録（3月17日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "嵐山町",
       "season": "spring",
       "session": "令和8年第1回嵐山町議会定例会",
-      "date": "2026-03",
+      "date": "2026-03-17",
       "number": "議案第15号",
       "title": "令和8年度嵐山町下水道事業会計予算議定について",
       "result": "原案可決",
@@ -160914,13 +160942,14 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7894/gikaidayori202.pdf#page=4",
-      "voteNote": "議会だより No.202の議員別の賛否（●（賛成）×（反対）。網掛けは討論を行った議員。議長は賛否表明をしない）。"
+      "voteNote": "議会だより No.202の議員別の賛否（●（賛成）×（反対）。網掛けは討論を行った議員。議長は賛否表明をしない）。",
+      "dateSource": "議決日は公式本会議録（3月17日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "嵐山町",
       "season": "spring",
       "session": "令和8年第1回嵐山町議会定例会",
-      "date": "2026-03",
+      "date": "2026-03-16",
       "number": "議案第16号",
       "title": "第6次嵐山町総合振興計画を改訂することについて",
       "result": "原案可決",
@@ -160945,13 +160974,14 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7894/gikaidayori202.pdf#page=4",
-      "voteNote": "議会だより No.202の議員別の賛否（●（賛成）×（反対）。網掛けは討論を行った議員。議長は賛否表明をしない）。"
+      "voteNote": "議会だより No.202の議員別の賛否（●（賛成）×（反対）。網掛けは討論を行った議員。議長は賛否表明をしない）。",
+      "dateSource": "議決日は公式本会議録（3月16日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "嵐山町",
       "season": "spring",
       "session": "令和8年第1回嵐山町議会定例会",
-      "date": "2026-03",
+      "date": "2026-03-04",
       "number": "議案第17号",
       "title": "公の施設の指定管理者の指定について(嵐山町子育てステーション嵐丸ひろば)",
       "result": "原案可決",
@@ -160959,13 +160989,14 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
-      "sourceType": "公式本会議録"
+      "sourceType": "公式本会議録",
+      "dateSource": "議決日は公式本会議録（3月4日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "嵐山町",
       "season": "spring",
       "session": "令和8年第1回嵐山町議会定例会",
-      "date": "2026-03",
+      "date": "2026-03-04",
       "number": "議案第18号",
       "title": "公の施設の指定管理者の指定について(嵐山町千年の苑手芸施設)",
       "result": "原案可決",
@@ -160973,13 +161004,14 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
-      "sourceType": "公式本会議録"
+      "sourceType": "公式本会議録",
+      "dateSource": "議決日は公式本会議録（3月4日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "嵐山町",
       "season": "spring",
       "session": "令和8年第1回嵐山町議会定例会",
-      "date": "2026-03",
+      "date": "2026-03-04",
       "number": "議案第19号",
       "title": "公の施設の指定管理者の指定について(嵐山町地域活力創出拠点施設)",
       "result": "原案可決",
@@ -160987,13 +161019,14 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
-      "sourceType": "公式本会議録"
+      "sourceType": "公式本会議録",
+      "dateSource": "議決日は公式本会議録（3月4日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "嵐山町",
       "season": "spring",
       "session": "令和8年第1回嵐山町議会定例会",
-      "date": "2026-03",
+      "date": "2026-03-04",
       "number": "議案第20号",
       "title": "町道路線を認定することについて",
       "result": "原案可決",
@@ -161001,7 +161034,8 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
-      "sourceType": "公式本会議録"
+      "sourceType": "公式本会議録",
+      "dateSource": "議決日は公式本会議録（3月4日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "鴻巣市",
