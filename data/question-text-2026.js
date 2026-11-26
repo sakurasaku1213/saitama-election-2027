@@ -31020,7 +31020,7 @@ GIKAI.questionText = {
       "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
       "kind": "公式会議録PDFのOCR転記",
       "scope": "minutes",
-      "note": "公式PDFの本文をローカルOCRで転記。頁番号はPDF内の位置です。原本を出典として表示します。",
+      "note": "公式PDFの本文をローカルOCRで転記。頁番号はPDF内の位置です。原本を出典として表示します。 原PDFで私用領域の外字だった「𠮷」（つちよし。吉本秀二議員等）は「吉」と表示した。",
       "speakers": [
         "佐藤弘美",
         "川口浩史",
@@ -31042,7 +31042,7 @@ GIKAI.questionText = {
       "kind": "公式会議録（特別委員会）",
       "scope": "minutes",
       "speakers": [],
-      "note": "公式PDFを照合し、表題から署名欄まで全248頁の本文を収録しました。"
+      "note": "公式PDFを照合し、表題から署名欄まで全248頁の本文を収録しました。 原PDFで私用領域の外字だった「𠮷」（つちよし。吉本秀二議員等）は「吉」と表示した。"
     },
     {
       "id": "37c7ecc8365b3f4d0e24",
@@ -31053,7 +31053,7 @@ GIKAI.questionText = {
       "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000008/8026/R0806T.pdf",
       "kind": "公式会議録PDFのOCR転記",
       "scope": "minutes",
-      "note": "公式PDFの本文をローカルOCRで転記。頁番号はPDF内の位置です。原本を出典として表示します。",
+      "note": "公式PDFの本文をローカルOCRで転記。頁番号はPDF内の位置です。原本を出典として表示します。 原PDFで私用領域の外字だった「𠮷」（つちよし。吉本秀二議員等）は「吉」と表示した。",
       "speakers": [
         "佐藤弘美",
         "宮本大裕",
