@@ -186,6 +186,10 @@ GIKAI.coverage2026 = {
         {
           "label": "一般質問の参考資料（公式パネル一覧）",
           "url": "https://www.pref.saitama.lg.jp/e1601/gikai-panel/r0809.html"
+        },
+        {
+          "label": "質問議員別質問項目一覧（15人・251項目）",
+          "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/2026_9koumokubetsu.html"
         }
       ]
     },
@@ -10687,7 +10691,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "identified",
-          "note": "公式録画一覧で一般質問12人を確認。議会だよりの質問・答弁要旨も収録。正式会議録は確認中。 公式録画の機械文字起こし一般質問12本・議事5本を収録。"
+          "note": "公式録画一覧で一般質問12人を確認。議会だよりの質問・答弁要旨も収録。正式会議録は確認中。 公式録画の機械文字起こし一般質問12本・議事6本を収録。"
         },
         "decisions": {
           "state": "verified",

@@ -54917,6 +54917,46 @@ GIKAI.questionText = {
       "url": "https://www.city.warabi.saitama.jp/_res/projects/default_project/_page_/001/012/672/r8.9hosei.pdf",
       "note": "日付は５補正予算議案の議決日。 原本の頁順で文字層・OCRを収録。 PDF 1～2・4～6・10～11・14～19・22～23・26～27・29～31・34～36・38・40～41・44・47～49・52～53・56～57頁は数値・表の並びを確認中。原PDFへのリンクを掲載。",
       "speakers": []
+    },
+    {
+      "id": "398bd78ece9b84aec793",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-11-25",
+      "title": "令和8年9月定例会 質問議員別質問項目一覧",
+      "kind": "公式の質問項目索引（HTML）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/2026_9koumokubetsu.html",
+      "note": "11月25日掲載。県議会が質問を議員15人・７分野の表に整理。索引から速報版への251リンクは既収録資料と全件一致。",
+      "speakers": [
+        "永瀬秀樹",
+        "小川寿士",
+        "権守幸男",
+        "鈴木まさひろ",
+        "金野桃子",
+        "山田裕子",
+        "小見山祐紀",
+        "泉津井京子",
+        "渡辺聡一郎",
+        "須賀昭夫",
+        "戸野部直乃",
+        "渋谷真実子",
+        "逢澤圭一郎",
+        "渡辺大",
+        "梅澤佳一"
+      ]
+    },
+    {
+      "id": "7a89c25485ae6cad3ab1",
+      "place": "寄居町",
+      "season": "fall",
+      "date": "2026-10-09",
+      "title": "本会議　議案審議（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/speech.html?council_id=39&schedule_id=8&playlist_id=1&speaker_id=0&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 当日の本会議の議事録画。分割された録画を含む。発言者と発言区間は原映像でご確認ください。",
+      "speakers": []
     }
   ],
   "coverage": [
@@ -56552,7 +56592,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/council.html?year=2026&council_id=39",
-        "note": "公式録画一覧で一般質問12人を確認。議会だよりの質問・答弁要旨も収録。正式会議録は確認中。 公式録画の機械文字起こし一般質問12本・議事5本を収録。"
+        "note": "公式録画一覧で一般質問12人を確認。議会だよりの質問・答弁要旨も収録。正式会議録は確認中。 公式録画の機械文字起こし一般質問12本・議事6本を収録。"
       }
     },
     {
