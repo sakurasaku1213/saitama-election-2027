@@ -69354,7 +69354,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/28533.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面13頁の原表。賛成15人、反対0人。"
+      "voteNote": "議会だより紙面13頁の原表。賛成15人、反対0人。",
+      "date": "2026-09-14",
+      "dateSource": "議決日は公式録画（9月14日の本会議、https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/speech.html?council_id=39&schedule_id=1&playlist_id=1&speaker_id=0&target_year=2026）の機械文字起こしにある採決の宣告で確認（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "寄居町",
@@ -69387,7 +69389,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/28533.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面13頁の原表。賛成15人、反対0人。"
+      "voteNote": "議会だより紙面13頁の原表。賛成15人、反対0人。",
+      "date": "2026-09-14",
+      "dateSource": "議決日は公式録画（9月14日の本会議、https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/speech.html?council_id=39&schedule_id=1&playlist_id=1&speaker_id=0&target_year=2026）の機械文字起こしにある採決の宣告で確認（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "寄居町",
@@ -69420,7 +69424,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/28533.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面13頁の原表。賛成13人、反対2人。"
+      "voteNote": "議会だより紙面13頁の原表。賛成13人、反対2人。",
+      "date": "2026-10-09",
+      "dateSource": "議決日は公式録画（10月9日の本会議、https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/speech.html?council_id=39&schedule_id=8&playlist_id=1&speaker_id=0&target_year=2026）の機械文字起こしにある採決の宣告で確認（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "寄居町",
@@ -69453,7 +69459,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/28533.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面13頁の原表。賛成13人、反対2人。"
+      "voteNote": "議会だより紙面13頁の原表。賛成13人、反対2人。",
+      "date": "2026-10-09",
+      "dateSource": "議決日は公式録画（10月9日の本会議、https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/speech.html?council_id=39&schedule_id=8&playlist_id=1&speaker_id=0&target_year=2026）の機械文字起こしにある採決の宣告で確認（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "寄居町",
@@ -69486,7 +69494,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/28533.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面13頁の原表。賛成13人、反対2人。"
+      "voteNote": "議会だより紙面13頁の原表。賛成13人、反対2人。",
+      "date": "2026-10-09",
+      "dateSource": "議決日は公式録画（10月9日の本会議、https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/speech.html?council_id=39&schedule_id=8&playlist_id=1&speaker_id=0&target_year=2026）の機械文字起こしにある採決の宣告で確認（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "寄居町",
@@ -69519,7 +69529,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/28533.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面13頁の原表。賛成13人、反対2人。"
+      "voteNote": "議会だより紙面13頁の原表。賛成13人、反対2人。",
+      "date": "2026-10-09",
+      "dateSource": "議決日は公式録画（10月9日の本会議、https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/speech.html?council_id=39&schedule_id=8&playlist_id=1&speaker_id=0&target_year=2026）の機械文字起こしにある採決の宣告で確認（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "寄居町",
@@ -69552,7 +69564,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/28533.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面13頁の原表。賛成15人、反対0人。"
+      "voteNote": "議会だより紙面13頁の原表。賛成15人、反対0人。",
+      "date": "2026-10-09",
+      "dateSource": "議決日は公式録画（10月9日の本会議、https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/speech.html?council_id=39&schedule_id=8&playlist_id=1&speaker_id=0&target_year=2026）の機械文字起こしにある採決の宣告で確認（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "寄居町",
@@ -69585,7 +69599,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/28533.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面13頁の原表。賛成15人、反対0人。"
+      "voteNote": "議会だより紙面13頁の原表。賛成15人、反対0人。",
+      "date": "2026-10-09",
+      "dateSource": "議決日は公式録画（10月9日の本会議、https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/speech.html?council_id=39&schedule_id=8&playlist_id=1&speaker_id=0&target_year=2026）の機械文字起こしにある採決の宣告で確認（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "寄居町",
@@ -69618,7 +69634,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/28533.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面13頁の原表。賛成15人、反対0人。"
+      "voteNote": "議会だより紙面13頁の原表。賛成15人、反対0人。",
+      "date": "2026-09-14",
+      "dateSource": "議決日は公式録画（9月14日の本会議、https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/speech.html?council_id=39&schedule_id=1&playlist_id=1&speaker_id=0&target_year=2026）の機械文字起こしにある採決の宣告で確認（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "寄居町",
@@ -69651,7 +69669,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/28533.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面13頁の原表。賛成15人、反対0人。"
+      "voteNote": "議会だより紙面13頁の原表。賛成15人、反対0人。",
+      "date": "2026-10-09",
+      "dateSource": "議決日は公式録画（10月9日の本会議、https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/speech.html?council_id=39&schedule_id=8&playlist_id=1&speaker_id=0&target_year=2026）の機械文字起こしにある採決の宣告で確認（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "寄居町",
@@ -69684,7 +69704,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/28533.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面13頁の原表。賛成15人、反対0人。"
+      "voteNote": "議会だより紙面13頁の原表。賛成15人、反対0人。",
+      "date": "2026-09-14",
+      "dateSource": "議決日は公式録画（9月14日の本会議、https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/speech.html?council_id=39&schedule_id=1&playlist_id=1&speaker_id=0&target_year=2026）の機械文字起こしにある採決の宣告で確認（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "寄居町",
@@ -69717,7 +69739,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/28533.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面13頁の原表。賛成15人、反対0人。"
+      "voteNote": "議会だより紙面13頁の原表。賛成15人、反対0人。",
+      "date": "2026-09-14",
+      "dateSource": "議決日は公式録画（9月14日の本会議、https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/speech.html?council_id=39&schedule_id=1&playlist_id=1&speaker_id=0&target_year=2026）の機械文字起こしにある採決の宣告で確認（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "寄居町",
@@ -69785,7 +69809,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/28533.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面13頁の原表。賛成15人、反対0人。"
+      "voteNote": "議会だより紙面13頁の原表。賛成15人、反対0人。",
+      "date": "2026-10-09",
+      "dateSource": "議決日は公式録画（10月9日の本会議、https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/speech.html?council_id=39&schedule_id=8&playlist_id=1&speaker_id=0&target_year=2026）の機械文字起こしにある採決の宣告で確認（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "寄居町",
@@ -69818,7 +69844,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/28533.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面13頁の原表。賛成15人、反対0人。"
+      "voteNote": "議会だより紙面13頁の原表。賛成15人、反対0人。",
+      "date": "2026-10-09",
+      "dateSource": "議決日は公式録画（10月9日の本会議、https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/speech.html?council_id=39&schedule_id=8&playlist_id=1&speaker_id=0&target_year=2026）の機械文字起こしにある採決の宣告で確認（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "寄居町",
@@ -69831,7 +69859,9 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/28329.pdf#page=1",
       "resultLocator": "公式議案等結果一覧 1頁・議案第62号",
       "proposer": "町長",
-      "voteNote": "公式の議案等結果一覧で結果を確認。９月定例会号の賛否表で個別表決を確認中。"
+      "voteNote": "公式の議案等結果一覧で結果を確認。９月定例会号の賛否表で個別表決を確認中。",
+      "date": "2026-10-09",
+      "dateSource": "議決日は公式録画（10月9日の本会議、https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/speech.html?council_id=39&schedule_id=8&playlist_id=1&speaker_id=0&target_year=2026）の機械文字起こしにある採決の宣告で確認（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "寄居町",
@@ -69844,7 +69874,9 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/28329.pdf#page=1",
       "resultLocator": "公式議案等結果一覧 1頁・議案第63号",
       "proposer": "町長",
-      "voteNote": "公式の議案等結果一覧で結果を確認。９月定例会号の賛否表で個別表決を確認中。"
+      "voteNote": "公式の議案等結果一覧で結果を確認。９月定例会号の賛否表で個別表決を確認中。",
+      "date": "2026-10-09",
+      "dateSource": "議決日は公式録画（10月9日の本会議、https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/speech.html?council_id=39&schedule_id=8&playlist_id=1&speaker_id=0&target_year=2026）の機械文字起こしにある採決の宣告で確認（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "寄居町",
@@ -69877,7 +69909,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/28533.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面13頁の原表。賛成15人、反対0人。"
+      "voteNote": "議会だより紙面13頁の原表。賛成15人、反対0人。",
+      "date": "2026-10-09",
+      "dateSource": "議決日は公式録画（10月9日の本会議、https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/speech.html?council_id=39&schedule_id=8&playlist_id=1&speaker_id=0&target_year=2026）の機械文字起こしにある採決の宣告で確認（正式会議録は未公開。文字起こしは人による照合をしていない）"
     },
     {
       "place": "狭山市",
