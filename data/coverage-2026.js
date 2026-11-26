@@ -170,8 +170,8 @@ GIKAI.coverage2026 = {
           "note": "県議会が掲載した会派別表決。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例9件：「高等専修学校の入学金・施設費をめぐり、答弁を問い直す」、「子どもの高次脳機能障害をめぐり、県外病院を調べて再び問う」ほか7件。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -370,8 +370,8 @@ GIKAI.coverage2026 = {
           "note": "市の議案表決態度一覧の会派等12行、例外注記と欄外の集計を照合。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例1件：「いろどり学園小学部の昼食と給食費相当の支援を追う」。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -938,8 +938,8 @@ GIKAI.coverage2026 = {
           "note": "同資料の33件について議員20人の記名表決欄を原表どおり収録。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例1件：「Ｂブロック新校で県産材・通学路・発注を質し、基本設計の意見聴取へ」。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -1382,8 +1382,8 @@ GIKAI.coverage2026 = {
           "note": "公式原表の議員別表決44件・各33欄を収録。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例1件：「当初予算が否決され、事業を外した新案を可決」。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -1430,8 +1430,8 @@ GIKAI.coverage2026 = {
           "note": "公式原表の議員別表決41件・各33欄を収録。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例1件：「市民医療センターを調べる特別委員会を設置し、提言案の作成へ」。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -1542,8 +1542,8 @@ GIKAI.coverage2026 = {
           "note": "公式表の議席順・氏名・賛否を確認した 1議案。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例3件：「認知症カフェの補助金復活を求め、6月補正で運営費補助を増額」、「予算の附帯決議で補正対応を求め、6月補正で20事業を復活」ほか1件。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -1586,8 +1586,8 @@ GIKAI.coverage2026 = {
           "note": "公式表の議席順・氏名・賛否を確認した 1議案。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例3件：「認知症カフェの補助金復活を求め、6月補正で運営費補助を増額」、「予算の附帯決議で補正対応を求め、6月補正で20事業を復活」ほか1件。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -1630,8 +1630,8 @@ GIKAI.coverage2026 = {
           "note": "公式表の議席順・氏名・賛否を確認した 1議案。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例3件：「系統用蓄電池の条例制定を求め、市は他市調査と事業者への周知へ」、「事業系ごみの処分手数料引上げ、質疑と反対討論を経て可決」ほか1件。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -1674,8 +1674,8 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例1件：「こども食堂支援の調査と追加支援を質し、秋の補正予算に団体補助金」。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -1714,8 +1714,8 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例1件：「家庭の防犯対策への補助制度を求め、補正予算と申請受付の案内へ」。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -2034,8 +2034,8 @@ GIKAI.coverage2026 = {
           "note": "公式表の賛否の概況（全員賛成、賛成多数等）を議決とともに収録。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例1件：「中学校給食費の無償化で、財源・時期と費用の見込みを質す」。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -2214,8 +2214,8 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例1件：「中学校給食費の残り５か月分の無償化を質し、請願採択と今年度の扱いを確認」。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -2254,8 +2254,8 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例3件：「高齢者向け配食の停止と再開の経緯を確認し、再発防止を質す」、「北春日部駅周辺の区画整理の推進を質し、助成条例改正を可決」ほか1件。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -2350,8 +2350,8 @@ GIKAI.coverage2026 = {
           "note": "賛否が分かれた9件の記名表決。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例3件：「補助金の使途を調べる特別委員会を発議し、調査結果を了承」、「中学校体育館の空調整備を審査し、７校分の契約議案を可決」ほか1件。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -2406,8 +2406,8 @@ GIKAI.coverage2026 = {
           "note": "賛否が分かれた2件の記名表決。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例4件：「補助金の使途を調べる特別委員会を発議し、調査結果を了承」、「中学校体育館の空調整備を審査し、７校分の契約議案を可決」ほか2件。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -2734,8 +2734,8 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例1件：「養育費の立替え・差押え支援を質し、公正証書作成補助の開始と運用を確認」。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -2814,8 +2814,8 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例2件：「省エネ家電の買換え補助が予算上限に達し、補正予算で受付を再開」、「水道基本料金の免除を延長する一般質問、予算議決と利用者向け案内」。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -3146,8 +3146,8 @@ GIKAI.coverage2026 = {
           "note": "公表表で賛否欄を確認。個別の票と氏名・会派名の対応は収録保留。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例3件：「送迎バス活用の新たな公共交通を質し、上平地区で実証運行へ」、「丸山公園小動物コーナーの充実を質し、新たな動物とふれあいの場が稼働」ほか1件。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -3198,8 +3198,8 @@ GIKAI.coverage2026 = {
           "note": "公表表で賛否欄を確認。個別の票と氏名・会派名の対応は収録保留。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例2件：「送迎バス活用の新たな公共交通を質し、上平地区で実証運行へ」、「防犯パトロールカーの清掃・管理を質し、市がシートカバーを準備」。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -3250,8 +3250,8 @@ GIKAI.coverage2026 = {
           "note": "公表表で賛否欄を確認。個別の票と氏名・会派名の対応は収録保留。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例4件：「放課後の居場所事業を審査し、２小学校で申込を開始」、「送迎バス活用の新たな公共交通を質し、上平地区で実証運行へ」ほか2件。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -3590,8 +3590,8 @@ GIKAI.coverage2026 = {
           "note": "そのうち20件の公式記名表決を収録。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例3件：「アリーナ整備の市支援を問い、検討業務の契約解除後に見通しを質す」、「川柳中学校の開校準備、保護者説明会と備品取得４議案」ほか1件。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -3990,8 +3990,8 @@ GIKAI.coverage2026 = {
           "note": "そのうち42件の公式記名表決を収録。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例2件：「北戸田駅西口の広場整備を問い、交通広場の契約増額を審議」、「休日の地域クラブの運営体制を質し、市が募集と保護者説明を案内」。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -4138,8 +4138,8 @@ GIKAI.coverage2026 = {
           "note": "公式議案一覧の全員一致・賛成多数を収録。個人別の表決は確認中。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例1件：「新学校給食センターの運用を始め、既存棟の解体を審議」。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -4314,8 +4314,8 @@ GIKAI.coverage2026 = {
           "note": "議会の原表に掲載された9件の記名表決を収録。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例1件：「放課後児童クラブ３か所の公募と保護者説明を質し、事業者変更へ」。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -4410,8 +4410,8 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例1件：「新複合施設の設計見直しを委員会で質し、補正予算を可決」。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -4458,8 +4458,8 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例1件：「雨水管理総合計画の具体策と県・近隣市との調整を確認」。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -4838,8 +4838,8 @@ GIKAI.coverage2026 = {
           "note": "原表17件を収録。うち４件で２人の議長欄と会議録に相違があり、該当欄に注記。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例2件：「学校の適正配置を審議する条例を可決し、教育委員会が諮問」、「三軒屋公園の複合施設を委員会と契約議案で質し、実施設計へ」。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -5142,8 +5142,8 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例1件：「道のオアシスのトイレ改修を求め、３月に壁と天井を補修」。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -5182,8 +5182,8 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例2件：「道のオアシスのトイレ改修を求め、３月に壁と天井を補修」、「防犯補助の再開・拡充を求め、第２弾を含む補正予算を可決」。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -5226,8 +5226,8 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例2件：「清掃センター集約に伴う費用分担を質し、事務委託を可決」、「防犯補助の再開・拡充を求め、第２弾を含む補正予算を可決」。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -6326,8 +6326,8 @@ GIKAI.coverage2026 = {
           "note": "市長提出11件で公式原表の全員・原案可決を確認。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例3件：「桜の害虫被害の規模と防除の実績を確認」、「DV相談の体制を質し、県が始めた再発防止プログラムを確認」ほか1件。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -6630,8 +6630,8 @@ GIKAI.coverage2026 = {
           "note": "公式原表の38件・17人欄を照合。欠席・除斥・議長の不参加は各原表の記載による。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例2件：「総合相談窓口の設置と愛称を質し、４月に「つるふく」開設を確認」、「自治会管理遊具の業者点検の検討状況を質し、新年度予算に計上」。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -6682,8 +6682,8 @@ GIKAI.coverage2026 = {
           "note": "公式原表の11件・17人欄を照合。欠席・除斥・議長の不参加は各原表の記載による。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例2件：「住まいの防犯用品の購入補助と、決算審査での助成件数」、「総合相談窓口の設置と愛称を質し、４月に「つるふく」開設を確認」。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -6794,8 +6794,8 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例1件：「おでかけワゴンの実証結果と本格運行準備を質し、6月に本格運行」。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -6834,8 +6834,8 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例2件：「おでかけワゴンの実証結果と本格運行準備を質し、6月に本格運行」、「巾着田河原の火気使用有料化の拡大を求め、夏も有料化を実施へ」。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -7338,8 +7338,8 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例1件：「アライグマ被害で柵補助等を質し、箱わな購入費を含む予算を可決」。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -7426,8 +7426,8 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例1件：「旧大山小学校の跡地活用を質し、情報共有を求める決議案を提出」。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -7470,8 +7470,8 @@ GIKAI.coverage2026 = {
           "note": "公式原表の38件につき議員別賛否と議長欄を照合。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例2件：「新庁舎の工事と地元発注を特別委員会で確認」、「循環バスを予約型に切り替える理由を質し、運行予算と車両取得を可決」。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -7530,8 +7530,8 @@ GIKAI.coverage2026 = {
           "note": "公式原表の18件につき議員別賛否と議長欄を照合。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例3件：「新庁舎の工事と地元発注を特別委員会で確認」、「循環バスを予約型に切り替える理由を質し、運行予算と車両取得を可決」ほか1件。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -9334,8 +9334,8 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例3件：「避難先や授業の暑さ対策を質し、中学校体育館の空調設計が公募に進む」、「よこぜ健幸ひろばの事業構想を確認し、開設後の効果検証を質す」ほか1件。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -9378,8 +9378,8 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例2件：「よこぜ健幸ひろばの事業構想を確認し、開設後の効果検証を質す」、「省エネ型体験住宅の条例を可決し、指定管理者の指定を審議」。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -9478,8 +9478,8 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例2件：「デマンドタクシーの実証を検証し、本格運行へ」、「小学校３校の統合準備を視察し、水泳授業の実施先を確認」。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -9926,8 +9926,8 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例2件：「倉尾地区の乗合タクシーを条例に位置づけ、運行区域に追加」、「中学校の部活動を地域に広げ、指導員の配置と実証を進める」。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -10162,8 +10162,8 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例1件：「統合新校の設計と通学手段を検討」。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -10218,8 +10218,8 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例1件：「統合新校の設計と通学手段を検討」。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -10274,8 +10274,8 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "policy": {
-          "state": "pending",
-          "note": "統合小学校の設計・通学計画の予算措置、委員会での平面図・配置図承認、10月の全棟鉄骨造への変更と給食納品スペース追加の承認、解体等着手の報告を照合。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例1件：「統合新校の設計と通学手段を検討」。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -10722,8 +10722,8 @@ GIKAI.coverage2026 = {
           "note": "議会だよりの記名表決17件を照合。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例1件：「全町民へのヨリカ支給後に、物価高対策の配分を質す」。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -10763,7 +10763,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "partial",
-          "note": "公式録画一覧で一般質問12人を確認。議会だよりの質問・答弁要旨も収録。正式会議録は確認中。 公式録画の機械文字起こし一般質問12本・議事9本を収録。 公式通告は12人・28頁。"
+          "note": "公式録画一覧で一般質問12人を確認。議会だよりの質問・答弁要旨も収録。正式会議録は確認中。 公式録画の機械文字起こし一般質問12本・議事11本を収録。 公式通告は12人・28頁。"
         },
         "decisions": {
           "state": "verified",
@@ -10842,8 +10842,8 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例1件：「アーチェリー場廃止の再検討を求めたが、廃止条例可決・請願不採択」。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -10890,8 +10890,8 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例3件：「清掃センター集約に伴う費用分担を質し、事務委託を可決」、「室内プール工事中の利用者対応を質し、屋根の工法変更による減額を確認」ほか1件。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -10994,8 +10994,8 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例2件：「水道料金の負担を質し、改定答申から給水条例の改正案へ」、「防災アプリの活用を質し、補正予算で避難所受付体験へ」。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -11034,8 +11034,8 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例2件：「防災アプリの活用を質し、補正予算で避難所受付体験へ」、「カスハラ対策を質し、町が職員向けの対策基本方針を公表」。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -11142,8 +11142,8 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例1件：「手話リンクの導入を求め、町サイトで導入を案内」。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -11186,8 +11186,8 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "policy": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "この会期の段階を含む事例1件：「低出生体重児の家族支援を質し、町が母乳バンクを案内」。会期全体の経過は確認中。"
         }
       },
       "sources": [
@@ -44994,9 +44994,9 @@ GIKAI.coverage2026 = {
       "number": "議員提出議案第1号",
       "title": "外国人への生活保護制度の法的根拠の明確化及び相互主義の導入を求める意見書",
       "result": "原案可決",
-      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000054203&fileId=48e00997ad364e7eb59f57a6e294041e&fileName=giketsukekkaitiranR080311.pdf#page=7",
+      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000054265&fileId=d55c070f81854a4d8890f6227d890e1c&fileName=R8.3gian_giansyo_gikai.pdf#page=1",
       "resultURL": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000054203&fileId=48e00997ad364e7eb59f57a6e294041e&fileName=giketsukekkaitiranR080311.pdf#page=7",
-      "sourceType": "公式議決結果",
+      "sourceType": "公式議案書の該当頁",
       "resultLocator": "議会の公式原表 7頁・議員提出議案第1号",
       "date": "2026-03-11",
       "voteType": "記名",
@@ -45026,7 +45026,32 @@ GIKAI.coverage2026 = {
         "榎本守明": "賛成",
         "小金沢優": "反対",
         "河合ゆうすけ": "賛成"
-      }
+      },
+      "archiveId": "5b1e064c0ff537cb943a",
+      "blocks": [
+        79,
+        80,
+        82,
+        83,
+        90,
+        91,
+        92
+      ],
+      "names": [
+        "遠藤英樹"
+      ],
+      "proposalSupporters": [
+        "河合ゆうすけ",
+        "小山大輔",
+        "古屋としみつ",
+        "そごう拓也",
+        "細田昌孝",
+        "浅生和英",
+        "酒井いくろう",
+        "榎本守明"
+      ],
+      "proposalSupporterLabel": "提出時の賛成者（議案書の署名欄）",
+      "sourceTitle": "戸田市議会 議員提出議案第1号の提出原文"
     },
     {
       "place": "戸田市",
@@ -45035,9 +45060,9 @@ GIKAI.coverage2026 = {
       "number": "議員提出議案第2号",
       "title": "アメリカ・イスラエルによるイラン攻撃に抗議し即時中止を求める決議",
       "result": "否決",
-      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000054203&fileId=48e00997ad364e7eb59f57a6e294041e&fileName=giketsukekkaitiranR080311.pdf#page=7",
+      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000054265&fileId=d55c070f81854a4d8890f6227d890e1c&fileName=R8.3gian_giansyo_gikai.pdf#page=5",
       "resultURL": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000054203&fileId=48e00997ad364e7eb59f57a6e294041e&fileName=giketsukekkaitiranR080311.pdf#page=7",
-      "sourceType": "公式議決結果",
+      "sourceType": "公式議案書の該当頁",
       "resultLocator": "議会の公式原表 7頁・議員提出議案第2号",
       "date": "2026-03-11",
       "voteType": "記名",
@@ -45067,7 +45092,25 @@ GIKAI.coverage2026 = {
         "榎本守明": "賛成",
         "小金沢優": "賛成",
         "河合ゆうすけ": "反対"
-      }
+      },
+      "archiveId": "5b1e064c0ff537cb943a",
+      "blocks": [
+        85,
+        86,
+        98,
+        99,
+        100,
+        102
+      ],
+      "names": [
+        "本田哲"
+      ],
+      "proposalSupporters": [
+        "花井あきこ",
+        "むとう葉子"
+      ],
+      "proposalSupporterLabel": "提出時の賛成者（議案書の署名欄）",
+      "sourceTitle": "戸田市議会 議員提出議案第2号の提出原文"
     },
     {
       "place": "戸田市",
@@ -47735,9 +47778,9 @@ GIKAI.coverage2026 = {
       "number": "議員提出議案第3号",
       "title": "全てのケアラーに対する包括的な支援と法的枠組みの整備を求める意見書",
       "result": "原案可決",
-      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000054466&fileId=8195b8202e074ecb9053f8418e0a0b07&fileName=giketsukekkaitiranR080619.pdf-cleaned.pdf#page=5",
+      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055201&fileId=5f24159ec25040f183c9bdcb6126dd49&fileName=R8.6gian_giansyo_gikai.pdf#page=1",
       "resultURL": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000054466&fileId=8195b8202e074ecb9053f8418e0a0b07&fileName=giketsukekkaitiranR080619.pdf-cleaned.pdf#page=5",
-      "sourceType": "公式議決結果",
+      "sourceType": "公式議案書の該当頁",
       "resultLocator": "議会の公式原表 5頁・議員提出議案第3号",
       "date": "2026-06-19",
       "voteType": "記名",
@@ -47768,7 +47811,35 @@ GIKAI.coverage2026 = {
         "榎本守明": "賛成",
         "小金沢優": "賛成",
         "河合ゆうすけ": "賛成"
-      }
+      },
+      "archiveId": "763713f2980d55fd8aa6",
+      "blocks": [
+        82,
+        84,
+        87,
+        88,
+        100,
+        101
+      ],
+      "names": [
+        "竹内正明"
+      ],
+      "proposalSupporters": [
+        "河合ゆうすけ",
+        "本田哲",
+        "小山大輔",
+        "小金沢優",
+        "三浦のぶお",
+        "古屋としみつ",
+        "矢澤青河",
+        "斎藤直子",
+        "石川清明",
+        "浅生和英",
+        "酒井いくろう",
+        "榎本守明"
+      ],
+      "proposalSupporterLabel": "提出時の賛成者（議案書の署名欄）",
+      "sourceTitle": "戸田市議会 議員提出議案第3号の提出原文"
     },
     {
       "place": "戸田市",
@@ -47777,9 +47848,9 @@ GIKAI.coverage2026 = {
       "number": "議員提出議案第4号",
       "title": "高額療養費制度の負担拡大を撤回し、必要な医療への保障を求める意見書",
       "result": "否決",
-      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000054466&fileId=8195b8202e074ecb9053f8418e0a0b07&fileName=giketsukekkaitiranR080619.pdf-cleaned.pdf#page=5",
+      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055201&fileId=5f24159ec25040f183c9bdcb6126dd49&fileName=R8.6gian_giansyo_gikai.pdf#page=3",
       "resultURL": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000054466&fileId=8195b8202e074ecb9053f8418e0a0b07&fileName=giketsukekkaitiranR080619.pdf-cleaned.pdf#page=5",
-      "sourceType": "公式議決結果",
+      "sourceType": "公式議案書の該当頁",
       "resultLocator": "議会の公式原表 5頁・議員提出議案第4号",
       "date": "2026-06-19",
       "voteType": "記名",
@@ -47810,7 +47881,24 @@ GIKAI.coverage2026 = {
         "榎本守明": "反対",
         "小金沢優": "賛成",
         "河合ゆうすけ": "賛成"
-      }
+      },
+      "archiveId": "763713f2980d55fd8aa6",
+      "blocks": [
+        84,
+        90,
+        91,
+        102,
+        103
+      ],
+      "names": [
+        "花井あきこ"
+      ],
+      "proposalSupporters": [
+        "本田哲",
+        "むとう葉子"
+      ],
+      "proposalSupporterLabel": "提出時の賛成者（議案書の署名欄）",
+      "sourceTitle": "戸田市議会 議員提出議案第4号の提出原文"
     },
     {
       "place": "戸田市",
@@ -47819,9 +47907,9 @@ GIKAI.coverage2026 = {
       "number": "議員提出議案第5号",
       "title": "ＯＴＣ類似薬への追加負担導入の撤回を求める意見書",
       "result": "否決",
-      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000054466&fileId=8195b8202e074ecb9053f8418e0a0b07&fileName=giketsukekkaitiranR080619.pdf-cleaned.pdf#page=5",
+      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055201&fileId=5f24159ec25040f183c9bdcb6126dd49&fileName=R8.6gian_giansyo_gikai.pdf#page=5",
       "resultURL": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000054466&fileId=8195b8202e074ecb9053f8418e0a0b07&fileName=giketsukekkaitiranR080619.pdf-cleaned.pdf#page=5",
-      "sourceType": "公式議決結果",
+      "sourceType": "公式議案書の該当頁",
       "resultLocator": "議会の公式原表 5頁・議員提出議案第5号",
       "date": "2026-06-19",
       "voteType": "記名",
@@ -47852,7 +47940,23 @@ GIKAI.coverage2026 = {
         "榎本守明": "反対",
         "小金沢優": "賛成",
         "河合ゆうすけ": "賛成"
-      }
+      },
+      "archiveId": "763713f2980d55fd8aa6",
+      "blocks": [
+        84,
+        91,
+        105,
+        106
+      ],
+      "names": [
+        "花井あきこ"
+      ],
+      "proposalSupporters": [
+        "本田哲",
+        "むとう葉子"
+      ],
+      "proposalSupporterLabel": "提出時の賛成者（議案書の署名欄）",
+      "sourceTitle": "戸田市議会 議員提出議案第5号の提出原文"
     },
     {
       "place": "戸田市",
@@ -47861,9 +47965,9 @@ GIKAI.coverage2026 = {
       "number": "議員提出議案第6号",
       "title": "再審開始決定に対する検察官の抗告を禁止する法改正を求める意見書",
       "result": "原案可決",
-      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000054466&fileId=8195b8202e074ecb9053f8418e0a0b07&fileName=giketsukekkaitiranR080619.pdf-cleaned.pdf#page=5",
+      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055201&fileId=5f24159ec25040f183c9bdcb6126dd49&fileName=R8.6gian_giansyo_gikai.pdf#page=7",
       "resultURL": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000054466&fileId=8195b8202e074ecb9053f8418e0a0b07&fileName=giketsukekkaitiranR080619.pdf-cleaned.pdf#page=5",
-      "sourceType": "公式議決結果",
+      "sourceType": "公式議案書の該当頁",
       "resultLocator": "議会の公式原表 5頁・議員提出議案第6号",
       "date": "2026-06-19",
       "voteType": "記名",
@@ -47894,7 +47998,24 @@ GIKAI.coverage2026 = {
         "榎本守明": "賛成",
         "小金沢優": "賛成",
         "河合ゆうすけ": "賛成"
-      }
+      },
+      "archiveId": "763713f2980d55fd8aa6",
+      "blocks": [
+        84,
+        93,
+        94,
+        108,
+        109
+      ],
+      "names": [
+        "むとう葉子"
+      ],
+      "proposalSupporters": [
+        "本田哲",
+        "花井あきこ"
+      ],
+      "proposalSupporterLabel": "提出時の賛成者（議案書の署名欄）",
+      "sourceTitle": "戸田市議会 議員提出議案第6号の提出原文"
     },
     {
       "place": "戸田市",
@@ -47903,9 +48024,9 @@ GIKAI.coverage2026 = {
       "number": "議員提出議案第7号",
       "title": "物価高騰対策として緊急に消費税減税を求める意見書",
       "result": "否決",
-      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000054466&fileId=8195b8202e074ecb9053f8418e0a0b07&fileName=giketsukekkaitiranR080619.pdf-cleaned.pdf#page=5",
+      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055201&fileId=5f24159ec25040f183c9bdcb6126dd49&fileName=R8.6gian_giansyo_gikai.pdf#page=9",
       "resultURL": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000054466&fileId=8195b8202e074ecb9053f8418e0a0b07&fileName=giketsukekkaitiranR080619.pdf-cleaned.pdf#page=5",
-      "sourceType": "公式議決結果",
+      "sourceType": "公式議案書の該当頁",
       "resultLocator": "議会の公式原表 5頁・議員提出議案第7号",
       "date": "2026-06-19",
       "voteType": "記名",
@@ -47936,7 +48057,24 @@ GIKAI.coverage2026 = {
         "榎本守明": "反対",
         "小金沢優": "反対",
         "河合ゆうすけ": "賛成"
-      }
+      },
+      "archiveId": "763713f2980d55fd8aa6",
+      "blocks": [
+        84,
+        96,
+        97,
+        111,
+        112
+      ],
+      "names": [
+        "本田哲"
+      ],
+      "proposalSupporters": [
+        "花井あきこ",
+        "むとう葉子"
+      ],
+      "proposalSupporterLabel": "提出時の賛成者（議案書の署名欄）",
+      "sourceTitle": "戸田市議会 議員提出議案第7号の提出原文"
     },
     {
       "place": "戸田市",
@@ -47945,9 +48083,9 @@ GIKAI.coverage2026 = {
       "number": "議員提出議案第8号",
       "title": "イラン戦争がもたらす物価高・資材不足から暮らしと営業を守るための緊急対策を求める意見書",
       "result": "否決",
-      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000054466&fileId=8195b8202e074ecb9053f8418e0a0b07&fileName=giketsukekkaitiranR080619.pdf-cleaned.pdf#page=6",
+      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055201&fileId=5f24159ec25040f183c9bdcb6126dd49&fileName=R8.6gian_giansyo_gikai.pdf#page=11",
       "resultURL": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000054466&fileId=8195b8202e074ecb9053f8418e0a0b07&fileName=giketsukekkaitiranR080619.pdf-cleaned.pdf#page=6",
-      "sourceType": "公式議決結果",
+      "sourceType": "公式議案書の該当頁",
       "resultLocator": "議会の公式原表 6頁・議員提出議案第8号",
       "date": "2026-06-19",
       "voteType": "記名",
@@ -47978,7 +48116,23 @@ GIKAI.coverage2026 = {
         "榎本守明": "反対",
         "小金沢優": "賛成",
         "河合ゆうすけ": "賛成"
-      }
+      },
+      "archiveId": "763713f2980d55fd8aa6",
+      "blocks": [
+        84,
+        97,
+        114,
+        115
+      ],
+      "names": [
+        "本田哲"
+      ],
+      "proposalSupporters": [
+        "花井あきこ",
+        "むとう葉子"
+      ],
+      "proposalSupporterLabel": "提出時の賛成者（議案書の署名欄）",
+      "sourceTitle": "戸田市議会 議員提出議案第8号の提出原文"
     },
     {
       "place": "戸田市",
@@ -50534,9 +50688,9 @@ GIKAI.coverage2026 = {
       "number": "議員提出議案第9号",
       "title": "指定施設における不在者投票の公正性担保と外部立会人設置促進に関する意見書",
       "result": "原案可決",
-      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=6",
+      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055622&fileId=b2f5b7793b70475790d316b1c906910a&fileName=R8.9gian_giansyo_gikai.pdf#page=1",
       "resultURL": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=6",
-      "sourceType": "公式議決結果",
+      "sourceType": "公式議案書の該当頁",
       "resultLocator": "議会の公式原表 6頁・議員提出議案第9号",
       "date": "2026-09-18",
       "voteType": "記名",
@@ -50573,7 +50727,23 @@ GIKAI.coverage2026 = {
         57,
         80,
         81
-      ]
+      ],
+      "names": [
+        "酒井いくろう"
+      ],
+      "proposalSupporters": [
+        "河合ゆうすけ",
+        "本田哲",
+        "小金沢優",
+        "矢澤青河",
+        "斎藤直子",
+        "竹内正明",
+        "石川清明",
+        "浅生和英",
+        "榎本守明"
+      ],
+      "proposalSupporterLabel": "提出時の賛成者（議案書の署名欄）",
+      "sourceTitle": "戸田市議会 議員提出議案第9号の提出原文"
     },
     {
       "place": "戸田市",
@@ -50582,9 +50752,9 @@ GIKAI.coverage2026 = {
       "number": "議員提出議案第10号",
       "title": "化学物質過敏症に関する対策強化を求める意見書",
       "result": "原案可決",
-      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=6",
+      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055622&fileId=b2f5b7793b70475790d316b1c906910a&fileName=R8.9gian_giansyo_gikai.pdf#page=3",
       "resultURL": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=6",
-      "sourceType": "公式議決結果",
+      "sourceType": "公式議案書の該当頁",
       "resultLocator": "議会の公式原表 6頁・議員提出議案第10号",
       "date": "2026-09-18",
       "voteType": "記名",
@@ -50621,7 +50791,26 @@ GIKAI.coverage2026 = {
         57,
         80,
         81
-      ]
+      ],
+      "names": [
+        "竹内正明"
+      ],
+      "proposalSupporters": [
+        "河合ゆうすけ",
+        "本田哲",
+        "小金沢優",
+        "三浦のぶお",
+        "矢澤青河",
+        "斎藤直子",
+        "石川清明",
+        "細田昌孝",
+        "遠藤英樹",
+        "浅生和英",
+        "酒井いくろう",
+        "榎本守明"
+      ],
+      "proposalSupporterLabel": "提出時の賛成者（議案書の署名欄）",
+      "sourceTitle": "戸田市議会 議員提出議案第10号の提出原文"
     },
     {
       "place": "戸田市",
@@ -50630,9 +50819,9 @@ GIKAI.coverage2026 = {
       "number": "議員提出議案第11号",
       "title": "夏休み中の子どもの貧困対策および緊急セーフティネットの強化を求める意見書",
       "result": "原案可決",
-      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=6",
+      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055622&fileId=b2f5b7793b70475790d316b1c906910a&fileName=R8.9gian_giansyo_gikai.pdf#page=6",
       "resultURL": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=6",
-      "sourceType": "公式議決結果",
+      "sourceType": "公式議案書の該当頁",
       "resultLocator": "議会の公式原表 6頁・議員提出議案第11号",
       "date": "2026-09-18",
       "voteType": "記名",
@@ -50669,7 +50858,24 @@ GIKAI.coverage2026 = {
         57,
         80,
         81
-      ]
+      ],
+      "names": [
+        "石川清明"
+      ],
+      "proposalSupporters": [
+        "河合ゆうすけ",
+        "本田哲",
+        "小金沢優",
+        "三浦のぶお",
+        "矢澤青河",
+        "斎藤直子",
+        "竹内正明",
+        "浅生和英",
+        "酒井いくろう",
+        "榎本守明"
+      ],
+      "proposalSupporterLabel": "提出時の賛成者（議案書の署名欄）",
+      "sourceTitle": "戸田市議会 議員提出議案第11号の提出原文"
     },
     {
       "place": "戸田市",
@@ -50678,9 +50884,9 @@ GIKAI.coverage2026 = {
       "number": "議員提出議案第12号",
       "title": "地方自治体との連携強化および防災体制の抜本的強化を求める意見書",
       "result": "原案可決",
-      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=6",
+      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055622&fileId=b2f5b7793b70475790d316b1c906910a&fileName=R8.9gian_giansyo_gikai.pdf#page=9",
       "resultURL": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=6",
-      "sourceType": "公式議決結果",
+      "sourceType": "公式議案書の該当頁",
       "resultLocator": "議会の公式原表 6頁・議員提出議案第12号",
       "date": "2026-09-18",
       "voteType": "記名",
@@ -50717,7 +50923,24 @@ GIKAI.coverage2026 = {
         57,
         80,
         81
-      ]
+      ],
+      "names": [
+        "浅生和英"
+      ],
+      "proposalSupporters": [
+        "河合ゆうすけ",
+        "本田哲",
+        "小金沢優",
+        "三浦のぶお",
+        "矢澤青河",
+        "斎藤直子",
+        "竹内正明",
+        "石川清明",
+        "酒井いくろう",
+        "榎本守明"
+      ],
+      "proposalSupporterLabel": "提出時の賛成者（議案書の署名欄）",
+      "sourceTitle": "戸田市議会 議員提出議案第12号の提出原文"
     },
     {
       "place": "戸田市",
@@ -50726,9 +50949,9 @@ GIKAI.coverage2026 = {
       "number": "議員提出議案第13号",
       "title": "がんゲノム医療の推進及び患者の治療機会拡大に関する意見書",
       "result": "原案可決",
-      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=6",
+      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055622&fileId=b2f5b7793b70475790d316b1c906910a&fileName=R8.9gian_giansyo_gikai.pdf#page=12",
       "resultURL": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=6",
-      "sourceType": "公式議決結果",
+      "sourceType": "公式議案書の該当頁",
       "resultLocator": "議会の公式原表 6頁・議員提出議案第13号",
       "date": "2026-09-18",
       "voteType": "記名",
@@ -50765,7 +50988,16 @@ GIKAI.coverage2026 = {
         82,
         83,
         84
-      ]
+      ],
+      "names": [
+        "酒井いくろう"
+      ],
+      "proposalSupporters": [
+        "浅生和英",
+        "小沼さゆり"
+      ],
+      "proposalSupporterLabel": "提出時の賛成者（議案書の署名欄）",
+      "sourceTitle": "戸田市議会 議員提出議案第13号の提出原文"
     },
     {
       "place": "戸田市",
@@ -50774,9 +51006,9 @@ GIKAI.coverage2026 = {
       "number": "議員提出議案第14号",
       "title": "非核三原則の堅持に関する意見書",
       "result": "否決",
-      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=6",
+      "url": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055622&fileId=b2f5b7793b70475790d316b1c906910a&fileName=R8.9gian_giansyo_gikai.pdf#page=15",
       "resultURL": "https://www2.city.toda.saitama.jp/gikai/toda-f9fzqijq2awo0kaj/DownLoadTempuFile?dataId=0000055338&fileId=aa7e74f986b7428cb003fd9a0b5f1ed1&fileName=%E8%AD%B0%E6%B1%BA%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7R8.9.pdf#page=6",
-      "sourceType": "公式議決結果",
+      "sourceType": "公式議案書の該当頁",
       "resultLocator": "議会の公式原表 6頁・議員提出議案第14号",
       "date": "2026-09-18",
       "voteType": "記名",
@@ -50815,7 +51047,16 @@ GIKAI.coverage2026 = {
         87,
         88,
         89
-      ]
+      ],
+      "names": [
+        "本田哲"
+      ],
+      "proposalSupporters": [
+        "花井あきこ",
+        "むとう葉子"
+      ],
+      "proposalSupporterLabel": "提出時の賛成者（議案書の署名欄）",
+      "sourceTitle": "戸田市議会 議員提出議案第14号の提出原文"
     },
     {
       "place": "戸田市",
@@ -144106,9 +144347,9 @@ GIKAI.coverage2026 = {
       "title": "事業契約の一部変更について(伊奈町役場新庁舎整備事業)",
       "date": "2026-03-18",
       "result": "原案可決",
-      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-3kekka.pdf#page=4",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-3gi.pdf#page=147",
       "resultURL": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-3kekka.pdf#page=4",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式議案書の該当頁",
       "voteType": "記名",
       "voteURL": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-3kekka.pdf#page=4",
       "votes": {
@@ -144128,7 +144369,8 @@ GIKAI.coverage2026 = {
         "仲島雄大": "賛成",
         "冨井篤弥": "賛成",
         "川内雅人": "賛成"
-      }
+      },
+      "sourceTitle": "伊奈町議会 第30号議案の提出原文"
     },
     {
       "place": "伊奈町",
