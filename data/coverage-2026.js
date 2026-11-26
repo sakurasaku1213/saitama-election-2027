@@ -2762,12 +2762,12 @@ GIKAI.coverage2026 = {
           "note": "公式目次と照合した本会議の日別会議録8資料を収録。公式一覧の常任委員会8資料も収録。"
         },
         "decisions": {
-          "state": "partial",
-          "note": "議決結果 15件を収録。対象資料・頁は各議案に表示。議会だよりの賛否表から3件を追加（計18件）。"
+          "state": "verified",
+          "note": "公式議決結果の表の33件を議決日・結果で収録。計33件。"
         },
         "votes": {
           "state": "partial",
-          "note": "議会だより No.82 12頁の議員別の賛否を、照合役２組の独立読取の一致と原画像で確認し、採決のあった議決18件のうち9件に収録（全会一致等の注記のみ9件）。"
+          "note": "議会だより No.82 12頁の議員別の賛否を、照合役２組の独立読取の一致と原画像で確認し、採決のあった議決33件のうち9件に収録（全会一致等の注記のみ9件）。"
         },
         "policy": {
           "state": "partial",
@@ -2846,12 +2846,12 @@ GIKAI.coverage2026 = {
           "note": "公式目次と照合した本会議の日別会議録7資料を収録。公式一覧の常任委員会3資料も収録。"
         },
         "decisions": {
-          "state": "partial",
-          "note": "議決結果 6件を収録。対象資料・頁は各議案に表示。議会だよりの賛否表から5件を追加（計11件）。"
+          "state": "verified",
+          "note": "公式議決結果の表の16件を議決日・結果で収録。計16件。"
         },
         "votes": {
           "state": "partial",
-          "note": "議会だより No.83 ８頁の議員別の賛否を、照合役２組の独立読取の一致と原画像で確認し、採決のあった議決11件のうち9件に収録（全会一致等の注記のみ2件）。"
+          "note": "議会だより No.83 ８頁の議員別の賛否を、照合役２組の独立読取の一致と原画像で確認し、採決のあった議決16件のうち9件に収録（全会一致等の注記のみ2件）。"
         },
         "policy": {
           "state": "partial",
@@ -153670,12 +153670,12 @@ GIKAI.coverage2026 = {
         "松本幸子": "反対",
         "佐伯由恵": "反対",
         "及川和子": "反対",
-        "野中芳子": "趣旨採択に賛成",
+        "野中芳子": "趣旨採択",
         "宮代翔太": "賛成"
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_1_teireikai_shingikekaichiran_0310_1200.pdf",
-      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、〇賛成・●反対）。表中の「-」は欠席（議決日の本会議録の欠席議員欄と一致）。「趣旨」は請願の趣旨採択に賛成の立場（表の注記による）。"
+      "voteNote": "市公式の議員別審議結果（会派別・議席番号順、〇賛成・●反対）。表中の「-」は欠席（議決日の本会議録の欠席議員欄と一致）。「趣旨」は採択・不採択ではなく趣旨採択とすることに賛成の立場（表の注記による）。"
     },
     {
       "place": "加須市",
@@ -154220,7 +154220,7 @@ GIKAI.coverage2026 = {
         "及川和子": "反対",
         "野中芳子": "賛成",
         "宮代翔太": "反対",
-        "池田裕美子": "趣旨採択に賛成"
+        "池田裕美子": "趣旨採択"
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_2_teireikai_sinngikekkaitirann_0626_1700.pdf",
@@ -154304,7 +154304,7 @@ GIKAI.coverage2026 = {
         "及川和子": "反対",
         "野中芳子": "賛成",
         "宮代翔太": "賛成",
-        "池田裕美子": "趣旨採択に賛成"
+        "池田裕美子": "趣旨採択"
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.city.kazo.lg.jp/material/files/group/48/R8_kazo_2_teireikai_sinngikekkaitirann_0626_1700.pdf",
@@ -160419,11 +160419,10 @@ GIKAI.coverage2026 = {
       "title": "鴻巣市特定乳児等通園支援事業の運営に関する基準を定める条例",
       "number": "議案第19号",
       "result": "原案可決",
-      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
-      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
-      "resultLocator": "議会だより No.82 12頁の議員別の賛否表",
-      "sourceType": "議会だよりの審議結果",
-      "sourceTitle": "鴻巣市議会だより 議会だより No.82 12頁",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=1",
+      "resultLocator": "公式議決結果 議決第19号",
+      "sourceType": "公式議決結果の該当頁",
       "voteType": "個人別記名表決",
       "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
       "votes": {
@@ -160452,7 +160451,8 @@ GIKAI.coverage2026 = {
         "矢島洋文": "賛成",
         "羽鳥健": "賛成"
       },
-      "voteNote": "議会だより No.82 12頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。議決日は紙面に記載なし。"
+      "voteNote": "議会だより No.82 12頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。議決日は紙面に記載なし。",
+      "date": "2026-03-23"
     },
     {
       "place": "鴻巣市",
@@ -160461,11 +160461,10 @@ GIKAI.coverage2026 = {
       "title": "鴻巣市乳児等通園支援事業の設備及び運営に関する基準を定める条例の一部を改正する条例",
       "number": "議案第20号",
       "result": "原案可決",
-      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
-      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
-      "resultLocator": "議会だより No.82 12頁の議員別の賛否表",
-      "sourceType": "議会だよりの審議結果",
-      "sourceTitle": "鴻巣市議会だより 議会だより No.82 12頁",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=1",
+      "resultLocator": "公式議決結果 議決第20号",
+      "sourceType": "公式議決結果の該当頁",
       "voteType": "個人別記名表決",
       "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
       "votes": {
@@ -160494,7 +160493,8 @@ GIKAI.coverage2026 = {
         "矢島洋文": "賛成",
         "羽鳥健": "賛成"
       },
-      "voteNote": "議会だより No.82 12頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。議決日は紙面に記載なし。"
+      "voteNote": "議会だより No.82 12頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。議決日は紙面に記載なし。",
+      "date": "2026-03-23"
     },
     {
       "place": "鴻巣市",
@@ -160503,11 +160503,10 @@ GIKAI.coverage2026 = {
       "title": "非核三原則の堅持を求める意見書",
       "number": "議提第1号",
       "result": "原案可決",
-      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
-      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
-      "resultLocator": "議会だより No.82 12頁の議員別の賛否表",
-      "sourceType": "議会だよりの審議結果",
-      "sourceTitle": "鴻巣市議会だより 議会だより No.82 12頁",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=2",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=2",
+      "resultLocator": "公式議決結果 議決第42号",
+      "sourceType": "公式議決結果の該当頁",
       "voteType": "個人別記名表決",
       "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
       "votes": {
@@ -160536,7 +160535,8 @@ GIKAI.coverage2026 = {
         "矢島洋文": "賛成",
         "羽鳥健": "反対"
       },
-      "voteNote": "議会だより No.82 12頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。議決日は紙面に記載なし。"
+      "voteNote": "議会だより No.82 12頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。議決日は紙面に記載なし。",
+      "date": "2026-03-23"
     },
     {
       "place": "鴻巣市",
@@ -160545,11 +160545,10 @@ GIKAI.coverage2026 = {
       "title": "専決処分の承認を求めることについて（鴻巣市国民健康保険税条例の一部を改正する条例）",
       "number": "議案第43号",
       "result": "承認",
-      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27700.pdf",
-      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27700.pdf",
-      "resultLocator": "議会だより No.83 ８頁の議員別の賛否表",
-      "sourceType": "議会だよりの審議結果",
-      "sourceTitle": "鴻巣市議会だより 議会だより No.83 ８頁",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27116.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27116.pdf#page=1",
+      "resultLocator": "公式議決結果 議決第45号",
+      "sourceType": "公式議決結果の該当頁",
       "voteType": "個人別記名表決",
       "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27700.pdf",
       "votes": {
@@ -160578,7 +160577,8 @@ GIKAI.coverage2026 = {
         "矢島洋文": "賛成",
         "羽鳥健": "賛成"
       },
-      "voteNote": "議会だより No.83 ８頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。議決日は紙面に記載なし。"
+      "voteNote": "議会だより No.83 ８頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。議決日は紙面に記載なし。",
+      "date": "2026-05-29"
     },
     {
       "place": "鴻巣市",
@@ -160587,11 +160587,10 @@ GIKAI.coverage2026 = {
       "title": "鴻巣市印鑑条例及び鴻巣市手数料徴収条例の一部を改正する条例",
       "number": "議案第44号",
       "result": "原案可決",
-      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27700.pdf",
-      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27700.pdf",
-      "resultLocator": "議会だより No.83 ８頁の議員別の賛否表",
-      "sourceType": "議会だよりの審議結果",
-      "sourceTitle": "鴻巣市議会だより 議会だより No.83 ８頁",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27116.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27116.pdf#page=1",
+      "resultLocator": "公式議決結果 議決第46号",
+      "sourceType": "公式議決結果の該当頁",
       "voteType": "個人別記名表決",
       "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27700.pdf",
       "votes": {
@@ -160620,7 +160619,8 @@ GIKAI.coverage2026 = {
         "矢島洋文": "賛成",
         "羽鳥健": "賛成"
       },
-      "voteNote": "議会だより No.83 ８頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。議決日は紙面に記載なし。"
+      "voteNote": "議会だより No.83 ８頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。議決日は紙面に記載なし。",
+      "date": "2026-05-29"
     },
     {
       "place": "鴻巣市",
@@ -160629,11 +160629,10 @@ GIKAI.coverage2026 = {
       "title": "令和8年度鴻巣市介護保険特別会計補正予算（第1号）",
       "number": "議案第50号",
       "result": "原案可決",
-      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27700.pdf",
-      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27700.pdf",
-      "resultLocator": "議会だより No.83 ８頁の議員別の賛否表",
-      "sourceType": "議会だよりの審議結果",
-      "sourceTitle": "鴻巣市議会だより 議会だより No.83 ８頁",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27116.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27116.pdf#page=1",
+      "resultLocator": "公式議決結果 議決第53号",
+      "sourceType": "公式議決結果の該当頁",
       "voteType": "個人別記名表決",
       "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27700.pdf",
       "votes": {
@@ -160662,7 +160661,8 @@ GIKAI.coverage2026 = {
         "矢島洋文": "賛成",
         "羽鳥健": "賛成"
       },
-      "voteNote": "議会だより No.83 ８頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。議決日は紙面に記載なし。"
+      "voteNote": "議会だより No.83 ８頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。議決日は紙面に記載なし。",
+      "date": "2026-06-15"
     },
     {
       "place": "鴻巣市",
@@ -160671,11 +160671,10 @@ GIKAI.coverage2026 = {
       "title": "「夜勤規制と大幅増員で安全・安心の医療・介護の実現を求める」意見書を国に提出することに関する請願書",
       "number": "議請第1号",
       "result": "不採択",
-      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27700.pdf",
-      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27700.pdf",
-      "resultLocator": "議会だより No.83 ８頁の議員別の賛否表",
-      "sourceType": "議会だよりの審議結果",
-      "sourceTitle": "鴻巣市議会だより 議会だより No.83 ８頁",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27116.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27116.pdf#page=1",
+      "resultLocator": "公式議決結果 議決第54号",
+      "sourceType": "公式議決結果の該当頁",
       "voteType": "個人別記名表決",
       "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27700.pdf",
       "votes": {
@@ -160704,7 +160703,8 @@ GIKAI.coverage2026 = {
         "矢島洋文": "反対",
         "羽鳥健": "反対"
       },
-      "voteNote": "議会だより No.83 ８頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。議決日は紙面に記載なし。"
+      "voteNote": "議会だより No.83 ８頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。議決日は紙面に記載なし。",
+      "date": "2026-06-15"
     },
     {
       "place": "鴻巣市",
@@ -160713,11 +160713,10 @@ GIKAI.coverage2026 = {
       "title": "イラン戦争がもたらす物価高・資材不足から暮らしと営業を守るための緊急対策を求める意見書",
       "number": "議提第2号",
       "result": "否決",
-      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27700.pdf",
-      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27700.pdf",
-      "resultLocator": "議会だより No.83 ８頁の議員別の賛否表",
-      "sourceType": "議会だよりの審議結果",
-      "sourceTitle": "鴻巣市議会だより 議会だより No.83 ８頁",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27116.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27116.pdf#page=1",
+      "resultLocator": "公式議決結果 議決第58号",
+      "sourceType": "公式議決結果の該当頁",
       "voteType": "個人別記名表決",
       "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27700.pdf",
       "votes": {
@@ -160746,7 +160745,286 @@ GIKAI.coverage2026 = {
         "矢島洋文": "反対",
         "羽鳥健": "反対"
       },
-      "voteNote": "議会だより No.83 ８頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。議決日は紙面に記載なし。"
+      "voteNote": "議会だより No.83 ８頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。議決日は紙面に記載なし。",
+      "date": "2026-06-15"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "date": "2026-03-02",
+      "title": "鴻巣市教育委員会委員の任命について",
+      "number": "議案第10号",
+      "result": "同意",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=1",
+      "sourceType": "公式議決結果の該当頁",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
+      "voteNote": "議会だより No.82 12頁：紙面の「次の議案は全会一致で同意・可決されました」欄に掲載（議員別の記号なし）。"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "date": "2026-03-02",
+      "title": "人権擁護委員の推薦について",
+      "number": "議案第11号",
+      "result": "同意",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=1",
+      "sourceType": "公式議決結果の該当頁",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
+      "voteNote": "議会だより No.82 12頁：紙面の「次の議案は全会一致で同意・可決されました」欄に掲載（議員別の記号なし）。"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "date": "2026-03-02",
+      "title": "人権擁護委員の推薦について",
+      "number": "議案第12号",
+      "result": "同意",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=1",
+      "sourceType": "公式議決結果の該当頁",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
+      "voteNote": "議会だより No.82 12頁：紙面の「次の議案は全会一致で同意・可決されました」欄に掲載（議員別の記号なし）。"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "date": "2026-03-02",
+      "title": "人権擁護委員の推薦について",
+      "number": "議案第13号",
+      "result": "同意",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=1",
+      "sourceType": "公式議決結果の該当頁",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
+      "voteNote": "議会だより No.82 12頁：紙面の「次の議案は全会一致で同意・可決されました」欄に掲載（議員別の記号なし）。"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "date": "2026-03-02",
+      "title": "専決処分の承認を求めることについて",
+      "number": "議案第14号",
+      "result": "承認",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=1",
+      "sourceType": "公式議決結果の該当頁",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
+      "voteNote": "議会だより No.82 12頁：紙面の「次の議案は全会一致で同意・可決されました」欄に掲載（議員別の記号なし）。"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "date": "2026-03-23",
+      "title": "鴻巣市新型コロナウイルス感染症対策基金条例を廃止する条例",
+      "number": "議案第16号",
+      "result": "原案可決",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=1",
+      "sourceType": "公式議決結果の該当頁",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
+      "voteNote": "議会だより No.82 12頁：紙面の「次の議案は全会一致で同意・可決されました」欄に掲載（議員別の記号なし）。"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "date": "2026-03-23",
+      "title": "鴻巣市職員の給与に関する条例等の一部を改正する条例",
+      "number": "議案第18号",
+      "result": "原案可決",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=1",
+      "sourceType": "公式議決結果の該当頁",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
+      "voteNote": "議会だより No.82 12頁：紙面の「次の議案は全会一致で同意・可決されました」欄に掲載（議員別の記号なし）。"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "date": "2026-03-23",
+      "title": "鴻巣市水道事業の設置等に関する条例等の一部を改正する条例",
+      "number": "議案第22号",
+      "result": "原案可決",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=1",
+      "sourceType": "公式議決結果の該当頁",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
+      "voteNote": "議会だより No.82 12頁：紙面の「次の議案は全会一致で同意・可決されました」欄に掲載（議員別の記号なし）。"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "date": "2026-03-23",
+      "title": "令和7年度鴻巣市介護保険特別会計補正予算(第3号)",
+      "number": "議案第25号",
+      "result": "原案可決",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=1",
+      "sourceType": "公式議決結果の該当頁",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
+      "voteNote": "議会だより No.82 12頁：紙面の「次の議案は全会一致で同意・可決されました」欄に掲載（議員別の記号なし）。"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "date": "2026-03-23",
+      "title": "令和7年度鴻巣都市計画事業北新宿第二土地区画整理事業特別会計補正予算(第2号)",
+      "number": "議案第26号",
+      "result": "原案可決",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=1",
+      "sourceType": "公式議決結果の該当頁",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
+      "voteNote": "議会だより No.82 12頁：紙面の「次の議案は全会一致で同意・可決されました」欄に掲載（議員別の記号なし）。"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "date": "2026-03-23",
+      "title": "令和7年度鴻巣市後期高齢者医療特別会計補正予算(第4号)",
+      "number": "議案第27号",
+      "result": "原案可決",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=1",
+      "sourceType": "公式議決結果の該当頁",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
+      "voteNote": "議会だより No.82 12頁：紙面の「次の議案は全会一致で同意・可決されました」欄に掲載（議員別の記号なし）。"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "date": "2026-03-23",
+      "title": "令和7年度鴻巣市公共下水道事業会計補正予算(第5号)",
+      "number": "議案第29号",
+      "result": "原案可決",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=1",
+      "sourceType": "公式議決結果の該当頁",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
+      "voteNote": "議会だより No.82 12頁：紙面の「次の議案は全会一致で同意・可決されました」欄に掲載（議員別の記号なし）。"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "date": "2026-03-23",
+      "title": "令和8年度鴻巣都市計画事業北新宿第二土地区画整理事業特別会計予算",
+      "number": "議案第33号",
+      "result": "原案可決",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=2",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=2",
+      "sourceType": "公式議決結果の該当頁",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
+      "voteNote": "議会だより No.82 12頁：紙面の「次の議案は全会一致で同意・可決されました」欄に掲載（議員別の記号なし）。"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "date": "2026-03-23",
+      "title": "令和8年度鴻巣都市計画事業広田中央特定土地区画整理事業特別会計予算",
+      "number": "議案第34号",
+      "result": "原案可決",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=2",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=2",
+      "sourceType": "公式議決結果の該当頁",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
+      "voteNote": "議会だより No.82 12頁：紙面の「次の議案は全会一致で同意・可決されました」欄に掲載（議員別の記号なし）。"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "date": "2026-03-23",
+      "title": "市長の専決処分事項の指定についての一部改正について",
+      "number": "委員会第1号",
+      "result": "原案可決",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=2",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/25906.pdf#page=2",
+      "sourceType": "公式議決結果の該当頁"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "date": "2026-05-29",
+      "title": "専決処分の承認を求めることについて",
+      "number": "議案第41号",
+      "result": "承認",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27116.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27116.pdf#page=1",
+      "sourceType": "公式議決結果の該当頁",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27700.pdf",
+      "voteNote": "議会だより No.83 ８頁：紙面の「次の議案は全会一致で承認・可決・同意されました」欄に掲載（議員別の記号なし）。"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "date": "2026-05-29",
+      "title": "専決処分の承認を求めることについて",
+      "number": "議案第42号",
+      "result": "承認",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27116.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27116.pdf#page=1",
+      "sourceType": "公式議決結果の該当頁",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27700.pdf",
+      "voteNote": "議会だより No.83 ８頁：紙面の「次の議案は全会一致で承認・可決・同意されました」欄に掲載（議員別の記号なし）。"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "date": "2026-05-29",
+      "title": "鴻巣市監査委員の選任について",
+      "number": "議案第51号",
+      "result": "同意",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27116.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27116.pdf#page=1",
+      "sourceType": "公式議決結果の該当頁",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27700.pdf",
+      "voteNote": "議会だより No.83 ８頁：紙面の「次の議案は全会一致で承認・可決・同意されました」欄に掲載（議員別の記号なし）。"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "date": "2026-06-15",
+      "title": "鴻巣市立小・中学校適正配置等審議会条例の一部を改正する条例",
+      "number": "議案第47号",
+      "result": "原案可決",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27116.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27116.pdf#page=1",
+      "sourceType": "公式議決結果の該当頁",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27700.pdf",
+      "voteNote": "議会だより No.83 ８頁：紙面の「次の議案は全会一致で承認・可決・同意されました」欄に掲載（議員別の記号なし）。"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "date": "2026-06-15",
+      "title": "鴻巣市職員の勤務時間、休日及び休暇に関する条例の一部を改正する条例",
+      "number": "議案第53号",
+      "result": "原案可決",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27116.pdf#page=1",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27116.pdf#page=1",
+      "sourceType": "公式議決結果の該当頁",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27700.pdf",
+      "voteNote": "議会だより No.83 ８頁：紙面の「次の議案は全会一致で承認・可決・同意されました」欄に掲載（議員別の記号なし）。"
     }
   ],
   "policy": [
