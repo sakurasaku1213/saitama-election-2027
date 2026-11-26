@@ -3706,8 +3706,8 @@ GIKAI.coverage2026 = {
           "note": "この時期の掲載項目 61件。通告・目次・本文の別は活動の出典に表示。"
         },
         "text": {
-          "state": "partial",
-          "note": "議会だよりの一般質問22人27問答、常任委員会と予算決算分科会の25問答を収録。一般質問４日・22人の公式録画と照合。正式会議録は確認中。 公式録画の機械文字起こし一般質問3本・議案質疑・審議3本を収録。"
+          "state": "verified",
+          "note": "公式会議録（会議録検索）の本会議７日分と委員会15日分を収録。議会だよりの一般質問22人27問答、常任委員会と予算決算分科会の25問答を収録。一般質問４日・22人の公式録画と照合。 公式録画の機械文字起こし一般質問3本・議案質疑・審議3本を収録。"
         },
         "decisions": {
           "state": "verified",
@@ -3782,6 +3782,10 @@ GIKAI.coverage2026 = {
         {
           "label": "越谷市議会 9月定例会 議案付託表",
           "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/futaku/gianfutaku809.html"
+        },
+        {
+          "label": "令和８年９月定例会の公式会議録（会議録検索）",
+          "url": "https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteBrowse.html?tenant_id=503&view_years=2026"
         }
       ]
     },

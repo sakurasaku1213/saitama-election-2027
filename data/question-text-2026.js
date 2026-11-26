@@ -75615,6 +75615,426 @@ GIKAI.questionText = {
       "url": "https://www.city.niiza.lg.jp/uploaded/attachment/70050.pdf",
       "note": "年月は会期。市町村が令和8年3月定例会の首長提出議案として公式サイトに掲載したPDF。原PDFの文字層・OCRを頁順に収録。 照合候補のうち2頁は、AI（画像を読むモデル）がOCRの文を原画像と照合し、誤読4箇所を直した。 原PDFの白紙を確認した頁はその旨を表示。 本文の簡体字は日本語の字形に直した。",
       "speakers": []
+    },
+    {
+      "id": "a3a1737a452cd46b5523",
+      "place": "越谷市",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "09月01日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=739&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "和泉田宏幸",
+        "土屋来夢",
+        "小林成好",
+        "小林豊代子",
+        "山田大助",
+        "島田玲子",
+        "後藤孝江",
+        "立澤貴明",
+        "竹内栄治"
+      ]
+    },
+    {
+      "id": "286a30c0644cf8841ae9",
+      "place": "越谷市",
+      "season": "fall",
+      "date": "2026-09-07",
+      "title": "09月07日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=739&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "大和田哲",
+        "大田ちひろ",
+        "大野恭子",
+        "小口高寛",
+        "小林成好",
+        "武藤智",
+        "浅古高志",
+        "竹内栄治"
+      ]
+    },
+    {
+      "id": "8ccb9efd7b4f31a172c2",
+      "place": "越谷市",
+      "season": "fall",
+      "date": "2026-09-08",
+      "title": "09月08日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=739&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "久保田茂",
+        "山田大助",
+        "斎藤豪人",
+        "横井聖美",
+        "浅古高志",
+        "竹内栄治",
+        "菊地貴光",
+        "藤部徳治"
+      ]
+    },
+    {
+      "id": "f24038f24d59edc3733e",
+      "place": "越谷市",
+      "season": "fall",
+      "date": "2026-09-09",
+      "title": "09月09日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=739&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "和泉田宏幸",
+        "土屋来夢",
+        "島田玲子",
+        "浅古高志",
+        "清水泉",
+        "清田巳喜男",
+        "竹内栄治"
+      ]
+    },
+    {
+      "id": "2f26a5c1e698c4f3d99b",
+      "place": "越谷市",
+      "season": "fall",
+      "date": "2026-09-10",
+      "title": "09月10日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=739&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "工藤秀次",
+        "松島孝夫",
+        "浅古高志",
+        "立澤貴明",
+        "竹内栄治",
+        "野口高明",
+        "金井直樹"
+      ]
+    },
+    {
+      "id": "292f646f85e96b256833",
+      "place": "越谷市",
+      "season": "fall",
+      "date": "2026-09-11",
+      "title": "09月11日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=739&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "工藤秀次",
+        "武藤智",
+        "白川秀嗣",
+        "立澤貴明",
+        "竹内栄治"
+      ]
+    },
+    {
+      "id": "f6850aae60ebd73304eb",
+      "place": "越谷市",
+      "season": "fall",
+      "date": "2026-09-28",
+      "title": "09月28日－07号",
+      "url": "https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=739&schedule_id=8",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "伊藤治",
+        "大田ちひろ",
+        "小林成好",
+        "小林豊代子",
+        "山田大助",
+        "島田玲子",
+        "工藤秀次",
+        "後藤孝江",
+        "浅古高志",
+        "竹内栄治"
+      ]
+    },
+    {
+      "id": "9d8cb94f1475d0acc766",
+      "place": "越谷市",
+      "season": "fall",
+      "date": "2026-09-14",
+      "title": "越谷市 令和 ８年 総務常任委員会 09月14日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=710&schedule_id=6",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "大和田哲",
+        "後藤孝江",
+        "立澤貴明",
+        "菊地貴光",
+        "野口佳司"
+      ]
+    },
+    {
+      "id": "6bcbe06cc60b5f479216",
+      "place": "越谷市",
+      "season": "fall",
+      "date": "2026-09-16",
+      "title": "越谷市 令和 ８年 民生常任委員会 09月16日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=708&schedule_id=6",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "大野恭子",
+        "小林豊代子",
+        "工藤秀次",
+        "武藤智",
+        "金井直樹"
+      ]
+    },
+    {
+      "id": "e1083fd738dc468b2e18",
+      "place": "越谷市",
+      "season": "fall",
+      "date": "2026-09-16",
+      "title": "越谷市 令和 ８年 環境経済・建設常任委員会 09月16日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=709&schedule_id=6",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "小林成好",
+        "山田大助",
+        "白川秀嗣",
+        "藤部徳治"
+      ]
+    },
+    {
+      "id": "9ca6dadcc5d1f1a74cc8",
+      "place": "越谷市",
+      "season": "fall",
+      "date": "2026-09-14",
+      "title": "越谷市 令和 ８年 こども・教育常任委員会 09月14日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=724&schedule_id=4",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "久保田茂",
+        "島田玲子",
+        "斎藤豪人",
+        "横井聖美",
+        "清水泉"
+      ]
+    },
+    {
+      "id": "7090c81ad79f187dcb7a",
+      "place": "越谷市",
+      "season": "fall",
+      "date": "2026-09-11",
+      "title": "越谷市 令和 ８年 予算決算常任委員会 09月11日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=736&schedule_id=8",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "浅古高志"
+      ]
+    },
+    {
+      "id": "a86df86d91851d7a4bc7",
+      "place": "越谷市",
+      "season": "fall",
+      "date": "2026-09-28",
+      "title": "越谷市 令和 ８年 予算決算常任委員会 09月28日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=736&schedule_id=9",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "大和田哲",
+        "小林豊代子",
+        "山田大助",
+        "島田玲子",
+        "後藤孝江",
+        "浅古高志"
+      ]
+    },
+    {
+      "id": "26e665c43a093ecfdc12",
+      "place": "越谷市",
+      "season": "fall",
+      "date": "2026-09-16",
+      "title": "越谷市 令和 ８年 予算決算常任委員会民生分科会 09月16日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=737&schedule_id=4",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "和泉田宏幸",
+        "大田ちひろ",
+        "大野恭子",
+        "小林豊代子",
+        "工藤秀次"
+      ]
+    },
+    {
+      "id": "5a56491cde3d2658a9f6",
+      "place": "越谷市",
+      "season": "fall",
+      "date": "2026-09-17",
+      "title": "越谷市 令和 ８年 予算決算常任委員会民生分科会 09月17日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=737&schedule_id=5",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "和泉田宏幸",
+        "大田ちひろ",
+        "大野恭子",
+        "小林豊代子",
+        "工藤秀次",
+        "武藤智",
+        "金井直樹"
+      ]
+    },
+    {
+      "id": "67188f7069bb8ce7759e",
+      "place": "越谷市",
+      "season": "fall",
+      "date": "2026-09-14",
+      "title": "越谷市 令和 ８年 予算決算常任委員会総務分科会 09月14日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=738&schedule_id=4",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "後藤孝江",
+        "浅古高志",
+        "立澤貴明",
+        "菊地貴光",
+        "野口佳司"
+      ]
+    },
+    {
+      "id": "8ce5ff3a5b92882b8d4a",
+      "place": "越谷市",
+      "season": "fall",
+      "date": "2026-09-15",
+      "title": "越谷市 令和 ８年 予算決算常任委員会総務分科会 09月15日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=738&schedule_id=5",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "大和田哲",
+        "後藤孝江",
+        "松島孝夫",
+        "浅古高志",
+        "畑谷茂",
+        "立澤貴明",
+        "菊地貴光",
+        "野口佳司"
+      ]
+    },
+    {
+      "id": "fb1886d01a2b50c83a1f",
+      "place": "越谷市",
+      "season": "fall",
+      "date": "2026-09-14",
+      "title": "越谷市 令和 ８年 予算決算常任委員会こども・教育分科会 09月14日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=725&schedule_id=2",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "久保田茂",
+        "土屋来夢",
+        "島田玲子",
+        "斎藤豪人",
+        "横井聖美",
+        "清水泉"
+      ]
+    },
+    {
+      "id": "f5ad800a4944fb3cf976",
+      "place": "越谷市",
+      "season": "fall",
+      "date": "2026-09-15",
+      "title": "越谷市 令和 ８年 予算決算常任委員会こども・教育分科会 09月15日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=725&schedule_id=3",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "久保田茂",
+        "伊藤治",
+        "土屋来夢",
+        "島田玲子",
+        "斎藤豪人",
+        "横井聖美",
+        "清水泉"
+      ]
+    },
+    {
+      "id": "752c858aadffb47c3e66",
+      "place": "越谷市",
+      "season": "fall",
+      "date": "2026-09-16",
+      "title": "越谷市 令和 ８年 予算決算常任委員会環境経済・建設分科会 09月16日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=706&schedule_id=3",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "小口高寛",
+        "小林成好",
+        "山田大助",
+        "清田巳喜男",
+        "瀬賀恭子",
+        "白川秀嗣",
+        "藤部徳治",
+        "野口高明"
+      ]
+    },
+    {
+      "id": "e8ddb50f0cd77e4961d1",
+      "place": "越谷市",
+      "season": "fall",
+      "date": "2026-09-17",
+      "title": "越谷市 令和 ８年 予算決算常任委員会環境経済・建設分科会 09月17日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=706&schedule_id=4",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "小口高寛",
+        "小林成好",
+        "山田大助",
+        "清田巳喜男",
+        "白川秀嗣",
+        "藤部徳治",
+        "野口高明"
+      ]
+    },
+    {
+      "id": "df25ca97aaa9e5fb046a",
+      "place": "越谷市",
+      "season": "fall",
+      "date": "2026-09-11",
+      "title": "越谷市 令和 ８年 予算決算常任委員会理事会 09月11日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=705&schedule_id=6",
+      "kind": "公式会議録（予算・決算委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "浅古高志"
+      ]
     }
   ],
   "coverage": [
@@ -76150,9 +76570,9 @@ GIKAI.questionText = {
       "place": "越谷市",
       "season": "fall",
       "material": {
-        "state": "partial",
-        "indexURL": "https://www.city.koshigaya.saitama.jp/gikai/dayori/2026/234-6-7.html",
-        "note": "議会だよりの一般質問22人27問答、常任委員会と予算決算分科会の25問答を収録。一般質問４日・22人の公式録画と照合。正式会議録は確認中。 公式録画の機械文字起こし一般質問3本・議案質疑・審議3本を収録。"
+        "state": "verified",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteBrowse.html?tenant_id=503&view_years=2026",
+        "note": "公式目次と照合した本会議の日別会議録7資料を収録。公式一覧の委員会15資料も収録。議会だよりの一般質問22人27問答、常任委員会と予算決算分科会の25問答を収録。一般質問４日・22人の公式録画と照合。 公式録画の機械文字起こし一般質問3本・議案質疑・審議3本を収録。"
       }
     },
     {
