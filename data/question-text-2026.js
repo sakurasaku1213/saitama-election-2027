@@ -57329,6 +57329,252 @@ GIKAI.questionText = {
       "url": "https://www.pref.saitama.lg.jp/documents/279271/r802jyoureiann.pdf",
       "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。 照合候補頁５・20・23・24・26・32・45頁を原画像と照合。20・32頁は誤字を訂正（屋内総合プール、鶴ケ島市など）。５・23・24・26・45頁は表の欄と数値の対応や改正文の括弧の区切りがOCRで崩れていたため本文を収録せず、該当頁に原PDFを参照する旨を記した。縦書きの頁は句読点がOCRで欠けている。",
       "speakers": []
+    },
+    {
+      "id": "62d7c4f59a0df8ea5339",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02",
+      "title": "埼玉県 令和8年度当初予算案",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/279271/r802yosan_r8tousyo.pdf",
+      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。 照合候補46頁（２・12・14～18・36・37・40～49・51・52・54・58・61・62・65・68・70・72・73・75・77・81・83・84・86・87・89・91・97・101～103・108・112・113頁）を原画像と照合し、数値と行の対応は全て一致。簡体字・異体字（费・產・查など）は全頁で日本語の字形に直した。款・項の名称の一部の欠け（例：14頁「３ 民」は「３ 民生費」）、知事名の欠け、地方債の表で文の列が交互に並ぶ箇所はOCRのまま。数値は原PDFでも確認できます。",
+      "speakers": []
+    },
+    {
+      "id": "19e82796b9f5efad0f3b",
+      "place": "春日部市",
+      "season": "fall",
+      "date": "2026-08-20",
+      "title": "2026-08-20 本会議録",
+      "url": "https://www.kasukabe-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82X%8C%8E%92%E8%97%E1%89%EF%81%7C08%8C%8E20%93%FA-01%8D%86&KGNO=1440&FINO=2338&UNID=K_R08082000011",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "小久保博史",
+        "水沼日出夫"
+      ]
+    },
+    {
+      "id": "e66e551f2b7a7de78089",
+      "place": "春日部市",
+      "season": "fall",
+      "date": "2026-08-27",
+      "title": "2026-08-27 本会議録",
+      "url": "https://www.kasukabe-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82X%8C%8E%92%E8%97%E1%89%EF%81%7C08%8C%8E27%93%FA-02%8D%86&KGNO=1440&FINO=2339&UNID=K_R08082700021",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中村貴彰",
+        "卯月武彦",
+        "宗像英男",
+        "富田豊",
+        "小久保博史",
+        "島田美智子",
+        "木村圭一",
+        "松本浩一",
+        "榛野博",
+        "永田飛鳳",
+        "藤原智子"
+      ]
+    },
+    {
+      "id": "97beb7ba3f615bd830b0",
+      "place": "春日部市",
+      "season": "fall",
+      "date": "2026-08-28",
+      "title": "2026-08-28 本会議録",
+      "url": "https://www.kasukabe-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82X%8C%8E%92%E8%97%E1%89%EF%81%7C08%8C%8E28%93%FA-03%8D%86&KGNO=1440&FINO=2341&UNID=K_R08082800031",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "古沢耕作",
+        "大野とし子",
+        "小久保博史",
+        "永田飛鳳",
+        "落合桜花",
+        "角田妙子"
+      ]
+    },
+    {
+      "id": "1922438f82e336293c74",
+      "place": "春日部市",
+      "season": "fall",
+      "date": "2026-08-31",
+      "title": "2026-08-31 本会議録",
+      "url": "https://www.kasukabe-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82X%8C%8E%92%E8%97%E1%89%EF%81%7C08%8C%8E31%93%FA-04%8D%86&KGNO=1440&FINO=2343&UNID=K_R08083100041",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "伊藤一洋",
+        "卯月武彦",
+        "大里昇",
+        "大野とし子",
+        "奥沢裕介",
+        "富田豊",
+        "木村圭一",
+        "松本浩一",
+        "桑原弘樹",
+        "永田飛鳳",
+        "角田妙子",
+        "遠藤彩生",
+        "阿部雅一"
+      ]
+    },
+    {
+      "id": "d332ae27e8ce3447b897",
+      "place": "春日部市",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "2026-09-01 本会議録",
+      "url": "https://www.kasukabe-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82X%8C%8E%92%E8%97%E1%89%EF%81%7C09%8C%8E01%93%FA-05%8D%86&KGNO=1440&FINO=2345&UNID=K_R08090100051",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中村貴彰",
+        "北谷大地",
+        "卯月武彦",
+        "吉田稔",
+        "大野とし子",
+        "小久保博史",
+        "山崎進",
+        "木村圭一",
+        "松本浩一",
+        "榛野博",
+        "永田飛鳳",
+        "藤原智子",
+        "鈴木一利"
+      ]
+    },
+    {
+      "id": "2a58f3dc312626d4d567",
+      "place": "春日部市",
+      "season": "fall",
+      "date": "2026-09-08",
+      "title": "2026-09-08 本会議録",
+      "url": "https://www.kasukabe-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82X%8C%8E%92%E8%97%E1%89%EF%81%7C09%8C%8E08%93%FA-06%8D%86&KGNO=1440&FINO=2357&UNID=K_R08090800061",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中村貴彰",
+        "宗像英男",
+        "小久保博史",
+        "山崎進",
+        "島田美智子",
+        "松本浩一",
+        "藤原智子"
+      ]
+    },
+    {
+      "id": "610ab2c3ad3ac6357079",
+      "place": "春日部市",
+      "season": "fall",
+      "date": "2026-09-09",
+      "title": "2026-09-09 本会議録",
+      "url": "https://www.kasukabe-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82X%8C%8E%92%E8%97%E1%89%EF%81%7C09%8C%8E09%93%FA-07%8D%86&KGNO=1440&FINO=2358&UNID=K_R08090900071",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "伊藤一洋",
+        "吉田稔",
+        "奥沢裕介",
+        "富田豊",
+        "小久保博史",
+        "永田飛鳳",
+        "鬼丸裕史"
+      ]
+    },
+    {
+      "id": "d3727fe374221a7f6478",
+      "place": "春日部市",
+      "season": "fall",
+      "date": "2026-09-11",
+      "title": "2026-09-11 本会議録",
+      "url": "https://www.kasukabe-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82X%8C%8E%92%E8%97%E1%89%EF%81%7C09%8C%8E11%93%FA-08%8D%86&KGNO=1440&FINO=2361&UNID=K_R08091100081",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "北谷大地",
+        "卯月武彦",
+        "大里昇",
+        "木村圭一",
+        "榛野博",
+        "水書祐美子",
+        "落合桜花"
+      ]
+    },
+    {
+      "id": "f422e16db169d458bff9",
+      "place": "春日部市",
+      "season": "fall",
+      "date": "2026-09-15",
+      "title": "2026-09-15 本会議録",
+      "url": "https://www.kasukabe-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82X%8C%8E%92%E8%97%E1%89%EF%81%7C09%8C%8E15%93%FA-09%8D%86&KGNO=1440&FINO=2362&UNID=K_R08091500091",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "大野とし子",
+        "小久保博史",
+        "平沢一博",
+        "桑原弘樹",
+        "水沼日出夫",
+        "遠藤彩生"
+      ]
+    },
+    {
+      "id": "73353b8b43ce80f3a98d",
+      "place": "春日部市",
+      "season": "fall",
+      "date": "2026-09-16",
+      "title": "2026-09-16 本会議録",
+      "url": "https://www.kasukabe-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82X%8C%8E%92%E8%97%E1%89%EF%81%7C09%8C%8E16%93%FA-10%8D%86&KGNO=1440&FINO=2364&UNID=K_R08091600101",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "古沢耕作",
+        "小久保博史",
+        "木村圭一",
+        "角田妙子",
+        "鈴木一利",
+        "阿部雅一"
+      ]
+    },
+    {
+      "id": "ea1f5c27e987e7b1c6ae",
+      "place": "春日部市",
+      "season": "fall",
+      "date": "2026-09-18",
+      "title": "2026-09-18 本会議録",
+      "url": "https://www.kasukabe-shigikai.jp/voices/cgi/voiweb.exe?ACT=200&KENSAKU=0&SORT=0&KTYP=0,1,2,3&KGTP=1&FYY=2026&TYY=2026&TITL_SUBT=%97%DF%98a%81@%82W%94N%81@%82X%8C%8E%92%E8%97%E1%89%EF%81%7C09%8C%8E18%93%FA-11%8D%86&KGNO=1440&FINO=2366&UNID=K_R08091800111",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "北谷大地",
+        "卯月武彦",
+        "吉田稔",
+        "大野とし子",
+        "小久保博史",
+        "山崎進",
+        "平沢一博",
+        "松本浩一",
+        "水沼日出夫",
+        "永田飛鳳",
+        "藤原智子",
+        "角田妙子",
+        "阿部雅一"
+      ]
     }
   ],
   "coverage": [
@@ -57675,9 +57921,9 @@ GIKAI.questionText = {
       "place": "春日部市",
       "season": "fall",
       "material": {
-        "state": "partial",
-        "indexURL": "https://kasukabe-city.stream.jfit.co.jp/?gikai_id=163&tpl=gikai_days_list",
-        "note": "第85号の一般質問28人の主要問答とその他29見出し、紙面３・４頁の会派等の討論５欄を原紙面と照合。一般質問は９月８・９・11・15・16日。氏名と発言日は公式録画目録と照合した。 正式会議録は確認中。 公式録画の機械文字起こし一般質問3本を収録。"
+        "state": "verified",
+        "indexURL": "https://www.kasukabe-shigikai.jp/voices/g08v_viewh.asp?Sflg=11&FYY=2026&TYY=2026",
+        "note": "公式年別一覧にある本会議録11資料を日付別に照合（11月26日掲載を確認）。 第85号の一般質問28人の主要問答とその他29見出し、紙面３・４頁の会派等の討論５欄を原紙面と照合。一般質問は９月８・９・11・15・16日。氏名と発言日は公式録画目録と照合した。 公式録画の機械文字起こし一般質問3本を収録。"
       }
     },
     {

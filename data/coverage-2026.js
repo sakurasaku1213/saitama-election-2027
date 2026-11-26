@@ -2311,7 +2311,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "partial",
-          "note": "第85号の一般質問28人の主要問答とその他29見出し、紙面３・４頁の会派等の討論５欄を原紙面と照合。一般質問は９月８・９・11・15・16日。氏名と発言日は公式録画目録と照合した。 正式会議録は確認中。 公式録画の機械文字起こし一般質問3本を収録。"
+          "note": "第85号の一般質問28人の主要問答とその他29見出し、紙面３・４頁の会派等の討論５欄を原紙面と照合。一般質問は９月８・９・11・15・16日。氏名と発言日は公式録画目録と照合した。 正式会議録11日分（８月20日～９月18日）を収録。 公式録画の機械文字起こし一般質問3本を収録。"
         },
         "decisions": {
           "state": "verified",
@@ -2346,6 +2346,10 @@ GIKAI.coverage2026 = {
         {
           "label": "40件の公式採決状況",
           "url": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg111_kekka.pdf"
+        },
+        {
+          "label": "春日部市議会 会議録（令和8年9月定例会）",
+          "url": "https://www.kasukabe-shigikai.jp/voices/g08v_viewh.asp?Sflg=11&FYY=2026&TYY=2026"
         }
       ]
     },
