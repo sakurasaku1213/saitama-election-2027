@@ -60015,6 +60015,42 @@ GIKAI.questionText = {
       "url": "https://www.city.wako.lg.jp/_res/projects/default_project/_page_/001/014/017/g64.pdf",
       "note": "年月は会期。市が「令和8年9月定例会市長提出議案」として公表した議案。原PDFの文字層・OCRを頁順に収録。 本文の簡体字は日本語の字形に直した。",
       "speakers": []
+    },
+    {
+      "id": "a156ba97a44e3d324302",
+      "place": "和光市",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "和光市 令和8年3月定例会提出議案の概要",
+      "kind": "議案審査の参考資料（公式PDF・AI画像書き起こし・２系統照合）",
+      "scope": "supporting",
+      "url": "https://www.city.wako.lg.jp/_res/projects/default_project/_page_/001/013/111/0508.pdf",
+      "note": "年月は対応する定例会。市議会が議会運営委員会資料として公表した提出議案の概要（スキャン）。AIが原PDFの画像から独立に２系統で書き起こして突き合わせ、OCR出力とも数字を照らした（OCRと割れた数字は表の差引額で確かめた）。読みが割れた字は推測せず〓と候補で示した（2字）。住所は市が伏せている。紙面の数字どうしの不整合や誤植は紙面のまま。",
+      "speakers": []
+    },
+    {
+      "id": "2a328872055659650750",
+      "place": "和光市",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "和光市 令和8年6月定例会提出議案の概要",
+      "kind": "議案審査の参考資料（公式PDF・AI画像書き起こし・２系統照合）",
+      "scope": "supporting",
+      "url": "https://www.city.wako.lg.jp/_res/projects/default_project/_page_/001/013/111/0731.6.pdf",
+      "note": "年月は対応する定例会。市議会が議会運営委員会資料として公表した提出議案の概要（スキャン）。AIが原PDFの画像から独立に２系統で書き起こして突き合わせ、OCR出力とも数字を照らした（OCRと割れた数字は表の差引額で確かめた）。読みが割れた字は推測せず〓と候補で示した（2字）。住所は市が伏せている。紙面の数字どうしの不整合や誤植は紙面のまま。",
+      "speakers": []
+    },
+    {
+      "id": "75665f8eadcb3b2242ab",
+      "place": "和光市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "和光市 令和8年9月定例会提出議案の概要",
+      "kind": "議案審査の参考資料（公式PDF・AI画像書き起こし・２系統照合）",
+      "scope": "supporting",
+      "url": "https://www.city.wako.lg.jp/_res/projects/default_project/_page_/001/013/111/1023.6.pdf",
+      "note": "年月は対応する定例会。市議会が議会運営委員会資料として公表した提出議案の概要（スキャン）。AIが原PDFの画像から独立に２系統で書き起こして突き合わせ、OCR出力とも数字を照らした（OCRと割れた数字は表の差引額で確かめた）。住所は市が伏せている。紙面の数字どうしの不整合や誤植は紙面のまま。",
+      "speakers": []
     }
   ],
   "coverage": [
