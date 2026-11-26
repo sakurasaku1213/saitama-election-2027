@@ -57793,6 +57793,20 @@ GIKAI.questionText = {
       "speakers": [
         "野中一城"
       ]
+    },
+    {
+      "id": "3320f789a71a82ecf31b",
+      "place": "羽生市",
+      "season": "fall",
+      "date": "2026-09-17",
+      "title": "田口さとる議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/hanyu/WebView/rd/speech.html?council_id=55&schedule_id=4&playlist_id=3&speaker_id=24&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。 録画の末尾を切り出して再処理しました。 末尾の再処理で、本文の末尾より後に追加する機械認識の文言は生じませんでした。",
+      "speakers": [
+        "田口さとる"
+      ]
     }
   ],
   "coverage": [
@@ -58194,7 +58208,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "第256号の一般質問12人・39問答、議案質疑10問答、その他の見出しと補足17件を収録。公式通告８頁、一般質問12本と議案質疑14本の公式録画を照合。正式会議録は確認中。 公式録画の機械文字起こし一般質問9本・議案質疑14本を収録。",
+        "note": "第256号の一般質問12人・39問答、議案質疑10問答、その他の見出しと補足17件を収録。公式通告８頁、一般質問12本と議案質疑14本の公式録画を照合。正式会議録は確認中。 公式録画の機械文字起こし一般質問10本・議案質疑14本を収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/hanyu/SpMinuteBrowse.html?tenant_id=159&view_years=2026"
       }
     },
