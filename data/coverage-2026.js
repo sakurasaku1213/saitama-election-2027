@@ -100082,7 +100082,9 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.moroyama.saitama.jp/gyoseisite/choseijoho/moroyamamachigikai/teireikai_rinjikai/5019.html",
       "resultLocator": "公式審議結果表の19行目",
       "sourceTitle": "毛呂山町議会の公式審議結果",
-      "number": "請願第1号"
+      "number": "請願第1号",
+      "date": "2026-09-17",
+      "dateSource": "9月17日（最終日）の公式本会議録で、生活福祉常任委員会の「審査中の事件」を閉会中の継続審査とすることに決定。会議録本文に事件名は出ない（配付資料による）が、請願第１号は9月7日に同委員会へ付託され、9月17日に採決がなく、公式審議結果表が「閉会中の継続審査」と記すことから、この決定の日とした"
     },
     {
       "place": "毛呂山町",
