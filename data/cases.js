@@ -23389,9 +23389,9 @@ GIKAI.cases.push(...[
         "date": "2026-10-17",
         "actor": "伊奈町",
         "stage": "運賃案への町民コメントを募集",
-        "detail": "令和９年４月運行開始予定として、運賃案を示して町民コメントを募った。",
-        "url": "https://www.town.saitama-ina.lg.jp/0000007343.html",
-        "sourceTitle": "伊奈町 オンデマンドバス運賃案の町民コメント"
+        "detail": "令和９年４月運行開始予定として、運賃案について11月15日まで町民コメントを募った。日付は募集時の公式告知。旧募集ページは現在取得できないため、町の現行の募集終了案内を示す。",
+        "url": "https://www.town.saitama-ina.lg.jp/0000009770.html",
+        "sourceTitle": "伊奈町 AIオンデマンドバス運賃案の募集終了案内"
       },
       {
         "date": "2026-11-16",
@@ -23475,5 +23475,183 @@ GIKAI.cases.push(...[
       }
     ],
     "note": "趣旨採択までを確認。現地の設計、予算化、改修工事の実施は確認中。"
+  }
+]);
+
+GIKAI.cases.push(...[
+  {
+    "place": "埼玉県",
+    "relatedPlaces": [
+      "川口市"
+    ],
+    "title": "川口北警察署の整備から三署体制の質疑、管轄変更の可決まで",
+    "topic": "警察署・行政サービス",
+    "actors": [
+      "永瀬秀樹",
+      "埼玉県",
+      "埼玉県議会",
+      "警察危機管理防災委員会"
+    ],
+    "steps": [
+      {
+        "date": "2024-10-16",
+        "actor": "埼玉県議会",
+        "stage": "新庁舎建設の工事請負契約議案を可決",
+        "detail": "埼玉県議会が、仮称・川口北警察署庁舎新築工事に関する第92号議案を原案可決した。",
+        "url": "https://www.pref.saitama.lg.jp/documents/258730/hyoketsujokyo.pdf#page=1",
+        "sourceTitle": "埼玉県議会 令和６年９月定例会・会派別表決原表"
+      },
+      {
+        "date": "2026-02",
+        "actor": "埼玉県警察本部",
+        "stage": "建設の最終年度分と開設経費を予算案に示す",
+        "detail": "令和８年度当初予算案の警察本部資料で、建設費42億7,122万2,000円、開設経費２億565万4,000円、合計44億7,687万6,000円を示した。",
+        "url": "https://www.pref.saitama.lg.jp/documents/274057/16keisatu.pdf#page=11",
+        "sourceTitle": "埼玉県 当初予算案の主要施策・警察本部",
+        "archiveId": "1cd2eb47b15fb99858af",
+        "blocks": [
+          11
+        ]
+      },
+      {
+        "date": "2026-09-25",
+        "actor": "埼玉県",
+        "stage": "新署設置と既存２署の管轄変更を提案",
+        "detail": "第110号の条例改正案を提出。新署の名称・位置・管轄区域を定め、川口警察署と武南警察署の管轄区域を変更する案を説明した。",
+        "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/3.html",
+        "sourceTitle": "令和8年9月定例会 知事提案説明要旨",
+        "archiveId": "d7b7bacf84baee27f5af",
+        "blocks": [
+          21
+        ]
+      },
+      {
+        "date": "2026-10-01",
+        "actor": "永瀬秀樹、埼玉県警察本部",
+        "stage": "三署体制での初動対応と窓口サービスを質す",
+        "detail": "永瀬議員が三署への移行後の対応を質した。警察本部長は警察官や車両を増やし、通報への対応や警らを強化する方針と、運転免許窓口や相談室の増設を答えた。",
+        "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4/a/0601.html",
+        "sourceTitle": "永瀬秀樹議員　地域の課題／川口市の警察力の向上について",
+        "archiveId": "45b97148d5db6125831a",
+        "blocks": [
+          1,
+          2
+        ],
+        "memberActions": [
+          {
+            "name": "永瀬秀樹",
+            "detail": "新署を含む三署体制への移行後、市全体の警察力をどう強化するかを一般質問した。",
+            "blocks": [
+              1
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-10-16",
+        "actor": "警察危機管理防災委員会",
+        "stage": "窓口変更の周知を確認し可決すべきものと報告",
+        "detail": "委員会で、既存２署のホームページや窓口のチラシなどを用いる住民周知を確認した。委員会の判断は全員で原案可決すべきもの。本会議への報告は10月16日。",
+        "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/5/keiki.html",
+        "sourceTitle": "令和8年9月定例会 「警察危機管理防災委員長報告」",
+        "archiveId": "d23c5f140348249742cf",
+        "blocks": [
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "date": "2026-10-16",
+        "actor": "埼玉県議会",
+        "stage": "川口北警察署の設置と管轄変更の条例案を可決",
+        "detail": "第110号議案を原案可決。一般質問の資料では2027年３月１日の開署予定が示された。",
+        "url": "https://www.pref.saitama.lg.jp/documents/287163/r0809_kaihabetsuhyouketujoukyou_1020.pdf#page=1",
+        "sourceTitle": "埼玉県議会 令和８年９月定例会・会派別表決原表"
+      }
+    ],
+    "note": "条例改正と開署予定を確認。開署の実績と、実際の窓口運用・初動対応の変化は確認中。"
+  },
+  {
+    "place": "埼玉県",
+    "title": "県の新５か年計画案を継続審査とし、県民コメントへの対応を公表",
+    "topic": "総合計画・県民参加",
+    "actors": [
+      "埼玉県",
+      "埼玉県議会",
+      "中屋敷慎一",
+      "５か年計画特別委員会"
+    ],
+    "steps": [
+      {
+        "date": "2026-07-07",
+        "actor": "埼玉県",
+        "stage": "計画大綱などへの意見募集を公表",
+        "detail": "新しい５か年計画に向け、大綱と４計画の一部変更案について７月８日から８月７日まで意見を募ると公表した。",
+        "url": "https://www.pref.saitama.lg.jp/a0102/news/page/news2026070701.html",
+        "sourceTitle": "埼玉県 県民コメントの募集案内"
+      },
+      {
+        "date": "2026-09-25",
+        "actor": "埼玉県",
+        "stage": "新５か年計画案などを議会へ提出",
+        "detail": "令和９年度からの新計画の策定等を第115号議案として提出し、９つの政策と51の分野別施策の構成を説明した。",
+        "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/3.html",
+        "sourceTitle": "令和8年9月定例会 知事提案説明要旨",
+        "archiveId": "d7b7bacf84baee27f5af",
+        "blocks": [
+          23,
+          24
+        ]
+      },
+      {
+        "date": "2026-10-16",
+        "actor": "中屋敷慎一、５か年計画特別委員会",
+        "stage": "閉会中の継続審査を発議したと報告",
+        "detail": "総論の審査を経て、委員長は県政全般に関係する案件の審査時間を確保するため、閉会中の継続審査を発議した。委員会が全員で了承した旨を本会議に報告した。",
+        "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/5/5kanen.html",
+        "sourceTitle": "令和8年9月定例会 「5か年計画特別委員長報告」",
+        "archiveId": "9d9ecf7dc9c311f26a6d",
+        "blocks": [
+          1,
+          3,
+          6,
+          7,
+          8,
+          9
+        ],
+        "memberActions": [
+          {
+            "name": "中屋敷慎一",
+            "detail": "委員長として閉会中の継続審査を発議し、委員会で了承されるまでの経過を本会議に報告した。",
+            "blocks": [
+              1,
+              9
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-10-16",
+        "actor": "埼玉県議会",
+        "stage": "閉会中の継続審査と決定",
+        "detail": "本会議の表決原表で、第115号議案の継続審査を確認した。",
+        "url": "https://www.pref.saitama.lg.jp/documents/287163/r0809_kaihabetsuhyouketujoukyou_1020.pdf#page=1",
+        "sourceTitle": "埼玉県議会 令和８年９月定例会・会派別表決原表"
+      },
+      {
+        "date": "2026-11-16",
+        "actor": "埼玉県",
+        "stage": "届いた274件の意見と県の対応を公表",
+        "detail": "84者からの274件について、案を修正した２件、案で対応済み60件、実施段階で参考にする55件、反映できなかった74件、その他83件と公表した。",
+        "url": "https://www.pref.saitama.lg.jp/documents/289966/kennkomekekkav4.pdf#page=1",
+        "sourceTitle": "埼玉県 ５か年計画大綱等への県民コメント結果",
+        "archiveId": "f3edfdce992cc6dac0fd",
+        "blocks": [
+          1
+        ]
+      }
+    ],
+    "note": "継続審査と意見募集への回答公表まで確認。計画の最終議決と施策の実施は確認中。"
   }
 ]);

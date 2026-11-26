@@ -1085,17 +1085,18 @@
     if (positions.length) {
       const scope = D.questionText.documents.find((doc) => doc.id === card.dataset.questionId)?.scope;
       const paper = scope === "summary";
+      const fullQA = scope === "fullQA";
       const recording = scope === "recording";
       const supporting = scope === "supporting";
       const full = document.createElement("details");
       const summary = document.createElement("summary");
       summary.textContent = paper ? "紙面要旨の全体を読む" : recording ? "字幕・文字起こしの全体を読む" :
-        supporting ? "関連資料の収録範囲を読む" : "会議録の全本文を読む";
+        supporting ? "関連資料の収録範囲を読む" : fullQA ? "質問・答弁の全体を読む" : "会議録の全本文を読む";
       full.append(summary);
       for (const position of positions) {
         const block = stored[position - 1];
         const locator = supporting ? block[0] || `関連資料の掲載順 ${position}` :
-          paper || recording || /^PDF \d+頁$|^議案第|君$/.test(block[0]) ? block[0] : `会議録の発言順 ${position}`;
+          paper || recording || fullQA || /^PDF \d+頁$|^議案第|君$/.test(block[0]) ? block[0] : `会議録の発言順 ${position}`;
         column.append(questionBodyBlock(block, locator));
       }
       for (const block of stored) full.append(questionBodyBlock(block));

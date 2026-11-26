@@ -154,7 +154,7 @@ for (const c of data.cases) {
     if (step.archiveId) {
       const publishedCaption = doc?.scope === "recording" && doc.kind === "公式録画の公開自動字幕";
       const supportingMaterial = doc?.scope === "supporting";
-      assert.ok(doc?.place === place && (["minutes", "summary"].includes(doc.scope) || publishedCaption || supportingMaterial), c.title);
+      assert.ok(doc?.place === place && (["minutes", "summary", "fullQA"].includes(doc.scope) || publishedCaption || supportingMaterial), c.title);
       assert.equal(doc.url.split("#")[0], step.url.split("#")[0], c.title);
       const monthlySource = doc.date.length === 7 &&
         (doc.scope === "summary" || doc.kind === "公式会議録PDFのOCR転記");

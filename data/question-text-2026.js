@@ -9443,9 +9443,8 @@ GIKAI.questionText = {
       "url": "https://ssp.kaigiroku.net/tenant/inamachi/SpMinuteView.html?tenant_id=218&council_id=460&schedule_id=1",
       "kind": "公式会議録（常任委員会）",
       "scope": "minutes",
-      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。 原文の「上野尚徳」は議員名簿の「上野尚德」と同一人。本文の字体は原文を保持。",
       "speakers": [
-        "上野尚徳",
         "五味雅美",
         "仲島雄大",
         "山野智彦",
@@ -27317,7 +27316,9 @@ GIKAI.questionText = {
       "kind": "委員長報告（公式資料）",
       "scope": "supporting",
       "note": "公式の委員長報告目次・会期日程と照合。表示日は本会議への報告日。質疑の発言者は個人名の記載がある資料で確認できる。",
-      "speakers": []
+      "speakers": [
+        "中屋敷慎一"
+      ]
     },
     {
       "id": "d7fe60ff2e31058dac77",
@@ -54957,6 +54958,332 @@ GIKAI.questionText = {
       "url": "https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/speech.html?council_id=39&schedule_id=8&playlist_id=1&speaker_id=0&target_year=2026",
       "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 当日の本会議の議事録画。分割された録画を含む。発言者と発言区間は原映像でご確認ください。",
       "speakers": []
+    },
+    {
+      "id": "b677f261274bec134030",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "埼玉県 予算案（第2号）",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/283604/r806_yosan2.pdf",
+      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。",
+      "speakers": []
+    },
+    {
+      "id": "a3bed40d1ddd2e8ab692",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "埼玉県 総括、予算規模、主な内容（一般会計補正予算（第3号）等（案））",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/274057/r8-9_3goubessi3.pdf",
+      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。",
+      "speakers": []
+    },
+    {
+      "id": "366ae96e5ee4bb79bf3e",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "埼玉県 知事記者会見（令和8年9月18日）パネル",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/274057/r8-9_3goupaneru.pdf",
+      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。",
+      "speakers": []
+    },
+    {
+      "id": "cd3d793031eba30493b3",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "埼玉県 令和8年度埼玉県一般会計補正予算（第3号）（案）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/274057/r8-9_3goubessi4.pdf",
+      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。",
+      "speakers": []
+    },
+    {
+      "id": "8930812ee2f7cf998717",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "埼玉県 令和8年度埼玉県特別会計補正予算（案）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/274057/r8-9_3goubessi5.pdf",
+      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。",
+      "speakers": []
+    },
+    {
+      "id": "e548cd3dda41fe2aa01e",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "埼玉県 総括、予算規模、主な内容（一般会計予算（第1号）等（案））",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/274057/r8-6_1goubessi3.pdf",
+      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。",
+      "speakers": []
+    },
+    {
+      "id": "b18d22f0f61c1ad4310e",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "埼玉県 知事記者会見（令和8年6月8日）パネル",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/274057/r8-6_1goupanelu.pdf",
+      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。",
+      "speakers": []
+    },
+    {
+      "id": "f1e663537a3ca269baeb",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "埼玉県 総括、予算規模、主な内容（一般会計予算（第2号）等（案））",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/274057/r8-6_2goubessi3.pdf",
+      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。",
+      "speakers": []
+    },
+    {
+      "id": "f8a72438bc5aec197a69",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "埼玉県 知事記者会見（令和8年6月15日）パネル",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/274057/r8-6_2gou_paneru.pdf",
+      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。",
+      "speakers": []
+    },
+    {
+      "id": "573ebc261f3271dd5a00",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "埼玉県 令和8年度埼玉県一般会計補正予算（第1号）（案）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/274057/r8-6_1goubessi4.pdf",
+      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。",
+      "speakers": []
+    },
+    {
+      "id": "140616af176286b1cd28",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "埼玉県 令和8年度埼玉県公営企業会計補正予算（案）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/274057/r8-6_1goubessi5.pdf",
+      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。",
+      "speakers": []
+    },
+    {
+      "id": "7ad51d98178ba4d06eca",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "埼玉県 令和8年度埼玉県一般会計補正予算（第2号）（案）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/274057/r8-6_2goubessi4.pdf",
+      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。",
+      "speakers": []
+    },
+    {
+      "id": "38906b5eca67f67b8bb3",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "埼玉県 予算の部局別資料・環境部",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/274057/r8_6hosei_kankyou.pdf",
+      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。",
+      "speakers": []
+    },
+    {
+      "id": "d38c30a85528cf275fd8",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "埼玉県 予算の部局別資料・保健医療部",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/274057/r8_6hosei_hoken.pdf",
+      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。",
+      "speakers": []
+    },
+    {
+      "id": "1cd2eb47b15fb99858af",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02",
+      "title": "埼玉県 当初予算案の主要施策・警察本部",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/274057/16keisatu.pdf",
+      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。",
+      "speakers": []
+    },
+    {
+      "id": "0168b316c6f8b6e7a85a",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02",
+      "title": "埼玉県 当初予算案の知事審査・企画財政部",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/274057/02_kizaisinsa.pdf",
+      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。",
+      "speakers": []
+    },
+    {
+      "id": "55ad151eaed8178dee18",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02",
+      "title": "埼玉県 当初予算案の知事審査・総務部",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/274057/03_soumusinsa.pdf",
+      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。",
+      "speakers": []
+    },
+    {
+      "id": "94017968aca7408e8ea7",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02",
+      "title": "埼玉県 当初予算案の知事審査・県民生活部",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/274057/04_kenminsinsa.pdf",
+      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。",
+      "speakers": []
+    },
+    {
+      "id": "2ccfd1a7823f924833ca",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02",
+      "title": "埼玉県 当初予算案の知事審査・危機管理防災部",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/274057/05_kibousinsa.pdf",
+      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。",
+      "speakers": []
+    },
+    {
+      "id": "d02fa298655524de9c71",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02",
+      "title": "埼玉県 当初予算案の知事審査・環境部",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/274057/06_kankyousinsa.pdf",
+      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。",
+      "speakers": []
+    },
+    {
+      "id": "595243f7643987b7ff0b",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02",
+      "title": "埼玉県 当初予算案の知事審査・保健医療部",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/274057/08_hokensinsa.pdf",
+      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。",
+      "speakers": []
+    },
+    {
+      "id": "0e0600871f93177da766",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02",
+      "title": "埼玉県 当初予算案の知事審査・農林部",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/274057/10_nourinsinsa.pdf",
+      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。",
+      "speakers": []
+    },
+    {
+      "id": "d188bdcce171103d5ccd",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02",
+      "title": "埼玉県 当初予算案の知事審査・県土整備部",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/274057/11_kendosinsa.pdf",
+      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。",
+      "speakers": []
+    },
+    {
+      "id": "e386ee880e619628d4c5",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02",
+      "title": "埼玉県 当初予算案の知事審査・警察本部",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/274057/22_keisatsusinsa.pdf",
+      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。",
+      "speakers": []
+    },
+    {
+      "id": "72c16c0da8d7ca048fbd",
+      "place": "埼玉県",
+      "season": "spring",
+      "date": "2026-02",
+      "title": "埼玉県 令和8年度予算編成方針について",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/274057/r8yosanhenseihousin.pdf",
+      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。",
+      "speakers": []
+    },
+    {
+      "id": "f3edfdce992cc6dac0fd",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-11-16",
+      "title": "埼玉県 ５か年計画大綱等への県民コメント結果",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/289966/kennkomekekkav4.pdf",
+      "note": "日付は県の公表日。 原本の頁順で文字層・OCRを収録。",
+      "speakers": []
+    },
+    {
+      "id": "f5e0c4176235ba00eab6",
+      "place": "宮代町",
+      "season": "fall",
+      "date": "2026-09-02",
+      "title": "佐藤将行議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/miyashiro/WebView/rd/speech.html?council_id=32&schedule_id=5&playlist_id=2&speaker_id=22&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。 自動検査の確認候補時間帯を含みます。",
+      "speakers": [
+        "佐藤将行"
+      ]
     }
   ],
   "coverage": [
@@ -56618,7 +56945,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "verified",
-        "note": "公式会議録の本会議７日・目次を収録。一般質問３日・12議員は議長の終了宣告と録画目録を照合。議会だよりの要約と録画の機械文字起こし6本も収録。",
+        "note": "公式会議録の本会議７日・目次を収録。一般質問３日・12議員は議長の終了宣告と録画目録を照合。議会だよりの要約と録画の機械文字起こし7本も収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteBrowse.html?tenant_id=224&view_years=2026"
       }
     },

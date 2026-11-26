@@ -66,6 +66,10 @@ GIKAI.coverage2026 = {
         {
           "label": "埼玉県議会時報（会期別の公式資料一覧）",
           "url": "https://www.pref.saitama.lg.jp/e1601/gikaijihou/r0802.html"
+        },
+        {
+          "label": "県公式・議案書、予算説明資料",
+          "url": "https://www.pref.saitama.lg.jp/a0103/20251015reiwa8yosan.html"
         }
       ]
     },
@@ -126,6 +130,14 @@ GIKAI.coverage2026 = {
         {
           "label": "埼玉県議会時報（会期別の公式資料一覧）",
           "url": "https://www.pref.saitama.lg.jp/e1601/gikaijihou/r0806.html"
+        },
+        {
+          "label": "県公式・議案書、予算説明資料",
+          "url": "https://www.pref.saitama.lg.jp/a0103/gian/0806giansho.html"
+        },
+        {
+          "label": "県公式・議案書、予算説明資料",
+          "url": "https://www.pref.saitama.lg.jp/a0103/20251015reiwa8yosan.html"
         }
       ]
     },
@@ -190,6 +202,14 @@ GIKAI.coverage2026 = {
         {
           "label": "質問議員別質問項目一覧（15人・251項目）",
           "url": "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/2026_9koumokubetsu.html"
+        },
+        {
+          "label": "県公式・議案書、予算説明資料",
+          "url": "https://www.pref.saitama.lg.jp/a0103/20251015reiwa8yosan.html"
+        },
+        {
+          "label": "県公式・議案書、予算説明資料",
+          "url": "https://www.pref.saitama.lg.jp/a0102/news/page/news2026111601.html"
         }
       ]
     },
@@ -10835,7 +10855,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "verified",
-          "note": "公式会議録の本会議７日・目次を収録。一般質問３日・12議員は議長の終了宣告と録画目録を照合。議会だよりの要約と録画の機械文字起こし6本も収録。"
+          "note": "公式会議録の本会議７日・目次を収録。一般質問３日・12議員は議長の終了宣告と録画目録を照合。議会だよりの要約と録画の機械文字起こし7本も収録。"
         },
         "decisions": {
           "state": "verified",
