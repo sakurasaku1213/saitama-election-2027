@@ -1648,14 +1648,14 @@ GIKAI.coverage2026 = {
     {
       "place": "加須市",
       "season": "spring",
-      "label": "2026年春の定例会",
-      "fromDate": "",
-      "toDate": "",
+      "label": "令和8年第1回定例会",
+      "fromDate": "2026-02-05",
+      "toDate": "2026-03-09",
       "planned": false,
       "materials": {
         "meeting": {
-          "state": "identified",
-          "note": "対象時期に関係する資料の掲載箇所を確認。会期の確定は未了。"
+          "state": "verified",
+          "note": "市公式の定例会情報の日程と、収録済みの本会議録の開会日・閉会日を照合。"
         },
         "activity": {
           "state": "partial",
@@ -1666,12 +1666,12 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "市公式の議案審議結果一覧表の議案50件、修正案2件、請願1件、議員提出議案1件を議決日・件名・結果で照合。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "identified",
+          "note": "市公式の個人別審議結果一覧（PDF）の掲載を確認。個人別の賛否は未収録。"
         },
         "policy": {
           "state": "partial",
@@ -1682,20 +1682,24 @@ GIKAI.coverage2026 = {
         {
           "label": "会期資料　令和8年第1回定例会",
           "url": "https://smart.discussvision.net/smart/tenant/kazo/WebView/rd/council.html?year=2026&council_id=36"
+        },
+        {
+          "label": "市公式の定例会情報・議案審議結果一覧表",
+          "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html"
         }
       ]
     },
     {
       "place": "加須市",
       "season": "summer",
-      "label": "2026年初夏の定例会",
-      "fromDate": "",
-      "toDate": "",
+      "label": "令和8年第2回定例会",
+      "fromDate": "2026-06-09",
+      "toDate": "2026-06-25",
       "planned": false,
       "materials": {
         "meeting": {
-          "state": "identified",
-          "note": "対象時期に関係する資料の掲載箇所を確認。会期の確定は未了。"
+          "state": "verified",
+          "note": "市公式の定例会情報の日程と、収録済みの本会議録の開会日・閉会日を照合。"
         },
         "activity": {
           "state": "partial",
@@ -1706,12 +1710,12 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "市公式の議案審議結果一覧表の議案18件、請願3件を議決日・件名・結果で照合。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "identified",
+          "note": "市公式の個人別審議結果一覧（PDF）の掲載を確認。個人別の賛否は未収録。"
         },
         "policy": {
           "state": "partial",
@@ -1722,6 +1726,10 @@ GIKAI.coverage2026 = {
         {
           "label": "会期資料　令和8年第2回定例会",
           "url": "https://smart.discussvision.net/smart/tenant/kazo/WebView/rd/council.html?year=2026&council_id=38"
+        },
+        {
+          "label": "市公式の定例会情報・議案審議結果一覧表",
+          "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html"
         }
       ]
     },
@@ -2188,14 +2196,14 @@ GIKAI.coverage2026 = {
     {
       "place": "春日部市",
       "season": "spring",
-      "label": "2026年春の定例会",
-      "fromDate": "",
-      "toDate": "",
+      "label": "令和8年3月定例会",
+      "fromDate": "2026-02-16",
+      "toDate": "2026-03-19",
       "planned": false,
       "materials": {
         "meeting": {
-          "state": "identified",
-          "note": "対象時期に関係する資料の掲載箇所を確認。会期の確定は未了。"
+          "state": "verified",
+          "note": "市議会の公式会期一覧で2月16日開会、3月19日閉会を照合。"
         },
         "activity": {
           "state": "partial",
@@ -2206,12 +2214,12 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "市長提出43件、議員提出8件、請願2件の公式結果・議決日を照合。諮問は対象外。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "53件・会派等7欄を公式の会派別採決状況と照合。無所属欄の人数内訳も保持。"
         },
         "policy": {
           "state": "partial",
@@ -2222,20 +2230,28 @@ GIKAI.coverage2026 = {
         {
           "label": "会期資料　令和8年3月定例会",
           "url": "https://www.kasukabe-shigikai.jp/g07_Shitsumon.asp?Sflg=2&kaigi=121"
+        },
+        {
+          "label": "公式の会派別採決状況",
+          "url": "https://www.kasukabe-shigikai.jp/g07_gian_sanpi.asp?KaigiID=121"
+        },
+        {
+          "label": "議案一覧（会期指定）",
+          "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/16,2026/03/19,121&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2"
         }
       ]
     },
     {
       "place": "春日部市",
       "season": "summer",
-      "label": "2026年初夏の定例会",
-      "fromDate": "",
-      "toDate": "",
+      "label": "令和8年6月定例会",
+      "fromDate": "2026-05-28",
+      "toDate": "2026-06-18",
       "planned": false,
       "materials": {
         "meeting": {
-          "state": "identified",
-          "note": "対象時期に関係する資料の掲載箇所を確認。会期の確定は未了。"
+          "state": "verified",
+          "note": "市議会の公式会期一覧で5月28日開会、6月18日閉会を照合。"
         },
         "activity": {
           "state": "partial",
@@ -2246,12 +2262,12 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "市長提出23件、議員提出7件、請願3件の公式結果・議決日を照合。諮問は対象外。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "33件・会派等8欄を公式の会派別採決状況と照合。無所属欄の人数内訳も保持。"
         },
         "policy": {
           "state": "partial",
@@ -2262,6 +2278,14 @@ GIKAI.coverage2026 = {
         {
           "label": "会期資料　令和8年6月定例会",
           "url": "https://www.kasukabe-shigikai.jp/g07_Shitsumon.asp?Sflg=2&kaigi=123"
+        },
+        {
+          "label": "公式の会派別採決状況",
+          "url": "https://www.kasukabe-shigikai.jp/g07_gian_sanpi.asp?KaigiID=123"
+        },
+        {
+          "label": "議案一覧（会期指定）",
+          "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/05/28,2026/06/18,123&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2"
         }
       ]
     },
@@ -3138,12 +3162,12 @@ GIKAI.coverage2026 = {
           "note": "対象時期の会議録または索引の掲載先を確認。本文の全件照合は未了。"
         },
         "decisions": {
-          "state": "identified",
-          "note": "公式PDFをOCR済み。議案行と表決欄の照合・取込は未了。"
+          "state": "partial",
+          "note": "公式結果の議決等37件を収録。各議案の出典・議決日を表示。"
         },
         "votes": {
-          "state": "identified",
-          "note": "公表表で賛否欄を確認。個別の票と氏名・会派名の対応は収録保留。"
+          "state": "partial",
+          "note": "記名表決13件を公式原表と照合して収録。残る24件は個人別の賛否を収録していない。"
         },
         "policy": {
           "state": "partial",
@@ -3190,12 +3214,12 @@ GIKAI.coverage2026 = {
           "note": "対象時期の会議録または索引の掲載先を確認。本文の全件照合は未了。"
         },
         "decisions": {
-          "state": "identified",
-          "note": "公式PDFをOCR済み。議案行と表決欄の照合・取込は未了。"
+          "state": "partial",
+          "note": "公式結果の議決等22件を収録。各議案の出典・議決日を表示。"
         },
         "votes": {
-          "state": "identified",
-          "note": "公表表で賛否欄を確認。個別の票と氏名・会派名の対応は収録保留。"
+          "state": "partial",
+          "note": "記名表決9件を公式原表と照合して収録。残る13件は個人別の賛否を収録していない。"
         },
         "policy": {
           "state": "partial",
@@ -3242,12 +3266,12 @@ GIKAI.coverage2026 = {
           "note": "対象時期の会議録または索引の掲載先を確認。本文の全件照合は未了。"
         },
         "decisions": {
-          "state": "identified",
-          "note": "公式PDFをOCR済み。議案行と表決欄の照合・取込は未了。"
+          "state": "partial",
+          "note": "公式結果の議決等29件を収録。各議案の出典・議決日を表示。"
         },
         "votes": {
-          "state": "identified",
-          "note": "公表表で賛否欄を確認。個別の票と氏名・会派名の対応は収録保留。"
+          "state": "partial",
+          "note": "記名表決9件を公式原表と照合して収録。残る20件は個人別の賛否を収録していない。"
         },
         "policy": {
           "state": "partial",
@@ -5134,12 +5158,12 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "公式結果の議決等37件を収録。各議案の出典・議決日を表示。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "記名表決34件を公式原表と照合して収録。残る3件は個人別の賛否を収録していない。"
         },
         "policy": {
           "state": "partial",
@@ -5174,12 +5198,12 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "公式結果の議決等20件を収録。各議案の出典・議決日を表示。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "記名表決12件を公式原表と照合して収録。残る8件は個人別の賛否を収録していない。"
         },
         "policy": {
           "state": "partial",
@@ -5218,12 +5242,12 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "公式結果の議決等58件を収録。各議案の出典・議決日を表示。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "記名表決41件を公式原表と照合して収録。残る17件は個人別の賛否を収録していない。"
         },
         "policy": {
           "state": "partial",
@@ -6768,14 +6792,14 @@ GIKAI.coverage2026 = {
     {
       "place": "日高市",
       "season": "spring",
-      "label": "2026年春の定例会",
-      "fromDate": "",
-      "toDate": "",
+      "label": "令和8年第2回定例会（3月）",
+      "fromDate": "2026-02-26",
+      "toDate": "2026-03-17",
       "planned": false,
       "materials": {
         "meeting": {
-          "state": "identified",
-          "note": "対象時期に関係する資料の掲載箇所を確認。会期の確定は未了。"
+          "state": "verified",
+          "note": "収録済みの本会議録の開会日・閉会日と、公式審議結果の議決日を照合。"
         },
         "activity": {
           "state": "partial",
@@ -6786,12 +6810,12 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "公式の審議結果の議案25件を議決日・件名・結果で照合。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "identified",
+          "note": "公式審議結果は議決結果のみ。全員・多数・少数の別を注記に表示。個人別の賛否は未収録。"
         },
         "policy": {
           "state": "partial",
@@ -6802,20 +6826,24 @@ GIKAI.coverage2026 = {
         {
           "label": "会期資料　令和8年第2回定例会",
           "url": "https://smart.discussvision.net/smart/tenant/hidaka/WebView/rd/council.html?year=2026&council_id=52"
+        },
+        {
+          "label": "公式の審議結果",
+          "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf"
         }
       ]
     },
     {
       "place": "日高市",
       "season": "summer",
-      "label": "2026年初夏の定例会",
-      "fromDate": "",
-      "toDate": "",
+      "label": "令和8年第3回定例会（6月）",
+      "fromDate": "2026-05-27",
+      "toDate": "2026-06-16",
       "planned": false,
       "materials": {
         "meeting": {
-          "state": "identified",
-          "note": "対象時期に関係する資料の掲載箇所を確認。会期の確定は未了。"
+          "state": "verified",
+          "note": "収録済みの本会議録の開会日・閉会日と、公式審議結果の議決日を照合。"
         },
         "activity": {
           "state": "partial",
@@ -6826,12 +6854,12 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "公式の審議結果の議案8件、請願2件を議決日・件名・結果で照合。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "identified",
+          "note": "公式審議結果は議決結果のみ。全員・多数・少数の別を注記に表示。個人別の賛否は未収録。"
         },
         "policy": {
           "state": "partial",
@@ -6842,6 +6870,10 @@ GIKAI.coverage2026 = {
         {
           "label": "会期資料　令和8年第3回定例会",
           "url": "https://smart.discussvision.net/smart/tenant/hidaka/WebView/rd/council.html?year=2026&council_id=53"
+        },
+        {
+          "label": "公式の審議結果",
+          "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R0803shinngikekka.pdf"
         }
       ]
     },
@@ -7039,7 +7071,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "partial",
-          "note": "第211号の一般質問14人・17主題・26問答と、委員会・決算の17問答、討論14件などを原紙面と照合。一般質問通告23頁と議案質疑通告21頁、９月16～18日の公式録画14人。正式会議録は議会だより第211号によると12月上旬提供予定。 公式録画の機械文字起こし一般質問9本を収録。"
+          "note": "第211号の一般質問14人・17主題・26問答と、委員会・決算の17問答、討論14件などを原紙面と照合。一般質問通告23頁と議案質疑通告21頁、９月16～18日の公式録画14人。正式会議録は議会だより第211号によると12月上旬提供予定。 公式録画の機械文字起こし一般質問11本を収録。"
         },
         "decisions": {
           "state": "verified",
@@ -10763,7 +10795,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "partial",
-          "note": "公式録画一覧で一般質問12人を確認。議会だよりの質問・答弁要旨も収録。正式会議録は確認中。 公式録画の機械文字起こし一般質問12本・議事11本を収録。 公式通告は12人・28頁。"
+          "note": "公式録画一覧で一般質問12人を確認。議会だよりの質問・答弁要旨も収録。正式会議録は確認中。 公式録画の機械文字起こし一般質問12本・議事12本を収録。 公式通告は12人・28頁。"
         },
         "decisions": {
           "state": "verified",
@@ -10968,14 +11000,14 @@ GIKAI.coverage2026 = {
     {
       "place": "杉戸町",
       "season": "spring",
-      "label": "2026年春の定例会",
-      "fromDate": "",
-      "toDate": "",
+      "label": "令和8年第2回3月定例会",
+      "fromDate": "2026-02-09",
+      "toDate": "2026-03-18",
       "planned": false,
       "materials": {
         "meeting": {
-          "state": "identified",
-          "note": "対象時期に関係する資料の掲載箇所を確認。会期の確定は未了。"
+          "state": "verified",
+          "note": "収録済みの本会議録の開会日・閉会日と、公式議決結果の議決日を照合。"
         },
         "activity": {
           "state": "partial",
@@ -10986,12 +11018,12 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "町公式の議決結果の諮問1件、議案24件、意見書案1件を議決日・件名・議決番号・結果で照合。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "identified",
+          "note": "公式の議決結果は結果のみ。個人別の賛否は未収録。"
         },
         "policy": {
           "state": "partial",
@@ -11002,20 +11034,28 @@ GIKAI.coverage2026 = {
         {
           "label": "会期資料　令和8年3月定例会",
           "url": "https://smart.discussvision.net/smart/tenant/sugito/WebView/rd/council.html?year=2026&council_id=13"
+        },
+        {
+          "label": "町公式の定例会ページ",
+          "url": "https://www.town.sugito.lg.jp/site/gikai/24855.html"
+        },
+        {
+          "label": "公式の議決結果",
+          "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf"
         }
       ]
     },
     {
       "place": "杉戸町",
       "season": "summer",
-      "label": "2026年初夏の定例会",
-      "fromDate": "",
-      "toDate": "",
+      "label": "令和8年第4回6月定例会",
+      "fromDate": "2026-06-02",
+      "toDate": "2026-06-12",
       "planned": false,
       "materials": {
         "meeting": {
-          "state": "identified",
-          "note": "対象時期に関係する資料の掲載箇所を確認。会期の確定は未了。"
+          "state": "verified",
+          "note": "収録済みの本会議録の開会日・閉会日と、公式議決結果の議決日を照合。"
         },
         "activity": {
           "state": "partial",
@@ -11026,12 +11066,12 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "町公式の議決結果の議案10件を議決日・件名・議決番号・結果で照合。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "identified",
+          "note": "公式の議決結果は結果のみ。個人別の賛否は未収録。"
         },
         "policy": {
           "state": "partial",
@@ -11042,6 +11082,14 @@ GIKAI.coverage2026 = {
         {
           "label": "会期資料　令和8年6月定例会",
           "url": "https://smart.discussvision.net/smart/tenant/sugito/WebView/rd/council.html?year=2026&council_id=14"
+        },
+        {
+          "label": "町公式の定例会ページ",
+          "url": "https://www.town.sugito.lg.jp/site/gikai/27148.html"
+        },
+        {
+          "label": "公式の議決結果",
+          "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17314.pdf"
         }
       ]
     },
@@ -11116,14 +11164,14 @@ GIKAI.coverage2026 = {
     {
       "place": "松伏町",
       "season": "spring",
-      "label": "2026年春の定例会",
-      "fromDate": "",
-      "toDate": "",
+      "label": "令和8年3月定例会",
+      "fromDate": "2026-02-26",
+      "toDate": "2026-03-19",
       "planned": false,
       "materials": {
         "meeting": {
-          "state": "identified",
-          "note": "対象時期に関係する資料の掲載箇所を確認。会期の確定は未了。"
+          "state": "verified",
+          "note": "収録済みの本会議録の開会日・閉会日と、公式審議結果の議決日を照合。"
         },
         "activity": {
           "state": "pending",
@@ -11134,12 +11182,12 @@ GIKAI.coverage2026 = {
           "note": "本文・収録範囲の照合が残っています。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "公式の審議結果の議案19件、発議3件を議決日・件名・結果で照合。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "identified",
+          "note": "公式審議結果は議決結果のみ。個人別の賛否は未収録。"
         },
         "policy": {
           "state": "partial",
@@ -11154,20 +11202,24 @@ GIKAI.coverage2026 = {
         {
           "label": "一般質問の資料　一般質問通告一覧表 (PDF, 138.21KB)",
           "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/tuukokuichiran.pdf"
+        },
+        {
+          "label": "公式の審議結果",
+          "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf"
         }
       ]
     },
     {
       "place": "松伏町",
       "season": "summer",
-      "label": "2026年初夏の定例会",
-      "fromDate": "",
-      "toDate": "",
+      "label": "令和8年6月定例会",
+      "fromDate": "2026-06-05",
+      "toDate": "2026-06-15",
       "planned": false,
       "materials": {
         "meeting": {
-          "state": "identified",
-          "note": "対象時期に関係する資料の掲載箇所を確認。会期の確定は未了。"
+          "state": "verified",
+          "note": "収録済みの本会議録の開会日・閉会日と、公式審議結果の議決日を照合。"
         },
         "activity": {
           "state": "pending",
@@ -11178,12 +11230,12 @@ GIKAI.coverage2026 = {
           "note": "対象時期の会議録または索引の掲載先を確認。本文の全件照合は未了。"
         },
         "decisions": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "verified",
+          "note": "公式の審議結果の議案8件、発議3件を議決日・件名・結果で照合。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "identified",
+          "note": "公式審議結果は議決結果のみ。個人別の賛否は未収録。"
         },
         "policy": {
           "state": "partial",
@@ -11202,6 +11254,10 @@ GIKAI.coverage2026 = {
         {
           "label": "会議録の資料　トップページ | 松伏町議会会議録",
           "url": "https://www.town.matsubushi.saitama.dbsr.jp/"
+        },
+        {
+          "label": "公式の審議結果",
+          "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf"
         }
       ]
     },
@@ -143738,9 +143794,9 @@ GIKAI.coverage2026 = {
       "title": "令和7年度伊奈町介護保険特別会計補正予算(第5号)",
       "date": "2026-03-18",
       "result": "原案可決",
-      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-3kekka.pdf#page=2",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-3gi11go.pdf#page=1",
       "resultURL": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-3kekka.pdf#page=2",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式議案書の該当頁",
       "voteType": "記名",
       "voteURL": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-3kekka.pdf#page=2",
       "votes": {
@@ -143760,7 +143816,8 @@ GIKAI.coverage2026 = {
         "仲島雄大": "賛成",
         "冨井篤弥": "賛成",
         "川内雅人": "賛成"
-      }
+      },
+      "sourceTitle": "伊奈町議会 第11号議案の提出原文"
     },
     {
       "place": "伊奈町",
@@ -143803,9 +143860,9 @@ GIKAI.coverage2026 = {
       "title": "令和7年度伊奈町公共下水道事業会計補正予算(第3号)",
       "date": "2026-03-18",
       "result": "原案可決",
-      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-3kekka.pdf#page=2",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-3gi13go.pdf#page=1",
       "resultURL": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-3kekka.pdf#page=2",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式議案書の該当頁",
       "voteType": "記名",
       "voteURL": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-3kekka.pdf#page=2",
       "votes": {
@@ -143825,7 +143882,8 @@ GIKAI.coverage2026 = {
         "仲島雄大": "賛成",
         "冨井篤弥": "賛成",
         "川内雅人": "賛成"
-      }
+      },
+      "sourceTitle": "伊奈町議会 第13号議案の提出原文"
     },
     {
       "place": "伊奈町",
@@ -144476,9 +144534,9 @@ GIKAI.coverage2026 = {
       "title": "令和7年度伊奈町一般会計補正予算(第14号)",
       "date": "2026-03-18",
       "result": "原案可決",
-      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-3kekka.pdf#page=4",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-3gi34go.pdf#page=1",
       "resultURL": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-3kekka.pdf#page=4",
-      "sourceType": "公式議決結果の該当頁",
+      "sourceType": "公式議案書の該当頁",
       "voteType": "記名",
       "voteURL": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/R8-3kekka.pdf#page=4",
       "votes": {
@@ -144498,7 +144556,8 @@ GIKAI.coverage2026 = {
         "仲島雄大": "賛成",
         "冨井篤弥": "賛成",
         "川内雅人": "賛成"
-      }
+      },
+      "sourceTitle": "伊奈町議会 第34号議案の提出原文"
     },
     {
       "place": "伊奈町",
@@ -145037,6 +145096,4474 @@ GIKAI.coverage2026 = {
         "川内雅人": "賛成"
       },
       "committeeURL": "https://ssp.kaigiroku.net/tenant/inamachi/SpMinuteView.html?tenant_id=218&council_id=460&schedule_id=1"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議案第4号",
+      "date": "2026-03-19",
+      "title": "春日部市公共施設マネジメント基本計画審議会条例の制定について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/16,2026/03/19,121&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・1行目・総務・議決番号9",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議案第5号",
+      "date": "2026-03-19",
+      "title": "春日部市特定乳児等通園支援事業の運営に関する基準を定める条例の制定について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/16,2026/03/19,121&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・2行目・厚生福祉・議決番号10",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議案第6号",
+      "date": "2026-03-19",
+      "title": "春日部市上下水道事業審議会条例の制定について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/16,2026/03/19,121&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・3行目・建設・議決番号11",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議案第7号",
+      "date": "2026-03-19",
+      "title": "春日部市公告式条例の一部改正について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/16,2026/03/19,121&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・4行目・総務・議決番号12",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議案第8号",
+      "date": "2026-03-19",
+      "title": "春日部市行政手続条例の一部改正について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/16,2026/03/19,121&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・5行目・総務・議決番号13",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議案第9号",
+      "date": "2026-03-19",
+      "title": "春日部市会計年度任用職員の任用及び給与その他の勤務条件に関する条例の一部改正について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/16,2026/03/19,121&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・6行目・総務・議決番号14",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議案第10号",
+      "date": "2026-03-19",
+      "title": "春日部市職員の勤務時間、休日及び休暇に関する条例の一部改正について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/16,2026/03/19,121&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・7行目・総務・議決番号15",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議案第11号",
+      "date": "2026-03-19",
+      "title": "春日部市職員の給与に関する条例及び春日部市一般職の任期付職員の採用等に関する条例の一部改正について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/16,2026/03/19,121&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・8行目・総務・議決番号16",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議案第12号",
+      "date": "2026-03-19",
+      "title": "春日部市議会の議員の議員報酬及び費用弁償に関する条例の一部改正について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/16,2026/03/19,121&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・9行目・総務・議決番号17",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "反対",
+        "立憲民主党": "賛成",
+        "日本維新の会": "反対",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議案第13号",
+      "date": "2026-03-19",
+      "title": "春日部市特別職の給与に関する条例及び春日部市教育委員会教育長の給与等に関する条例の一部改正について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/16,2026/03/19,121&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・10行目・総務・議決番号18",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "反対",
+        "立憲民主党": "賛成",
+        "日本維新の会": "反対",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議案第14号",
+      "date": "2026-03-19",
+      "title": "春日部市水道事業管理者の給与等に関する条例の一部改正について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/16,2026/03/19,121&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・11行目・建設・議決番号19",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "反対",
+        "立憲民主党": "賛成",
+        "日本維新の会": "反対",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議案第15号",
+      "date": "2026-03-19",
+      "title": "春日部市病院事業管理者の給与等に関する条例の一部改正について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/16,2026/03/19,121&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・12行目・厚生福祉・議決番号20",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "反対",
+        "立憲民主党": "賛成",
+        "日本維新の会": "反対",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議案第16号",
+      "date": "2026-03-19",
+      "title": "春日部市職員の特殊勤務手当に関する条例の一部改正について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/16,2026/03/19,121&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・13行目・総務・議決番号21",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議案第17号",
+      "date": "2026-03-19",
+      "title": "春日部市手数料条例の一部改正について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/16,2026/03/19,121&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・14行目・建設・議決番号22",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議案第18号",
+      "date": "2026-03-19",
+      "title": "春日部市乳児等通園支援事業の設備及び運営に関する基準を定める条例の一部改正について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/16,2026/03/19,121&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・15行目・厚生福祉・議決番号23",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議案第19号",
+      "date": "2026-03-19",
+      "title": "春日部市介護保険条例の一部改正について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/16,2026/03/19,121&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・16行目・厚生福祉・議決番号24",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議案第20号",
+      "date": "2026-03-19",
+      "title": "春日部市国民健康保険税条例の一部改正について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/16,2026/03/19,121&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・17行目・厚生福祉・議決番号25",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "反対",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成３・反対１"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議案第21号",
+      "date": "2026-03-19",
+      "title": "春日部市空家等対策協議会条例等の一部改正について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/16,2026/03/19,121&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・18行目・建設・空家等対策協議会条例等の一部改正教育環境・議決番号26",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議案第22号",
+      "date": "2026-03-19",
+      "title": "春日部市下水道事業の設置等に関する条例の一部改正について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/16,2026/03/19,121&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・19行目・建設・議決番号27",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議案第23号",
+      "date": "2026-03-19",
+      "title": "春日部市火災予防条例の一部改正について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/16,2026/03/19,121&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・20行目・総務・議決番号28",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議案第24号",
+      "date": "2026-03-19",
+      "title": "春日部市学校温水プール建設工事請負契約の締結について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/16,2026/03/19,121&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・21行目・教育環境・議決番号29",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議案第25号",
+      "date": "2026-03-19",
+      "title": "大沼公園広域受援拠点施設整備工事請負契約の議決内容の一部変更について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/16,2026/03/19,121&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・22行目・教育環境・議決番号30",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議案第26号",
+      "date": "2026-03-19",
+      "title": "損害賠償の額を定めるについて",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/16,2026/03/19,121&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・23行目・建設・議決番号31",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議案第27号",
+      "date": "2026-03-19",
+      "title": "市道路線の認定について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/16,2026/03/19,121&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・24行目・建設・議決番号32",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議案第28号",
+      "date": "2026-03-19",
+      "title": "市道路線の廃止について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/16,2026/03/19,121&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・25行目・建設・議決番号33",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議案第29号",
+      "date": "2026-03-19",
+      "title": "令和7年度春日部市一般会計補正予算（第9号）について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/16,2026/03/19,121&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・26行目・各委員会・議決番号34",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議案第30号",
+      "date": "2026-03-19",
+      "title": "令和7年度春日部市国民健康保険特別会計補正予算（第4号）について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/16,2026/03/19,121&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・27行目・厚生福祉・議決番号35",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議案第31号",
+      "date": "2026-03-19",
+      "title": "令和7年度春日部市後期高齢者医療特別会計補正予算（第4号）について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/16,2026/03/19,121&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・28行目・厚生福祉・議決番号36",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議案第32号",
+      "date": "2026-03-19",
+      "title": "令和7年度春日部市介護保険特別会計補正予算（第3号）について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/16,2026/03/19,121&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・29行目・厚生福祉・議決番号37",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議案第33号",
+      "date": "2026-03-19",
+      "title": "令和7年度春日部都市計画事業西金野井第二土地区画整理事業特別会計補正予算（第2号）について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/16,2026/03/19,121&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・30行目・第2号・議決番号38",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議案第34号",
+      "date": "2026-03-19",
+      "title": "令和7年度春日部市立看護専門学校特別会計補正予算（第3号）について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/16,2026/03/19,121&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・31行目・厚生福祉・議決番号39",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=1",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議案第35号",
+      "date": "2026-03-19",
+      "title": "令和7年度春日部市病院事業会計補正予算（第3号）について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/16,2026/03/19,121&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=2",
+      "resultLocator": "公式採決状況PDF2頁・1行目・厚生福祉・議決番号40",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=2",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議案第36号",
+      "date": "2026-03-19",
+      "title": "令和7年度春日部市下水道事業会計補正予算（第3号）について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/16,2026/03/19,121&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=2",
+      "resultLocator": "公式採決状況PDF2頁・2行目・建設・議決番号41",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=2",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議案第37号",
+      "date": "2026-03-19",
+      "title": "令和8年度春日部市一般会計予算について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/16,2026/03/19,121&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=2",
+      "resultLocator": "公式採決状況PDF2頁・3行目・各委員会・議決番号7",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "反対",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成３・反対１"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=2",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議案第38号",
+      "date": "2026-03-19",
+      "title": "令和8年度春日部市国民健康保険特別会計予算について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/16,2026/03/19,121&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=2",
+      "resultLocator": "公式採決状況PDF2頁・4行目・厚生福祉・議決番号42",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "反対",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成３・反対１"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=2",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議案第39号",
+      "date": "2026-03-19",
+      "title": "令和8年度春日部市後期高齢者医療特別会計予算について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/16,2026/03/19,121&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=2",
+      "resultLocator": "公式採決状況PDF2頁・5行目・厚生福祉・議決番号43",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "反対",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=2",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議案第40号",
+      "date": "2026-03-19",
+      "title": "令和8年度春日部市介護保険特別会計予算について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/16,2026/03/19,121&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=2",
+      "resultLocator": "公式採決状況PDF2頁・6行目・厚生福祉・議決番号8",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "反対",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=2",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議案第41号",
+      "date": "2026-03-19",
+      "title": "令和8年度春日部都市計画事業西金野井第二土地区画整理事業特別会計予算について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/16,2026/03/19,121&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=2",
+      "resultLocator": "公式採決状況PDF2頁・7行目・建設・議決番号44",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=2",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議案第42号",
+      "date": "2026-03-19",
+      "title": "令和8年度春日部市立看護専門学校特別会計予算について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/16,2026/03/19,121&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=2",
+      "resultLocator": "公式採決状況PDF2頁・8行目・厚生福祉・議決番号45",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=2",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議案第43号",
+      "date": "2026-03-19",
+      "title": "令和8年度春日部市水道事業会計予算について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/16,2026/03/19,121&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=2",
+      "resultLocator": "公式採決状況PDF2頁・9行目・建設・議決番号46",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "反対",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=2",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議案第44号",
+      "date": "2026-03-19",
+      "title": "令和8年度春日部市病院事業会計予算について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/16,2026/03/19,121&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=2",
+      "resultLocator": "公式採決状況PDF2頁・10行目・厚生福祉・議決番号47",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=2",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議案第45号",
+      "date": "2026-03-19",
+      "title": "令和8年度春日部市下水道事業会計予算について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/16,2026/03/19,121&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=2",
+      "resultLocator": "公式採決状況PDF2頁・11行目・建設・議決番号48",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "反対",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=2",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議案第46号",
+      "date": "2026-02-16",
+      "title": "春日部市監査委員の選任につき同意を求めるについて",
+      "result": "同意",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/02/16,2026/03/19,121&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=2",
+      "resultLocator": "公式採決状況PDF2頁・12行目・付託省略・議決番号4",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=2",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議第1号",
+      "date": "2026-03-19",
+      "title": "春日部市議会基本条例の一部改正について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_IkenView.asp?SrchID=432&bunrui=&kword1=&kword2=",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=2",
+      "resultLocator": "公式採決状況PDF2頁・17行目・付託省略",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=2",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議第2号",
+      "date": "2026-03-19",
+      "title": "テレビ受信機能付きカーナビ搭載の公用車におけるNHK受信料の全額免除制度の創設を求める意見書について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_IkenView.asp?SrchID=433&bunrui=&kword1=&kword2=",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=2",
+      "resultLocator": "公式採決状況PDF2頁・18行目・付託省略",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=2",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議第3号",
+      "date": "2026-03-19",
+      "title": "小中学校給食費の「完全無償化」を求める意見書について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_IkenView.asp?SrchID=434&bunrui=&kword1=&kword2=",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=2",
+      "resultLocator": "公式採決状況PDF2頁・19行目・付託省略",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=2",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議第4号",
+      "date": "2026-03-19",
+      "title": "国民の命と健康を守るために診療報酬の抜本的な引き上げを求める意見書について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_IkenView.asp?SrchID=435&bunrui=&kword1=&kword2=",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=3",
+      "resultLocator": "公式採決状況PDF3頁・1行目・付託省略",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成１"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=3",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議第5号",
+      "date": "2026-03-19",
+      "title": "憲法9条の堅持を求める意見書について",
+      "result": "否決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_IkenView.asp?SrchID=436&bunrui=&kword1=&kword2=",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=3",
+      "resultLocator": "公式採決状況PDF3頁・2行目・付託省略",
+      "votes": {
+        "新政の会": "反対",
+        "次世代 かすかべ！": "反対",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "反対",
+        "無所属": "賛成１・反対３"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=3",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議第6号",
+      "date": "2026-03-19",
+      "title": "高額療養費の自己負担限度額引き上げ撤回を求める意見書について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_IkenView.asp?SrchID=437&bunrui=&kword1=&kword2=",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=3",
+      "resultLocator": "公式採決状況PDF3頁・3行目・付託省略",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成１・反対３"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=3",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議第7号",
+      "date": "2026-03-19",
+      "title": "男女別学の埼玉県立高等学校において生徒の意見を尊重した方針決定を求める意見書について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_IkenView.asp?SrchID=438&bunrui=&kword1=&kword2=",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=3",
+      "resultLocator": "公式採決状況PDF3頁・4行目・付託省略",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=3",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "議第8号",
+      "date": "2026-03-19",
+      "title": "イランにおける戦闘の即時停止と平和的解決に向けた意見書について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_IkenView.asp?SrchID=439&bunrui=&kword1=&kword2=",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=3",
+      "resultLocator": "公式採決状況PDF3頁・5行目・付託省略",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=3",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "請願第1号",
+      "date": "2026-03-19",
+      "title": "心身障害者通所支援施設「リサイクルショップ」は現在地での存続を求めるに関する請願",
+      "result": "不採択",
+      "url": "https://www.kasukabe-shigikai.jp/g07_SeiganView.asp?SrchID=181&kword1=&kword2=",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=2",
+      "resultLocator": "公式採決状況PDF2頁・15行目・厚生福祉",
+      "votes": {
+        "新政の会": "反対",
+        "次世代 かすかべ！": "反対",
+        "公明党": "反対",
+        "日本共産党": "賛成",
+        "立憲民主党": "反対",
+        "日本維新の会": "反対",
+        "無所属": "反対"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=2",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "number": "請願第2号",
+      "date": "2026-03-19",
+      "title": "小中学校給食費の完全無償化を求める請願",
+      "result": "採択",
+      "url": "https://www.kasukabe-shigikai.jp/g07_SeiganView.asp?SrchID=182&kword1=&kword2=",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=2",
+      "resultLocator": "公式採決状況PDF2頁・16行目・教育環境",
+      "votes": {
+        "新政の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg96_202603sinngikekka.pdf#page=2",
+      "voteNote": "採決状況の会派等7欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "number": "議案第48号",
+      "date": "2026-06-18",
+      "title": "専決処分の承認を求めるについて（春日部市税条例等の一部改正）",
+      "result": "承認",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/05/28,2026/06/18,123&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・1行目・総務・議決番号63",
+      "votes": {
+        "自民・無所属の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "国民民主党": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "voteNote": "採決状況の会派等8欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "number": "議案第49号",
+      "date": "2026-06-18",
+      "title": "専決処分の承認を求めるについて（春日部市都市計画税条例の一部改正）",
+      "result": "承認",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/05/28,2026/06/18,123&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・2行目・総務・議決番号64",
+      "votes": {
+        "自民・無所属の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "国民民主党": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "voteNote": "採決状況の会派等8欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "number": "議案第50号",
+      "date": "2026-06-18",
+      "title": "専決処分の承認を求めるについて（春日部市国民健康保険税条例等の一部改正）",
+      "result": "承認",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/05/28,2026/06/18,123&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・3行目・厚生福祉・議決番号65",
+      "votes": {
+        "自民・無所属の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "反対",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "国民民主党": "賛成",
+        "無所属": "賛成・反対（人数の記載なし）"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "voteNote": "採決状況の会派等8欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。人数の記載なく○と×が並ぶ欄は「賛成・反対（人数の記載なし）」と表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "number": "議案第51号",
+      "date": "2026-06-18",
+      "title": "地方自治法の一部を改正する法律の施行に伴う関係条例の整理に関する条例の制定について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/05/28,2026/06/18,123&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・4行目・総務・厚生福祉・理に関する条例の制定建設・議決番号66",
+      "votes": {
+        "自民・無所属の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "国民民主党": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "voteNote": "採決状況の会派等8欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "number": "議案第52号",
+      "date": "2026-06-18",
+      "title": "春日部市印鑑条例の一部改正について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/05/28,2026/06/18,123&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・5行目・総務・議決番号67",
+      "votes": {
+        "自民・無所属の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "国民民主党": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "voteNote": "採決状況の会派等8欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "number": "議案第53号",
+      "date": "2026-06-18",
+      "title": "春日部市税条例の一部改正について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/05/28,2026/06/18,123&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・6行目・総務・議決番号68",
+      "votes": {
+        "自民・無所属の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "国民民主党": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "voteNote": "採決状況の会派等8欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "number": "議案第54号",
+      "date": "2026-06-18",
+      "title": "春日部市介護保険条例の一部改正について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/05/28,2026/06/18,123&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・7行目・厚生福祉・議決番号69",
+      "votes": {
+        "自民・無所属の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "国民民主党": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "voteNote": "採決状況の会派等8欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "number": "議案第55号",
+      "date": "2026-06-18",
+      "title": "春日部市企業誘致条例の一部改正について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/05/28,2026/06/18,123&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・8行目・教育環境・議決番号70",
+      "votes": {
+        "自民・無所属の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "国民民主党": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "voteNote": "採決状況の会派等8欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "number": "議案第56号",
+      "date": "2026-06-18",
+      "title": "春日部市下水道条例の一部改正について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/05/28,2026/06/18,123&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・9行目・建設・議決番号71",
+      "votes": {
+        "自民・無所属の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "反対",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "国民民主党": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "voteNote": "採決状況の会派等8欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "number": "議案第57号",
+      "date": "2026-06-18",
+      "title": "春日部市水道事業給水条例の一部改正について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/05/28,2026/06/18,123&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・10行目・建設・議決番号72",
+      "votes": {
+        "自民・無所属の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "反対",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "国民民主党": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "voteNote": "採決状況の会派等8欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "number": "議案第58号",
+      "date": "2026-06-18",
+      "title": "春日部市病院事業企業職員定数条例の一部改正について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/05/28,2026/06/18,123&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・11行目・厚生福祉・議決番号73",
+      "votes": {
+        "自民・無所属の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "国民民主党": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "voteNote": "採決状況の会派等8欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "number": "議案第59号",
+      "date": "2026-06-02",
+      "title": "豊野中学校校舎トイレ改修工事請負契約の締結について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/05/28,2026/06/18,123&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・12行目・教育環境・議決番号58",
+      "votes": {
+        "自民・無所属の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "国民民主党": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "voteNote": "採決状況の会派等8欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "number": "議案第60号",
+      "date": "2026-06-02",
+      "title": "春日部中学校校舎トイレ改修工事請負契約の締結について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/05/28,2026/06/18,123&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・13行目・教育環境・議決番号59",
+      "votes": {
+        "自民・無所属の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "国民民主党": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "voteNote": "採決状況の会派等8欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "number": "議案第61号",
+      "date": "2026-06-02",
+      "title": "豊春中学校校舎トイレ改修工事請負契約の締結について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/05/28,2026/06/18,123&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・14行目・教育環境・議決番号60",
+      "votes": {
+        "自民・無所属の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "国民民主党": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "voteNote": "採決状況の会派等8欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "number": "議案第62号",
+      "date": "2026-06-02",
+      "title": "春日部中学校体育館外壁等耐震対策工事請負契約の締結について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/05/28,2026/06/18,123&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・15行目・教育環境・議決番号61",
+      "votes": {
+        "自民・無所属の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "国民民主党": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "voteNote": "採決状況の会派等8欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "number": "議案第63号",
+      "date": "2026-06-02",
+      "title": "飯沼中学校校舎トイレ改修工事請負契約の締結について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/05/28,2026/06/18,123&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・16行目・教育環境・議決番号62",
+      "votes": {
+        "自民・無所属の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "国民民主党": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "voteNote": "採決状況の会派等8欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "number": "議案第64号",
+      "date": "2026-06-18",
+      "title": "財産の取得について（春日部市春日部消防署武里分署災害対応特殊消防ポンプ自動車CD－Ⅰ型）",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/05/28,2026/06/18,123&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・17行目・総務・議決番号74",
+      "votes": {
+        "自民・無所属の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "国民民主党": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "voteNote": "採決状況の会派等8欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "number": "議案第65号",
+      "date": "2026-06-18",
+      "title": "財産の取得について（春日部市春日部消防署東分署災害対応特殊救急自動車及び高度救命処置用資機材）",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/05/28,2026/06/18,123&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・18行目・総務・議決番号75",
+      "votes": {
+        "自民・無所属の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "国民民主党": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "voteNote": "採決状況の会派等8欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "number": "議案第66号",
+      "date": "2026-06-18",
+      "title": "令和8年度春日部市一般会計補正予算（第1号）について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/05/28,2026/06/18,123&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・19行目・各委員会・議決番号76",
+      "votes": {
+        "自民・無所属の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "国民民主党": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "voteNote": "採決状況の会派等8欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "number": "議案第67号",
+      "date": "2026-06-18",
+      "title": "令和8年度春日部市水道事業会計補正予算（第1号）について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/05/28,2026/06/18,123&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・20行目・建設・議決番号77",
+      "votes": {
+        "自民・無所属の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "反対",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "国民民主党": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "voteNote": "採決状況の会派等8欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "number": "議案第68号",
+      "date": "2026-06-18",
+      "title": "令和8年度春日部市下水道事業会計補正予算（第1号）について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/05/28,2026/06/18,123&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・21行目・建設・議決番号78",
+      "votes": {
+        "自民・無所属の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "反対",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "国民民主党": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "voteNote": "採決状況の会派等8欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "number": "議案第69号",
+      "date": "2026-06-18",
+      "title": "（仮称）かすかべひがし交流センター整備工事請負契約の締結について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/05/28,2026/06/18,123&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・22行目・総務・議決番号79",
+      "votes": {
+        "自民・無所属の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "国民民主党": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "voteNote": "採決状況の会派等8欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "number": "議案第70号",
+      "date": "2026-06-18",
+      "title": "（仮称）かすかべひがし交流センター展示設計製作業務委託契約の締結について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_giketsu.asp?KWORD1=&EXP=AND&KWORD2=&BUNRUI=&KAIGI=2026/05/28,2026/06/18,123&NENFROM=&NENTO=&KEKKA=&SMODE=2&KENSU=100&Sflg=2",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・23行目・総務・議決番号80",
+      "votes": {
+        "自民・無所属の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "国民民主党": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "voteNote": "採決状況の会派等8欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "number": "議第9号",
+      "date": "2026-06-18",
+      "title": "中東情勢による物価・建設資材・燃料価格高騰の中小建設業者への緊急支援制度の創設を求める意見書について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_IkenView.asp?SrchID=440&bunrui=&kword1=&kword2=",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・27行目・付託省略",
+      "votes": {
+        "自民・無所属の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "国民民主党": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "voteNote": "採決状況の会派等8欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "number": "議第10号",
+      "date": "2026-06-18",
+      "title": "物価・建設資材・ガソリン高騰による中小建設業者への緊急支援制度の創設を求める意見書について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_IkenView.asp?SrchID=441&bunrui=&kword1=&kword2=",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・28行目・付託省略",
+      "votes": {
+        "自民・無所属の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "国民民主党": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "voteNote": "採決状況の会派等8欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "number": "議第11号",
+      "date": "2026-06-18",
+      "title": "住まいの安定と居住支援の抜本的強化を求める意見書について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_IkenView.asp?SrchID=442&bunrui=&kword1=&kword2=",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・29行目・付託省略",
+      "votes": {
+        "自民・無所属の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "国民民主党": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "voteNote": "採決状況の会派等8欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "number": "議第12号",
+      "date": "2026-06-18",
+      "title": "すべてのケアラーに対する包括的な支援と法的枠組みの整備を求める意見書について",
+      "result": "原案可決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_IkenView.asp?SrchID=443&bunrui=&kword1=&kword2=",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・30行目・付託省略",
+      "votes": {
+        "自民・無所属の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "国民民主党": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "voteNote": "採決状況の会派等8欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "number": "議第13号",
+      "date": "2026-06-18",
+      "title": "イラン戦争がもたらす物価高・資材不足から暮らしと営業を守るための緊急対策を求める意見書について",
+      "result": "否決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_IkenView.asp?SrchID=444&bunrui=&kword1=&kword2=",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・31行目・付託省略",
+      "votes": {
+        "自民・無所属の会": "反対",
+        "次世代 かすかべ！": "反対",
+        "公明党": "反対",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "反対",
+        "国民民主党": "反対",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "voteNote": "採決状況の会派等8欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "number": "議第14号",
+      "date": "2026-06-18",
+      "title": "物価高騰対策として緊急に消費税減税を求める意見書について",
+      "result": "否決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_IkenView.asp?SrchID=445&bunrui=&kword1=&kword2=",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・32行目・付託省略",
+      "votes": {
+        "自民・無所属の会": "反対",
+        "次世代 かすかべ！": "反対",
+        "公明党": "反対",
+        "日本共産党": "賛成",
+        "立憲民主党": "反対",
+        "日本維新の会": "反対",
+        "国民民主党": "反対",
+        "無所属": "賛成・反対（人数の記載なし）"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "voteNote": "採決状況の会派等8欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。人数の記載なく○と×が並ぶ欄は「賛成・反対（人数の記載なし）」と表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "number": "議第15号",
+      "date": "2026-06-18",
+      "title": "再審開始決定に対する検察官の抗告を禁止する法改正を求める意見書について",
+      "result": "否決",
+      "url": "https://www.kasukabe-shigikai.jp/g07_IkenView.asp?SrchID=446&bunrui=&kword1=&kword2=",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・33行目・付託省略",
+      "votes": {
+        "自民・無所属の会": "反対",
+        "次世代 かすかべ！": "反対",
+        "公明党": "反対",
+        "日本共産党": "賛成",
+        "立憲民主党": "反対",
+        "日本維新の会": "反対",
+        "国民民主党": "反対",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "voteNote": "採決状況の会派等8欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "number": "請願第3号",
+      "date": "2026-06-18",
+      "title": "国に「中東情勢による物価・建設資材・燃料価格高騰の中小建設業者への緊急支援制度の創設を求める意見書」の提出を求める請願",
+      "result": "採択",
+      "url": "https://www.kasukabe-shigikai.jp/g07_SeiganView.asp?SrchID=183&kword1=&kword2=",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・24行目・建設",
+      "votes": {
+        "自民・無所属の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "国民民主党": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "voteNote": "採決状況の会派等8欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "number": "請願第4号",
+      "date": "2026-06-18",
+      "title": "国に「物価・建設資材・ガソリン高騰による中小建設業者への緊急支援制度の創設を求める意見書」の提出を求める請願",
+      "result": "採択",
+      "url": "https://www.kasukabe-shigikai.jp/g07_SeiganView.asp?SrchID=184&kword1=&kword2=",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・25行目・建設",
+      "votes": {
+        "自民・無所属の会": "賛成",
+        "次世代 かすかべ！": "賛成",
+        "公明党": "賛成",
+        "日本共産党": "賛成",
+        "立憲民主党": "賛成",
+        "日本維新の会": "賛成",
+        "国民民主党": "賛成",
+        "無所属": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "voteNote": "採決状況の会派等8欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。"
+    },
+    {
+      "place": "春日部市",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "number": "請願第5号",
+      "date": "2026-06-18",
+      "title": "従来の健康保険証の復活を国にもとめる意見書の提出を求める請願",
+      "result": "不採択",
+      "url": "https://www.kasukabe-shigikai.jp/g07_SeiganView.asp?SrchID=185&kword1=&kword2=",
+      "sourceTitle": "議案・議決日の公式一覧",
+      "resultURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "resultLocator": "公式採決状況PDF1頁・26行目・厚生福祉",
+      "votes": {
+        "自民・無所属の会": "反対",
+        "次世代 かすかべ！": "反対",
+        "公明党": "反対",
+        "日本共産党": "賛成",
+        "立憲民主党": "反対",
+        "日本維新の会": "反対",
+        "国民民主党": "反対",
+        "無所属": "賛成・反対（人数の記載なし）"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://www.kasukabe-shigikai.jp/voices/GikaiDoc/attach/Congress/Kg99_kekka6.pdf#page=1",
+      "voteNote": "採決状況の会派等8欄を表示。無所属欄の人数内訳は原表に記載がある行を表示。人数の記載なく○と×が並ぶ欄は「賛成・反対（人数の記載なし）」と表示。"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-02-13",
+      "number": "議案第1号",
+      "title": "専決処分の承認を求めることについて",
+      "result": "承認",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-03-09",
+      "number": "議案第2号",
+      "title": "令和8年度加須市一般会計予算",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-03-09",
+      "number": "議案第3号",
+      "title": "令和8年度加須市国民健康保険事業特別会計予算",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-03-09",
+      "number": "議案第4号",
+      "title": "令和8年度加須市国民健康保険直営診療所特別会計予算",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-03-09",
+      "number": "議案第5号",
+      "title": "令和8年度加須市後期高齢者医療特別会計予算",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-03-09",
+      "number": "議案第6号",
+      "title": "令和8年度加須市介護保険事業特別会計予算",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-03-09",
+      "number": "議案第7号",
+      "title": "令和8年度加須都市計画事業野中土地区画整理事業特別会計予算",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-03-09",
+      "number": "議案第8号",
+      "title": "令和8年度河野博士育英事業特別会計予算",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-03-09",
+      "number": "議案第9号",
+      "title": "令和8年度加須市水道事業会計予算",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-03-09",
+      "number": "議案第10号",
+      "title": "令和8年度加須市下水道事業会計予算",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-02-20",
+      "number": "議案第11号",
+      "title": "令和7年度加須市一般会計補正予算（第8号）",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-02-13",
+      "number": "議案第12号",
+      "title": "令和7年度加須市国民健康保険事業特別会計補正予算（第3号）",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-02-13",
+      "number": "議案第13号",
+      "title": "令和7年度加須市後期高齢者医療特別会計補正予算（第3号）",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-02-13",
+      "number": "議案第14号",
+      "title": "令和7年度加須市介護保険事業特別会計補正予算（第3号）",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-02-13",
+      "number": "議案第15号",
+      "title": "令和7年度加須都市計画事業野中土地区画整理事業特別会計補正予算（第1号）",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-02-13",
+      "number": "議案第16号",
+      "title": "令和7年度加須市下水道事業会計補正予算（第2号）",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-02-13",
+      "number": "議案第17号",
+      "title": "加須市行政手続条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-02-13",
+      "number": "議案第18号",
+      "title": "加須市議会議員の議員報酬及び費用弁償等に関する条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-02-13",
+      "number": "議案第19号",
+      "title": "加須市特別職職員の給与等に関する条例及び加須市教育委員会教育長の給与等に関する条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-02-13",
+      "number": "議案第20号",
+      "title": "加須市一般職職員の給与に関する条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-02-13",
+      "number": "議案第21号",
+      "title": "加須市会計年度任用職員の給与及び費用弁償に関する条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-02-13",
+      "number": "議案第22号",
+      "title": "加須市税条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-03-09",
+      "number": "議案第23号",
+      "title": "加須市国民健康保険税条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-02-13",
+      "number": "議案第24号",
+      "title": "加須市乳児等通園支援事業の設備及び運営に関する基準を定める条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-02-13",
+      "number": "議案第25号",
+      "title": "工事請負契約の締結について",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-02-13",
+      "number": "議案第26号",
+      "title": "工事請負契約の締結について",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-02-13",
+      "number": "議案第27号",
+      "title": "財産の取得について",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-02-13",
+      "number": "議案第28号",
+      "title": "訴えの提起について",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-02-13",
+      "number": "議案第29号",
+      "title": "和解することについて",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-03-09",
+      "number": "議案第30号",
+      "title": "第2次加須市総合振興計画基本構想の改訂について",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-02-13",
+      "number": "議案第31号",
+      "title": "市道路線の認定について",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-02-13",
+      "number": "議案第32号",
+      "title": "市道路線の廃止について",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-02-13",
+      "number": "議案第33号",
+      "title": "市道路線の認定について",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-02-13",
+      "number": "議案第34号",
+      "title": "市道路線の廃止について",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-03-09",
+      "number": "議案第35号",
+      "title": "令和7年度加須市一般会計補正予算（第9号）",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-03-09",
+      "number": "議案第36号",
+      "title": "加須市農業委員会委員の任命について",
+      "result": "同意",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-03-09",
+      "number": "議案第37号",
+      "title": "加須市農業委員会委員の任命について",
+      "result": "同意",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-03-09",
+      "number": "議案第38号",
+      "title": "加須市農業委員会委員の任命について",
+      "result": "同意",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-03-09",
+      "number": "議案第39号",
+      "title": "加須市農業委員会委員の任命について",
+      "result": "同意",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-03-09",
+      "number": "議案第40号",
+      "title": "加須市農業委員会委員の任命について",
+      "result": "同意",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-03-09",
+      "number": "議案第41号",
+      "title": "加須市農業委員会委員の任命について",
+      "result": "同意",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-03-09",
+      "number": "議案第42号",
+      "title": "加須市農業委員会委員の任命について",
+      "result": "同意",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-03-09",
+      "number": "議案第43号",
+      "title": "加須市農業委員会委員の任命について",
+      "result": "同意",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-03-09",
+      "number": "議案第44号",
+      "title": "加須市農業委員会委員の任命について",
+      "result": "同意",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-03-09",
+      "number": "議案第45号",
+      "title": "加須市農業委員会委員の任命について",
+      "result": "同意",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-03-09",
+      "number": "議案第46号",
+      "title": "加須市農業委員会委員の任命について",
+      "result": "同意",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-03-09",
+      "number": "議案第47号",
+      "title": "加須市農業委員会委員の任命について",
+      "result": "同意",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-03-09",
+      "number": "議案第48号",
+      "title": "加須市農業委員会委員の任命について",
+      "result": "同意",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-03-09",
+      "number": "議案第49号",
+      "title": "加須市農業委員会委員の任命について",
+      "result": "同意",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-03-09",
+      "number": "議案第50号",
+      "title": "加須市農業委員会委員の任命について",
+      "result": "同意",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-03-09",
+      "number": "議案第2号に対する修正案",
+      "title": "令和8年度加須市一般会計予算に対する修正案",
+      "result": "否決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-03-09",
+      "number": "議案第23号に対する修正案",
+      "title": "加須市国民健康保険税条例の一部を改正する条例に対する修正案",
+      "result": "否決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-03-09",
+      "number": "請願第1号",
+      "title": "全会一致で継続審議とされた委員会の映像化について、1年経過を踏まえ具体的な議論を進めることを求める請願",
+      "result": "不採択",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表"
+    },
+    {
+      "place": "加須市",
+      "season": "spring",
+      "session": "令和8年第1回定例会",
+      "date": "2026-03-09",
+      "number": "議員提出議案第1号",
+      "title": "アメリカとイスラエルにイラン攻撃の即時中止を求める決議",
+      "result": "原案否決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa7nennteireikai/43175.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表"
+    },
+    {
+      "place": "加須市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "date": "2026-06-25",
+      "number": "議案第61号",
+      "title": "令和8年度加須市一般会計補正予算(第1号)",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "date": "2026-06-15",
+      "number": "議案第62号",
+      "title": "令和8年度加須市国民健康保険事業特別会計補正予算(第1号)",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "date": "2026-06-15",
+      "number": "議案第63号",
+      "title": "令和8年度加須市国民健康保険直営診療所特別会計補正予算(第1号)",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "date": "2026-06-15",
+      "number": "議案第64号",
+      "title": "令和8年度加須市介護保険事業特別会計補正予算(第1号)",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "date": "2026-06-15",
+      "number": "議案第65号",
+      "title": "加須市国民健康保険北川辺診療所条例及び加須市国民健康保険北川辺診療所施設整備等基金条例を廃止する等の条例",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "date": "2026-06-15",
+      "number": "議案第66号",
+      "title": "工事請負契約の締結について",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "date": "2026-06-15",
+      "number": "議案第67号",
+      "title": "工事請負契約の締結について",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "date": "2026-06-15",
+      "number": "議案第68号",
+      "title": "財産の取得について",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "date": "2026-06-15",
+      "number": "議案第69号",
+      "title": "市道路線の認定について",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "date": "2026-06-15",
+      "number": "議案第70号",
+      "title": "市道路線の廃止について",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "date": "2026-06-15",
+      "number": "議案第71号",
+      "title": "市道路線の認定について",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "date": "2026-06-15",
+      "number": "議案第72号",
+      "title": "市道路線の廃止について",
+      "result": "原案可決",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "date": "2026-06-25",
+      "number": "議案第73号",
+      "title": "加須市副市長の選任について",
+      "result": "同意",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "date": "2026-06-25",
+      "number": "議案第74号",
+      "title": "加須市監査委員の選任について",
+      "result": "同意",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "date": "2026-06-25",
+      "number": "議案第75号",
+      "title": "加須市公平委員会委員の選任について",
+      "result": "同意",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "date": "2026-06-25",
+      "number": "議案第76号",
+      "title": "加須市教育委員会委員の任命について",
+      "result": "同意",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "date": "2026-06-25",
+      "number": "議案第77号",
+      "title": "加須市教育委員会委員の任命について",
+      "result": "同意",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "date": "2026-06-25",
+      "number": "議案第78号",
+      "title": "加須市教育委員会委員の任命について",
+      "result": "同意",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表",
+      "proposer": "加須市長"
+    },
+    {
+      "place": "加須市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "date": "2026-06-25",
+      "number": "請願第2号",
+      "title": "花崎南地区における幹線道路の整備促進に関する請願",
+      "result": "採択",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表"
+    },
+    {
+      "place": "加須市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "date": "2026-06-25",
+      "number": "請願第3号",
+      "title": "国に「燃油・物価・建築資材高騰による中小建設業者への緊急支援制度の創設を求める意見書」の提出を求める請願",
+      "result": "趣旨採択",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表"
+    },
+    {
+      "place": "加須市",
+      "season": "summer",
+      "session": "令和8年第2回定例会",
+      "date": "2026-06-25",
+      "number": "請願第4号",
+      "title": "市民が委員会審査の過程を映像・音声でも確認できるよう、委員会の映像化について具体的な議論を進めることを求める請願",
+      "result": "不採択",
+      "url": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
+      "resultURL": "https://www.city.kazo.lg.jp/soshiki/gikai/teirei/reiwa8nennteireikai_1/43736.html#6",
+      "sourceTitle": "市公式の議案審議結果一覧表"
+    },
+    {
+      "place": "日高市",
+      "season": "spring",
+      "session": "令和8年第2回定例会（3月）",
+      "date": "2026-03-17",
+      "number": "議案第4号",
+      "title": "令和７年度日高市一般会計補正予算（第９号）",
+      "result": "原案可決",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「全員」。"
+    },
+    {
+      "place": "日高市",
+      "season": "spring",
+      "session": "令和8年第2回定例会（3月）",
+      "date": "2026-03-17",
+      "number": "議案第5号",
+      "title": "令和７年度日高市国民健康保険特別会計補正予算（第２号）",
+      "result": "原案可決",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「全員」。"
+    },
+    {
+      "place": "日高市",
+      "season": "spring",
+      "session": "令和8年第2回定例会（3月）",
+      "date": "2026-03-17",
+      "number": "議案第6号",
+      "title": "令和７年度日高市介護保険特別会計補正予算（第２号）",
+      "result": "原案可決",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「全員」。"
+    },
+    {
+      "place": "日高市",
+      "season": "spring",
+      "session": "令和8年第2回定例会（3月）",
+      "date": "2026-03-17",
+      "number": "議案第7号",
+      "title": "令和７年度日高市武蔵高萩駅北土地区画整理事業特別会計補正予算（第２号）",
+      "result": "原案可決",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「全員」。"
+    },
+    {
+      "place": "日高市",
+      "season": "spring",
+      "session": "令和8年第2回定例会（3月）",
+      "date": "2026-03-17",
+      "number": "議案第8号",
+      "title": "令和８年度日高市一般会計予算",
+      "result": "原案可決",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「多数」。"
+    },
+    {
+      "place": "日高市",
+      "season": "spring",
+      "session": "令和8年第2回定例会（3月）",
+      "date": "2026-03-17",
+      "number": "議案第9号",
+      "title": "令和８年度日高市国民健康保険特別会計予算",
+      "result": "原案可決",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「多数」。"
+    },
+    {
+      "place": "日高市",
+      "season": "spring",
+      "session": "令和8年第2回定例会（3月）",
+      "date": "2026-03-17",
+      "number": "議案第10号",
+      "title": "令和８年度日高市後期高齢者医療特別会計予算",
+      "result": "原案可決",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「多数」。"
+    },
+    {
+      "place": "日高市",
+      "season": "spring",
+      "session": "令和8年第2回定例会（3月）",
+      "date": "2026-03-17",
+      "number": "議案第11号",
+      "title": "令和８年度日高市介護保険特別会計予算",
+      "result": "原案可決",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「多数」。"
+    },
+    {
+      "place": "日高市",
+      "season": "spring",
+      "session": "令和8年第2回定例会（3月）",
+      "date": "2026-03-17",
+      "number": "議案第12号",
+      "title": "令和８年度日高市武蔵高萩駅北土地区画整理事業特別会計予算",
+      "result": "原案可決",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「全員」。"
+    },
+    {
+      "place": "日高市",
+      "season": "spring",
+      "session": "令和8年第2回定例会（3月）",
+      "date": "2026-03-17",
+      "number": "議案第13号",
+      "title": "令和８年度日高市水道事業会計予算",
+      "result": "原案可決",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「全員」。"
+    },
+    {
+      "place": "日高市",
+      "season": "spring",
+      "session": "令和8年第2回定例会（3月）",
+      "date": "2026-03-17",
+      "number": "議案第14号",
+      "title": "令和８年度日高市下水道事業会計予算",
+      "result": "原案可決",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「全員」。"
+    },
+    {
+      "place": "日高市",
+      "season": "spring",
+      "session": "令和8年第2回定例会（3月）",
+      "date": "2026-03-17",
+      "number": "議案第15号",
+      "title": "日高市特定乳児等通園支援事業の運営に関する基準を定める条例",
+      "result": "原案可決",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「多数」。"
+    },
+    {
+      "place": "日高市",
+      "season": "spring",
+      "session": "令和8年第2回定例会（3月）",
+      "date": "2026-03-17",
+      "number": "議案第16号",
+      "title": "日高市健幸のまち推進のための受動喫煙防止条例",
+      "result": "原案可決",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「全員」。"
+    },
+    {
+      "place": "日高市",
+      "season": "spring",
+      "session": "令和8年第2回定例会（3月）",
+      "date": "2026-03-17",
+      "number": "議案第17号",
+      "title": "日高市行政組織条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「全員」。"
+    },
+    {
+      "place": "日高市",
+      "season": "spring",
+      "session": "令和8年第2回定例会（3月）",
+      "date": "2026-03-17",
+      "number": "議案第18号",
+      "title": "日高市行政手続条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「全員」。"
+    },
+    {
+      "place": "日高市",
+      "season": "spring",
+      "session": "令和8年第2回定例会（3月）",
+      "date": "2026-03-17",
+      "number": "議案第19号",
+      "title": "日高市行政手続等における情報通信の技術の利用に関する条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「全員」。"
+    },
+    {
+      "place": "日高市",
+      "season": "spring",
+      "session": "令和8年第2回定例会（3月）",
+      "date": "2026-03-17",
+      "number": "議案第20号",
+      "title": "日高市職員定数条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「全員」。"
+    },
+    {
+      "place": "日高市",
+      "season": "spring",
+      "session": "令和8年第2回定例会（3月）",
+      "date": "2026-03-17",
+      "number": "議案第21号",
+      "title": "日高市職員の給与に関する条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「全員」。"
+    },
+    {
+      "place": "日高市",
+      "season": "spring",
+      "session": "令和8年第2回定例会（3月）",
+      "date": "2026-03-17",
+      "number": "議案第22号",
+      "title": "日高市学校体育施設等の開放に関する条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「全員」。"
+    },
+    {
+      "place": "日高市",
+      "season": "spring",
+      "session": "令和8年第2回定例会（3月）",
+      "date": "2026-03-17",
+      "number": "議案第23号",
+      "title": "日高市国民健康保険条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「全員」。"
+    },
+    {
+      "place": "日高市",
+      "season": "spring",
+      "session": "令和8年第2回定例会（3月）",
+      "date": "2026-03-17",
+      "number": "議案第24号",
+      "title": "日高市国民健康保険税条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「多数」。"
+    },
+    {
+      "place": "日高市",
+      "season": "spring",
+      "session": "令和8年第2回定例会（3月）",
+      "date": "2026-03-17",
+      "number": "議案第25号",
+      "title": "日高市水道事業給水条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「全員」。"
+    },
+    {
+      "place": "日高市",
+      "season": "spring",
+      "session": "令和8年第2回定例会（3月）",
+      "date": "2026-03-17",
+      "number": "議案第26号",
+      "title": "日高市農村研修センター条例を廃止する条例",
+      "result": "原案可決",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=2",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=2",
+      "voteNote": "原表の議決結果欄の表記は「全員」。"
+    },
+    {
+      "place": "日高市",
+      "season": "spring",
+      "session": "令和8年第2回定例会（3月）",
+      "date": "2026-03-17",
+      "number": "議案第27号",
+      "title": "市道の路線の認定について",
+      "result": "原案可決",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=2",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=2",
+      "voteNote": "原表の議決結果欄の表記は「全員」。"
+    },
+    {
+      "place": "日高市",
+      "season": "spring",
+      "session": "令和8年第2回定例会（3月）",
+      "date": "2026-03-17",
+      "number": "議案第28号",
+      "title": "市道の路線の廃止について",
+      "result": "原案可決",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=2",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/reiwa8nendai2kai.pdf#page=2",
+      "voteNote": "原表の議決結果欄の表記は「全員」。"
+    },
+    {
+      "place": "日高市",
+      "season": "summer",
+      "session": "令和8年第3回定例会（6月）",
+      "date": "2026-06-02",
+      "number": "議案第32号",
+      "title": "人権擁護委員の候補者の推薦について",
+      "result": "同意",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R0803shinngikekka.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R0803shinngikekka.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「全員」。"
+    },
+    {
+      "place": "日高市",
+      "season": "summer",
+      "session": "令和8年第3回定例会（6月）",
+      "date": "2026-06-02",
+      "number": "議案第33号",
+      "title": "専決処分の承認を求めることについて",
+      "result": "承認",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R0803shinngikekka.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R0803shinngikekka.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「全員」。"
+    },
+    {
+      "place": "日高市",
+      "season": "summer",
+      "session": "令和8年第3回定例会（6月）",
+      "date": "2026-06-02",
+      "number": "議案第34号",
+      "title": "専決処分の承認を求めることについて",
+      "result": "承認",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R0803shinngikekka.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R0803shinngikekka.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「全員」。"
+    },
+    {
+      "place": "日高市",
+      "season": "summer",
+      "session": "令和8年第3回定例会（6月）",
+      "date": "2026-06-02",
+      "number": "議案第35号",
+      "title": "専決処分の承認を求めることについて",
+      "result": "承認",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R0803shinngikekka.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R0803shinngikekka.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「全員」。"
+    },
+    {
+      "place": "日高市",
+      "season": "summer",
+      "session": "令和8年第3回定例会（6月）",
+      "date": "2026-06-02",
+      "number": "議案第36号",
+      "title": "専決処分の承認を求めることについて",
+      "result": "承認",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R0803shinngikekka.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R0803shinngikekka.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「多数」。"
+    },
+    {
+      "place": "日高市",
+      "season": "summer",
+      "session": "令和8年第3回定例会（6月）",
+      "date": "2026-06-16",
+      "number": "議案第29号",
+      "title": "令和８年度日高市一般会計補正予算（第１号）",
+      "result": "原案可決",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R0803shinngikekka.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R0803shinngikekka.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「全員」。"
+    },
+    {
+      "place": "日高市",
+      "season": "summer",
+      "session": "令和8年第3回定例会（6月）",
+      "date": "2026-06-16",
+      "number": "議案第30号",
+      "title": "日高市税条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R0803shinngikekka.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R0803shinngikekka.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「全員」。"
+    },
+    {
+      "place": "日高市",
+      "season": "summer",
+      "session": "令和8年第3回定例会（6月）",
+      "date": "2026-06-16",
+      "number": "議案第31号",
+      "title": "日高市都市計画税条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R0803shinngikekka.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R0803shinngikekka.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「全員」。"
+    },
+    {
+      "place": "日高市",
+      "season": "summer",
+      "session": "令和8年第3回定例会（6月）",
+      "date": "2026-06-16",
+      "number": "請願第1号",
+      "title": "「太陽光パネルのリサイクル義務化を求める意見書」の提出を求める請願",
+      "result": "不採択",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R0803shinngikekka.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R0803shinngikekka.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「少数」。"
+    },
+    {
+      "place": "日高市",
+      "season": "summer",
+      "session": "令和8年第3回定例会（6月）",
+      "date": "2026-06-16",
+      "number": "請願第2号",
+      "title": "「農業の再生と食料安全保障の確立に向けた実効性のある所得補償制度の実現を早期に求める意見書」の提出を求める請願",
+      "result": "不採択",
+      "url": "https://www.city.hidaka.lg.jp/material/files/group/30/R0803shinngikekka.pdf#page=1",
+      "resultURL": "https://www.city.hidaka.lg.jp/material/files/group/30/R0803shinngikekka.pdf#page=1",
+      "voteNote": "原表の議決結果欄の表記は「少数」。"
+    },
+    {
+      "place": "松伏町",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "date": "2026-03-06",
+      "number": "議案第3号",
+      "title": "松伏町特定乳児等通園支援事業の運営に関する基準を定める条例",
+      "result": "原案可決",
+      "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=1",
+      "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=1",
+      "resultLocator": "公式の議案件名等一覧表及び処理結果 1頁・議決第3号",
+      "proposer": "松伏町長"
+    },
+    {
+      "place": "松伏町",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "date": "2026-03-06",
+      "number": "議案第4号",
+      "title": "松伏町職員の給与に関する条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=1",
+      "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=1",
+      "resultLocator": "公式の議案件名等一覧表及び処理結果 1頁・議決第4号",
+      "proposer": "松伏町長"
+    },
+    {
+      "place": "松伏町",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "date": "2026-03-06",
+      "number": "議案第5号",
+      "title": "松伏町国民健康保険税条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=1",
+      "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=1",
+      "resultLocator": "公式の議案件名等一覧表及び処理結果 1頁・議決第5号",
+      "proposer": "松伏町長"
+    },
+    {
+      "place": "松伏町",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "date": "2026-03-06",
+      "number": "議案第6号",
+      "title": "松伏町印鑑条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=1",
+      "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=1",
+      "resultLocator": "公式の議案件名等一覧表及び処理結果 1頁・議決第6号",
+      "proposer": "松伏町長"
+    },
+    {
+      "place": "松伏町",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "date": "2026-03-06",
+      "number": "議案第7号",
+      "title": "松伏町行政手続条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=1",
+      "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=1",
+      "resultLocator": "公式の議案件名等一覧表及び処理結果 1頁・議決第7号",
+      "proposer": "松伏町長"
+    },
+    {
+      "place": "松伏町",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "date": "2026-03-06",
+      "number": "議案第8号",
+      "title": "松伏町介護保険条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=1",
+      "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=1",
+      "resultLocator": "公式の議案件名等一覧表及び処理結果 1頁・議決第8号",
+      "proposer": "松伏町長"
+    },
+    {
+      "place": "松伏町",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "date": "2026-03-06",
+      "number": "議案第9号",
+      "title": "松伏町課設置条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=1",
+      "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=1",
+      "resultLocator": "公式の議案件名等一覧表及び処理結果 1頁・議決第9号",
+      "proposer": "松伏町長"
+    },
+    {
+      "place": "松伏町",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "date": "2026-03-06",
+      "number": "議案第10号",
+      "title": "松伏町乳児等通園支援事業の設備及び運営に関する基準を定める条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=1",
+      "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=1",
+      "resultLocator": "公式の議案件名等一覧表及び処理結果 1頁・議決第10号",
+      "proposer": "松伏町長"
+    },
+    {
+      "place": "松伏町",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "date": "2026-03-06",
+      "number": "議案第11号",
+      "title": "技能労務職員の給与の種類及び基準に関する条例を廃止する条例",
+      "result": "原案可決",
+      "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=1",
+      "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=1",
+      "resultLocator": "公式の議案件名等一覧表及び処理結果 1頁・議決第11号",
+      "proposer": "松伏町長"
+    },
+    {
+      "place": "松伏町",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "date": "2026-03-06",
+      "number": "議案第12号",
+      "title": "令和７年度松伏町一般会計補正予算（第７号）",
+      "result": "原案可決",
+      "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=1",
+      "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=1",
+      "resultLocator": "公式の議案件名等一覧表及び処理結果 1頁・議決第12号",
+      "proposer": "松伏町長"
+    },
+    {
+      "place": "松伏町",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "date": "2026-03-06",
+      "number": "議案第13号",
+      "title": "令和７年度松伏町国民健康保険特別会計補正予算（第３号）",
+      "result": "原案可決",
+      "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
+      "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
+      "resultLocator": "公式の議案件名等一覧表及び処理結果 2頁・議決第13号",
+      "proposer": "松伏町長"
+    },
+    {
+      "place": "松伏町",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "date": "2026-03-06",
+      "number": "議案第14号",
+      "title": "令和７年度松伏町介護保険特別会計補正予算（第３号）",
+      "result": "原案可決",
+      "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
+      "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
+      "resultLocator": "公式の議案件名等一覧表及び処理結果 2頁・議決第14号",
+      "proposer": "松伏町長"
+    },
+    {
+      "place": "松伏町",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "date": "2026-03-06",
+      "number": "議案第15号",
+      "title": "令和７年度松伏町後期高齢者医療特別会計補正予算（第３号）",
+      "result": "原案可決",
+      "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
+      "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
+      "resultLocator": "公式の議案件名等一覧表及び処理結果 2頁・議決第15号",
+      "proposer": "松伏町長"
+    },
+    {
+      "place": "松伏町",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "date": "2026-03-17",
+      "number": "議案第16号",
+      "title": "令和８年度松伏町一般会計予算",
+      "result": "原案可決",
+      "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
+      "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
+      "resultLocator": "公式の議案件名等一覧表及び処理結果 2頁・議決第17号",
+      "proposer": "松伏町長"
+    },
+    {
+      "place": "松伏町",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "date": "2026-03-19",
+      "number": "議案第17号",
+      "title": "令和８年度松伏町国民健康保険特別会計予算",
+      "result": "原案可決",
+      "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
+      "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
+      "resultLocator": "公式の議案件名等一覧表及び処理結果 2頁・議決第18号",
+      "proposer": "松伏町長"
+    },
+    {
+      "place": "松伏町",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "date": "2026-03-19",
+      "number": "議案第18号",
+      "title": "令和８年度松伏町介護保険特別会計予算",
+      "result": "原案可決",
+      "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
+      "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
+      "resultLocator": "公式の議案件名等一覧表及び処理結果 2頁・議決第19号",
+      "proposer": "松伏町長"
+    },
+    {
+      "place": "松伏町",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "date": "2026-03-19",
+      "number": "議案第19号",
+      "title": "令和８年度松伏町後期高齢者医療特別会計予算",
+      "result": "原案可決",
+      "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
+      "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
+      "resultLocator": "公式の議案件名等一覧表及び処理結果 2頁・議決第20号",
+      "proposer": "松伏町長"
+    },
+    {
+      "place": "松伏町",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "date": "2026-03-19",
+      "number": "議案第20号",
+      "title": "令和８年度松伏町下水道事業会計予算",
+      "result": "原案可決",
+      "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
+      "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
+      "resultLocator": "公式の議案件名等一覧表及び処理結果 2頁・議決第21号",
+      "proposer": "松伏町長"
+    },
+    {
+      "place": "松伏町",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "date": "2026-03-19",
+      "number": "議案第21号",
+      "title": "松伏町副町長の選任について",
+      "result": "同意",
+      "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
+      "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
+      "resultLocator": "公式の議案件名等一覧表及び処理結果 2頁・議決第22号",
+      "proposer": "松伏町長"
+    },
+    {
+      "place": "松伏町",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "date": "2026-03-10",
+      "number": "発議第1号",
+      "title": "アメリカ合衆国とイスラエル国による先制軍事攻撃もイランの報復攻撃も即時中止・停戦を求める決議",
+      "result": "原案可決",
+      "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
+      "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
+      "resultLocator": "公式の議案件名等一覧表及び処理結果 2頁・議決第16号"
+    },
+    {
+      "place": "松伏町",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "date": "2026-03-19",
+      "number": "発議第2号",
+      "title": "松伏町議会委員会条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
+      "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
+      "resultLocator": "公式の議案件名等一覧表及び処理結果 2頁・議決第23号"
+    },
+    {
+      "place": "松伏町",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "date": "2026-03-19",
+      "number": "発議第3号",
+      "title": "食料自給率向上に向けた農政の抜本的転換を求める意見書",
+      "result": "原案可決",
+      "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
+      "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2398/kekka.pdf#page=2",
+      "resultLocator": "公式の議案件名等一覧表及び処理結果 2頁・議決第24号"
+    },
+    {
+      "place": "松伏町",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "date": "2026-06-15",
+      "number": "議案第23号",
+      "title": "松伏町監査委員の選任について",
+      "result": "同意",
+      "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf#page=1",
+      "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf#page=1",
+      "resultLocator": "公式の議案件名等一覧表及び処理結果 1頁・議決第26号",
+      "proposer": "松伏町長"
+    },
+    {
+      "place": "松伏町",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "date": "2026-06-15",
+      "number": "議案第24号",
+      "title": "松伏町税条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf#page=1",
+      "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf#page=1",
+      "resultLocator": "公式の議案件名等一覧表及び処理結果 1頁・議決第27号",
+      "proposer": "松伏町長"
+    },
+    {
+      "place": "松伏町",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "date": "2026-06-15",
+      "number": "議案第25号",
+      "title": "松伏町監査委員に関する条例及び松伏町下水道事業の設置等に関する条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf#page=1",
+      "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf#page=1",
+      "resultLocator": "公式の議案件名等一覧表及び処理結果 1頁・議決第28号",
+      "proposer": "松伏町長"
+    },
+    {
+      "place": "松伏町",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "date": "2026-06-15",
+      "number": "議案第26号",
+      "title": "松伏町印鑑条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf#page=1",
+      "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf#page=1",
+      "resultLocator": "公式の議案件名等一覧表及び処理結果 1頁・議決第29号",
+      "proposer": "松伏町長"
+    },
+    {
+      "place": "松伏町",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "date": "2026-06-15",
+      "number": "議案第27号",
+      "title": "松伏町介護保険条例の一部を改正する条例",
+      "result": "原案可決",
+      "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf#page=1",
+      "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf#page=1",
+      "resultLocator": "公式の議案件名等一覧表及び処理結果 1頁・議決第30号",
+      "proposer": "松伏町長"
+    },
+    {
+      "place": "松伏町",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "date": "2026-06-15",
+      "number": "議案第28号",
+      "title": "令和８年度松伏町一般会計補正予算（第１号）",
+      "result": "原案可決",
+      "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf#page=1",
+      "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf#page=1",
+      "resultLocator": "公式の議案件名等一覧表及び処理結果 1頁・議決第31号",
+      "proposer": "松伏町長"
+    },
+    {
+      "place": "松伏町",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "date": "2026-06-15",
+      "number": "議案第29号",
+      "title": "令和８年度松伏町介護保険特別会計補正予算（第１号）",
+      "result": "原案可決",
+      "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf#page=1",
+      "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf#page=1",
+      "resultLocator": "公式の議案件名等一覧表及び処理結果 1頁・議決第32号",
+      "proposer": "松伏町長"
+    },
+    {
+      "place": "松伏町",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "date": "2026-06-15",
+      "number": "議案第30号",
+      "title": "令和８年度松伏町下水道事業会計補正予算（第１号）",
+      "result": "原案可決",
+      "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf#page=1",
+      "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf#page=1",
+      "resultLocator": "公式の議案件名等一覧表及び処理結果 1頁・議決第33号",
+      "proposer": "松伏町長"
+    },
+    {
+      "place": "松伏町",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "date": "2026-06-15",
+      "number": "発議第4号",
+      "title": "核兵器禁止条約第１回再検討会議へのオブザーバー参加を求める意見書",
+      "result": "原案可決",
+      "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf#page=2",
+      "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf#page=2",
+      "resultLocator": "公式の議案件名等一覧表及び処理結果 2頁・議決第34号"
+    },
+    {
+      "place": "松伏町",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "date": "2026-06-15",
+      "number": "発議第5号",
+      "title": "非核三原則の堅持を求める意見書",
+      "result": "原案可決",
+      "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf#page=2",
+      "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf#page=2",
+      "resultLocator": "公式の議案件名等一覧表及び処理結果 2頁・議決第35号"
+    },
+    {
+      "place": "松伏町",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "date": "2026-06-15",
+      "number": "発議第6号",
+      "title": "イラン戦争がもたらす物価高・資材不足から国民の暮らしを守るための緊急対策を求める意見書",
+      "result": "否決",
+      "url": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf#page=2",
+      "resultURL": "https://www.town.matsubushi.lg.jp/cmsfiles/contents/0000002/2711/080615kaigikekka.pdf#page=2",
+      "resultLocator": "公式の議案件名等一覧表及び処理結果 2頁・議決第36号"
+    },
+    {
+      "place": "杉戸町",
+      "season": "spring",
+      "session": "令和8年第2回3月定例会",
+      "number": "諮問第1号",
+      "title": "人権擁護委員候補者の推薦につき意見を求めることについて",
+      "date": "2026-03-03",
+      "result": "別段異議無",
+      "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
+      "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
+      "resultLocator": "公式議決結果1頁・1行目・諮問第1号"
+    },
+    {
+      "place": "杉戸町",
+      "season": "spring",
+      "session": "令和8年第2回3月定例会",
+      "number": "議案第3号",
+      "title": "杉戸町教育委員会教育長の任命について",
+      "date": "2026-03-03",
+      "result": "同意",
+      "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
+      "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
+      "resultLocator": "公式議決結果1頁・2行目・議決第3号"
+    },
+    {
+      "place": "杉戸町",
+      "season": "spring",
+      "session": "令和8年第2回3月定例会",
+      "number": "議案第4号",
+      "title": "専決処分の承認を求めることについて（令和７年度杉戸町一般会計補正予算〔第８号〕）",
+      "date": "2026-03-03",
+      "result": "承認",
+      "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
+      "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
+      "resultLocator": "公式議決結果1頁・3行目・議決第4号"
+    },
+    {
+      "place": "杉戸町",
+      "season": "spring",
+      "session": "令和8年第2回3月定例会",
+      "number": "議案第5号",
+      "title": "令和７年度杉戸町一般会計補正予算（第９号）",
+      "date": "2026-03-03",
+      "result": "原案可決",
+      "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
+      "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
+      "resultLocator": "公式議決結果1頁・4行目・議決第5号"
+    },
+    {
+      "place": "杉戸町",
+      "season": "spring",
+      "session": "令和8年第2回3月定例会",
+      "number": "議案第6号",
+      "title": "令和７年度杉戸町水道事業会計補正予算（第４号）",
+      "date": "2026-03-03",
+      "result": "原案可決",
+      "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
+      "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
+      "resultLocator": "公式議決結果1頁・5行目・議決第6号"
+    },
+    {
+      "place": "杉戸町",
+      "season": "spring",
+      "session": "令和8年第2回3月定例会",
+      "number": "議案第7号",
+      "title": "令和７年度杉戸町下水道事業会計補正予算（第２号）",
+      "date": "2026-03-03",
+      "result": "原案可決",
+      "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
+      "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
+      "resultLocator": "公式議決結果1頁・6行目・議決第7号"
+    },
+    {
+      "place": "杉戸町",
+      "season": "spring",
+      "session": "令和8年第2回3月定例会",
+      "number": "議案第8号",
+      "title": "令和７年度杉戸町国民健康保険特別会計補正予算（第３号）",
+      "date": "2026-03-03",
+      "result": "原案可決",
+      "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
+      "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
+      "resultLocator": "公式議決結果1頁・7行目・議決第8号"
+    },
+    {
+      "place": "杉戸町",
+      "season": "spring",
+      "session": "令和8年第2回3月定例会",
+      "number": "議案第9号",
+      "title": "令和７年度杉戸町後期高齢者医療特別会計補正予算（第３号）",
+      "date": "2026-03-03",
+      "result": "原案可決",
+      "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
+      "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
+      "resultLocator": "公式議決結果1頁・8行目・議決第9号"
+    },
+    {
+      "place": "杉戸町",
+      "season": "spring",
+      "session": "令和8年第2回3月定例会",
+      "number": "議案第10号",
+      "title": "令和７年度杉戸町介護保険特別会計補正予算（第４号）",
+      "date": "2026-03-03",
+      "result": "原案可決",
+      "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
+      "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
+      "resultLocator": "公式議決結果1頁・9行目・議決第10号"
+    },
+    {
+      "place": "杉戸町",
+      "season": "spring",
+      "session": "令和8年第2回3月定例会",
+      "number": "議案第11号",
+      "title": "杉戸町職員の給与に関する条例及び杉戸町企業職員の給与の種類及び基準に関する条例の一部を改正する条例",
+      "date": "2026-03-18",
+      "result": "原案可決",
+      "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
+      "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
+      "resultLocator": "公式議決結果1頁・10行目・議決第11号"
+    },
+    {
+      "place": "杉戸町",
+      "season": "spring",
+      "session": "令和8年第2回3月定例会",
+      "number": "議案第12号",
+      "title": "杉戸町行政手続条例の一部を改正する条例",
+      "date": "2026-03-18",
+      "result": "原案可決",
+      "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
+      "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
+      "resultLocator": "公式議決結果1頁・11行目・議決第12号"
+    },
+    {
+      "place": "杉戸町",
+      "season": "spring",
+      "session": "令和8年第2回3月定例会",
+      "number": "議案第13号",
+      "title": "アグリパークゆめすぎと設置及び管理条例の一部を改正する条例",
+      "date": "2026-03-18",
+      "result": "原案可決",
+      "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
+      "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
+      "resultLocator": "公式議決結果1頁・12行目・議決第13号"
+    },
+    {
+      "place": "杉戸町",
+      "season": "spring",
+      "session": "令和8年第2回3月定例会",
+      "number": "議案第14号",
+      "title": "杉戸町水道給水条例の一部を改正する条例",
+      "date": "2026-03-18",
+      "result": "原案可決",
+      "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
+      "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
+      "resultLocator": "公式議決結果1頁・13行目・議決第14号"
+    },
+    {
+      "place": "杉戸町",
+      "season": "spring",
+      "session": "令和8年第2回3月定例会",
+      "number": "議案第15号",
+      "title": "杉戸町国民健康保険税条例の一部を改正する条例",
+      "date": "2026-03-18",
+      "result": "原案可決",
+      "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
+      "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
+      "resultLocator": "公式議決結果1頁・14行目・議決第15号"
+    },
+    {
+      "place": "杉戸町",
+      "season": "spring",
+      "session": "令和8年第2回3月定例会",
+      "number": "議案第16号",
+      "title": "杉戸町学校の設置条例の一部を改正する条例",
+      "date": "2026-03-18",
+      "result": "継続審査",
+      "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
+      "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
+      "resultLocator": "公式議決結果1頁・15行目",
+      "voteNote": "３月５日の教育厚生常任委員会で否決された後、３月18日の本会議で平川忠良議員の動議により、委員会への再付託・閉会中の継続審査を起立多数で決定。議決結果表の議決月日・議決番号は空欄。",
+      "followUp": {
+        "date": "2026-06-12",
+        "result": "原案可決",
+        "session": "令和8年第4回6月定例会",
+        "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17314.pdf#page=1"
+      },
+      "archiveId": "8d33942d2aef7b704b06",
+      "blocks": [
+        84,
+        85,
+        88,
+        89
+      ]
+    },
+    {
+      "place": "杉戸町",
+      "season": "spring",
+      "session": "令和8年第2回3月定例会",
+      "number": "議案第17号",
+      "title": "令和８年度杉戸町一般会計予算",
+      "date": "2026-03-18",
+      "result": "原案可決",
+      "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
+      "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
+      "resultLocator": "公式議決結果1頁・16行目・議決第16号"
+    },
+    {
+      "place": "杉戸町",
+      "season": "spring",
+      "session": "令和8年第2回3月定例会",
+      "number": "議案第18号",
+      "title": "令和８年度杉戸町水道事業会計予算",
+      "date": "2026-03-18",
+      "result": "原案可決",
+      "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
+      "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
+      "resultLocator": "公式議決結果1頁・17行目・議決第17号"
+    },
+    {
+      "place": "杉戸町",
+      "season": "spring",
+      "session": "令和8年第2回3月定例会",
+      "number": "議案第19号",
+      "title": "令和８年度杉戸町下水道事業会計予算",
+      "date": "2026-03-18",
+      "result": "原案可決",
+      "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
+      "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
+      "resultLocator": "公式議決結果1頁・18行目・議決第18号"
+    },
+    {
+      "place": "杉戸町",
+      "season": "spring",
+      "session": "令和8年第2回3月定例会",
+      "number": "議案第20号",
+      "title": "令和８年度杉戸町国民健康保険特別会計予算",
+      "date": "2026-03-18",
+      "result": "原案可決",
+      "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
+      "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
+      "resultLocator": "公式議決結果1頁・19行目・議決第19号"
+    },
+    {
+      "place": "杉戸町",
+      "season": "spring",
+      "session": "令和8年第2回3月定例会",
+      "number": "議案第21号",
+      "title": "令和８年度杉戸町後期高齢者医療特別会計予算",
+      "date": "2026-03-18",
+      "result": "原案可決",
+      "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
+      "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
+      "resultLocator": "公式議決結果1頁・20行目・議決第20号"
+    },
+    {
+      "place": "杉戸町",
+      "season": "spring",
+      "session": "令和8年第2回3月定例会",
+      "number": "議案第22号",
+      "title": "令和８年度杉戸町介護保険特別会計予算",
+      "date": "2026-03-18",
+      "result": "原案可決",
+      "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
+      "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=1",
+      "resultLocator": "公式議決結果1頁・21行目・議決第21号"
+    },
+    {
+      "place": "杉戸町",
+      "season": "spring",
+      "session": "令和8年第2回3月定例会",
+      "number": "議案第23号",
+      "title": "令和８年度杉戸町水道事業会計補正予算（第１号）",
+      "date": "2026-03-18",
+      "result": "原案可決",
+      "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=2",
+      "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=2",
+      "resultLocator": "公式議決結果2頁・1行目・議決第22号"
+    },
+    {
+      "place": "杉戸町",
+      "season": "spring",
+      "session": "令和8年第2回3月定例会",
+      "number": "議案第24号",
+      "title": "副町長の選任について",
+      "date": "2026-03-18",
+      "result": "同意",
+      "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=2",
+      "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=2",
+      "resultLocator": "公式議決結果2頁・2行目・議決第23号"
+    },
+    {
+      "place": "杉戸町",
+      "season": "spring",
+      "session": "令和8年第2回3月定例会",
+      "number": "議案第25号",
+      "title": "令和７年度杉戸町一般会計補正予算（第１０号）",
+      "date": "2026-03-18",
+      "result": "原案可決",
+      "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=2",
+      "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=2",
+      "resultLocator": "公式議決結果2頁・3行目・議決第24号"
+    },
+    {
+      "place": "杉戸町",
+      "season": "spring",
+      "session": "令和8年第2回3月定例会",
+      "number": "議案第26号",
+      "title": "令和８年度杉戸町一般会計補正予算（第１号）",
+      "date": "2026-03-18",
+      "result": "原案可決",
+      "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=2",
+      "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=2",
+      "resultLocator": "公式議決結果2頁・4行目・議決第25号"
+    },
+    {
+      "place": "杉戸町",
+      "season": "spring",
+      "session": "令和8年第2回3月定例会",
+      "number": "意見書案第1号",
+      "title": "中東地域における軍事行動の即時停止と平和的解決を求める意見書",
+      "date": "2026-03-18",
+      "result": "原案可決",
+      "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=2",
+      "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17312.pdf#page=2",
+      "resultLocator": "公式議決結果2頁・5行目・意見書第1号"
+    },
+    {
+      "place": "杉戸町",
+      "season": "summer",
+      "session": "令和8年第4回6月定例会",
+      "number": "議案第16号",
+      "title": "杉戸町学校の設置条例の一部を改正する条例",
+      "date": "2026-06-12",
+      "result": "原案可決",
+      "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17314.pdf#page=1",
+      "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17314.pdf#page=1",
+      "resultLocator": "公式議決結果1頁・1行目・議決第27号",
+      "votes": {
+        "太田康之": "賛成",
+        "市毛大助": "賛成",
+        "冨澤義之": "賛成",
+        "久松祐樹": "賛成",
+        "栗原偉憲": "賛成",
+        "野口俊彦": "賛成",
+        "宮田雄一": "賛成",
+        "原田壽々子": "賛成",
+        "大橋芳久": "賛成",
+        "伊藤美佐子": "賛成",
+        "平川忠良": "賛成",
+        "浜田章一": "賛成",
+        "北出惠造": "反対",
+        "江口栄子": "反対",
+        "上田聡": "反対"
+      },
+      "voteType": "記名",
+      "voteURL": "https://ssp.kaigiroku.net/tenant/sugito/SpMinuteView.html?tenant_id=78&council_id=266&schedule_id=6",
+      "voteNote": "出席議員の３分の２以上の同意を要する特別多数議決で、記名投票（議長も表決）。会議録の事務局長報告による。会議録の「濵田章一」は名簿表記の「浜田章一」で表示。",
+      "archiveId": "daf3e5441949ee26e9b8",
+      "blocks": [
+        24,
+        43,
+        51,
+        52,
+        53
+      ]
+    },
+    {
+      "place": "杉戸町",
+      "season": "summer",
+      "session": "令和8年第4回6月定例会",
+      "number": "議案第28号",
+      "title": "専決処分の承認を求めることについて（杉戸町税条例の一部を改正する条例）",
+      "date": "2026-06-12",
+      "result": "承認",
+      "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17314.pdf#page=1",
+      "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17314.pdf#page=1",
+      "resultLocator": "公式議決結果1頁・2行目・議決第28号"
+    },
+    {
+      "place": "杉戸町",
+      "season": "summer",
+      "session": "令和8年第4回6月定例会",
+      "number": "議案第29号",
+      "title": "専決処分の承認を求めることについて（杉戸町国民健康保険税条例の一部を改正する条例）",
+      "date": "2026-06-12",
+      "result": "承認",
+      "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17314.pdf#page=1",
+      "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17314.pdf#page=1",
+      "resultLocator": "公式議決結果1頁・3行目・議決第29号"
+    },
+    {
+      "place": "杉戸町",
+      "season": "summer",
+      "session": "令和8年第4回6月定例会",
+      "number": "議案第30号",
+      "title": "財産の取得について（焼却設備点検整備業務委託用部品【共通系】）",
+      "date": "2026-06-12",
+      "result": "原案可決",
+      "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17314.pdf#page=1",
+      "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17314.pdf#page=1",
+      "resultLocator": "公式議決結果1頁・4行目・議決第30号"
+    },
+    {
+      "place": "杉戸町",
+      "season": "summer",
+      "session": "令和8年第4回6月定例会",
+      "number": "議案第31号",
+      "title": "工事請負契約の締結について（杉戸町環境センター大規模改修工事〔空調設備〕）",
+      "date": "2026-06-12",
+      "result": "原案可決",
+      "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17314.pdf#page=1",
+      "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17314.pdf#page=1",
+      "resultLocator": "公式議決結果1頁・5行目・議決第31号"
+    },
+    {
+      "place": "杉戸町",
+      "season": "summer",
+      "session": "令和8年第4回6月定例会",
+      "number": "議案第32号",
+      "title": "職員の勤務時間、休日及び休暇に関する条例の一部を改正する条例",
+      "date": "2026-06-12",
+      "result": "原案可決",
+      "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17314.pdf#page=1",
+      "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17314.pdf#page=1",
+      "resultLocator": "公式議決結果1頁・6行目・議決第32号"
+    },
+    {
+      "place": "杉戸町",
+      "season": "summer",
+      "session": "令和8年第4回6月定例会",
+      "number": "議案第33号",
+      "title": "杉戸町印鑑条例の一部を改正する条例",
+      "date": "2026-06-12",
+      "result": "原案可決",
+      "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17314.pdf#page=1",
+      "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17314.pdf#page=1",
+      "resultLocator": "公式議決結果1頁・7行目・議決第33号"
+    },
+    {
+      "place": "杉戸町",
+      "season": "summer",
+      "session": "令和8年第4回6月定例会",
+      "number": "議案第34号",
+      "title": "令和８年度杉戸町一般会計補正予算（第２号）",
+      "date": "2026-06-12",
+      "result": "原案可決",
+      "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17314.pdf#page=1",
+      "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17314.pdf#page=1",
+      "resultLocator": "公式議決結果1頁・8行目・議決第34号"
+    },
+    {
+      "place": "杉戸町",
+      "season": "summer",
+      "session": "令和8年第4回6月定例会",
+      "number": "議案第35号",
+      "title": "令和８年度杉戸町後期高齢者医療特別会計補正予算（第１号）",
+      "date": "2026-06-12",
+      "result": "原案可決",
+      "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17314.pdf#page=1",
+      "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17314.pdf#page=1",
+      "resultLocator": "公式議決結果1頁・9行目・議決第35号"
+    },
+    {
+      "place": "杉戸町",
+      "season": "summer",
+      "session": "令和8年第4回6月定例会",
+      "number": "議案第36号",
+      "title": "工事請負契約の変更契約の締結について（旧杉戸町立東中学校プール等解体工事）",
+      "date": "2026-06-12",
+      "result": "原案可決",
+      "url": "https://www.town.sugito.lg.jp/uploaded/attachment/17314.pdf#page=1",
+      "resultURL": "https://www.town.sugito.lg.jp/uploaded/attachment/17314.pdf#page=1",
+      "resultLocator": "公式議決結果1頁・10行目・議決第36号"
     }
   ],
   "policy": [
