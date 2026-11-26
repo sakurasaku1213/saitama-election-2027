@@ -23729,3 +23729,301 @@ GIKAI.cases.push({
   ],
   "note": "増収額は委員会答弁時点の見込み。改定後の利用・収入および体育館の改修実績は確認中。"
 });
+
+GIKAI.cases.push(...[
+  {
+    "place": "越谷市",
+    "title": "川柳中学校の開校準備、保護者説明会と備品取得４議案",
+    "topic": "学校の新設・備品調達",
+    "actors": [
+      "越谷市教育委員会",
+      "越谷市",
+      "こども・教育常任委員会",
+      "越谷市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-06-24",
+        "actor": "越谷市教育委員会",
+        "stage": "１回目の保護者説明会で校舎利用を説明",
+        "detail": "川柳小学校高学年棟は2026年４月に供用を始めたと説明。南中学校の移転後に既存校舎を活用し、2027年度から川柳中学校を開く計画を示した。",
+        "url": "https://www.city.koshigaya.saitama.jp/kurashi_shisei/kosodate/syotyugakkou/oshirase/files/setumeikai_gijiroku.pdf#page=1",
+        "sourceTitle": "越谷市 川柳中学校の学校説明会 第１回の記録・質疑応答",
+        "archiveId": "6253f09d47905e30c441",
+        "blocks": [
+          1,
+          2
+        ]
+      },
+      {
+        "date": "2026-08-25",
+        "actor": "越谷市",
+        "stage": "音楽用備品、備品、消耗品、図書の取得案を掲載",
+        "detail": "市長提出第80～83号の取得価格は順に3,353万6,800円、5,472万7,068円、6,408万7,593円、2,565万2,570円。４件の合計は１億7,800万4,031円。",
+        "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sityo/sityogian809.html",
+        "sourceTitle": "令和８年9月定例会 市長提出議案の件名と概要",
+        "archiveId": "45a770ceb20420d66592",
+        "blocks": [
+          25,
+          26,
+          27,
+          28
+        ]
+      },
+      {
+        "date": "2026-09-11",
+        "actor": "越谷市議会",
+        "stage": "４議案をこども・教育常任委員会へ付託",
+        "detail": "９月11日更新の公式付託表で、４件の付託先を確認。",
+        "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/futaku/gianfutaku809.html",
+        "sourceTitle": "越谷市議会 9月定例会 議案付託表",
+        "archiveId": "903e7b0059595d235754",
+        "blocks": [
+          21,
+          22,
+          23,
+          24
+        ]
+      },
+      {
+        "date": "2026-09-12",
+        "actor": "越谷市教育委員会",
+        "stage": "２回目の説明会で学校選択制の質問に答える",
+        "detail": "開校初年度は川柳中学校を選択できると説明。次年度以降は学級数や空き教室を踏まえ、各年度に判断すると答えた。",
+        "url": "https://www.city.koshigaya.saitama.jp/kurashi_shisei/kosodate/syotyugakkou/oshirase/files/dainikai_gijiroku.pdf#page=5",
+        "sourceTitle": "越谷市 川柳中学校の学校説明会 第２回の記録・質疑応答",
+        "archiveId": "e2fb5516ce7a5fa93526",
+        "blocks": [
+          2,
+          5
+        ]
+      },
+      {
+        "date": "2026-09-28",
+        "actor": "こども・教育常任委員会",
+        "stage": "４議案の委員会審査結果を公表",
+        "detail": "市議会が９月28日更新の委員会審査表で、４件すべての審査結果を「原案可決」と掲載した。",
+        "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sinsakekka/iinkaikekka809.html",
+        "sourceTitle": "越谷市議会 9月定例会 委員会審査結果",
+        "archiveId": "c7948ead381a01a2d354",
+        "blocks": [
+          21,
+          22,
+          23,
+          24
+        ]
+      },
+      {
+        "date": "2026-09-28",
+        "actor": "越谷市議会",
+        "stage": "本会議で備品取得４議案を原案可決",
+        "detail": "本会議の記名表決原表で、第80～83号がいずれも原案可決されたことを確認。原表の２・３頁に掲載。",
+        "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/giketsu/files/gikaikekka80928.pdf#page=2",
+        "sourceTitle": "越谷市議会 ９月定例会の記名表決原表",
+        "billNumber": "議案第80号"
+      }
+    ],
+    "note": "2027年４月の川柳中学校開校と取得した物品の納入実績は確認中。"
+  },
+  {
+    "place": "越谷市",
+    "title": "イラン戦争終結への意見書、共同提出から議員４人の賛否討論と可決",
+    "topic": "意見書・外交",
+    "actors": [
+      "山田大助",
+      "小林成好",
+      "工藤秀次",
+      "立澤貴明",
+      "清水泉",
+      "越谷市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-06-18",
+        "actor": "山田大助",
+        "stage": "意見書を提出し本会議で案文を朗読",
+        "detail": "議長は山田議員ほか10名からの提出と報告。山田議員は、イラン戦争終結に向けた外交努力を日本政府に求める案文を朗読した。",
+        "url": "https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=728&schedule_id=8",
+        "sourceTitle": "06月18日－07号",
+        "archiveId": "f4ff89f04e8791c49c94",
+        "blocks": [
+          121,
+          124,
+          125
+        ],
+        "memberActions": [
+          {
+            "name": "山田大助",
+            "detail": "共同提出された意見書案について、提出者として案文を朗読して提案理由を説明した。",
+            "blocks": [
+              125
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-06-18",
+        "actor": "小林成好、工藤秀次、立澤貴明、清水泉",
+        "stage": "４議員が本会議で賛否を討論",
+        "detail": "小林・立澤の両議員は反対、工藤・清水の両議員は賛成の立場で討論した。",
+        "url": "https://ssp.kaigiroku.net/tenant/koshigaya/SpMinuteView.html?tenant_id=503&council_id=728&schedule_id=8",
+        "sourceTitle": "06月18日－07号",
+        "archiveId": "f4ff89f04e8791c49c94",
+        "blocks": [
+          141,
+          142,
+          143,
+          144,
+          145,
+          146,
+          147,
+          148
+        ],
+        "memberActions": [
+          {
+            "name": "小林成好",
+            "detail": "政府の代替調達や流通対策に言及し、供給不安の評価などを理由に反対討論した。",
+            "blocks": [
+              142
+            ]
+          },
+          {
+            "name": "工藤秀次",
+            "detail": "市民生活や事業所への影響と、戦闘の終結に向けた外交努力の必要性を述べて賛成討論した。",
+            "blocks": [
+              144
+            ]
+          },
+          {
+            "name": "立澤貴明",
+            "detail": "当事国の合意や日本政府の供給対策などを挙げ、反対討論した。",
+            "blocks": [
+              146
+            ]
+          },
+          {
+            "name": "清水泉",
+            "detail": "地域全体の安定に向けて継続した外交努力を求め、賛成討論した。",
+            "blocks": [
+              148
+            ]
+          }
+        ]
+      },
+      {
+        "date": "2026-06-18",
+        "actor": "越谷市議会",
+        "stage": "本会議で意見書案を原案可決",
+        "detail": "公式の記名表決原表で賛成22、反対8と確認。",
+        "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/giketsu/files/gikaikekka80618.pdf#page=2",
+        "sourceTitle": "越谷市議会 定例会の記名表決原表",
+        "billNumber": "議員提出議案第1号"
+      }
+    ],
+    "note": "意見書案の議決まで確認。提出先への到達と国の対応は確認中。"
+  },
+  {
+    "place": "越谷市",
+    "title": "国際刑事裁判所への制裁撤回を求める意見書の提案説明と可決",
+    "topic": "意見書・国際刑事裁判所",
+    "actors": [
+      "工藤秀次",
+      "越谷市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-09-28",
+        "actor": "工藤秀次",
+        "stage": "本会議で提案理由を説明",
+        "detail": "工藤議員が提案理由を説明した。意見書本文は、制裁の撤回を働きかけるよう日本政府に求めている。",
+        "url": "https://koshigaya.gijiroku.com/g07_Video_View.asp?SrchID=2533",
+        "sourceTitle": "越谷市議会 ９月28日本会議の公式録画",
+        "memberActions": [
+          {
+            "name": "工藤秀次",
+            "detail": "議員提出第2号の提案理由を本会議で説明した。"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-28",
+        "actor": "越谷市議会",
+        "stage": "意見書本文と提出先を掲載",
+        "detail": "市議会の掲載本文に内閣総理大臣・外務大臣が提出先として記載されている。",
+        "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/giin/giingian809.html",
+        "sourceTitle": "越谷市議会 9月定例会 議員提出議案",
+        "archiveId": "a5816fed59b935a7f978",
+        "blocks": [
+          1
+        ]
+      },
+      {
+        "date": "2026-09-28",
+        "actor": "越谷市議会",
+        "stage": "本会議で意見書案を原案可決",
+        "detail": "公式の記名表決原表で賛成30、反対0と確認。",
+        "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/giketsu/files/gikaikekka80928.pdf#page=4",
+        "sourceTitle": "越谷市議会 定例会の記名表決原表",
+        "billNumber": "議員提出議案第2号"
+      }
+    ],
+    "note": "意見書案の議決まで確認。提出先への到達と国の対応は確認中。"
+  },
+  {
+    "place": "越谷市",
+    "title": "非核三原則の堅持を求める意見書の提案説明・質疑・可決",
+    "topic": "意見書・非核三原則",
+    "actors": [
+      "大田ちひろ",
+      "小林成好",
+      "伊藤治",
+      "越谷市議会"
+    ],
+    "steps": [
+      {
+        "date": "2026-09-28",
+        "actor": "大田ちひろ、小林成好、伊藤治",
+        "stage": "本会議で提案理由を説明し、質疑",
+        "detail": "大田議員が提案理由を説明し、小林・伊藤の両議員が質疑した。意見書本文は国に非核三原則の堅持を求めている。",
+        "url": "https://koshigaya.gijiroku.com/g07_Video_View.asp?SrchID=2534",
+        "sourceTitle": "越谷市議会 ９月28日本会議の公式録画",
+        "memberActions": [
+          {
+            "name": "大田ちひろ",
+            "detail": "議員提出第3号の提案理由を本会議で説明した。"
+          },
+          {
+            "name": "小林成好",
+            "detail": "本会議で議員提出第3号について質疑した。"
+          },
+          {
+            "name": "伊藤治",
+            "detail": "本会議で議員提出第3号について質疑した。"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-28",
+        "actor": "越谷市議会",
+        "stage": "意見書本文と提出先を掲載",
+        "detail": "市議会の掲載本文に衆参両院議長、内閣総理大臣、外務大臣、防衛大臣が提出先として記載されている。",
+        "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/giin/giingian809.html",
+        "sourceTitle": "越谷市議会 9月定例会 議員提出議案",
+        "archiveId": "a5816fed59b935a7f978",
+        "blocks": [
+          2
+        ]
+      },
+      {
+        "date": "2026-09-28",
+        "actor": "越谷市議会",
+        "stage": "本会議で意見書案を原案可決",
+        "detail": "公式の記名表決原表で賛成30、反対0と確認。",
+        "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/giketsu/files/gikaikekka80928.pdf#page=4",
+        "sourceTitle": "越谷市議会 定例会の記名表決原表",
+        "billNumber": "議員提出議案第3号"
+      }
+    ],
+    "note": "意見書案の議決まで確認。提出先への到達と国の対応は確認中。"
+  }
+]);

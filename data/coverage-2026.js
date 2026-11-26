@@ -3634,6 +3634,10 @@ GIKAI.coverage2026 = {
         {
           "label": "市公式・議案書と予算説明資料",
           "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/iinkai/iinkaigian806.html"
+        },
+        {
+          "label": "越谷市議会 6月定例会 議案付託表",
+          "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/futaku/gianfutaku806.html"
         }
       ]
     },
@@ -3726,6 +3730,10 @@ GIKAI.coverage2026 = {
         {
           "label": "市公式・議案書と予算説明資料",
           "url": "https://www.city.koshigaya.saitama.jp/kurashi_shisei/kosodate/supotu/etc/sports-sisetsuryokinkaitei.html"
+        },
+        {
+          "label": "越谷市議会 9月定例会 議案付託表",
+          "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/futaku/gianfutaku809.html"
         }
       ]
     },
@@ -45315,6 +45323,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "97257c82b2376285bb3d",
         "block": 4
+      },
+      "committeeReview": {
+        "archiveId": "cf543df72f1b27b3d13d",
+        "block": 1
       }
     },
     {
@@ -45371,6 +45383,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "97257c82b2376285bb3d",
         "block": 5
+      },
+      "committeeReview": {
+        "archiveId": "cf543df72f1b27b3d13d",
+        "block": 2
       }
     },
     {
@@ -45427,6 +45443,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "97257c82b2376285bb3d",
         "block": 6
+      },
+      "committeeReview": {
+        "archiveId": "cf543df72f1b27b3d13d",
+        "block": 3
       }
     },
     {
@@ -45483,6 +45503,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "97257c82b2376285bb3d",
         "block": 7
+      },
+      "committeeReview": {
+        "archiveId": "cf543df72f1b27b3d13d",
+        "block": 4
       }
     },
     {
@@ -45539,6 +45563,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "97257c82b2376285bb3d",
         "block": 8
+      },
+      "committeeReview": {
+        "archiveId": "cf543df72f1b27b3d13d",
+        "block": 5
       }
     },
     {
@@ -45595,6 +45623,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "97257c82b2376285bb3d",
         "block": 9
+      },
+      "committeeReview": {
+        "archiveId": "cf543df72f1b27b3d13d",
+        "block": 6
       }
     },
     {
@@ -45651,6 +45683,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "97257c82b2376285bb3d",
         "block": 10
+      },
+      "committeeReview": {
+        "archiveId": "cf543df72f1b27b3d13d",
+        "block": 7
       }
     },
     {
@@ -45707,6 +45743,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "97257c82b2376285bb3d",
         "block": 11
+      },
+      "committeeReview": {
+        "archiveId": "cf543df72f1b27b3d13d",
+        "block": 8
       }
     },
     {
@@ -45763,6 +45803,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "97257c82b2376285bb3d",
         "block": 12
+      },
+      "committeeReview": {
+        "archiveId": "cf543df72f1b27b3d13d",
+        "block": 9
       }
     },
     {
@@ -45819,6 +45863,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "97257c82b2376285bb3d",
         "block": 13
+      },
+      "committeeReview": {
+        "archiveId": "cf543df72f1b27b3d13d",
+        "block": 10
       }
     },
     {
@@ -45875,6 +45923,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "97257c82b2376285bb3d",
         "block": 14
+      },
+      "committeeReview": {
+        "archiveId": "cf543df72f1b27b3d13d",
+        "block": 11
       }
     },
     {
@@ -45931,6 +45983,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "97257c82b2376285bb3d",
         "block": 15
+      },
+      "committeeReview": {
+        "archiveId": "cf543df72f1b27b3d13d",
+        "block": 12
       }
     },
     {
@@ -45987,6 +46043,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "97257c82b2376285bb3d",
         "block": 16
+      },
+      "committeeReview": {
+        "archiveId": "cf543df72f1b27b3d13d",
+        "block": 13
       }
     },
     {
@@ -46043,6 +46103,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "97257c82b2376285bb3d",
         "block": 17
+      },
+      "committeeReview": {
+        "archiveId": "cf543df72f1b27b3d13d",
+        "block": 14
       }
     },
     {
@@ -46099,6 +46163,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "97257c82b2376285bb3d",
         "block": 18
+      },
+      "committeeReview": {
+        "archiveId": "cf543df72f1b27b3d13d",
+        "block": 15
       }
     },
     {
@@ -46155,6 +46223,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "97257c82b2376285bb3d",
         "block": 19
+      },
+      "committeeReview": {
+        "archiveId": "cf543df72f1b27b3d13d",
+        "block": 16
       }
     },
     {
@@ -46211,6 +46283,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "97257c82b2376285bb3d",
         "block": 20
+      },
+      "committeeReview": {
+        "archiveId": "cf543df72f1b27b3d13d",
+        "block": 17
       }
     },
     {
@@ -46267,6 +46343,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "97257c82b2376285bb3d",
         "block": 21
+      },
+      "committeeReview": {
+        "archiveId": "cf543df72f1b27b3d13d",
+        "block": 18
       }
     },
     {
@@ -46323,6 +46403,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "97257c82b2376285bb3d",
         "block": 22
+      },
+      "committeeReview": {
+        "archiveId": "cf543df72f1b27b3d13d",
+        "block": 19
       }
     },
     {
@@ -46379,6 +46463,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "97257c82b2376285bb3d",
         "block": 23
+      },
+      "committeeReview": {
+        "archiveId": "cf543df72f1b27b3d13d",
+        "block": 20
       }
     },
     {
@@ -46435,6 +46523,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "97257c82b2376285bb3d",
         "block": 24
+      },
+      "committeeReview": {
+        "archiveId": "cf543df72f1b27b3d13d",
+        "block": 21
       }
     },
     {
@@ -46491,6 +46583,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "97257c82b2376285bb3d",
         "block": 25
+      },
+      "committeeReview": {
+        "archiveId": "cf543df72f1b27b3d13d",
+        "block": 22
       }
     },
     {
@@ -46547,6 +46643,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "97257c82b2376285bb3d",
         "block": 26
+      },
+      "committeeReview": {
+        "archiveId": "cf543df72f1b27b3d13d",
+        "block": 23
       }
     },
     {
@@ -46603,6 +46703,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "97257c82b2376285bb3d",
         "block": 27
+      },
+      "committeeReview": {
+        "archiveId": "cf543df72f1b27b3d13d",
+        "block": 24
       }
     },
     {
@@ -46659,6 +46763,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "97257c82b2376285bb3d",
         "block": 28
+      },
+      "committeeReview": {
+        "archiveId": "cf543df72f1b27b3d13d",
+        "block": 25
       }
     },
     {
@@ -46715,6 +46823,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "97257c82b2376285bb3d",
         "block": 29
+      },
+      "committeeReview": {
+        "archiveId": "cf543df72f1b27b3d13d",
+        "block": 26
       }
     },
     {
@@ -46771,6 +46883,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "97257c82b2376285bb3d",
         "block": 30
+      },
+      "committeeReview": {
+        "archiveId": "cf543df72f1b27b3d13d",
+        "block": 27
       }
     },
     {
@@ -46827,6 +46943,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "97257c82b2376285bb3d",
         "block": 31
+      },
+      "committeeReview": {
+        "archiveId": "cf543df72f1b27b3d13d",
+        "block": 28
       }
     },
     {
@@ -46876,7 +46996,11 @@ GIKAI.coverage2026 = {
         "大田ちひろ": "賛成"
       },
       "date": "2026-03-18",
-      "sourceTitle": "採決日の公式本会議録"
+      "sourceTitle": "採決日の公式本会議録",
+      "proposal": {
+        "archiveId": "841273a235c06a942e29",
+        "block": 1
+      }
     },
     {
       "place": "戸田市",
@@ -47949,6 +48073,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "e534dcf8ea1b1bd5477f",
         "block": 1
+      },
+      "committeeReview": {
+        "archiveId": "0666d1f3744ab3dfde67",
+        "block": 1
       }
     },
     {
@@ -48004,6 +48132,10 @@ GIKAI.coverage2026 = {
       "voteNote": "付託先は総務常任委員会。委員会の審査結果は「原案可決」。",
       "proposal": {
         "archiveId": "e534dcf8ea1b1bd5477f",
+        "block": 2
+      },
+      "committeeReview": {
+        "archiveId": "0666d1f3744ab3dfde67",
         "block": 2
       }
     },
@@ -48061,6 +48193,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "e534dcf8ea1b1bd5477f",
         "block": 3
+      },
+      "committeeReview": {
+        "archiveId": "0666d1f3744ab3dfde67",
+        "block": 3
       }
     },
     {
@@ -48116,6 +48252,10 @@ GIKAI.coverage2026 = {
       "voteNote": "付託先は民生常任委員会。委員会の審査結果は「原案可決」。",
       "proposal": {
         "archiveId": "e534dcf8ea1b1bd5477f",
+        "block": 4
+      },
+      "committeeReview": {
+        "archiveId": "0666d1f3744ab3dfde67",
         "block": 4
       }
     },
@@ -48173,6 +48313,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "e534dcf8ea1b1bd5477f",
         "block": 5
+      },
+      "committeeReview": {
+        "archiveId": "0666d1f3744ab3dfde67",
+        "block": 5
       }
     },
     {
@@ -48228,6 +48372,10 @@ GIKAI.coverage2026 = {
       "voteNote": "付託先は民生常任委員会。委員会の審査結果は「原案可決」。",
       "proposal": {
         "archiveId": "e534dcf8ea1b1bd5477f",
+        "block": 6
+      },
+      "committeeReview": {
+        "archiveId": "0666d1f3744ab3dfde67",
         "block": 6
       }
     },
@@ -48285,6 +48433,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "e534dcf8ea1b1bd5477f",
         "block": 7
+      },
+      "committeeReview": {
+        "archiveId": "0666d1f3744ab3dfde67",
+        "block": 7
       }
     },
     {
@@ -48340,6 +48492,10 @@ GIKAI.coverage2026 = {
       "voteNote": "付託先は民生常任委員会。委員会の審査結果は「原案可決」。",
       "proposal": {
         "archiveId": "e534dcf8ea1b1bd5477f",
+        "block": 8
+      },
+      "committeeReview": {
+        "archiveId": "0666d1f3744ab3dfde67",
         "block": 8
       }
     },
@@ -48397,6 +48553,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "e534dcf8ea1b1bd5477f",
         "block": 9
+      },
+      "committeeReview": {
+        "archiveId": "0666d1f3744ab3dfde67",
+        "block": 9
       }
     },
     {
@@ -48452,6 +48612,10 @@ GIKAI.coverage2026 = {
       "voteNote": "付託先は環境経済・建設常任委員会。委員会の審査結果は「原案可決」。",
       "proposal": {
         "archiveId": "e534dcf8ea1b1bd5477f",
+        "block": 10
+      },
+      "committeeReview": {
+        "archiveId": "0666d1f3744ab3dfde67",
         "block": 10
       }
     },
@@ -48509,6 +48673,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "e534dcf8ea1b1bd5477f",
         "block": 11
+      },
+      "committeeReview": {
+        "archiveId": "0666d1f3744ab3dfde67",
+        "block": 11
       }
     },
     {
@@ -48564,6 +48732,10 @@ GIKAI.coverage2026 = {
       "voteNote": "付託先は予算決算常任委員会。委員会の審査結果は「原案可決」。",
       "proposal": {
         "archiveId": "e534dcf8ea1b1bd5477f",
+        "block": 12
+      },
+      "committeeReview": {
+        "archiveId": "0666d1f3744ab3dfde67",
         "block": 12
       }
     },
@@ -48621,6 +48793,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "e534dcf8ea1b1bd5477f",
         "block": 13
+      },
+      "committeeReview": {
+        "archiveId": "0666d1f3744ab3dfde67",
+        "block": 13
       }
     },
     {
@@ -48676,6 +48852,10 @@ GIKAI.coverage2026 = {
       "voteNote": "付託先は総務常任委員会。委員会の審査結果は「原案可決」。",
       "proposal": {
         "archiveId": "e534dcf8ea1b1bd5477f",
+        "block": 14
+      },
+      "committeeReview": {
+        "archiveId": "0666d1f3744ab3dfde67",
         "block": 14
       }
     },
@@ -48733,6 +48913,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "e534dcf8ea1b1bd5477f",
         "block": 15
+      },
+      "committeeReview": {
+        "archiveId": "0666d1f3744ab3dfde67",
+        "block": 15
       }
     },
     {
@@ -48789,6 +48973,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "e534dcf8ea1b1bd5477f",
         "block": 16
+      },
+      "committeeReview": {
+        "archiveId": "0666d1f3744ab3dfde67",
+        "block": 16
       }
     },
     {
@@ -48844,6 +49032,10 @@ GIKAI.coverage2026 = {
       "voteNote": "付託先は環境経済・建設常任委員会。委員会の審査結果は「原案可決」。",
       "proposal": {
         "archiveId": "e534dcf8ea1b1bd5477f",
+        "block": 17
+      },
+      "committeeReview": {
+        "archiveId": "0666d1f3744ab3dfde67",
         "block": 17
       }
     },
@@ -48948,7 +49140,11 @@ GIKAI.coverage2026 = {
         "大田ちひろ": "賛成"
       },
       "date": "2026-06-18",
-      "sourceTitle": "採決日の公式本会議録"
+      "sourceTitle": "採決日の公式本会議録",
+      "proposal": {
+        "archiveId": "561351cf1396c90fa8bb",
+        "block": 1
+      }
     },
     {
       "place": "越谷市",
@@ -48997,7 +49193,11 @@ GIKAI.coverage2026 = {
         "大田ちひろ": "賛成"
       },
       "date": "2026-06-18",
-      "sourceTitle": "採決日の公式本会議録"
+      "sourceTitle": "採決日の公式本会議録",
+      "proposal": {
+        "archiveId": "fc88a9c80cb2a5c585ba",
+        "block": 1
+      }
     },
     {
       "place": "戸田市",
@@ -51110,6 +51310,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "45a770ceb20420d66592",
         "block": 5
+      },
+      "committeeReview": {
+        "archiveId": "c7948ead381a01a2d354",
+        "block": 1
       }
     },
     {
@@ -51166,6 +51370,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "45a770ceb20420d66592",
         "block": 6
+      },
+      "committeeReview": {
+        "archiveId": "c7948ead381a01a2d354",
+        "block": 2
       }
     },
     {
@@ -51222,6 +51430,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "45a770ceb20420d66592",
         "block": 7
+      },
+      "committeeReview": {
+        "archiveId": "c7948ead381a01a2d354",
+        "block": 3
       }
     },
     {
@@ -51278,6 +51490,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "45a770ceb20420d66592",
         "block": 8
+      },
+      "committeeReview": {
+        "archiveId": "c7948ead381a01a2d354",
+        "block": 4
       }
     },
     {
@@ -51334,6 +51550,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "45a770ceb20420d66592",
         "block": 9
+      },
+      "committeeReview": {
+        "archiveId": "c7948ead381a01a2d354",
+        "block": 5
       }
     },
     {
@@ -51390,6 +51610,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "45a770ceb20420d66592",
         "block": 10
+      },
+      "committeeReview": {
+        "archiveId": "c7948ead381a01a2d354",
+        "block": 6
       }
     },
     {
@@ -51446,6 +51670,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "45a770ceb20420d66592",
         "block": 11
+      },
+      "committeeReview": {
+        "archiveId": "c7948ead381a01a2d354",
+        "block": 7
       }
     },
     {
@@ -51502,6 +51730,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "45a770ceb20420d66592",
         "block": 12
+      },
+      "committeeReview": {
+        "archiveId": "c7948ead381a01a2d354",
+        "block": 8
       }
     },
     {
@@ -51558,6 +51790,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "45a770ceb20420d66592",
         "block": 13
+      },
+      "committeeReview": {
+        "archiveId": "c7948ead381a01a2d354",
+        "block": 9
       }
     },
     {
@@ -51614,6 +51850,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "45a770ceb20420d66592",
         "block": 14
+      },
+      "committeeReview": {
+        "archiveId": "c7948ead381a01a2d354",
+        "block": 10
       }
     },
     {
@@ -51670,6 +51910,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "45a770ceb20420d66592",
         "block": 15
+      },
+      "committeeReview": {
+        "archiveId": "c7948ead381a01a2d354",
+        "block": 11
       }
     },
     {
@@ -51726,6 +51970,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "45a770ceb20420d66592",
         "block": 16
+      },
+      "committeeReview": {
+        "archiveId": "c7948ead381a01a2d354",
+        "block": 12
       }
     },
     {
@@ -51782,6 +52030,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "45a770ceb20420d66592",
         "block": 17
+      },
+      "committeeReview": {
+        "archiveId": "c7948ead381a01a2d354",
+        "block": 13
       }
     },
     {
@@ -51838,6 +52090,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "45a770ceb20420d66592",
         "block": 18
+      },
+      "committeeReview": {
+        "archiveId": "c7948ead381a01a2d354",
+        "block": 14
       }
     },
     {
@@ -51894,6 +52150,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "45a770ceb20420d66592",
         "block": 19
+      },
+      "committeeReview": {
+        "archiveId": "c7948ead381a01a2d354",
+        "block": 15
       }
     },
     {
@@ -51950,6 +52210,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "45a770ceb20420d66592",
         "block": 20
+      },
+      "committeeReview": {
+        "archiveId": "c7948ead381a01a2d354",
+        "block": 16
       }
     },
     {
@@ -52006,6 +52270,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "45a770ceb20420d66592",
         "block": 21
+      },
+      "committeeReview": {
+        "archiveId": "c7948ead381a01a2d354",
+        "block": 17
       }
     },
     {
@@ -52062,6 +52330,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "45a770ceb20420d66592",
         "block": 22
+      },
+      "committeeReview": {
+        "archiveId": "c7948ead381a01a2d354",
+        "block": 18
       }
     },
     {
@@ -52118,6 +52390,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "45a770ceb20420d66592",
         "block": 23
+      },
+      "committeeReview": {
+        "archiveId": "c7948ead381a01a2d354",
+        "block": 19
       }
     },
     {
@@ -52174,6 +52450,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "45a770ceb20420d66592",
         "block": 24
+      },
+      "committeeReview": {
+        "archiveId": "c7948ead381a01a2d354",
+        "block": 20
       }
     },
     {
@@ -52230,6 +52510,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "45a770ceb20420d66592",
         "block": 25
+      },
+      "committeeReview": {
+        "archiveId": "c7948ead381a01a2d354",
+        "block": 21
       }
     },
     {
@@ -52286,6 +52570,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "45a770ceb20420d66592",
         "block": 26
+      },
+      "committeeReview": {
+        "archiveId": "c7948ead381a01a2d354",
+        "block": 22
       }
     },
     {
@@ -52342,6 +52630,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "45a770ceb20420d66592",
         "block": 27
+      },
+      "committeeReview": {
+        "archiveId": "c7948ead381a01a2d354",
+        "block": 23
       }
     },
     {
@@ -52398,6 +52690,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "45a770ceb20420d66592",
         "block": 28
+      },
+      "committeeReview": {
+        "archiveId": "c7948ead381a01a2d354",
+        "block": 24
       }
     },
     {
@@ -52454,6 +52750,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "45a770ceb20420d66592",
         "block": 29
+      },
+      "committeeReview": {
+        "archiveId": "c7948ead381a01a2d354",
+        "block": 25
       }
     },
     {
@@ -52510,6 +52810,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "45a770ceb20420d66592",
         "block": 30
+      },
+      "committeeReview": {
+        "archiveId": "c7948ead381a01a2d354",
+        "block": 26
       }
     },
     {
@@ -52566,6 +52870,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "45a770ceb20420d66592",
         "block": 31
+      },
+      "committeeReview": {
+        "archiveId": "c7948ead381a01a2d354",
+        "block": 27
       }
     },
     {
@@ -52622,6 +52930,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "45a770ceb20420d66592",
         "block": 32
+      },
+      "committeeReview": {
+        "archiveId": "c7948ead381a01a2d354",
+        "block": 28
       }
     },
     {
@@ -52678,6 +52990,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "45a770ceb20420d66592",
         "block": 33
+      },
+      "committeeReview": {
+        "archiveId": "c7948ead381a01a2d354",
+        "block": 29
       }
     },
     {
@@ -52734,6 +53050,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "45a770ceb20420d66592",
         "block": 34
+      },
+      "committeeReview": {
+        "archiveId": "c7948ead381a01a2d354",
+        "block": 30
       }
     },
     {
@@ -52790,6 +53110,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "45a770ceb20420d66592",
         "block": 35
+      },
+      "committeeReview": {
+        "archiveId": "c7948ead381a01a2d354",
+        "block": 31
       }
     },
     {
@@ -52846,6 +53170,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "45a770ceb20420d66592",
         "block": 36
+      },
+      "committeeReview": {
+        "archiveId": "c7948ead381a01a2d354",
+        "block": 32
       }
     },
     {
@@ -52902,6 +53230,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "45a770ceb20420d66592",
         "block": 37
+      },
+      "committeeReview": {
+        "archiveId": "c7948ead381a01a2d354",
+        "block": 33
       }
     },
     {
@@ -52958,6 +53290,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "45a770ceb20420d66592",
         "block": 38
+      },
+      "committeeReview": {
+        "archiveId": "c7948ead381a01a2d354",
+        "block": 34
       }
     },
     {
@@ -53014,6 +53350,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "45a770ceb20420d66592",
         "block": 39
+      },
+      "committeeReview": {
+        "archiveId": "c7948ead381a01a2d354",
+        "block": 35
       }
     },
     {
@@ -53070,6 +53410,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "45a770ceb20420d66592",
         "block": 40
+      },
+      "committeeReview": {
+        "archiveId": "c7948ead381a01a2d354",
+        "block": 36
       }
     },
     {
@@ -53126,6 +53470,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "45a770ceb20420d66592",
         "block": 41
+      },
+      "committeeReview": {
+        "archiveId": "c7948ead381a01a2d354",
+        "block": 37
       }
     },
     {
@@ -53182,6 +53530,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "45a770ceb20420d66592",
         "block": 42
+      },
+      "committeeReview": {
+        "archiveId": "c7948ead381a01a2d354",
+        "block": 38
       }
     },
     {
@@ -53238,6 +53590,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "45a770ceb20420d66592",
         "block": 43
+      },
+      "committeeReview": {
+        "archiveId": "c7948ead381a01a2d354",
+        "block": 39
       }
     },
     {
@@ -53294,6 +53650,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "45a770ceb20420d66592",
         "block": 44
+      },
+      "committeeReview": {
+        "archiveId": "c7948ead381a01a2d354",
+        "block": 40
       }
     },
     {
@@ -53350,6 +53710,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "45a770ceb20420d66592",
         "block": 45
+      },
+      "committeeReview": {
+        "archiveId": "c7948ead381a01a2d354",
+        "block": 41
       }
     },
     {
@@ -53406,6 +53770,10 @@ GIKAI.coverage2026 = {
       "proposal": {
         "archiveId": "45a770ceb20420d66592",
         "block": 46
+      },
+      "committeeReview": {
+        "archiveId": "c7948ead381a01a2d354",
+        "block": 42
       }
     },
     {
@@ -53456,7 +53824,11 @@ GIKAI.coverage2026 = {
       },
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
-      "voteNote": "９月28日の本会議録画の公式目録で採決を確認。"
+      "voteNote": "９月28日の本会議録画の公式目録で採決を確認。",
+      "proposal": {
+        "archiveId": "a5816fed59b935a7f978",
+        "block": 1
+      }
     },
     {
       "place": "越谷市",
@@ -53506,7 +53878,11 @@ GIKAI.coverage2026 = {
       },
       "date": "2026-09-28",
       "sourceTitle": "採決日の公式録画目録",
-      "voteNote": "９月28日の本会議録画の公式目録で採決を確認。"
+      "voteNote": "９月28日の本会議録画の公式目録で採決を確認。",
+      "proposal": {
+        "archiveId": "a5816fed59b935a7f978",
+        "block": 2
+      }
     },
     {
       "place": "朝霞市",

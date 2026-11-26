@@ -506,7 +506,7 @@
     incomplete: "追跡資料が不足",
     open: "追跡期間中",
   };
-  function archivedMinutes(place, day, archiveId, blocks) {
+  function archivedMinutes(place, day, archiveId, blocks, linkLabel) {
     if (!place || !get("question-text-bodies")) return "";
     const archive = D.questionText.documents.find((doc) =>
       archiveId ? doc.id === archiveId : doc.place === place && doc.date === day &&
@@ -516,7 +516,7 @@
       archive?.scope === "recording" && archive.kind === "公式録画の公開自動字幕" ? "収録した公開自動字幕" : "収録本文";
     return archive ? "　" + jump("texts", {
       place, season: archive.season, ...(archiveId ? { doc: archive.id, blocks: blocks?.join(",") } : { q: day }),
-    }, label) : "";
+    }, linkLabel || label) : "";
   }
   function reviewEvent(event, place) {
     return `<li>${dateTag(event.date)} ${tag(event.stage)}${event.repeatedRequest ? ` ${tag("同じ要望の再提示")}` : ""}
@@ -783,11 +783,14 @@
     const record = b.archiveId && D.questionText.documents.find((doc) => doc.id === b.archiveId);
     const proposal = b.proposal && D.questionText.documents.find((doc) => doc.id === b.proposal.archiveId);
     const proposalText = proposal
-      ? link(proposal.url, "公式の議案概要") + archivedMinutes(b.place, proposal.date, proposal.id, [b.proposal.block])
+      ? link(proposal.url, proposal.kind === "意見書・決議（公式資料）" ? "公式の意見書本文" : "公式の議案概要") +
+        archivedMinutes(b.place, proposal.date, proposal.id, [b.proposal.block])
       : "";
+    const review = b.committeeReview && D.questionText.documents.find((doc) => doc.id === b.committeeReview.archiveId);
     const sources = `${proposalSource} ${proposalText} ${link(b.resultURL, resultTitle)}
       ${separateVote ? link(b.voteURL, voteTitle) : ""}
       ${b.committeeURL ? link(b.committeeURL, "委員会審査の公式一覧") : ""}
+      ${review ? archivedMinutes(b.place, review.date, review.id, [b.committeeReview.block], "収録した委員会審査結果") : ""}
       ${b.voteConflictURL ? link(b.voteConflictURL, "採決を宣告した議長を確認できる会議録") : ""}
       ${record ? link(record.url, "当日の本会議録") + archivedMinutes(b.place, b.date, record.id, b.blocks) : ""}`;
     const scope = byGroup
