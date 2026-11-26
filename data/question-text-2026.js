@@ -27874,6 +27874,65 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "137dbbbcdc847534b2fd",
+      "place": "宮代町",
+      "season": "fall",
+      "date": "2026-08-26",
+      "title": "令和８年９月定例会（第５回） 08月26日-01号 開会・議案上程",
+      "url": "https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteView.html?tenant_id=224&council_id=125&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "speakers": [
+        "川野武志"
+      ],
+      "note": "公式掲載目次と会議当日の本文。一般質問の発言順は議長の終了宣告と録画目録で照合。"
+    },
+    {
+      "id": "b99c9081b8d17d59cd14",
+      "place": "宮代町",
+      "season": "fall",
+      "date": "2026-08-26",
+      "title": "令和８年９月定例会（第５回） 会議録目次",
+      "url": "https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteView.html?tenant_id=224&council_id=125&schedule_id=1",
+      "kind": "公式会議録の付録（HTML）",
+      "scope": "supporting",
+      "speakers": [],
+      "note": "公式の日別会議録の目次。日程と印字頁を収録。"
+    },
+    {
+      "id": "59557ddbb354fb3e3db7",
+      "place": "宮代町",
+      "season": "fall",
+      "date": "2026-08-27",
+      "title": "令和８年９月定例会（第５回） 08月27日-02号 議案説明・質疑",
+      "url": "https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteView.html?tenant_id=224&council_id=125&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "speakers": [
+        "川野武志"
+      ],
+      "note": "公式掲載目次と会議当日の本文。一般質問の発言順は議長の終了宣告と録画目録で照合。"
+    },
+    {
+      "id": "cd89fbdb2f498799a72a",
+      "place": "宮代町",
+      "season": "fall",
+      "date": "2026-08-31",
+      "title": "令和８年９月定例会（第５回） 08月31日-03号 一般質問",
+      "url": "https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteView.html?tenant_id=224&council_id=125&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "speakers": [
+        "合川泰治",
+        "小島あけみ",
+        "川野武志",
+        "田島正徳",
+        "野原洋子",
+        "鈴木次男"
+      ],
+      "note": "公式掲載目次と会議当日の本文。一般質問の発言順は議長の終了宣告と録画目録で照合。"
+    },
+    {
       "id": "8df628c212811a2d98e6",
       "place": "宮代町",
       "season": "fall",
@@ -27922,6 +27981,25 @@ GIKAI.questionText = {
         "鈴木次男"
       ],
       "note": "公式HTMLに掲載された12人の事前通告37項目。録画で実施日と氏名を確認。"
+    },
+    {
+      "id": "66905ac9accde654bb34",
+      "place": "宮代町",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "令和８年９月定例会（第５回） 09月01日-04号 一般質問",
+      "url": "https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteView.html?tenant_id=224&council_id=125&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "speakers": [
+        "丸山妙子",
+        "土渕保美",
+        "塚村香織",
+        "川野武志",
+        "泉伸一郎",
+        "福澤和美"
+      ],
+      "note": "公式掲載目次と会議当日の本文。一般質問の発言順は議長の終了宣告と録画目録で照合。"
     },
     {
       "id": "322f04f290e78df3e697",
@@ -27992,6 +28070,60 @@ GIKAI.questionText = {
       "speakers": [
         "丸藤栄一"
       ]
+    },
+    {
+      "id": "811bc5b04c780b6515eb",
+      "place": "宮代町",
+      "season": "fall",
+      "date": "2026-09-02",
+      "title": "令和８年９月定例会（第５回） 09月02日-05号 一般質問",
+      "url": "https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteView.html?tenant_id=224&council_id=125&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "speakers": [
+        "丸藤栄一",
+        "佐藤将行",
+        "川野武志"
+      ],
+      "note": "公式掲載目次と会議当日の本文。一般質問の発言順は議長の終了宣告と録画目録で照合。"
+    },
+    {
+      "id": "d2a434206ce411dd24c9",
+      "place": "宮代町",
+      "season": "fall",
+      "date": "2026-09-18",
+      "title": "令和８年９月定例会（第５回） 09月18日-06号 決算・議案等の討論と採決",
+      "url": "https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteView.html?tenant_id=224&council_id=125&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "speakers": [
+        "丸山妙子",
+        "丸藤栄一",
+        "佐藤将行",
+        "塚村香織",
+        "小島あけみ",
+        "川野武志",
+        "福澤和美",
+        "野原洋子"
+      ],
+      "note": "公式掲載目次と会議当日の本文。一般質問の発言順は議長の終了宣告と録画目録で照合。"
+    },
+    {
+      "id": "8bb9c87d65f3531b1a3e",
+      "place": "宮代町",
+      "season": "fall",
+      "date": "2026-09-29",
+      "title": "令和８年９月定例会（第５回） 09月29日-07号 議案の討論・採決と閉会",
+      "url": "https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteView.html?tenant_id=224&council_id=125&schedule_id=8",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "speakers": [
+        "丸藤栄一",
+        "佐藤将行",
+        "川野武志",
+        "野原洋子"
+      ],
+      "note": "公式掲載目次と会議当日の本文。一般質問の発言順は議長の終了宣告と録画目録で照合。"
     },
     {
       "id": "61b45e5956cb5620c088",
@@ -55280,9 +55412,9 @@ GIKAI.questionText = {
       "place": "宮代町",
       "season": "fall",
       "material": {
-        "state": "partial",
-        "note": "第140号の一般質問12人・47問答、会計・議案の質疑43問答、議員の討論14件を原紙面と照合して要約。一般質問の通告37項目のうち紙面未掲載は７項目。一般質問の個人別日付は公式録画目録で照合。 公式録画の機械文字起こし１人分を参考収録。原音照合と正式会議録は確認中。 公式録画の機械文字起こし一般質問5本を収録。",
-        "indexURL": "https://smart.discussvision.net/smart/tenant/miyashiro/WebView/rd/council.html?year=2026&council_id=32"
+        "state": "verified",
+        "note": "公式会議録の本会議７日・目次を収録。一般質問３日・12議員は議長の終了宣告と録画目録を照合。議会だよりの要約と録画の機械文字起こしも収録。",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteBrowse.html?tenant_id=224&view_years=2026"
       }
     },
     {

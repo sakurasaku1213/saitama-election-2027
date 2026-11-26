@@ -10694,16 +10694,16 @@ GIKAI.coverage2026 = {
           "note": "この時期の掲載項目 37件。通告・目次・本文の別は活動の出典に表示。"
         },
         "text": {
-          "state": "partial",
-          "note": "第140号の一般質問12人・47問答、会計・議案の質疑43問答、議員の討論14件を原紙面と照合して要約。一般質問の通告37項目のうち紙面未掲載は７項目。一般質問の個人別日付は公式録画目録で照合。 公式録画の機械文字起こし１人分を参考収録。原音照合と正式会議録は確認中。 公式録画の機械文字起こし一般質問5本を収録。"
+          "state": "verified",
+          "note": "公式会議録の本会議７日・目次を収録。一般質問３日・12議員は議長の終了宣告と録画目録を照合。議会だよりの要約と録画の機械文字起こしも収録。"
         },
         "decisions": {
           "state": "verified",
-          "note": "公式審議結果一覧の全19行を番号・件名・結果で照合。"
+          "note": "公式審議結果一覧の19行。18議案の日付と結果及び９月18日の委員会付託否決を正式会議録と照合。"
         },
         "votes": {
           "state": "verified",
-          "note": "秋19行・13人の記名欄を照合。補正予算３件は、別頁の見出し集計との差を注記。"
+          "note": "秋19行・13人の記名欄を照合。補正予算３件は、別頁の見出し集計との差を注記。 補正予算第58～60号の正式会議録は「起立多数」と記載。"
         },
         "policy": {
           "state": "partial",
@@ -10730,6 +10730,10 @@ GIKAI.coverage2026 = {
         {
           "label": "一般質問通告37項目",
           "url": "https://www.town.miyashiro.lg.jp/0000026565.html"
+        },
+        {
+          "label": "９月定例会の正式会議録・公式目次",
+          "url": "https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteBrowse.html?tenant_id=224&view_years=2026"
         }
       ]
     },
@@ -81443,7 +81447,12 @@ GIKAI.coverage2026 = {
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27014/gikaidayori140.pdf#page=19",
       "date": "2026-09-18",
-      "sourceTitle": "採決の公式録画と目録"
+      "sourceTitle": "採決の公式録画と目録",
+      "archiveId": "d2a434206ce411dd24c9",
+      "blocks": [
+        53,
+        54
+      ]
     },
     {
       "place": "宮代町",
@@ -81473,7 +81482,12 @@ GIKAI.coverage2026 = {
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27014/gikaidayori140.pdf#page=19",
       "date": "2026-09-18",
-      "sourceTitle": "採決の公式録画と目録"
+      "sourceTitle": "採決の公式録画と目録",
+      "archiveId": "d2a434206ce411dd24c9",
+      "blocks": [
+        69,
+        70
+      ]
     },
     {
       "place": "宮代町",
@@ -81503,7 +81517,12 @@ GIKAI.coverage2026 = {
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27014/gikaidayori140.pdf#page=19",
       "date": "2026-09-18",
-      "sourceTitle": "採決の公式録画と目録"
+      "sourceTitle": "採決の公式録画と目録",
+      "archiveId": "d2a434206ce411dd24c9",
+      "blocks": [
+        87,
+        88
+      ]
     },
     {
       "place": "宮代町",
@@ -81533,7 +81552,12 @@ GIKAI.coverage2026 = {
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27014/gikaidayori140.pdf#page=19",
       "date": "2026-09-18",
-      "sourceTitle": "採決の公式録画と目録"
+      "sourceTitle": "採決の公式録画と目録",
+      "archiveId": "d2a434206ce411dd24c9",
+      "blocks": [
+        100,
+        101
+      ]
     },
     {
       "place": "宮代町",
@@ -81564,7 +81588,12 @@ GIKAI.coverage2026 = {
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27014/gikaidayori140.pdf#page=19",
       "date": "2026-09-18",
       "sourceTitle": "採決の公式録画と目録",
-      "voteNote": "審議結果一覧は可決及び認定。議会だより19頁は認定と略記。"
+      "voteNote": "審議結果一覧は可決及び認定。議会だより19頁は認定と略記。",
+      "archiveId": "d2a434206ce411dd24c9",
+      "blocks": [
+        117,
+        118
+      ]
     },
     {
       "place": "宮代町",
@@ -81595,7 +81624,12 @@ GIKAI.coverage2026 = {
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27014/gikaidayori140.pdf#page=19",
       "date": "2026-09-18",
       "sourceTitle": "採決の公式録画と目録",
-      "voteNote": "審議結果一覧は可決及び認定。議会だより19頁は認定と略記。"
+      "voteNote": "審議結果一覧は可決及び認定。議会だより19頁は認定と略記。",
+      "archiveId": "d2a434206ce411dd24c9",
+      "blocks": [
+        130,
+        131
+      ]
     },
     {
       "place": "宮代町",
@@ -81625,7 +81659,12 @@ GIKAI.coverage2026 = {
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27014/gikaidayori140.pdf#page=19",
       "date": "2026-09-18",
-      "sourceTitle": "採決の公式録画と目録"
+      "sourceTitle": "採決の公式録画と目録",
+      "archiveId": "d2a434206ce411dd24c9",
+      "blocks": [
+        159,
+        160
+      ]
     },
     {
       "place": "宮代町",
@@ -81655,7 +81694,12 @@ GIKAI.coverage2026 = {
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27014/gikaidayori140.pdf#page=19",
       "date": "2026-09-18",
-      "sourceTitle": "採決の公式録画と目録"
+      "sourceTitle": "採決の公式録画と目録",
+      "archiveId": "d2a434206ce411dd24c9",
+      "blocks": [
+        168,
+        169
+      ]
     },
     {
       "place": "宮代町",
@@ -81685,7 +81729,12 @@ GIKAI.coverage2026 = {
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27014/gikaidayori140.pdf#page=19",
       "date": "2026-09-18",
-      "sourceTitle": "採決の公式録画と目録"
+      "sourceTitle": "採決の公式録画と目録",
+      "archiveId": "d2a434206ce411dd24c9",
+      "blocks": [
+        181,
+        182
+      ]
     },
     {
       "place": "宮代町",
@@ -81715,7 +81764,12 @@ GIKAI.coverage2026 = {
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27014/gikaidayori140.pdf#page=19",
       "date": "2026-09-18",
-      "sourceTitle": "採決の公式録画と目録"
+      "sourceTitle": "採決の公式録画と目録",
+      "archiveId": "d2a434206ce411dd24c9",
+      "blocks": [
+        219,
+        220
+      ]
     },
     {
       "place": "宮代町",
@@ -81745,7 +81799,12 @@ GIKAI.coverage2026 = {
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27014/gikaidayori140.pdf#page=19",
       "date": "2026-09-18",
-      "sourceTitle": "採決の公式録画と目録"
+      "sourceTitle": "採決の公式録画と目録",
+      "archiveId": "d2a434206ce411dd24c9",
+      "blocks": [
+        236,
+        237
+      ]
     },
     {
       "place": "宮代町",
@@ -81775,7 +81834,12 @@ GIKAI.coverage2026 = {
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27014/gikaidayori140.pdf#page=19",
       "date": "2026-09-18",
-      "sourceTitle": "採決の公式録画と目録"
+      "sourceTitle": "採決の公式録画と目録",
+      "archiveId": "d2a434206ce411dd24c9",
+      "blocks": [
+        274,
+        275
+      ]
     },
     {
       "place": "宮代町",
@@ -81805,7 +81869,12 @@ GIKAI.coverage2026 = {
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27014/gikaidayori140.pdf#page=19",
       "date": "2026-09-18",
-      "sourceTitle": "採決の公式録画と目録"
+      "sourceTitle": "採決の公式録画と目録",
+      "archiveId": "d2a434206ce411dd24c9",
+      "blocks": [
+        301,
+        302
+      ]
     },
     {
       "place": "宮代町",
@@ -81836,7 +81905,12 @@ GIKAI.coverage2026 = {
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27014/gikaidayori140.pdf#page=19",
       "date": "2026-09-29",
       "sourceTitle": "採決の公式録画と目録",
-      "voteNote": "19頁の記名欄は賛成8・反対3・欠席１・議長１。９頁の見出しは賛成9・反対3と記載しており、賛成人数が１人異なる。表決欄は19頁を採用し、集計の差は確認中。"
+      "voteNote": "19頁の記名欄は賛成8・反対3・欠席１・議長１。９頁の見出しは賛成9・反対3と記載しており、賛成人数が１人異なる。表決欄は19頁を採用し、集計の差は確認中。",
+      "archiveId": "8bb9c87d65f3531b1a3e",
+      "blocks": [
+        41,
+        42
+      ]
     },
     {
       "place": "宮代町",
@@ -81867,7 +81941,12 @@ GIKAI.coverage2026 = {
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27014/gikaidayori140.pdf#page=19",
       "date": "2026-09-29",
       "sourceTitle": "採決の公式録画と目録",
-      "voteNote": "19頁の記名欄は賛成9・反対2・欠席１・議長１。９頁の見出しは賛成10・反対2と記載しており、賛成人数が１人異なる。表決欄は19頁を採用し、集計の差は確認中。"
+      "voteNote": "19頁の記名欄は賛成9・反対2・欠席１・議長１。９頁の見出しは賛成10・反対2と記載しており、賛成人数が１人異なる。表決欄は19頁を採用し、集計の差は確認中。",
+      "archiveId": "8bb9c87d65f3531b1a3e",
+      "blocks": [
+        62,
+        63
+      ]
     },
     {
       "place": "宮代町",
@@ -81898,7 +81977,12 @@ GIKAI.coverage2026 = {
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27014/gikaidayori140.pdf#page=19",
       "date": "2026-09-29",
       "sourceTitle": "採決の公式録画と目録",
-      "voteNote": "19頁の記名欄は賛成10・反対1・欠席１・議長１。９頁の見出しは賛成11・反対1と記載しており、賛成人数が１人異なる。表決欄は19頁を採用し、集計の差は確認中。"
+      "voteNote": "19頁の記名欄は賛成10・反対1・欠席１・議長１。９頁の見出しは賛成11・反対1と記載しており、賛成人数が１人異なる。表決欄は19頁を採用し、集計の差は確認中。",
+      "archiveId": "8bb9c87d65f3531b1a3e",
+      "blocks": [
+        68,
+        69
+      ]
     },
     {
       "place": "宮代町",
@@ -81928,7 +82012,12 @@ GIKAI.coverage2026 = {
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27014/gikaidayori140.pdf#page=19",
       "date": "2026-09-29",
-      "sourceTitle": "採決の公式録画と目録"
+      "sourceTitle": "採決の公式録画と目録",
+      "archiveId": "8bb9c87d65f3531b1a3e",
+      "blocks": [
+        73,
+        74
+      ]
     },
     {
       "place": "宮代町",
@@ -81958,14 +82047,19 @@ GIKAI.coverage2026 = {
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27014/gikaidayori140.pdf#page=19",
       "date": "2026-09-29",
-      "sourceTitle": "採決の公式録画と目録"
+      "sourceTitle": "採決の公式録画と目録",
+      "archiveId": "8bb9c87d65f3531b1a3e",
+      "blocks": [
+        79,
+        80
+      ]
     },
     {
       "place": "宮代町",
       "season": "fall",
       "session": "令和8年第5回定例会（9月議会）",
       "title": "議員に対する処分要求について",
-      "result": "否決",
+      "result": "委員会付託を否決",
       "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26814/shingikekka0929.pdf#page=1",
       "resultURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26814/shingikekka0929.pdf#page=1",
       "resultLocator": "公式審議結果PDF1頁・19行目",
@@ -81986,7 +82080,14 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27014/gikaidayori140.pdf#page=19",
-      "voteNote": "番号なし。記名表は塚村香織が除斥、提起者は佐藤将行。処理日は確認中。"
+      "voteNote": "番号なし。正式会議録で９月18日に懲罰特別委員会への付託を否決と確認。議会だより記名表は塚村香織が除斥、提起者は佐藤将行。",
+      "archiveId": "d2a434206ce411dd24c9",
+      "blocks": [
+        339,
+        340,
+        341
+      ],
+      "date": "2026-09-18"
     },
     {
       "place": "杉戸町",

@@ -1880,7 +1880,9 @@ GIKAI.cases.push(
       "久喜市議会",
       "久喜市",
       "宮代町",
-      "宮代町議会"
+      "宮代町議会",
+      "佐藤将行",
+      "丸藤栄一"
     ],
     "steps": [
       {
@@ -1910,14 +1912,72 @@ GIKAI.cases.push(
         "sourceTitle": "久喜市議会 ９月15日本会議録・発言順646～652"
       },
       {
+        "place": "宮代町",
+        "actor": "佐藤将行、宮代町環境資源課長",
+        "stage": "解散に伴い車両11台を久喜市へ承継する理由を質す",
+        "detail": "佐藤議員は車両の内容や乗用車の価値、宮代町が受け取らない理由を質した。課長は宮代町では公用車が足りており、維持管理費の負担も踏まえて引き取らない判断をしたと説明した。",
+        "memberActions": [
+          {
+            "name": "佐藤将行",
+            "blocks": [
+              202,
+              206
+            ],
+            "detail": "車両11台の処分、乗用車の価値、町が車両を引き取らない判断の理由を質した。"
+          }
+        ],
+        "date": "2026-09-18",
+        "archiveId": "d2a434206ce411dd24c9",
+        "blocks": [
+          202,
+          204,
+          206,
+          208,
+          216
+        ],
+        "url": "https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteView.html?tenant_id=224&council_id=125&schedule_id=7",
+        "sourceTitle": "宮代町議会 9月18日本会議録・発言順202・204・206・208・216"
+      },
+      {
         "date": "2026-09-18",
         "actor": "宮代町議会",
         "place": "宮代町",
         "stage": "衛生組合の解散・財産処分案を可決",
         "detail": "宮代町の本会議は議案第54号を賛成11、反対１で原案可決した。",
-        "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26814/shingikekka0929.pdf",
-        "sourceTitle": "宮代町の公式審議結果・第54号",
-        "billNumber": "議案第54号"
+        "url": "https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteView.html?tenant_id=224&council_id=125&schedule_id=7",
+        "sourceTitle": "宮代町議会 9月18日本会議録・発言順219・220",
+        "billNumber": "議案第54号",
+        "archiveId": "d2a434206ce411dd24c9",
+        "blocks": [
+          219,
+          220
+        ]
+      },
+      {
+        "place": "宮代町",
+        "actor": "丸藤栄一、宮代町環境資源課長",
+        "stage": "委託費の計算、納付と翌年度への繰越しを質す",
+        "detail": "丸藤議員は費用の算定、納付時期と残額の扱いを尋ねた。町は運営事業費等から手数料や資源物の売却収入を引き、町の負担割合を乗じる方法と四半期ごとの納付を協議中と答えた。負担額が実績を上回った場合の残額は翌年度分に充てると説明した。",
+        "memberActions": [
+          {
+            "name": "丸藤栄一",
+            "blocks": [
+              223,
+              227
+            ],
+            "detail": "委託の負担額の算定方法、納付時期、前払いした負担金の残額の扱いを質した。"
+          }
+        ],
+        "date": "2026-09-18",
+        "archiveId": "d2a434206ce411dd24c9",
+        "blocks": [
+          223,
+          225,
+          227,
+          229
+        ],
+        "url": "https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteView.html?tenant_id=224&council_id=125&schedule_id=7",
+        "sourceTitle": "宮代町議会 9月18日本会議録・発言順223・225・227・229"
       },
       {
         "date": "2026-09-18",
@@ -3700,20 +3760,27 @@ GIKAI.cases.push(...[
         "date": "2026-09-02",
         "stage": "料金見直しの理由と検討日程を質す",
         "actor": "丸藤栄一",
-        "detail": "上下水道料金の見直し理由と日程を尋ねた。町は県営水道料金等の上昇や人口減による収益減を挙げ、経営戦略案への意見募集と審議会の答申予定を説明した。",
-        "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27014/gikaidayori140.pdf#page=14",
-        "sourceTitle": "みやしろ議会だより第140号・14頁",
-        "archiveId": "8df628c212811a2d98e6",
+        "detail": "丸藤議員は水道料金と下水道使用料を分けて改定理由と試算を質した。町は県営水道の単価上昇分を前年度の受水実績に当てはめ、当年度の負担増を4,104万6,354円と見込むと説明した。下水道使用料も期間３年・５年で試算していると答えた。",
+        "url": "https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteView.html?tenant_id=224&council_id=125&schedule_id=6",
+        "sourceTitle": "宮代町議会 9月2日本会議録・発言順17・19・21・23・49・51",
+        "archiveId": "811bc5b04c780b6515eb",
         "blocks": [
-          4
+          17,
+          19,
+          21,
+          23,
+          49,
+          51
         ],
         "memberActions": [
           {
             "name": "丸藤栄一",
             "blocks": [
-              4
+              17,
+              21,
+              49
             ],
-            "detail": "上下水道料金を引き上げる理由と、料金案を決める手続・日程を尋ねた。"
+            "detail": "水道と下水道を分けて改定の理由、県営水道の単価上昇の影響、下水道使用料の審議状況を尋ねた。"
           }
         ]
       },
@@ -3799,18 +3866,22 @@ GIKAI.cases.push(...[
         "date": "2026-09-02",
         "stage": "開閉式から固定式に変えた場合の費用差を質す",
         "actor": "佐藤将行",
-        "detail": "当初、屋根を開閉式で要求した理由を質問し、低廉な固定式を提案してきたと述べて費用差を聞いた。教育推進課長は既存機能の回復を想定した当初要求から、工法変更で3,179万円の削減になると答えた。",
-        "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27014/gikaidayori140.pdf#page=15",
-        "sourceTitle": "みやしろ議会だより第140号・15頁",
-        "archiveId": "8df628c212811a2d98e6",
+        "detail": "佐藤議員は開閉式を前提に要求した理由を質し、固定式を繰り返し提案したと述べた。教育推進課長は、開閉式の換気機能を回復する当初要求と工法変更後を説明。当初予算4,466万円に対し施工金額1,287万円で、差額は3,179万円と答えた。",
+        "url": "https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteView.html?tenant_id=224&council_id=125&schedule_id=6",
+        "sourceTitle": "宮代町議会 9月2日本会議録・発言順84・86・90・92",
+        "archiveId": "811bc5b04c780b6515eb",
         "blocks": [
-          6
+          84,
+          86,
+          90,
+          92
         ],
         "memberActions": [
           {
             "name": "佐藤将行",
             "blocks": [
-              6
+              84,
+              90
             ],
             "detail": "当初の開閉式の予算要求の理由を尋ね、固定式への変更による減額を質した。"
           }
@@ -3842,17 +3913,17 @@ GIKAI.cases.push(...[
         "stage": "視察で確認した雨漏りを挙げ、早期改修を求める",
         "actor": "福澤和美",
         "detail": "町内視察で天井の雨染みや壁の黒ずみ等を確認したと賛成討論で述べ、衛生面からも改修を急ぐよう求めた。",
-        "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27014/gikaidayori140.pdf#page=10",
-        "sourceTitle": "みやしろ議会だより第140号・10頁",
-        "archiveId": "8df628c212811a2d98e6",
+        "url": "https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteView.html?tenant_id=224&council_id=125&schedule_id=7",
+        "sourceTitle": "宮代町議会 9月18日本会議録・発言順268",
+        "archiveId": "d2a434206ce411dd24c9",
         "blocks": [
-          36
+          268
         ],
         "memberActions": [
           {
             "name": "福澤和美",
             "blocks": [
-              36
+              268
             ],
             "detail": "視察結果として雨漏りと外壁の老朽化を報告し、工事請負契約案に賛成討論した。"
           }
@@ -3863,9 +3934,14 @@ GIKAI.cases.push(...[
         "stage": "屋上防水及び外壁改修工事の契約議案を原案可決",
         "actor": "宮代町議会",
         "detail": "議案第56号を賛成11・反対１で可決した。紙面の請負金額は税込１億8,689万円、履行期限は2027年３月31日。",
-        "url": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26814/shingikekka0929.pdf",
-        "sourceTitle": "宮代町第５回定例会の審議結果、議会だより第140号10・19頁",
-        "billNumber": "議案第56号"
+        "url": "https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteView.html?tenant_id=224&council_id=125&schedule_id=7",
+        "sourceTitle": "宮代町議会 9月18日本会議録・発言順274・275",
+        "billNumber": "議案第56号",
+        "archiveId": "d2a434206ce411dd24c9",
+        "blocks": [
+          274,
+          275
+        ]
       }
     ],
     "note": "視察日、契約書の締結日、工事の進捗・完了は確認中です。"
