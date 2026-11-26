@@ -57667,6 +57667,78 @@ GIKAI.questionText = {
       "speakers": [
         "雪田きよみ"
       ]
+    },
+    {
+      "id": "72f4fb1f17eede318c98",
+      "place": "越谷市",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "越谷市 令和8年6月定例会　補正予算書及び補正予算説明書",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sityo/files/hosei806.pdf",
+      "note": "年月は対応する定例会。 原本の頁順で文字層・OCRを収録。 原PDFの白紙を確認した頁はその旨を表示。 簡体字・異体字と「橋りよう」等の小書きの誤読は全頁で直した。 照合候補頁のうち文字のある９頁（13・15～22頁）を全て原画像と照合し、数値は全て一致。比較欄の「(」が「C」と読まれた箇所（20・22頁）はOCRのまま。",
+      "speakers": []
+    },
+    {
+      "id": "8486dcae3bd1a7a56db5",
+      "place": "越谷市",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "越谷市 令和8年6月定例会　事業別補正予算説明書",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sityo/files/zigyo_hosei806.pdf",
+      "note": "年月は対応する定例会。 原本の頁順で文字層・OCRを収録。 原PDFの白紙を確認した頁はその旨を表示。 簡体字・異体字と「橋りよう」等の小書きの誤読は全頁で直した。 照合候補頁のうち文字のある４頁（４～７頁）を全て原画像と照合し、数値は全て一致。",
+      "speakers": []
+    },
+    {
+      "id": "467e89af977c27c22356",
+      "place": "越谷市",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "越谷市 令和8年6月定例会　病院事業会計補正予算書",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sityo/files/byouin_hosei806.pdf",
+      "note": "年月は対応する定例会。 原本の頁順で文字層・OCRを収録。 原PDFの白紙を確認した頁はその旨を表示。 簡体字・異体字と「橋りよう」等の小書きの誤読は全頁で直した。 照合候補頁のうち文字のある３頁（８・10・11頁）を全て原画像と照合し、数値は全て一致。",
+      "speakers": []
+    },
+    {
+      "id": "8b4215f8925f6098c0b0",
+      "place": "越谷市",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "越谷市 令和8年3月定例会　補正予算書及び補正予算説明書",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sityo/files/hosei803.pdf",
+      "note": "年月は対応する定例会。 原本の頁順で文字層・OCRを収録。 原PDFの白紙を確認した頁はその旨を表示。 簡体字・異体字と「橋りよう」等の小書きの誤読は全頁で直した。 照合候補頁のうち文字のある62頁から15頁（1・7・9・10・21・31・36・41・46・51・56・61・77・92・103頁）を全体に散らして原画像と照合し、数値と行の対応は全て一致。残り47頁は未照合（OCRのまま）。",
+      "speakers": []
+    },
+    {
+      "id": "5c077d1fea870476367f",
+      "place": "越谷市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "越谷市 令和8年9月定例会　補正予算書及び補正予算説明書",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sityo/files/hosei809.pdf",
+      "note": "年月は対応する定例会。 原本の頁順で文字層・OCRを収録。 原PDFの白紙を確認した頁はその旨を表示。 簡体字・異体字と「橋りよう」等の小書きの誤読は全頁で直した。 照合候補頁のうち文字のある98頁から15頁（1・17・19・21・31・39・47・55・63・81・95・113・125・140・151頁）を全体に散らして原画像と照合し、数値と行の対応は全て一致。残り83頁は未照合（OCRのまま）。",
+      "speakers": []
+    },
+    {
+      "id": "aaa1f3aed747cc4ec7b3",
+      "place": "越谷市",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "越谷市 令和8年9月定例会　事業別補正予算説明書",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.koshigaya.saitama.jp/gikai/singi/gian/sityo/files/zigyo_hosei809.pdf",
+      "note": "年月は対応する定例会。 原本の頁順で文字層・OCRを収録。 原PDFの白紙を確認した頁はその旨を表示。 簡体字・異体字と「橋りよう」等の小書きの誤読は全頁で直した。 照合候補頁のうち文字のある59頁から15頁（4・5・6・8・12・18・24・28・33・38・42・47・52・60・69頁）を全体に散らして原画像と照合し、数値と行の対応は全て一致。残り44頁は未照合（OCRのまま）。",
+      "speakers": []
     }
   ],
   "coverage": [
