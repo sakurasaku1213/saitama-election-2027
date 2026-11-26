@@ -3950,8 +3950,8 @@ GIKAI.coverage2026 = {
           "note": "公式結果19件と各案件の提案理由・本文の掲載先を照合。"
         },
         "votes": {
-          "state": "partial",
-          "note": "公式の結果と本会議録画を収録。議会だよりの会派等別表決は公開確認中。"
+          "state": "verified",
+          "note": "第236号４頁で19件・会派等７欄を確認（12月発行号を11月26日に配信URLから取得。公式一覧への掲載前）。"
         },
         "policy": {
           "state": "partial",
@@ -4006,6 +4006,10 @@ GIKAI.coverage2026 = {
         {
           "label": "市公式の予算・決算等の掲載元",
           "url": "https://www.city.warabi.saitama.jp/shisei/zaisei/kouhyo/1012672.html"
+        },
+        {
+          "label": "わらび市議会だより第236号（12月発行号）",
+          "url": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh81_236.pdf"
         }
       ]
     },
@@ -130075,12 +130079,23 @@ GIKAI.coverage2026 = {
       "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1701&Sflg=2&kword1=&kword2=",
       "sourceTitle": "市議会・議案の提案理由と原文",
       "proposer": "蕨市長",
-      "voteNote": "公式議決番号58。",
+      "voteNote": "公式議決番号58。 議会だより第236号４頁の会派等別の賛否（○賛成・×反対）。",
       "archiveId": "45c5ec45a60c201b3fed",
       "blocks": [
         34,
         35
-      ]
+      ],
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh81_236.pdf#page=4"
     },
     {
       "place": "蕨市",
@@ -130094,12 +130109,23 @@ GIKAI.coverage2026 = {
       "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1702&Sflg=2&kword1=&kword2=",
       "sourceTitle": "市議会・議案の提案理由と原文",
       "proposer": "蕨市長",
-      "voteNote": "公式議決番号59。",
+      "voteNote": "公式議決番号59。 議会だより第236号４頁の会派等別の賛否（○賛成・×反対）。",
       "archiveId": "45c5ec45a60c201b3fed",
       "blocks": [
         34,
         35
-      ]
+      ],
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh81_236.pdf#page=4"
     },
     {
       "place": "蕨市",
@@ -130113,12 +130139,23 @@ GIKAI.coverage2026 = {
       "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1703&Sflg=2&kword1=&kword2=",
       "sourceTitle": "市議会・議案の提案理由と原文",
       "proposer": "蕨市長",
-      "voteNote": "公式議決番号60。",
+      "voteNote": "公式議決番号60。 議会だより第236号４頁の会派等別の賛否（○賛成・×反対）。",
       "archiveId": "45c5ec45a60c201b3fed",
       "blocks": [
         36,
         37
-      ]
+      ],
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh81_236.pdf#page=4"
     },
     {
       "place": "蕨市",
@@ -130132,12 +130169,23 @@ GIKAI.coverage2026 = {
       "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1704&Sflg=2&kword1=&kword2=",
       "sourceTitle": "市議会・議案の提案理由と原文",
       "proposer": "蕨市長",
-      "voteNote": "公式議決番号61。",
+      "voteNote": "公式議決番号61。 議会だより第236号４頁の会派等別の賛否（○賛成・×反対）。",
       "archiveId": "45c5ec45a60c201b3fed",
       "blocks": [
         36,
         37
-      ]
+      ],
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh81_236.pdf#page=4"
     },
     {
       "place": "蕨市",
@@ -130151,12 +130199,23 @@ GIKAI.coverage2026 = {
       "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1705&Sflg=2&kword1=&kword2=",
       "sourceTitle": "市議会・議案の提案理由と原文",
       "proposer": "蕨市長",
-      "voteNote": "公式議決番号62。",
+      "voteNote": "公式議決番号62。 議会だより第236号４頁の会派等別の賛否（○賛成・×反対）。",
       "archiveId": "45c5ec45a60c201b3fed",
       "blocks": [
         36,
         37
-      ]
+      ],
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh81_236.pdf#page=4"
     },
     {
       "place": "蕨市",
@@ -130170,12 +130229,23 @@ GIKAI.coverage2026 = {
       "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1706&Sflg=2&kword1=&kword2=",
       "sourceTitle": "市議会・議案の提案理由と原文",
       "proposer": "蕨市長",
-      "voteNote": "公式議決番号63。",
+      "voteNote": "公式議決番号63。 議会だより第236号４頁の会派等別の賛否（○賛成・×反対）。",
       "archiveId": "45c5ec45a60c201b3fed",
       "blocks": [
         36,
         37
-      ]
+      ],
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh81_236.pdf#page=4"
     },
     {
       "place": "蕨市",
@@ -130189,12 +130259,23 @@ GIKAI.coverage2026 = {
       "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1707&Sflg=2&kword1=&kword2=",
       "sourceTitle": "市議会・議案の提案理由と原文",
       "proposer": "蕨市長",
-      "voteNote": "公式議決番号64。",
+      "voteNote": "公式議決番号64。 議会だより第236号４頁の会派等別の賛否（○賛成・×反対）。",
       "archiveId": "45c5ec45a60c201b3fed",
       "blocks": [
         36,
         37
-      ]
+      ],
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh81_236.pdf#page=4"
     },
     {
       "place": "蕨市",
@@ -130208,12 +130289,23 @@ GIKAI.coverage2026 = {
       "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1708&Sflg=2&kword1=&kword2=",
       "sourceTitle": "市議会・議案の提案理由と原文",
       "proposer": "蕨市長",
-      "voteNote": "公式議決番号57。",
+      "voteNote": "公式議決番号57。 議会だより第236号４頁の会派等別の賛否（○賛成・×反対）。",
       "archiveId": "23e706c29a5d1d978092",
       "blocks": [
         9,
         10
-      ]
+      ],
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh81_236.pdf#page=4"
     },
     {
       "place": "蕨市",
@@ -130227,12 +130319,23 @@ GIKAI.coverage2026 = {
       "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1709&Sflg=2&kword1=&kword2=",
       "sourceTitle": "市議会・議案の提案理由と原文",
       "proposer": "蕨市長",
-      "voteNote": "公式議決番号65。",
+      "voteNote": "公式議決番号65。 議会だより第236号４頁の会派等別の賛否（○賛成・×反対）。",
       "archiveId": "45c5ec45a60c201b3fed",
       "blocks": [
         38,
         39
-      ]
+      ],
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh81_236.pdf#page=4"
     },
     {
       "place": "蕨市",
@@ -130246,12 +130349,23 @@ GIKAI.coverage2026 = {
       "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1710&Sflg=2&kword1=&kword2=",
       "sourceTitle": "市議会・議案の提案理由と原文",
       "proposer": "蕨市長",
-      "voteNote": "公式議決番号1。",
+      "voteNote": "公式議決番号1。 議会だより第236号４頁の会派等別の賛否（○賛成・×反対）。",
       "archiveId": "45c5ec45a60c201b3fed",
       "blocks": [
         40,
         41
-      ]
+      ],
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh81_236.pdf#page=4"
     },
     {
       "place": "蕨市",
@@ -130265,12 +130379,23 @@ GIKAI.coverage2026 = {
       "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1711&Sflg=2&kword1=&kword2=",
       "sourceTitle": "市議会・議案の提案理由と原文",
       "proposer": "蕨市長",
-      "voteNote": "公式議決番号2。",
+      "voteNote": "公式議決番号2。 議会だより第236号４頁の会派等別の賛否（○賛成・×反対）。",
       "archiveId": "45c5ec45a60c201b3fed",
       "blocks": [
         40,
         41
-      ]
+      ],
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh81_236.pdf#page=4"
     },
     {
       "place": "蕨市",
@@ -130284,12 +130409,23 @@ GIKAI.coverage2026 = {
       "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1712&Sflg=2&kword1=&kword2=",
       "sourceTitle": "市議会・議案の提案理由と原文",
       "proposer": "蕨市長",
-      "voteNote": "公式議決番号3。",
+      "voteNote": "公式議決番号3。 議会だより第236号４頁の会派等別の賛否（○賛成・×反対）。",
       "archiveId": "45c5ec45a60c201b3fed",
       "blocks": [
         40,
         41
-      ]
+      ],
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh81_236.pdf#page=4"
     },
     {
       "place": "蕨市",
@@ -130303,12 +130439,23 @@ GIKAI.coverage2026 = {
       "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1713&Sflg=2&kword1=&kword2=",
       "sourceTitle": "市議会・議案の提案理由と原文",
       "proposer": "蕨市長",
-      "voteNote": "公式議決番号4。",
+      "voteNote": "公式議決番号4。 議会だより第236号４頁の会派等別の賛否（○賛成・×反対）。",
       "archiveId": "45c5ec45a60c201b3fed",
       "blocks": [
         40,
         41
-      ]
+      ],
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh81_236.pdf#page=4"
     },
     {
       "place": "蕨市",
@@ -130322,12 +130469,23 @@ GIKAI.coverage2026 = {
       "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1714&Sflg=2&kword1=&kword2=",
       "sourceTitle": "市議会・議案の提案理由と原文",
       "proposer": "蕨市長",
-      "voteNote": "公式議決番号5。",
+      "voteNote": "公式議決番号5。 議会だより第236号４頁の会派等別の賛否（○賛成・×反対）。",
       "archiveId": "45c5ec45a60c201b3fed",
       "blocks": [
         40,
         41
-      ]
+      ],
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh81_236.pdf#page=4"
     },
     {
       "place": "蕨市",
@@ -130341,12 +130499,23 @@ GIKAI.coverage2026 = {
       "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1715&Sflg=2&kword1=&kword2=",
       "sourceTitle": "市議会・議案の提案理由と原文",
       "proposer": "蕨市長",
-      "voteNote": "公式議決番号6。",
+      "voteNote": "公式議決番号6。 議会だより第236号４頁の会派等別の賛否（○賛成・×反対）。",
       "archiveId": "45c5ec45a60c201b3fed",
       "blocks": [
         40,
         41
-      ]
+      ],
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh81_236.pdf#page=4"
     },
     {
       "place": "蕨市",
@@ -130360,12 +130529,23 @@ GIKAI.coverage2026 = {
       "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1716&Sflg=2&kword1=&kword2=",
       "sourceTitle": "市議会・議案の提案理由と原文",
       "proposer": "蕨市長",
-      "voteNote": "公式議決番号7。",
+      "voteNote": "公式議決番号7。 議会だより第236号４頁の会派等別の賛否（○賛成・×反対）。",
       "archiveId": "45c5ec45a60c201b3fed",
       "blocks": [
         40,
         41
-      ]
+      ],
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh81_236.pdf#page=4"
     },
     {
       "place": "蕨市",
@@ -130379,12 +130559,23 @@ GIKAI.coverage2026 = {
       "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1717&Sflg=2&kword1=&kword2=",
       "sourceTitle": "市議会・議案の提案理由と原文",
       "proposer": "蕨市長",
-      "voteNote": "公式議決番号8。",
+      "voteNote": "公式議決番号8。 議会だより第236号４頁の会派等別の賛否（○賛成・×反対）。",
       "archiveId": "45c5ec45a60c201b3fed",
       "blocks": [
         40,
         41
-      ]
+      ],
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh81_236.pdf#page=4"
     },
     {
       "place": "蕨市",
@@ -130398,12 +130589,23 @@ GIKAI.coverage2026 = {
       "url": "https://warabi.gijiroku.com/gikai/g07_Giketsu_View.asp?SrchID=1719&Sflg=2&kword1=&kword2=",
       "sourceTitle": "市議会・議案の提案理由と原文",
       "proposer": "蕨市長",
-      "voteNote": "公式議決番号9。",
+      "voteNote": "公式議決番号9。 議会だより第236号４頁の会派等別の賛否（○賛成・×反対）。",
       "archiveId": "45c5ec45a60c201b3fed",
       "blocks": [
         40,
         41
-      ]
+      ],
+      "votes": {
+        "わらび未来の会": "賛成",
+        "日本共産党": "賛成",
+        "公明党": "賛成",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "賛成"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh81_236.pdf#page=4"
     },
     {
       "place": "蕨市",
@@ -130417,13 +130619,24 @@ GIKAI.coverage2026 = {
       "url": "https://warabi.gijiroku.com/gikai/g07_ChinjoView.asp?SrchID=65&Title=%93%FA%96%7B%90%AD%95%7B%82%C9%8Aj%95%BA%8A%ED%8B%D6%8E~%8F%F0%96%F1%82%C9%88%EA%93%FA%82%E0%91%81%82%A2%8F%90%96%BC%81A%94%E1%8Fy%82%F0%8B%81%82%DF%81A%8D%A1%94N%82P%82P%8C%8E%82%C9%8AJ%82%A9%82%EA%82%E9%97%5C%92%E8%82%CC%8D%C4%8C%9F%93%A2%89%EF%8Bc%82%C9%83I%83u%83U%81%5B%83o%81%5B%82%C6%82%B5%82%C4%8EQ%89%C1%82%F0%8B%81%82%DF%82%E9%88%D3%8C%A9%8F%91%82%CC%92%F1%8Fo%82%F0%8B%81%82%DF%82%E9%92%C2%8F%EE&kword1=&kword2=",
       "sourceTitle": "公式の陳情詳細と本文",
       "proposer": "陳情者",
-      "voteNote": "総務常任委員会に９月１日付託。最終日の討論・採決の公式録画を確認できる。",
+      "voteNote": "総務常任委員会に９月１日付託。最終日の討論・採決の公式録画を確認できる。 議会だより第236号４頁の会派等別の賛否（○賛成・×反対）。",
       "archiveId": "45c5ec45a60c201b3fed",
       "blocks": [
         25,
         32,
         33
-      ]
+      ],
+      "votes": {
+        "わらび未来の会": "反対",
+        "日本共産党": "賛成",
+        "公明党": "反対",
+        "新翔会": "賛成",
+        "無所属（榎本議員）": "賛成",
+        "無所属（宮下議員）": "賛成",
+        "日本維新の会": "反対"
+      },
+      "voteType": "会派等",
+      "voteURL": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh81_236.pdf#page=4"
     },
     {
       "place": "深谷市",

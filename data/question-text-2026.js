@@ -59103,6 +59103,18 @@ GIKAI.questionText = {
       "url": "https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/786/0809gitei.pdf",
       "note": "市議会が公表したPDF。原PDFの文字層を収録。 本文の簡体字は日本語の字形に直した。",
       "speakers": []
+    },
+    {
+      "id": "3d32d35029794986b5df",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-12-01",
+      "title": "わらび市議会だより第236号 紙面",
+      "kind": "議会だよりの質問・答弁要旨（OCR）",
+      "scope": "summary",
+      "url": "https://warabi.gijiroku.com/gikai/voices/GikaiDoc/attach/koho/Kh81_236.pdf",
+      "note": "紙面版・全頁のOCR（12月発行号。11月26日に配信URLから取得、公式一覧への掲載前）。照合候補頁２・７頁を原画像と照合し、見出しの「全9会計」の欠字と仮名の誤読を直した。４頁の会派等別の賛否は議決データに収録。 本文の簡体字は日本語の字形に直した。",
+      "speakers": []
     }
   ],
   "coverage": [
