@@ -4,7 +4,7 @@
 
 確認日 2026-11-26。県議会と全63市町村の192会期枠を対象に、64議会・188枠で会議録、紙面の問答、録画の機械文字起こし、または公開自動字幕を収録。本文・要旨等が未収録の4枠にも確認先を示す。
 
-収録資料 3,394件（事前通告99件を含む）。151枠では、原典の目次・索引等にある本会議の日別資料、一般質問日または掲載項目と収録範囲を照合した。
+収録資料 3,397件（事前通告99件を含む）。151枠では、原典の目次・索引等にある本会議の日別資料、一般質問日または掲載項目と収録範囲を照合した。
 
 | 資料の種類 | 件数 |
 | --- | ---: |
@@ -38,7 +38,7 @@
 | 公開会議録（閲覧用） | 11 |
 | 議会だよりの質問・答弁要旨（HTML） | 2 |
 | 議会だよりの質問・答弁（紙面要約） | 36 |
-| 公式録画の機械文字起こし | 245 |
+| 公式録画の機械文字起こし | 248 |
 | 公式録画の公開自動字幕 | 74 |
 | 会議・政策の関連資料（公式PDF・OCR） | 232 |
 | 人事議案（公式PDF・照合要約） | 2 |
@@ -114,7 +114,7 @@
 | 神川町 | [本会議録4資料](https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteBrowse.html?tenant_id=73&view_years=2026)<br>公式掲載目次と照合 | [本会議録2資料](https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteBrowse.html?tenant_id=73&view_years=2026)<br>公式掲載目次と照合 | [事前の質問要旨・9人](https://www.town.kamikawa.saitama.jp/soshiki/gikai/nittei/reiwa6_2/6817.html)<br>発言・答弁を確認中 | 3 |
 | 上里町 | [本会議録6資料・PDF計259頁](https://www.town.kamisato.saitama.jp/7977.htm)<br>公式掲載目次と照合 | [正式会議録４日197頁・付属３点](https://www.town.kamisato.saitama.jp/7979.htm)<br>公式掲載目次と照合・[記名13行](https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2) | [公式録画一覧](https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/council.html?year=2026&council_id=47)・正式会議録を確認中・[決議と予算提言](https://www.town.kamisato.saitama.jp/5596.htm)<br>機械文字起こし11本 | 9 |
 | 寄居町 | [本会議録8資料](https://ssp.kaigiroku.net/tenant/yorii/SpMinuteBrowse.html?tenant_id=232&view_years=2026)<br>公式掲載目次と照合 | [本会議録4資料](https://ssp.kaigiroku.net/tenant/yorii/SpMinuteBrowse.html?tenant_id=232&view_years=2026)<br>公式掲載目次と照合 | [公式録画一覧](https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/council.html?year=2026&council_id=39)・正式会議録を確認中<br>機械文字起こし12本 | 7 |
-| 宮代町 | [本会議録8資料](https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteBrowse.html?tenant_id=224&view_years=2026)<br>公式掲載目次と照合 | [本会議録5資料](https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteBrowse.html?tenant_id=224&view_years=2026)<br>公式掲載目次と照合 | [議会だより12人・47問答](https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27014/gikaidayori140.pdf#page=12)<br>会計・議案の質疑43問答、討論14件<br>[公式録画３日・12人](https://smart.discussvision.net/smart/tenant/miyashiro/WebView/rd/council.html?year=2026&council_id=32)・[記名19行](https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27014/gikaidayori140.pdf#page=19)・機械文字起こし１件・正式会議録を確認中 | 4 |
+| 宮代町 | [本会議録8資料](https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteBrowse.html?tenant_id=224&view_years=2026)<br>公式掲載目次と照合 | [本会議録5資料](https://ssp.kaigiroku.net/tenant/miyashiro/SpMinuteBrowse.html?tenant_id=224&view_years=2026)<br>公式掲載目次と照合 | [議会だより12人・47問答](https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27014/gikaidayori140.pdf#page=12)<br>会計・議案の質疑43問答、討論14件<br>[公式録画３日・12人](https://smart.discussvision.net/smart/tenant/miyashiro/WebView/rd/council.html?year=2026&council_id=32)・[記名19行](https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000027/27014/gikaidayori140.pdf#page=19)・正式会議録を確認中<br>機械文字起こし4本 | 4 |
 | 杉戸町 | [本会議録7資料](https://ssp.kaigiroku.net/tenant/sugito/SpMinuteBrowse.html?tenant_id=78&view_years=2026)<br>公式掲載目次と照合 | [本会議録5資料](https://ssp.kaigiroku.net/tenant/sugito/SpMinuteBrowse.html?tenant_id=78&view_years=2026)<br>公式掲載目次と照合 | [議会だより11人・44問答](https://www.town.sugito.lg.jp/uploaded/attachment/18196.pdf#page=10)<br>決算・議案等の質疑26問答と討論12欄<br>[記名17行](https://www.town.sugito.lg.jp/uploaded/attachment/18196.pdf#page=9)・[公式録画３日11人](https://smart.discussvision.net/smart/tenant/sugito/WebView/rd/council.html?year=2026&council_id=16)・正式会議録を確認中 | 4 |
 | 松伏町 | [本会議録9資料](https://www.town.matsubushi.saitama.dbsr.jp/100000?QueryType=new&Template=list&ListOrder=asc&Cabinet=1&TermStart=2026-02-26&TermEnd=2026-03-19)<br>公式掲載目次と照合 | [本会議録4資料](https://www.town.matsubushi.saitama.dbsr.jp/100000?QueryType=new&Template=list&ListOrder=asc&Cabinet=1&TermStart=2026-06-05&TermEnd=2026-06-15)<br>公式掲載目次と照合 | [議会だよりの紙面要約26論点](https://www.town.matsubushi.lg.jp/0000003130.html)<br>[機械文字起こし9件](https://matsubushi-town.stream.jfit.co.jp/?tpl=gikai_days_list&gikai_id=2)・正式会議録を確認中 | 1 |
 
