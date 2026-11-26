@@ -28447,6 +28447,18 @@ GIKAI.questionText = {
       "speakers": []
     },
     {
+      "id": "d7001f726fb50fcf89a4",
+      "place": "寄居町",
+      "season": "fall",
+      "date": "2026-09-30",
+      "title": "本会議　決算審議　国民健康保険特別会計 後期高齢者医療特別会計 水道事業会計 下水道事業会計 公設浄化槽事業特別会計（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/speech.html?council_id=39&schedule_id=7&playlist_id=2&speaker_id=0&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 当日の本会議の議事録画。分割された録画を含む。発言者と発言区間は原映像でご確認ください。 自動検査の確認候補時間帯を含みます。",
+      "speakers": []
+    },
+    {
       "id": "7b4e01d8f247b28cc5d4",
       "place": "富士見市",
       "season": "spring",
@@ -43918,6 +43930,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "2485d86d24ae4ea91090",
+      "place": "熊谷市",
+      "season": "fall",
+      "date": "2026-09-11",
+      "title": "大山美智子議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://kumagaya-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1759",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "大山美智子"
+      ]
+    },
+    {
       "id": "1822cbf74995d6bc948f",
       "place": "熊谷市",
       "season": "fall",
@@ -53698,7 +53724,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "議会だよりの一般質問19人の問答と４常任委員会の質疑を収録。公式録画目録は９月10日に７人、11・14日に各６人。正式会議録と原音照合は確認中。 公式録画の機械文字起こし一般質問14本を収録。",
+        "note": "議会だよりの一般質問19人の問答と４常任委員会の質疑を収録。公式録画目録は９月10日に７人、11・14日に各６人。正式会議録と原音照合は確認中。 公式録画の機械文字起こし一般質問15本を収録。",
         "indexURL": "https://www.city.kumagaya.lg.jp/shisei/shigikai/1006977/1006955/1009174.html"
       }
     },
@@ -55229,7 +55255,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/council.html?year=2026&council_id=39",
-        "note": "公式録画一覧で一般質問12人を確認。議会だよりの質問・答弁要旨も収録。正式会議録は確認中。 公式録画の機械文字起こし一般質問12本・議事1本を収録。"
+        "note": "公式録画一覧で一般質問12人を確認。議会だよりの質問・答弁要旨も収録。正式会議録は確認中。 公式録画の機械文字起こし一般質問12本・議事2本を収録。"
       }
     },
     {
