@@ -43561,6 +43561,34 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "bcddb19e3c3541715928",
+      "place": "熊谷市",
+      "season": "fall",
+      "date": "2026-09-10",
+      "title": "白根佳典議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://kumagaya-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1753",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "白根佳典"
+      ]
+    },
+    {
+      "id": "20fd2f8343f2642e4416",
+      "place": "熊谷市",
+      "season": "fall",
+      "date": "2026-09-10",
+      "title": "腰塚菜穂子議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://kumagaya-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1749",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "腰塚菜穂子"
+      ]
+    },
+    {
       "id": "1822cbf74995d6bc948f",
       "place": "熊谷市",
       "season": "fall",
@@ -43586,6 +43614,20 @@ GIKAI.questionText = {
       "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
       "speakers": [
         "山本絢女"
+      ]
+    },
+    {
+      "id": "be3001d9d9895efe1443",
+      "place": "熊谷市",
+      "season": "fall",
+      "date": "2026-09-11",
+      "title": "川田勝巳議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://kumagaya-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1755",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "川田勝巳"
       ]
     },
     {
@@ -51987,7 +52029,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "議会だよりの一般質問19人の問答と４常任委員会の質疑を収録。公式録画目録は９月10日に７人、11・14日に各６人。正式会議録と原音照合は確認中。 公式録画の機械文字起こし一般質問6本を収録。",
+        "note": "議会だよりの一般質問19人の問答と４常任委員会の質疑を収録。公式録画目録は９月10日に７人、11・14日に各６人。正式会議録と原音照合は確認中。 公式録画の機械文字起こし一般質問9本を収録。",
         "indexURL": "https://www.city.kumagaya.lg.jp/shisei/shigikai/1006977/1006955/1009174.html"
       }
     },
