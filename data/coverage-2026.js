@@ -2504,7 +2504,7 @@ GIKAI.coverage2026 = {
           "url": "https://www.city.hanyu.lg.jp/docs/2015031100160/"
         },
         {
-          "label": "提出議案一覧",
+          "label": "提出議案の公式一覧（収録19PDF・241頁）",
           "url": "https://www.city.hanyu.lg.jp/docs/2026012300035/"
         },
         {
@@ -2572,7 +2572,7 @@ GIKAI.coverage2026 = {
           "url": "https://www.city.hanyu.lg.jp/docs/2015031100160/"
         },
         {
-          "label": "提出議案一覧",
+          "label": "提出議案の公式一覧（収録19PDF・134頁）",
           "url": "https://www.city.hanyu.lg.jp/docs/2026060800013/"
         },
         {
@@ -2652,7 +2652,7 @@ GIKAI.coverage2026 = {
           "url": "https://www.city.hanyu.lg.jp/docs/2015031100153/file_contents/202609.pdf"
         },
         {
-          "label": "提出議案一覧",
+          "label": "提出議案の公式一覧（収録14PDF・372頁）",
           "url": "https://www.city.hanyu.lg.jp/docs/2026081900075/"
         },
         {
