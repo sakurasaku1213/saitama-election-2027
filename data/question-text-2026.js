@@ -28435,6 +28435,18 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "feb068edf30259f017ed",
+      "place": "寄居町",
+      "season": "fall",
+      "date": "2026-09-29",
+      "title": "本会議　決算審議　第８款 消防費（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/speech.html?council_id=39&schedule_id=6&playlist_id=4&speaker_id=0&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 当日の本会議の議事録画。分割された録画を含む。発言者と発言区間は原映像でご確認ください。",
+      "speakers": []
+    },
+    {
       "id": "7b4e01d8f247b28cc5d4",
       "place": "富士見市",
       "season": "spring",
@@ -43948,6 +43960,20 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "98ea7ad698fb3ca55d77",
+      "place": "熊谷市",
+      "season": "fall",
+      "date": "2026-09-14",
+      "title": "千葉義浩議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://kumagaya-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1765",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "千葉義浩"
+      ]
+    },
+    {
       "id": "6edd831a49f261ca30ea",
       "place": "熊谷市",
       "season": "fall",
@@ -43959,6 +43985,20 @@ GIKAI.questionText = {
       "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
       "speakers": [
         "権田清志"
+      ]
+    },
+    {
+      "id": "786a20139542eb0e298e",
+      "place": "熊谷市",
+      "season": "fall",
+      "date": "2026-09-14",
+      "title": "臼杵健議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://kumagaya-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1764",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "臼杵健"
       ]
     },
     {
@@ -52984,7 +53024,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "議会だよりの一般質問19人の問答と４常任委員会の質疑を収録。公式録画目録は９月10日に７人、11・14日に各６人。正式会議録と原音照合は確認中。 公式録画の機械文字起こし一般質問11本を収録。",
+        "note": "議会だよりの一般質問19人の問答と４常任委員会の質疑を収録。公式録画目録は９月10日に７人、11・14日に各６人。正式会議録と原音照合は確認中。 公式録画の機械文字起こし一般質問13本を収録。",
         "indexURL": "https://www.city.kumagaya.lg.jp/shisei/shigikai/1006977/1006955/1009174.html"
       }
     },
@@ -54515,7 +54555,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/council.html?year=2026&council_id=39",
-        "note": "公式録画一覧で一般質問12人を確認。議会だよりの質問・答弁要旨も収録。正式会議録は確認中。 公式録画の機械文字起こし一般質問12本を収録。"
+        "note": "公式録画一覧で一般質問12人を確認。議会だよりの質問・答弁要旨も収録。正式会議録は確認中。 公式録画の機械文字起こし一般質問12本・議事1本を収録。"
       }
     },
     {
