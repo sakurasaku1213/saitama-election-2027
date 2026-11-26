@@ -4,7 +4,7 @@
 
 確認日 2026-11-26。県議会と全63市町村の192会期枠を対象に、64議会・189枠で会議録、紙面の問答、録画の機械文字起こし、または公開自動字幕を収録。本文・要旨等が未収録の3枠にも確認先を示す。
 
-収録資料 5,308件（事前通告115件を含む）。155枠では、原典の目次・索引等にある本会議の日別資料、一般質問日または掲載項目と収録範囲を照合した。
+収録資料 5,309件（事前通告116件を含む）。155枠では、原典の目次・索引等にある本会議の日別資料、一般質問日または掲載項目と収録範囲を照合した。
 
 | 資料の種類 | 件数 |
 | --- | ---: |
@@ -33,7 +33,7 @@
 | 議事概要（公式PDF・照合要約） | 1 |
 | 請願審査結果（公式PDF・照合要約） | 1 |
 | 一般質問のパネル（公式PDF・照合要約） | 6 |
-| 一般質問通告（公式資料） | 98 |
+| 一般質問通告（公式資料） | 99 |
 | 議案質疑通告（公式資料・OCR） | 5 |
 | 施政方針に対する発言通告（公式資料・OCR） | 1 |
 | 議案質疑・一般質問通告（公式資料） | 11 |
@@ -60,7 +60,7 @@
 | 議会 | 春 | 初夏 | 秋 | 政策事例 |
 | --- | --- | --- | --- | --- |
 | 埼玉県 | [本会議録9資料](https://ssp.kaigiroku.net/tenant/prefsaitama/SpMinuteBrowse.html?tenant_id=350&view_years=2026)<br>公式掲載目次と照合<br>[委員会会議録8資料](https://ssp.kaigiroku.net/tenant/prefsaitama/SpMinuteBrowse.html?tenant_id=350&view_years=2026)<br>[委員長報告17資料](https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0802/5.html)<br>[議案・予算資料など40点](https://www.pref.saitama.lg.jp/a0103/gian/0219giansho.html) | [本会議録7資料](https://ssp.kaigiroku.net/tenant/prefsaitama/SpMinuteBrowse.html?tenant_id=350&view_years=2026)<br>公式掲載目次と照合<br>[委員長報告16資料](https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/5.html)<br>[議案・予算資料など16点](https://www.pref.saitama.lg.jp/a0103/gian/0806giansho.html) | [質問・答弁速報251件](https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/4.html)<br>[公開自動字幕23件](https://www.pref.saitama.lg.jp/e1601/gikai-chuukei.html)・正式会議録を確認中<br>[委員長報告18資料](https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0809/5.html)<br>[質問議員別・７分野の索引](https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0806/4/2026_9koumokubetsu.html)<br>[議案・予算資料など9点](https://www.pref.saitama.lg.jp/a0103/gian/0809giansho.html)<br>[議会時報第302号・公式分冊18点](https://www.pref.saitama.lg.jp/e1601/gikaijihou/r0809.html) | 14 |
-| さいたま市 | [本会議録7資料](https://ssp.kaigiroku.net/tenant/saitama/SpMinuteBrowse.html?tenant_id=134&view_years=2026)<br>公式掲載目次と照合<br>[委員会会議録28資料](https://ssp.kaigiroku.net/tenant/saitama/SpMinuteBrowse.html?tenant_id=134&view_years=2026) | [本会議録7資料](https://ssp.kaigiroku.net/tenant/saitama/SpMinuteBrowse.html?tenant_id=134&view_years=2026)<br>公式掲載目次と照合<br>[委員会会議録31資料](https://ssp.kaigiroku.net/tenant/saitama/SpMinuteBrowse.html?tenant_id=134&view_years=2026) | [市議会の公式録画一覧](https://saitama-city.stream.jfit.co.jp/?tpl=gikai_days_list&gikai_id=203)・正式会議録を確認中<br>機械文字起こし12本 | 6 |
+| さいたま市 | [本会議録7資料](https://ssp.kaigiroku.net/tenant/saitama/SpMinuteBrowse.html?tenant_id=134&view_years=2026)<br>公式掲載目次と照合<br>[委員会会議録28資料](https://ssp.kaigiroku.net/tenant/saitama/SpMinuteBrowse.html?tenant_id=134&view_years=2026) | [本会議録7資料](https://ssp.kaigiroku.net/tenant/saitama/SpMinuteBrowse.html?tenant_id=134&view_years=2026)<br>公式掲載目次と照合<br>[委員会会議録31資料](https://ssp.kaigiroku.net/tenant/saitama/SpMinuteBrowse.html?tenant_id=134&view_years=2026) | [市議会の公式録画一覧](https://saitama-city.stream.jfit.co.jp/?tpl=gikai_days_list&gikai_id=203)・正式会議録を確認中<br>機械文字起こし12本<br>[公式の一般質問通告（21人）](https://www.discusscabinet.net/saitama/) | 6 |
 | 川越市 | [本会議録9日分](https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=list&ListOrder=asc&QueryType=new&Cabinet=1&TermStart=2026-02-24&TermEnd=2026-03-25)<br>一般質問4日・常任委員会6会議 | [本会議録7日分](https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=list&ListOrder=asc&QueryType=new&Cabinet=1&TermStart=2026-06-02&TermEnd=2026-06-24)<br>一般質問4日・常任委員会4会議 | [本会議録8日分](https://www.city.kawagoe.saitama.dbsr.jp/100000?Template=list&ListOrder=asc&QueryType=new&Cabinet=1&TermStart=2026-08-31&TermEnd=2026-09-29)<br>一般質問4日・常任委員会6会議 | [11事例の経過](kawagoe-policy-2026.md) |
 | 熊谷市 | [本会議録6資料](https://ssp.kaigiroku.net/tenant/kumagaya/SpMinuteBrowse.html?tenant_id=94&view_years=2026)<br>公式掲載目次と照合<br>[委員会会議録4資料](https://ssp.kaigiroku.net/tenant/kumagaya/SpMinuteBrowse.html?tenant_id=94&view_years=2026)<br>[追加の公式PDF4点（議案等4）](https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/184/gitei08-01.pdf) | [本会議録6資料](https://ssp.kaigiroku.net/tenant/kumagaya/SpMinuteBrowse.html?tenant_id=94&view_years=2026)<br>公式掲載目次と照合<br>[委員会会議録5資料](https://ssp.kaigiroku.net/tenant/kumagaya/SpMinuteBrowse.html?tenant_id=94&view_years=2026)<br>[追加の公式PDF4点（議案等4）](https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/961/gitei5.pdf) | [一般質問19人と４常任委員会の紙面要旨](https://www.city.kumagaya.lg.jp/shisei/shigikai/1006977/1006955/1009174.html)<br>正式会議録を確認中<br>[秋の公式録画３日・19人](https://kumagaya-city.stream.jfit.co.jp/?gikai_id=146&tpl=gikai_days_list)<br>一般質問19人全員の機械文字起こし<br>[追加の公式PDF1点（議案等1）](https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/786/0809gitei.pdf)<br>[公式の一般質問通告（19人）](https://www.city.kumagaya.lg.jp/_res/projects/default_project/_page_/001/007/787/ippan.pdf) | 4 |
 | 川口市 | [本会議録8資料](https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteBrowse.html?tenant_id=366&view_years=2026)<br>公式掲載目次と照合<br>[委員長報告9資料](https://kawaguchi.gsl-service.net/topics/2026030400014/)<br>[提出・報告・議事資料の原文](https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteBrowse.html?tenant_id=366&view_years=2026) | [本会議録7資料](https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteBrowse.html?tenant_id=366&view_years=2026)<br>公式掲載目次と照合<br>[委員長報告4資料](https://kawaguchi.gsl-service.net/topics/2026070300015/)<br>[提出・報告・議事資料の原文](https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteBrowse.html?tenant_id=366&view_years=2026) | [本会議録7資料](https://ssp.kaigiroku.net/tenant/kawaguchi/SpMinuteBrowse.html?tenant_id=366&view_years=2026)<br>公式掲載目次と照合<br>[委員長報告4資料](https://kawaguchi.gsl-service.net/topics/2026100100011/) | 10 |
@@ -589,3 +589,5 @@
 - 入間市の議案の資料５点（図面）に残っていた〓のうち11字を、原画像を拡大して読めたため確定した（受水槽・受変電設備・寸法8,100・2,600・9,700×2・飾り桝・軒のデザイン変更・U型側溝・16@600=9600。AIが拡大画像を目視し、隣の頁の同じ注記や計算とも照合）。線が重なって見分けられない寸法・標高の区切りなどは〓のまま。
 
 - 秋の正式会議録が未公開の枠に、議会が公表した一般質問の通告（公式PDF）を収録：熊谷市（19人・5頁）、行田市（17人・4頁）、東松山市（14人・15頁）、新座市（25人・38頁）、白岡市（14人・15頁）、伊奈町（15人・8頁）、松伏町（9人・1頁）。11月27日に各議会の公式ページから取得し、OCRルーター（文字層、要確認なし）の出力を頁ごとに収録した。質問者の名前は収録済み資料の議員名と照合（新座の25人は議会だより第238号と順番も一致）。坂戸・日高・嵐山・上里は９月分の通告ページが12月分に差し替わり取得できず、吉見・長瀞・小鹿野は通告の公表が見当たらない。
+
+- 秋の正式会議録が未公開の枠に、議会が公表した一般質問の通告（公式PDF）を収録：さいたま市（21人・25頁）。市議会の資料検索システム（ID・パスワード不要の公開メニュー、文書ID 15641）から取得し、OCRルーター（要確認なし）の出力を頁ごとに収録した。質問者21人は収録済み資料の議員名・公式録画一覧と一致。
