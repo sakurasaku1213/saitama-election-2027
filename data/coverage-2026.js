@@ -754,8 +754,8 @@ GIKAI.coverage2026 = {
           "note": "72件の公式の審議結果を収録。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "notFound",
+          "note": "市の議決結果表は結果（原案可決等）のみで議員別の記載なし。広報かわぐちの議会記事にも採決の記載なし。収録済みの本会議録に記名投票の記載なし（11月26日確認）。"
         },
         "policy": {
           "state": "partial",
@@ -814,8 +814,8 @@ GIKAI.coverage2026 = {
           "note": "55件の公式の審議結果を収録。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "notFound",
+          "note": "市の議決結果表は結果（原案可決等）のみで議員別の記載なし。広報かわぐちの議会記事にも採決の記載なし。収録済みの本会議録に記名投票の記載なし（11月26日確認）。"
         },
         "policy": {
           "state": "partial",
@@ -874,8 +874,8 @@ GIKAI.coverage2026 = {
           "note": "29件の公式の審議結果を収録。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "notFound",
+          "note": "市の議決結果表は結果（原案可決等）のみで議員別の記載なし。広報かわぐちの議会記事にも採決の記載なし。収録済みの本会議録に記名投票の記載なし（11月26日確認）。"
         },
         "policy": {
           "state": "partial",
@@ -2759,11 +2759,11 @@ GIKAI.coverage2026 = {
         },
         "decisions": {
           "state": "partial",
-          "note": "議決結果 15件を収録。対象資料・頁は各議案に表示。"
+          "note": "議決結果 15件を収録。対象資料・頁は各議案に表示。議会だよりの賛否表から3件を追加（計18件）。"
         },
         "votes": {
           "state": "partial",
-          "note": "議会だより No.82 12頁の議員別の賛否を、照合役２組の独立読取の一致と原画像で確認し、採決のあった議決15件のうち6件に収録（全会一致等の注記のみ9件）。"
+          "note": "議会だより No.82 12頁の議員別の賛否を、照合役２組の独立読取の一致と原画像で確認し、採決のあった議決18件のうち9件に収録（全会一致等の注記のみ9件）。"
         },
         "policy": {
           "state": "partial",
@@ -2843,11 +2843,11 @@ GIKAI.coverage2026 = {
         },
         "decisions": {
           "state": "partial",
-          "note": "議決結果 6件を収録。対象資料・頁は各議案に表示。"
+          "note": "議決結果 6件を収録。対象資料・頁は各議案に表示。議会だよりの賛否表から5件を追加（計11件）。"
         },
         "votes": {
           "state": "partial",
-          "note": "議会だより No.83 ８頁の議員別の賛否を、照合役２組の独立読取の一致と原画像で確認し、採決のあった議決6件のうち4件に収録（全会一致等の注記のみ2件）。"
+          "note": "議会だより No.83 ８頁の議員別の賛否を、照合役２組の独立読取の一致と原画像で確認し、採決のあった議決11件のうち9件に収録（全会一致等の注記のみ2件）。"
         },
         "policy": {
           "state": "partial",
@@ -6939,7 +6939,7 @@ GIKAI.coverage2026 = {
         },
         "votes": {
           "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "note": "９月定例会の議員別の賛否を載せる議会だより第133号は11月26日時点で未発行（市の審議結果PDFは全員・多数の別のみ）。"
         },
         "policy": {
           "state": "partial",
@@ -8442,8 +8442,8 @@ GIKAI.coverage2026 = {
           "note": "公式本会議録の採決の記述から同意1件、承認1件、発委2件、発議6件、請願1件、議案5件を収録し、議事日程の表決対象と照合。日付欄は会期の年月。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "議会だより No.203２頁の賛否の分かれた議員提出議案6件の議員別の賛否を、原画像と紙面の文字層の記号列で照合して収録（議決16件中）。町長提出議案は紙面に議員別の記載なし。"
         },
         "policy": {
           "state": "partial",
@@ -8458,6 +8458,10 @@ GIKAI.coverage2026 = {
         {
           "label": "議案審議結果",
           "url": "https://www.town.ranzan.saitama.jp/0000004948.html"
+        },
+        {
+          "label": "嵐山町 議会だより No.203",
+          "url": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7956/203gikai_marked.pdf"
         }
       ]
     },
@@ -10086,8 +10090,8 @@ GIKAI.coverage2026 = {
           "note": "議決結果 21件を収録。対象資料・頁は各議案に表示。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "notFound",
+          "note": "村の議決結果ページは結果のみ（令和8年分は未掲載）。議会だより（簡易版）は活動日程のみ。収録済みの本会議録に記名投票の記載なし（11月26日確認）。"
         },
         "policy": {
           "state": "partial",
@@ -10146,8 +10150,8 @@ GIKAI.coverage2026 = {
           "note": "議決結果 9件を収録。対象資料・頁は各議案に表示。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "notFound",
+          "note": "村の議決結果ページは結果のみ（令和8年分は未掲載）。議会だより（簡易版）は活動日程のみ。収録済みの本会議録に記名投票の記載なし（11月26日確認）。"
         },
         "policy": {
           "state": "partial",
@@ -10202,8 +10206,8 @@ GIKAI.coverage2026 = {
           "note": "村長提出の議案第31～46号の議決日・件名・結果を公式一覧で照合。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "notFound",
+          "note": "村の議決結果ページは結果のみ（令和8年分は未掲載）。議会だより（簡易版）は活動日程のみ。収録済みの本会議録に記名投票の記載なし（11月26日確認）。"
         },
         "policy": {
           "state": "partial",
@@ -10391,7 +10395,7 @@ GIKAI.coverage2026 = {
         },
         "votes": {
           "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "note": "９月定例会を扱う議会だより第155号は11月26日時点で未発行。"
         },
         "policy": {
           "state": "partial",
@@ -10526,8 +10530,8 @@ GIKAI.coverage2026 = {
           "note": "公式本会議録の、採決結果または報告終結が記された19件を照合。"
         },
         "votes": {
-          "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "state": "partial",
+          "note": "議会だより No.83７頁の審議結果は全16件が○（全員賛成）。議員別の表は紙面になく、欠席者は不明のため個人別の賛否は付けていない。"
         },
         "policy": {
           "state": "partial",
@@ -10579,7 +10583,7 @@ GIKAI.coverage2026 = {
         },
         "votes": {
           "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "note": "９月定例会を扱う議会だより第84号は11月26日時点で未発行。"
         },
         "policy": {
           "state": "partial",
@@ -10739,7 +10743,7 @@ GIKAI.coverage2026 = {
         },
         "votes": {
           "state": "pending",
-          "note": "本文・収録範囲の照合が残っています。"
+          "note": "９月定例会を扱う議会だよりの号は11月26日時点で未発行（第112号は６月定例会）。"
         },
         "policy": {
           "state": "partial",
@@ -35120,7 +35124,8 @@ GIKAI.coverage2026 = {
       "resultURL": "https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteView.html?tenant_id=73&council_id=96&schedule_id=3",
       "sourceType": "公式本会議録",
       "resultLocator": "6月12日本会議録・議案第36号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。 議会だより No.83７頁の審議結果欄は○（全員賛成）。議員別の記載なし。",
+      "voteURL": "https://www.town.kamikawa.saitama.jp/material/files/group/18/gikaidayori83.pdf#page=7"
     },
     {
       "place": "神川町",
@@ -35134,7 +35139,8 @@ GIKAI.coverage2026 = {
       "resultURL": "https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteView.html?tenant_id=73&council_id=96&schedule_id=3",
       "sourceType": "公式本会議録",
       "resultLocator": "6月12日本会議録・議案第37号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。 議会だより No.83７頁の審議結果欄は○（全員賛成）。議員別の記載なし。",
+      "voteURL": "https://www.town.kamikawa.saitama.jp/material/files/group/18/gikaidayori83.pdf#page=7"
     },
     {
       "place": "神川町",
@@ -35148,7 +35154,8 @@ GIKAI.coverage2026 = {
       "resultURL": "https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteView.html?tenant_id=73&council_id=96&schedule_id=3",
       "sourceType": "公式本会議録",
       "resultLocator": "6月12日本会議録・議案第38号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。 議会だより No.83７頁の審議結果欄は○（全員賛成）。議員別の記載なし。",
+      "voteURL": "https://www.town.kamikawa.saitama.jp/material/files/group/18/gikaidayori83.pdf#page=7"
     },
     {
       "place": "神川町",
@@ -35162,7 +35169,8 @@ GIKAI.coverage2026 = {
       "resultURL": "https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteView.html?tenant_id=73&council_id=96&schedule_id=3",
       "sourceType": "公式本会議録",
       "resultLocator": "6月12日本会議録・議案第39号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。 議会だより No.83７頁の審議結果欄は○（全員賛成）。議員別の記載なし。",
+      "voteURL": "https://www.town.kamikawa.saitama.jp/material/files/group/18/gikaidayori83.pdf#page=7"
     },
     {
       "place": "神川町",
@@ -35176,7 +35184,8 @@ GIKAI.coverage2026 = {
       "resultURL": "https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteView.html?tenant_id=73&council_id=96&schedule_id=3",
       "sourceType": "公式本会議録",
       "resultLocator": "6月12日本会議録・議案第40号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。 議会だより No.83７頁の審議結果欄は○（全員賛成）。議員別の記載なし。",
+      "voteURL": "https://www.town.kamikawa.saitama.jp/material/files/group/18/gikaidayori83.pdf#page=7"
     },
     {
       "place": "神川町",
@@ -35190,7 +35199,8 @@ GIKAI.coverage2026 = {
       "resultURL": "https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteView.html?tenant_id=73&council_id=96&schedule_id=3",
       "sourceType": "公式本会議録",
       "resultLocator": "6月12日本会議録・議案第41号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。 議会だより No.83７頁の審議結果欄は○（全員賛成）。議員別の記載なし。",
+      "voteURL": "https://www.town.kamikawa.saitama.jp/material/files/group/18/gikaidayori83.pdf#page=7"
     },
     {
       "place": "神川町",
@@ -35204,7 +35214,8 @@ GIKAI.coverage2026 = {
       "resultURL": "https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteView.html?tenant_id=73&council_id=96&schedule_id=3",
       "sourceType": "公式本会議録",
       "resultLocator": "6月12日本会議録・議案第42号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。 議会だより No.83７頁の審議結果欄は○（全員賛成）。議員別の記載なし。",
+      "voteURL": "https://www.town.kamikawa.saitama.jp/material/files/group/18/gikaidayori83.pdf#page=7"
     },
     {
       "place": "神川町",
@@ -35218,7 +35229,8 @@ GIKAI.coverage2026 = {
       "resultURL": "https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteView.html?tenant_id=73&council_id=96&schedule_id=3",
       "sourceType": "公式本会議録",
       "resultLocator": "6月12日本会議録・議案第43号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。 議会だより No.83７頁の審議結果欄は○（全員賛成）。議員別の記載なし。",
+      "voteURL": "https://www.town.kamikawa.saitama.jp/material/files/group/18/gikaidayori83.pdf#page=7"
     },
     {
       "place": "神川町",
@@ -35232,7 +35244,8 @@ GIKAI.coverage2026 = {
       "resultURL": "https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteView.html?tenant_id=73&council_id=96&schedule_id=3",
       "sourceType": "公式本会議録",
       "resultLocator": "6月12日本会議録・議案第44号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。 議会だより No.83７頁の審議結果欄は○（全員賛成）。議員別の記載なし。",
+      "voteURL": "https://www.town.kamikawa.saitama.jp/material/files/group/18/gikaidayori83.pdf#page=7"
     },
     {
       "place": "神川町",
@@ -35246,7 +35259,8 @@ GIKAI.coverage2026 = {
       "resultURL": "https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteView.html?tenant_id=73&council_id=96&schedule_id=3",
       "sourceType": "公式本会議録",
       "resultLocator": "6月12日本会議録・報告第4号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。 議会だより No.83７頁の審議結果欄は○（全員賛成）。議員別の記載なし。",
+      "voteURL": "https://www.town.kamikawa.saitama.jp/material/files/group/18/gikaidayori83.pdf#page=7"
     },
     {
       "place": "神川町",
@@ -35260,7 +35274,8 @@ GIKAI.coverage2026 = {
       "resultURL": "https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteView.html?tenant_id=73&council_id=96&schedule_id=3",
       "sourceType": "公式本会議録",
       "resultLocator": "6月12日本会議録・報告第5号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。 議会だより No.83７頁の審議結果欄は○（全員賛成）。議員別の記載なし。",
+      "voteURL": "https://www.town.kamikawa.saitama.jp/material/files/group/18/gikaidayori83.pdf#page=7"
     },
     {
       "place": "神川町",
@@ -35316,7 +35331,8 @@ GIKAI.coverage2026 = {
       "resultURL": "https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteView.html?tenant_id=73&council_id=96&schedule_id=3",
       "sourceType": "公式本会議録",
       "resultLocator": "6月12日本会議録・議案第45号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。 議会だより No.83７頁の審議結果欄は○（全員賛成）。議員別の記載なし。",
+      "voteURL": "https://www.town.kamikawa.saitama.jp/material/files/group/18/gikaidayori83.pdf#page=7"
     },
     {
       "place": "神川町",
@@ -35330,7 +35346,8 @@ GIKAI.coverage2026 = {
       "resultURL": "https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteView.html?tenant_id=73&council_id=96&schedule_id=3",
       "sourceType": "公式本会議録",
       "resultLocator": "6月12日本会議録・議案第46号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。 議会だより No.83７頁の審議結果欄は○（全員賛成）。議員別の記載なし。",
+      "voteURL": "https://www.town.kamikawa.saitama.jp/material/files/group/18/gikaidayori83.pdf#page=7"
     },
     {
       "place": "神川町",
@@ -35344,7 +35361,8 @@ GIKAI.coverage2026 = {
       "resultURL": "https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteView.html?tenant_id=73&council_id=96&schedule_id=3",
       "sourceType": "公式本会議録",
       "resultLocator": "6月12日本会議録・陳情第2号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。 議会だより No.83７頁の審議結果欄は○（全員賛成）。議員別の記載なし。",
+      "voteURL": "https://www.town.kamikawa.saitama.jp/material/files/group/18/gikaidayori83.pdf#page=7"
     },
     {
       "place": "神川町",
@@ -35358,7 +35376,8 @@ GIKAI.coverage2026 = {
       "resultURL": "https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteView.html?tenant_id=73&council_id=96&schedule_id=3",
       "sourceType": "公式本会議録",
       "resultLocator": "6月12日本会議録・陳情第3号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。 議会だより No.83７頁の審議結果欄は○（全員賛成）。議員別の記載なし。",
+      "voteURL": "https://www.town.kamikawa.saitama.jp/material/files/group/18/gikaidayori83.pdf#page=7"
     },
     {
       "place": "神川町",
@@ -35372,7 +35391,8 @@ GIKAI.coverage2026 = {
       "resultURL": "https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteView.html?tenant_id=73&council_id=96&schedule_id=3",
       "sourceType": "公式本会議録",
       "resultLocator": "6月12日本会議録・陳情第4号",
-      "voteNote": "異議なし。"
+      "voteNote": "異議なし。 議会だより No.83７頁の審議結果欄は○（全員賛成）。議員別の記載なし。",
+      "voteURL": "https://www.town.kamikawa.saitama.jp/material/files/group/18/gikaidayori83.pdf#page=7"
     },
     {
       "place": "上里町",
@@ -158700,7 +158720,24 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000008/8026/R0806T.pdf",
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、本案は否決されました」",
-      "sourceType": "公式本会議録"
+      "sourceType": "公式本会議録",
+      "votes": {
+        "佐藤弘美": "反対",
+        "橋本将": "反対",
+        "宮本大裕": "反対",
+        "小林智": "反対",
+        "藤野和美": "賛成",
+        "吉本秀二": "反対",
+        "森一人": "反対",
+        "青柳賢治": "反対",
+        "畠山美幸": "反対",
+        "川口浩史": "賛成",
+        "渋谷登美子": "賛成",
+        "犾守勝義": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7956/203gikai_marked.pdf#page=2",
+      "voteNote": "議会だより No.203２頁の議員提出議案（賛否の分かれた議案）の表（●賛成・×反対。議長は賛否表明をしない）。"
     },
     {
       "place": "嵐山町",
@@ -158714,7 +158751,24 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000008/8026/R0806T.pdf",
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、本案は否決されました」",
-      "sourceType": "公式本会議録"
+      "sourceType": "公式本会議録",
+      "votes": {
+        "佐藤弘美": "反対",
+        "橋本将": "賛成",
+        "宮本大裕": "反対",
+        "小林智": "反対",
+        "藤野和美": "賛成",
+        "吉本秀二": "反対",
+        "森一人": "反対",
+        "青柳賢治": "反対",
+        "畠山美幸": "反対",
+        "川口浩史": "賛成",
+        "渋谷登美子": "賛成",
+        "犾守勝義": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7956/203gikai_marked.pdf#page=2",
+      "voteNote": "議会だより No.203２頁の議員提出議案（賛否の分かれた議案）の表（●賛成・×反対。議長は賛否表明をしない）。"
     },
     {
       "place": "嵐山町",
@@ -158728,7 +158782,24 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000008/8026/R0806T.pdf",
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、本案は否決されました」",
-      "sourceType": "公式本会議録"
+      "sourceType": "公式本会議録",
+      "votes": {
+        "佐藤弘美": "反対",
+        "橋本将": "賛成",
+        "宮本大裕": "反対",
+        "小林智": "反対",
+        "藤野和美": "賛成",
+        "吉本秀二": "反対",
+        "森一人": "反対",
+        "青柳賢治": "反対",
+        "畠山美幸": "反対",
+        "川口浩史": "賛成",
+        "渋谷登美子": "賛成",
+        "犾守勝義": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7956/203gikai_marked.pdf#page=2",
+      "voteNote": "議会だより No.203２頁の議員提出議案（賛否の分かれた議案）の表（●賛成・×反対。議長は賛否表明をしない）。"
     },
     {
       "place": "嵐山町",
@@ -158742,7 +158813,24 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000008/8026/R0806T.pdf",
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、本案は否決されました」",
-      "sourceType": "公式本会議録"
+      "sourceType": "公式本会議録",
+      "votes": {
+        "佐藤弘美": "反対",
+        "橋本将": "賛成",
+        "宮本大裕": "反対",
+        "小林智": "反対",
+        "藤野和美": "賛成",
+        "吉本秀二": "反対",
+        "森一人": "反対",
+        "青柳賢治": "反対",
+        "畠山美幸": "賛成",
+        "川口浩史": "賛成",
+        "渋谷登美子": "賛成",
+        "犾守勝義": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7956/203gikai_marked.pdf#page=2",
+      "voteNote": "議会だより No.203２頁の議員提出議案（賛否の分かれた議案）の表（●賛成・×反対。議長は賛否表明をしない）。"
     },
     {
       "place": "嵐山町",
@@ -158756,7 +158844,24 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000008/8026/R0806T.pdf",
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、本案は否決されました」",
-      "sourceType": "公式本会議録"
+      "sourceType": "公式本会議録",
+      "votes": {
+        "佐藤弘美": "反対",
+        "橋本将": "反対",
+        "宮本大裕": "反対",
+        "小林智": "反対",
+        "藤野和美": "賛成",
+        "吉本秀二": "反対",
+        "森一人": "反対",
+        "青柳賢治": "反対",
+        "畠山美幸": "反対",
+        "川口浩史": "賛成",
+        "渋谷登美子": "賛成",
+        "犾守勝義": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7956/203gikai_marked.pdf#page=2",
+      "voteNote": "議会だより No.203２頁の議員提出議案（賛否の分かれた議案）の表（●賛成・×反対。議長は賛否表明をしない）。"
     },
     {
       "place": "嵐山町",
@@ -158770,7 +158875,24 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000008/8026/R0806T.pdf",
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、本案は否決されました」",
-      "sourceType": "公式本会議録"
+      "sourceType": "公式本会議録",
+      "votes": {
+        "佐藤弘美": "反対",
+        "橋本将": "反対",
+        "宮本大裕": "反対",
+        "小林智": "反対",
+        "藤野和美": "賛成",
+        "吉本秀二": "反対",
+        "森一人": "反対",
+        "青柳賢治": "反対",
+        "畠山美幸": "反対",
+        "川口浩史": "賛成",
+        "渋谷登美子": "賛成",
+        "犾守勝義": "議長（表決不参加）"
+      },
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7956/203gikai_marked.pdf#page=2",
+      "voteNote": "議会だより No.203２頁の議員提出議案（賛否の分かれた議案）の表（●賛成・×反対。議長は賛否表明をしない）。"
     },
     {
       "place": "嵐山町",
@@ -159962,6 +160084,342 @@ GIKAI.coverage2026 = {
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
       "sourceType": "公式本会議録"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "title": "鴻巣市特定乳児等通園支援事業の運営に関する基準を定める条例",
+      "number": "議案第19号",
+      "result": "原案可決",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
+      "resultLocator": "議会だより No.82 12頁の議員別の賛否表",
+      "sourceType": "議会だよりの審議結果",
+      "sourceTitle": "鴻巣市議会だより 議会だより No.82 12頁",
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
+      "votes": {
+        "小泉晋史": "賛成",
+        "藤村孝志": "賛成",
+        "中西耕二郎": "賛成",
+        "高橋亜紀": "賛成",
+        "後藤耕佑": "賛成",
+        "芝嵜和好": "賛成",
+        "田中克美": "賛成",
+        "金子雄一": "賛成",
+        "古山大輔": "賛成",
+        "潮田幸子": "賛成",
+        "橋本稔": "議長（表決不参加）",
+        "川﨑葉子": "賛成",
+        "茂利博之": "賛成",
+        "秋谷修": "賛成",
+        "大塚佳之": "賛成",
+        "坂本国広": "賛成",
+        "金澤孝太郎": "賛成",
+        "織田京子": "賛成",
+        "市ノ川徳宏": "賛成",
+        "竹田悦子": "反対",
+        "諏訪三津枝": "反対",
+        "西尾綾子": "反対",
+        "矢島洋文": "賛成",
+        "羽鳥健": "賛成"
+      },
+      "voteNote": "議会だより No.82 12頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。議決日は紙面に記載なし。"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "title": "鴻巣市乳児等通園支援事業の設備及び運営に関する基準を定める条例の一部を改正する条例",
+      "number": "議案第20号",
+      "result": "原案可決",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
+      "resultLocator": "議会だより No.82 12頁の議員別の賛否表",
+      "sourceType": "議会だよりの審議結果",
+      "sourceTitle": "鴻巣市議会だより 議会だより No.82 12頁",
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
+      "votes": {
+        "小泉晋史": "賛成",
+        "藤村孝志": "賛成",
+        "中西耕二郎": "賛成",
+        "高橋亜紀": "賛成",
+        "後藤耕佑": "賛成",
+        "芝嵜和好": "賛成",
+        "田中克美": "賛成",
+        "金子雄一": "賛成",
+        "古山大輔": "賛成",
+        "潮田幸子": "賛成",
+        "橋本稔": "議長（表決不参加）",
+        "川﨑葉子": "賛成",
+        "茂利博之": "賛成",
+        "秋谷修": "賛成",
+        "大塚佳之": "賛成",
+        "坂本国広": "賛成",
+        "金澤孝太郎": "賛成",
+        "織田京子": "賛成",
+        "市ノ川徳宏": "賛成",
+        "竹田悦子": "反対",
+        "諏訪三津枝": "反対",
+        "西尾綾子": "反対",
+        "矢島洋文": "賛成",
+        "羽鳥健": "賛成"
+      },
+      "voteNote": "議会だより No.82 12頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。議決日は紙面に記載なし。"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "spring",
+      "session": "令和8年3月定例会",
+      "title": "非核三原則の堅持を求める意見書",
+      "number": "議提第1号",
+      "result": "原案可決",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
+      "resultLocator": "議会だより No.82 12頁の議員別の賛否表",
+      "sourceType": "議会だよりの審議結果",
+      "sourceTitle": "鴻巣市議会だより 議会だより No.82 12頁",
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/26692.pdf",
+      "votes": {
+        "小泉晋史": "賛成",
+        "藤村孝志": "棄権",
+        "中西耕二郎": "賛成",
+        "高橋亜紀": "賛成",
+        "後藤耕佑": "賛成",
+        "芝嵜和好": "反対",
+        "田中克美": "反対",
+        "金子雄一": "反対",
+        "古山大輔": "反対",
+        "潮田幸子": "賛成",
+        "橋本稔": "議長（表決不参加）",
+        "川﨑葉子": "賛成",
+        "茂利博之": "賛成",
+        "秋谷修": "反対",
+        "大塚佳之": "反対",
+        "坂本国広": "反対",
+        "金澤孝太郎": "棄権",
+        "織田京子": "棄権",
+        "市ノ川徳宏": "棄権",
+        "竹田悦子": "賛成",
+        "諏訪三津枝": "賛成",
+        "西尾綾子": "賛成",
+        "矢島洋文": "賛成",
+        "羽鳥健": "反対"
+      },
+      "voteNote": "議会だより No.82 12頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。議決日は紙面に記載なし。"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "title": "専決処分の承認を求めることについて（鴻巣市国民健康保険税条例の一部を改正する条例）",
+      "number": "議案第43号",
+      "result": "承認",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27700.pdf",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27700.pdf",
+      "resultLocator": "議会だより No.83 ８頁の議員別の賛否表",
+      "sourceType": "議会だよりの審議結果",
+      "sourceTitle": "鴻巣市議会だより 議会だより No.83 ８頁",
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27700.pdf",
+      "votes": {
+        "中西耕二郎": "賛成",
+        "小泉晋史": "賛成",
+        "藤村孝志": "賛成",
+        "高橋亜紀": "賛成",
+        "後藤耕佑": "賛成",
+        "古山大輔": "賛成",
+        "田中克美": "賛成",
+        "金子雄一": "賛成",
+        "芝嵜和好": "賛成",
+        "橋本稔": "賛成",
+        "潮田幸子": "賛成",
+        "川﨑葉子": "議長（表決不参加）",
+        "茂利博之": "賛成",
+        "秋谷修": "賛成",
+        "大塚佳之": "賛成",
+        "坂本国広": "賛成",
+        "金澤孝太郎": "賛成",
+        "織田京子": "賛成",
+        "市ノ川徳宏": "賛成",
+        "竹田悦子": "賛成",
+        "諏訪三津枝": "賛成",
+        "西尾綾子": "反対",
+        "矢島洋文": "賛成",
+        "羽鳥健": "賛成"
+      },
+      "voteNote": "議会だより No.83 ８頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。議決日は紙面に記載なし。"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "title": "鴻巣市印鑑条例及び鴻巣市手数料徴収条例の一部を改正する条例",
+      "number": "議案第44号",
+      "result": "原案可決",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27700.pdf",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27700.pdf",
+      "resultLocator": "議会だより No.83 ８頁の議員別の賛否表",
+      "sourceType": "議会だよりの審議結果",
+      "sourceTitle": "鴻巣市議会だより 議会だより No.83 ８頁",
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27700.pdf",
+      "votes": {
+        "中西耕二郎": "賛成",
+        "小泉晋史": "賛成",
+        "藤村孝志": "賛成",
+        "高橋亜紀": "賛成",
+        "後藤耕佑": "賛成",
+        "古山大輔": "賛成",
+        "田中克美": "賛成",
+        "金子雄一": "賛成",
+        "芝嵜和好": "賛成",
+        "橋本稔": "賛成",
+        "潮田幸子": "賛成",
+        "川﨑葉子": "議長（表決不参加）",
+        "茂利博之": "賛成",
+        "秋谷修": "賛成",
+        "大塚佳之": "賛成",
+        "坂本国広": "賛成",
+        "金澤孝太郎": "賛成",
+        "織田京子": "賛成",
+        "市ノ川徳宏": "賛成",
+        "竹田悦子": "反対",
+        "諏訪三津枝": "反対",
+        "西尾綾子": "反対",
+        "矢島洋文": "賛成",
+        "羽鳥健": "賛成"
+      },
+      "voteNote": "議会だより No.83 ８頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。議決日は紙面に記載なし。"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "title": "令和8年度鴻巣市介護保険特別会計補正予算（第1号）",
+      "number": "議案第50号",
+      "result": "原案可決",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27700.pdf",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27700.pdf",
+      "resultLocator": "議会だより No.83 ８頁の議員別の賛否表",
+      "sourceType": "議会だよりの審議結果",
+      "sourceTitle": "鴻巣市議会だより 議会だより No.83 ８頁",
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27700.pdf",
+      "votes": {
+        "中西耕二郎": "賛成",
+        "小泉晋史": "賛成",
+        "藤村孝志": "賛成",
+        "高橋亜紀": "賛成",
+        "後藤耕佑": "賛成",
+        "古山大輔": "賛成",
+        "田中克美": "賛成",
+        "金子雄一": "賛成",
+        "芝嵜和好": "賛成",
+        "橋本稔": "賛成",
+        "潮田幸子": "賛成",
+        "川﨑葉子": "議長（表決不参加）",
+        "茂利博之": "賛成",
+        "秋谷修": "賛成",
+        "大塚佳之": "賛成",
+        "坂本国広": "賛成",
+        "金澤孝太郎": "賛成",
+        "織田京子": "賛成",
+        "市ノ川徳宏": "賛成",
+        "竹田悦子": "賛成",
+        "諏訪三津枝": "賛成",
+        "西尾綾子": "反対",
+        "矢島洋文": "賛成",
+        "羽鳥健": "賛成"
+      },
+      "voteNote": "議会だより No.83 ８頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。議決日は紙面に記載なし。"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "title": "「夜勤規制と大幅増員で安全・安心の医療・介護の実現を求める」意見書を国に提出することに関する請願書",
+      "number": "議請第1号",
+      "result": "不採択",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27700.pdf",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27700.pdf",
+      "resultLocator": "議会だより No.83 ８頁の議員別の賛否表",
+      "sourceType": "議会だよりの審議結果",
+      "sourceTitle": "鴻巣市議会だより 議会だより No.83 ８頁",
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27700.pdf",
+      "votes": {
+        "中西耕二郎": "反対",
+        "小泉晋史": "反対",
+        "藤村孝志": "賛成",
+        "高橋亜紀": "反対",
+        "後藤耕佑": "反対",
+        "古山大輔": "反対",
+        "田中克美": "反対",
+        "金子雄一": "反対",
+        "芝嵜和好": "反対",
+        "橋本稔": "反対",
+        "潮田幸子": "反対",
+        "川﨑葉子": "議長（表決不参加）",
+        "茂利博之": "反対",
+        "秋谷修": "反対",
+        "大塚佳之": "反対",
+        "坂本国広": "反対",
+        "金澤孝太郎": "反対",
+        "織田京子": "反対",
+        "市ノ川徳宏": "反対",
+        "竹田悦子": "賛成",
+        "諏訪三津枝": "賛成",
+        "西尾綾子": "賛成",
+        "矢島洋文": "反対",
+        "羽鳥健": "反対"
+      },
+      "voteNote": "議会だより No.83 ８頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。議決日は紙面に記載なし。"
+    },
+    {
+      "place": "鴻巣市",
+      "season": "summer",
+      "session": "令和8年6月定例会",
+      "title": "イラン戦争がもたらす物価高・資材不足から暮らしと営業を守るための緊急対策を求める意見書",
+      "number": "議提第2号",
+      "result": "否決",
+      "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27700.pdf",
+      "resultURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27700.pdf",
+      "resultLocator": "議会だより No.83 ８頁の議員別の賛否表",
+      "sourceType": "議会だよりの審議結果",
+      "sourceTitle": "鴻巣市議会だより 議会だより No.83 ８頁",
+      "voteType": "個人別記名表決",
+      "voteURL": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27700.pdf",
+      "votes": {
+        "中西耕二郎": "反対",
+        "小泉晋史": "反対",
+        "藤村孝志": "反対",
+        "高橋亜紀": "反対",
+        "後藤耕佑": "反対",
+        "古山大輔": "反対",
+        "田中克美": "反対",
+        "金子雄一": "反対",
+        "芝嵜和好": "反対",
+        "橋本稔": "反対",
+        "潮田幸子": "反対",
+        "川﨑葉子": "議長（表決不参加）",
+        "茂利博之": "反対",
+        "秋谷修": "反対",
+        "大塚佳之": "反対",
+        "坂本国広": "反対",
+        "金澤孝太郎": "反対",
+        "織田京子": "反対",
+        "市ノ川徳宏": "反対",
+        "竹田悦子": "賛成",
+        "諏訪三津枝": "賛成",
+        "西尾綾子": "賛成",
+        "矢島洋文": "反対",
+        "羽鳥健": "反対"
+      },
+      "voteNote": "議会だより No.83 ８頁の議員別の賛否（●は議案に対して賛成、×は反対、キは棄権、欠は欠席 ※議長は採決に加わらず）。議決日は紙面に記載なし。"
     }
   ],
   "policy": [
