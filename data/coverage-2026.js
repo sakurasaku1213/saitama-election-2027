@@ -32200,7 +32200,9 @@ GIKAI.coverage2026 = {
       "url": "https://www.discusscabinet.net/saitama/",
       "resultURL": "https://www.discusscabinet.net/saitama/",
       "resultLocator": "令和８年６月定例会請願審議結果一覧 1頁（文書ID 15543）",
-      "voteNote": "受理日 2026-05-26。"
+      "voteNote": "受理日 2026-05-26。",
+      "date": "2026-06-26",
+      "dateSource": "継続審査とすることを決めた日は公式本会議録（6月26日）で確認"
     },
     {
       "place": "さいたま市",
@@ -68676,7 +68678,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/27544.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。"
+      "voteNote": "議会だより紙面10頁の原表。賛成12人、反対0人。",
+      "date": "2026-03-19",
+      "dateSource": "議決日は公式本会議録（3月19日）の採決の宣告で確認"
     },
     {
       "place": "寄居町",
@@ -68776,7 +68780,9 @@ GIKAI.coverage2026 = {
       },
       "voteURL": "https://www.town.yorii.saitama.jp/uploaded/attachment/28008.pdf",
       "voteType": "記名",
-      "voteNote": "議会だより紙面7頁の原表。賛成13人、反対0人。"
+      "voteNote": "議会だより紙面7頁の原表。賛成13人、反対0人。",
+      "date": "2026-06-02",
+      "dateSource": "議決日は公式本会議録（6月2日）の採決の宣告で確認"
     },
     {
       "place": "寄居町",
@@ -69253,7 +69259,9 @@ GIKAI.coverage2026 = {
       "names": [
         "鈴木詠子"
       ],
-      "sourceTitle": "議会だより紙面6頁・提出者"
+      "sourceTitle": "議会だより紙面6頁・提出者",
+      "date": "2026-06-19",
+      "dateSource": "議決日は公式本会議録（6月19日）の採決の宣告で確認"
     },
     {
       "place": "寄居町",
@@ -88020,7 +88028,9 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.miyashiro.lg.jp/cmsfiles/contents/0000026/26086/gikaidayori138.pdf#page=19",
-      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。"
+      "voteNote": "議会だより No.138の議員別の賛否（○賛成 ●反対 ― 議長は表決に加わらない ※可否同数のため議長裁決により否決）。",
+      "date": "2026-03-26",
+      "dateSource": "議決日は公式本会議録（3月26日）の採決の宣告で確認"
     },
     {
       "place": "宮代町",
@@ -158980,7 +158990,7 @@ GIKAI.coverage2026 = {
       "place": "滑川町",
       "season": "spring",
       "session": "第251回滑川町議会３月定例会",
-      "date": "2026-03",
+      "date": "2026-03-11",
       "number": "請願第1号",
       "title": "日本政府に核兵器禁止条約の参加・調印・批准を求める意見書提出に関する請願書",
       "result": "不採択",
@@ -159007,7 +159017,8 @@ GIKAI.coverage2026 = {
         "内田敏雄": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2",
+      "dateSource": "議決日は公式本会議録（3月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "滑川町",
@@ -159268,7 +159279,7 @@ GIKAI.coverage2026 = {
       "place": "滑川町",
       "season": "spring",
       "session": "第251回滑川町議会３月定例会",
-      "date": "2026-03",
+      "date": "2026-03-11",
       "number": "議案第17号",
       "title": "令和8年度滑川町一般会計予算の議定について",
       "result": "原案可決",
@@ -159295,13 +159306,14 @@ GIKAI.coverage2026 = {
         "内田敏雄": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2",
+      "dateSource": "議決日は公式本会議録（3月11日）の一括採決（番号の範囲で示された議案をまとめて採決）の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "滑川町",
       "season": "spring",
       "session": "第251回滑川町議会３月定例会",
-      "date": "2026-03",
+      "date": "2026-03-11",
       "number": "議案第18号",
       "title": "令和8年度滑川町国民健康保険特別会計予算の議定について",
       "result": "原案可決",
@@ -159328,13 +159340,14 @@ GIKAI.coverage2026 = {
         "内田敏雄": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2",
+      "dateSource": "議決日は公式本会議録（3月11日）の一括採決（番号の範囲で示された議案をまとめて採決）の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "滑川町",
       "season": "spring",
       "session": "第251回滑川町議会３月定例会",
-      "date": "2026-03",
+      "date": "2026-03-11",
       "number": "議案第19号",
       "title": "令和8年度滑川町介護保険特別会計予算の議定について",
       "result": "原案可決",
@@ -159361,13 +159374,14 @@ GIKAI.coverage2026 = {
         "内田敏雄": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2",
+      "dateSource": "議決日は公式本会議録（3月11日）の一括採決（番号の範囲で示された議案をまとめて採決）の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "滑川町",
       "season": "spring",
       "session": "第251回滑川町議会３月定例会",
-      "date": "2026-03",
+      "date": "2026-03-11",
       "number": "議案第20号",
       "title": "令和8年度滑川町後期高齢者医療特別会計予算の議定について",
       "result": "原案可決",
@@ -159394,13 +159408,14 @@ GIKAI.coverage2026 = {
         "内田敏雄": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2",
+      "dateSource": "議決日は公式本会議録（3月11日）の一括採決（番号の範囲で示された議案をまとめて採決）の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "滑川町",
       "season": "spring",
       "session": "第251回滑川町議会３月定例会",
-      "date": "2026-03",
+      "date": "2026-03-11",
       "number": "議案第21号",
       "title": "令和8年度滑川町水道事業会計予算の議定について",
       "result": "原案可決",
@@ -159427,7 +159442,8 @@ GIKAI.coverage2026 = {
         "内田敏雄": "議長（表決不参加）"
       },
       "voteType": "個人別記名表決",
-      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2"
+      "voteURL": "https://www.town.namegawa.saitama.jp/material/files/group/12/namegawagikaidayori_vol161.pdf#page=2",
+      "dateSource": "議決日は公式本会議録（3月11日）の一括採決（番号の範囲で示された議案をまとめて採決）の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "滑川町",
@@ -159906,7 +159922,7 @@ GIKAI.coverage2026 = {
       "place": "嵐山町",
       "season": "summer",
       "session": "令和8年第2回嵐山町議会定例会",
-      "date": "2026-06",
+      "date": "2026-06-11",
       "number": "請願第1号",
       "title": "「夜勤規制と大幅増員で安全・安心の医療・介護の実現を求める」意見書を国に提出することに関する請願書の審査",
       "result": "採択",
@@ -159914,7 +159930,8 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000008/8026/R0806T.pdf",
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、請願第1号は採択すべきものと決まりました」",
-      "sourceType": "公式本会議録"
+      "sourceType": "公式本会議録",
+      "dateSource": "議決日は公式本会議録（6月11日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "嵐山町",
@@ -160551,7 +160568,7 @@ GIKAI.coverage2026 = {
       "place": "嵐山町",
       "season": "spring",
       "session": "令和8年第1回嵐山町議会定例会",
-      "date": "2026-03",
+      "date": "2026-02-25",
       "number": "同意第1号",
       "title": "嵐山町教育委員会教育長の任命につき同意を求めることについて",
       "result": "同意",
@@ -160559,13 +160576,14 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、同意第1号嵐山町教育委員会教育長の任命につき同意を求めることについては、これに同意することに決しました」",
-      "sourceType": "公式本会議録"
+      "sourceType": "公式本会議録",
+      "dateSource": "従来は議決日を月（3月）だけ記していたが、本会議録では2月25日に採決している。議決日は公式本会議録（2月25日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "嵐山町",
       "season": "spring",
       "session": "令和8年第1回嵐山町議会定例会",
-      "date": "2026-03",
+      "date": "2026-02-25",
       "number": "承認第1号",
       "title": "専決処分の承認を求めることについて(令和7年度嵐山町一般会計補正予算(第5号))",
       "result": "承認",
@@ -160573,7 +160591,8 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、本案は承認されました」",
-      "sourceType": "公式本会議録"
+      "sourceType": "公式本会議録",
+      "dateSource": "従来は議決日を月（3月）だけ記していたが、本会議録では2月25日に採決している。議決日は公式本会議録（2月25日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "嵐山町",
@@ -160739,7 +160758,7 @@ GIKAI.coverage2026 = {
       "place": "嵐山町",
       "season": "spring",
       "session": "令和8年第1回嵐山町議会定例会",
-      "date": "2026-03",
+      "date": "2026-02-25",
       "number": "議案第1号",
       "title": "嵐山町乳児等通園支援事業手数料条例を制定することについて",
       "result": "原案可決",
@@ -160747,13 +160766,14 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
-      "sourceType": "公式本会議録"
+      "sourceType": "公式本会議録",
+      "dateSource": "従来は議決日を月（3月）だけ記していたが、本会議録では2月25日に採決している。議決日は公式本会議録（2月25日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "嵐山町",
       "season": "spring",
       "session": "令和8年第1回嵐山町議会定例会",
-      "date": "2026-03",
+      "date": "2026-02-25",
       "number": "議案第2号",
       "title": "嵐山町一般職員の給与に関する条例の一部を改正することについて",
       "result": "原案可決",
@@ -160761,13 +160781,14 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
-      "sourceType": "公式本会議録"
+      "sourceType": "公式本会議録",
+      "dateSource": "従来は議決日を月（3月）だけ記していたが、本会議録では2月25日に採決している。議決日は公式本会議録（2月25日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "嵐山町",
       "season": "spring",
       "session": "令和8年第1回嵐山町議会定例会",
-      "date": "2026-03",
+      "date": "2026-02-25",
       "number": "議案第3号",
       "title": "嵐山町行政手続条例の一部を改正することについて",
       "result": "原案可決",
@@ -160775,13 +160796,14 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
-      "sourceType": "公式本会議録"
+      "sourceType": "公式本会議録",
+      "dateSource": "従来は議決日を月（3月）だけ記していたが、本会議録では2月25日に採決している。議決日は公式本会議録（2月25日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "嵐山町",
       "season": "spring",
       "session": "令和8年第1回嵐山町議会定例会",
-      "date": "2026-03",
+      "date": "2026-02-25",
       "number": "議案第4号",
       "title": "嵐山町国民健康保険税条例の一部を改正することについて",
       "result": "原案可決",
@@ -160806,13 +160828,14 @@ GIKAI.coverage2026 = {
       },
       "voteType": "個人別記名表決",
       "voteURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7894/gikaidayori202.pdf#page=4",
-      "voteNote": "議会だより No.202の議員別の賛否（●（賛成）×（反対）。網掛けは討論を行った議員。議長は賛否表明をしない）。"
+      "voteNote": "議会だより No.202の議員別の賛否（●（賛成）×（反対）。網掛けは討論を行った議員。議長は賛否表明をしない）。",
+      "dateSource": "従来は議決日を月（3月）だけ記していたが、本会議録では2月25日に採決している。議決日は公式本会議録（2月25日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "嵐山町",
       "season": "spring",
       "session": "令和8年第1回嵐山町議会定例会",
-      "date": "2026-03",
+      "date": "2026-02-25",
       "number": "議案第5号",
       "title": "嵐山町重度心身障害者医療費支給に関する条例の一部を改正することについて",
       "result": "原案可決",
@@ -160820,7 +160843,8 @@ GIKAI.coverage2026 = {
       "resultURL": "https://www.town.ranzan.saitama.jp/cmsfiles/contents/0000007/7977/R0803T.pdf",
       "sourceTitle": "公式本会議録（PDF）の採決の記述",
       "resultLocator": "本会議録の採決の記述「よって、本案は可決されました」",
-      "sourceType": "公式本会議録"
+      "sourceType": "公式本会議録",
+      "dateSource": "従来は議決日を月（3月）だけ記していたが、本会議録では2月25日に採決している。議決日は公式本会議録（2月25日）の採決の宣告で確認（会期全体の会議録PDFを本文中の日付見出しで日ごとに区切って判定）"
     },
     {
       "place": "嵐山町",
