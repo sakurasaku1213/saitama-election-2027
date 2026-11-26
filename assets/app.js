@@ -1025,7 +1025,8 @@
     const doc = `<div class="meta"><span>${esc(entry.place)}議会</span>${dateTag(entry.date)}${tag(entry.kind)}</div><h3>${esc(entry.title)}</h3>`;
     const speakerLabel = entry.scope === "recording" ? "録画一覧の質問者" :
       entry.scope === "notice" ? "通告に掲載された質問者" :
-      entry.scope === "supporting" ? "資料で発言を確認できる議員" : "本文に名前がある議員";
+      entry.kind === "議案・動議の提出原文（公式資料・OCR）" ? "提出原文に記載された議員" :
+      entry.scope === "supporting" ? "関連資料に記載された議員" : "本文に名前がある議員";
     const related = (entry.relatedDocumentIds || []).map((id) =>
       D.questionText.documents.find((doc) => doc.id === id),
     ).filter(Boolean).map((doc) => jump("texts", {
