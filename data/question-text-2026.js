@@ -55476,6 +55476,90 @@ GIKAI.questionText = {
       "url": "https://www.pref.saitama.lg.jp/documents/290282/302_077_seigan-bouchou.pdf",
       "note": "日付は県議会時報の発行日。県公表の分冊PDFの頁順で文字層を収録。",
       "speakers": []
+    },
+    {
+      "id": "c2ea3a1d520b94c32fbb",
+      "place": "伊奈町",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "伊奈町 第55号議案（令和８年９月定例会）",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-09gi55go.pdf",
+      "note": "年月は提出対象の定例会。公表された冊子・別冊の原本。",
+      "speakers": []
+    },
+    {
+      "id": "4760227a13827d3b18fc",
+      "place": "伊奈町",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "伊奈町 第57号議案（令和８年９月定例会）",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-09gi57go.pdf",
+      "note": "年月は提出対象の定例会。公表された冊子・別冊の原本。",
+      "speakers": []
+    },
+    {
+      "id": "11cfda16c87f1e5124bb",
+      "place": "伊奈町",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "伊奈町 第59号議案（令和８年９月定例会）",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-09gi59go.pdf",
+      "note": "年月は提出対象の定例会。公表された冊子・別冊の原本。",
+      "speakers": []
+    },
+    {
+      "id": "89b5d41b937099716fea",
+      "place": "伊奈町",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "伊奈町 第60号議案（令和８年９月定例会）",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-09gi60go.pdf",
+      "note": "年月は提出対象の定例会。公表された冊子・別冊の原本。",
+      "speakers": []
+    },
+    {
+      "id": "b90711ceaabc5fa57576",
+      "place": "伊奈町",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "伊奈町 令和８年９月定例会議案",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-09gi.pdf",
+      "note": "日付は冊子の第69号議案に記載された提出日。令和８年９月定例会の町議会公表議案書を物理頁順に収録。",
+      "speakers": []
+    },
+    {
+      "id": "849dbfdb0f8c734ea7ce",
+      "place": "伊奈町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "伊奈町 議第1号議案（令和8年3月定例会）",
+      "kind": "議案・動議の提出原文（公式資料・OCR）",
+      "scope": "supporting",
+      "url": "https://inamachi.gsl-service.net/doc/2019122700147/file_contents/2026-3gi1go.pdf",
+      "note": "年月は提出対象の定例会。公表された冊子・別冊の原本。",
+      "speakers": []
+    },
+    {
+      "id": "ff99ce866a28e7732649",
+      "place": "蕨市",
+      "season": "fall",
+      "date": "2026-09-30",
+      "title": "蕨市 令和７年度介護保険特別会計決算書",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.city.warabi.saitama.jp/_res/projects/default_project/_page_/001/013/260/7kaigo.pdf",
+      "note": "日付は市の公式掲載日。原本の頁順で文字層・OCRを収録。",
+      "speakers": []
     }
   ],
   "coverage": [
