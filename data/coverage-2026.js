@@ -5859,7 +5859,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "partial",
-          "note": "第207号で議員15人・15主題の質問と答弁、議案・決算の14問答、補足13件を原紙面と照合。公式通告19頁、公式録画で9/14の２人、15・16日の各６人、17日の１人を照合。速報版は市が11月下旬予定と案内しており、正式会議録は確認中。 公式録画の機械文字起こし一般質問15本を収録。"
+          "note": "市議会の校正前の会議録速報版301頁を収録。公式録画目録と本会議７日、一般質問15人の発言順を照合。 正式会議録を確認中。議会だよりの問答、公式通告、一般質問15本の機械文字起こしも掲載。"
         },
         "decisions": {
           "state": "verified",
@@ -5902,6 +5902,10 @@ GIKAI.coverage2026 = {
         {
           "label": "三郷市の提出議案・予算・決算等の一覧",
           "url": "https://www.city.misato.lg.jp/soshiki/gikaijimukyoku/giji/1/7943.html"
+        },
+        {
+          "label": "本会議７日・301頁の会議録速報版（公式PDF）",
+          "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_kaigiroku_sokuhou.pdf"
         }
       ]
     },

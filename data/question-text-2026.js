@@ -6318,6 +6318,18 @@ GIKAI.questionText = {
       "speakers": []
     },
     {
+      "id": "91c23624ca7e5d8611dc",
+      "place": "三郷市",
+      "season": "fall",
+      "date": "2026-08-31",
+      "title": "令和8年9月定例会 8月31日 開会・議案説明（速報版）",
+      "kind": "会議録速報版（公式PDF・文字転記）",
+      "scope": "minutes",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_kaigiroku_sokuhou.pdf#page=1",
+      "note": "市議会が公開した校正前の速報原稿。PDF 1～41頁を文字層から転記。公式録画目録と会議日を照合。",
+      "speakers": []
+    },
+    {
       "id": "19afcb7c46c70e67c660",
       "place": "三郷市",
       "season": "fall",
@@ -6470,6 +6482,45 @@ GIKAI.questionText = {
       "note": "掲載された事前通告を全19頁収録。一般質問者15人を公式録画目録と照合。質問者の髙の字はOCRを保持し、検索用氏名は議員名簿の高の字。"
     },
     {
+      "id": "ec598129860ce8ade447",
+      "place": "三郷市",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "令和8年9月定例会 9月1日 議案説明（速報版）",
+      "kind": "会議録速報版（公式PDF・文字転記）",
+      "scope": "minutes",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_kaigiroku_sokuhou.pdf#page=42",
+      "note": "市議会が公開した校正前の速報原稿。PDF 42～59頁を文字層から転記。公式録画目録と会議日を照合。",
+      "speakers": []
+    },
+    {
+      "id": "44bca0571392b71c487a",
+      "place": "三郷市",
+      "season": "fall",
+      "date": "2026-09-04",
+      "title": "令和8年9月定例会 9月4日 議案質疑・付託・一部採決（速報版）",
+      "kind": "会議録速報版（公式PDF・文字転記）",
+      "scope": "minutes",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_kaigiroku_sokuhou.pdf#page=60",
+      "note": "市議会が公開した校正前の速報原稿。PDF 60～104頁を文字層から転記。公式録画目録と会議日を照合。",
+      "speakers": []
+    },
+    {
+      "id": "767ee34ace642d4c8731",
+      "place": "三郷市",
+      "season": "fall",
+      "date": "2026-09-14",
+      "title": "令和8年9月定例会 9月14日 委員長報告・議案採決・一般質問（速報版）",
+      "kind": "会議録速報版（公式PDF・文字転記）",
+      "scope": "minutes",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_kaigiroku_sokuhou.pdf#page=105",
+      "note": "市議会が公開した校正前の速報原稿。PDF 105～155頁を文字層から転記。公式録画目録と会議日を照合。",
+      "speakers": [
+        "沖原優子",
+        "西尾秀貴"
+      ]
+    },
+    {
       "id": "ae2539ba39e2c029df82",
       "place": "三郷市",
       "season": "fall",
@@ -6495,6 +6546,25 @@ GIKAI.questionText = {
       "url": "https://smart.discussvision.net/smart/tenant/misato/WebView/rd/speech.html?council_id=16&schedule_id=4&playlist_id=7&speaker_id=31&target_year=2026",
       "speakers": [
         "西尾秀貴"
+      ]
+    },
+    {
+      "id": "312fd85f2722e0f03ea2",
+      "place": "三郷市",
+      "season": "fall",
+      "date": "2026-09-15",
+      "title": "令和8年9月定例会 9月15日 一般質問（速報版）",
+      "kind": "会議録速報版（公式PDF・文字転記）",
+      "scope": "minutes",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_kaigiroku_sokuhou.pdf#page=156",
+      "note": "市議会が公開した校正前の速報原稿。PDF 156～220頁を文字層から転記。公式録画目録と会議日を照合。",
+      "speakers": [
+        "西村寿美枝",
+        "柳瀬勝彦",
+        "鈴木優作",
+        "紺野伊久子",
+        "工藤智加子",
+        "深川智加"
       ]
     },
     {
@@ -6582,6 +6652,25 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "ce5d2f0626d1a97b8058",
+      "place": "三郷市",
+      "season": "fall",
+      "date": "2026-09-16",
+      "title": "令和8年9月定例会 9月16日 一般質問（速報版）",
+      "kind": "会議録速報版（公式PDF・文字転記）",
+      "scope": "minutes",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_kaigiroku_sokuhou.pdf#page=221",
+      "note": "市議会が公開した校正前の速報原稿。PDF 221～288頁を文字層から転記。公式録画目録と会議日を照合。",
+      "speakers": [
+        "鳴海和美",
+        "宇治由紀子",
+        "桑原洋昭",
+        "髙橋誠一",
+        "日髙千穂",
+        "柴田吾一"
+      ]
+    },
+    {
       "id": "77895205cf2bf63cf41c",
       "place": "三郷市",
       "season": "fall",
@@ -6663,6 +6752,20 @@ GIKAI.questionText = {
       "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
       "speakers": [
         "鳴海和美"
+      ]
+    },
+    {
+      "id": "ca0828f3d300586fb1c8",
+      "place": "三郷市",
+      "season": "fall",
+      "date": "2026-09-17",
+      "title": "令和8年9月定例会 9月17日 一般質問・閉会（速報版）",
+      "kind": "会議録速報版（公式PDF・文字転記）",
+      "scope": "minutes",
+      "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_kaigiroku_sokuhou.pdf#page=289",
+      "note": "市議会が公開した校正前の速報原稿。PDF 289～301頁を文字層から転記。公式録画目録と会議日を照合。",
+      "speakers": [
+        "寺沢美紗"
       ]
     },
     {
@@ -53478,8 +53581,8 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "第207号で議員15人・15主題の質問と答弁、議案・決算の14問答、補足13件を原紙面と照合。公式通告19頁、公式録画で9/14の２人、15・16日の各６人、17日の１人を照合。速報版は市が11月下旬予定と案内しており、正式会議録は確認中。 公式録画の機械文字起こし一般質問15本を収録。",
-        "indexURL": "https://smart.discussvision.net/smart/tenant/misato/WebView/rd/council.html?year=2026&council_id=16"
+        "note": "市議会の校正前の会議録速報版301頁を収録。公式録画目録と本会議７日、一般質問15人の発言順を照合。 正式会議録を確認中。議会だよりの問答、公式通告、一般質問15本の機械文字起こしも掲載。",
+        "indexURL": "https://www.city.misato.lg.jp/shiseijoho/shigikai/teireikainogoki/6452.html"
       }
     },
     {

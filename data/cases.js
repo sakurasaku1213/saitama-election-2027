@@ -7974,21 +7974,42 @@ GIKAI.cases.push(...[
         "date": "2026-09-15",
         "actor": "深川智加",
         "stage": "閉所方針の撤回と窓口機能の充実を求める",
-        "detail": "証明交付を利用する住民への影響を挙げて存続を求めた。市はコンビニ交付57.5％、連絡所6.7％と説明し、マルチコピー機での代替と課題整理を進めると答えた。",
-        "url": "https://www.city.misato.lg.jp/material/files/group/57/gikaidayori207.pdf#page=8",
-        "sourceTitle": "みさと市議会だより第207号 PDF8頁",
-        "archiveId": "19afcb7c46c70e67c660",
+        "detail": "住民票の除票や手数料減免などを例に窓口との違いを指摘し、閉所方針の撤回とサービスの充実を求めた。",
+        "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_kaigiroku_sokuhou.pdf#page=211",
+        "sourceTitle": "三郷市議会 会議録速報版 PDF211・212・218・219頁",
+        "archiveId": "312fd85f2722e0f03ea2",
         "blocks": [
-          5
+          56,
+          57,
+          63,
+          64
         ],
         "memberActions": [
           {
             "name": "深川智加",
             "blocks": [
-              5
+              56,
+              57,
+              63,
+              64
             ],
-            "detail": "証明交付を利用する住民への影響を挙げて存続を求めた。市はコンビニ交付57.5％、連絡所6.7％と説明し、マルチコピー機での代替と課題整理を進めると答えた。"
+            "detail": "住民票の除票や手数料減免などを例に窓口との違いを指摘し、閉所方針の撤回とサービスの充実を求めた。"
           }
+        ]
+      },
+      {
+        "date": "2026-09-15",
+        "actor": "市民生活部長（浅井富雄）",
+        "stage": "証明書の利用割合と閉所時期の方針を答弁",
+        "detail": "令和７年度のコンビニでも取得できる証明書の交付のうち、コンビニ57.5％、連絡所6.7％と説明。鷹野は12月末、戸ヶ崎と早稲田は翌年３月末に閉所する準備を進め、マルチコピー機を充実させる方針を答えた。",
+        "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_kaigiroku_sokuhou.pdf#page=216",
+        "sourceTitle": "三郷市議会 会議録速報版 PDF216・217・218・219頁",
+        "archiveId": "312fd85f2722e0f03ea2",
+        "blocks": [
+          61,
+          62,
+          63,
+          64
         ]
       },
       {
@@ -8023,21 +8044,40 @@ GIKAI.cases.push(...[
         "date": "2026-09-14",
         "actor": "沖原優子",
         "stage": "居場所と体験機会の課題、次年度以降の取組を質す",
-        "detail": "市は夏休みの学校図書館開放と安全管理の課題を説明し、８月のプレーパーク制度新設と周知・機運醸成を答えた。",
-        "url": "https://www.city.misato.lg.jp/material/files/group/57/gikaidayori207.pdf#page=10",
-        "sourceTitle": "みさと市議会だより第207号 PDF10頁",
-        "archiveId": "19afcb7c46c70e67c660",
+        "detail": "夏休みのこどもの居場所・体験機会を取り上げ、プレーパーク認定制度の目的、内容と今後の取組を質した。",
+        "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_kaigiroku_sokuhou.pdf#page=140",
+        "sourceTitle": "三郷市議会 会議録速報版 PDF140・143・144頁",
+        "archiveId": "767ee34ace642d4c8731",
         "blocks": [
-          9
+          36,
+          39,
+          40
         ],
         "memberActions": [
           {
             "name": "沖原優子",
             "blocks": [
-              9
+              36,
+              39,
+              40
             ],
-            "detail": "市は夏休みの学校図書館開放と安全管理の課題を説明し、８月のプレーパーク制度新設と周知・機運醸成を答えた。"
+            "detail": "夏休みのこどもの居場所・体験機会を取り上げ、プレーパーク認定制度の目的、内容と今後の取組を質した。"
           }
+        ]
+      },
+      {
+        "date": "2026-09-14",
+        "actor": "こども未来部長（田口洋一）",
+        "stage": "体験会の参加状況と認定制度の支援を答弁",
+        "detail": "市は令和７年度のプレーパーク体験会に定員50人を超える100人以上が来場したと説明。認定団体への情報発信などと、市内への制度の働きかけを進める方針を答えた。",
+        "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_kaigiroku_sokuhou.pdf#page=143",
+        "sourceTitle": "三郷市議会 会議録速報版 PDF143・144・146・147頁",
+        "archiveId": "767ee34ace642d4c8731",
+        "blocks": [
+          39,
+          40,
+          42,
+          43
         ]
       },
       {
@@ -8072,21 +8112,39 @@ GIKAI.cases.push(...[
         "date": "2026-09-15",
         "actor": "柳瀬勝彦",
         "stage": "給食の質を確かめ地産地消のモデルを提案",
-        "detail": "柳瀬議員は給食の質を高めるモデルを提案。市は５月の18日中11日で地元の野菜を使い、有機農産物調達には量・費用の課題があると答えた。",
-        "url": "https://www.city.misato.lg.jp/material/files/group/57/gikaidayori207.pdf#page=9",
-        "sourceTitle": "みさと市議会だより第207号 PDF9頁",
-        "archiveId": "19afcb7c46c70e67c660",
+        "detail": "給食の質の維持、地元食材や有機農産物の活用、栄養面を質し、地産地消を進める取組を求めた。",
+        "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_kaigiroku_sokuhou.pdf#page=168",
+        "sourceTitle": "三郷市議会 会議録速報版 PDF168・170・171頁",
+        "archiveId": "312fd85f2722e0f03ea2",
         "blocks": [
-          8
+          13,
+          15,
+          16
         ],
         "memberActions": [
           {
             "name": "柳瀬勝彦",
             "blocks": [
-              8
+              13,
+              15,
+              16
             ],
-            "detail": "柳瀬議員は給食の質を高めるモデルを提案。市は５月の18日中11日で地元の野菜を使い、有機農産物調達には量・費用の課題があると答えた。"
+            "detail": "給食の質の維持、地元食材や有機農産物の活用、栄養面を質し、地産地消を進める取組を求めた。"
           }
+        ]
+      },
+      {
+        "date": "2026-09-15",
+        "actor": "学校教育部長（佐藤孝祐）",
+        "stage": "地元食材の使用実績と有機農産物の調達課題を答弁",
+        "detail": "市は５月の給食18日のうち11日で地元のコマツナやタマネギを使った献立などを提供したと説明。有機農産物の規格に合う数量の確保と調達費を課題とし、先進自治体の取組も調べる方針を答えた。",
+        "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_kaigiroku_sokuhou.pdf#page=170",
+        "sourceTitle": "三郷市議会 会議録速報版 PDF170・173・174頁",
+        "archiveId": "312fd85f2722e0f03ea2",
+        "blocks": [
+          15,
+          18,
+          19
         ]
       },
       {
@@ -8126,21 +8184,42 @@ GIKAI.cases.push(...[
         "date": "2026-09-16",
         "actor": "柴田吾一",
         "stage": "全校配置と休業中の開館、研修の拠点化を求める",
-        "detail": "柴田議員が直接雇用による全校配置等を提案。市は人員確保と費用も踏まえて配置方法を研究し、研修を維持して専門性共有も調べると答えた。",
-        "url": "https://www.city.misato.lg.jp/material/files/group/57/gikaidayori207.pdf#page=9",
-        "sourceTitle": "みさと市議会だより第207号 PDF9頁",
-        "archiveId": "19afcb7c46c70e67c660",
+        "detail": "司書の雇用形態や配置実績を質し、直接雇用、配置日数の拡大、通年利用と研修拠点の検討を求めた。",
+        "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_kaigiroku_sokuhou.pdf#page=280",
+        "sourceTitle": "三郷市議会 会議録速報版 PDF280・281・287・288頁",
+        "archiveId": "ce5d2f0626d1a97b8058",
         "blocks": [
-          7
+          60,
+          61,
+          67,
+          68
         ],
         "memberActions": [
           {
             "name": "柴田吾一",
             "blocks": [
-              7
+              60,
+              61,
+              67,
+              68
             ],
-            "detail": "柴田議員が直接雇用による全校配置等を提案。市は人員確保と費用も踏まえて配置方法を研究し、研修を維持して専門性共有も調べると答えた。"
+            "detail": "司書の雇用形態や配置実績を質し、直接雇用、配置日数の拡大、通年利用と研修拠点の検討を求めた。"
           }
+        ]
+      },
+      {
+        "date": "2026-09-16",
+        "actor": "学校教育部長（佐藤孝祐）",
+        "stage": "委託24校・直接雇用２校の実績と、配置方法を研究する方針を答弁",
+        "detail": "令和７年度は24校を委託で週２日、２校を直接雇用で週４日と説明。必要数を採用できない場合や急な欠員時に配置が不安定になる懸念、費用対効果を踏まえて配置方法を研究し、司書研修を維持しながら支援拠点も調べると答えた。",
+        "url": "https://www.city.misato.lg.jp/material/files/group/57/R8_9_kaigiroku_sokuhou.pdf#page=283",
+        "sourceTitle": "三郷市議会 会議録速報版 PDF283・284・287・288頁",
+        "archiveId": "ce5d2f0626d1a97b8058",
+        "blocks": [
+          63,
+          64,
+          67,
+          68
         ]
       }
     ],
