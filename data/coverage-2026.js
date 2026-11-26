@@ -7039,7 +7039,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "partial",
-          "note": "第211号の一般質問14人・17主題・26問答と、委員会・決算の17問答、討論14件などを原紙面と照合。一般質問通告23頁と議案質疑通告21頁、９月16～18日の公式録画14人。正式会議録は議会だより第211号によると12月上旬提供予定。 公式録画の機械文字起こし一般質問8本を収録。"
+          "note": "第211号の一般質問14人・17主題・26問答と、委員会・決算の17問答、討論14件などを原紙面と照合。一般質問通告23頁と議案質疑通告21頁、９月16～18日の公式録画14人。正式会議録は議会だより第211号によると12月上旬提供予定。 公式録画の機械文字起こし一般質問9本を収録。"
         },
         "decisions": {
           "state": "verified",
@@ -10748,22 +10748,22 @@ GIKAI.coverage2026 = {
     {
       "place": "寄居町",
       "season": "fall",
-      "label": "2026年秋の定例会",
-      "fromDate": "",
-      "toDate": "",
+      "label": "令和８年第３回（９月）定例会",
+      "fromDate": "2026-09-14",
+      "toDate": "2026-10-09",
       "planned": false,
       "materials": {
         "meeting": {
-          "state": "identified",
-          "note": "対象時期に関係する資料の掲載箇所を確認。会期の確定は未了。"
+          "state": "verified",
+          "note": "町議会の本会議日程・案件表と９月14日、10月９日の公式録画を照合。"
         },
         "activity": {
           "state": "partial",
           "note": "この時期の掲載項目 22件。通告・目次・本文の別は活動の出典に表示。"
         },
         "text": {
-          "state": "identified",
-          "note": "公式録画一覧で一般質問12人を確認。議会だよりの質問・答弁要旨も収録。正式会議録は確認中。 公式録画の機械文字起こし一般質問12本・議事8本を収録。"
+          "state": "partial",
+          "note": "公式録画一覧で一般質問12人を確認。議会だよりの質問・答弁要旨も収録。正式会議録は確認中。 公式録画の機械文字起こし一般質問12本・議事9本を収録。 公式通告は12人・28頁。"
         },
         "decisions": {
           "state": "verified",
@@ -10784,7 +10784,7 @@ GIKAI.coverage2026 = {
           "url": "https://www.town.yorii.saitama.jp/site/gikai/giketukekka-r8.html"
         },
         {
-          "label": "会期資料　2026年9月定例会",
+          "label": "一般質問通告書（12人・28頁）",
           "url": "https://www.town.yorii.saitama.jp/uploaded/attachment/28191.pdf"
         },
         {
@@ -10794,6 +10794,22 @@ GIKAI.coverage2026 = {
         {
           "label": "議案・議決資料　議決結果",
           "url": "https://www.town.yorii.saitama.jp/site/gikai/list13-41.html"
+        },
+        {
+          "label": "９月定例会の本会議日程と議案",
+          "url": "https://www.town.yorii.saitama.jp/site/gikai/gian.html"
+        },
+        {
+          "label": "９月定例会の一般質問公式案内",
+          "url": "https://www.town.yorii.saitama.jp/site/gikai/ippannsitumonr8-3.html"
+        },
+        {
+          "label": "９月14日・開会日の本会議録画",
+          "url": "https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/speech.html?council_id=39&schedule_id=1&playlist_id=1&speaker_id=0&target_year=2026"
+        },
+        {
+          "label": "10月９日・最終日の本会議録画",
+          "url": "https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/speech.html?council_id=39&schedule_id=8&playlist_id=1&speaker_id=0&target_year=2026"
         }
       ]
     },

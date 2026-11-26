@@ -56342,6 +56342,105 @@ GIKAI.questionText = {
       "url": "https://www.pref.saitama.lg.jp/documents/274057/r8-62gougian.pdf",
       "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。",
       "speakers": []
+    },
+    {
+      "id": "f96ba99d041e2bb5942b",
+      "place": "寄居町",
+      "season": "fall",
+      "date": "2026-09-29",
+      "title": "本会議　決算審議　第５款 農林水産業費（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/speech.html?council_id=39&schedule_id=6&playlist_id=1&speaker_id=0&target_year=2026",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 当日の本会議の議事録画。分割された録画を含む。発言者と発言区間は原映像でご確認ください。 自動検査の確認候補時間帯を含みます。",
+      "speakers": []
+    },
+    {
+      "id": "bf13dfb7eb86113659d8",
+      "place": "吉川市",
+      "season": "fall",
+      "date": "2026-09-17",
+      "title": "松﨑誠議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://yoshikawa.gijiroku.com/g07_Video_View.asp?SrchID=1265",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "松﨑誠"
+      ]
+    },
+    {
+      "id": "a1111d620fd4d966b6b5",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "埼玉県議会定例会議案（一般会計補正予算（第3号）等）（案）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/274057/r8-9_hoseigian.pdf",
+      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。",
+      "speakers": []
+    },
+    {
+      "id": "7318b4ab8ccf08075efc",
+      "place": "埼玉県",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "埼玉県議会提出予算説明書（一般会計補正予算（第3号）等）（案）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/274057/r8-9_hosiyosetu.pdf",
+      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。",
+      "speakers": []
+    },
+    {
+      "id": "2d6e690c0336a6086aa9",
+      "place": "埼玉県",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "埼玉県議会定例会議案（一般会計補正予算（第1号）等）（案）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.pref.saitama.lg.jp/documents/274057/r8-6_hoseigian.pdf",
+      "note": "年月は資料に対応する定例会。 原本の頁順で文字層・OCRを収録。",
+      "speakers": []
+    },
+    {
+      "id": "3e322754f5c3078a0bdd",
+      "place": "寄居町",
+      "season": "fall",
+      "date": "2026-09-10",
+      "title": "寄居町議会 ９月定例会の本会議日程と審議予定議案",
+      "kind": "議事概要（公式資料）",
+      "scope": "supporting",
+      "url": "https://www.town.yorii.saitama.jp/site/gikai/gian.html",
+      "note": "日付は町議会公式ページの更新日。審議予定一覧と一般質問日を収録。",
+      "speakers": []
+    },
+    {
+      "id": "b4bd987d339947159c8a",
+      "place": "寄居町",
+      "season": "fall",
+      "date": "2026-09-14",
+      "title": "寄居町議会 ９月定例会の一般質問通告書（12人・28頁）",
+      "kind": "一般質問通告（公式資料）",
+      "scope": "notice",
+      "url": "https://www.town.yorii.saitama.jp/uploaded/attachment/28191.pdf",
+      "note": "日付は町議会公式案内の更新日。通告書の質問項目・要旨を物理頁順に収録。",
+      "speakers": [
+        "本間政道",
+        "津久井大雄",
+        "吉田林藏",
+        "稲山良文",
+        "浅見玲子",
+        "笠原則夫",
+        "鈴木詠子",
+        "保泉周平",
+        "大澤博",
+        "里見夕子",
+        "久保鷹矢",
+        "𠮷澤康広"
+      ]
     }
   ],
   "coverage": [
@@ -57391,7 +57490,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "第211号の一般質問14人・17主題・26問答と、委員会・決算の17問答、討論14件などを原紙面と照合。一般質問通告23頁と議案質疑通告21頁、９月16～18日の公式録画14人。正式会議録は議会だより第211号によると12月上旬提供予定。 公式録画の機械文字起こし一般質問8本を収録。",
+        "note": "第211号の一般質問14人・17主題・26問答と、委員会・決算の17問答、討論14件などを原紙面と照合。一般質問通告23頁と議案質疑通告21頁、９月16～18日の公式録画14人。正式会議録は議会だより第211号によると12月上旬提供予定。 公式録画の機械文字起こし一般質問9本を収録。",
         "indexURL": "https://ssp.kaigiroku.net/tenant/yoshikawa/SpMinuteBrowse.html?tenant_id=230&view_years=2026"
       }
     },
@@ -57977,7 +58076,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/yorii/WebView/rd/council.html?year=2026&council_id=39",
-        "note": "公式録画一覧で一般質問12人を確認。議会だよりの質問・答弁要旨も収録。正式会議録は確認中。 公式録画の機械文字起こし一般質問12本・議事8本を収録。"
+        "note": "公式録画一覧で一般質問12人を確認。議会だよりの質問・答弁要旨も収録。正式会議録は確認中。 公式録画の機械文字起こし一般質問12本・議事9本を収録。 公式通告は12人・28頁。"
       }
     },
     {
