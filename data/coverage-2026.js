@@ -663,7 +663,7 @@ GIKAI.coverage2026 = {
         },
         "text": {
           "state": "notFound",
-          "note": "議会だよりの一般質問19人の問答と４常任委員会の質疑を収録。公式録画目録は９月10日に７人、11・14日に各６人。正式会議録と原音照合は確認中。 公式録画の機械文字起こし一般質問15本を収録。"
+          "note": "議会だよりの一般質問19人の問答と４常任委員会の質疑を収録。公式録画目録は９月10日に７人、11・14日に各６人。正式会議録と原音照合は確認中。 公式録画の機械文字起こし一般質問16本を収録。"
         },
         "decisions": {
           "state": "verified",
@@ -9634,6 +9634,22 @@ GIKAI.coverage2026 = {
         {
           "label": "小鹿野町議会だより第83号・記名表決",
           "url": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/04/ogano-gikai-83.pdf#page=8"
+        },
+        {
+          "label": "教育・予算・決算等の公式掲載一覧",
+          "url": "https://www.town.ogano.lg.jp/chousei-jouhou/finance/"
+        },
+        {
+          "label": "教育・予算・決算等の公式掲載一覧",
+          "url": "https://www.town.ogano.lg.jp/chousei-jouhou/gyoumukeikakutou/"
+        },
+        {
+          "label": "教育・予算・決算等の公式掲載一覧",
+          "url": "https://www.town.ogano.lg.jp/chousei-jouhou/gyoumukeikakutou/ogano-sougou-kyouikukaigi/"
+        },
+        {
+          "label": "教育・予算・決算等の公式掲載一覧",
+          "url": "https://www.town.ogano.lg.jp/kosodate-kyouiku/kyouikuiinkai/kyouikugijiroku/"
         }
       ]
     },
@@ -9690,6 +9706,14 @@ GIKAI.coverage2026 = {
         {
           "label": "小鹿野町議会だより第84号・記名表決",
           "url": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/08/ogano-gikai-84.pdf#page=4"
+        },
+        {
+          "label": "教育・予算・決算等の公式掲載一覧",
+          "url": "https://www.town.ogano.lg.jp/chousei-jouhou/kouchou-kouhou-toukei/kouhou-ogano/"
+        },
+        {
+          "label": "教育・予算・決算等の公式掲載一覧",
+          "url": "https://www.town.ogano.lg.jp/kosodate-kyouiku/kyouikuiinkai/kyouikugijiroku/"
         }
       ]
     },
@@ -9734,6 +9758,14 @@ GIKAI.coverage2026 = {
         {
           "label": "確認した町公式トップの９月の保存版",
           "url": "https://web.archive.org/web/20260901123528/https://www.town.ogano.lg.jp/"
+        },
+        {
+          "label": "教育・予算・決算等の公式掲載一覧",
+          "url": "https://www.town.ogano.lg.jp/chousei-jouhou/finance/"
+        },
+        {
+          "label": "教育・予算・決算等の公式掲載一覧",
+          "url": "https://www.town.ogano.lg.jp/chousei-jouhou/kouchou-kouhou-toukei/kouhou-ogano/"
         }
       ]
     },

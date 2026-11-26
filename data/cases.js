@@ -614,6 +614,19 @@ GIKAI.cases.push(
         sourceTitle: "小鹿野町議会 ３月４日会議録・議案第１号の採決", billNumber: "議案第1号",
       },
       {
+        "date": "2026-03-06",
+        "stage": "乗合タクシー運行事業費2,035万円を当初予算に計上",
+        "actor": "小鹿野町議会、小鹿野町",
+        "detail": "議案第21号の令和８年度一般会計当初予算が原案可決され、歳出明細に乗合タクシー運行事業費2,035万円を計上した。",
+        "billNumber": "議案第21号",
+        "archiveId": "363ed7bc8d8dba3a5431",
+        "blocks": [
+          51
+        ],
+        "url": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/03/R8yosansyo.pdf#page=51",
+        "sourceTitle": "令和８年度小鹿野町予算書（一般・特別会計） PDF51頁"
+      },
+      {
         date: "2026-06-01", stage: "６月１日からの利用方法を案内", actor: "小鹿野町",
         detail: "町の案内は、事業者協力型の自家用有償旅客運送について、利用登録と予約方法を示した。日付は案内の表記。",
         url: "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/08/R8.8.1_noriaitaxi_p.pdf",
@@ -22828,4 +22841,88 @@ GIKAI.cases.push({
     }
   ],
   "note": "答申と総合教育会議の方針、議員の質疑・討論、村議会の議決と補正予算を出典ごとに掲載。９月の通告は質問予定の資料。"
+});
+
+GIKAI.cases.push({
+  "place": "小鹿野町",
+  "title": "中学校の部活動を地域に広げ、指導員の配置と実証を進める",
+  "topic": "学校・部活動の地域展開",
+  "actors": [
+    "小鹿野町",
+    "小鹿野町議会",
+    "小鹿野町教育委員会",
+    "小鹿野町総合教育会議"
+  ],
+  "steps": [
+    {
+      "date": "2026-02-17",
+      "actor": "小鹿野町総合教育会議",
+      "stage": "３教室の試行実績と指導員の予算案を報告",
+      "detail": "町は令和７年度にボルダリング、プログラミング、体操の３教室を試行したと報告。翌年度は指導員をお願いできる種目から取り組む意向と、指導員報酬206万4,000円の予算案を説明した。",
+      "archiveId": "482a6e7d955739335b19",
+      "blocks": [
+        5
+      ],
+      "url": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/02/R8.2.17.sougoukyouikukaigigijiroku.pdf#page=5",
+      "sourceTitle": "令和７年度第２回小鹿野町総合教育会議 会議録 PDF5頁"
+    },
+    {
+      "date": "2026-03-06",
+      "actor": "小鹿野町議会、小鹿野町",
+      "stage": "地域クラブ活動推進事業費229万4,000円を予算化",
+      "detail": "町議会が議案第21号の一般会計当初予算を原案可決した。予算書には地域クラブ活動推進事業費229万4,000円を計上している。",
+      "billNumber": "議案第21号",
+      "archiveId": "363ed7bc8d8dba3a5431",
+      "blocks": [
+        89
+      ],
+      "url": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/03/R8yosansyo.pdf#page=89",
+      "sourceTitle": "令和８年度小鹿野町予算書（一般・特別会計） PDF89頁"
+    },
+    {
+      "date": "2026-03-23",
+      "actor": "小鹿野町教育委員会",
+      "stage": "地域クラブ活動の推進計画を確認",
+      "detail": "事務局が計画の変更点を説明し、保護者への周知時期について質疑した。担当者は秩父地区全体のリーフレットを９月ごろに配る素案があると述べ、教育長は現時点の計画を認めたとまとめた。",
+      "archiveId": "50b8ed98e2bc1f2f8b7a",
+      "blocks": [
+        5
+      ],
+      "url": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/05/kyouikuteireikaiR8-3.pdf#page=5",
+      "sourceTitle": "令和８年第3回小鹿野町教育委員会定例会の議事録 PDF5頁"
+    },
+    {
+      "date": "2026-04-01",
+      "actor": "小鹿野町教育委員会",
+      "stage": "中学校部活動指導員の設置要綱を施行",
+      "detail": "指導体制の充実と教職員の負担軽減を目的とし、指導員の職務や任用等を定めた３月23日の告示が４月１日に施行された。",
+      "url": "https://www.town.ogano.lg.jp/reiki_int/reiki_honbun/r232RG00001390.html",
+      "sourceTitle": "小鹿野町中学校部活動指導員設置要綱・教育委員会告示第４号"
+    },
+    {
+      "date": "2026-06",
+      "actor": "小鹿野町",
+      "stage": "当年度の部活動指導員の配置を広報で報告",
+      "detail": "町は６月号で前年度の試行を紹介し、当年度に部活動指導員を配置していると報告した。",
+      "archiveId": "71ca8072d7a19a9744f5",
+      "blocks": [
+        1
+      ],
+      "url": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/06/2606_all_web.pdf#page=9",
+      "sourceTitle": "広報おがの６月号・学校教育（地域クラブと指導員） PDF9頁"
+    },
+    {
+      "date": "2026-10",
+      "actor": "小鹿野町",
+      "stage": "体操とプログラミングの実施を広報で報告",
+      "detail": "町の10月号は、５月20日に協議会が中学校の部活動のあり方を協議したことと、当年度も体操・プログラミングの教室を開催したことを報告。地域の指導者が部活動指導員として活動していると紹介した。",
+      "archiveId": "2bf309dcece74912eaeb",
+      "blocks": [
+        3
+      ],
+      "url": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/09/2610_all_web.pdf#page=9",
+      "sourceTitle": "広報おがの10月号・令和７年度決算と地域クラブ活動 PDF9頁"
+    }
+  ],
+  "note": "当年度の指導員配置と２教室の実施を町の広報で確認。休日の活動全体の移行状況は確認中。"
 });

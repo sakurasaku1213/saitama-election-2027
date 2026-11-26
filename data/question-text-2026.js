@@ -30628,6 +30628,42 @@ GIKAI.questionText = {
       "note": "紙面の決算審査、条例、指定管理、補正予算等の26問答と補足８件。委員会の質疑は紙面が質問者を個別には表示していない。"
     },
     {
+      "id": "dc555a23335248c6d373",
+      "place": "小鹿野町",
+      "season": "spring",
+      "date": "2026-01-26",
+      "title": "令和８年第1回小鹿野町教育委員会定例会の議事録",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/02/kyouikuteireikaiR8-1.pdf",
+      "note": "日付は開催日。町教育委員会の公開会議録。 原本の頁順で文字層またはOCRを収録。図表の欄・単位は原PDFで確認できます。",
+      "speakers": []
+    },
+    {
+      "id": "482a6e7d955739335b19",
+      "place": "小鹿野町",
+      "season": "spring",
+      "date": "2026-02-17",
+      "title": "令和７年度第２回小鹿野町総合教育会議 会議録",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/02/R8.2.17.sougoukyouikukaigigijiroku.pdf",
+      "note": "日付は開催日。町長と教育委員会の会議。 原本の頁順で文字層またはOCRを収録。図表の欄・単位は原PDFで確認できます。",
+      "speakers": []
+    },
+    {
+      "id": "0dbe2c4a7961c10caa49",
+      "place": "小鹿野町",
+      "season": "spring",
+      "date": "2026-02-17",
+      "title": "令和８年第2回小鹿野町教育委員会定例会の議事録",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/03/kyouikuteireikaiR8-2.pdf",
+      "note": "日付は開催日。町教育委員会の公開会議録。 原本の頁順で文字層またはOCRを収録。図表の欄・単位は原PDFで確認できます。",
+      "speakers": []
+    },
+    {
       "id": "59fd50b1e6cc028f627f",
       "place": "小鹿野町",
       "season": "spring",
@@ -30645,6 +30681,18 @@ GIKAI.questionText = {
         "笠原義行"
       ],
       "note": "５月１日発行。PDF９～12頁に掲載された6人の紙面の問答を、原画像と照合して整理しました。岩田議員の一般質問は同会期の正式会議録で読めます。"
+    },
+    {
+      "id": "7b451b88f43cc9cb3a95",
+      "place": "小鹿野町",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "小鹿野町過疎地域持続的発展計画（令和８年度～12年度）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/03/R8kasochiikijizokutekihattenkeikaku.pdf",
+      "note": "年月は掲載資料の月。 原本の頁順で文字層またはOCRを収録。図表の欄・単位は原PDFで確認できます。",
+      "speakers": []
     },
     {
       "id": "f9aed59b40f23f0a7972",
@@ -30704,6 +30752,78 @@ GIKAI.questionText = {
       "note": "町公式の会期本文から、公式目次の見出しと番号に沿って当日の本文を収録。一般質問の日は答弁を含みます。"
     },
     {
+      "id": "363ed7bc8d8dba3a5431",
+      "place": "小鹿野町",
+      "season": "spring",
+      "date": "2026-03-06",
+      "title": "令和８年度小鹿野町予算書（一般・特別会計）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/03/R8yosansyo.pdf",
+      "note": "日付は一般会計当初予算の議決日。 原本の頁順で文字層またはOCRを収録。図表の欄・単位は原PDFで確認できます。",
+      "speakers": []
+    },
+    {
+      "id": "50b8ed98e2bc1f2f8b7a",
+      "place": "小鹿野町",
+      "season": "spring",
+      "date": "2026-03-23",
+      "title": "令和８年第3回小鹿野町教育委員会定例会の議事録",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/05/kyouikuteireikaiR8-3.pdf",
+      "note": "日付は開催日。町教育委員会の公開会議録。 原本の頁順で文字層またはOCRを収録。図表の欄・単位は原PDFで確認できます。",
+      "speakers": []
+    },
+    {
+      "id": "34bc4968fbe9a487261a",
+      "place": "小鹿野町",
+      "season": "spring",
+      "date": "2026-04-27",
+      "title": "令和８年第4回小鹿野町教育委員会定例会の議事録",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/06/kyouikuteireikaiR8-4_.pdf",
+      "note": "日付は開催日。町教育委員会の公開会議録。 原本の頁順で文字層またはOCRを収録。図表の欄・単位は原PDFで確認できます。",
+      "speakers": []
+    },
+    {
+      "id": "114be5f51119209e02a5",
+      "place": "小鹿野町",
+      "season": "spring",
+      "date": "2026-05",
+      "title": "小鹿野町・令和８年度予算のあらまし",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/05/R8yosannoaramasi_2.pdf",
+      "note": "年月は掲載資料の月。 原本の頁順で文字層またはOCRを収録。図表の欄・単位は原PDFで確認できます。",
+      "speakers": []
+    },
+    {
+      "id": "4942b5f813b2ebc72437",
+      "place": "小鹿野町",
+      "season": "spring",
+      "date": "2026-05-01",
+      "title": "小鹿野町財政事情の公表（令和８年５月）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/05/R8.5gatukouhyou.pdf",
+      "note": "日付は公表資料の表紙の記載。 原本の頁順で文字層またはOCRを収録。図表の欄・単位は原PDFで確認できます。",
+      "speakers": []
+    },
+    {
+      "id": "7c90f2cc2ebdf5f2920f",
+      "place": "小鹿野町",
+      "season": "spring",
+      "date": "2026-05-25",
+      "title": "令和８年第5回小鹿野町教育委員会定例会の議事録",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/06/kyouikuteireikaiR8-5.pdf",
+      "note": "日付は開催日。町教育委員会の公開会議録。 原本の頁順で文字層またはOCRを収録。図表の欄・単位は原PDFで確認できます。",
+      "speakers": []
+    },
+    {
       "id": "18b6e2c2ff15bde074b9",
       "place": "小鹿野町",
       "season": "summer",
@@ -30722,6 +30842,18 @@ GIKAI.questionText = {
         "髙橋耕也"
       ],
       "note": "８月１日発行。PDF５～８頁に掲載された7人の紙面の問答を、原画像と照合して整理しました。岩田議員の一般質問は同会期の正式会議録で読めます。紙面と正式会議録の数値が異なる箇所は出典ごとに記録しています。"
+    },
+    {
+      "id": "71ca8072d7a19a9744f5",
+      "place": "小鹿野町",
+      "season": "summer",
+      "date": "2026-06",
+      "title": "広報おがの６月号・学校教育（地域クラブと指導員）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/06/2606_all_web.pdf",
+      "note": "関係するPDF９頁を収録。日付は広報の号の年月。 原本の頁順で文字層またはOCRを収録。図表の欄・単位は原PDFで確認できます。",
+      "speakers": []
     },
     {
       "id": "46d2ba4e1e7362291866",
@@ -30768,6 +30900,66 @@ GIKAI.questionText = {
       "kind": "公式会議録（HTML）",
       "scope": "minutes",
       "note": "町公式の会期本文から、公式目次の見出しと番号に沿って当日の本文を収録。一般質問の日は答弁を含みます。"
+    },
+    {
+      "id": "0a8fd6cf4728cf771596",
+      "place": "小鹿野町",
+      "season": "summer",
+      "date": "2026-06-26",
+      "title": "令和８年第6回小鹿野町教育委員会定例会の議事録",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/09/kyouikuteireikaiR8-6.pdf",
+      "note": "日付は開催日。町教育委員会の公開会議録。 原本の頁順で文字層またはOCRを収録。図表の欄・単位は原PDFで確認できます。",
+      "speakers": []
+    },
+    {
+      "id": "2ed99a1c46c6bcd3f207",
+      "place": "小鹿野町",
+      "season": "summer",
+      "date": "2026-07-28",
+      "title": "令和８年第7回小鹿野町教育委員会定例会の議事録",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/09/kyouikuteireikaiR8-7.pdf",
+      "note": "日付は開催日。町教育委員会の公開会議録。 原本の頁順で文字層またはOCRを収録。図表の欄・単位は原PDFで確認できます。",
+      "speakers": []
+    },
+    {
+      "id": "30c88663e2c6d99bf26d",
+      "place": "小鹿野町",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "令和７年度決算に基づく健全化判断比率等",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/09/R7kenzenkahandanhiritu.pdf",
+      "note": "年月は掲載資料の月。 原本の頁順で文字層またはOCRを収録。図表の欄・単位は原PDFで確認できます。",
+      "speakers": []
+    },
+    {
+      "id": "a7983bad85ec16b77c6c",
+      "place": "小鹿野町",
+      "season": "fall",
+      "date": "2026-09",
+      "title": "小鹿野町一般会計決算・年度別一覧（令和７年度まで）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/09/R7nendobetukessan.pdf",
+      "note": "年月は掲載資料の月。 原本の頁順で文字層またはOCRを収録。図表の欄・単位は原PDFで確認できます。",
+      "speakers": []
+    },
+    {
+      "id": "2bf309dcece74912eaeb",
+      "place": "小鹿野町",
+      "season": "fall",
+      "date": "2026-10",
+      "title": "広報おがの10月号・令和７年度決算と地域クラブ活動",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.town.ogano.lg.jp/cms/wp-content/uploads/2026/09/2610_all_web.pdf",
+      "note": "関係するPDF２・３・９頁を収録。日付は広報の号の年月。 原本の頁順で文字層またはOCRを収録。図表の欄・単位は原PDFで確認できます。",
+      "speakers": []
     },
     {
       "id": "1dfb2763b5bacea141c9",
@@ -41137,7 +41329,7 @@ GIKAI.questionText = {
       "kind": "会議・政策の関連資料（公式PDF・OCR）",
       "scope": "supporting",
       "url": "https://www.vill.higashichichibu.saitama.jp/uploaded/attachment/6427.pdf",
-      "note": "表示は村議会の議決日。16・17頁の学校教育共通経費の減額は原画像と照合。 文字層・OCRから頁順に転記。図表は原PDFで確認できます。 PDF 1～15・18～23頁は文字・表の確認中。",
+      "note": "表示は村議会の議決日。16・17頁の学校教育共通経費の減額は原画像と照合。 文字層・OCRから頁順に転記。図表は原PDFで確認できます。 19～23頁を原PDFの文字層から追加。PDF 1～15・18頁は文字・表の確認中。",
       "speakers": []
     },
     {
@@ -44143,6 +44335,20 @@ GIKAI.questionText = {
       "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
       "speakers": [
         "千葉義浩"
+      ]
+    },
+    {
+      "id": "849289451d58d2465288",
+      "place": "熊谷市",
+      "season": "fall",
+      "date": "2026-09-14",
+      "title": "小林拓朗議員　一般質問（録画から）",
+      "kind": "公式録画の機械文字起こし",
+      "scope": "recording",
+      "url": "https://kumagaya-city.stream.jfit.co.jp/?tpl=play_vod&inquiry_id=1761",
+      "note": "公式録画の音声を機械で文字にしました。原音を聴いて確定する照合は未了です。時刻は録画の先頭からの目安です。 発言者名は公式録画の目録によります。",
+      "speakers": [
+        "小林拓朗"
       ]
     },
     {
@@ -53856,7 +54062,7 @@ GIKAI.questionText = {
       "season": "fall",
       "material": {
         "state": "partial",
-        "note": "議会だよりの一般質問19人の問答と４常任委員会の質疑を収録。公式録画目録は９月10日に７人、11・14日に各６人。正式会議録と原音照合は確認中。 公式録画の機械文字起こし一般質問15本を収録。",
+        "note": "議会だよりの一般質問19人の問答と４常任委員会の質疑を収録。公式録画目録は９月10日に７人、11・14日に各６人。正式会議録と原音照合は確認中。 公式録画の機械文字起こし一般質問16本を収録。",
         "indexURL": "https://www.city.kumagaya.lg.jp/shisei/shigikai/1006977/1006955/1009174.html"
       }
     },
