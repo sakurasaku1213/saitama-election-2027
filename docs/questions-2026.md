@@ -4,7 +4,7 @@
 
 確認日 2026-11-26。県議会と全63市町村の192会期枠を対象に、64議会・188枠で会議録、紙面の問答、録画の機械文字起こし、または公開自動字幕を収録。本文・要旨等が未収録の4枠にも確認先を示す。
 
-収録資料 3,407件（事前通告99件を含む）。151枠では、原典の目次・索引等にある本会議の日別資料、一般質問日または掲載項目と収録範囲を照合した。
+収録資料 3,419件（事前通告99件を含む）。151枠では、原典の目次・索引等にある本会議の日別資料、一般質問日または掲載項目と収録範囲を照合した。
 
 | 資料の種類 | 件数 |
 | --- | ---: |
@@ -41,14 +41,14 @@
 | 議会だよりの質問・答弁（紙面要約） | 36 |
 | 公式録画の機械文字起こし | 251 |
 | 公式録画の公開自動字幕 | 74 |
-| 会議・政策の関連資料（公式PDF・OCR） | 232 |
+| 会議・政策の関連資料（公式PDF・OCR） | 244 |
 | 人事議案（公式PDF・照合要約） | 2 |
 | 全員協議会の会議記録（公式PDF・OCR） | 1 |
 | 建設検討委員会の概要録（公式PDF・OCR） | 1 |
 
 本会議録の日別資料には当日の議事も含まれる。県議会の速報版は質問・答弁の掲載項目ごと。議会だよりは質問者による編集要約等を含む。PDFのOCR転記と、紙面を照合して作った要約には原本の頁番号を付けた。
 
-政策事例は366件。複数議会に関係する事例は、該当する各議会の行にも数えた。上尾市の放課後の居場所事業と２校の入所申込、久喜市の清掃センター集約に伴う費用分担の質疑と事務委託の可決、狭山市の調節池工事の再発防止などを出典とともに追える。全体の政策経過の照合は進行中。
+政策事例は367件。複数議会に関係する事例は、該当する各議会の行にも数えた。上尾市の放課後の居場所事業と２校の入所申込、久喜市の清掃センター集約に伴う費用分担の質疑と事務委託の可決、狭山市の調節池工事の再発防止などを出典とともに追える。全体の政策経過の照合は進行中。
 
 ## 議会別の収録と確認先
 
@@ -110,7 +110,7 @@
 | 皆野町 | [本会議録1資料・PDF計181頁](https://www.town.minano.saitama.jp/section/gikai/815/)<br>公式掲載目次と照合 | [本会議録1資料・PDF計93頁](https://www.town.minano.saitama.jp/section/gikai/815/)<br>公式掲載目次と照合 | [議会だより５人・16問答](https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/92100d92c95bb691d0d849b4595977d4.pdf#page=4)<br>[決算・補正予算の６問答](https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/92100d92c95bb691d0d849b4595977d4.pdf#page=2)・[記名15行](https://www.town.minano.saitama.jp/wp-content/uploads/2026/05/92100d92c95bb691d0d849b4595977d4.pdf#page=3)・正式会議録を確認中 | 4 |
 | 長瀞町 | [本会議録1資料・PDF計197頁](https://www.town.nagatoro.saitama.jp/nagatorochougikai/%e4%bc%9a%e8%ad%b0%e9%8c%b2/)<br>公式掲載目次と照合<br>[結果27件・記名27件](https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/04/gikaidayori37.pdf#page=4) | [本会議録1資料・PDF計80頁](https://www.town.nagatoro.saitama.jp/nagatorochougikai/%e4%bc%9a%e8%ad%b0%e9%8c%b2/)<br>公式掲載目次と照合<br>[20議案の会議録](https://www.town.nagatoro.saitama.jp/nagatorochougikai/%e4%bc%9a%e8%ad%b0%e9%8c%b2/)・[記名表７件と農業委員13議案の一括欄](https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/08/gikaidayori38.pdf#page=4) | [議会だより７人・15問答](https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/11/gikaidayori39.pdf#page=4)<br>正式会議録を確認中。紙面２・４頁で会期の末日が異なる | 10 |
 | 小鹿野町 | [正式会議録4日分](https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0803T.html)<br>うち一般質問2日 | [正式会議録3日分](https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/R0806T.html)<br>うち一般質問2日 | [町公式の会議録一覧](https://www.town.ogano.lg.jp/menyu/gikai/sinkaigiroku/index.html)<br>9月会期の本文未確認 | 3 |
-| 東秩父村 | [本会議録3資料](https://ssp.kaigiroku.net/tenant/higashichichibu/SpMinuteBrowse.html?tenant_id=91&view_years=2026)<br>公式掲載目次と照合 | [本会議録2資料](https://ssp.kaigiroku.net/tenant/higashichichibu/SpMinuteBrowse.html?tenant_id=91&view_years=2026)<br>公式掲載目次と照合 | [事前の質問要旨・4人](https://www.vill.higashichichibu.saitama.jp/site/gikai/ippan-shitsumon.html)<br>[質問予定一覧](https://www.vill.higashichichibu.saitama.jp/uploaded/attachment/6385.pdf)・[会期予定表](https://www.vill.higashichichibu.saitama.jp/uploaded/attachment/6383.pdf)・[議決結果](https://www.vill.higashichichibu.saitama.jp/uploaded/attachment/6425.pdf)・[決算報告](https://www.vill.higashichichibu.saitama.jp/uploaded/attachment/6496.pdf#page=12)<br>発言・答弁を確認中 | 2 |
+| 東秩父村 | [本会議録3資料](https://ssp.kaigiroku.net/tenant/higashichichibu/SpMinuteBrowse.html?tenant_id=91&view_years=2026)<br>公式掲載目次と照合<br>[予算・計画等6資料](https://www.vill.higashichichibu.saitama.jp/soshiki/00/yosann.html) | [本会議録2資料](https://ssp.kaigiroku.net/tenant/higashichichibu/SpMinuteBrowse.html?tenant_id=91&view_years=2026)<br>公式掲載目次と照合<br>[予算・計画等2資料](https://www.vill.higashichichibu.saitama.jp/soshiki/00/hoseiyosann.html) | [事前の質問要旨・4人](https://www.vill.higashichichibu.saitama.jp/site/gikai/ippan-shitsumon.html)<br>[質問予定一覧](https://www.vill.higashichichibu.saitama.jp/uploaded/attachment/6385.pdf)・[会期予定表](https://www.vill.higashichichibu.saitama.jp/uploaded/attachment/6383.pdf)・[議決結果](https://www.vill.higashichichibu.saitama.jp/uploaded/attachment/6425.pdf)・[決算報告](https://www.vill.higashichichibu.saitama.jp/uploaded/attachment/6496.pdf#page=12)<br>発言・答弁を確認中<br>[予算・計画等4資料](https://www.vill.higashichichibu.saitama.jp/soshiki/00/hoseiyosann.html) | 3 |
 | 美里町 | [本会議録4資料](https://ssp.kaigiroku.net/tenant/saimisato/SpMinuteBrowse.html?tenant_id=46&view_years=2026)<br>公式掲載目次と照合 | [本会議録3資料](https://ssp.kaigiroku.net/tenant/saimisato/SpMinuteBrowse.html?tenant_id=46&view_years=2026)<br>公式掲載目次と照合 | [事前の質問予定項目・5人](https://www.town.saitama-misato.lg.jp/0000002738.html)<br>発言・答弁を確認中 | 1 |
 | 神川町 | [本会議録4資料](https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteBrowse.html?tenant_id=73&view_years=2026)<br>公式掲載目次と照合 | [本会議録2資料](https://ssp.kaigiroku.net/tenant/kamikawa/SpMinuteBrowse.html?tenant_id=73&view_years=2026)<br>公式掲載目次と照合 | [事前の質問要旨・9人](https://www.town.kamikawa.saitama.jp/soshiki/gikai/nittei/reiwa6_2/6817.html)<br>発言・答弁を確認中 | 3 |
 | 上里町 | [本会議録6資料・PDF計259頁](https://www.town.kamisato.saitama.jp/7977.htm)<br>公式掲載目次と照合 | [正式会議録４日197頁・付属３点](https://www.town.kamisato.saitama.jp/7979.htm)<br>公式掲載目次と照合・[記名13行](https://www.town.kamisato.saitama.jp/secure/15853/112gou.pdf#page=2) | [公式録画一覧](https://smart.discussvision.net/smart/tenant/kamisato/WebView/rd/council.html?year=2026&council_id=47)・正式会議録を確認中・[決議と予算提言](https://www.town.kamisato.saitama.jp/5596.htm)<br>機械文字起こし11本 | 9 |
@@ -255,6 +255,7 @@
 - 新座市の秋は公式サイトの審議結果で８月27日～９月28日の会期を確認。議会だより第238号の原本５～11頁の25人・74問答を原紙面と照合し、質問日を公式録画目録と突合した。[審議結果と会期](https://www.city.niiza.lg.jp/site/singikekka/reiwa8nendai3kai.html) [議会だより第238号](https://www.city.niiza.lg.jp/uploaded/attachment/74879.pdf#page=5) [公式録画](https://niiza-city.stream.jfit.co.jp/?tpl=gikai_days_list&gikai_id=96)
 - 新座市の中沢用水では紙面７頁の見出しと答弁欄で道路名が異なる。答弁欄と市の都市計画道路案内にある保谷朝霞線を記し、見出しの保谷志木線も付記した。[紙面７頁](https://www.city.niiza.lg.jp/uploaded/attachment/74879.pdf#page=7) [新座市の道路事業案内](https://www.city.niiza.lg.jp/soshiki/32/houyaasaka-08.html)
 - 朝霞・志木・和光・新座の共用火葬場を１事例で追えるようにした。和光の全員協議会で５人の質疑を確認し、新座の市長報告、４市で36件を受けて１件を反映した意見募集、11月の基本計画の公表をつないだ。[和光市議会の記録](https://www.city.wako.lg.jp/_res/projects/default_project/_page_/001/013/110/1117.5.pdf#page=7) [新座市議会だより](https://www.city.niiza.lg.jp/uploaded/attachment/74879.pdf#page=10) [意見募集結果](https://www.city.shiki.lg.jp/uploaded/attachment/24901.pdf) [朝霞市掲載の基本計画](https://www.city.asaka.lg.jp/uploaded/attachment/113540.pdf#page=57)
+- 東秩父村の当初・補正予算、過疎地域持続的発展計画と意見募集結果、総合教育会議など12資料・原本383頁を収録。閲覧版に323頁の文字を掲載。確認中の頁は原PDFへのリンクを掲載。小中一貫校の設置準備では、５月の方針、６月の質疑４人・反対討論５人、設置条例案と報酬等の関連案の否決、９月補正で関連経費13万6,000円が減額された経過を接続。 [総合教育会議](https://www.vill.higashichichibu.saitama.jp/soshiki/01/sougoukyouikukaigi.html) [９月補正予算書](https://www.vill.higashichichibu.saitama.jp/uploaded/attachment/6427.pdf#page=16)
 - 秋の本会議本文等が未収録の４枠は、町村の議会だよりも確認した。小鹿野町は６月定例会を扱う８月発行号まで、美里町は８月掲載の第154号まで。神川町の最新掲載は９月発行の第83号。東秩父村の９～11月の簡易版では、９月定例会の開催日は確認でき、質問・答弁の記載は見つからなかった。[小鹿野町](https://www.town.ogano.lg.jp/ogano-assembly/ogano-gikai-dayori/) [美里町](https://www.town.saitama-misato.lg.jp/0000002629.html) [神川町](https://www.town.kamikawa.saitama.jp/soshiki/gikai/gikaidayori/272.html) [東秩父村](https://www.vill.higashichichibu.saitama.jp/soshiki/10/gikaikatudouhoukoku.html)
 - 所沢市は各会期の採決結果123件を公式原表と本会議録で照合。うち原表の記名表決は121件・3,993欄。議長の表決不参加と、９月24日の議員提出議案第４号における佐野允彦議員の除斥を表示した。認定10件の委員会付託、請願第５号の継続審査も収録した。[２月](https://www.city.tokorozawa.saitama.jp/shigikai/shingi/r8dai2/R8_dai2kai_kekka.html)・[６月](https://www.city.tokorozawa.saitama.jp/shigikai/shingi/r8dai4/R8_dai4kai_kekka.html)・[９月](https://www.city.tokorozawa.saitama.jp/shigikai/shingi/r8dai5/r8_9shingikekka.html)
 - 所沢市は秋会期中の保健医療特別委員会会議録３資料と、議会運営委員会の議事概要49頁を収録。大石健一議員の設置案の提案理由、議会の可決、公聴会請願の不採択、正副委員長への提言素案作成の一任を確認した。神川町の秋は９月17日議決の補正予算６件を公式一覧から収録した。[所沢市保健医療特別委員会](https://www.city.tokorozawa.saitama.jp/shigikai/tokubetuiinkaijyouhou/jyonininkai/yotoku_bunkakai/hokenniryou.html)・[所沢市議会運営委員会](https://www.city.tokorozawa.saitama.jp/shigikai/tokubetuiinkaijyouhou/jyonininkai/giun.html)・[神川町の９月補正予算](https://www.town.kamikawa.saitama.jp/soshiki/sougouseisaku/zaisei/yosan/6917.html)

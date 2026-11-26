@@ -22353,3 +22353,358 @@ GIKAI.cases.push(...[
     "note": "公式の請願審査結果表と公表本文で採択を確認。教育委員会による検証の開始や改善措置の実施は確認中。"
   }
 ]);
+
+GIKAI.cases.push({
+  "place": "東秩父村",
+  "title": "小中一貫校の準備委員会案を否決し、関連経費を追う",
+  "topic": "学校再編・予算",
+  "actors": [
+    "吉野文泰",
+    "渡辺絹代",
+    "梅澤邦夫",
+    "百瀬浩子",
+    "吉田泰明",
+    "東秩父村議会",
+    "東秩父村",
+    "東秩父村総合教育会議"
+  ],
+  "steps": [
+    {
+      "date": "2025-03-06",
+      "actor": "小・中学校あり方検討委員会、東秩父村教育長",
+      "stage": "施設一体型を提言した答申を公表",
+      "detail": "村の公表ページは教育長から村長に答申を提出したと記載。答申は槻川小学校と東秩父中学校を統合し、東秩父中学校の敷地に小学部の校舎を設ける方向を提言した。日付は村の公表ページの更新日。",
+      "url": "https://www.vill.higashichichibu.saitama.jp/uploaded/life/8497_47101_misc.pdf#page=7",
+      "sourceTitle": "東秩父村立小中学校の適正なあり方について（答申） PDF７頁"
+    },
+    {
+      "date": "2026-03-03",
+      "actor": "吉野文泰",
+      "stage": "児童の減少を踏まえ、学校づくりと教職員の関与を問う",
+      "detail": "出生数が少ない状況でも答申に沿って進めるかを確認し、特色ある教育をつくるために学校の教職員が検討に参加できるかを尋ねた。",
+      "url": "https://ssp.kaigiroku.net/tenant/higashichichibu/SpMinuteView.html?tenant_id=91&council_id=114&schedule_id=2",
+      "sourceTitle": "東秩父村議会 03月03日－一般質問－01号",
+      "archiveId": "2c76822b2861a24d05bd",
+      "blocks": [
+        24,
+        50
+      ],
+      "memberActions": [
+        {
+          "name": "吉野文泰",
+          "blocks": [
+            24,
+            50
+          ],
+          "detail": "少子化の下で答申どおりに進めるかを問い、特色ある教育づくりに教職員が関わるよう求めた。"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-03",
+      "actor": "東秩父村長、教育委員会事務局長",
+      "stage": "新年度から協議し、教育課程や学校運営には教職員の参加を予定",
+      "detail": "村長は少人数でも異学年の交流で人的環境を充実させる考えを説明。教育委員会事務局長は、新年度に具体的な協議を始め、教育課程や学校運営では教職員に中心となって参加してもらう予定と答えた。",
+      "url": "https://ssp.kaigiroku.net/tenant/higashichichibu/SpMinuteView.html?tenant_id=91&council_id=114&schedule_id=2",
+      "sourceTitle": "東秩父村議会 03月03日－一般質問－01号",
+      "archiveId": "2c76822b2861a24d05bd",
+      "blocks": [
+        26,
+        52
+      ]
+    },
+    {
+      "date": "2026-03-06",
+      "actor": "東秩父村議会",
+      "stage": "令和８～12年度の過疎地域持続的発展計画を可決",
+      "detail": "村議会は令和８～12年度の計画を原案可決した。",
+      "url": "https://ssp.kaigiroku.net/tenant/higashichichibu/SpMinuteView.html?tenant_id=91&council_id=114&schedule_id=3",
+      "sourceTitle": "東秩父村議会 東秩父村  令和　８年　　３月　定例会（第２回）  03月06日－議案説明、質疑、討論、採決－02号",
+      "archiveId": "1d9c080a4d4a71c6fa29",
+      "blocks": [
+        118,
+        121,
+        152,
+        153
+      ],
+      "billNumber": "議案第6号"
+    },
+    {
+      "date": "2026-03-06",
+      "actor": "東秩父村",
+      "stage": "計画に小中一貫校への再編を掲げる",
+      "detail": "村が公表した令和８～12年度の計画本文は、答申を踏まえた小中一貫校への再編を記載。教育の事業一覧にも複式学級への対応と小中一貫校への再編を掲げる。表示日は議案第６号の議決日。",
+      "url": "https://www.vill.higashichichibu.saitama.jp/uploaded/life/9821_61330_misc.pdf#page=42",
+      "sourceTitle": "東秩父村過疎地域持続的発展計画（令和８～12年度の掲載本文） PDF42・44頁",
+      "archiveId": "c7f1234413daeb0af37a",
+      "blocks": [
+        42,
+        44
+      ]
+    },
+    {
+      "date": "2026-03-09",
+      "actor": "吉野文泰、教育委員会事務局長、教育長",
+      "stage": "当初予算に準備経費がない理由を確認",
+      "detail": "吉野議員は３月３日の答弁を踏まえ、当初予算に準備経費が見当たらない理由と、答申からの進め方を質した。事務局長は６月補正での計上予定を説明し、教育長は答申を出発点としつつ協議で変わり得ると答えた。",
+      "url": "https://ssp.kaigiroku.net/tenant/higashichichibu/SpMinuteView.html?tenant_id=91&council_id=114&schedule_id=4",
+      "sourceTitle": "東秩父村議会 東秩父村  令和　８年　　３月　定例会（第２回）  03月09日－議案説明、質疑、討論、採決－03号",
+      "archiveId": "fb7a43f60aed47fdd038",
+      "blocks": [
+        169,
+        171,
+        173,
+        175
+      ],
+      "memberActions": [
+        {
+          "name": "吉野文泰",
+          "blocks": [
+            169,
+            173
+          ],
+          "detail": "当初予算で準備経費が確認できない理由と、答申が今後の協議の出発点になるのかを質した。"
+        }
+      ]
+    },
+    {
+      "date": "2026-03-27",
+      "actor": "東秩父村",
+      "stage": "学校再編の再検討を求める意見と村の見解を公表",
+      "detail": "公表資料には、小中一貫校の計画を再検討してほしいとの意見と、学校のあり方を検討した委員会の答申を尊重するという村の考え方を掲載。日付は募集結果ページの更新日。",
+      "url": "https://www.vill.higashichichibu.saitama.jp/uploaded/attachment/6069.pdf#page=1",
+      "sourceTitle": "東秩父村過疎地域持続的発展計画案への意見と村の回答 PDF1頁",
+      "archiveId": "e356388e1a49a3511c59",
+      "blocks": [
+        1
+      ]
+    },
+    {
+      "date": "2026-05-26",
+      "actor": "東秩父村総合教育会議",
+      "stage": "施設分離型から始める計画の方向を確認",
+      "detail": "事務局は令和11年度に現在の２校の施設を使う分離型で開校し、その後に一体型を目指す考えを説明。校舎の形態や施設・財源は今後の協議に残り、会議は計画に沿って進める方向を確認した。",
+      "url": "https://www.vill.higashichichibu.saitama.jp/uploaded/life/2648_59336_misc.pdf#page=1",
+      "sourceTitle": "第１回東秩父村総合教育会議 会議録 PDF1・2頁",
+      "archiveId": "db4113af8aa02c953381",
+      "blocks": [
+        1,
+        2
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "actor": "東秩父村長、教育委員会事務局長",
+      "stage": "開校準備委員会の設置条例案を提出",
+      "detail": "村は開校に必要な検討を行う附属機関の設置案と、その委員の報酬・費用弁償を定める関連案を一括して説明した。",
+      "url": "https://ssp.kaigiroku.net/tenant/higashichichibu/SpMinuteView.html?tenant_id=91&council_id=115&schedule_id=3",
+      "sourceTitle": "東秩父村議会 東秩父村  令和　８年　　６月　定例会（第３回）  06月12日－議案説明、質疑、討論、採決－02号",
+      "archiveId": "671b4b06b868b8e3caaf",
+      "blocks": [
+        35,
+        36,
+        38,
+        40
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "actor": "渡辺絹代、梅澤邦夫、吉野文泰、百瀬浩子",
+      "stage": "施設案・広域通学・特色ある教育・財源を質疑",
+      "detail": "４議員がそれぞれ計画の前提や実行条件を質した。教育長は村外への広域通学について未検討と答え、事務局長は施設整備の部会で予算を協議する考えを示した。",
+      "url": "https://ssp.kaigiroku.net/tenant/higashichichibu/SpMinuteView.html?tenant_id=91&council_id=115&schedule_id=3",
+      "sourceTitle": "東秩父村議会 東秩父村  令和　８年　　６月　定例会（第３回）  06月12日－議案説明、質疑、討論、採決－02号",
+      "archiveId": "671b4b06b868b8e3caaf",
+      "blocks": [
+        42,
+        44,
+        46,
+        48,
+        50,
+        52,
+        54,
+        56,
+        57,
+        59,
+        61,
+        63,
+        65,
+        67,
+        69,
+        71,
+        73,
+        77,
+        79
+      ],
+      "memberActions": [
+        {
+          "name": "渡辺絹代",
+          "blocks": [
+            42,
+            46,
+            50
+          ],
+          "detail": "答申をどう受け止めたか、検討の選択肢を絞った経緯、令和13年度開校の目標を質した。"
+        },
+        {
+          "name": "梅澤邦夫",
+          "blocks": [
+            54,
+            59
+          ],
+          "detail": "村外への広域通学の検討の有無と、児童生徒が減る中でも村内で一貫校をつくる意義を質した。"
+        },
+        {
+          "name": "吉野文泰",
+          "blocks": [
+            63,
+            67,
+            71
+          ],
+          "detail": "特色ある学校教育の検討、答申の議会への説明、施設整備の財源を問い直した。"
+        },
+        {
+          "name": "百瀬浩子",
+          "blocks": [
+            77
+          ],
+          "detail": "配付された開設工程案に、企画財政課による予算措置が記されていないことを指摘した。"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "actor": "梅澤邦夫、渡辺絹代、吉野文泰、吉田泰明、百瀬浩子",
+      "stage": "５議員が準備委員会設置案に反対討論",
+      "detail": "反対討論では、広域通学との比較、人口減少、検討の手続、保護者・住民と議論する機会、財政の見通しが取り上げられた。",
+      "url": "https://ssp.kaigiroku.net/tenant/higashichichibu/SpMinuteView.html?tenant_id=91&council_id=115&schedule_id=3",
+      "sourceTitle": "東秩父村議会 東秩父村  令和　８年　　６月　定例会（第３回）  06月12日－議案説明、質疑、討論、採決－02号",
+      "archiveId": "671b4b06b868b8e3caaf",
+      "blocks": [
+        82,
+        85,
+        87,
+        89,
+        91
+      ],
+      "memberActions": [
+        {
+          "name": "梅澤邦夫",
+          "blocks": [
+            82
+          ],
+          "detail": "教育の質、財政負担、人口動態から村内一貫校と小川町への広域通学を比較し、広域通学への方針変更を求めた。"
+        },
+        {
+          "name": "渡辺絹代",
+          "blocks": [
+            85
+          ],
+          "detail": "児童生徒数の見通し、検討の選択肢、情報公開と合意形成を理由に一体型案の見直しを求めた。"
+        },
+        {
+          "name": "吉野文泰",
+          "blocks": [
+            87
+          ],
+          "detail": "計画策定の前に立ち止まり、学校現場や住民・保護者の意見を取り入れる場を求めた。"
+        },
+        {
+          "name": "吉田泰明",
+          "blocks": [
+            89
+          ],
+          "detail": "児童生徒数の減少を踏まえ、特に中学生の交流機会を広げるため近隣町との広域化を視野に入れるよう求めた。"
+        },
+        {
+          "name": "百瀬浩子",
+          "blocks": [
+            91
+          ],
+          "detail": "以前に一体型校を提案した経緯を述べ、選択肢や意見交換の機会が十分に示されていないとして今回の案に反対した。"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "actor": "東秩父村議会",
+      "stage": "開校準備委員会の設置条例案を否決",
+      "detail": "議案第24号は原案賛成の挙手がなく、議長が否決を宣告した。",
+      "url": "https://ssp.kaigiroku.net/tenant/higashichichibu/SpMinuteView.html?tenant_id=91&council_id=115&schedule_id=3",
+      "sourceTitle": "東秩父村議会 東秩父村  令和　８年　　６月　定例会（第３回）  06月12日－議案説明、質疑、討論、採決－02号",
+      "archiveId": "671b4b06b868b8e3caaf",
+      "blocks": [
+        93,
+        94
+      ],
+      "billNumber": "議案第24号"
+    },
+    {
+      "date": "2026-06-12",
+      "actor": "東秩父村議会",
+      "stage": "開校準備委員の報酬・費用弁償の関連案も否決",
+      "detail": "議案第25号も原案への賛成の挙手がなく、否決された。",
+      "url": "https://ssp.kaigiroku.net/tenant/higashichichibu/SpMinuteView.html?tenant_id=91&council_id=115&schedule_id=3",
+      "sourceTitle": "東秩父村議会 東秩父村  令和　８年　　６月　定例会（第３回）  06月12日－議案説明、質疑、討論、採決－02号",
+      "archiveId": "671b4b06b868b8e3caaf",
+      "blocks": [
+        40,
+        94,
+        95,
+        96,
+        97
+      ],
+      "billNumber": "議案第25号"
+    },
+    {
+      "date": "2026-06-12",
+      "actor": "渡辺絹代、企画財政課長、総務課長",
+      "stage": "設置を見込んだ補正予算を質し、村が減額予定を説明",
+      "detail": "村は条例２案の否決で準備委員会関係経費が不要になったと説明。議案第28号は原案で可決され、村は後の補正で減額する予定とした。渡辺議員は条例の採決前に関連経費を含めた編成の仕方を質した。",
+      "url": "https://ssp.kaigiroku.net/tenant/higashichichibu/SpMinuteView.html?tenant_id=91&council_id=115&schedule_id=3",
+      "sourceTitle": "東秩父村議会 東秩父村  令和　８年　　６月　定例会（第３回）  06月12日－議案説明、質疑、討論、採決－02号",
+      "archiveId": "671b4b06b868b8e3caaf",
+      "blocks": [
+        125,
+        127,
+        129,
+        131,
+        160,
+        161
+      ],
+      "billNumber": "議案第28号",
+      "memberActions": [
+        {
+          "name": "渡辺絹代",
+          "blocks": [
+            127
+          ],
+          "detail": "設置条例が成立する見込みで関連案と補正経費を提出したことを取り上げ、予算編成を改めるか質問した。"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-01",
+      "actor": "東秩父村議会（公式通告）",
+      "stage": "広域的な学校運営に関する質問を通告に掲載",
+      "detail": "９月１日の予定表と詳細通告には、梅澤邦夫議員が、小川町などと広域的に学校を運営することの検討状況や、国の考え方との整合を問う予定と記載。実際の発言と答弁は未確認。",
+      "url": "https://www.vill.higashichichibu.saitama.jp/uploaded/life/8517_61127_misc.pdf#page=5",
+      "sourceTitle": "東秩父村議会 ９月一般質問通告 PDF５頁"
+    },
+    {
+      "date": "2026-09-11",
+      "actor": "東秩父村、東秩父村議会",
+      "stage": "準備委員会の関連経費13万6,000円を９月補正で減額",
+      "detail": "原案可決した議案第42号の補正予算書に、委員報酬９万6,000円、費用弁償１万6,000円、普通旅費１万8,000円、食糧費6,000円の減額を記載。４項目の合計は13万6,000円。",
+      "url": "https://www.vill.higashichichibu.saitama.jp/uploaded/attachment/6427.pdf#page=16",
+      "sourceTitle": "令和８年度一般会計補正予算（第２号・議案第42号） PDF16・17頁",
+      "archiveId": "dc46697668f19d0c406f",
+      "blocks": [
+        16,
+        17
+      ],
+      "billNumber": "議案第42号"
+    }
+  ],
+  "note": "答申と総合教育会議の方針、議員の質疑・討論、村議会の議決と補正予算を出典ごとに掲載。９月の通告は質問予定の資料。"
+});

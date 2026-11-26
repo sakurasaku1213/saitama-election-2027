@@ -40744,6 +40744,54 @@ GIKAI.questionText = {
       ]
     },
     {
+      "id": "5704fd4f3135554943a2",
+      "place": "東秩父村",
+      "season": "spring",
+      "date": "2026-01-13",
+      "title": "東秩父村過疎地域持続的発展計画の素案（１月13日時点）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.vill.higashichichibu.saitama.jp/uploaded/life/5341_53982_misc.pdf",
+      "note": "表示は素案の表紙の日付。意見募集時の資料。 文字層・OCRから頁順に転記。図表は原PDFで確認できます。",
+      "speakers": []
+    },
+    {
+      "id": "d2a081ec40a28dcfa0c2",
+      "place": "東秩父村",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "令和８年度 合併処理浄化槽設置管理事業会計の当初予算",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.vill.higashichichibu.saitama.jp/uploaded/attachment/6071.pdf",
+      "note": "表示は当初予算を審議した会期の年月。 文字層・OCRから頁順に転記。図表は原PDFで確認できます。",
+      "speakers": []
+    },
+    {
+      "id": "5de578e0b3cc7a619f12",
+      "place": "東秩父村",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "令和８年度 東秩父村当初予算書（一般会計・特別会計）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.vill.higashichichibu.saitama.jp/uploaded/attachment/6070.pdf",
+      "note": "表示は当初予算を審議した会期の年月。 文字層・OCRから頁順に転記。図表は原PDFで確認できます。 PDF 80・149頁は文字・表の確認中。",
+      "speakers": []
+    },
+    {
+      "id": "a3f2a8bf3cf497227d8b",
+      "place": "東秩父村",
+      "season": "spring",
+      "date": "2026-03",
+      "title": "令和８年度 簡易水道事業会計の当初予算",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.vill.higashichichibu.saitama.jp/uploaded/attachment/6073.pdf",
+      "note": "表示は当初予算を審議した会期の年月。 文字層・OCRから頁順に転記。図表は原PDFで確認できます。",
+      "speakers": []
+    },
+    {
       "id": "2c76822b2861a24d05bd",
       "place": "東秩父村",
       "season": "spring",
@@ -40775,6 +40823,18 @@ GIKAI.questionText = {
       "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
     },
     {
+      "id": "c7f1234413daeb0af37a",
+      "place": "東秩父村",
+      "season": "spring",
+      "date": "2026-03-06",
+      "title": "東秩父村過疎地域持続的発展計画（令和８～12年度の掲載本文）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.vill.higashichichibu.saitama.jp/uploaded/life/9821_61330_misc.pdf",
+      "note": "表示は計画議案第６号の議決日。村が掲載する計画本文。 文字層・OCRから頁順に転記。図表は原PDFで確認できます。",
+      "speakers": []
+    },
+    {
       "id": "fb7a43f60aed47fdd038",
       "place": "東秩父村",
       "season": "spring",
@@ -40785,6 +40845,30 @@ GIKAI.questionText = {
       "scope": "minutes",
       "speakers": [],
       "note": "公式の年度別目次と日付を照合し、当日の本会議録を収録しました。"
+    },
+    {
+      "id": "e356388e1a49a3511c59",
+      "place": "東秩父村",
+      "season": "spring",
+      "date": "2026-03-27",
+      "title": "東秩父村過疎地域持続的発展計画案への意見と村の回答",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.vill.higashichichibu.saitama.jp/uploaded/attachment/6069.pdf",
+      "note": "表示は募集結果ページの更新日。 文字層・OCRから頁順に転記。図表は原PDFで確認できます。",
+      "speakers": []
+    },
+    {
+      "id": "db4113af8aa02c953381",
+      "place": "東秩父村",
+      "season": "summer",
+      "date": "2026-05-26",
+      "title": "第１回東秩父村総合教育会議 会議録",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.vill.higashichichibu.saitama.jp/uploaded/life/2648_59336_misc.pdf",
+      "note": "表示は開催日。村長・教育委員会の会議。 文字層・OCRから頁順に転記。図表は原PDFで確認できます。",
+      "speakers": []
     },
     {
       "id": "f40e0c44b179f0c1dca8",
@@ -40805,6 +40889,18 @@ GIKAI.questionText = {
         "野口勝則",
         "鷹野明"
       ]
+    },
+    {
+      "id": "f5e04727a9189cb023fb",
+      "place": "東秩父村",
+      "season": "summer",
+      "date": "2026-06-12",
+      "title": "令和８年度一般会計補正予算（第１号・議案第28号）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.vill.higashichichibu.saitama.jp/uploaded/attachment/6343.pdf",
+      "note": "表示は村議会の議決日。 文字層・OCRから頁順に転記。図表は原PDFで確認できます。 PDF 5～8・10・12～24・26～30頁は文字・表の確認中。",
+      "speakers": []
     },
     {
       "id": "671b4b06b868b8e3caaf",
@@ -40874,6 +40970,54 @@ GIKAI.questionText = {
       "scope": "supporting",
       "url": "https://www.vill.higashichichibu.saitama.jp/uploaded/attachment/6425.pdf",
       "note": "９月１日開会。９月８日の原案認定６件、９月11日の原案可決10件。原表に議員別の票欄はありません。",
+      "speakers": []
+    },
+    {
+      "id": "dc46697668f19d0c406f",
+      "place": "東秩父村",
+      "season": "fall",
+      "date": "2026-09-11",
+      "title": "令和８年度一般会計補正予算（第２号・議案第42号）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.vill.higashichichibu.saitama.jp/uploaded/attachment/6427.pdf",
+      "note": "表示は村議会の議決日。16・17頁の学校教育共通経費の減額は原画像と照合。 文字層・OCRから頁順に転記。図表は原PDFで確認できます。 PDF 1～15・18～23頁は文字・表の確認中。",
+      "speakers": []
+    },
+    {
+      "id": "ffb7151789e2351448aa",
+      "place": "東秩父村",
+      "season": "fall",
+      "date": "2026-09-11",
+      "title": "令和８年度介護保険特別会計補正予算（第１号・議案第44号）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.vill.higashichichibu.saitama.jp/uploaded/attachment/6429.pdf",
+      "note": "表示は村議会の議決日。 文字層・OCRから頁順に転記。図表は原PDFで確認できます。 PDF 2・4～8頁は文字・表の確認中。",
+      "speakers": []
+    },
+    {
+      "id": "70a205cbd00051623b56",
+      "place": "東秩父村",
+      "season": "fall",
+      "date": "2026-09-11",
+      "title": "令和８年度国民健康保険特別会計補正予算（第１号・議案第43号）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.vill.higashichichibu.saitama.jp/uploaded/attachment/6428.pdf",
+      "note": "表示は村議会の議決日。 文字層・OCRから頁順に転記。図表は原PDFで確認できます。 PDF 2・5～7頁は文字・表の確認中。",
+      "speakers": []
+    },
+    {
+      "id": "646531e85cf04bac3ae6",
+      "place": "東秩父村",
+      "season": "fall",
+      "date": "2026-09-11",
+      "title": "令和８年度後期高齢者医療特別会計補正予算（第１号・議案第45号）",
+      "kind": "会議・政策の関連資料（公式PDF・OCR）",
+      "scope": "supporting",
+      "url": "https://www.vill.higashichichibu.saitama.jp/uploaded/attachment/6426.pdf",
+      "note": "表示は村議会の議決日。 文字層・OCRから頁順に転記。図表は原PDFで確認できます。 PDF 2・4～6頁は文字・表の確認中。",
       "speakers": []
     },
     {

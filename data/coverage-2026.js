@@ -9782,6 +9782,18 @@ GIKAI.coverage2026 = {
         {
           "label": "議決事項一覧",
           "url": "https://www.vill.higashichichibu.saitama.jp/uploaded/attachment/6060.pdf"
+        },
+        {
+          "label": "過疎地域持続的発展計画案・パブリックコメント結果",
+          "url": "https://www.vill.higashichichibu.saitama.jp/soshiki/00/higashichichibu-kaso-zizokuteki-hatten-keikaku-iken.html"
+        },
+        {
+          "label": "過疎地域持続的発展計画の公式案内",
+          "url": "https://www.vill.higashichichibu.saitama.jp/soshiki/00/higashichichibu-kasotiiki-jizokutekihatten-keikaku2.html"
+        },
+        {
+          "label": "当初予算の公式掲載一覧",
+          "url": "https://www.vill.higashichichibu.saitama.jp/soshiki/00/yosann.html"
         }
       ]
     },
@@ -9830,6 +9842,14 @@ GIKAI.coverage2026 = {
         {
           "label": "議決事項一覧",
           "url": "https://www.vill.higashichichibu.saitama.jp/uploaded/attachment/6298.pdf"
+        },
+        {
+          "label": "補正予算の公式掲載一覧",
+          "url": "https://www.vill.higashichichibu.saitama.jp/soshiki/00/hoseiyosann.html"
+        },
+        {
+          "label": "総合教育会議の議事録",
+          "url": "https://www.vill.higashichichibu.saitama.jp/soshiki/01/sougoukyouikukaigi.html"
         }
       ]
     },
@@ -9894,6 +9914,10 @@ GIKAI.coverage2026 = {
         {
           "label": "総合庁舎の供用予定・愛称募集",
           "url": "https://www.vill.higashichichibu.saitama.jp/site/sintyousyakensetu/sintyousya-aisyou-bosyuu.html"
+        },
+        {
+          "label": "補正予算の公式掲載一覧",
+          "url": "https://www.vill.higashichichibu.saitama.jp/soshiki/00/hoseiyosann.html"
         }
       ]
     },
