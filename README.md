@@ -4,10 +4,14 @@
 
 ## 閲覧
 
-リポジトリを展開し、`index.html` をブラウザで開けます。サーバーや外部APIへの登録は不要です。公開する場合は `index.html`、`assets/`、`data/` を同じ場所に配置します。単一HTMLにも書き出せます。
+公開版：https://sakurasaku1213.github.io/saitama-election-2027/ （このリポジトリの `main` を GitHub Pages で配信）
+
+Web版では、質問・答弁などの本文を資料を開いたときに `data/bodies/` から読み込みます。リポジトリを展開して `index.html` を直接（file://）開いた場合は、索引と出典は使えますが本文は表示されません。手元で本文まで見るには、リポジトリのルートで簡易サーバーを起動するか、本文付きの単一HTMLを書き出します。サーバーや外部APIへの登録は不要です。
 
 ```bash
-python tools/export_html.py /tmp/saitama-election-2027.html
+python -m http.server 8000   # http://localhost:8000/ を開く
+python tools/export_html.py /tmp/saitama-election-2027.html                                  # 本文なし
+python tools/export_html.py /tmp/saitama-questions.html --question-bodies data/bodies          # 本文付き（オフラインで読める）
 ```
 
 ## 収録範囲
@@ -22,7 +26,7 @@ python tools/export_html.py /tmp/saitama-election-2027.html
 
 ## 2026年の質問・答弁本文と政策の経過
 
-「質問・答弁の本文」で議会、会期、資料の種類から原典を探せます。通常版の索引からは公式資料を開きます。本文付き単一HTMLでは、取り込んだ本文をインターネット接続なしでも表示できます。
+「質問・答弁の本文」で議会、会期、資料の種類から原典を探せます。各資料から公式資料を開けるほか、Web版と本文付き単一HTMLでは取り込んだ本文を読めます（単一HTMLはインターネット接続なしでも表示できます）。
 
 正式会議録、県議会の速報版、議会だよりの編集要旨、PDFのOCR転記を区別しています。本文の収録状況は政策の経過の判定とは別です。[全192枠の本文の収録状況](docs/questions-2026.md) に出典と未収録の範囲があります。
 
@@ -36,11 +40,24 @@ python tools/export_html.py /tmp/saitama-election-2027.html
 
 「議案と賛否」では、川越市の３会期の議決102件を確認できます。議会だよりに会派等の表決が掲載された18件には、会派内の人数を記した原表の注記も反映しています。
 
-本文を取得・照合した作業端末では、索引と同じ版のローカル本文束を指定して書き出せます。同梱する本文は確認済みの手元閲覧用資料です。
+### 本文データの管理
+
+本文は資料ごとのJSON（`data/bodies/<IDの先頭2字>/<ID>.json`、`[[見出し, 本文], ...]`）でこのリポジトリに置いています。ほかのデータが本文を 1 始まりの位置（`blocks`）で指すため、配列の順は変えません。`data/question-bodies.js` に件数と全体の sha256 を記録しています。
+
+本文を取得・照合した作業端末では、確認済みの本文束（`{ID: [[見出し, 本文], ...]}`、索引 `data/question-text-2026.js` と同じ版）から分割ファイルを作り直してコミットします。束にない資料のファイルは消えます。`tools/check.mjs` は、分割ファイルと索引の対応、形、sha256、各データの `blocks` が本文の範囲に収まることを検査します。
 
 ```bash
-python tools/export_html.py /tmp/saitama-questions.html --question-bodies /path/to/body-private.json
+python tools/export_bodies.py /path/to/reviewed-bodies.json
+node tools/check.mjs
 ```
+
+## 出典・権利と訂正
+
+本文は、各議会・自治体等が公開した会議録・議案・通告・広報や公式録画を、出典ごとに転記・要約したものです。各資料の権利は作成した議会・自治体等にあり、原典は各資料の「公式資料の該当箇所」から開けます。
+
+OCR、AI（画像を読むモデル）による書き起こし・照合、機械文字起こし・自動字幕は資料の種類と注記で区別しており、原典・原音と照合しきれていない部分があります。議案の資料・請願・陳情・チラシ等に載った私人の氏名・住所・生年月日と、第三者の広告は省いています（会議録・録画は発言どおり収録しています）。
+
+誤り、削除の依頼、私人の情報の掲載などは [Issues](https://github.com/sakurasaku1213/saitama-election-2027/issues) でお知らせください。
 
 ## 2026年の資料の収録状況
 

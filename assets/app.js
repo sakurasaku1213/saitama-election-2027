@@ -507,7 +507,7 @@
     open: "追跡期間中",
   };
   function archivedMinutes(place, day, archiveId, blocks, linkLabel) {
-    if (!place || !get("question-text-bodies")) return "";
+    if (!place || !questionBodiesAvailable()) return "";
     const archive = D.questionText.documents.find((doc) =>
       archiveId ? doc.id === archiveId : doc.place === place && doc.date === day &&
         doc.scope !== "notice" && doc.scope !== "supporting");
@@ -1011,13 +1011,32 @@
     );
   }
 
+  // 本文は、単一HTMLでは埋め込み、Web版では data/bodies/ の資料ごとのファイルを開いたときに読む。
   let attachedQuestionBodies;
-  function questionBodies() {
+  const fetchedQuestionBodies = new Map();
+  function embeddedQuestionBodies() {
     if (attachedQuestionBodies === undefined) {
       const payload = get("question-text-bodies");
-      attachedQuestionBodies = payload ? JSON.parse(payload.textContent) : {};
+      attachedQuestionBodies = payload ? JSON.parse(payload.textContent) : null;
     }
     return attachedQuestionBodies;
+  }
+  function questionBodiesAvailable() {
+    return Boolean(get("question-text-bodies")) || (/^https?:$/.test(location.protocol) &&
+      Boolean(D.questionBodies?.base) && !document.body.hasAttribute("data-portable"));
+  }
+  function loadQuestionBody(id) {
+    const embedded = embeddedQuestionBodies();
+    if (embedded) return Promise.resolve(embedded[id]);
+    if (!fetchedQuestionBodies.has(id)) {
+      const request = fetch(`${D.questionBodies.base}${id.slice(0, 2)}/${id}.json`).then((response) => {
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        return response.json();
+      });
+      request.catch(() => fetchedQuestionBodies.delete(id));
+      fetchedQuestionBodies.set(id, request);
+    }
+    return fetchedQuestionBodies.get(id);
   }
   function questionTextControls() {
     section("質問・答弁の資料", "2026年の春・初夏・秋の会議録、発言通告、録画の文字起こしなどを議会と会期から探せます。");
@@ -1042,7 +1061,7 @@
     const source = `<div class="links">${link(entry.url, "公式資料の該当箇所")} ${related.join(" ")}</div>
       ${entry.note ? `<p class="small">${esc(entry.note)}</p>` : ""}
       ${entry.speakers?.length ? `<p class="small">${speakerLabel}　${entry.speakers.map(esc).join("、")}</p>` : ""}`;
-    const available = Boolean(get("question-text-bodies"));
+    const available = questionBodiesAvailable();
     return `<details class="entry question-document" data-question-id="${esc(entry.id)}"${open ? " open" : ""}>
       <summary><div>${doc}</div></summary><div class="detail-body">${source}
       ${available ? '<div class="question-body" data-question-body></div>' : ""}
@@ -1075,11 +1094,23 @@
     block.append(body);
     return block;
   }
-  function renderQuestionBody(card) {
+  async function renderQuestionBody(card) {
     if (!card.open) return;
     const target = card.querySelector("[data-question-body]");
-    if (!target || target.childElementCount) return;
-    const stored = questionBodies()[card.dataset.questionId];
+    if (!target || target.childElementCount || target.dataset.loading) return;
+    target.dataset.loading = "1";
+    if (!embeddedQuestionBodies()) target.textContent = "本文を読み込んでいます…";
+    let stored;
+    try {
+      stored = await loadQuestionBody(card.dataset.questionId);
+    } catch {
+      target.textContent = "本文を読み込めませんでした。時間をおいて開き直してください。";
+      return;
+    } finally {
+      delete target.dataset.loading;
+    }
+    if (!target.isConnected || target.childElementCount) return;
+    target.textContent = "";
     if (!stored) return;
     const column = document.createElement("div");
     const heading = document.createElement("h4");

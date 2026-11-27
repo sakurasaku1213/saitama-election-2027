@@ -1,8 +1,12 @@
-"""Package the live site and, optionally, a local transcript bundle."""
+"""Package the live site into one HTML file, optionally with the council text bodies embedded.
+
+The bodies can come from a reviewed bundle file or from the per-document files in data/bodies.
+"""
 import argparse
-import json
 from pathlib import Path
 import re
+
+from question_bodies import compact, load
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -10,31 +14,7 @@ ROOT = Path(__file__).resolve().parents[1]
 def render(question_bodies=None):
     document = (ROOT / "index.html").read_text(encoding="utf-8")
     if question_bodies is not None:
-        corpus = json.loads(question_bodies.read_text(encoding="utf-8"))
-        if not isinstance(corpus, dict):
-            raise ValueError("Expected question bodies keyed by document ID")
-        if not all(
-            isinstance(key, str)
-            and isinstance(sections, list)
-            and all(isinstance(section, list) and len(section) == 2
-                    and all(isinstance(part, str) for part in section)
-                    for section in sections)
-            for key, sections in corpus.items()
-        ):
-            raise ValueError("Invalid question body section")
-        prefix = "GIKAI.questionText = "
-        index_source = (ROOT / "data" / "question-text-2026.js").read_text(encoding="utf-8")
-        if not index_source.startswith(prefix):
-            raise ValueError("Unable to read the question-text index")
-        index, _ = json.JSONDecoder().raw_decode(index_source[len(prefix):])
-        keys = {entry["id"] for entry in index["documents"]}
-        missing = keys - corpus.keys()
-        extra = corpus.keys() - keys
-        if missing or extra:
-            raise ValueError(
-                f"Question-text index and body data differ: {len(missing)} missing, {len(extra)} extra"
-            )
-        payload = json.dumps(corpus, ensure_ascii=False, separators=(",", ":"))
+        payload = compact(load(question_bodies))
         payload = payload.replace("<", r"\u003c")
         before_app = '<script src="assets/app.js"></script>'
         if document.count(before_app) != 1:
@@ -62,7 +42,8 @@ def render(question_bodies=None):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("output", type=Path)
-    parser.add_argument("--question-bodies", type=Path, help="Include the locally staged council texts")
+    parser.add_argument("--question-bodies", type=Path,
+                        help="Embed the council texts: a reviewed bundle file or the data/bodies directory")
     args = parser.parse_args()
     destination = args.output.resolve()
     if destination == ROOT / "index.html":

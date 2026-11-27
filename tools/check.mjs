@@ -1,4 +1,5 @@
 import assert from "node:assert/strict";
+import { createHash } from "node:crypto";
 import { readFileSync, readdirSync } from "node:fs";
 import path from "node:path";
 import vm from "node:vm";
@@ -605,6 +606,50 @@ for (const v of data.localVotes) {
   validLink(v.url);
   assert.ok(Object.values(v.votes).every(Boolean));
 }
+// 本文の資料ごとのファイル（data/bodies）：資料一覧と過不足なく対応し、形と目録（件数・sha256）が合い、
+// データ中の archiveId＋blocks（1始まりの位置）が本文の長さに収まること。
+const bodyLengths = new Map();
+let bodyReferences = 0;
+{
+  const manifest = data.questionBodies;
+  assert.equal(manifest?.base, "data/bodies/");
+  const bodyRoot = path.join(root, "data", "bodies");
+  const files = new Map();
+  for (const folder of readdirSync(bodyRoot)) {
+    for (const name of readdirSync(path.join(bodyRoot, folder))) {
+      assert.match(name, /^[a-f0-9]{20}\.json$/, `${folder}/${name}`);
+      assert.equal(name.slice(0, 2), folder, name);
+      files.set(name.slice(0, -5), path.join(bodyRoot, folder, name));
+    }
+  }
+  assert.equal(files.size, questionDocs.length);
+  assert.equal(manifest.count, questionDocs.length);
+  const digest = createHash("sha256").update("{");
+  questionDocs.forEach((doc, i) => {
+    const file = files.get(doc.id);
+    assert.ok(file, doc.id);
+    // 作業ツリーは core.autocrlf で CRLF になる。JSON の文字列中の改行はエスケープ済みのため、行末だけをそろえる。
+    const text = readFileSync(file, "utf8").replace(/\r\n/g, "\n");
+    assert.ok(text.endsWith("\n") && !text.endsWith("\n\n"), doc.id);
+    const sections = JSON.parse(text);
+    assert.ok(Array.isArray(sections) && sections.every((s) => Array.isArray(s) && s.length === 2 &&
+      s.every((part) => typeof part === "string")), doc.id);
+    bodyLengths.set(doc.id, sections.length);
+    digest.update((i ? "," : "") + JSON.stringify(doc.id) + ":" + text.slice(0, -1));
+  });
+  assert.equal(digest.update("}").digest("hex"), manifest.sha256);
+  const visit = (value) => {
+    if (Array.isArray(value)) return value.forEach(visit);
+    if (!value || typeof value !== "object") return;
+    if (typeof value.archiveId === "string" && Array.isArray(value.blocks)) {
+      assert.ok(bodyLengths.has(value.archiveId), value.archiveId);
+      assert.ok(Math.max(...value.blocks) <= bodyLengths.get(value.archiveId), value.archiveId);
+      bodyReferences++;
+    }
+    Object.values(value).forEach(visit);
+  };
+  visit(Object.fromEntries(Object.entries(data).filter(([key]) => key !== "questionText")));
+}
 console.log(
   JSON.stringify(
     {
@@ -633,6 +678,8 @@ console.log(
       questionArchiveCouncils: new Set(questionDocs.map((doc) => doc.place)).size,
       questionArchiveSlots: docCouncilSeasons.size,
       questionArchiveNotices: questionDocs.filter((doc) => doc.scope === "notice").length,
+      questionBodyFiles: bodyLengths.size,
+      questionBodyReferences: bodyReferences,
       additionalDecisions: coverage.decisions.length,
       additionalRollCalls: coverage.decisions.filter((bill) => bill.votes && bill.voteType !== "会派等").length,
       additionalGroupVotes: coverage.decisions.filter((bill) => bill.voteType === "会派等").length,
