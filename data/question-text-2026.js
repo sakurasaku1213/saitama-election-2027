@@ -76312,6 +76312,515 @@ GIKAI.questionText = {
         "中山淳一"
       ],
       "note": "市議会が公表した代表・一般質問通告書（質問順序表と各人の質問項目）を原PDF全25頁収録（OCRルーターの出力、要確認なし）。議会が公表した事前の通告で、質問者21人の名前は収録済み資料の議員名と照合した。出典は市議会の資料検索システム（文書一覧＞本会議＞令和８年＞９月定例会＞代表・一般質問通告書、文書ID 15641・ファイルID 17472、日付2026年9月4日）。PDFは閲覧のたびに一時URLで配られるため、システムの入口を出典とした（ID・パスワードは不要の公開メニュー）。質問者21人は公式録画一覧の代表・一般質問21人と一致。実際の発言と答弁は議会だより・録画・正式会議録を参照。"
+    },
+    {
+      "id": "3dba4c74944f2b2e71d7",
+      "place": "八潮市",
+      "season": "fall",
+      "date": "2026-09-01",
+      "title": "09月01日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/yashio/SpMinuteView.html?tenant_id=233&council_id=139&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "岡部一正",
+        "林雄一"
+      ]
+    },
+    {
+      "id": "6e172691a78d3afb54b7",
+      "place": "八潮市",
+      "season": "fall",
+      "date": "2026-09-09",
+      "title": "09月09日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/yashio/SpMinuteView.html?tenant_id=233&council_id=139&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "二木和枝",
+        "内田亜希子",
+        "土屋茂樹",
+        "大島愛音",
+        "大泉芳行",
+        "小倉聖彦",
+        "小宮弘子",
+        "岡部一正",
+        "林雄一",
+        "池谷正",
+        "金子壮一"
+      ]
+    },
+    {
+      "id": "f57cbb4c8d7c68393fc4",
+      "place": "八潮市",
+      "season": "fall",
+      "date": "2026-09-15",
+      "title": "09月15日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/yashio/SpMinuteView.html?tenant_id=233&council_id=139&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "中江友哉",
+        "佐藤寛美",
+        "小倉聖彦",
+        "平山貴博",
+        "林雄一",
+        "池谷正",
+        "金子壮一"
+      ]
+    },
+    {
+      "id": "e5ecd2f74f57f1e436d3",
+      "place": "八潮市",
+      "season": "fall",
+      "date": "2026-09-16",
+      "title": "09月16日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/yashio/SpMinuteView.html?tenant_id=233&council_id=139&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "二木和枝",
+        "内田亜希子",
+        "前原鮎美",
+        "土屋茂樹",
+        "大島愛音",
+        "林雄一",
+        "篠原亮太"
+      ]
+    },
+    {
+      "id": "0dc224e33aad9291c717",
+      "place": "八潮市",
+      "season": "fall",
+      "date": "2026-09-17",
+      "title": "09月17日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/yashio/SpMinuteView.html?tenant_id=233&council_id=139&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "吉野雄喜",
+        "大泉芳行",
+        "小宮弘子",
+        "岡部一正",
+        "朝田和宏",
+        "林雄一"
+      ]
+    },
+    {
+      "id": "3cf2116f8daf4beeedfe",
+      "place": "八潮市",
+      "season": "fall",
+      "date": "2026-09-18",
+      "title": "09月18日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/yashio/SpMinuteView.html?tenant_id=233&council_id=139&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "二木和枝",
+        "前原鮎美",
+        "大島愛音",
+        "大泉芳行",
+        "小宮弘子",
+        "岡部一正",
+        "林雄一",
+        "池谷正",
+        "篠原亮太"
+      ]
+    },
+    {
+      "id": "1c0d78d165f98963499b",
+      "place": "吉川市",
+      "season": "fall",
+      "date": "2026-08-31",
+      "title": "08月31日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/yoshikawa/SpMinuteView.html?tenant_id=230&council_id=177&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "小野潔",
+        "稲葉剛治"
+      ]
+    },
+    {
+      "id": "02733e03826811a460dd",
+      "place": "吉川市",
+      "season": "fall",
+      "date": "2026-09-02",
+      "title": "09月02日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/yoshikawa/SpMinuteView.html?tenant_id=230&council_id=177&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "吉川敏幸",
+        "小野潔",
+        "岩崎小百合",
+        "岩田京子",
+        "松崎誠",
+        "遠藤義法",
+        "雪田きよみ"
+      ]
+    },
+    {
+      "id": "671f96b7666c477ea1cf",
+      "place": "吉川市",
+      "season": "fall",
+      "date": "2026-09-03",
+      "title": "09月03日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/yoshikawa/SpMinuteView.html?tenant_id=230&council_id=177&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "小野潔",
+        "岩崎小百合",
+        "岩田京子",
+        "遠藤義法",
+        "雪田きよみ"
+      ]
+    },
+    {
+      "id": "c4d24f892292677860d9",
+      "place": "吉川市",
+      "season": "fall",
+      "date": "2026-09-15",
+      "title": "09月15日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/yoshikawa/SpMinuteView.html?tenant_id=230&council_id=177&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "五十嵐惠千子",
+        "加藤克明",
+        "吉川敏幸",
+        "大泉日出男",
+        "小野潔",
+        "岩崎小百合",
+        "岩田京子",
+        "戸田馨",
+        "松崎誠",
+        "林美希",
+        "稲葉剛治",
+        "遠藤義法",
+        "降旗聡",
+        "雪田きよみ",
+        "飯島正義"
+      ]
+    },
+    {
+      "id": "b9f949b2497c62804941",
+      "place": "吉川市",
+      "season": "fall",
+      "date": "2026-09-16",
+      "title": "09月16日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/yoshikawa/SpMinuteView.html?tenant_id=230&council_id=177&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "五十嵐惠千子",
+        "加藤克明",
+        "大泉日出男",
+        "宮窪雅一",
+        "小野潔",
+        "岩田京子",
+        "遠藤義法",
+        "降旗聡"
+      ]
+    },
+    {
+      "id": "35e9878e1eef4a4169db",
+      "place": "吉川市",
+      "season": "fall",
+      "date": "2026-09-17",
+      "title": "09月17日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/yoshikawa/SpMinuteView.html?tenant_id=230&council_id=177&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "吉川敏幸",
+        "小野潔",
+        "岩崎小百合",
+        "松崎誠",
+        "雪田きよみ",
+        "飯島正義"
+      ]
+    },
+    {
+      "id": "21d7f71be6d6368fc746",
+      "place": "吉川市",
+      "season": "fall",
+      "date": "2026-09-18",
+      "title": "09月18日－07号",
+      "url": "https://ssp.kaigiroku.net/tenant/yoshikawa/SpMinuteView.html?tenant_id=230&council_id=177&schedule_id=8",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "五十嵐惠千子",
+        "宮窪雅一",
+        "小野潔",
+        "岩崎小百合",
+        "戸田馨",
+        "林美希",
+        "稲葉剛治",
+        "遠藤義法",
+        "野村拓郎",
+        "降旗聡",
+        "雪田きよみ"
+      ]
+    },
+    {
+      "id": "44167a27dad0491ab485",
+      "place": "吉川市",
+      "season": "fall",
+      "date": "2026-09-07",
+      "title": "吉川市 令和 ８年 ９月 総務健康常任委員会 09月07日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/yoshikawa/SpMinuteView.html?tenant_id=230&council_id=179&schedule_id=1",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "吉川敏幸",
+        "岩崎小百合",
+        "戸田馨",
+        "遠藤義法"
+      ]
+    },
+    {
+      "id": "df1277230f3309b571c2",
+      "place": "吉川市",
+      "season": "fall",
+      "date": "2026-09-08",
+      "title": "吉川市 令和 ８年 ９月 総務健康常任委員会 09月08日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/yoshikawa/SpMinuteView.html?tenant_id=230&council_id=179&schedule_id=2",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "宮窪雅一",
+        "岩崎小百合",
+        "戸田馨",
+        "遠藤義法"
+      ]
+    },
+    {
+      "id": "ebf5f1f2ddb04cb21aa1",
+      "place": "吉川市",
+      "season": "fall",
+      "date": "2026-09-07",
+      "title": "吉川市 令和 ８年 ９月 こども教育常任委員会 09月07日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/yoshikawa/SpMinuteView.html?tenant_id=230&council_id=176&schedule_id=1",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "大泉日出男",
+        "岩田京子",
+        "林美希",
+        "稲葉剛治",
+        "菊名克典",
+        "雪田きよみ"
+      ]
+    },
+    {
+      "id": "70d4ff12159bbaacce77",
+      "place": "吉川市",
+      "season": "fall",
+      "date": "2026-09-08",
+      "title": "吉川市 令和 ８年 ９月 こども教育常任委員会 09月08日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/yoshikawa/SpMinuteView.html?tenant_id=230&council_id=176&schedule_id=2",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "大泉日出男",
+        "岩田京子",
+        "林美希",
+        "稲葉剛治",
+        "菊名克典",
+        "雪田きよみ"
+      ]
+    },
+    {
+      "id": "e921a8287b2cb65fd743",
+      "place": "吉川市",
+      "season": "fall",
+      "date": "2026-09-09",
+      "title": "吉川市 令和 ８年 ９月 建設生活常任委員会 09月09日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/yoshikawa/SpMinuteView.html?tenant_id=230&council_id=178&schedule_id=1",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "五十嵐惠千子",
+        "松崎誠",
+        "野村拓郎",
+        "降旗聡",
+        "飯島正義"
+      ]
+    },
+    {
+      "id": "91c282accc8eafdce66f",
+      "place": "吉川市",
+      "season": "fall",
+      "date": "2026-09-10",
+      "title": "吉川市 令和 ８年 ９月 建設生活常任委員会 09月10日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/yoshikawa/SpMinuteView.html?tenant_id=230&council_id=178&schedule_id=2",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "五十嵐惠千子",
+        "松崎誠",
+        "野村拓郎",
+        "降旗聡",
+        "飯島正義"
+      ]
+    },
+    {
+      "id": "2bd613820b3551ef41d7",
+      "place": "羽生市",
+      "season": "fall",
+      "date": "2026-09-07",
+      "title": "09月07日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/hanyu/SpMinuteView.html?tenant_id=159&council_id=213&schedule_id=2",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "丑久保恒行",
+        "中島直樹",
+        "柳沢暁",
+        "西山丈由"
+      ]
+    },
+    {
+      "id": "bf3d59f113d90090ee09",
+      "place": "羽生市",
+      "season": "fall",
+      "date": "2026-09-15",
+      "title": "09月15日－02号",
+      "url": "https://ssp.kaigiroku.net/tenant/hanyu/SpMinuteView.html?tenant_id=159&council_id=213&schedule_id=3",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "丑久保恒行",
+        "中島直樹",
+        "小川明彦",
+        "小野田和男",
+        "川田真也",
+        "昆佳子",
+        "柳沢暁",
+        "田口さとる",
+        "西山丈由",
+        "野中一城",
+        "駒宮圭吾"
+      ]
+    },
+    {
+      "id": "3c8c011cb23e74c0724e",
+      "place": "羽生市",
+      "season": "fall",
+      "date": "2026-09-16",
+      "title": "09月16日－03号",
+      "url": "https://ssp.kaigiroku.net/tenant/hanyu/SpMinuteView.html?tenant_id=159&council_id=213&schedule_id=4",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "丑久保恒行",
+        "小川明彦",
+        "小野田和男",
+        "昆佳子",
+        "駒宮圭吾"
+      ]
+    },
+    {
+      "id": "9824a0e178aafa67d91f",
+      "place": "羽生市",
+      "season": "fall",
+      "date": "2026-09-17",
+      "title": "09月17日－04号",
+      "url": "https://ssp.kaigiroku.net/tenant/hanyu/SpMinuteView.html?tenant_id=159&council_id=213&schedule_id=5",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "丑久保恒行",
+        "小林誠弥",
+        "川田真也",
+        "田口さとる",
+        "西山丈由"
+      ]
+    },
+    {
+      "id": "4d0a39bdaf050f7ad826",
+      "place": "羽生市",
+      "season": "fall",
+      "date": "2026-09-18",
+      "title": "09月18日－05号",
+      "url": "https://ssp.kaigiroku.net/tenant/hanyu/SpMinuteView.html?tenant_id=159&council_id=213&schedule_id=6",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "丑久保恒行",
+        "中島直樹",
+        "島村勉",
+        "柳沢暁",
+        "野中一城"
+      ]
+    },
+    {
+      "id": "65140adc8cd1192afcfd",
+      "place": "羽生市",
+      "season": "fall",
+      "date": "2026-10-06",
+      "title": "10月06日－06号",
+      "url": "https://ssp.kaigiroku.net/tenant/hanyu/SpMinuteView.html?tenant_id=159&council_id=213&schedule_id=7",
+      "kind": "公式会議録（HTML）",
+      "scope": "minutes",
+      "note": "公式会議録の当日本文。質問のほか、その日の議事を含む場合があります。",
+      "speakers": [
+        "丑久保恒行",
+        "中島直樹",
+        "小野田和男",
+        "川田真也",
+        "昆佳子",
+        "柳沢暁",
+        "田口さとる",
+        "駒宮圭吾"
+      ]
+    },
+    {
+      "id": "2e6e0f32716b110518a4",
+      "place": "志木市",
+      "season": "fall",
+      "date": "2026-09-08",
+      "title": "志木市 令和 ８年 ９月 市民文教都市常任委員会 09月08日－01号",
+      "url": "https://ssp.kaigiroku.net/tenant/shiki/SpMinuteView.html?tenant_id=381&council_id=415&schedule_id=1",
+      "kind": "公式会議録（常任委員会）",
+      "scope": "minutes",
+      "note": "公式の会議録検索で会議名・日別目次・本文を照合しました。",
+      "speakers": [
+        "上野琢磨",
+        "古谷孝",
+        "吉澤富美夫",
+        "安藤圭介",
+        "岡島貴弘",
+        "鈴木潔",
+        "阿部竜一"
+      ]
     }
   ],
   "coverage": [
@@ -76712,9 +77221,9 @@ GIKAI.questionText = {
       "place": "羽生市",
       "season": "fall",
       "material": {
-        "state": "partial",
-        "note": "第256号の一般質問12人・39問答、議案質疑10問答、その他の見出しと補足17件を収録。公式通告８頁、一般質問12本と議案質疑14本の公式録画を照合。正式会議録は確認中。 公式録画の機械文字起こし一般質問10本・議案質疑14本を収録。",
-        "indexURL": "https://ssp.kaigiroku.net/tenant/hanyu/SpMinuteBrowse.html?tenant_id=159&view_years=2026"
+        "state": "verified",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/hanyu/SpMinuteBrowse.html?tenant_id=159&view_years=2026",
+        "note": "公式目次と照合した本会議の日別会議録6資料を収録。 第256号の一般質問12人・39問答、議案質疑10問答、その他の見出しと補足17件を収録。公式通告８頁、一般質問12本と議案質疑14本の公式録画を照合。 公式録画の機械文字起こし一般質問10本・議案質疑14本を収録。"
       }
     },
     {
@@ -76984,7 +77493,7 @@ GIKAI.questionText = {
       "material": {
         "state": "partial",
         "indexURL": "https://smart.discussvision.net/smart/tenant/shiki/WebView/rd/council.html?year=2026&council_id=48",
-        "note": "第214号の紙面３～８頁（分割PDF２～７頁）の一般質問12人の掲載問答と、その他の見出し26件を照合。発言日は公式録画目録と照合した。 総務厚生常任委員会の公式会議録２資料を収録。正式な本会議録は確認中。 公式録画の機械文字起こし一般質問1本を収録。"
+        "note": "第214号の紙面３～８頁（分割PDF２～７頁）の一般質問12人の掲載問答と、その他の見出し26件を照合。発言日は公式録画目録と照合した。 総務厚生常任委員会の公式会議録２資料を収録。正式な本会議録は確認中。 公式録画の機械文字起こし一般質問1本を収録。 市民文教都市常任委員会の公式会議録1資料も収録。"
       }
     },
     {
@@ -77144,9 +77653,9 @@ GIKAI.questionText = {
       "place": "八潮市",
       "season": "fall",
       "material": {
-        "state": "partial",
-        "note": "第127号PDF４～６頁の17人・17主題の質問と答弁、決算討論・委員会報告などを原紙面と照合。公式通告全２頁は17人・44項目。９月15日６人・16日６人・17日５人を公式録画・通告と照合。正式会議録は11月25日の年別目次で未掲載。 公式録画の機械文字起こし一般質問8本を収録。",
-        "indexURL": "https://ssp.kaigiroku.net/tenant/yashio/SpMinuteBrowse.html?tenant_id=233&view_years=2026"
+        "state": "verified",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/yashio/SpMinuteBrowse.html?tenant_id=233&view_years=2026",
+        "note": "公式目次と照合した本会議の日別会議録6資料を収録。 第127号PDF４～６頁の17人・17主題の質問と答弁、決算討論・委員会報告などを原紙面と照合。公式通告全２頁は17人・44項目。９月15日６人・16日６人・17日５人を公式録画・通告と照合。 公式録画の機械文字起こし一般質問8本を収録。"
       }
     },
     {
@@ -77360,9 +77869,9 @@ GIKAI.questionText = {
       "place": "吉川市",
       "season": "fall",
       "material": {
-        "state": "partial",
-        "note": "第211号の一般質問14人・17主題・26問答と、委員会・決算の17問答、討論14件などを原紙面と照合。一般質問通告23頁と議案質疑通告21頁、９月16～18日の公式録画14人。正式会議録は議会だより第211号によると12月上旬提供予定。 公式録画の機械文字起こし一般質問14本を収録。",
-        "indexURL": "https://ssp.kaigiroku.net/tenant/yoshikawa/SpMinuteBrowse.html?tenant_id=230&view_years=2026"
+        "state": "verified",
+        "indexURL": "https://ssp.kaigiroku.net/tenant/yoshikawa/SpMinuteBrowse.html?tenant_id=230&view_years=2026",
+        "note": "公式目次と照合した本会議の日別会議録7資料を収録。公式一覧の委員会6資料も収録。 第211号の一般質問14人・17主題・26問答と、委員会・決算の17問答、討論14件などを原紙面と照合。一般質問通告23頁と議案質疑通告21頁、９月16～18日の公式録画14人。 公式録画の機械文字起こし一般質問14本を収録。"
       }
     },
     {
